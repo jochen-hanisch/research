@@ -31,7 +31,7 @@ from tabulate import tabulate
 bib_filename = "Suchergebnisse.bib"
 
 # Zentrale Steuerung für Export-Flags
-export_fig_visual = True
+export_fig_visual = False
 
 # Export-Flags für Visualisierungen
 export_fig_clusteranalyse = export_fig_visual

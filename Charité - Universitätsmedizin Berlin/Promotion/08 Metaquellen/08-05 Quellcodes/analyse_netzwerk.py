@@ -22,7 +22,7 @@ import re
 import subprocess
 
 bib_filename = "Suchergebnisse.bib"
-export_fig_visual = True
+export_fig_visual = False
 
 # Optional: slugify-Funktion
 def slugify(value):
