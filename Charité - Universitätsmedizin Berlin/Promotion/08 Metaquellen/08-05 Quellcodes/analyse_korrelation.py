@@ -4,10 +4,12 @@ import os
 # Terminal leeren
 os.system('cls' if os.name == 'nt' else 'clear')
 
+from ci_template import plotly_template
 from datetime import datetime
 import bibtexparser
 import pandas as pd
 import numpy as np
+from scipy.stats import pearsonr
 
 import subprocess
 from slugify import slugify
@@ -26,6 +28,8 @@ import matplotlib.pyplot as plt
 
 # Debugging and Output
 from tabulate import tabulate
+
+theme = "light"  # "light" oder "dark"
 
 # Name der BibTeX-Datei für Exportzwecke
 bib_filename = "Suchergebnisse.bib"
@@ -83,19 +87,11 @@ bib_path = os.path.join("Research", "Charité - Universitätsmedizin Berlin", "S
 with open(bib_path, encoding='utf-8') as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 
-# Farben definieren
-colors = {
-    "background": "#003366",            # Hintergrundfarbe
-    "text": "#333333",                  # Textfarbe
-    "accent": "#663300",                # Akzentfarbe
-    "primaryLine": "#660066",           # Bildungswirkfaktor
-    "secondaryLine": "#cc6600",         # Bildungswirkindikator
-    "depthArea": "#006666",             # Kompetenzmessunsicherheit
-    "brightArea": "#66CCCC",            # Kompetenzentwicklungsunsicherheit
-    "positiveHighlight": "#336600",     # Positive Hervorhebung
-    "negativeHighlight": "#990000",     # Negative Hervorhebung
-    "white": "#ffffff"                  # Weiß
-}
+# Template aktivieren und Farben/Styles setzen
+plotly_template.set_theme(theme)
+from ci_template.plotly_template import get_colors, get_plot_styles, get_standard_layout
+colors = get_colors()
+plot_styles = get_plot_styles()
 
 # Aktuelles Datum
 current_date = datetime.now().strftime("%Y-%m-%d")
@@ -239,8 +235,6 @@ def interpret_correlation(x_term, y_term, correlation, min_corr, max_corr):
     else:
         return "Negativ verbunden"
 
-from scipy.stats import pearsonr
-
 def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_label, export_flag):
     """
     Visualisiert bivariate Korrelationen und zeigt Interpretationen sowie Signifikanz im Tooltip an.
@@ -342,10 +336,9 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
         color_continuous_scale=color_scale  # Dynamische Farbskala
     )
 
-    # Layout anpassen
     fig.update_traces(
         marker=dict(
-            line=dict(width=1)
+            line=dict(width=1, color=colors['background'])
         ),
         hovertemplate=(
             '<b>%{customdata[0]}</b><br>'
@@ -356,13 +349,25 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
         customdata=correlation_df[['x_term', 'p_value', 'significance']].to_numpy()
     )
 
+    # Standardlayout verwenden und ggf. ergänzen, Margin dynamisch für Responsivität
     fig.update_layout(
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        coloraxis_colorbar=dict(title='Korrelationswert'),  # Legende
+        get_standard_layout(
+            title=f'{title} (n={len(correlation_df)}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
+            x_title=x_label,
+            y_title=y_label
+        ),
+        xaxis=dict(
+            tickangle=-45,
+            automargin=True
+        ),  # Einheitlicher Winkel für X-Achsenbeschriftungen
+        yaxis=dict(
+            automargin=True
+        ),
+        coloraxis_colorbar=dict(title='Korrelationswert'),
         autosize=True,
-        margin=dict(l=0, r=0, t=40, b=40)
+        margin=dict(l=0, r=0, t=60, b=60),
+        height=None,
+        width=None
     )
     export_and_transfer_figure(
         fig,
@@ -454,7 +459,6 @@ def visualize_indizes_vs_indizes(export_flag):
 
 #======================================
 
-# Farben für die Cluster
 cluster_colors = {
     "0": colors['primaryLine'],    # Cluster 0
     "1": colors['secondaryLine'],  # Cluster 1
@@ -554,21 +558,21 @@ for cluster, label in cluster_labels.items():
 plot_title += f" | Quelle: {bib_filename.replace('.bib', '')}"
 fig_cluster = px.scatter_3d(
     df,
-    x='X_Dimension',  # X-Achse: Deduktive Dimension (Suchbegriffe)
-    y='Y_Dimension',  # Y-Achse: Deduktive Dimension (Kategorien)
-    z='Z_Dimension',  # Z-Achse: Deduktive Dimension (Forschungsfragen)
-    color='Cluster_Label',  # Cluster-Beschreibungen mit Umbrüchen
-    size='Point_Size',       # Dynamische Punktgröße basierend auf Wertigkeit
-    size_max=100,            # Maximale Punktgröße anpassen für bessere Sichtbarkeit
-    color_discrete_sequence=list(cluster_colors.values()),  # Farben für Cluster-Beschreibungen
+    x='X_Dimension',
+    y='Y_Dimension',
+    z='Z_Dimension',
+    color='Cluster_Label',
+    size='Point_Size',
+    size_max=100,
+    color_discrete_sequence=list(cluster_colors.values()),
     hover_data={
-        'Cluster_Label': True,           # Statische Cluster-Beschreibungen mit Umbrüchen
-        'X_Dimension': True,             # Deduktive Dimension: Suchbegriffe
-        'Y_Dimension': True,             # Deduktive Dimension: Kategorien
-        'Z_Dimension': True,             # Deduktive Dimension: Forschungsfragen
-        'Point_Size': True               # Dynamische Punktgröße
+        'Cluster_Label': True,
+        'X_Dimension': True,
+        'Y_Dimension': True,
+        'Z_Dimension': True,
+        'Point_Size': True
     },
-    title=plot_title,  # Dynamische Überschrift mit Silhouette-Score und Quelle
+    title=plot_title,
     labels={
         'X_Dimension': 'Suchbegriffe',
         'Y_Dimension': 'Kategorien',
@@ -578,61 +582,22 @@ fig_cluster = px.scatter_3d(
     }
 )
 
-# Layout anpassen
-fig_cluster.update_layout(
-    scene=dict(
-        xaxis=dict(
-            title='Suchbegriffe',  # Titel der X-Achse
-            showbackground=True,                       # Hintergrund anzeigen
-            backgroundcolor=colors['background'],      # Hintergrundfarbe
-            gridcolor=colors['white'],                 # Gitterlinienfarbe
-            zerolinecolor=colors['white'],             # Null-Linienfarbe
-            showline=True,                             # Achsenlinie anzeigen
-            tickcolor=colors['white'],                 # Tick-Farbe
-            titlefont=dict(size=12, color=colors['white'])  # Titelstil der Achse
-        ),
-        yaxis=dict(
-            title='Kategorien',    # Titel der Y-Achse
-            showbackground=True,
-            backgroundcolor=colors['background'],
-            gridcolor=colors['white'],
-            zerolinecolor=colors['white'],
-            showline=True,
-            tickcolor=colors['white'],
-            titlefont=dict(size=12, color=colors['white'])
-        ),
-        zaxis=dict(
-            title='Forschungsfragen',  # Titel der Z-Achse
-            showbackground=True,
-            backgroundcolor=colors['background'],
-            gridcolor=colors['white'],
-            zerolinecolor=colors['white'],
-            showline=True,
-            tickcolor=colors['white'],
-            titlefont=dict(size=12, color=colors['white'])
-        )
-    ),
-    plot_bgcolor=colors['background'],         # Plot-Hintergrundfarbe
-    paper_bgcolor=colors['background'],        # Papierhintergrundfarbe
-    font=dict(color=colors['white']),          # Schriftfarbe
-    showlegend=True,                           # Legende anzeigen
-    legend=dict(
-        title=dict(text="Cluster-Beschreibung", font=dict(size=12, color=colors['white'])),
-        font=dict(size=10, color=colors['white']),
-        bgcolor=colors['background'],          # Hintergrund der Legende
-        bordercolor=colors['white'],           # Rahmenfarbe der Legende
-        borderwidth=1                          # Rahmenbreite der Legende
-    ),
-    template="plotly_white"                    # Plotly-Template
+# Layout mit Standardlayout und individuellen Ergänzungen
+layout_cluster = get_standard_layout(
+    title=plot_title,
+    x_title='Suchbegriffe',
+    y_title='Kategorien'
 )
 
-# Plot anzeigen und ggf. exportieren
+fig_cluster.update_layout(
+    **layout_cluster
+)
+
 export_and_transfer_figure(
     fig_cluster,
     "clusteranalyse_kmeans_deduktiv",
     export_fig_clusteranalyse
 )
-
 
 # Berechnung der Korrelationen und Erstellung der Übersicht
 
@@ -734,27 +699,36 @@ def plot_average_correlation_plotly(summary_df):
         labels={"Korrelationstyp": "Korrelationstyp", "Durchschnittliche Korrelation": "Durchschnittliche Korrelation"},
         color="Durchschnittliche Korrelation",
         color_continuous_scale=[
-            [0.0, colors['negativeHighlight']], 
-            [0.5, colors['white']], 
+            [0.0, colors['negativeHighlight']],
+            [0.5, colors['white']],
             [1.0, colors['positiveHighlight']]
         ]
     )
 
     fig.update_layout(
-        xaxis_tickangle=-45,
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
+        get_standard_layout(
+            title=f"Durchschnittliche Korrelationen pro Korrelationstyp (n={len(summary_df)}, Stand: {current_date}) | Quelle: {bib_filename.replace('.bib', '')}",
+            x_title="Korrelationstyp",
+            y_title="Durchschnittliche Korrelation"
+        ),
+        xaxis=dict(
+            tickangle=-45,
+            automargin=True
+        ),
+        yaxis=dict(
+            automargin=True
+        ),
         coloraxis_colorbar=dict(title="Korrelationswert"),
         autosize=True,
-        margin=dict(l=0, r=0, t=40, b=40)
+        margin=dict(l=60, r=40, t=80, b=80),
+        height=None,
+        width=None
     )
     export_and_transfer_figure(
         fig,
         "summary_plot",
         export_fig_summary_plot
     )
-
 
 #============================
 # Aufruf Alle möglichen bivariaten Korrelationen visualisieren
