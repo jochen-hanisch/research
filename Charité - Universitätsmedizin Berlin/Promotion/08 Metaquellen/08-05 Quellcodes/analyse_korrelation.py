@@ -1,6 +1,25 @@
 
 import os
 
+# Import theme and all export_fig_... variables from central config before any use
+from config_korrelation import (
+    theme,
+    export_fig_visual,
+    export_fig_clusteranalyse,
+    export_fig_correlation_suchbegriffe_kategorien,
+    export_fig_correlation_fu_kategorien,
+    export_fig_correlation_fu_suchbegriffe,
+    export_fig_correlation_indizes_kategorien,
+    export_fig_correlation_indizes_suchbegriffe,
+    export_fig_correlation_fu_indizes,
+    export_fig_correlation_fu_fu,
+    export_fig_correlation_suchbegriffe_suchbegriffe,
+    export_fig_correlation_kategorien_kategorien,
+    export_fig_correlation_indizes_indizes,
+    export_fig_summary_plot,
+    bib_filename
+)
+
 # Terminal leeren
 os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -29,27 +48,7 @@ import matplotlib.pyplot as plt
 # Debugging and Output
 from tabulate import tabulate
 
-theme = "light"  # "light" oder "dark"
 
-# Name der BibTeX-Datei für Exportzwecke
-bib_filename = "Suchergebnisse.bib"
-
-# Zentrale Steuerung für Export-Flags
-export_fig_visual = False
-
-# Export-Flags für Visualisierungen
-export_fig_clusteranalyse = export_fig_visual
-export_fig_correlation_suchbegriffe_kategorien = export_fig_visual
-export_fig_correlation_fu_kategorien = export_fig_visual
-export_fig_correlation_fu_suchbegriffe = export_fig_visual
-export_fig_correlation_indizes_kategorien = export_fig_visual
-export_fig_correlation_indizes_suchbegriffe = export_fig_visual
-export_fig_correlation_fu_indizes = export_fig_visual
-export_fig_correlation_fu_fu = export_fig_visual
-export_fig_correlation_suchbegriffe_suchbegriffe = export_fig_visual
-export_fig_correlation_kategorien_kategorien = export_fig_visual
-export_fig_correlation_indizes_indizes = export_fig_visual
-export_fig_summary_plot = export_fig_visual
 
 # Universelle Hilfsfunktion für Export und Titelmanipulation
 def prepare_figure_export(fig, name):

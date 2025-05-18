@@ -1,4 +1,6 @@
 
+from config_netzwerk import theme, export_fig_visual, bib_filename
+
 import os
 
 # Clear the terminal
@@ -24,8 +26,6 @@ import math
 import re
 import subprocess
 
-export_fig_visual = False       # Expot der Visualsierungen gesamt
-theme = "light"                  # Optionen: "dark" oder "light"
 
 # Template
 from ci_template import plotly_template
@@ -33,7 +33,6 @@ plotly_template.set_theme(theme)
 pd.set_option('display.max_columns', None)
 pd.set_option('future.no_silent_downcasting', True)
 
-bib_filename = "Suchergebnisse.bib"
 
 # Optional: slugify-Funktion
 def slugify(value):
@@ -47,22 +46,22 @@ def prepare_figure_export(fig, name):
     safe_filename = slugify(f"{name}_{bib_filename.replace('.bib', '')}")
     return f"{safe_filename}.html"
 
+
 # Zentraler Schalter für Export-Flags
-
-# Export-Flags für Visualisierungen (abhängig vom zentralen Schalter)
-export_fig_visualize_network = export_fig_visual
-export_fig_visualize_tags = export_fig_visual
-export_fig_visualize_index = export_fig_visual
-export_fig_visualize_research_questions = export_fig_visual
-export_fig_visualize_categories = export_fig_visual
-export_fig_visualize_time_series = export_fig_visual
-export_fig_visualize_top_authors = export_fig_visual
-export_fig_visualize_top_publications = export_fig_visual
-export_fig_create_path_diagram = export_fig_visual
-export_fig_create_sankey_diagram = export_fig_visual
-export_fig_visualize_sources_status = export_fig_visual
-export_fig_create_wordcloud_from_titles = export_fig_visual
-
+from config_netzwerk import (
+    export_fig_visualize_network,
+    export_fig_visualize_tags,
+    export_fig_visualize_index,
+    export_fig_visualize_research_questions,
+    export_fig_visualize_categories,
+    export_fig_visualize_time_series,
+    export_fig_visualize_top_authors,
+    export_fig_visualize_top_publications,
+    export_fig_create_path_diagram,
+    export_fig_create_sankey_diagram,
+    export_fig_visualize_sources_status,
+    export_fig_create_wordcloud_from_titles
+)
 
 # Zentrale Exportfunktion für Visualisierungen
 def export_figure(fig, name, flag, bib_filename=None):
