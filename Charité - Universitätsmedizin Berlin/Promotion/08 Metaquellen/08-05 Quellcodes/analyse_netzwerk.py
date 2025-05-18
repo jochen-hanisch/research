@@ -4,6 +4,9 @@ import os
 # Clear the terminal
 os.system('cls' if os.name == 'nt' else 'clear')
 
+import sys
+sys.path.append('/Users/jochenhanisch-johannsen/Documents/scripte/ci_template')
+
 import bibtexparser
 import pandas as pd
 import numpy as np
@@ -21,8 +24,16 @@ import math
 import re
 import subprocess
 
+export_fig_visual = False       # Expot der Visualsierungen gesamt
+theme = "dark"                  # Optionen: "dark" oder "light"
+
+# Template
+from ci_template import plotly_template
+plotly_template.set_theme(theme)
+pd.set_option('display.max_columns', None)
+pd.set_option('future.no_silent_downcasting', True)
+
 bib_filename = "Suchergebnisse.bib"
-export_fig_visual = False
 
 # Optional: slugify-Funktion
 def slugify(value):
@@ -68,19 +79,11 @@ def export_figure(fig, name, flag, bib_filename=None):
             print("❌ Fehler beim Übertragen:")
             print(e.stderr)
 
-# Farben definieren
-colors = {
-    "background": "#003366",            # Hintergrundfarbe
-    "text": "#333333",                  # Textfarbe
-    "accent": "#663300",                # Akzentfarbe
-    "primaryLine": "#660066",           # Bildungswirkfaktor
-    "secondaryLine": "#cc6600",         # Bildungswirkindikator
-    "depthArea": "#006666",             # Kompetenzmessunsicherheit
-    "brightArea": "#66CCCC",            # Kompetenzentwicklungsunsicherheit
-    "positiveHighlight": "#336600",     # Positive Hervorhebung
-    "negativeHighlight": "#990000",     # Negative Hervorhebung
-    "white": "#ffffff"                  # Weiß
-}
+from ci_template.plotly_template import get_colors, get_plot_styles, get_standard_layout
+
+# Farben und Plot-Styles zentral aus Template laden
+colors = get_colors()
+plot_styles = get_plot_styles()
 
 # Liste der Farben, die für die Wörter verwendet werden sollen
 word_colors = [
@@ -267,7 +270,7 @@ def visualize_network(bib_database):
 
     edge_trace = go.Scatter(
         x=edge_x, y=edge_y,
-        line=dict(width=0.5, color=colors['white']),
+        line=plot_styles['linie_secondaryLine'],
         hoverinfo='none',
         mode='lines')
 
@@ -290,6 +293,16 @@ def visualize_network(bib_database):
             tertiary_nodes.append(node_data)
 
     def create_node_trace(nodes, name, color):
+        # Wähle Punktstil je nach color
+        if color == colors['primaryLine']:
+            marker_style = plot_styles['punkt_primaryLine'].copy()
+        elif color == colors['secondaryLine']:
+            marker_style = plot_styles['punkt_secondaryLine'].copy()
+        elif color == colors['brightArea']:
+            marker_style = plot_styles['punkt_brightArea'].copy()
+        else:
+            marker_style = dict(color=color)
+        marker_style['size'] = [n['size'] for n in nodes]
         return go.Scatter(
             x=[n['x'] for n in nodes],
             y=[n['y'] for n in nodes],
@@ -297,13 +310,9 @@ def visualize_network(bib_database):
             text=[n['text'] for n in nodes],
             hovertext=[n['hovertext'] for n in nodes],
             hoverinfo='text',
-            marker=dict(
-                size=[n['size'] for n in nodes],
-                color=color,
-                line_width=2
-            ),
+            marker=marker_style,
             textposition="top center",
-            textfont=dict(size=12),
+            textfont=dict(size=10, color=colors['white']),
             name=name
         )
 
@@ -311,42 +320,15 @@ def visualize_network(bib_database):
     secondary_trace = create_node_trace(secondary_nodes, "Sekundäre Begriffe", colors['secondaryLine'])
     tertiary_trace = create_node_trace(tertiary_nodes, "Tertiäre Begriffe", colors['brightArea'])
 
-    fig = go.Figure(data=[edge_trace, primary_trace, secondary_trace, tertiary_trace],
-                    layout=go.Layout(
-                        title=f'Suchbegriff-Netzwerk nach Relevanz und Semantik (n={sum(fundzahlen.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
-                        titlefont_size=16,
-                        showlegend=True,
-                        legend=dict(
-                            bgcolor=colors['background'],
-                            bordercolor=colors['white'],
-                            borderwidth=1,
-                            font=dict(color=colors['white']),
-                            itemsizing='constant'
-                        ),
-                        hovermode='closest',
-                        margin=dict(b=20, l=5, r=5, t=40),
-                        xaxis=dict(
-                            range=[x_scale_min, x_scale_max + 1],
-                            showgrid=True,
-                            zeroline=True,
-                            tickmode='linear',
-                            tick0=x_scale_min,
-                            dtick=(x_scale_max - x_scale_min) / 4,
-                            title='Technologische Dimension'
-                        ),
-                        yaxis=dict(
-                            range=[y_scale_min, y_scale_max + 1],
-                            showgrid=True,
-                            zeroline=True,
-                            tickmode='linear',
-                            tick0=y_scale_min,
-                            dtick=(y_scale_max - y_scale_min) / 4,
-                            title='Pädagogische Dimension'
-                        ),
-                        plot_bgcolor=colors['background'],
-                        paper_bgcolor=colors['background'],
-                        font=dict(color=colors['white'])
-                    ))
+    fig = go.Figure(data=[edge_trace, primary_trace, secondary_trace, tertiary_trace])
+    layout = get_standard_layout(
+        title=f"Suchbegriff-Netzwerk nach Relevanz und Semantik (n={sum(fundzahlen.values())}, Stand: {current_date})",
+        x_title="Technologische Dimension",
+        y_title="Pädagogische Dimension"
+    )
+    layout["margin"] = dict(b=20, l=5, r=5, t=40)
+    layout["hovermode"] = "closest"
+    fig.update_layout(**layout)
 
     fig.show()
     export_figure(fig, "visualize_network", export_fig_visualize_network, bib_filename)
@@ -434,26 +416,18 @@ def visualize_tags(bib_database):
         data,
         x='Tag',
         y='Count',
-        title=f'Häufigkeit der Suchbegriffe in der Literaturanalyse (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
+        title=f'Häufigkeit der Suchbegriffe in der Literaturanalyse (n={total_count}, Stand: {current_date})',
         labels={'Tag': 'Tag', 'Count': 'Anzahl der Vorkommen'},
         color='Type',
         color_discrete_map=color_map,
         text_auto=True
     )
 
-    # Layout anpassen
-    fig.update_layout(
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        margin=dict(l=0, r=0, t=40, b=40),
-        autosize=True
-    )
-
-    fig.update_traces(
-        marker_line_color=colors['white'],
-        marker_line_width=1.5
-    )
+    fig.update_layout(**get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Tag',
+        y_title='Anzahl der Vorkommen'
+    ))
 
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_tags", export_fig_visualize_tags, bib_filename)
@@ -488,18 +462,13 @@ def visualize_index(bib_database):
     print(f"Häufigkeit Indizes (Gesamtanzahl: {total_count}):")
     print(tabulate(index_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(index_data, x='Index', y='Count', title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
-
-    fig.update_layout(
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        margin=dict(l=0, r=0, t=40, b=40),
-        autosize=True
-    )
-
-    fig.update_traces(marker_color=colors['primaryLine'], marker_line_color=colors['white'], marker_line_width=1.5)
-
+    fig = px.bar(index_data, x='Index', y='Count', title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date})', labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig.update_layout(**get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Index',
+        y_title='Anzahl der Vorkommen'
+    ))
+    fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_index", export_fig_visualize_index, bib_filename)
 
@@ -534,18 +503,13 @@ def visualize_research_questions(bib_database):
     print(f"Häufigkeit Forschungsunterfragen (Gesamtanzahl: {total_count}):")
     print(tabulate(rq_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(rq_data_df, x='Research_Question', y='Count', title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
-
-    fig.update_layout(
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        margin=dict(l=0, r=0, t=40, b=40),
-        autosize=True
-    )
-
-    fig.update_traces(marker_color=colors['primaryLine'], marker_line_color=colors['white'], marker_line_width=1.5)
-
+    fig = px.bar(rq_data_df, x='Research_Question', y='Count', title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date})', labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig.update_layout(**get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Forschungsunterfrage',
+        y_title='Anzahl der Vorkommen'
+    ))
+    fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_research_questions", export_fig_visualize_research_questions, bib_filename)
 
@@ -575,18 +539,13 @@ def visualize_categories(bib_database):
     print(f"Häufigkeit Kategorien (Gesamtanzahl: {total_count}):")
     print(tabulate(cat_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(cat_data_df, x='Category', y='Count', title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
-
-    fig.update_layout(
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        margin=dict(l=0, r=0, t=40, b=40),
-        autosize=True
-    )
-
-    fig.update_traces(marker_color=colors['primaryLine'], marker_line_color=colors['white'], marker_line_width=1.5)
-
+    fig = px.bar(cat_data_df, x='Category', y='Count', title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date})', labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig.update_layout(**get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Kategorie',
+        y_title='Anzahl der Vorkommen'
+    ))
+    fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_categories", export_fig_visualize_categories, bib_filename)
 
@@ -616,24 +575,21 @@ def visualize_time_series(bib_database):
             df,
             x='Year',
             y='Count',
-            title=f'Jährliche Veröffentlichungen in der Literaturanalyse (n={sum(year_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
+            title=f'Jährliche Veröffentlichungen in der Literaturanalyse (n={sum(year_counts.values())}, Stand: {current_date})',
             labels={'Year': 'Jahr', 'Count': 'Anzahl der Veröffentlichungen'}
         )
-
-        fig.update_layout(
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font=dict(color=colors['white']),
-            xaxis=dict(
-                tickmode='linear',
-                dtick=2,
-                tick0=min(publication_years)
-            ),
-            margin=dict(l=0, r=0, t=40, b=40),
-            autosize=True
+        layout = get_standard_layout(
+            title=fig.layout.title.text,
+            x_title='Jahr',
+            y_title='Anzahl der Veröffentlichungen'
         )
-
-        fig.update_traces(line=dict(color=colors['secondaryLine'], width=3))
+        layout["xaxis"] = dict(
+            tickmode='linear',
+            dtick=2,
+            tick0=min(publication_years)
+        )
+        fig.update_layout(**layout)
+        fig.update_traces(line=plot_styles['linie_secondaryLine'])
         fig.show(config={"responsive": True})
         export_figure(fig, "visualize_time_series", export_fig_visualize_time_series, bib_filename)
     else:
@@ -653,16 +609,13 @@ def visualize_top_authors(bib_database):
     if top_authors:
         df = pd.DataFrame(top_authors, columns=['Author', 'Count'])
 
-        fig = px.bar(df, x='Author', y='Count', title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={sum(author_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'}, text_auto=True)
-        fig.update_layout(
-            plot_bgcolor=colors['background'],
-            paper_bgcolor=colors['background'],
-            font=dict(color=colors['white']),
-            margin=dict(l=0, r=0, t=40, b=40),
-            autosize=True
-        )
-        fig.update_traces(marker_color=colors['primaryLine'], marker_line_color=colors['white'], marker_line_width=1.5)
-
+        fig = px.bar(df, x='Author', y='Count', title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={sum(author_counts.values())}, Stand: {current_date})', labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'}, text_auto=True)
+        fig.update_layout(**get_standard_layout(
+            title=fig.layout.title.text,
+            x_title='Autor',
+            y_title='Anzahl der Werke'
+        ))
+        fig.update_traces(marker=plot_styles['balken_primaryLine'])
         fig.show(config={"responsive": True})
         export_figure(fig, "visualize_top_authors", export_fig_visualize_top_authors, bib_filename)
     else:
@@ -695,19 +648,16 @@ def visualize_top_publications(bib_database):
 
     df = pd.DataFrame(publication_data)
     
-    fig = px.bar(df, x='Title', y='Count', title=f'Häufig zitierte Publikationen in der Analyse (Top {top_n}, n={sum(publication_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Title': 'Titel', 'Count': 'Anzahl der Nennungen'})
-    
-    fig.update_layout(
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        xaxis_tickangle=-45,
-        margin=dict(l=0, r=0, t=40, b=40),
-        autosize=True
+    fig = px.bar(df, x='Title', y='Count', title=f'Häufig zitierte Publikationen in der Analyse (Top {top_n}, n={sum(publication_counts.values())}, Stand: {current_date})', labels={'Title': 'Titel', 'Count': 'Anzahl der Nennungen'})
+    layout = get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Titel',
+        y_title='Anzahl der Nennungen'
     )
-    
-    fig.update_traces(marker_color=colors['primaryLine'], marker_line_color=colors['white'], marker_line_width=1.5)
-    
+    layout["xaxis"] = layout.get("xaxis", {})
+    layout["xaxis"]["tickangle"] = -45
+    fig.update_layout(**layout)
+    fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_top_publications", export_fig_visualize_top_publications, bib_filename)
 
@@ -823,7 +773,7 @@ def create_path_diagram(data):
         node=dict(
             pad=15,
             thickness=20,
-            line=dict(color=colors['white'], width=0.5),
+            line=dict(color="black", width=0.5),
             label=labels,
             color=node_colors
         ),
@@ -833,14 +783,13 @@ def create_path_diagram(data):
             value=values
         )
     )])
-
-    fig.update_layout(
-        title_text=f'Kategorischer Analysepfad der Literatur (n={len(data)}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
-        font=dict(size=10, color=colors['white']),
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background']
+    layout = get_standard_layout(
+        title=f'Kategorischer Analysepfad der Literatur (n={len(data)}, Stand: {current_date})',
+        x_title='',
+        y_title=''
     )
-
+    layout["font"] = dict(size=10, color=colors['white'])
+    fig.update_layout(**layout)
     fig.show()
     export_figure(fig, "create_path_diagram", export_fig_create_path_diagram, bib_filename)
 
@@ -950,30 +899,26 @@ def create_sankey_diagram(bib_database):
     # Sankey-Diagramm erstellen
     fig = go.Figure(go.Sankey(
         node=dict(
-            pad=15,
-            thickness=20,
-            line=dict(color="black", width=0.5),
+            **plot_styles["sankey_node"],
             label=node_labels,
             color=node_colors
         ),
         link=dict(
+            **plot_styles["sankey_link"],
             source=sources,
             target=targets,
-            value=values,
-            hoverinfo='all',  # Zeigt detaillierte Infos bei Mouseover an
-            color=colors['accent']
+            value=values
         )
     ))
-
     # Layout anpassen
-    fig.update_layout(
-        title_text=f"Flussdiagramm der Literaturselektion (Stichprobe: n={sample_size}, Stand: {current_date}) | Quelle: {bib_filename.replace('.bib', '')}",
-        font_size=12,  # Größere Schriftgröße für bessere Lesbarkeit
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white'])
+    layout = get_standard_layout(
+        title=f"Flussdiagramm der Literaturselektion (Stichprobe: n={sample_size}, Stand: {current_date})",
+        x_title='',
+        y_title=''
     )
-
+    layout["font"] = layout.get("font", {})
+    layout["font"]["size"] = 12
+    fig.update_layout(**layout)
     fig.show()
     export_figure(fig, "create_sankey_diagram", export_fig_create_sankey_diagram, bib_filename)
 
@@ -1073,35 +1018,29 @@ def visualize_sources_status(bib_database):
     ))
 
     fig = go.Figure()
-
     fig.add_trace(go.Bar(
         x=tags,
         y=analysiert_values,
         name='Analysiert',
         marker=dict(color=analysiert_colors)
     ))
-
     fig.add_trace(go.Bar(
         x=tags,
         y=nicht_analysiert_values,
         name='Nicht-Analysiert',
-        marker=dict(color=colors['primaryLine'])
+        marker=plot_styles['balken_primaryLine']
     ))
-
-    fig.update_layout(
-        barmode='stack',
-        title=f'Analyse- und Stichprobenstatus je Suchordner (n={sum(counts["Identifiziert"] for counts in source_data.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
-        xaxis_title='Suchbegriffsordner',
-        yaxis_title='Anzahl der Quellen',
-        plot_bgcolor=colors['background'],
-        paper_bgcolor=colors['background'],
-        font=dict(color=colors['white']),
-        xaxis=dict(
-            categoryorder='array',
-            categoryarray=search_folder_tags
-        )
+    layout = get_standard_layout(
+        title=f'Analyse- und Stichprobenstatus je Suchordner (n={sum(counts["Identifiziert"] for counts in source_data.values())}, Stand: {current_date})',
+        x_title='Suchbegriffsordner',
+        y_title='Anzahl der Quellen'
     )
-
+    layout["barmode"] = "stack"
+    layout["xaxis"] = dict(
+        categoryorder='array',
+        categoryarray=search_folder_tags
+    )
+    fig.update_layout(**layout)
     fig.show()
     export_figure(fig, "visualize_sources_status", export_fig_visualize_sources_status, bib_filename)
 
