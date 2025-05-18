@@ -25,7 +25,7 @@ import re
 import subprocess
 
 export_fig_visual = False       # Expot der Visualsierungen gesamt
-theme = "dark"                  # Optionen: "dark" oder "light"
+theme = "light"                  # Optionen: "dark" oder "light"
 
 # Template
 from ci_template import plotly_template
@@ -119,7 +119,6 @@ def calculate_sample_size(N, Z=1.96, p=0.5, e=0.05):
     n = n_0 / (1 + ((n_0 - 1) / N))
     return math.ceil(n)
 
-# Visualisierung 1: Netzwerkanalyse
 # Visualisierung 1: Netzwerkanalyse
 def visualize_network(bib_database):
     search_terms = {
@@ -303,6 +302,8 @@ def visualize_network(bib_database):
         else:
             marker_style = dict(color=color)
         marker_style['size'] = [n['size'] for n in nodes]
+        # Erhöhe Kontrast Marker-Rand zum Hintergrund
+        marker_style['line'] = {'width': 1, 'color': colors['background']}
         return go.Scatter(
             x=[n['x'] for n in nodes],
             y=[n['y'] for n in nodes],
@@ -312,7 +313,7 @@ def visualize_network(bib_database):
             hoverinfo='text',
             marker=marker_style,
             textposition="top center",
-            textfont=dict(size=10, color=colors['white']),
+            textfont=dict(size=12, color=colors['text']),
             name=name
         )
 
@@ -326,11 +327,14 @@ def visualize_network(bib_database):
         x_title="Technologische Dimension",
         y_title="Pädagogische Dimension"
     )
-    layout["margin"] = dict(b=20, l=5, r=5, t=40)
+    layout["margin"] = dict(b=160, l=5, r=5, t=40)
     layout["hovermode"] = "closest"
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["autosize"] = True
     fig.update_layout(**layout)
 
-    fig.show()
+    fig.show(config={"responsive": True})
     export_figure(fig, "visualize_network", export_fig_visualize_network, bib_filename)
 
     # Einfache Pfadanalyse nach dem Anzeigen der Figur
@@ -423,11 +427,19 @@ def visualize_tags(bib_database):
         text_auto=True
     )
 
-    fig.update_layout(**get_standard_layout(
+    layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Tag',
         y_title='Anzahl der Vorkommen'
-    ))
+    )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
+    layout["xaxis"] = layout.get("xaxis", {})
+    layout["xaxis"]["tickangle"] = -45
+    layout["xaxis"]["automargin"] = True
+    layout["autosize"] = True
+    fig.update_layout(**layout)
 
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_tags", export_fig_visualize_tags, bib_filename)
@@ -463,11 +475,19 @@ def visualize_index(bib_database):
     print(tabulate(index_data, headers="keys", tablefmt="grid"))
 
     fig = px.bar(index_data, x='Index', y='Count', title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date})', labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
-    fig.update_layout(**get_standard_layout(
+    layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Index',
         y_title='Anzahl der Vorkommen'
-    ))
+    )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
+    layout["xaxis"] = layout.get("xaxis", {})
+    layout["xaxis"]["tickangle"] = -45
+    layout["xaxis"]["automargin"] = True
+    layout["autosize"] = True
+    fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_index", export_fig_visualize_index, bib_filename)
@@ -504,11 +524,19 @@ def visualize_research_questions(bib_database):
     print(tabulate(rq_data, headers="keys", tablefmt="grid"))
 
     fig = px.bar(rq_data_df, x='Research_Question', y='Count', title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date})', labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
-    fig.update_layout(**get_standard_layout(
+    layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Forschungsunterfrage',
         y_title='Anzahl der Vorkommen'
-    ))
+    )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
+    layout["xaxis"] = layout.get("xaxis", {})
+    layout["xaxis"]["tickangle"] = -45
+    layout["xaxis"]["automargin"] = True
+    layout["autosize"] = True
+    fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_research_questions", export_fig_visualize_research_questions, bib_filename)
@@ -540,11 +568,19 @@ def visualize_categories(bib_database):
     print(tabulate(cat_data, headers="keys", tablefmt="grid"))
 
     fig = px.bar(cat_data_df, x='Category', y='Count', title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date})', labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
-    fig.update_layout(**get_standard_layout(
+    layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Kategorie',
         y_title='Anzahl der Vorkommen'
-    ))
+    )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
+    layout["xaxis"] = layout.get("xaxis", {})
+    layout["xaxis"]["tickangle"] = -45
+    layout["xaxis"]["automargin"] = True
+    layout["autosize"] = True
+    fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_categories", export_fig_visualize_categories, bib_filename)
@@ -588,6 +624,9 @@ def visualize_time_series(bib_database):
             dtick=2,
             tick0=min(publication_years)
         )
+        layout["font"] = {"size": 14, "color": colors['text']}
+        layout["title"] = {"font": {"size": 16}}
+        layout["autosize"] = True
         fig.update_layout(**layout)
         fig.update_traces(line=plot_styles['linie_secondaryLine'])
         fig.show(config={"responsive": True})
@@ -610,11 +649,19 @@ def visualize_top_authors(bib_database):
         df = pd.DataFrame(top_authors, columns=['Author', 'Count'])
 
         fig = px.bar(df, x='Author', y='Count', title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={sum(author_counts.values())}, Stand: {current_date})', labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'}, text_auto=True)
-        fig.update_layout(**get_standard_layout(
+        layout = get_standard_layout(
             title=fig.layout.title.text,
             x_title='Autor',
             y_title='Anzahl der Werke'
-        ))
+        )
+        layout["font"] = {"size": 14, "color": colors['text']}
+        layout["title"] = {"font": {"size": 16}}
+        layout["margin"] = dict(b=160, t=60, l=40, r=40)
+        layout["xaxis"] = layout.get("xaxis", {})
+        layout["xaxis"]["tickangle"] = -45
+        layout["xaxis"]["automargin"] = True
+        layout["autosize"] = True
+        fig.update_layout(**layout)
         fig.update_traces(marker=plot_styles['balken_primaryLine'])
         fig.show(config={"responsive": True})
         export_figure(fig, "visualize_top_authors", export_fig_visualize_top_authors, bib_filename)
@@ -654,8 +701,13 @@ def visualize_top_publications(bib_database):
         x_title='Titel',
         y_title='Anzahl der Nennungen'
     )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
     layout["xaxis"] = layout.get("xaxis", {})
     layout["xaxis"]["tickangle"] = -45
+    layout["xaxis"]["automargin"] = True
+    layout["autosize"] = True
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
@@ -788,9 +840,12 @@ def create_path_diagram(data):
         x_title='',
         y_title=''
     )
-    layout["font"] = dict(size=10, color=colors['white'])
+    # Erhöhe Lesbarkeit: größere Schrift, weißer Text
+    layout["font"] = dict(size=12, color=colors['text'])
+    layout["title"] = {"font": {"size": 16}}
+    layout["autosize"] = True
     fig.update_layout(**layout)
-    fig.show()
+    fig.show(config={"responsive": True})
     export_figure(fig, "create_path_diagram", export_fig_create_path_diagram, bib_filename)
 
 
@@ -897,12 +952,15 @@ def create_sankey_diagram(bib_database):
     ]
 
     # Sankey-Diagramm erstellen
+    node_config = {
+        **plot_styles["sankey_node"],
+        "label": node_labels,
+        "color": node_colors
+    }
+    # Remove any invalid 'font' key if present
+    node_config.pop("font", None)
     fig = go.Figure(go.Sankey(
-        node=dict(
-            **plot_styles["sankey_node"],
-            label=node_labels,
-            color=node_colors
-        ),
+        node=node_config,
         link=dict(
             **plot_styles["sankey_link"],
             source=sources,
@@ -916,10 +974,12 @@ def create_sankey_diagram(bib_database):
         x_title='',
         y_title=''
     )
-    layout["font"] = layout.get("font", {})
-    layout["font"]["size"] = 12
+    # Erhöhe Lesbarkeit: größere Schrift, weißer Text
+    layout["font"] = dict(size=12, color=colors['text'])
+    layout["title"] = {"font": {"size": 16}}
+    layout["autosize"] = True
     fig.update_layout(**layout)
-    fig.show()
+    fig.show(config={"responsive": True})
     export_figure(fig, "create_sankey_diagram", export_fig_create_sankey_diagram, bib_filename)
 
 ##########
@@ -1036,12 +1096,18 @@ def visualize_sources_status(bib_database):
         y_title='Anzahl der Quellen'
     )
     layout["barmode"] = "stack"
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
     layout["xaxis"] = dict(
         categoryorder='array',
-        categoryarray=search_folder_tags
+        categoryarray=search_folder_tags,
+        tickangle=-45,
+        automargin=True
     )
+    layout["autosize"] = True
     fig.update_layout(**layout)
-    fig.show()
+    fig.show(config={"responsive": True})
     export_figure(fig, "visualize_sources_status", export_fig_visualize_sources_status, bib_filename)
 
 #############
@@ -1071,7 +1137,7 @@ def create_wordcloud_from_titles(bib_database, stop_words):
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
-    plt.title(f'Häufigkeitsanalyse von Titelwörtern (Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', color=colors['white'])
+    plt.title(f'Häufigkeitsanalyse von Titelwörtern (Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', color=colors['text'])
     plt.show()
 
     if export_fig_create_wordcloud_from_titles and bib_filename:
