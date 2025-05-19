@@ -581,16 +581,15 @@ fig_cluster = px.scatter_3d(
     }
 )
 
-# Layout mit Standardlayout und individuellen Ergänzungen
+
+# Layout mit Standardlayout und konsistenten CI-konformen Ergänzungen
 layout_cluster = get_standard_layout(
     title=plot_title,
     x_title='Suchbegriffe',
-    y_title='Kategorien'
+    y_title='Kategorien',
+    z_title='Forschungsfragen'
 )
-
-fig_cluster.update_layout(
-    **layout_cluster
-)
+fig_cluster.update_layout(**layout_cluster)
 
 export_and_transfer_figure(
     fig_cluster,
