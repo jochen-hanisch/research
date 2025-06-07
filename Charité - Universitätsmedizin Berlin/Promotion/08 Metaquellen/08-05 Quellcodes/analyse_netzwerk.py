@@ -60,7 +60,8 @@ from config_netzwerk import (
     export_fig_create_path_diagram,
     export_fig_create_sankey_diagram,
     export_fig_visualize_sources_status,
-    export_fig_create_wordcloud_from_titles
+    export_fig_create_wordcloud_from_titles,
+    export_fig_visualize_languages,
 )
 
 # Zentrale Exportfunktion für Visualisierungen
@@ -1111,6 +1112,214 @@ def visualize_sources_status(bib_database):
 
 #############
 
+# Visualisierung der Sprachverteilung der Quellen
+def visualize_languages(bib_database):
+    """
+    Zeigt die Sprachverteilung der Quellen in einem Balkendiagramm an, inklusive Gruppierung nach Sprachgruppen.
+    """
+    language_counts = defaultdict(int)
+    for entry in bib_database.entries:
+        if 'language' in entry:
+            lang = entry['language'].strip().lower()
+            language_counts[lang] += 1
+
+    if not language_counts:
+        print("⚠️ Keine Sprachinformationen in den Einträgen gefunden.")
+        return
+
+    # Mapping von Spracheinträgen auf normalisierte ISO-Codes
+    languageMap = {
+        "de": "de-DE",
+        "de-de": "de-DE",
+        "deutsch": "de-DE",
+        "german": "de-DE",
+        "ger": "de-DE",
+        "en": "en-GB",
+        "en-gb": "en-GB",
+        "en-us": "en-US",
+        "englisch": "en-GB",
+        "eng": "en-GB",
+        "id": "id",
+        "ms": "ms",
+        "de-ch": "de-CH",
+        "de-a": "de-A",
+    }
+
+    # Sprachgruppen-Definition
+    language_groups = {
+        "de-DE": "Deutsch",
+        "de-A": "Deutsch",
+        "de-CH": "Deutsch",
+        "en-GB": "Englisch",
+        "en-US": "Englisch",
+        "id": "Sonstige",
+        "ms": "Sonstige"
+    }
+
+    # Funktion zur robusten Normalisierung
+    def normalize_lang(lang):
+        l = lang.strip().lower()
+        return languageMap.get(l, l)
+
+    # Normalisierte Sprachen und Zählung
+    norm_counts = defaultdict(int)
+    for lang, count in language_counts.items():
+        norm_lang = normalize_lang(lang)
+        norm_counts[norm_lang] += count
+
+    df = pd.DataFrame([
+        {'Sprache': lang, 'Anzahl': count} for lang, count in norm_counts.items()
+    ])
+    # Nach Häufigkeit absteigend sortieren
+    df = df.sort_values('Anzahl', ascending=False)
+
+    # Neue Spalte: Sprachgruppe
+    df['Gruppe'] = df['Sprache'].map(language_groups).fillna("Sonstige")
+
+    # Neue Spalte: Anteil (%) mit zwei Nachkommastellen
+    df["Anteil (%)"] = (df["Anzahl"] / df["Anzahl"].sum() * 100).round(2)
+
+    # Farbzuordnung für Gruppen
+    color_discrete_map = {
+        "Deutsch": colors["primaryLine"],
+        "Englisch": colors["secondaryLine"],
+        "Sonstige": colors["depthArea"]
+    }
+
+    fig = px.bar(
+        df,
+        x='Sprache',
+        y='Anzahl',
+        text='Anzahl',
+        color='Gruppe',
+        color_discrete_map=color_discrete_map,
+        title=f'Sprachverteilung der analysierten Quellen (n={sum(norm_counts.values())}, Stand: {current_date})',
+        hover_data=["Sprache", "Gruppe", "Anzahl", "Anteil (%)"],
+        barmode="stack"
+    )
+
+    layout = get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Sprachcode (ISO 639-1 + Ländercode)',
+        y_title='Anzahl der Quellen'
+    )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
+    layout["autosize"] = True
+    # Ergänzung: Y-Achse logarithmisch skalieren
+    layout["yaxis_type"] = "log"
+    fig.update_layout(**layout)
+    fig.show(config={"responsive": True})
+    # Tabelle ausgeben
+    print(tabulate(df.sort_values("Anzahl", ascending=False), headers="keys", tablefmt="grid", showindex=False))
+    export_figure(fig, "visualize_languages", export_fig_visualize_languages, bib_filename)
+
+
+# Visualisierung der Verteilung von ENTRYTYPE innerhalb jeder Sprache
+def visualize_language_entrytypes(bib_database):
+    """
+    Zeigt die Verteilung von Eintragstyp (ENTRYTYPE) innerhalb jeder Sprache als gruppiertes Balkendiagramm.
+    """
+    # Sprach-Mapping wie in visualize_languages
+    languageMap = {
+        "de": "de-DE",
+        "de-de": "de-DE",
+        "deutsch": "de-DE",
+        "german": "de-DE",
+        "ger": "de-DE",
+        "en": "en-GB",
+        "en-gb": "en-GB",
+        "en-us": "en-US",
+        "englisch": "en-GB",
+        "eng": "en-GB",
+        "id": "id",
+        "ms": "ms",
+        "de-ch": "de-CH",
+        "de-a": "de-A",
+    }
+    # Funktion zur Normalisierung
+    def normalize_lang(lang):
+        l = lang.strip().lower()
+        return languageMap.get(l, l)
+
+    # Sammle (normierte Sprache, normierter Eintragstyp)
+    data = []
+    for entry in bib_database.entries:
+        lang = entry.get('language', '').strip()
+        if not lang:
+            continue
+        norm_lang = normalize_lang(lang)
+        entrytype = entry.get('ENTRYTYPE', '').strip().lower()
+        data.append({'Sprache': norm_lang, 'ENTRYTYPE': entrytype})
+
+    if not data:
+        print("⚠️ Keine Sprache/ENTRYTYPE-Daten in den Einträgen gefunden.")
+        return
+
+    df = pd.DataFrame(data)
+    # Gruppieren und zählen
+    grouped = df.groupby(['Sprache', 'ENTRYTYPE']).size().reset_index(name='Anzahl')
+    # Spalte ENTRYTYPE zu Eintragstyp umbenennen
+    grouped.rename(columns={'ENTRYTYPE': 'Eintragstyp'}, inplace=True)
+    # Anteil innerhalb Sprache (%)
+    grouped["Anteil innerhalb Sprache (%)"] = grouped.groupby("Sprache")["Anzahl"].transform(lambda x: (x / x.sum() * 100).round(2))
+
+    # Mapping Eintragstyp zu Typgruppe
+    eintragstyp_gruppen = {
+        'article': 'Artikelbasiert',
+        'inproceedings': 'Artikelbasiert',
+        'incollection': 'Buchbasiert',
+        'book': 'Buchbasiert',
+        'phdthesis': 'Graue Literatur',
+        'techreport': 'Graue Literatur',
+        'misc': 'Sonstige',
+        'unpublished': 'Sonstige'
+    }
+    grouped["Typgruppe"] = grouped["Eintragstyp"].map(eintragstyp_gruppen)
+
+    # Sortiere Sprachen nach Gesamtanzahl
+    sprache_order = grouped.groupby('Sprache')['Anzahl'].sum().sort_values(ascending=False).index.tolist()
+    # Eintragstypen nach Häufigkeit
+    eintragstyp_order = grouped.groupby('Eintragstyp')['Anzahl'].sum().sort_values(ascending=False).index.tolist()
+    # Typgruppen-Farben
+    typgruppen_colors = {
+        'Artikelbasiert': colors['primaryLine'],
+        'Buchbasiert': colors['depthArea'],
+        'Graue Literatur': colors['accent'],
+        'Sonstige': colors['negativeHighlight']
+    }
+    # Plot
+    fig = px.bar(
+        grouped,
+        x='Sprache',
+        y='Anzahl',
+        color='Typgruppe',
+        category_orders={'Sprache': sprache_order, 'Eintragstyp': eintragstyp_order, 'Typgruppe': list(typgruppen_colors.keys())},
+        color_discrete_map=typgruppen_colors,
+        barmode="group",
+        title=f'Verteilung der Eintragstypen pro Sprache (n={len(df)}, Stand: {current_date})',
+        text='Anzahl',
+        labels={'Sprache': 'Sprache', 'Eintragstyp': 'Eintragstyp', 'Anzahl': 'Anzahl', 'Typgruppe': 'Typgruppe'}
+    )
+    layout = get_standard_layout(
+        title=fig.layout.title.text,
+        x_title='Sprache (ISO 639-1 + Ländercode)',
+        y_title='Anzahl der Quellen'
+    )
+    layout["font"] = {"size": 14, "color": colors['text']}
+    layout["title"] = {"font": {"size": 16}}
+    layout["margin"] = dict(b=160, t=60, l=40, r=40)
+    layout["autosize"] = True
+    # Ergänzung: Y-Achse logarithmisch skalieren
+    layout["yaxis_type"] = "log"
+    fig.update_layout(**layout)
+    fig.show(config={"responsive": True})
+    print(tabulate(grouped.sort_values(["Sprache", "Eintragstyp"]), headers=["Sprache", "Eintragstyp", "Anzahl", "Anteil innerhalb Sprache (%)", "Typgruppe"], tablefmt="grid", showindex=False))
+    export_figure(fig, "visualize_language_entrytypes", export_fig_visualize_languages, bib_filename)
+
+#############
+
 # Funktion zur Erstellung einer Wortwolke aus Überschriften
 def create_wordcloud_from_titles(bib_database, stop_words):
     global bib_filename
@@ -1157,4 +1366,6 @@ data = prepare_path_data(bib_database)
 create_path_diagram(data)
 create_sankey_diagram(bib_database)
 visualize_sources_status(bib_database)
+visualize_languages(bib_database)
+visualize_language_entrytypes(bib_database)
 create_wordcloud_from_titles(bib_database, stop_words)
