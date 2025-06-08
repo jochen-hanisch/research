@@ -26,7 +26,6 @@ import math
 import re
 import subprocess
 
-
 # Template
 from ci_template import plotly_template
 plotly_template.set_theme(theme)
@@ -45,7 +44,6 @@ def prepare_figure_export(fig, name):
             fig.update_layout(title_text=f"{fig.layout.title.text} | Quelle: {bib_filename.replace('.bib', '')}")
     safe_filename = slugify(f"{name}_{bib_filename.replace('.bib', '')}")
     return f"{safe_filename}.html"
-
 
 # Zentraler Schalter für Export-Flags
 from config_netzwerk import (
