@@ -458,86 +458,21 @@ Der vorliegende Text stellt keinen Abschluss dar. Er markiert einen Zustand inne
 
 # Quelle(n)
 
-- Koller, H.-C. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
-    
-- Rheinberger, H.-J. (1997). _Toward a History of Epistemic Things_. Harvard University Press.
-    
-- Ziebarth, S. (2019). _Reflexivität und Subjektkonstitution in E-Portfolios_. Beltz Juventa.
-- Fecher, B., & Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In S. Bartling & S. Friesike (Eds.), _Opening Science_ (pp. 17–47). Springer.
-    
-- Klein, M., Broadwell, P., Farb, S. E., & Grappone, T. (2022). Comparing published scientific journal articles to their pre-print versions. _PLOS ONE_, 17(3), e0265541.
-    
-- Spencer-Brown, G. (1969). _Laws of Form_. Allen & Unwin.
-#### Wissenschaftliche Fundierung:
-
-- Varela (1990) beschreibt Erkenntnis als Handlung in situativer Verkörperung – das E-Portfolio zeigt diese Bewegung, statt nur ihr Ergebnis.
-    
-- Koller (2012) fordert eine rekonstruktive Bildungstheorie, die Transformation sichtbar macht – das E-Portfolio liefert die Form dafür.
-    
-- Ziebarth (2019) analysiert E-Portfolios als reflexive Räume der Subjektivierung – epistemolisch gedacht, wird daraus eine systematisch beobachtbare Geltungsstruktur.
-    
+- Bauer, Wolfgang, Dengerink, Jurriën, & Struyven, Katrien. (2021). _Reflexive Teacher Education_. Springer.
+- Fecher, Benedikt, & Friesike, Sascha. (2014). Open Science: One Term, Five Schools of Thought. In Sascha Bartling & Sascha Friesike (Eds.), _Opening Science_ (pp. 17–47). Springer.
+- Foucault, Michel. (2001). _Die Ordnung der Dinge: Eine Archäologie der Humanwissenschaften_ (10. Aufl.). Suhrkamp. (Originalarbeit 1973)
+- Klein, Martin, Broadwell, Peter, Farb, Sharon E., & Grappone, Todd. (2022). Comparing published scientific journal articles to their pre-print versions. _PLOS ONE, 17_(3), e0265541. https://doi.org/10.1371/journal.pone.0265541
+- Kitchin, Rob. (2014). _The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences_. SAGE.
+- Knorr Cetina, Karin. (1981). _The Manufacture of Knowledge: An Essay on the Constructivist and Contextual Nature of Science_. Pergamon.
+- Koller, Hans-Christoph. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
+- Luhmann, Niklas. (1990). _Die Wissenschaft der Gesellschaft_. Suhrkamp.
+- Rheinberger, Hans-Jörg. (1997). _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_. Harvard University Press.
+- Spencer-Brown, George. (1969). _Laws of Form_. Allen & Unwin.
+- Steup, Matthias. (2018). Epistemology. In Edward N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition). [https://plato.stanford.edu/archives/fall2018/entries/epistemology/](https://plato.stanford.edu/archives/fall2018/entries/epistemology/)
+- Tremel, Rebecca. (2016). Reflexionskompetenz als Teil von Lehrer*innenprofessionalität. In Susanne Reh & Christine Schmerer (Hrsg.), _Reflexionskompetenz_ (S. 63–80). Beltz Juventa.
+- Varela, Francisco J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
+- von Glasersfeld, Ernst. (1995). _Radical Constructivism: A Way of Knowing and Learning_. Routledge.
+- Ziebarth, Stefan. (2019). _Reflexivität und Subjektkonstitution in E-Portfolios_. Beltz Juventa.
 
 ---
 
-**APA-Zitate (Ergänzung):**
-
-- Ziebarth, S. (2019). _Reflexivität und Subjektkonstitution in E-Portfolios_. Beltz Juventa.
-    
-- Varela, F. J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
-    
-- Koller, H.-C. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
-
-
----
-
-## Quellen (APA 7, ergänzt)
-
-- Fecher, B., & Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In S. Bartling & S. Friesike (Eds.), _Opening Science_ (pp. 17–47). Springer.
-    
-- Kitchin, R. (2014). _The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences_. SAGE.
-    
-- Knorr Cetina, K. (1981). _The Manufacture of Knowledge: An Essay on the Constructivist and Contextual Nature of Science_. Pergamon.
-    
-- Koller, H.-C. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
-    
-- Luhmann, N. (1990). _Die Wissenschaft der Gesellschaft_. Suhrkamp.
----
-
-## Quellen (APA 7)
-
-- Bauer, W., Dengerink, J., & Struyven, K. (2021). _Reflexive Teacher Education_. Springer.
-    
-- Fecher, B., & Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In S. Bartling & S. Friesike (Eds.), _Opening Science_ (pp. 17–47). Springer.
-    
-- Foucault, M. (2001). _Die Ordnung der Dinge: Eine Archäologie der Humanwissenschaften_ (10. Aufl.). Suhrkamp. (Originalarbeit 1973)
-    
-- Steup, M. (2018). Epistemology. In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition).
-    
-- Tremel, R. (2016). Reflexionskompetenz als Teil von Lehrer*innenprofessionalität. In S. Reh & C. Schmerer (Hrsg.), _Reflexionskompetenz_ (S. 63–80). Beltz Juventa.
-    
-- von Glasersfeld, E. (1995). _Radical Constructivism: A Way of Knowing and Learning_. Routledge.
-- Koller, H.-C. (2012). Bildung anders denken. Einführung in die Theorie transformatorischer Bildungsprozesse. Kohlhammer.
-    
-- Luhmann, N. (1990). Die Wissenschaft der Gesellschaft. Suhrkamp.
-    
-- Rheinberger, H.-J. (1997). Toward a History of Epistemic Things. Harvard University Press.
-    
-- Varela, F. J. (1990). Ethical Know-How. Stanford University Press.
-    - Luhmann, N. (1990). _Die Wissenschaft der Gesellschaft_. Suhrkamp.
-    
-- Rheinberger, H.-J. (1997). _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_. Harvard University Press.
-    
-- Spencer-Brown, G. (1969). _Laws of Form_. Allen & Unwin.
-    
-- Varela, F. J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
-
----- Koller, H.-C. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
-    
-- Rheinberger, H.-J. (1997). _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_. Harvard University Press.
-    
-- Spencer-Brown, G. (1969). _Laws of Form_. Allen & Unwin.
-    
-- Varela, F. J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
-- Rheinberger, H.-J. (1997). _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_. Harvard University Press.
-    
-- Varela, F. J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
