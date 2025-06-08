@@ -321,7 +321,7 @@ def visualize_network(bib_database):
 
     fig = go.Figure(data=[edge_trace, primary_trace, secondary_trace, tertiary_trace])
     layout = get_standard_layout(
-        title=f"Suchbegriff-Netzwerk nach Relevanz und Semantik (n={sum(fundzahlen.values())}, Stand: {current_date})",
+        title=f'Suchbegriff-Netzwerk nach Relevanz und Semantik (n={sum(fundzahlen.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
         x_title="Technologische Dimension",
         y_title="Pädagogische Dimension"
     )
@@ -418,7 +418,7 @@ def visualize_tags(bib_database):
         data,
         x='Tag',
         y='Count',
-        title=f'Häufigkeit der Suchbegriffe in der Literaturanalyse (n={total_count}, Stand: {current_date})',
+        title=f'Häufigkeit der Suchbegriffe in der Literaturanalyse (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
         labels={'Tag': 'Tag', 'Count': 'Anzahl der Vorkommen'},
         color='Type',
         color_discrete_map=color_map,
@@ -472,7 +472,7 @@ def visualize_index(bib_database):
     print(f"Häufigkeit Indizes (Gesamtanzahl: {total_count}):")
     print(tabulate(index_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(index_data, x='Index', y='Count', title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date})', labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig = px.bar(index_data, x='Index', y='Count', title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Index',
@@ -521,7 +521,7 @@ def visualize_research_questions(bib_database):
     print(f"Häufigkeit Forschungsunterfragen (Gesamtanzahl: {total_count}):")
     print(tabulate(rq_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(rq_data_df, x='Research_Question', y='Count', title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date})', labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig = px.bar(rq_data_df, x='Research_Question', y='Count', title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Forschungsunterfrage',
@@ -565,7 +565,7 @@ def visualize_categories(bib_database):
     print(f"Häufigkeit Kategorien (Gesamtanzahl: {total_count}):")
     print(tabulate(cat_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(cat_data_df, x='Category', y='Count', title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date})', labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig = px.bar(cat_data_df, x='Category', y='Count', title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Kategorie',
@@ -609,7 +609,7 @@ def visualize_time_series(bib_database):
             df,
             x='Year',
             y='Count',
-            title=f'Jährliche Veröffentlichungen in der Literaturanalyse (n={sum(year_counts.values())}, Stand: {current_date})',
+            title=f'Jährliche Veröffentlichungen in der Literaturanalyse (n={sum(year_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
             labels={'Year': 'Jahr', 'Count': 'Anzahl der Veröffentlichungen'}
         )
         layout = get_standard_layout(
@@ -646,7 +646,7 @@ def visualize_top_authors(bib_database):
     if top_authors:
         df = pd.DataFrame(top_authors, columns=['Author', 'Count'])
 
-        fig = px.bar(df, x='Author', y='Count', title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={sum(author_counts.values())}, Stand: {current_date})', labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'}, text_auto=True)
+        fig = px.bar(df, x='Author', y='Count', title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={sum(author_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'}, text_auto=True)
         layout = get_standard_layout(
             title=fig.layout.title.text,
             x_title='Autor',
@@ -693,7 +693,7 @@ def visualize_top_publications(bib_database):
 
     df = pd.DataFrame(publication_data)
     
-    fig = px.bar(df, x='Title', y='Count', title=f'Häufig zitierte Publikationen in der Analyse (Top {top_n}, n={sum(publication_counts.values())}, Stand: {current_date})', labels={'Title': 'Titel', 'Count': 'Anzahl der Nennungen'})
+    fig = px.bar(df, x='Title', y='Count', title=f'Häufig zitierte Publikationen in der Analyse (Top {top_n}, n={sum(publication_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}', labels={'Title': 'Titel', 'Count': 'Anzahl der Nennungen'})
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Titel',
@@ -834,7 +834,7 @@ def create_path_diagram(data):
         )
     )])
     layout = get_standard_layout(
-        title=f'Kategorischer Analysepfad der Literatur (n={len(data)}, Stand: {current_date})',
+        title=f'Kategorischer Analysepfad der Literatur (n={len(data)}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
         x_title='',
         y_title=''
     )
@@ -968,7 +968,7 @@ def create_sankey_diagram(bib_database):
     ))
     # Layout anpassen
     layout = get_standard_layout(
-        title=f"Flussdiagramm der Literaturselektion (Stichprobe: n={sample_size}, Stand: {current_date})",
+        title=f"Flussdiagramm der Literaturselektion (Stichprobe: n={sample_size}, Stand: {current_date}) | Quelle: {bib_filename.replace('.bib', '')}",
         x_title='',
         y_title=''
     )
@@ -1089,7 +1089,7 @@ def visualize_sources_status(bib_database):
         marker=plot_styles['balken_primaryLine']
     ))
     layout = get_standard_layout(
-        title=f'Analyse- und Stichprobenstatus je Suchordner (n={sum(counts["Identifiziert"] for counts in source_data.values())}, Stand: {current_date})',
+        title=f'Analyse- und Stichprobenstatus je Suchordner (n={sum(counts["Identifiziert"] for counts in source_data.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
         x_title='Suchbegriffsordner',
         y_title='Anzahl der Quellen'
     )
@@ -1191,7 +1191,7 @@ def visualize_languages(bib_database):
         text='Anzahl',
         color='Gruppe',
         color_discrete_map=color_discrete_map,
-        title=f'Sprachverteilung der analysierten Quellen (n={sum(norm_counts.values())}, Stand: {current_date})',
+        title=f'Sprachverteilung der analysierten Quellen (n={sum(norm_counts.values())}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
         hover_data=["Sprache", "Gruppe", "Anzahl", "Anteil (%)"],
         barmode="stack"
     )
@@ -1296,7 +1296,7 @@ def visualize_language_entrytypes(bib_database):
         category_orders={'Sprache': sprache_order, 'Eintragstyp': eintragstyp_order, 'Typgruppe': list(typgruppen_colors.keys())},
         color_discrete_map=typgruppen_colors,
         barmode="group",
-        title=f'Verteilung der Eintragstypen pro Sprache (n={len(df)}, Stand: {current_date})',
+        title=f'Verteilung der Eintragstypen pro Sprache (n={len(df)}, Stand: {current_date}) | Quelle: {bib_filename.replace(".bib", "")}',
         text='Anzahl',
         labels={'Sprache': 'Sprache', 'Eintragstyp': 'Eintragstyp', 'Anzahl': 'Anzahl', 'Typgruppe': 'Typgruppe'}
     )
