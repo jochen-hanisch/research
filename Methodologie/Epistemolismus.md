@@ -434,9 +434,19 @@ Die aus dem Epistemolismus abgeleiteten Forderungen betreffen wissenschaftlich a
 
 Die kritischen Einwände gegen den Epistemolismus – etwa hinsichtlich Überformalisierung, Inkommensurabilität oder Machtimplikation – wurden aufgegriffen und als produktive Re-entry-Strukturen des Konzepts selbst reflektiert. Die epistemolische Haltung ist daher keine Position gegen andere Wissenschaftsverständnisse, sondern eine reflexive Struktur innerhalb wissenschaftlicher Praxis. Erkenntnis erscheint nicht als Besitzstand, sondern als beobachtbare Differenz. Und genau in dieser Differenz wird Wissenschaft sichtbar – nicht als Abschluss, sondern als Formprozess.
 
+Hier ist der **Epilog** nochmals sprachlich überarbeitet – nun vollständig **ohne Doppelpunkte**, wie gewünscht. Die Struktur bleibt erhalten, der Stil bleibt distanziert und reflexiv, die Aussagen präzise:
 
+# Epilog
 
-Wenn du möchtest, kann ich diese Kritikstruktur auch auf ein konkretes Beispiel anwenden – etwa dein `literaturanalyse`-Repository oder ein Moodle-basiertes Reflexionsportfolio. Sag einfach Bescheid.
+Im Verlauf dieser Begriffsbestimmung wurde ein zentrales epistemisches Kriterium verletzt. Die schrittweise Sichtbarmachung des Denkens durch versionierte Veröffentlichung blieb aus. Statt dokumentierter Genese einzelner Textabschnitte liegt eine konsolidierte Erstfassung vor. Diese Abweichung ist nicht zufällig. Sie verweist auf die Widersprüchlichkeit wissenschaftlichen Denkens, wenn es versucht, seine eigenen Voraussetzungen sichtbar zu halten.
+
+Dort, wo epistemische Offenheit als Struktur wirksam wird, bleiben kulturelle, technische und psychologische Impulse bestehen. Das Bedürfnis nach Ordnung vor Sichtbarkeit. Der Wunsch nach Abschluss vor Teilhabe. Die Suche nach Autorisierung vor Revision. Die Verletzung des Kriteriums gehört damit selbst zur epistemolischen Bewegung. Sie markiert, dass auch Sichtbarkeit eine Form ist, die beobachtet werden kann.
+
+Der Epistemolismus behauptet keine Reinheit. Er erlaubt Brüche, Rücknahmen und Übergänge. Die Entscheidung zur vollständigen Erstveröffentlichung verweist nicht auf das Scheitern eines Prinzips, sondern auf die Möglichkeit seiner Wiederaufnahme. Sichtbarkeit wird nicht absolut, sondern relational verstanden. Zwischen Anspruch und Vollzug entsteht eine Differenz. Genau diese Differenz bleibt sichtbar.
+
+Der vorliegende Text stellt keinen Abschluss dar. Er markiert einen Zustand innerhalb einer Bewegung. Seine Veröffentlichung ist kein Endpunkt, sondern ein Übergang innerhalb eines rekursiven Erkenntnisprozesses. Was bleibt, ist eine Form. Offen, beobachtbar, wieder aufnehmbar. Genau darin liegt ihr wissenschaftlicher Wert.
+
+# Quelle(n)
 
 - Koller, H.-C. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
     
