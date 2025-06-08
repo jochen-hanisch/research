@@ -1,11 +1,11 @@
 ---
 author: Jochen Hanisch
-title: Lernen
-project: 
+title: Lernen als universelles Prinzip
+Repository: Bildungswissenschaft
 created: 2024-10-02
-updated: 2024-12-11
+updated: 2025-06-08
 publish: true
-publishd: 2024-12-09
+publishd: 2025-06-08
 tags:
   - Lernen
   - Rhetorik
@@ -13,6 +13,7 @@ tags:
   - Geschichte
   - Pädagogik
   - Psychologie
+  - Emergenz
   - "#Lernen"
   - "#Bildung"
   - "#Erziehungswissenschaft"
@@ -25,13 +26,9 @@ tags:
   - "#Kompetenzentwicklung"
   - "#Lernprozesse"
   - "#Autopoiesis"
-  - "#[[Emergenz]]"
-type:
-  - Wissenschaftliche Notiz
-status: review
 ---
 
-created: 02.12.2024 | updated: 14.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/Bildungswissenschaft/universalprinzip-lernen): 8.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 >**Anmerkung**
 Dieser Artikel wird noch überarbeitet, da Lernen eine Folge von [[Elementaroperationen]] (Feedback, Reflexion und Re-entry) ist. Diese sind Stand heute in der Entwicklung. Insbesondere sind die Kapitel 2.3.1 - 2.3.3 sowie 2.4 von den Änderungen betroffen, da diese in der Notiz über die [[Elementaroperationen]] aufgehen werden.
