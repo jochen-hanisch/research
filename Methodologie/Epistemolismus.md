@@ -27,7 +27,7 @@ Wissenschaft ist nicht nur ein System zur Erzeugung von Wissen, sondern ein kult
 
 Vor diesem Hintergrund wird in dieser Begriffsbestimmung ein Begriff eingeführt, der für diese Form des wissenschaftlichen Arbeitens eine eigene Kategorie schaffen soll: Epistemolismus. Der Begriff ist eine bewusste Neuschöpfung. Er beschreibt keine Lehre, kein Dogma, keine Schule, sondern eine wissenschaftliche Praxisform. Diese Praxis zeichnet sich dadurch aus, dass sie Erkenntnis nicht abschließt, sondern versioniert sichtbar hält; dass sie nicht nur Aussagen trifft, sondern deren Entstehung dokumentiert; dass sie sich nicht auf Geltung beruft, sondern deren Genese strukturiert rekonstruierbar macht.
 
-Ausgangspunkt ist die Annahme, dass wissenschaftliche Integrität nicht allein im Ergebnis liegt, sondern in der dokumentierten Form ihrer Entstehung. Der Epistemolismus setzt an dieser Stelle an – nicht durch Kritik an bestehenden Formaten, sondern durch deren Erweiterung. Er ist die theoretische Bezeichnung für eine Praxis, die bereits vielfach gelebt, aber selten systematisch beschrieben wird: das reflektierte, versionierte, öffentlich nachvollziehbare Denken im digitalen Raum.
+Ausgangspunkt ist die Annahme, dass wissenschaftliche Integrität nicht allein im Ergebnis liegt, sondern in der dokumentierten Form ihrer Entstehung. Der Epistemolismus setzt an dieser Stelle an. Nicht durch Kritik an bestehenden Formaten, sondern durch deren Erweiterung. Er ist die theoretische Bezeichnung für eine Praxis, die bereits vielfach gelebt, aber selten systematisch beschrieben wird: das reflektierte, versionierte, öffentlich nachvollziehbare Denken im digitalen Raum.
 
 Die folgende Darstellung entwickelt den Begriff systematisch. Sie beginnt mit einer begrifflichen Definition, führt durch formale, theoretische und formlogische Herleitungen und erschließt konkrete Umsetzungsmöglichkeiten in wissenschaftlichen und bildungspraktischen Kontexten. Die Darstellung schließt mit einer Analyse der Implikationen und möglichen Kritikpunkte. Ziel ist keine vollständige Theorie, sondern eine fundierte Grundlage für die Weiterentwicklung einer wissenschaftlichen Praxis, die Erkenntnis als strukturierten, beobachtbaren Prozess begreift. Der Epistemolismus ist in diesem Sinne keine Antwort, sondern ein Verfahren zur Sichtbarmachung der Fragen, in denen Wissenschaft beginnt.
 
@@ -37,11 +37,22 @@ Epistemolismus ist eine Form wissenschaftlicher Praxis. Erkenntnisprozesse gelte
 
 Epistemolisches Arbeiten erfolgt auf Grundlage strukturierender Medien wie Git, Markdown und kuratierter E-Portfolios. Die Form ist geprägt durch Rückverfolgbarkeit, methodische Selbstvergewisserung und dialogische Öffnung. Wissenschaft zeigt sich im epistemolischen Verständnis als nachvollziehbare Bewegung innerhalb situierter, sprachlich gefasster und technisch dokumentierter Kontexte. Die Orientierung am epistemolischen Prinzip stärkt die Verantwortung für die Gestaltung des Erkenntnisprozesses. Sie ermöglicht Resonanz und kritische Teilhabe auf Basis nachvollziehbarer Entwicklungspfade.
 
+>Epistemolismus ist eine wissenschaftliche Praxis, die Erkenntnis als versionierte, dokumentierte und reflexiv geführte Bewegung versteht. Ihre Geltung entsteht durch Sichtbarkeit, Rückverfolgbarkeit und Anschlussfähigkeit. Technische Medien, erkenntnistheoretische Reflexion und bildungstheoretische Verantwortung formen eine strukturierte Praxis epistemischer Selbstbeobachtung.
+
+**Epistemolismus $E := \text{trace}(\Delta,\text{d} : \mathbb{K})$**  
+_(Erkenntnis als Spur von Denkbewegung $\Delta,\text{d}$ im Kontextraum $\mathbb{K}$)_  
+
+mit:
+
+- $\Delta,\text{d}$ = versionierte Differenz,  
+- $\text{trace}$ = dokumentierte Struktur,  
+- $\mathbb{K}$ = situiertes Zusammenspiel von Sprache, Technik, Reflexion.
+
 Damit bewegt sich Epistemolismus im Spannungsfeld erkenntnistheoretischer, bildungswissenschaftlicher und medienpraktischer Diskurse. Die Praxis steht in Verbindung mit reflexiven Formen wissenschaftlicher Selbstbeobachtung, mit digital gestützter Dokumentation und mit didaktischen Konzepten, die auf Sichtbarkeit und Beteiligung zielen. Der Begriff steht quer zu klassischen Wissenschaftsverständnissen und öffnet einen Rahmen, in dem Erkenntnis als gestaltbare, gemeinsam nachvollziehbare Bewegung erscheint.
 
 ## 2.1 Formale und sprachliche Komponenten der Herleitung
 
-Ein wissenschaftlich fundierter Begriff wie Epistemolismus wird aus bestehenden sprachlichen Einheiten gebildet. Die Herleitung folgt dabei einer systematischen Zerlegung und einer begründeten Neuschöpfung auf der Ebene sprachlicher Morphologie und diskursiver Anschlussfähigkeit.
+Bestehende sprachliche Einheiten bilden die Grundlage des hier eingeführten Begriffs. Die Herleitung folgt dabei einer systematischen Zerlegung und einer begründeten Neuschöpfung auf der Ebene sprachlicher Morphologie und diskursiver Anschlussfähigkeit.
 
 Zunächst ist der Begriff in zwei Bestandteile zerlegbar. Das Präfix _epistemo-_ verweist auf das griechische _epistēmē_ (ἐπιστήμη), das mit Erkenntnis oder Wissen übersetzt werden kann. Das Suffix _-lismus_ ist ein in der deutschen Wissenschaftssprache etabliertes Wortbildungsmuster zur Bezeichnung von Haltungen, Praxisformen oder systematischen Orientierungen. Entsprechende Beispiele sind Konstruktivismus, Strukturalismus oder Pragmatismus. Die Wortbildung _Epistemolismus_ steht damit formal für eine bestimmte Form oder Haltung im Umgang mit Erkenntnis.
 
@@ -450,12 +461,11 @@ Die kritischen Einwände gegen den Epistemolismus – etwa hinsichtlich Überfor
 
 Im Verlauf dieser Begriffsbestimmung wurde ein zentrales epistemisches Kriterium verletzt. Die schrittweise Sichtbarmachung des Denkens durch versionierte Veröffentlichung blieb aus. Statt dokumentierter Genese einzelner Textabschnitte liegt eine konsolidierte Erstfassung vor. Diese Abweichung ist nicht zufällig. Sie verweist auf die Widersprüchlichkeit wissenschaftlichen Denkens, wenn versucht wird, seine eigenen Voraussetzungen sichtbar zu halten.
 
-Dort, wo epistemische Offenheit als Struktur wirksam wird, bleiben kulturelle, technische und psychologische Impulse bestehen. Das Bedürfnis nach Ordnung vor Sichtbarkeit. Der Wunsch nach Abschluss vor Teilhabe. Die Suche nach Autorisierung vor Revision. Die Verletzung des Kriteriums gehört damit selbst zur epistemolischen Bewegung. Sie markiert, dass auch Sichtbarkeit eine Form ist, die beobachtet werden kann.
+Dort, wo epistemische Offenheit als Struktur wirksam wird ([[Radikaler Epistemolismus]]), bleiben kulturelle, technische und psychologische Impulse bestehen. Das Bedürfnis nach Ordnung vor Sichtbarkeit. Der Wunsch nach Abschluss vor Teilhabe. Die Suche nach Autorisierung vor Revision. Die Verletzung des Kriteriums gehört damit selbst zur epistemolischen Bewegung. Sie markiert, dass auch Sichtbarkeit eine Form ist, die beobachtet werden kann.
 
 Der Epistemolismus behauptet keine Reinheit. Er erlaubt Brüche, Rücknahmen und Übergänge. Die Entscheidung zur vollständigen Erstveröffentlichung verweist nicht auf das Scheitern eines Prinzips, sondern auf die Möglichkeit seiner Wiederaufnahme. Sichtbarkeit wird nicht absolut, sondern relational verstanden. Zwischen Anspruch und Vollzug entsteht eine Differenz. Genau diese Differenz bleibt sichtbar.
 
 Der vorliegende Text stellt keinen Abschluss dar. Er markiert einen Zustand innerhalb einer Bewegung. Seine Veröffentlichung ist kein Endpunkt, sondern ein Übergang innerhalb eines rekursiven Erkenntnisprozesses. Was bleibt, ist eine Form. Offen, beobachtbar, wieder aufnehmbar. Genau darin liegt ihr wissenschaftlicher Wert.
-
 # Quelle(n)
 
 - Bauer, Wolfgang, Dengerink, Jurriën, & Struyven, Katrien. (2021). _Reflexive Teacher Education_. Springer.
