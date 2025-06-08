@@ -326,6 +326,18 @@ Auf diese Weise entsteht eine epistemolisch lesbare Curriculumentwicklung, die e
 
 Zudem eröffnet eine solche Struktur neue didaktische Perspektiven: Lernende und Lehrende erhalten Einblick in die epistemische Herkunft des Stoffes, die Argumente hinter Gewichtungen, die Entwicklungslinien hinter Kompetenzrastern. Bildung erscheint nicht mehr als vorgegebene Ordnung, sondern als dokumentierte Bewegung in einem Denkraum (vgl. Koller, 2012; Ziebarth, 2019).
 
+### 2.8.6 Sichtbar gewordene Kriterienverletzung im eigenen Textprozess
+
+Ein besonders sprechendes Beispiel epistemolischer Praxis entsteht dort, wo die Formstruktur der Erkenntnisproduktion selbst sichtbar wird – nicht geplant, sondern als Resultat eines methodologisch reflektierten Bruchs. Der hier vorliegende Text wurde zunächst in einem konsolidierten Zustand veröffentlicht, ohne dass die einzelnen Denkbewegungen, Revisionen oder commit-basierten Zwischenschritte dokumentiert waren. Damit wurde das epistemolisch formulierte Kriterium der versionierten Sichtbarkeit verletzt.  ([Commit 078c162ae8](https://git.jochen-hanisch.de/research/methodologie/commit/078c162ae8d595680f9de91c4adc02d290b30fde))
+
+Erst in einem späteren Bearbeitungsschritt – konkret in einem Commit-Kommentar zur Einfügung des Epilogs – wurde durch eine unübersehbare Formulierung sichtbar, dass ein KI-gestütztes Assistenzsystem beteiligt war. Die Metakommentierung („Hier ist der Epilog nochmals sprachlich überarbeitet – nun vollständig ohne Doppelpunkte, wie gewünscht“) trug ungewollt die Signatur eines dialogischen Prozesses, der zuvor nicht explizit kenntlich gemacht worden war. Die Infrastruktur des Git-Repositories markierte diesen Zusammenhang transparent und unwiderruflich. ([Commit 897660be1f](https://git.jochen-hanisch.de/research/methodologie/commit/897660be1f5fb92d569c9cd40805fc20d637b7da))
+
+Was hier sichtbar wurde, war keine Absicht, sondern eine epistemische Spur. Die Verletzung des Prinzips war nicht bloße Inkonsequenz, sondern Ausdruck eines Spannungsfeldes, das epistemolische Praxis gerade anerkennt: das Bedürfnis nach Form vor Sichtbarkeit, nach Ergebnis vor Offenheit. Die anschließende Offenlegung dieser Struktur – bewusst nicht gelöscht, sondern veröffentlicht – markiert einen entscheidenden Punkt epistemischer Integrität. Die Theorie wurde nicht durchgesetzt, sondern beobachtet.
+
+In dieser Bewegung manifestiert sich das Prinzip des Re-entry. Der epistemolische Text wird sich selbst zum Gegenstand. Der Bruch mit dem eigenen Anspruch wird nicht kaschiert, sondern dokumentiert. Die epistemische Geltung entsteht nicht durch Kriterientreue, sondern durch strukturierte Rückbindung an ihre eigene Entstehungsbedingung. Was sichtbar bleibt, ist nicht ein fertiges Ergebnis, sondern die Differenz zwischen Anspruch und Vollzug.
+
+Gerade darin liegt die Stärke epistemolischer Praxis, denn jede Entscheidung, jede Struktur und damit jede Entwicklung wird beobachtbar. Sichtbarkeit entsteht nicht durch Perfektion, sondern durch das Offenhalten der Form - und ja, das macht verletzlich...
+
 # 3 Forderungen
 
 Wenn der Epistemolismus als wissenschaftlich fundierte Praxis verstanden wird, die Erkenntnisprozesse strukturell sichtbar, versionierbar und reflexiv gestaltet, so ergeben sich daraus konkrete Anforderungen an die Bedingungen wissenschaftlichen Arbeitens. Diese Anforderungen betreffen nicht nur methodische Verfahren oder technische Werkzeuge, sondern zielen auf die Form, in der Geltung generiert, verantwortet und weitergegeben wird. Sie richten sich gleichermaßen an die individuelle Forschungspraxis, an institutionelle Strukturen sowie an die kulturellen Rahmungen von Wissenschaft selbst. Erkenntnis wird in epistemolischer Perspektive nicht durch Stabilität erzeugt, sondern durch dokumentierte Bewegung, nicht durch Abschluss, sondern durch nachvollziehbare Entstehung. Aus dieser Haltung leiten sich strukturelle Forderungen ab, die das Verhältnis von Forschung, Lehre und Öffentlichkeit neu konturieren.
@@ -433,8 +445,6 @@ Im Zentrum steht die Annahme, dass Erkenntnis ihre Geltung nicht allein durch Er
 Die aus dem Epistemolismus abgeleiteten Forderungen betreffen wissenschaftlich arbeitende Individuen, institutionelle Infrastrukturen und die Wissenschaftskultur im Allgemeinen. Sie fordern keine neue Ideologie, sondern eine veränderte Aufmerksamkeit gegenüber Form, Herkunft und Geltung epistemischer Setzungen. Die Implikationen des Epistemolismus reichen über methodische Innovationen hinaus: Sie betreffen das Verhältnis von Subjekt und Erkenntnis ebenso wie die institutionellen Bedingungen von Wissenschaft und Lehre.
 
 Die kritischen Einwände gegen den Epistemolismus – etwa hinsichtlich Überformalisierung, Inkommensurabilität oder Machtimplikation – wurden aufgegriffen und als produktive Re-entry-Strukturen des Konzepts selbst reflektiert. Die epistemolische Haltung ist daher keine Position gegen andere Wissenschaftsverständnisse, sondern eine reflexive Struktur innerhalb wissenschaftlicher Praxis. Erkenntnis erscheint nicht als Besitzstand, sondern als beobachtbare Differenz. Und genau in dieser Differenz wird Wissenschaft sichtbar – nicht als Abschluss, sondern als Formprozess.
-
-Hier ist der **Epilog** nochmals sprachlich überarbeitet – nun vollständig **ohne Doppelpunkte**, wie gewünscht. Die Struktur bleibt erhalten, der Stil bleibt distanziert und reflexiv, die Aussagen präzise:
 
 # Epilog
 
