@@ -21,13 +21,16 @@ created: 16.11.2024 | [updated]() | [publishd]() | [Austausch](https://lernen.jo
 
 **Epistemolismus denken: Zur Sichtbarmachung wissenschaftlicher Prozesse in versionierten Erkenntnisräumen**
 
+> Epistemolismus ist ein Vertrag mit sich selbst und der Verpflichtung zu Sichtbarkeit, Rückverfolgbarkeit und epistemischer Redlichkeit aus der Einsicht heraus, dass Erkenntnis nur dann Geltung beanspruchen kann, wenn sie in ihrer Entstehung nachvollziehbar bleibt.
+> Dieser Vertrag ist persönlich geschlossen und öffentlich einsehbar, mit jedem Commit erneuert, mit jeder Revision bezeugt. Was sichtbar wird, ist Gedanke und die bewusste Entscheidung, verantwortlich zu sein.
+
 # Abstract
 
-Der vorliegende Text entwickelt den Begriff Epistemolismus als wissenschaftlich fundierte Praxisform, in der Erkenntnisprozesse versioniert, reflexiv und öffentlich nachvollziehbar gestaltet werden. Ausgehend von einer kritischen Analyse tradierten wissenschaftlichen Arbeitens wird ein Zugang entfaltet, der epistemische Geltung nicht im Ergebnis, sondern in der strukturierten Sichtbarkeit ihrer Genese verortet. Der Begriff ist eine begriffliche Neuschöpfung, die sich formallinguistisch, erkenntnistheoretisch, formlogisch und bildungstheoretisch herleitet.
+Der vorliegende Text entwickelt den Begriff Epistemolismus als wissenschaftlich entwickelte  Praxisform, in der Erkenntnisprozesse versioniert, reflexiv und öffentlich nachvollziehbar gestaltet werden. Ausgehend von einer kritischen Analyse tradierten wissenschaftlichen Arbeitens wird ein Zugang entfaltet, der epistemische Geltung nicht im Ergebnis, sondern in der strukturierten Sichtbarkeit ihrer Genese verortet. Der Begriff ist eine begriffliche Neuschöpfung, die sich formallinguistisch, erkenntnistheoretisch, formlogisch und bildungstheoretisch herleitet.
 
 Zentral ist die Annahme, dass wissenschaftliche Qualität sowohl durch Stabilität, Autorität oder Peer Review gesichert wird, als auch durch dokumentierte Differenz, rekursive Reflexion und versionierbare Geltungsentwicklung. In Verbindung mit digitalen, kuratierenden Werkzeugen wie Git, Markdown, DOI-Vergabe oder E-Portfolios entsteht ein erkenntnispraktisches Modell, das Sichtbarkeit nicht als Transparenzforderung, sondern als methodische Struktur begreift.
 
-Der Text entfaltet diese Struktur in Definition, Herleitung, Anwendungsbeispielen, Forderungen, Implikationen und Kritik. Der Epistemolismus erscheint dabei nicht als normative Alternative zur bestehenden Wissenschaftskultur, sondern als deren reflexive Erweiterung. Erkenntnis wird nicht als abgeschlossener Besitzstand beschrieben, sondern als beobachtbare, rekonstruierbare Bewegung innerhalb einer digital gestützten Epistemosphäre.
+Der Text entfaltet diese Struktur in Definition, Herleitung, Anwendungsbeispielen, Forderungen, Implikationen und Kritik. Der Epistemolismus erscheint dabei nicht als normative Alternative zur bestehenden Wissenschaftskultur, sondern als deren reflexive Erweiterung. Erkenntnis wird nicht als abgeschlossener Besitzstand beschrieben, sondern als beobachtbare, rekonstruierbare Bewegung innerhalb einer digital gestützten [[Epistemosphäre]].
 
 # Einleitung
 
@@ -44,8 +47,6 @@ Die folgende Darstellung entwickelt den Begriff systematisch. Sie beginnt mit ei
 Epistemolismus ist eine Form wissenschaftlicher Praxis. Erkenntnisprozesse gelten dabei als sichtbar zu haltende, versionierbare und reflexiv dokumentierte Denkbewegungen. Die Praxis orientiert sich an einer Haltung, die den Weg des Denkens ebenso relevant fasst wie seine Formulierung. Erkenntnis erscheint als Prozess mit Anschlussfähigkeit, begründet durch dokumentierte Entscheidungen, Revisionen und Kontextverweise.
 
 Epistemolisches Arbeiten erfolgt auf Grundlage strukturierender Medien wie Git, Markdown und kuratierter E-Portfolios. Die Form ist geprägt durch Rückverfolgbarkeit, methodische Selbstvergewisserung und dialogische Öffnung. Wissenschaft zeigt sich im epistemolischen Verständnis als nachvollziehbare Bewegung innerhalb situierter, sprachlich gefasster und technisch dokumentierter Kontexte. Die Orientierung am epistemolischen Prinzip stärkt die Verantwortung für die Gestaltung des Erkenntnisprozesses. Sie ermöglicht Resonanz und kritische Teilhabe auf Basis nachvollziehbarer Entwicklungspfade.
-
->Epistemolismus ist eine wissenschaftliche Praxis, die Erkenntnis als versionierte, dokumentierte und reflexiv geführte Bewegung versteht. Ihre Geltung entsteht durch Sichtbarkeit, Rückverfolgbarkeit und Anschlussfähigkeit. Technische Medien, erkenntnistheoretische Reflexion und bildungstheoretische Verantwortung formen eine strukturierte Praxis epistemischer Selbstbeobachtung.
 
 **Epistemolismus $E := \text{trace}(\Delta,\text{d} : \mathbb{K})$**  
 _(Erkenntnis als Spur von Denkbewegung $\Delta,\text{d}$ im Kontextraum $\mathbb{K}$)_  
@@ -84,57 +85,13 @@ Aus systemtheoretischer Perspektive (Luhmann, 1990) ist Wissenschaft ein soziale
 
 In der funktionalen Logik wissenschaftlicher Institutionen werden Vorstufen von Erkenntnis häufig unsichtbar gehalten – etwa in der Ausblendung von Entwürfen, Umformulierungen, Scheitern oder subjektiver Perspektivität (Knorr Cetina, 1981). Epistemolismus greift diese blinden Flecken auf, indem er Prozesse wie Versionierung, Kommentierung, Kontextualisierung und Revision nicht als technische Nebenprodukte, sondern als konstitutive epistemische Operationen versteht.
 
-Damit wird der Begriff anschlussfähig an aktuelle Diskussionen um Open Science, reproducible research und die infrastrukturelle Rückverfolgbarkeit von Erkenntnis (Fecher & Friesike, 2014; Kitchin, 2014). Der Unterschied liegt jedoch darin, dass der Epistemolismus nicht nur die institutionelle Offenheit betont, sondern auch die methodologische Verantwortung für Sichtbarkeit, Kontextualisierung und dialogische Anschlussfähigkeit einfordert. Seine Funktion besteht darin, wissenschaftliches Denken nicht nur performativ zu strukturieren, sondern auch reflexiv zu dokumentieren und öffentlich zu halten.**
+Damit erhält der Begriff Anschluss an aktuelle Diskussionen um Open Science, reproducible research und die infrastrukturelle Rückverfolgbarkeit von Erkenntnis (Fecher & Friesike, 2014; Kitchin, 2014). Der Unterschied liegt jedoch darin, dass der Epistemolismus die institutionelle Offenheit betont sowie die methodologische Verantwortung für Sichtbarkeit, Kontextualisierung und dialogische Anschlussfähigkeit einfordert. Seine Funktion besteht darin, wissenschaftliches Denken nicht nur performativ zu strukturieren, sondern auch reflexiv zu dokumentieren und öffentlich zu halten.
 
-Auch im Kontext bildungstheoretischer Betrachtungen zeigt sich die Funktionalität des Begriffs. Bildung wird hier nicht als Inhaltsvermittlung verstanden, sondern als transformative Selbst- und Weltverhältnisklärung (Koller, 2012). Der Epistemolismus erweitert dieses Verständnis um die mediale, technische und sprachliche Dimension epistemischer Selbstverhältnisse. Er schafft Bedingungen, unter denen Subjekte ihre Denkprozesse sichtbar machen, verhandeln und verantworten können – etwa in Form versionierter E-Portfolios, reflexiver Schreibsysteme oder digital dokumentierter Lernpfade.
+Auch im Kontext bildungstheoretischer Betrachtungen zeigt sich die Funktionalität des Begriffs. Bildung wird hier nicht als Inhaltsvermittlung verstanden, sondern als transformative Selbst- und Weltverhältnisklärung (Koller, 2012). Der Epistemolismus erweitert dieses Verständnis um die mediale, technische und sprachliche Dimension epistemischer Selbstverhältnisse. Er schafft Bedingungen, unter denen Subjekte ihre Denkprozesse sichtbar machen, verhandeln und verantworten können, bspw. in Form versionierter E-Portfolios, reflexiver Schreibsysteme oder digital dokumentierter Lernpfade.
 
-Epistemolismus erfüllt somit systemisch die Funktion, wissenschaftliche Kommunikation um jene Formen zu erweitern, die nicht Ergebnis, sondern Prozess, nicht Objekt, sondern Weg, nicht Repräsentation, sondern Entstehung adressieren. Er transformiert bestehende Strukturen, indem er epistemische Vorfelder als relevante Zone wissenschaftlicher Geltung etabliert und diese in einer dokumentierbaren, reflexiven und kollektiv anschlussfähigen Weise sichtbar hält.
+Epistemolismus erfüllt hierdurch systemisch die Funktion, wissenschaftliche Kommunikation um jene Formen zu erweitern, die nicht Ergebnis, sondern Prozess, nicht Objekt, sondern Weg, nicht Repräsentation, sondern Entstehung adressieren. Er transformiert bestehende Strukturen, indem er epistemische Vorfelder als relevante Zone wissenschaftlicher Geltung etabliert und diese in einer dokumentierbaren, reflexiven und kollektiv anschlussfähigen Weise sichtbar hält.
 
-## 2.4 Mathematische Modellierung
-
-Der Begriff Epistemolismus beschreibt eine wissenschaftliche Praxisform, in der die Sichtbarmachung, Rückverfolgbarkeit und Reflexion von Erkenntnisprozessen strukturell ermöglicht wird. Um diese Dynamik auch formal zu beschreiben, bietet sich die Modellierung epistemischer Vollzüge als komplexe Struktur im mathematischen Sinne an. Die Verwendung komplexer Zahlen erlaubt die unterschiedliche Anteile eines Erkenntnisprozesses darstellbar zu machen, ohne dabei auf eindimensionale Modelle der Wissensproduktion zurückzugreifen.
-
-Ausgangspunkt ist die Annahme, dass jede wissenschaftliche Aussage $A$ aus einer Kombination sichtbar dokumentierter und reflexiv rekonstruierbarer Anteile $R$ sowie subjektiv kontextualisierter, nicht vollständig formal explizierbarer Anteile $I$ besteht. Diese Struktur lässt sich durch die Form einer komplexen Zahl darstellen:
-
-$$
-A = R + iI \tag{1}
-$$
-
-Dabei bezeichnet $R$ den reellen Anteil wissenschaftlicher Praxis, der in Form von Commit-Historien, kommentierten Versionen, reflexiven Textabschnitten oder strukturierten Argumentationsverläufen dokumentiert ist. Der Imaginärteil $I$ repräsentiert jenen Anteil, der durch Intuition, Erfahrung, Sprachsinn, Lebenskontext oder leibliche Welthaltigkeit mitgetragen wird, ohne sich vollständig objektivieren zu lassen. Dieser nicht-formalisierbare Anteil bleibt epistemisch wirksam, auch wenn er nicht vollständig expliziert wird (vgl. Rheinberger, 1997; Varela, 1990).
-
-Der Betrag $T$ dieser komplexen Aussage beschreibt deren epistemische Transparenz. Diese Größe wird nicht durch die Absolutheit einer Wahrheit bestimmt, sondern durch die rekonstruktive Nachvollziehbarkeit des Erkenntnisverlaufs:
-
-$$
-T = |A| = \sqrt{R^2 + I^2} \tag{2}
-$$
-
-Je höher der Wert $T$, desto stärker ist der epistemische Prozess insgesamt sichtbar gemacht. Beide Anteile – der dokumentierte Verlauf ($R$) und der kontextuelle Gehalt ($I$) – tragen zum epistemischen Gesamtwert bei. Die modellhafte Symmetrie dieser Komponenten verweist auf die Gleichwertigkeit sichtbarer und unsichtbarer Erkenntniselemente im epistemolischen Verständnis.
-
-Die epistemische Richtung eines Denkprozesses lässt sich durch das Argument $\theta$ bestimmen. Dieser Winkel ergibt sich aus dem Verhältnis von Imaginär- zu Reellanteil und beschreibt die Orientierung einer Erkenntniseinheit innerhalb des wissenschaftlichen Möglichkeitsraums:
-
-$$
-\theta = \arctan\left(\frac{I}{R}\right) \tag{3}
-$$
-
-Das Argument $\theta$ beschreibt damit, wie stark ein Denkprozess formalisiert und dokumentiert ist ($\theta$ nahe null) oder wie sehr er sich auf implizite, kreative oder subjektive Anteile stützt ($\theta$ nahe $\frac{\pi}{2}$). Dieser Wert ist nicht normativ zu verstehen, sondern als Richtungsindikator innerhalb einer komplexen Epistemosphäre, in der unterschiedliche Erkenntnisformen koexistieren (vgl. Luhmann, 1990; Koller, 2012).
-
-Die Verwendung der komplexen Zahl als Modell erlaubt eine formale Annäherung an das Spannungsverhältnis zwischen explizitem Wissen und impliziter Welthaltigkeit. Sie verdeutlicht, dass epistemische Geltung nicht aus der Eliminierung kontextueller Anteile entsteht, sondern durch deren strukturierte Sichtbarmachung und relationale Verortung.
-
-## 2.5 Formlogische Herleitung
-
-Die formlogische Herleitung des Begriffs Epistemolismus orientiert sich an der Elementaroperation der Unterscheidung, wie sie George Spencer-Brown in seinem Werk Laws of Form beschrieben hat. Dort wird jede Formbildung auf die Handlung zurückgeführt, eine Unterscheidung zu setzen. Diese Unterscheidung erzeugt zwei Seiten: Eine markierte und eine unmarkierte. Erst durch diese Differenz entsteht Sichtbarkeit, Trennschärfe und strukturelle Anschlussfähigkeit.
-
-Grundsätzlich wird Erkenntnis möglich, wenn eine Form gezeichnet wird. Diese Form besteht aus der Differenz eines Innen und eines Außen. Der epistemolische Vollzug beginnt genau an dieser Stelle. Ein Gedanke wird sichtbar gemacht, indem er von anderen Gedanken abgesetzt und als unterscheidbar markiert wird. Die Sichtbarkeit ist keine Eigenschaft des Gedachten, sondern ein Effekt der Unterscheidung, durch die diese im Raum des Möglichen erscheint.
-
-In der epistemolischen Praxis ist diese Formoperation allgegenwärtig. Jede Versionierung eines Gedankens ist eine Unterscheidung zwischen Vor- und Nachzustand. Jede Kommentierung ist eine Unterscheidung zwischen Erstbeobachtung und Zweitbeobachtung. Jede Reflexion ist eine Wieder-Eingabe der Unterscheidung in ihren eigenen Raum. Dies entspricht der Spencer-Brownschen Operation der Re-entry. Die Form kehrt in sich selbst zurück und ermöglicht so höhere Ordnung von Beobachtbarkeit.
-
-Die epistemolische Haltung greift diesen Gedanken auf, indem sie den Vollzug der Unterscheidung nicht nur vollzieht, sondern explizit sichtbar macht. Erkenntnis entsteht nicht durch Repräsentation, sondern durch die Beobachtbarkeit der Beobachtung. Die epistemolische Dokumentation ist daher kein nachträgliches Protokoll, sondern ein formlogischer Akt, in dem Denken strukturiert auftritt.
-
-Die Grundform des Epistemolismus lässt sich als sequenziell operierende Reihung von Unterscheidungen verstehen. Jede neue Version ist eine neue Markierung innerhalb eines bereits differenzierten Denkraums. Die daraus entstehende Struktur ist nicht linear, sondern rekursiv organisiert. Der Gedanke tritt nicht isoliert auf, sondern in Beziehung zu seinen Vorformen und Umformulierungen.
-
-Die formlogische Perspektive zeigt, dass Epistemolismus keine Methodensammlung ist, sondern eine Formlogik wissenschaftlichen Arbeitens. Die Unterscheidung, ihre Sichtbarkeit und ihre Wiederaufnahme bilden das epistemische Gefüge, in dem Erkenntnis als Bewegung, Rückkopplung und Verweisstruktur erscheint.
-
-## 2.5 Radikaler Epistemolismus
+## 2.4 Radikaler Epistemolismus
 
 Der radikale Epistemolismus beschreibt eine Haltung und Praxis, die epistemische Prozesse strukturell sichtbar, reflexiv rekonstruierbar und kollektiv zugänglich macht. Die Radikalität dieses Ansatzes liegt in der Entscheidung, Erkenntnisprozesse nicht bloß als Gegenstand theoretischer Beschreibung zu behandeln, sondern als methodisch realisierte Formvollzüge zu verstehen, die dokumentiert, versioniert und rückverfolgbar gemacht werden.
 
@@ -147,39 +104,68 @@ Der epistemolische Zugang unterscheidet sich damit von klassischen epistemologis
 Diese Praxis nutzt digitale Infrastruktur nicht nur als Medium, sondern als konstitutives Element einer neuen Form epistemischer Selbstbeobachtung. Versionierungssysteme, Markdown-Formate, referenzierbare Webplattformen und kollaborative Werkzeuge schaffen einen Möglichkeitsraum, in dem Erkenntnis nicht nur entsteht, sondern auch sichtbar bleibt. Die technologische Medialität wird epistemologisch funktionalisiert (vgl. Koller, 2012).
 
 Der radikale Epistemolismus ist damit keine Theorie im engeren Sinne, sondern ein konzeptuell-methodisches Dispositiv. Er integriert formlogische Grundlagen (Spencer-Brown, 1969), systemtheoretische Selbstreferenz (Luhmann, 1990), biologische Kognitionstheorie (Varela, 1990) und historische Epistemologie (Rheinberger, 1997) zu einer rekursiv strukturierten Praxis wissenschaftlicher Selbstartikulation.
+## 2.5 Mathematische Modellierung
+
+Der Begriff Epistemolismus beschreibt eine wissenschaftliche Praxisform, in der die Sichtbarmachung, Rückverfolgbarkeit und Reflexion von Erkenntnisprozessen strukturell ermöglicht wird. Um diese Dynamik auch formal zu beschreiben, bietet sich die Modellierung epistemischer Vollzüge als komplexe Struktur im mathematischen Sinne an. Die Verwendung komplexer Zahlen erlaubt die unterschiedliche Anteile eines Erkenntnisprozesses darstellbar zu machen, ohne dabei auf eindimensionale Modelle der Wissensproduktion zurückzugreifen.
+
+Ausgangspunkt ist die Annahme, dass jede wissenschaftliche Aussage $A$ aus einer Kombination sichtbar dokumentierter und reflexiv rekonstruierbarer Anteile $R$ sowie subjektiv kontextualisierter, nicht vollständig formal explizierbarer Anteile $I$ besteht. Diese Struktur lässt sich durch die Form einer komplexen Zahl darstellen (vgl. Formel (1)):
+
+$$
+A = R + iI \tag{1}
+$$
+
+Dabei bezeichnet $R$ den reellen Anteil wissenschaftlicher Praxis, der in Form von Commit-Historien, kommentierten Versionen, reflexiven Textabschnitten oder strukturierten Argumentationsverläufen dokumentiert ist. Der Imaginärteil $I$ repräsentiert jenen Anteil, der durch Intuition, Erfahrung, Sprachsinn, Lebenskontext oder leibliche Welthaltigkeit mitgetragen wird, ohne sich vollständig objektivieren zu lassen. Dieser nicht-formalisierbare Anteil bleibt epistemisch wirksam, auch wenn er nicht vollständig expliziert wird (vgl. Rheinberger, 1997; Varela, 1990).
+
+Der Betrag $T$ dieser komplexen Aussage beschreibt deren epistemische Transparenz. Diese Größe wird nicht durch die Absolutheit einer Wahrheit bestimmt, sondern durch die rekonstruktive Nachvollziehbarkeit des Erkenntnisverlaufs (vgl. Formel (2)):
+
+$$
+T = |A| = \sqrt{R^2 + I^2} \tag{2}
+$$
+
+Je höher der Wert $T$, desto stärker ist der epistemische Prozess insgesamt sichtbar gemacht. Beide Anteile – der dokumentierte Verlauf ($R$) und der kontextuelle Gehalt ($I$) – tragen zum epistemischen Gesamtwert bei. Die modellhafte Symmetrie dieser Komponenten verweist auf die Gleichwertigkeit sichtbarer und unsichtbarer Erkenntniselemente im epistemolischen Verständnis.
+
+Die epistemische Richtung eines Denkprozesses lässt sich durch das Argument $\theta$ bestimmen. Dieser Winkel ergibt sich aus dem Verhältnis von Imaginär- zu Reellanteil und beschreibt die Orientierung einer Erkenntniseinheit innerhalb des wissenschaftlichen Möglichkeitsraums (vgl. Formel (3)):
+
+$$
+\theta = \arctan\left(\frac{I}{R}\right) \tag{3}
+$$
+
+Das Argument $\theta$ beschreibt damit, wie stark ein Denkprozess formalisiert und dokumentiert ist ($\theta$ nahe null) oder wie sehr er sich auf implizite, kreative oder subjektive Anteile stützt ($\theta$ nahe $\frac{\pi}{2}$). Dieser Wert ist nicht normativ zu verstehen, sondern als Richtungsindikator innerhalb einer komplexen Epistemosphäre, in der unterschiedliche Erkenntnisformen koexistieren (vgl. Luhmann, 1990; Koller, 2012).
+
+Die Verwendung der komplexen Zahl als Modell erlaubt eine formale Annäherung an das Spannungsverhältnis zwischen explizitem Wissen und impliziter Welthaltigkeit. Sie verdeutlicht, dass epistemische Geltung nicht aus der Eliminierung kontextueller Anteile entsteht, sondern durch deren strukturierte Sichtbarmachung und relationale Verortung.
 
 ## 2.6 Formlogische Herleitung
 
 Die formlogische Herleitung des Begriffs Epistemolismus orientiert sich an der elementaren Operation des Unterscheidens, wie sie George Spencer-Brown in *Laws of Form* beschrieben hat. Jede Form entsteht durch das Setzen einer Unterscheidung. Diese Operation erzeugt eine Differenz zwischen dem, was in die Form eingeht, und dem, was ausgeschlossen bleibt. Spencer-Brown notiert diesen Akt als Zeichnung einer „Mark“, dargestellt durch einen offenen Kreis. Diese grafische Form ist keine Metapher, sondern eine logische Setzung, durch die ein epistemischer Raum eröffnet wird (Spencer-Brown, 1969, S. 1).
 
-Die ursprüngliche Markierungsoperation lautet:
+Die ursprüngliche Markierungsoperation lautet (vgl. Formel (4)):
 
 $$
-\bigcirc \tag{1}
+\bigcirc \tag{4}
 $$
 
 Sie bezeichnet die Konstitution eines sichtbaren Bereichs durch eine epistemische Grenze. Für die epistemolische Praxis bedeutet dies, dass jeder dokumentierte Gedanke, jede versionierte Notiz, jede reflektierte Passage Ausdruck einer solchen Markierung ist. Die epistemische Sichtbarkeit erscheint als Folge einer Formsetzung.
 
-Wird diese Unterscheidung selbst zum Gegenstand weiterer Beobachtung, kehrt die Form in sich zurück. Spencer-Brown beschreibt dies als Re-entry:
+Wird diese Unterscheidung selbst zum Gegenstand weiterer Beobachtung, kehrt die Form in sich zurück. Spencer-Brown beschreibt dies als Re-entry (vgl. Formel (5)):
 
 $$
-\bigcirc(\bigcirc) \tag{2}
+\bigcirc(\bigcirc) \tag{5}
 $$
 
 Im epistemolischen Verständnis entspricht dies der Reflexion eines markierten Gedankens. Der Denkprozess wird nicht nur dokumentiert, sondern beobachtet und kontextualisiert. Versionslogik, Kommentarzeilen oder Reflexionseinträge bilden solche Re-entry-Strukturen. Damit wird nicht nur das Gedachte sichtbar, sondern auch das Denken über das Denken (Luhmann, 1990; Varela, 1990).
 
-Wenn ein Übergang in einen neuen Denkraum stattfindet, durch Revision, Perspektivwechsel oder einen Paradigmenbruch, führt dies zur folgneder Transformation der Markierung:
+Wenn ein Übergang in einen neuen Denkraum stattfindet, durch Revision, Perspektivwechsel oder einen Paradigmenbruch, führt dies zur folgneder Transformation der Markierung (vgl. Formel (6)):
 
 $$
-\bigcirc \longrightarrow \bigcirc' \tag{3}
+\bigcirc \longrightarrow \bigcirc' \tag{6}
 $$
 
 Diese Cross-Operation steht für epistemische Verschiebungen. Sie markiert den Punkt, an dem ein bestehender Geltungsraum verlassen und durch einen neuen ersetzt wird. Dies geschieht im epistemolischen System beispielsweise bei Neufassungen, Kommentierungen früherer Versionen oder durch das Setzen kontrastierender Deutungsangebote (Rheinberger, 1997).
 
-Die epistemolische Praxis bildet nicht nur Einzelmarken, sondern sequenzielle Formketten. Versionierung erzeugt eine strukturierte Zeitlichkeit epistemischer Setzungen:
+Die epistemolische Praxis bildet nicht nur Einzelmarken, sondern sequenzielle Formketten. Versionierung erzeugt eine strukturierte Zeitlichkeit epistemischer Setzungen (vgl. Formel (7)):
 
 $$
-\bigcirc_1 \rightarrow \bigcirc_2 \rightarrow \bigcirc_3 \tag{4}
+\bigcirc_1 \rightarrow \bigcirc_2 \rightarrow \bigcirc_3 \tag{7}
 $$
 
 Jede neue Markierung verweist auf die vorherige, enthält deren Kontextualisierung und erzeugt Anschlussfähigkeit für neue Beobachtungen. Diese Dynamik bildet eine epistemosphärische Spur, in der Erkenntnis als dokumentierte Differenz auftritt.
@@ -199,47 +185,55 @@ Diese formlogische Herleitung zeigt, dass Epistemolismus nicht nur eine methodis
 
 Die epistemolische Praxis beruht auf Operationen, die durch Wiederholung, Rekursion und Kontextualisierung gekennzeichnet sind. Diese Operationen lassen sich in einem symbolischen Kalkül ausdrücken, der auf der Formlogik nach Spencer-Brown basiert. Die grundlegende Setzung einer Unterscheidung bildet dabei die elementare Handlung. Erkenntnis entsteht als Form, die sich durch eine Grenze strukturiert und zugleich eine neue Differenz etabliert (Spencer-Brown, 1969).
 
-Die erste gültige Operation innerhalb dieses Kalküls ist die Setzung einer epistemischen Markierung:
+Die erste gültige Operation innerhalb dieses Kalküls ist die Setzung einer epistemischen Markierung (vgl. Formel (8)):
 
 $$
-A_1 := \bigcirc \tag{1}
+A_1 := \bigcirc \tag{8}
 $$
 
-Diese Form bezeichnet die Sichtbarmachung eines Gedankens. Sie eröffnet einen epistemischen Raum. Die Position dieser Markierung ist der Anfang eines dokumentierten Denkprozesses im Sinne epistemolischer Praxis.
+Diese Form bezeichnet die Sichtbarmachung eines Gedankens. Sie eröffnet einen epistemischen Raum. Die Position dieser Markierung ist der Anfang eines dokumentierten Denkprozesses im Sinne epistemolischer Praxis (vgl. Formel (8)).
 
-Wird die gesetzte Markierung selbst erneut zum Gegenstand der Beobachtung, ergibt sich eine Operation höherer Ordnung. Spencer-Brown beschreibt diesen Prozess als Re-entry. Die Form kehrt in sich zurück:
-
-$$
-A_2 := \bigcirc(\bigcirc) \tag{2}
-$$
-
-Im epistemolischen Denken stellt dies den Moment der dokumentierten Reflexion dar. Eine frühere Version wird nicht nur wieder aufgegriffen, sondern innerhalb ihres eigenen Markierungsraumes reflektiert. Dies ermöglicht Versionierung nicht als Aneinanderreihung, sondern als strukturierte Geschichte epistemischer Entscheidungen (Luhmann, 1990).
-
-Innerhalb eines solchen Systems führt eine Verschiebung der Markierung, durch Transformation, Kontrastsetzung oder Reinterpretation, zu einer Übergangsoperation, die als "Cross" bezeichnet werden kann:
+Wird die gesetzte Markierung selbst erneut zum Gegenstand der Beobachtung, ergibt sich eine Operation höherer Ordnung. Spencer-Brown beschreibt diesen Prozess als Re-entry. Die Form kehrt in sich zurück (vgl. Formel (9)):
 
 $$
-A_3 := \bigcirc \longrightarrow \bigcirc' \tag{3}
+A_2 := \bigcirc(\bigcirc) \tag{9}
 $$
 
-Diese Bewegung beschreibt einen Wechsel der epistemischen Konfiguration. Die neue Markierung $\bigcirc'$ bezieht sich auf die vorhergehende, ersetzt sie jedoch nicht, sondern konstituiert einen eigenständigen Denkraum. Dies entspricht einem Paradigmenwechsel im Sinne einer beobachtbaren epistemischen Repositionierung (Rheinberger, 1997).
+Im epistemolischen Denken stellt dies den Moment der dokumentierten Reflexion dar. Eine frühere Version wird nicht nur wieder aufgegriffen, sondern innerhalb ihres eigenen Markierungsraumes reflektiert. Dies ermöglicht Versionierung nicht als Aneinanderreihung, sondern als strukturierte Geschichte epistemischer Entscheidungen (Luhmann, 1990) (vgl. Formel (9)).
 
-Die zeitliche Dimension epistemischer Dynamik wird durch eine Abfolge von Markierungen dargestellt. Jede Version entspricht einer neuen epistemischen Setzung mit Bezug auf ihren Vorzustand:
-
-$$
-\bigcirc_1 \rightarrow \bigcirc_2 \rightarrow \bigcirc_3 \tag{4}
-$$
-
-Diese Kette markierter Formen beschreibt nicht nur Entwicklung, sondern auch Differenzierung. Die Kohärenz epistemischer Arbeit zeigt sich nicht in Stabilität, sondern in dokumentierter Veränderung (Koller, 2012).
-
-Ein vollständiger Zyklus epistemolischen Arbeitens umfasst Markierung, Reflexion, Revision und erneute Reflexion. Dies lässt sich im Kalkül als iterativer Bewegungsraum ausdrücken:
+Innerhalb eines solchen Systems führt eine Verschiebung der Markierung, durch Transformation, Kontrastsetzung oder Reinterpretation, zu einer Übergangsoperation, die als "Cross" bezeichnet werden kann (vgl. Formel (10)):
 
 $$
-\bigcirc_i \Rightarrow \bigcirc(\bigcirc_i) \Rightarrow \bigcirc_i' \Rightarrow \bigcirc(\bigcirc_i') \tag{5}
+A_3 := \bigcirc \longrightarrow \bigcirc' \tag{10}
 $$
 
-Diese Schleife steht für die Rekursion epistemischer Geltung. Somit entsteht eine dynamische Struktur, in der Beobachtung, Geltung und Reflexion miteinander verschaltet sind. Erkenntnis zeigt sich darin nicht als Zustand, sondern als strukturierter Übergang. Der epistemolische Kalkül stellt diese Übergänge dar, nicht um sie zu fixieren, sondern um ihre Beweglichkeit nachvollziehbar zu machen.
+Diese Bewegung beschreibt einen Wechsel der epistemischen Konfiguration. Die neue Markierung $\bigcirc'$ bezieht sich auf die vorhergehende, ersetzt sie jedoch nicht, sondern konstituiert einen eigenständigen Denkraum. Dies entspricht einem Paradigmenwechsel im Sinne einer beobachtbaren epistemischen Repositionierung (Rheinberger, 1997) (vgl. Formel (10)).
+
+Die zeitliche Dimension epistemischer Dynamik wird durch eine Abfolge von Markierungen dargestellt. Jede Version entspricht einer neuen epistemischen Setzung mit Bezug auf ihren Vorzustand (vgl. Formel (11)):
+
+$$
+\bigcirc_1 \rightarrow \bigcirc_2 \rightarrow \bigcirc_3 \tag{11}
+$$
+
+Diese Kette markierter Formen beschreibt nicht nur Entwicklung, sondern auch Differenzierung. Die Kohärenz epistemischer Arbeit zeigt sich nicht in Stabilität, sondern in dokumentierter Veränderung (Koller, 2012) (vgl. Formel (11)).
+
+Ein vollständiger Zyklus epistemolischen Arbeitens umfasst Markierung, Reflexion, Revision und erneute Reflexion. Dies lässt sich im Kalkül als iterativer Bewegungsraum ausdrücken (vgl. Formel (12)):
+
+$$
+\bigcirc_i \Rightarrow \bigcirc(\bigcirc_i) \Rightarrow \bigcirc_i' \Rightarrow \bigcirc(\bigcirc_i') \tag{12}
+$$
+
+Diese Schleife steht für die Rekursion epistemischer Geltung. Somit entsteht eine dynamische Struktur, in der Beobachtung, Geltung und Reflexion miteinander verschaltet sind. Erkenntnis zeigt sich darin nicht als Zustand, sondern als strukturierter Übergang. Der epistemolische Kalkül stellt diese Übergänge dar, nicht um sie zu fixieren, sondern um ihre Beweglichkeit nachvollziehbar zu machen (vgl. Formel (12)).
 
 Die symbolische Beschreibung dieser Prozesse erlaubt eine formale Explikation epistemischer Handlungsvollzüge. Sie macht sichtbar, wie Erkenntnisprozesse in Versionierungssystemen, Diskurspraktiken oder kollaborativen Reflexionsräumen konkretisiert werden. Der Kalkül fungiert dabei als semantisch strukturierbares Medium epistemischer Selbstbeobachtung.
+
+## 2.8 Beispiele
+
+Die bislang entwickelten begrifflichen, theoretischen und formstrukturellen Grundlagen des Epistemolismus entfalten ihre Wirksamkeit im Modus abstrakter Reflexion sowie vor allem in der konkreten Ausgestaltung wissenschaftlicher Praxis. Die folgenden Beispiele zeigen, wie epistemolische Prinzipien wie Sichtbarkeit, Versionierung, Re-entry, Kontextualisierung und reflexive Selbstbeobachtung methodisch und technisch umgesetzt werden können.
+
+Dabei wird epistemische Geltung durch das Ergebnis bestimmt und durch die dokumentierte Bewegung, in der dieses Ergebnis zustande kommt. Erkenntnis erscheint hier nicht als Zustand, sondern als differenziell rekonstruierbare Form d.h. situiert in digitalen Infrastrukturen, strukturiert durch technologische Medien und beobachtbar in ihrer Genese.
+
+Die Auswahl der Beispiele folgt keiner taxonomischen Ordnung, sondern illustriert unterschiedliche Umsetzungsformen epistemolischer Praxis in Forschung, Lehre und curricularer Gestaltung. Gemeinsam ist ihnen der Anspruch, Denkprozesse nicht nur zu vollziehen, sondern auch strukturell sichtbar zu machen; als dokumentierte Spur epistemischer Entscheidungen, als verantwortete Form wissenschaftlicher Selbstbeobachtung.
 
 ### 2.8.1 Git-basierte Forschungsnotizen
 
@@ -347,21 +341,19 @@ Zudem eröffnet eine solche Struktur neue didaktische Perspektiven. Lernende und
 
 ### 2.8.6 Sichtbar gewordene Kriterienverletzung im eigenen Textprozess
 
-Ein besonders sprechendes Beispiel epistemolischer Praxis entsteht dort, wo die Formstruktur der Erkenntnisproduktion selbst sichtbar wird – nicht geplant, sondern als Resultat eines methodologisch reflektierten Bruchs. Der hier vorliegende Text wurde zunächst in einem konsolidierten Zustand veröffentlicht, ohne dass die einzelnen Denkbewegungen, Revisionen oder commit-basierten Zwischenschritte dokumentiert waren. Damit wurde das epistemolisch formulierte Kriterium der versionierten Sichtbarkeit verletzt.  ([Commit 078c162ae8](https://git.jochen-hanisch.de/research/methodologie/commit/078c162ae8d595680f9de91c4adc02d290b30fde))
+Ein besonders sprechendes Beispiel epistemolischer Praxis entsteht dort, wo die Formstruktur der Erkenntnisproduktion selbst sichtbar wird – nicht geplant, sondern als Resultat eines methodologisch reflektierten Bruchs. Der hier vorliegende Text wurde zunächst in einem konsolidierten Zustand veröffentlicht, ohne dass die einzelnen Denkbewegungen, Revisionen oder commit-basierten Zwischenschritte dokumentiert waren. Damit wurde das epistemolisch formulierte Kriterium der versionierten Sichtbarkeit verletzt. ([Commit 078c162ae8](https://git.jochen-hanisch.de/research/methodologie/commit/078c162ae8d595680f9de91c4adc02d290b30fde))
 
 Erst in einem späteren Bearbeitungsschritt – konkret in einem Commit-Kommentar zur Einfügung des Epilogs – wurde durch eine unübersehbare Formulierung sichtbar, dass ein KI-gestütztes Assistenzsystem beteiligt war. Die Metakommentierung („Hier ist der Epilog nochmals sprachlich überarbeitet – nun vollständig ohne Doppelpunkte, wie gewünscht“) trug ungewollt die Signatur eines dialogischen Prozesses, der zuvor nicht explizit kenntlich gemacht worden war. Die Infrastruktur des Git-Repositories markierte diesen Zusammenhang transparent und unwiderruflich. ([Commit 897660be1f](https://git.jochen-hanisch.de/research/methodologie/commit/897660be1f5fb92d569c9cd40805fc20d637b7da))
 
-Was hier sichtbar wurde, war keine Absicht, sondern eine epistemische Spur. Die Verletzung des Prinzips war nicht bloße Inkonsequenz, sondern Ausdruck eines Spannungsfeldes, das epistemolische Praxis gerade anerkennt; das Bedürfnis nach Form vor Sichtbarkeit, nach Ergebnis vor Offenheit. Die anschließende Offenlegung dieser Struktur, bewusst nicht gelöscht, sondern veröffentlicht und markiert einen entscheidenden Punkt epistemischer Integrität (Döring, 2023). Die Theorie wurde nicht durchgesetzt, sondern beobachtet^[Döring (2023) fordert in ihrer Darstellung der empirischen Sozialforschung eine reflektierte Transparenz epistemischer Voraussetzungen. Methodische Entscheidungen seien sichtbar zu machen und im Sinne theoretischer Offenheit zu reflektieren. Diese Forderung lässt sich auf den Einsatz KI-gestützter Systeme übertragen. Auch digitale Assistenzmittel beeinflussen die Struktur des Erkenntnisprozesses substanziell und sollten daher als epistemisch relevante Bedingungen dokumentiert werden (vgl. Döring, 2023, S. 25–41)].
+Was hier sichtbar wurde, war keine Absicht, sondern eine epistemische Spur. Die Verletzung des Prinzips war nicht bloße Inkonsequenz, sondern Ausdruck eines Spannungsfeldes, das epistemolische Praxis gerade anerkennt: das Bedürfnis nach Form vor Sichtbarkeit, nach Ergebnis vor Offenheit. Die anschließende Offenlegung dieser Struktur, bewusst nicht gelöscht, sondern veröffentlicht, markiert einen entscheidenden Punkt epistemischer Integrität (Döring, 2023). Die Theorie wurde nicht durchgesetzt, sondern beobachtet^[Döring (2023) fordert in ihrer Darstellung der empirischen Sozialforschung eine reflektierte Transparenz epistemischer Voraussetzungen. Methodische Entscheidungen seien sichtbar zu machen und im Sinne theoretischer Offenheit zu reflektieren. Diese Forderung lässt sich auf den Einsatz KI-gestützter Systeme übertragen. Auch digitale Assistenzmittel beeinflussen die Struktur des Erkenntnisprozesses substanziell und sollten daher als epistemisch relevante Bedingungen dokumentiert werden (vgl. Döring, 2023, S. 25–41)].
 
 In dieser Bewegung manifestiert sich das Prinzip des Re-entry. Der epistemolische Text wird sich selbst zum Gegenstand. Der Bruch mit dem eigenen Anspruch wird nicht kaschiert, sondern dokumentiert. Die epistemische Geltung entsteht nicht durch Kriterientreue, sondern durch strukturierte Rückbindung an ihre eigene Entstehungsbedingung. Was sichtbar bleibt, ist nicht ein fertiges Ergebnis, sondern die Differenz zwischen Anspruch und Vollzug.
-
-Gerade darin liegt die Stärke epistemolischer Praxis, denn jede Entscheidung, jede Struktur und damit jede Entwicklung wird beobachtbar. Sichtbarkeit entsteht nicht durch Perfektion, sondern durch das Offenhalten der Form - und ja, das macht verletzlich...
 
 ## 2.9 Epistemische Infrastrukturen aus Spach- und Kulturräumen
 
 Wissenschaftliche Praxis, wie hier eingeführt, entstand aus dem Bedürfnis heraus, eine Spannungsfeld überwinden zu wollen. Ausgangspunkt war die Beobachting, dass sich wissenschaftliche Erkenntnisformen in unterschiedlichen Sprach- und Publikationskulturen systematisch unterscheiden – sowohl im Hinblick auf die bevorzugten Medien (Paper, Monografie, Beitrag), als auch hinsichtlich ihrer epistemologischen Grundhaltungen.
 
-Eine vergleichende Betrachtung wissenschaftlicher Veröffentlichungspraktiken zwischen dem angloamerikanischen und dem deutschsprachigen Raum zeigt [Abbildung 1:](https://public.jochen-hanisch.de/plot/promotion/visualize_language_entrytypes_02-01.html)^[Die Abbildungen liegen als interaktives html-Format vor.]: Während im angloamerikanischen Raum das Journal Paper als bevorzugtes Format vorherrscht – mit Fokus auf Funktionalität, Standardisierung und Operationalisierung –, dominieren im deutschsprachigen Raum Monografien und Buchbeiträge, die eher hermeneutisch, historisierend und reflexiv orientiert sind. Diese Formunterschiede sind nicht äußerlich, sondern Ausdruck tiefer liegender kultureller Prägungen epistemischer Ordnungen.
+Eine vergleichende Betrachtung wissenschaftlicher Veröffentlichungspraktiken zwischen dem angloamerikanischen und dem deutschsprachigen Raum zeigt Abbildung 1: Vergleich von Sprach- und Publikationskulturen^[Die interaktive Visualisierung liegt unter der angegebenen URL als HTML-Datei vor und zeigt eine vergleichende Auswertung nach Ländern und Publikationsformaten: https://public.jochen-hanisch.de/plot/promotion/visualize_language_entrytypes_02-01.html]: Während im angloamerikanischen Raum das Journal Paper als bevorzugtes Format vorherrscht – mit Fokus auf Funktionalität, Standardisierung und Operationalisierung –, dominieren im deutschsprachigen Raum Monografien und Buchbeiträge, die eher hermeneutisch, historisierend und reflexiv orientiert sind. Diese Formunterschiede sind nicht äußerlich, sondern Ausdruck tiefer liegender kultureller Prägungen epistemischer Ordnungen.
 
 Die deutschsprachige Wissenschaftskultur ist durch das humboldtsche Ideal des gebildeten Subjekts, durch narrative Argumentationsformen, kontextuelle Einbettung geprägt und im Denken in historischen Entwicklungslinien. Der angloamerikanische Wissenschaftsdiskurs favorisiert ein Erkenntnismodell, das auf Reproduzierbarkeit, Stringenz und technischer Prüfbarkeit basiert d.h. epistemisch effizient, möglicherweise häufig blind gegenüber seinen eigenen Voraussetzungen.
 
@@ -418,6 +410,8 @@ Wo klassische Wissenschaft auf Resultate und Repräsentation setzt, arbeitet der
 In diesem Sinne lassen sich tradierte und epistemolische Wissenschaftskulturen als zwei ineinander greifende Modi beschreiben. Die klassische Form fokussiert die geschlossene Darstellung, der Epistemolismus öffnet den Zugang zur Entstehung. Die eine erzeugt Orientierung durch Autorität und Fixierung, die andere durch Offenheit und Rückverfolgbarkeit. In der Gegenüberstellung wird sichtbar, dass beide Ansätze auf unterschiedliche Bedingungen wissenschaftlicher Geltung antworten; die eine auf formale Validierung, die andere auf rekursive Transparenz.
 
 Die wissenschaftliche Praxis der Zukunft wird nicht in der Entscheidung für das eine oder andere Modell bestehen, sondern in der bewussten Gestaltung ihrer Kombination. Der Epistemolismus erweitert den Möglichkeitsraum wissenschaftlichen Denkens um eine Dimension struktureller Sichtbarkeit, in der Reflexion, Versionierung und partizipative Anschlussfähigkeit nicht nur möglich, sondern methodisch notwendig werden. Damit wird Wissenschaft nicht entgrenzt, sondern epistemologisch vertieft.
+
+Diese Verschiebung bedeutet keine Ablösung, sondern eine strukturelle Ergänzung (vgl. Kapitel 2.9 zur kulturvergleichenden Herleitung).
 
 # 4 Implikationen
 
@@ -479,22 +473,22 @@ Der Epistemolismus behauptet keine Reinheit. Er erlaubt Brüche, Rücknahmen und
 Der vorliegende Text stellt keinen Abschluss dar. Er markiert einen Zustand innerhalb einer Bewegung. Seine Veröffentlichung ist kein Endpunkt, sondern ein Übergang innerhalb eines rekursiven Erkenntnisprozesses. Was bleibt, ist eine Form. Offen, beobachtbar, wieder aufnehmbar. Genau darin liegt ihr wissenschaftlicher Wert.
 # Quelle(n)
 
-- Bauer, Wolfgang, Dengerink, Jurriën, & Struyven, Katrien. (2021). _Reflexive Teacher Education_. Springer.
-- Döring, N. (2023). _Wissenschaftstheoretische Grundlagen der empirischen Sozialforschung_. In N. Döring & J. Bortz (Hrsg.), _Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften_ (6. Aufl., S. 21–41). Springer.
-- Fecher, Benedikt, & Friesike, Sascha. (2014). Open Science: One Term, Five Schools of Thought. In Sascha Bartling & Sascha Friesike (Eds.), _Opening Science_ (pp. 17–47). Springer.
-- Foucault, Michel. (2001). _Die Ordnung der Dinge: Eine Archäologie der Humanwissenschaften_ (10. Aufl.). Suhrkamp. (Originalarbeit 1973)
-- Klein, Martin, Broadwell, Peter, Farb, Sharon E., & Grappone, Todd. (2022). Comparing published scientific journal articles to their pre-print versions. _PLOS ONE, 17_(3), e0265541. https://doi.org/10.1371/journal.pone.0265541
-- Kitchin, Rob. (2014). _The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences_. SAGE.
-- Knorr Cetina, Karin. (1981). _The Manufacture of Knowledge: An Essay on the Constructivist and Contextual Nature of Science_. Pergamon.
-- Koller, Hans-Christoph. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
-- Luhmann, Niklas. (1990). _Die Wissenschaft der Gesellschaft_. Suhrkamp.
-- Rheinberger, Hans-Jörg. (1997). _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_. Harvard University Press.
-- Spencer-Brown, George. (1969). _Laws of Form_. Allen & Unwin.
-- Steup, Matthias. (2018). Epistemology. In Edward N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition). [https://plato.stanford.edu/archives/fall2018/entries/epistemology/](https://plato.stanford.edu/archives/fall2018/entries/epistemology/)
-- Tremel, Rebecca. (2016). Reflexionskompetenz als Teil von Lehrer*innenprofessionalität. In Susanne Reh & Christine Schmerer (Hrsg.), _Reflexionskompetenz_ (S. 63–80). Beltz Juventa.
-- Varela, Francisco J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
-- von Glasersfeld, Ernst. (1995). _Radical Constructivism: A Way of Knowing and Learning_. Routledge.
-- Ziebarth, Stefan. (2019). _Reflexivität und Subjektkonstitution in E-Portfolios_. Beltz Juventa.
+- Bauer, Wolfgang, Dengerink, Jurriën, & Struyven, Katrien. (2021). _Reflexive Teacher Education_. Springer.
+- Döring, N. (2023). _Wissenschaftstheoretische Grundlagen der empirischen Sozialforschung_. In N. Döring & J. Bortz (Hrsg.), _Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften_ (6. Aufl., S. 21–41). Springer.
+- Fecher, Benedikt, & Friesike, Sascha. (2014). Open Science: One Term, Five Schools of Thought. In Sascha Bartling & Sascha Friesike (Eds.), _Opening Science_ (pp. 17–47). Springer.
+- Foucault, Michel. (2001). _Die Ordnung der Dinge: Eine Archäologie der Humanwissenschaften_ (10. Aufl.). Suhrkamp. (Originalarbeit 1973)
+- Klein, Martin, Broadwell, Peter, Farb, Sharon E., & Grappone, Todd. (2022). Comparing published scientific journal articles to their pre-print versions. _PLOS ONE, 17_(3), e0265541. https://doi.org/10.1371/journal.pone.0265541
+- Kitchin, Rob. (2014). _The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences_. SAGE.
+- Knorr Cetina, Karin. (1981). _The Manufacture of Knowledge: An Essay on the Constructivist and Contextual Nature of Science_. Pergamon.
+- Koller, Hans-Christoph. (2012). _Bildung anders denken: Einführung in die Theorie transformatorischer Bildungsprozesse_. Kohlhammer.
+- Luhmann, Niklas. (1990). _Die Wissenschaft der Gesellschaft_. Suhrkamp.
+- Rheinberger, Hans-Jörg. (1997). _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_. Harvard University Press.
+- Spencer-Brown, George. (1969). _Laws of Form_. Allen & Unwin.
+- Steup, Matthias. (2018). Epistemology. In Edward N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition). [https://plato.stanford.edu/archives/fall2018/entries/epistemology/](https://plato.stanford.edu/archives/fall2018/entries/epistemology/)
+- Tremel, Rebecca. (2016). Reflexionskompetenz als Teil von Lehrer*innenprofessionalität. In Susanne Reh & Christine Schmerer (Hrsg.), _Reflexionskompetenz_ (S. 63–80). Beltz Juventa.
+- Varela, Francisco J. (1990). _Ethical Know-How: Action, Wisdom, and Cognition_. Stanford University Press.
+- von Glasersfeld, Ernst. (1995). _Radical Constructivism: A Way of Knowing and Learning_. Routledge.
+- Ziebarth, Stefan. (2019). _Reflexivität und Subjektkonstitution in E-Portfolios_. Beltz Juventa.
 
----
+----
 
