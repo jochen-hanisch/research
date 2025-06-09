@@ -665,7 +665,6 @@ def visualize_top_authors(bib_database):
     else:
         print("Keine Autoren gefunden.")
 
-
  # Top Titel nach Anzahl der Werke
 def normalize_title(title):
     # Entfernen von Sonderzeichen und Standardisierung auf Kleinbuchstaben
@@ -710,10 +709,7 @@ def visualize_top_publications(bib_database):
     fig.show(config={"responsive": True})
     export_figure(fig, "visualize_top_publications", export_fig_visualize_top_publications, bib_filename)
 
-
-
 ##########
-
 
 # Daten vorbereiten
 def prepare_path_data(bib_database):
@@ -844,7 +840,6 @@ def create_path_diagram(data):
     fig.update_layout(**layout)
     fig.show(config={"responsive": True})
     export_figure(fig, "create_path_diagram", export_fig_create_path_diagram, bib_filename)
-
 
 #############
 
@@ -1211,7 +1206,6 @@ def visualize_languages(bib_database):
     # Tabelle ausgeben
     print(tabulate(df.sort_values("Anzahl", ascending=False), headers="keys", tablefmt="grid", showindex=False))
     export_figure(fig, "visualize_languages", export_fig_visualize_languages, bib_filename)
-
 
 # Visualisierung der Verteilung von ENTRYTYPE innerhalb jeder Sprache
 def visualize_language_entrytypes(bib_database):
