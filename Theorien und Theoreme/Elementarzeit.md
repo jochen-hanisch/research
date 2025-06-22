@@ -488,12 +488,22 @@ Die Theorie kann nicht empirisch „validiert“ werden im Sinne externer Zeitme
 
 Die Einladung lautet, Zeit *nicht als Gegebenheit*, sondern als emergente Differenz zu denken. Eine Differenz, die, je nach System, anders strukturiert, anders beobachtet, aber stets auf Übergängen basiert. Die Elementarzeit bietet dafür kein letztes Wort, sondern eine erste Struktur. Sie fordert interdisziplinäre Forschung dazu auf, diese Struktur zu prüfen, zu differenzieren, weiterzuentwickeln, jenseits disziplinärer Begrenzungen, im Dialog von Physik, Philosophie, Sozialtheorie, Technik und Bildungsforschung.
 
+## 6 Zusammenfassung
 
+Die Theorie der Elementarzeit stellt einen radikalen Perspektivwechsel im Denken über Zeit dar. Im Zentrum steht die Annahme, dass Zeit nicht gegeben, sondern aus operativen Übergängen innerhalb komplexer Systeme generiert wird. Diese Übergänge, Inversion und Re-Inversion, strukturieren die zyklisch-gerichtete Abfolge der Elementaroperationen Feedback, Reflexion und Re-entry. Elementarzeit ist somit nicht bloß eine alternative Zeittheorie, sondern ein generatives Strukturprinzip, das klassischen Zeitbegriffen logisch und epistemisch vorausliegt.
 
+Die grundlegenden Prämissen der Theorie sind:
 
+- Zeit entsteht ausschließlich durch systeminterne Übergänge;
+- Sie ist weder universell noch objektiv gegeben, sondern eine emergente Differenzstruktur;
+- Ontologische und naturwissenschaftliche Zeitbegriffe lassen sich selbst nur aus diesen operativen Übergängen ableiten;
+- Die Elementarzeit beschreibt nicht, was Zeit „an sich“ sei, sondern wie Zeit überhaupt beobachtbar, rekonstruierbar und funktional generierbar wird.
 
+Zugleich erkennt die Theorie ihre eigenen epistemologischen Herausforderungen an. Kritische Punkte wie empirische Validierung, Anschlussfähigkeit, Tautologiegefahr oder intertemporale Kopplung werden im Kapitel 5 explizit benannt. Sie markieren nicht das Ende des Modells, sondern dessen reflexiven Horizont: Die Elementarzeit ist ein theoretisches Angebot zur strukturellen Integration unterschiedlicher Zeitkonzepte – kein normativer Universalismus, sondern eine Einladung zur interdisziplinären Weiterentwicklung.
 
+Im Ergebnis zeigt sich, dass die Elementarzeit  weder physikalisch messbar noch bloßes Bewusstseinsphänomen ist. Sie ist eine Struktur zweiter Ordnung, aus der sowohl naturwissenschaftliche als auch soziale und subjektive Zeitformen emergieren können – vorausgesetzt, dass Systeme in der Lage sind, qualitativ differente Zustände durch Übergänge zu koppeln. Erst in dieser Fähigkeit entsteht das, was wir als Zeit bezeichnen – nicht vorher, nicht außerhalb, sondern innerhalb der Struktur der Operationen.
 
+Die Theorie steht damit nicht im Widerspruch zu bestehenden Zeitmodellen, sondern vor ihnen: als Erklärung ihrer Möglichkeit.
 
 # Quelle(n)
 
