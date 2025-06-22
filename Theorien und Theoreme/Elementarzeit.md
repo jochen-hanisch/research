@@ -415,7 +415,7 @@ Zugleich bietet die Elementarzeit ein neues Vokabular für interdisziplinäre Ve
 
 Eine transdisziplinäre Zeitforschung, die über sektorale Modelle hinausgeht, braucht eine Strukturtheorie der Zeit. Die Elementarzeit erfüllt diese Bedingung; nicht durch normative Vereinheitlichung, sondern durch operativ fundierte Anschlusslogik. Sie zeigt, dass Zeit nicht das Trennende zwischen den Disziplinen ist, sondern das Verbindende, sofern diese nicht als äußere Dimension, sondern als emergente Struktur gedacht wird.
 
-## 5 Kritik
+# 5 Kritik
 
 Die Konzeption der Elementarzeit als emergente Struktur aus zyklisch-gerichteten [[Elementaroperationen]] stellt einen originären Beitrag zur Zeittheorie dar. Ihre theoretische Stärke liegt in der strukturellen Tiefenlogik, mit der disparate Zeitkonzepte integriert und auf einen gemeinsamen operativen Ursprung zurückgeführt werden. Gleichzeitig wirft dieses Modell grundlegende Fragen auf, die einer kritischen Reflexion bedürfen. Diese betreffen sowohl seine theoretische Konsistenz als auch seine Anschlussfähigkeit an bestehende Wissenschaftstraditionen.
 
@@ -504,7 +504,7 @@ Die Theorie kann nicht empirisch „validiert“ werden im Sinne externer Zeitme
 
 Die Einladung lautet, Zeit *nicht als Gegebenheit*, sondern als emergente Differenz zu denken. Eine Differenz, die, je nach System, anders strukturiert, anders beobachtet, aber stets auf Übergängen basiert. Die Elementarzeit bietet dafür kein letztes Wort, sondern eine erste Struktur. Sie fordert interdisziplinäre Forschung dazu auf, diese Struktur zu prüfen, zu differenzieren, weiterzuentwickeln, jenseits disziplinärer Begrenzungen, im Dialog von Physik, Philosophie, Sozialtheorie, Technik und Bildungsforschung.
 
-## 6 Zusammenfassung
+# 6 Zusammenfassung
 
 Die Theorie der Elementarzeit stellt einen radikalen Perspektivwechsel im Denken über Zeit dar. Im Zentrum steht die Annahme, dass Zeit nicht gegeben, sondern aus operativen Übergängen innerhalb komplexer Systeme generiert wird. Diese Übergänge, Inversion und Re-Inversion, strukturieren die zyklisch-gerichtete Abfolge der Elementaroperationen Feedback, Reflexion und Re-entry. Elementarzeit ist somit nicht bloß eine alternative Zeittheorie, sondern ein generatives Strukturprinzip, das klassischen Zeitbegriffen logisch und epistemisch vorausliegt.
 
@@ -523,64 +523,37 @@ Die Theorie steht damit nicht im Widerspruch zu bestehenden Zeitmodellen, sonder
 
 # Quelle(n)
 
-_noch zu konsolidieren_
+- Ashby, W. R. (1956). _An introduction to cybernetics_. London: Chapman & Hall.
+- Deacon, T. W. (2011). _Incomplete nature: How mind emerged from matter_. New York: W. W. Norton.
+- Dewey, J. (2001). _Erfahrung und Bildung_. Stuttgart: Klett-Cotta. (Originalarbeit 1938)
+- Einstein, A. (2001). _Über die spezielle und die allgemeine Relativitätstheorie: Gemeinverständlich_. Braunschweig: Vieweg. (Originalarbeit 1916)
+- Ellis, S., Carette, B., Anseel, F., & Lievens, F. (2014). Systematic reflection: Implications for learning from failures and successes. _Current Directions in Psychological Science, 23_(1), 67–72.
+- Festinger, L. (1957). _A theory of cognitive dissonance_. Stanford: Stanford University Press.
+- Foerster, H. von. (1993). _Wahrheit ist die Erfindung eines Lügners: Gespräche für Skeptiker_. Heidelberg: Carl-Auer.
+- Glasersfeld, E. von. (1995). _Radikaler Konstruktivismus: Ideen, Ergebnisse, Probleme_. Frankfurt am Main: Suhrkamp.
+- Hoffmeyer, J. (1996). _Signs of meaning in the universe_. Bloomington: Indiana University Press.
+- Husserl, E. (1991). _Zur Phänomenologie des inneren Zeitbewusstseins_ (R. Boehm, Hrsg.). Hamburg: Meiner. (Originalarbeit 1913)
+- Kant, I. (1998). _Kritik der reinen Vernunft_ (J. Timmermann & M. Textor, Hrsg.). Hamburg: Meiner. (Originalarbeit 1781)
+- Kolb, D. A. (1984). _Experiential learning: Experience as the source of learning and development_. Englewood Cliffs: Prentice Hall.
+- Luhmann, N. (1990). _Erkenntnis als Konstruktion_. Bern: Benteli.
+- Luhmann, N. (1997). _Die Gesellschaft der Gesellschaft_. Frankfurt am Main: Suhrkamp.
+- Maturana, H. R., & Varela, F. J. (1987). _Der Baum der Erkenntnis: Die biologischen Wurzeln des menschlichen Erkennens_. Bern: Scherz.
+- Mitchell, M. (2009). _Complexity: A guided tour_. Oxford: Oxford University Press.
+- Nowotny, H. (1989). _Eigenzeit: Entstehung und Strukturierung eines Zeitgefühls_. Frankfurt am Main: Suhrkamp.
+- Piaget, J. (1976). _Die Äquilibration der kognitiven Strukturen: Das zentrale Problem der kognitiven Entwicklung_. Stuttgart: Klett.
+- Prigogine, I., & Stengers, I. (1984). _Order out of chaos: Man’s new dialogue with nature_. New York: Bantam Books.
+- Russell, S., & Norvig, P. (2021). _Artificial intelligence: A modern approach_ (4th ed.). London: Pearson.
+- Schmidt, S. J. (2007). _Konstruktion von Wirklichkeit: Beiträge zum Konstruktivismus_. Frankfurt am Main: Suhrkamp.
+- Schneider, E. D., & Sagan, D. (2005). _Into the cool: Energy flow, thermodynamics, and life_. Chicago: University of Chicago Press.
+- Schön, D. A. (1983). _The reflective practitioner: How professionals think in action_. New York: Basic Books.
+- Stacey, R. D. (2001). _Complex responsive processes in organizations: Learning and knowledge creation_. London: Routledge.
+- Strogatz, S. H. (2018). _Nonlinear dynamics and chaos: With applications to physics, biology, chemistry, and engineering_ (2nd ed.). Boca Raton: CRC Press.
+- Uexküll, J. von. (1934). _Streifzüge durch die Umwelten von Tieren und Menschen_. Hamburg: Rowohlt.
+- Ulanowicz, R. E. (1997). _Ecology: The ascendent perspective_. New York: Columbia University Press.
+- Varela, F. J. (1997). _Laying down a path in walking_. In W. Thompson (Ed.), _Gaia 2: Emergence: The new science of becoming_ (S. 50–64). Hudson: Lindisfarne Press.
+- Varela, F. J., Thompson, E., & Rosch, E. (1991). _The embodied mind: Cognitive science and human experience_. Cambridge, MA: MIT Press.
+- Wolfram, S. (2002). _A new kind of science_. Champaign, IL: Wolfram Media.
+- Zimbardo, P. G., & Boyd, J. N. (2008). _The time paradox: The new psychology of time that will change your life_. New York: Free Press.
 
-- Mitchell, M. (2009). *Complexity: A guided tour*. Oxford: Oxford University Press.
-- Strogatz, S. H. (2018). *Nonlinear dynamics and chaos: With applications to physics, biology, chemistry, and engineering* (2nd ed.). Boca Raton: CRC Press.
-- Wolfram, S. (2002). *A new kind of science*. Champaign: Wolfram Media.
+---
 
-Luhmann, 1990; Prigogine & Stengers, 1984; Varela, 1997).
-
-- Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft*. Frankfurt am Main: Suhrkamp.
-- Stacey, R. D. (2001). *Complex responsive processes in organizations: Learning and knowledge creation*. London: Routledge.
-- Willke, H. (1999). *Systemisches Wissensmanagement*. Stuttgart: Lucius & Lucius.
-
-
-- Festinger, L. (1957). *A theory of cognitive dissonance*. Stanford: Stanford University Press.
-- Luhmann, N. (1990). *Erkenntnis als Konstruktion*. Bern: Benteli.
-- Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft*. Frankfurt am Main: Suhrkamp.
-- Maturana, H. R., & Varela, F. J. (1987). *Der Baum der Erkenntnis*. Bern: Scherz.
-- Varela, F. J., Thompson, E., & Rosch, E. (1991). *The embodied mind: Cognitive science and human experience*. Cambridge, MA: MIT Press.
-
-- Dewey, J. (2001). *Erfahrung und Bildung*. Stuttgart: Klett-Cotta. (Originalarbeit 1938)
-- Ellis, S., Carette, B., Anseel, F., & Lievens, F. (2014). Systematic reflection: Implications for learning from failures and successes. *Current Directions in Psychological Science*, 23(1), 67–72.
-- Festinger, L. (1957). *A theory of cognitive dissonance*. Stanford: Stanford University Press.
-- Hanisch-Johannsen, J. (2025). *Lernen als universelles Prinzip*. https://git.jochen-hanisch.de/Bildungswissenschaft/universalprinzip-lernen
-- Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Englewood Cliffs: Prentice Hall.
-- Piaget, J. (1976). *Die Äquilibration der kognitiven Strukturen*. Stuttgart: Klett.
-- Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. New York: Basic Books.
-
-
-
-- Maturana, H. R., & Varela, F. J. (1987). *Der Baum der Erkenntnis*. Bern: Scherz.
-- Uexküll, J. von. (1934). *Streifzüge durch die Umwelten von Tieren und Menschen*. Hamburg: Rowohlt.
-- Hoffmeyer, J. (1996). *Signs of Meaning in the Universe*. Bloomington: Indiana University Press.
-- Ashby, W. R. (1956). *An Introduction to Cybernetics*. London: Chapman & Hall.
-
-
-- Prigogine, I., & Stengers, I. (1984). *Order out of Chaos: Man’s New Dialogue with Nature*. New York: Bantam.
-- Ulanowicz, R. E. (1997). *Ecology, the Ascendent Perspective*. New York: Columbia University Press.
-- Schneider, E. D., & Sagan, D. (2005). *Into the Cool: Energy Flow, Thermodynamics, and Life*. Chicago: University of Chicago Press.
-
-
-- Foerster, H. von. (1993). *Wahrheit ist die Erfindung eines Lügners*. Heidelberg: Carl-Auer.
-- Glasersfeld, E. von. (1995). *Radikaler Konstruktivismus: Ideen, Ergebnisse, Probleme*. Frankfurt: Suhrkamp.
-- Kant, I. (1998). *Kritik der reinen Vernunft* (J. Timmermann & M. Textor, Hrsg.). Hamburg: Meiner. (Originalarbeit veröffentlicht 1781)
-- Luhmann, N. (1990). *Erkenntnis als Konstruktion*. Bern: Benteli.
-
-
-
-- Foerster, H. von. (1993). *Wahrheit ist die Erfindung eines Lügners*. Heidelberg: Carl-Auer.
-- Glasersfeld, E. von. (1995). *Radikaler Konstruktivismus: Ideen, Ergebnisse, Probleme*. Frankfurt: Suhrkamp.
-- Kant, I. (1998). *Kritik der reinen Vernunft* (J. Timmermann & M. Textor, Hrsg.). Hamburg: Meiner. (Originalarbeit veröffentlicht 1781)
-- Luhmann, N. (1990). *Erkenntnis als Konstruktion*. Bern: Benteli.
-
-- Foerster, H. von. (1993). *Wahrheit ist die Erfindung eines Lügners*. Heidelberg: Carl-Auer.
-- Glasersfeld, E. von. (1995). *Radikaler Konstruktivismus: Ideen, Ergebnisse, Probleme*. Frankfurt: Suhrkamp.
-- Kant, I. (1998). *Kritik der reinen Vernunft* (J. Timmermann & M. Textor, Hrsg.). Hamburg: Meiner. (Originalarbeit veröffentlicht 1781)
-- Luhmann, N. (1990). *Erkenntnis als Konstruktion*. Bern: Benteli.
-
-
-- Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft*. Frankfurt am Main: Suhrkamp.
-- Maturana, H. R., & Varela, F. J. (1987). *Der Baum der Erkenntnis: Die biologischen Wurzeln des menschlichen Erkennens*. Bern: Scherz Verlag.
-- (Luhmann, 1997; Prigogine & Stengers, 1984; Varela, 1997).
