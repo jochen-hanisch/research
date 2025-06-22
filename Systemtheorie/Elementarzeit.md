@@ -22,7 +22,7 @@ tags:
 
 # 1 Definition
 
-Elementarzeit ist eine aus der zyklisch-gerichteten Abfolge der [[Elementaroperationen]] Feedback, Reflexion und Re-entry emergierende Struktur, die durch die Übergänge Inversion und Re-Inversion ihre Richtung und Differenzierung erhält. Sie fungiert als operativer Ordnungsrahmen und bildet die generative Bedingung für die Zeitkonstruktion physikalischer, chemischer, biologischer, lebender, psychischer, sozialer und emergenter Systeme.
+Elementarzeit ist eine aus der zyklisch-gerichteten Abfolge der [[Elementaroperationen]] Feedback, Reflexion und Re-entry emergierende Struktur, die durch die Übergänge Inversion und Re-Inversion ihre Richtung und Differenzierung erhält. Sie fungiert als operativer Ordnungsrahmen und bildet die generative Bedingung für die Zeitkonstruktion physikalischer, chemischer, biologischer, lebender, psychischer, sozialer und emergenter Systeme.
 
 ## Erläuterung der Elemente
 
@@ -54,9 +54,9 @@ _Abbildung 1: Visualisierung der zyklisch-gerichteten Struktur der Elementarzeit
 
 Die Abbildung zeigt die zyklische Verknüpfung der [[Elementaroperationen]] Feedback, Reflexion und Re-entry. Dazwischen liegen explizit benannte Übergänge, die als strukturgebende Momente der Zeitgenese fungieren.
 
-- _Feedback_ markiert die Reaktion auf interne oder externe Differenz. Die anschließende Inversion transformiert diese Reaktion in eine reflexive Verarbeitung. Dies entspricht einer strukturellen Entropieabnahme.
-- _Reflexion_ beschreibt die Phase innerer Verarbeitung, Differenzbildung und Neuordnung. Die Re-Inversion hebt diesen Zustand auf, indem sie die resultierende Struktur in ein neues Operationsverhalten überführt.
-- _Re-entry_ bedeutet die Reintegration des Neuen in das System. Dabei wird nicht der Ausgangszustand wiederhergestellt, sondern eine veränderte Systemstruktur erzeugt, die neue Anschlussfähigkeit besitzt. Mit der Integration beginnt ein neuer Zyklus.
+- **Feedback** markiert die Reaktion auf interne oder externe Differenz. Die anschließende Inversion transformiert diese Reaktion in eine reflexive Verarbeitung. Dies entspricht einer strukturellen Entropieabnahme.
+- **Reflexion** beschreibt die Phase innerer Verarbeitung, Differenzbildung und Neuordnung. Die Re-Inversion hebt diesen Zustand auf, indem sie die resultierende Struktur in ein neues Operationsverhalten überführt.
+- **Re-entry** bedeutet die Reintegration des Neuen in das System. Dabei wird nicht der Ausgangszustand wiederhergestellt, sondern eine veränderte Systemstruktur erzeugt, die neue Anschlussfähigkeit besitzt. Mit der Integration beginnt ein neuer Zyklus.
 
 Die dargestellte Architektur bildet eine gerichtete Zyklik, in der nicht Wiederholung, sondern Emergenz das Prinzip ist. Zeit entsteht nicht durch Taktung oder Dauer, sondern durch strukturierte Übergänge zwischen qualitativ unterschiedlichen Operationen.
 
