@@ -25,7 +25,7 @@ tags:
   - Übergangsarchitektur
 ---
 
-created: 21.6.2025 | [updated](https://git.jochen-hanisch.de/research/systemtheorie/): 22.7.2025 | [publishd](https://zenodo.org/records/15723385):  | [[Hinweise]]
+created: 21.6.2025 | [updated](https://git.jochen-hanisch.de/research/theorien-theoreme/): 22.7.2025 | [publishd](https://zenodo.org/records/15723385):  | [[Hinweise]]
 
 **Die gegebene Zeit.** Ein strukturtheoretischer Entwurf zur Operation und Emergenz temporaler Ordnung
 
