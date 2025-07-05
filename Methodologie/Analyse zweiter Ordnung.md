@@ -25,19 +25,20 @@ Die Bezeichnung Analyse zweiter Ordnung soll eine generalisierbare, theorieoffen
 
 # 1 Definition
 
-Eine Analyse zweiter Ordnung ist ein wissenschaftlich-methodischer Analyseprozess, der nicht auf ein Untersuchungsobjekt selbst, sondern auf die Struktur, Logik und epistemische Rahmung bereits durchgeführter Analysen dieses Objekts zielt.
+Eine Analyse zweiter Ordnung ist ein wissenschaftlich-methodischer Analyseprozess, der nicht auf ein Untersuchungsobjekt selbst, sondern auf bereits vorliegende Analysen dieses Objekts zielt, um deren Struktur, Logik, Inhalte und epistemische Voraussetzungen systematisch zu rekonstruieren und zu befragen.
 
-Im Unterschied zur Analyse erster Ordnung, die ein empirisches Phänomen, einen Text, ein Verhalten oder eine Datenreihe unmittelbar zum Gegenstand macht, rückt die Analyse zweiter Ordnung die Analysehandlungen selbst in den Mittelpunkt. Diese werden als beobachtbare, rekonstruierbare und systematisch untersuchbare Gegenstände behandelt.
+Im Unterschied zur Analyse erster Ordnung, bei der ein empirisches Phänomen, ein Text, ein Verhalten oder eine Datenreihe unmittelbar analysiert wird, nimmt die Analyse zweiter Ordnung die Analysehandlungen selbst zum Gegenstand. Sie versteht diese als dokumentierte, beobachtbare und systematisch untersuchbare Operationen, die einer erkenntnistheoretisch informierten Relektüre zugänglich gemacht werden.
 
-Im Zentrum stehen dabei folgende Dimensionen:
+Im Zentrum stehen dabei vier miteinander verschränkte Dimensionen:
 
-- **Strukturanalyse**: Welche methodischen Schritte, Kategorien und Heuristiken strukturieren die Erstanalyse?
-- **Logikprüfung**: Ist die Analyse konsistent aufgebaut, nachvollziehbar dokumentiert und in sich schlüssig?
-- **Epistemische Rahmung**: Welche erkenntnistheoretischen Voraussetzungen (z.B. Theorien, Begriffsverwendungen, Codierregeln) bestimmen die Analyse implizit oder explizit?
+1. Erstens die Strukturanalyse, die nach den methodischen Schritten, Kategorien und Heuristiken fragt, welche der Erstanalyse zugrunde liegen.
+2. Zweitens die Logikprüfung, die auf Konsistenz, Nachvollziehbarkeit und Argumentationsführung der Analyseprozesse zielt.
+3. Drittens die epistemische Rahmung, in der theoretische Prämissen, Begriffsverwendungen und analytische Perspektiven rekonstruiert und kritisch befragt werden.
+4. Viertens die inhaltlich-musterbezogene Relektüre, in der die Ergebnisse der Erstanalyse, bspw. in Form von Clustern, Typologien oder kategorialen Verdichtungen, selbst erneut analysiert werden, um übergreifende Strukturen, latente Differenzen oder theoriegenerierende Muster sichtbar zu machen.
 
-Die Analyse zweiter Ordnung kann sowohl auf menschlich durchgeführte als auch auf KI-generierte Analysen angewendet werden. Sie ist insbesondere in kontexten versionierter, rekursiver oder automatisierter Forschungspraxis von methodischer Relevanz.
+Die Analyse zweiter Ordnung kann auf Analysen unterschiedlicher Herkunft angewendet werden, unabhängig davon, ob diese von Einzelpersonen, Forschungsteams oder KI-Systemen durchgeführt wurden. Ihre methodische Relevanz zeigt sich insbesondere in Forschungskontexten, die versioniert, rekursiv oder automatisiert angelegt sind und in denen Analyseprozesse selbst dokumentiert, transformiert und reflektiert werden können.
 
-Ihr wissenschaftlicher Wert liegt in der Reflexivierung von Analysepraktiken, in der theoriegeleiteten Synthese divergenter Erstanalysen und in der Eröffnung eines metaepistemischen Raums innerhalb wissenschaftlicher Erkenntnisprozesse.
+In ihrem wissenschaftlichen Anspruch überschreitet die Analyse zweiter Ordnung bloße Metareflexion, indem sie analytisch kontrolliert jene Operationen sichtbar macht, aus denen wissenschaftliche Erkenntnis selbst hervorgeht. Ihr Wert liegt in der Möglichkeit zur theoriegeleiteten Synthese, zur methodischen Transparenz sowie zur Eröffnung eines strukturierten metaepistemischen Raums innerhalb erkenntnisorientierter Forschung.
 
 # 2 Herleitung des Begriffs und Konzepts
 
