@@ -5,7 +5,7 @@ project: Methodologie
 created: 2025-07-05
 updated: 2025-07-05
 publish: true
-publishd: 
+publishd: 2025-07-06
 tags:
   - "#Forschung"
   - "#Bildungsforschung"
@@ -15,9 +15,11 @@ tags:
 GPT: true
 ---
 
+created: 5.7.2025 | [updated](https://git.jochen-hanisch.de/research/methodologie): 5.7.2025 | [publishd](https://zenodo.org/records/15815427): 6.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+
 # Abstract
 
-Die vorliegende Arbeit dokumentiert die Entwicklung, theoretische Fundierung und methodische Ausarbeitung der **Analyse zweiter Ordnung** als eigenständige wissenschaftliche Methode im Kontext reflexiver und epistemologisch fundierter Grundlagenforschung. Im Mittelpunkt steht ein iterativer, dialogischer Erkenntnisprozess, der sich über mehr als 100 Einzelschritte hinweg systematisch entfaltet und entlang der Prinzipien versionierter Wissenschaft dokumentiert wurde. Ziel war es, eine methodologische Struktur zu etablieren, die nicht empirische Primärphänomene untersucht, sondern bestehende Analysen selbst, inklusive ihrer methodischen Voraussetzungen, logischen Strukturen und epistemischen Rahmungen, zum Gegenstand reflexiver Forschung macht.
+Die vorliegende Arbeit dokumentiert die Entwicklung, theoretische Fundierung und methodische Ausarbeitung der Analyse zweiter Ordnung als eigenständige wissenschaftliche Methode im Kontext reflexiver und epistemologisch fundierter Grundlagenforschung. Im Mittelpunkt steht ein iterativer, dialogischer Erkenntnisprozess, der sich über mehr als 100 Einzelschritte hinweg systematisch entfaltet und entlang der Prinzipien versionierter Wissenschaft dokumentiert wurde. Ziel war es, eine methodologische Struktur zu etablieren, die nicht empirische Primärphänomene untersucht, sondern bestehende Analysen selbst, inklusive ihrer methodischen Voraussetzungen, logischen Strukturen und epistemischen Rahmungen, zum Gegenstand reflexiver Forschung macht.
 
 Die gewonnenen Erkenntnisse zeigen, dass die Analyse zweiter Ordnung eine eigenständige methodische Kategorie bildet, deren erkenntnistheoretischer Status sich weder mit klassischen Metaanalysen noch mit qualitativen Synthesen oder methodenkritischen Reflexionen deckt. Stattdessen wird ein Zugang etabliert, der sich über fünf systematisch strukturierte Schritte (Erkenntnisinteresse, Materialauswahl, Musteranalyse, theoriegeleitete Re-Analyse, Synthese) hinweg bewegt und dabei rekursive, heuristische und theoriegenerierende Prozesse sichtbar macht.
 
@@ -350,3 +352,7 @@ Als eigenständige Kategorie wissenschaftlicher Analyse leistet die Analyse zwei
 - Luhmann, N. (1990). *Die Wissenschaft der Gesellschaft*. Frankfurt a. M.: Suhrkamp.
 - Mayring, P. (2015). *Qualitative Inhaltsanalyse: Grundlagen und Techniken* (12. Aufl.). Weinheim: Beltz.
 - Schütze, F. (1983). Biographieforschung und narratives Interview. *Neue Praxis*, 13(3), 283–293.
+
+---
+
+#Forschung #Bildungsforschung #Wissenschaft #Datenverarbeitung #Clusteranalyse
