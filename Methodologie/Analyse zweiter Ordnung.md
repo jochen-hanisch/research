@@ -40,7 +40,11 @@ Die Analyse zweiter Ordnung kann auf Analysen unterschiedlicher Herkunft angewen
 
 In ihrem wissenschaftlichen Anspruch überschreitet die Analyse zweiter Ordnung bloße Metareflexion, indem sie analytisch kontrolliert jene Operationen sichtbar macht, aus denen wissenschaftliche Erkenntnis selbst hervorgeht. Ihr Wert liegt in der Möglichkeit zur theoriegeleiteten Synthese, zur methodischen Transparenz sowie zur Eröffnung eines strukturierten metaepistemischen Raums innerhalb erkenntnisorientierter Forschung.
 
-# 2 Herleitung des Begriffs und Konzepts
+# 2 Herleitung
+
+Die folgende Herleitung zielt darauf, den Begriff „Analyse zweiter Ordnung“ sowohl begriffsgeschichtlich als auch methodologisch in seinen wissenschaftlichen Kontext einzuordnen. Ausgangspunkt ist die systemtheoretische Unterscheidung zwischen erster und zweiter Ordnung, wie sie insbesondere bei Heinz von Foerster und Niklas Luhmann entwickelt wurde. Diese Unterscheidung wird im vorliegenden Konzept nicht nur metaphorisch übernommen, sondern funktional weitergeführt: Die Analyse zweiter Ordnung bezeichnet eine wissenschaftliche Operation, die sich nicht auf ein empirisches Objekt, sondern auf dessen Analyse bezieht, einschließlich der darin wirksam gewordenen Unterscheidungen, Kategorien und heuristischen Strukturen.
+
+Im weiteren Verlauf dieser Herleitung werden verschiedene theoretische Bezugspunkte herausgearbeitet, um die begriffliche Fundierung und methodische Reichweite der Analyse zweiter Ordnung zu klären. Dabei werden systemtheoretische Ursprünge, erkenntnistheoretische Grundlagen sowie angrenzende Analyseformate (z. B. Metaanalyse, Exzerption, KI-gestützte Verfahren) differenziert diskutiert und voneinander abgegrenzt. Ziel ist es, das Konzept sowohl theoretisch zu verankern als auch in seiner praktischen Anwendbarkeit nachvollziehbar zu machen.
 
 ## 2.1 Herkunft: Beobachtung zweiter Ordnung
 
