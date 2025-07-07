@@ -1,6 +1,8 @@
 ---
 title: "Emergente Systeme: Eine systemtheoretisch-transdisziplinäre Synthese der Mensch-KI-Interaktion"
 author: Jochen Hanisch
+Projekt: Systemtheorie
+Repository: https://git.jochen-hanisch.de/research/systemtheorie
 created: 2024-11-02
 updated: 2024-12-31
 publish: true
@@ -10,10 +12,10 @@ tags:
   - Emergenz
   - System
   - Mensch-KI-Kollaboration
-status: published
+GPT: true
 ---
 
-created: 2.11.2024 | updated: 31.12.2024 | [publishd](https://www.researchgate.net/publication/387556383_Emergente_Systeme): 31.12.2024 | [[Hinweise]]
+created: 2.11.2024 | [updated](https://git.jochen-hanisch.de/research/systemtheorie): 31.12.2024 | [publishd](https://zenodo.org/records/15826581): 31.12.2024 | [[Hinweise]]
 
 **Emergente Systeme: Eine systemtheoretisch-transdisziplinäre Synthese der Mensch-KI-Interaktion**
 
