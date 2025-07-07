@@ -1,23 +1,25 @@
 ---
 author: Jochen Hanisch
 title: "Systemsimulation: Ein Paradigmenwechsel durch Typisierung, Qualifizierung und Modellierung - Systemtheoretische Ansätze zur Simulation lebender, psychischer, sozialer und emergenter Systeme"
-project: 
+project: Systemtheorie
 created: 2024-11-07
-updated: 2025-02-08
+updated: 2025-07-07
 publish: true
-GPT: true
 publishd: 2025-02-02
 tags:
   - Systemtheorie
   - Forschung
-  - Organisationsentwicklung
   - Bildungswissenschaft
   - Kognition
-  - Anpassungsmechanismen
-status: published
+  - "#Systemsimulation"
+  - "#Autopoiesis"
+  - "#Kommunikation"
+  - "#Technik"
+  - Simulation
+GPT: true
 ---
 
-created: 26.10.2024 | updated: 8.2.2025 | [published](https://www.researchgate.net/publication/388821582_Systemsimulation_Ein_Paradigmenwechsel_durch_Typisierung_Qualifizierung_und_Modellierung_-_Systemtheoretische_Ansatze_zur_Simulation_lebender_psychischer_sozialer_und_emergenter_Systeme): 8.2.2025 | [[Hinweise]]
+created: 26.10.2024 | [updated](https://git.jochen-hanisch.de/research/systemtheorie): 7.7.2025 | [published](https://zenodo.org/records/15826463): 7.7.2025 | [[Hinweise]]
 
 **Systemsimulation: Ein Paradigmenwechsel durch Typisierung, Qualifizierung und Modellierung - Systemtheoretische Ansätze zur Simulation lebender, psychischer, sozialer und emergenter Systeme**
 
@@ -1526,9 +1528,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 - Wittmann, D. (2003). _Lizenzierung von Luftfahrzeugbesatzungen (Flugzeug)_. Bundesministerium für Verkehr, Bau- und Wohnungswesen.
 - Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). _Schema Therapy: A Practitioner’s Guide_. Guilford Press.
 
-# Anlagen
-
-## Anlage 1: Prozessprotokoll
+# Anlage: Prozessprotokoll
 
 **Prompt**
 
@@ -1545,7 +1545,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 > 5. Stelle unsere unterschiedlichen Anteile dar; welche Aspekte, Gedanken etc. kamen von mir, welche Beiträge von dir?
 > 
 > 6. Wenn Dir Besonderheiten aufgefallen sind, nenne und beschreibe diese.
-> 
+>
 > 7. Analysiere den Entwicklungsprozess, der zum Erkenntnisgewinn geführt hat, ausführlich.
 
 
@@ -1556,84 +1556,63 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 1.1 **Neue Typisierung von Simulationen**
 
 - Simulationen wurden systematisch nach den Qualitätsstufen **Autopoiesis (System-Umwelt-Unterscheidung)**, **Kommunikation** und **Technik** klassifiziert.
- 
+
 - Die Typisierung umfasst vier Simulatortypen:
- 
  - **Full System Simulator (FSS)**: Vollständige Systemintegration.
- 
  - **Training System Simulator (TSS)**: Fokussiert auf spezifische systemische Aspekte.
- 
  - **Procedure System Simulator (PSS)**: Simuliert standardisierte Abläufe.
- 
  - **Basic Skills System Simulator (BSSS)**: Trainiert grundlegende Fertigkeiten mit minimaler Systemintegration.
  
-
 1.2 **Qualitätsstufen A-E**
 
 - Jede Simulation wird basierend auf ihrer Fähigkeit in Autopoiesis, Kommunikation und Technik von **A (höchste Qualität)** bis **E (niedrigste Qualität)** bewertet.
- 
 - Diese Einordnung ermöglicht eine ehrliche und differenzierte Bewertung von Simulationsqualität.
  
-
 1.3 **Integration von Re-Entry**
 
 - Feedback, Reflexion und Re-entry bilden eine Schleife, die dynamische Anpassungen im System ermöglicht.
- 
 - **Re-Entry** ermöglicht die kontinuierliche Rückführung reflektierter Erkenntnisse ins System zur Anpassung und Weiterentwicklung.
  
-
 1.4 **Einbindung menschlicher Bedürfnisse und Emotionen**
 
 - Die fünf Grundbedürfnisse der **Schematherapie** fungieren als Trigger für Feedback und Reflexion.
- 
 - Emotionen dienen als Regulationsmechanismen, was zu realistischeren und menschlicheren Simulationen führt.
  
-
 1.5 **Systemtheoretische Grundlage**
 
 - Die Simulationen basieren auf **Autopoiesis** und **Kommunikation**, die die Selbstorganisation und System-Umwelt-Differenzierung realistisch nachbilden.
- 
 - Einbindung der **Beobachtungen dritter Ordnung**, um tiefere Selbstreflexion des Systems zu ermöglichen.
- 
 
 1.6 **Ehrlichkeit und Transparenz**
 
 - Der Ansatz fordert eine ehrliche Bewertung der Fähigkeiten und Grenzen von Simulationen.
- 
 - Klare Trennung zwischen derzeitigen Fähigkeiten und langfristigen Zielen, um realistische Full System Simulationen zu erreichen.
  
-
 ### 2. **Gemachte Schritte zur Erkenntnisgewinnung**
 
 2.1 **Identifikation der Anforderungen an Simulationen**
 
 - Diskussion der Begriffe Autopoiesis, Kommunikation und Technik als Grundlage für die Qualität von Simulationen.
  
-
 2.2 **Entwicklung der Qualitätsstufen (A-E)**
 
 - Einführung eines Systems zur Bewertung von Autopoiesis, Kommunikation und Technik.
- 
 
 2.3 **Zuordnung bestehender Simulationsbezeichnungen zu den neuen Qualitätsstufen**
 
 - Bewertung bestehender Simulationsarten (z.B. High-Fidelity) und deren Einordnung in das Qualitätsmodell.
  
-
 2.4 **Integration des Re-Entry-Konzepts**
 
 - Erläuterung der dynamischen Schleife aus Feedback, Reflexion und Re-Entry.
  
-
 2.5 **Einbeziehung menschlicher Bedürfnisse und Emotionen**
 
 - Diskussion der Integration von Bedürfnissen und Emotionen als zentrale Elemente realistischer Simulationen.
  
-
 2.6 **Vergleich mit bisherigen Simulationszielen**
 
 - Reflexion darüber, wie systemtheoretische Simulationen über bestehende Ansätze hinausgehen.
- 
 
 2.7 **Finale Zusammenfassung der gewonnenen Erkenntnisse**
 
@@ -1644,21 +1623,16 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 3.1 **Erkenntnis zur Begrenztheit traditioneller Simulationen**
 
 - Wendepunkt: Verständnis, dass technische Exzellenz allein nicht zu hochwertigen Simulationen führt.
- 
 - Einfluss: Verlagerung des Fokus auf systemische Merkmale wie Autopoiesis und Kommunikation.
  
-
 3.2 **Einführung des Re-Entry-Konzepts**
 
 - Wendepunkt: Einführung von Re-entry als Schlüsselelement für dynamische Anpassung.
- 
 - Einfluss: Schaffung einer flexiblen, adaptiven Struktur für Simulationen.
  
-
 3.3 **Integration von Bedürfnissen und Emotionen**
 
 - Wendepunkt: Erkenntnis, dass menschliche Bedürfnisse und Emotionen für realistische Simulationen unverzichtbar sind.
- 
 - Einfluss: Verlagerung des Schwerpunkts auf menschliche Interaktionen und ihre systemische Abbildung.
 
 ### 4. **Zwischenfälle/Ereignisse/Komplikationen (ZEK) und deren Lösung**
@@ -1666,14 +1640,11 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 4.1 **Verwechslung des Begriffs "Re-Entry-Dreieck"**
 
 - Ereignis: Falsche Terminologie wurde verwendet.
- 
 - Lösung: Klarstellung und Korrektur des Begriffs auf das korrekte Konzept von Re-Entry.
  
-
 4.2 **Technische Begrenzungen der aktuellen Simulationstechnologie**
 
 - Ereignis: Diskussion über die Unfähigkeit aktueller Technologien, komplexe Systeme vollständig zu simulieren.
- 
 - Lösung: Fokussierung auf Forschung und Entwicklung zur Verbesserung dieser Bereiche.
  
 ### 5. **Unterschiedliche Anteile und Beiträge**
@@ -1681,18 +1652,13 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 5.1 **Beiträge des Benutzers**
 
 - Einführung der systemtheoretischen Begriffe und Prinzipien.
- 
 - Hervorhebung der Bedeutung von menschlichen Bedürfnissen und Emotionen.
- 
 - Fokus auf Ehrlichkeit und Transparenz in der Bewertung von Simulationen.
  
-
 5.2 **Beiträge von ChatGPT**
 
 - Entwicklung und Strukturierung der Qualitätsstufen und Typisierung.
- 
 - Integration systemtheoretischer Konzepte wie Re-entry und Beobachtung dritter Ordnung.
- 
 - Zusammenführung der Erkenntnisse und Erstellung eines konsistenten Modells.
  
 ### 6. **Besonderheiten**
@@ -1701,7 +1667,6 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 
 - Besonderheit: Kombination systemtheoretischer Grundlagen mit praktischen Simulationsanwendungen.
  
-
 6.2 **Innovativer Ansatz zur Simulationsbewertung**
 
 - Besonderheit: Entwicklung eines neuen Modells zur ehrlichen und differenzierten Bewertung von Simulationen.
@@ -1712,11 +1677,9 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 
 - Der Entwicklungsprozess war stark iterativ, mit ständiger Reflexion und Anpassung der Ansätze.
  
-
 7.2 **Konzentration auf systemtheoretische Prinzipien**
 
 - Die kontinuierliche Rückbesinnung auf die Grundprinzipien der Systemtheorie führte zu einem fundierten und robusten Modell.
- 
 
 7.3 **Fokus auf langfristige Verbesserungen**
 
@@ -1725,3 +1688,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 ### Fazit
 
 Der Entwicklungsprozess führte zu einem **neuen, systematischen Ansatz** für die Simulation lebender, psychischer, sozialer und emergenter Systeme. Dieser Ansatz integriert **Autopoiesis**, **Kommunikation** und **Technik** auf einer tiefen Ebene und bietet klare **Qualitätsmaßstäbe** sowie eine **ehrliche Bewertung** der Simulationsfähigkeiten.
+
+---
+
+#Systemtheorie #Forschung #Bildungswissenschaft #Kognition #Simulation #Systemsimulation #Autopoiesis #Kommunikation #Technik 
