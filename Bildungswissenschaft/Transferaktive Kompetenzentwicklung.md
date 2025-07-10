@@ -1,6 +1,7 @@
 ---
 author: Jochen Hanisch
 title: Mechanismen der horizontalen Genübertragung in Bildungsprozessen Anwendung und Prozessbeschreibung
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-10-24
 updated: 2024-12-03
 publish: true
@@ -15,7 +16,7 @@ tags:
   - Konjugation
 ---
 
-created: 24.10.2024 | updated: 03.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 24.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 03.12.2024 | publishd: |  [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 # 1 Definition
 

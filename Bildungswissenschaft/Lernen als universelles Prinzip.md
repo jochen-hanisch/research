@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch
 title: Lernen als universelles Prinzip
-Repository: Bildungswissenschaft
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-10-02
 updated: 2025-06-08
 publish: true
@@ -26,9 +26,10 @@ tags:
   - "#Kompetenzentwicklung"
   - "#Lernprozesse"
   - "#Autopoiesis"
+GPT: true
 ---
 
-created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/Bildungswissenschaft/universalprinzip-lernen): 8.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 8.6.2025 | publishd: 8.6.2025 |[Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 >**Anmerkung**
 Dieser Artikel wird noch überarbeitet, da Lernen eine Folge von [[Elementaroperationen]] (Feedback, Reflexion und Re-entry) ist. Diese sind Stand heute in der Entwicklung. Insbesondere sind die Kapitel 2.3.1 - 2.3.3 sowie 2.4 von den Änderungen betroffen, da diese in der Notiz über die [[Elementaroperationen]] aufgehen werden.

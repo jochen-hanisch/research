@@ -2,6 +2,7 @@
 author: Jochen Hanisch
 title: Projektbeschreibung HRT meets...
 project: HRT meets...
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2023-05-10
 updated: 2025-02-23
 publish: true
@@ -20,7 +21,7 @@ type:
 status: published
 ---
 
-created: 10.05.2023 | [updated](https://git.jochen-hanisch.de/research/forschungsprojekte): 23.02.2025 | publishd: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 10.05.2023 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 23.02.2025 | publishd: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Projektbeschreibung HRT meets...**
 

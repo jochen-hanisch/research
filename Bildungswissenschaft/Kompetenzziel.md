@@ -2,6 +2,7 @@
 author: Jochen Hanisch
 title: "Kompetenzziel: Systemische Grundlagen, Struktur und sprachliche Präzision für dynamische Bildungsprozesse"
 project: Systemische Kompetenzentwicklung für High Responsibility Teams
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-01-10
 updated: 2024-12-11
 publish: true
@@ -13,14 +14,12 @@ tags:
   - "#Forschung"
   - "#Transformation"
   - "#Interdisziplinarität"
-type:
-  - Wissenschaftliche Notiz
-status: draft
+GPT: true
 ---
 
 **Kompetenzziel: Systemische Grundlage, Struktur und sprachliche Präzision für dynamische Bildungsprozesse**
 
-created: 10.1.2025 | updated: 11.1.2025 | [publishd](https://www.researchgate.net/publication/387933723_Kompetenzziel_Systemische_Grundlagen_Struktur_und_sprachliche_Prazision_fur_dynamische_Bildungsprozesse): 11.1.2025 | [[Hinweise]]
+created: 10.1.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 11.1.2025 | [publishd](https://www.researchgate.net/publication/387933723_Kompetenzziel_Systemische_Grundlagen_Struktur_und_sprachliche_Prazision_fur_dynamische_Bildungsprozesse): 11.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 # Executive Summary
 
