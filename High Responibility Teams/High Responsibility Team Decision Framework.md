@@ -1,6 +1,8 @@
 ---
 author: Jochen Hanisch
 title: High Responsibility Team Decision Framework (HRT-DF)
+project: High Responsibility Teams
+Repository: https://git.jochen-hanisch.de/research/high-responibility-teams
 created: 2024-10-03
 updated: 2025-05-12
 publish: true
@@ -23,12 +25,10 @@ tags:
   - HighResponsibilityTeams
   - Krisenmanagement
   - MDP
-project: High Responsibility Teams
-type:
-  - Theoretische Notiz
+GPT: true
 ---
 
-created: 3.10.2024 | updated: 12.5.2025 | [publishd](https://zenodo.org/records/15391445): 4.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Hinweise]]
+created: 3.10.2024 | [updated](https://git.jochen-hanisch.de/research/high-responibility-teams): 12.5.2025 | [publishd](https://zenodo.org/records/15391445): 4.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Hinweise]]
 
 **High Responsibility Team Decision Framework (HRT-DF)**
 

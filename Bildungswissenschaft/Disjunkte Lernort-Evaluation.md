@@ -1,11 +1,11 @@
 ---
 author: Jochen Hanisch
 title: "Disjunkte Lernort-Evaluation: Ein methodischer Ansatz zur Lernort-Bewertung"
+Repository: Bildungswissenschaft
 created: 2024-11-16
 updated: 2025-06-08
 publish: true
 GPT: true
-publishd: 2025-05-11
 tags:
   - "#Dissertation"
   - "#Bildungswissenschaft"
@@ -14,6 +14,7 @@ tags:
   - "#Professionalisierung"
   - "#Lernortevaluation"
   - "#Qualitätsanalyse"
+publishd: 2025-05-11
 ---
 
 created: 16.11.2024 | [updated](https://git.jochen-hanisch.de/research/bildungswissenschaft/commits/branch/main/Disjunkte%20Lernort-Evaluation.md) | [publishd](https://zenodo.org/records/15383476) | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]

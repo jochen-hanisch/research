@@ -46,7 +46,7 @@ In der Kommunikationstheorie von **Claude Shannon** und **Warren Weaver** (*Shan
 
 ### Feedback
 
-[[Feedback]] beschreibt den Vorgang, bei dem ein System die Wirkung eines eigenen Outputs als Input zurückführt. In mathematischer Sprache handelt es sich um eine rekursive Abhängigkeit $x_{t+1} = f(x_t)$, wobei $f$ eine Transformationsfunktion darstellt, die sich dynamisch anpasst. In sozialen und psychischen Systemen entspricht Feedback der Beobachtung von Konsequenzen, die aus dem eigenen Handeln resultieren.
+[[Allgemein beruflich/Research/Systemtheorie/Feedback]] beschreibt den Vorgang, bei dem ein System die Wirkung eines eigenen Outputs als Input zurückführt. In mathematischer Sprache handelt es sich um eine rekursive Abhängigkeit $x_{t+1} = f(x_t)$, wobei $f$ eine Transformationsfunktion darstellt, die sich dynamisch anpasst. In sozialen und psychischen Systemen entspricht Feedback der Beobachtung von Konsequenzen, die aus dem eigenen Handeln resultieren.
 
 Im Zusammenhang mit der Gleichung
 
