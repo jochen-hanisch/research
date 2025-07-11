@@ -16,7 +16,7 @@ start: 2023-10-01
 due: 2025-09-30
 ---
 
-# `= this.title`
+# Zeitplan Dissertation
 
 ```mermaid
 gantt
@@ -57,7 +57,7 @@ gantt
     Start Überarbeitung                        :milestone, 2025-09-13, 1d
     Einreichung Dissertation                   :milestone, 2025-09-30, 1d
 ```
-(Stand: `= dateformat(this.file.mtime, "dd.MM.yyyy, HH:mm")`)
+(Stand: 112219jul25)
 
 # Analyse und Fortschrittsbewertung Dissertation
 
@@ -112,7 +112,7 @@ Die Phase bleibt ambitioniert, ist aber durch vorbereitende Vorarbeiten gut vorb
 
 ### 5.1 Einschätzung
 
-Die Kapitelstruktur ist vollständig, mehrere Teile liegen als Vorfassungen vor (Kap. 3, 4, 5). Die Struktur ist so angelegt, dass Theorie, Methode und Ergebnisse iterativ ergänzt werden können.
+Die Kapitelstruktur ist vollständig, mehrere Teile liegen als Vorfassungen vor (Kap. 3, 4, 5). Die Struktur ist so angelegt, dass Theorie, Methode und Ergebnisse iterativ ergänzt werden können.
 
 ### 5.2 Risiken
 
@@ -121,7 +121,7 @@ Die Kapitelstruktur ist vollständig, mehrere Teile liegen als Vorfassungen vor 
 
 ### 5.3 Maßnahmen
 
-- [ ] Kapitel mit geringerer Analyseabhängigkeit (z. B. Methodik, Theorie) priorisieren.
+- [ ] Kapitel mit geringerer Analyseabhängigkeit (z.B. Methodik, Theorie) priorisieren.
 - [ ] Fortlaufende Kapitelversionierung über Git sichern.
 - [ ] Engmaschige Rückkopplung mit Betreuer in kritischen Passagen ermöglichen.
 
