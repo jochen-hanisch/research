@@ -48,8 +48,6 @@ import matplotlib.pyplot as plt
 # Debugging and Output
 from tabulate import tabulate
 
-
-
 # Universelle Hilfsfunktion für Export und Titelmanipulation
 def prepare_figure_export(fig, name):
     # Titel ergänzen
