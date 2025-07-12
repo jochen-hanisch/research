@@ -109,7 +109,7 @@ Die folgende Tabelle gibt einen Überblick über den gegenwärtigen Stand aller 
 | 4.4.1 Verknüpfung qualitativer und quantitativer Daten             | 1      | offen                                                |
 | 4.4.2 Kategorien- und Schlagwortanalyse                            | 1      | offen                                                |
 | 4.4.3 Korrelation und Interdependenz                               | 1      | offen                                                |
-| 4.4.4 Was soll hier?                                               | 1      | offen                                                |
+| 4.4.4 Dreidimensionale Clusteranalyse                              | 1      | in Bearbeitung                                       |
 | 4.5 Reflexion der Methode                                          | 2      | offen                                                |
 | 4.5.1 Methodische Stärken                                          | 1      | offen                                                |
 | 4.5.2 Methodische Herausforderungen und Limitationen               | 1      | offen                                                |
