@@ -6,13 +6,12 @@ created: 2025-07-13
 updated: 2025-07-13
 publish: false
 tags:
-  - "#HarryPotter"
-  - "#Entzauberung"
-  - "#Held"
+  - "#Literatur/HarryPotter"
+  - "#Epistemologie/Entzauberung"
+  - "#Figurentheorie/Kommunikationsfigur"
   - "#Systemtheorie"
-  - "#Literaturanalyse"
-  - "#Epistemologie"
-publishd:
+  - "#Literaturwissenschaft/Literaturanalyse"
+  - "#Erkenntnistheorie"
 ---
 
 created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/) | [publishd]() | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
@@ -29,7 +28,13 @@ Nicht: Wer ist Harry Potter? Nicht: Was passiert im Detail? Sondern: **Welche st
 
 
 
-# 1 Vom Eindruck zur Frage: Ein heuristischer Erkenntnisweg
+## 1. Vom Eindruck zur Frage: Ein heuristischer Erkenntnisweg
+
+Jede Analyse beginnt mit einem Moment des Staunens – oder der Irritation. Der hier dokumentierte Denkprozess nahm seinen Ausgangspunkt in einem beiläufigen Ereignis: dem gemeinsamen Schauen eines Harry-Potter-Films mit meiner Tochter. Was zunächst als familiäre Alltagserfahrung erschien, entfaltete sich rasch zu einem erkenntnisleitenden Impuls. Die Reaktion auf diese Erfahrung war ambivalent – ein Gefühl zwischen Wiedererkennung und epistemischer Verstörung. Was mich irritierte, war nicht das Narrativ selbst, sondern seine Wirkung: ein kulturell durchcodiertes System, das zugleich vertraut und unheimlich wirkte.
+
+Dieser Abschnitt rekonstruiert den Übergang vom ersten Eindruck zur systematischen Frageformulierung. Im Zentrum steht die epistemologische Bewegung: von der Szene zur Struktur, vom emotionalen Eindruck zur analytischen Abstraktion. Der heuristische Erkenntnisweg ist dabei nicht linear, sondern emergent – geprägt durch Reibung, Resonanz und reflexive Verdichtung. Die sich herauskristallisierende Leitfrage lautet daher nicht: Wer ist Harry Potter? Sondern: Was ist Harry Potter – strukturell betrachtet?
+
+Die folgenden Unterkapitel dokumentieren diesen Prozess: von der ersten Reaktion über die theoretische Irritation bis zur vorläufigen These, dass Harry Potter weniger Held denn Kommunikationsfigur ist. Es ist eine Bewegung weg vom Plot – hin zur Struktur. Weg von Identifikation – hin zur Systemanalyse. Und damit: der erste Schritt einer epistemischen Entzauberung.
 
 ## 1.1 Beobachtete Reaktionen: Neugier, Irritation, algorithmisches Verfangen
 
@@ -55,7 +60,6 @@ Die entstehende Hypothese war radikal in ihrer Konsequenz: **Harry Potter ist ke
 
 Diese Überlegung führt zur Einführung eines neuen figurentheoretischen Konzepts: **der Kommunikationsfigur**. Eine solche Figur ist nicht durch psychologische Tiefe oder narrative Entwicklung gekennzeichnet, sondern durch ihre Rolle als Ermöglichungsbedingung kommunikativer Prozesse. Harry Potter erscheint in dieser Perspektive nicht als autonom Handelnder, sondern als zentrale Schnittstelle, an der symbolische Bedeutungen zirkulieren, reflektiert und rückgebunden werden.
 
-
 ## 2 Theoretischer Rahmen: Figuren, Kommunikation, Systeme
 
 Die literaturwissenschaftliche Beschäftigung mit narrativen Figuren kennt eine Vielzahl klassifizierender Konzepte. So unterscheidet die strukturalistische Tradition zwischen Protagonist und Antagonist, zwischen aktiver Heldenfigur und passiver Nebenrolle (Rimmon-Kenan, 2002). Joseph Campbell (2008) entwarf mit dem Konzept der „Heldenreise“ ein bis heute prägendes Modell: Der Held durchläuft eine Reihe von Prüfungen, durchlebt Transformation und kehrt gewandelt zurück. Helden handeln in diesem Modell aus innerer Überzeugung, übernehmen Verantwortung und werden zum Gegenstand narrativer Identifikation.
@@ -67,7 +71,6 @@ Vor diesem Hintergrund wird hier ein neuer Figurentyp eingeführt: die **Kommuni
 Die Grundlage für dieses Verständnis bildet die Theorie der **Elementarkommunikation** (Hanisch-Johannsen, 2024), die Kommunikation nicht als linearen Austausch, sondern als zyklische Triade aus Feedback, Reflexion und Re-Entry beschreibt. Harry erfüllt in dieser Triade nicht die Rolle des Senders oder Empfängers, sondern verkörpert jene Form, die es erlaubt, dass Kommunikation zwischen den anderen Figuren überhaupt möglich, rekontextualisierbar und anschlussfähig bleibt. 
 
 Damit verschiebt sich der Fokus der Analyse: Nicht mehr Handlung oder Entwicklung einer Figur stehen im Zentrum, sondern deren systemische Funktion. Nicht mehr Identifikation, sondern Beobachtbarkeit. Nicht mehr Heldenmut, sondern strukturelle Ermöglichung.
-
 
 # 3. Analytischer Hauptteil: Harry als Kommunikationsfigur
 
@@ -93,6 +96,12 @@ Das bedeutet: Ohne Lilys Handlung gäbe es keine symbolische Signatur auf Harrys
 
 ## 3.3 Figurenanalyse unter kommunikationstheoretischer Perspektive
 
+Nachdem Harry als strukturelles Zentrum eines narrativen Kommunikationssystems herausgearbeitet wurde, richtet sich der analytische Fokus nun auf sein relationales Gefüge: jene Figuren, die das System nicht nur bevölkern, sondern funktional strukturieren. Die folgenden Analysen begreifen zentrale Charaktere des Harry-Potter-Universums nicht als psychologisch individuelle Akteure, sondern als symbolisch codierte Instanzen, die spezifische Operationen innerhalb eines übergeordneten Kommunikationsraums vollziehen.
+
+In systemtheoretischer Lesart (Luhmann, 1997) sind es nicht Subjekte, die handeln, sondern kommunikative Operationen, die Sinn erzeugen und stabilisieren. Figuren wie Snape, Dumbledore, Ron, Hermine, Ginny oder Voldemort werden in dieser Perspektive nicht nach innerer Motivlage befragt, sondern auf ihre funktionale Rolle innerhalb des symbolischen Regelsystems hin analysiert. Jede Figur wird zur Verkörperung einer bestimmten Kommunikationsform – verdrängt, orchestriert, gespiegelt, verkörpert oder gestört.
+
+Die Analyse zielt damit nicht auf Charakterzeichnung, sondern auf Strukturverständnis: Wie organisieren diese Figuren das kommunikative Feld um Harry herum? Welche systemischen Funktionen übernehmen sie – und wie tragen sie zur Aufrechterhaltung, Irritation oder Transformation des narrativen Systems bei?
+
 ### 3.3.1 Snape als verdrängte Kommunikation
 
 Severus Snape verkörpert innerhalb des narrativen Systems eine Figur, die weder eindeutig antagonistisches noch protagonistisches Handeln aufweist. Vielmehr erscheint er als Träger einer verdrängten, gleichwohl strukturell wirkmächtigen Kommunikationsoperation. Seine lebenslange Liebe zu Lily Potter wird im Text weder vollständig ausgesprochen noch praktisch realisiert. Sie bleibt als unerfüllte, aber handlungsleitende Bezugsgröße wirksam und bestimmt Snape in all seinen zentralen Entscheidungen – vom Schutz Harrys bis hin zur finalen Preisgabe seiner Erinnerung an Dumbledore.
@@ -100,7 +109,6 @@ Severus Snape verkörpert innerhalb des narrativen Systems eine Figur, die weder
 Aus systemtheoretischer Perspektive lässt sich Snape als Instanz der latenten Kommunikation beschreiben: Er artikuliert das, was im System nicht direkt sagbar ist – die Ambivalenz zwischen Zugehörigkeit und Ausschluss, zwischen Loyalität und Selbstschutz. Sein Verhalten fungiert als Korrekturoperation gegenüber der einseitigen Narration der „Guten“ und „Bösen“. Dabei operiert er in doppelter Codierung: Nach außen hin erscheint er als Todesser, im Innern jedoch agiert er als Schutzinstanz für Harry – und damit für die Kommunikation selbst.
 
 Die Figur Snape zeigt, dass auch unterdrückte oder unvollständige Kommunikation systemisch wirksam sein kann. Er repräsentiert jene Kommunikationsformen, die nicht offen zirkulieren, aber dennoch Handlungen strukturieren. Damit wird er zu einer Schattenfigur im wörtlichen Sinne – nicht am Rand der Geschichte, sondern als deren strukturell notwendige Verdunkelung. In der Lesart als Kommunikationsfigur wird Snape zur Projektionsfläche verdrängter, aber wirksamer Sinnbildung, die das System zusammenhält, indem sie seine Ambivalenz mitträgt.
-
 
 ### 3.3.2 Dumbledore als kontrollierende Instanz
 
@@ -166,8 +174,6 @@ In systemtheoretischer Perspektive lassen sich solche Objekte als „symbolisch 
 
 Objekte im Harry-Potter-Universum sind somit keine bloßen Mittel zum Zweck, sondern systemisch wirksame Kommunikationsfiguren: Sie stabilisieren semantische Räume, verdichten symbolische Logiken und operieren als materielle Infrastrukturen narrativer Bedeutung.
 
-
-
 # 4	Diskussion: Entzauberung als epistemischer Akt
 
 Die bisherige Analyse hat gezeigt, dass das Harry-Potter-Universum unter systemischer Lesart nicht als klassische Heldenreise, sondern als symbolisch strukturiertes Kommunikationssystem zu verstehen ist. Im Zentrum steht nicht eine autonome Figur, sondern ein leerer Bezugspunkt, an dem Bedeutung zirkuliert. Dieser Perspektivwechsel bleibt jedoch nicht folgenlos: Die Transformation des narrativen Mythos in eine funktionale Struktur führt zu einem Erkenntniseffekt, der nicht nur intellektuell, sondern auch affektiv wirksam wird. Der Zauber, der der Geschichte innewohnte, wird entzogen – nicht aus Missachtung, sondern als Folge radikaler Analyse.
@@ -212,6 +218,12 @@ Diese Rückbindung verdeutlicht: Realität innerhalb des narrativen Systems ents
 
 # 5.	Schluss: Was bleibt, wenn der Zauber verschwindet?
 
+Die vorangegangene Analyse hat das Harry-Potter-Universum aus der Perspektive einer systemtheoretisch-literaturanalytischen Strukturkritik untersucht. Die zentrale These – Harry Potter als Kommunikationsfigur – wurde systematisch entfaltet, empirisch durch narrative Befunde gestützt und theoretisch im Lichte einschlägiger Literatur verortet. Der klassische Heldenbegriff wurde dekonstruiert, narrative Rollen funktional uminterpretiert und der Zauber als erkenntnistheoretisch aufgeladene Metapher entgrenzt.
+
+Im nun folgenden Schlussteil verdichtet sich diese Bewegung zu einer letzten epistemischen Reflexion: Welche Konsequenzen hat eine solche Entzauberung – intellektuell, affektiv, rezeptionsästhetisch und methodologisch? Was bleibt, wenn Identifikationsfiguren zu strukturellen Funktionen werden, wenn Erzählungen nicht mehr magische Resonanzräume, sondern kommunikationssystemische Netzwerke sind? Und lässt sich aus dieser Reduktion auf Struktur ein Gewinn ziehen – oder lediglich der Verlust des Staunens?
+
+Der Schluss geht diesen Fragen in vier Abschnitten nach: Zunächst wird Harrys Rolle als strukturelles Zentrum noch einmal pointiert (5.1), dann die affektive Folge des Erkenntnisprozesses reflektiert (5.2). Es folgt ein Ausblick auf die Übertragbarkeit des Konzepts (5.3), bevor im letzten Teil (5.4) noch einmal der epistemische Status des Entzauberungsvorgangs selbst betrachtet wird – als notwendige, wenn auch schmerzliche Konsequenz theoretischer Radikalität.
+
 ## 5.1 Harry als strukturelles Zentrum, nicht als Handlungsträger
 
 Die Analyse mündet in einer zentralen Schlussfolgerung: Harry Potter ist nicht als handelndes Subjekt zu verstehen, sondern als strukturelles Zentrum eines symbolisch operierenden Kommunikationssystems. Seine Funktion besteht nicht in der Initiierung von Handlung, sondern in der Ermöglichung ihrer Koordination. Er ist weniger Akteur als Knotenpunkt – eine Position, an der disparate Stränge von Bedeutung, Loyalität, Gewalt, Erinnerung und Hoffnung zusammengeführt, gegeneinander gespiegelt und zirkulierend weitergegeben werden.
@@ -230,8 +242,6 @@ Dieser Preis ist kein Verlust im defizitären Sinn, sondern ein Übergang. Wer e
 
 Der epistemische Gewinn liegt in der Möglichkeit, narrative Systeme jenseits klassischer Identifikationsmechanismen zu analysieren – und damit auch andere Texte, Symbole und kulturelle Phänomene einer vergleichbaren Durchdringung zu unterziehen. Die Entzauberung ist damit kein Ende der Bedeutung, sondern deren Transformation: Magie wird lesbar, nicht weniger bedeutungsvoll, sondern anders bedeutungsvoll. Der Preis des Verstehens ist der Verlust der Unschuld – und zugleich der Beginn theoretischer Autonomie.
 
-
-
 ## 5.3 Ausblick: Übertragbarkeit auf andere Narrative, Symbole, Systeme
 
 Die im Rahmen dieser Analyse entwickelte Figur der Kommunikationsfigur eröffnet Anschlussmöglichkeiten über das Harry-Potter-Universum hinaus. Ihre Charakterisierung als strukturelles Zentrum eines narrativen Systems erlaubt eine Übertragung auf andere fiktionale wie reale Konstellationen, in denen Kommunikation nicht durch Handlungsträger, sondern durch funktionale Vermittlung ermöglicht wird. So lassen sich beispielsweise mythische Figuren (wie Frodo aus „Der Herr der Ringe“ oder Paul Atreides aus „Dune“) auf ähnliche Weise untersuchen: weniger als autonome Akteure, sondern als symbolische Zentren von Bedeutungskonvergenz.
@@ -242,18 +252,18 @@ Der Ausblick ist daher doppelt: Einerseits lädt er zur Relektüre bekannter fik
 
 # Quelle(n)
 
-- Hanisch-Johannsen, J. (2024). *Elementarkommunikation: Eine systemtheoretisch-transdisziplinäre Analyse der Interdependenz von Feedback, Reflexion und Re-Entry.* Unveröffentlichte Manuskriptfassung. https://jochen-hanisch.de/Allgemein+beruflich/Research/Systemtheorie/Elementarkommunikation
-- Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft.* Suhrkamp.
-- Campbell, J. (2008). *Der Heros in tausend Gestalten* (12. Aufl.). Insel Verlag.
-- Rimmon-Kenan, S. (2002). *Narrative Fiction: Contemporary Poetics* (2nd ed.). Routledge.
+	•	Campbell, J. (2008). Der Heros in tausend Gestalten (12. Aufl., übers. von Rainer Hatoum). Insel Verlag.
+	•	Gigerenzer, G. (2013). Risiko: Wie man die richtigen Entscheidungen trifft. Bertelsmann.
+(Hinweis: Das Original Risk Savvy erschien 2014 auf Englisch, die deutsche Ausgabe ist eine eigenständige Übersetzung mit gleichem Inhalt.)
+	•	Hanisch-Johannsen, J. (2024). Elementarkommunikation: Eine systemtheoretisch-transdisziplinäre Analyse der Interdependenz von Feedback, Reflexion und Re-Entry. Unveröffentlichtes Manuskript. https://jochen-hanisch.de/Allgemein+beruflich/Research/Systemtheorie/Elementarkommunikation
+	•	Luhmann, N. (1995). Soziale Systeme: Grundriss einer allgemeinen Theorie. Suhrkamp.
+	•	Luhmann, N. (1997). Die Gesellschaft der Gesellschaft. Suhrkamp.
+	•	Rimmon-Kenan, S. (2002). Narrative Fiction: Contemporary Poetics (2. Aufl., engl. Originalausgabe). Routledge.
+(Hinweis: Eine autorisierte deutsche Übersetzung liegt nicht vor; das Werk wird üblicherweise im englischen Original zitiert.)
+	•	Rowling, J. K. (1998). Harry Potter und der Stein der Weisen (übers. von Klaus Fritz). Carlsen.
+	•	Rowling, J. K. (2005). Harry Potter und der Halbblutprinz (übers. von Klaus Fritz). Carlsen.
+	•	Rowling, J. K. (2007). Harry Potter und die Heiligtümer des Todes (übers. von Klaus Fritz). Carlsen.
 
-- Rowling, J. K. (1997). *Harry Potter and the Philosopher’s Stone.* Bloomsbury.
-- Luhmann, N. (1995). *Soziale Systeme: Grundriß einer allgemeinen Theorie.* Suhrkamp.
+---
 
-
-- Rowling, J. K. (2007). *Harry Potter and the Deathly Hallows.* Bloomsbury.
-
-- Rowling, J. K. (2005). *Harry Potter and the Half-Blood Prince.* Bloomsbury.
-**Quelle(n)**  
-- Rowling, J. K. (1997). *Harry Potter and the Philosopher’s Stone.* Bloomsbury.  
-- Luhmann, N. (1995). *Soziale Systeme: Grundriß einer allgemeinen Theorie.* Suhrkamp.
+#Literatur/HarryPotter #Epistemologie/Entzauberung #Figurentheorie/Kommunikationsfigur #Systemtheorie #Literaturwissenschaft/Literaturanalyse #Erkenntnistheorie
