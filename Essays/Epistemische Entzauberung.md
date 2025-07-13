@@ -1,6 +1,6 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: "Harry Potter und die Entzauberung eines niemaligen Helds unter systemtheoretisch-literaturanalytischer Episteminologenese"
+title: "Harry Potter und die Entzauberung eines nie gewesenen Helden unter systemtheoretisch-literaturanalytischer Episteminologenese"
 Repository: methodologie
 created: 2025-07-13
 updated: 2025-07-13
@@ -16,17 +16,19 @@ tags:
 
 created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/) | [publishd]() | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
-
+**Harry Potter und die Entzauberung eines nie gewesenen Helden unter systemtheoretisch-literaturanalytischer Episteminologenese
 
 **Einleitung**
 
-Die vorliegende Analyse geht aus einer persönlichen, beinahe beiläufigen Situation hervor: dem erstmaligen gemeinsamen Ansehen eines Harry-Potter-Films mit meiner neunjährigen Tochter. Was als alltägliche Vater-Tochter-Erfahrung begann, entwickelte sich durch algorithmisch verstärkten Social-Media-Content in der darauffolgenden Nacht zu einem erkenntnisgetriebenen Reflexionsprozess. Die Timeline füllte sich mit Szenen, Theorien, Zitaten – eine Überfülle an Fragmenten eines kulturellen Phänomens, das seit Jahrzehnten Leserinnen und Leser sowie Zuschauerinnen und Zuschauer weltweit bewegt.
+Die vorliegende Analyse geht aus einer persönlichen, beinahe beiläufigen Situation hervor: dem erstmaligen gemeinsamen Ansehen eines Harry-Potter-Films mit meiner neunjährigen Tochter. Was als alltägliche Vater-Tochter-Erfahrung begann, entwickelte sich durch algorithmisch verstärkten Social-Media-Content in der darauffolgenden Zeit zu einem erkenntnisgetriebenen Reflexionsprozess. Die Timeline füllte sich mit Szenen, Theorien, Zitaten; eine Überfülle an Fragmenten eines kulturellen Phänomens, das seit Jahrzehnten Leserinnen und Leser sowie Zuschauerinnen und Zuschauer weltweit bewegt. Und mich auch bewegte.
 
-Diese unerwartete Konfrontation mit dem Harry-Potter-Universum stellte eine Frage in den Mittelpunkt, die sich durch klassische Lektüre oder filmische Rezeption kaum stellt: **Was ist die elementare Essenz der Harry-Potter-Welt?**
+Diese unerwartete Konfrontation mit dem Harry-Potter-Universum stellte eine Frage in den Mittelpunkt, die sich durch klassische Lektüre oder filmische Rezeption kaum stellt: _Was ist die elementare Essenz der Harry-Potter-Welt?_
 
-Nicht: Wer ist Harry Potter? Nicht: Was passiert im Detail? Sondern: **Welche strukturelle Bedingung trägt dieses Erzähluniversum?** Ziel dieser Arbeit ist es, diese Frage systematisch zu durchdringen – unter Rückgriff auf systemtheoretische, literaturanalytische und epistemologische Modelle. Denn vielleicht ist Harry Potter nicht (nur) ein Held, sondern eine Funktion. Nicht Zentrum der Handlung, sondern Bedingung von Kommunikation.
+Nicht: Wer ist Harry Potter?
+Nicht: Was passiert im Detail?
+Sondern: **Welche strukturelle Bedingung trägt dieses Erzähluniversum?** 
 
-
+Ziel dieser Arbeit ist infolgedessen, diese Frage systematisch unter Rückgriff auf systemtheoretische, literaturanalytische und epistemologische Modelle zu durchdringen. Denn vielleicht ist Harry Potter nicht (nur) ein Held, sondern eine Funktion. Nicht Zentrum der Handlung, sondern Bedingung von Kommunikation.
 
 ## 1. Vom Eindruck zur Frage: Ein heuristischer Erkenntnisweg
 
@@ -68,7 +70,7 @@ Die Analyse der Figur Harry Potter lässt sich jedoch mit diesen Modellen nur be
 
 Vor diesem Hintergrund wird hier ein neuer Figurentyp eingeführt: die **Kommunikationsfigur**. Sie ist keine psychologisch motivierte Instanz, sondern ein struktureller Knotenpunkt, an dem narrative, symbolische und systemische Stränge zusammenlaufen. Sie ist weder Initiator noch Empfänger, sondern Ermöglichungsbedingung von Kommunikation. Die Figur Harry Potter wird in dieser Lesart nicht zum Helden stilisiert, sondern zur Projektions- und Verknüpfungsfläche; zu einer Form, die Bedeutung zirkulieren lässt, ohne selbst Bedeutung im Sinne klassischer Subjektivität zu erzeugen.
 
-Die Grundlage für dieses Verständnis bildet die Theorie der **Elementarkommunikation** (Hanisch-Johannsen, 2024), die Kommunikation nicht als linearen Austausch, sondern als zyklische Triade aus Feedback, Reflexion und Re-Entry beschreibt. Harry erfüllt in dieser Triade nicht die Rolle des Senders oder Empfängers, sondern verkörpert jene Form, die es erlaubt, dass Kommunikation zwischen den anderen Figuren überhaupt möglich, rekontextualisierbar und anschlussfähig bleibt. 
+Die Grundlage für dieses Verständnis bildet die Theorie der [Elementarkommunikation], die Kommunikation nicht als linearen Austausch, sondern als zyklische Triade aus Feedback, Reflexion und Re-Entry beschreibt. Harry erfüllt in dieser Triade nicht die Rolle des Senders oder Empfängers, sondern verkörpert jene Form, die es erlaubt, dass Kommunikation zwischen den anderen Figuren überhaupt möglich, rekontextualisierbar und anschlussfähig bleibt. 
 
 Damit verschiebt sich der Fokus der Analyse: Nicht mehr Handlung oder Entwicklung einer Figur stehen im Zentrum, sondern deren systemische Funktion. Nicht mehr Identifikation, sondern Beobachtbarkeit. Nicht mehr Heldenmut, sondern strukturelle Ermöglichung.
 
@@ -253,9 +255,7 @@ Der Ausblick ist daher doppelt: Einerseits lädt er zur Relektüre bekannter fik
 # Quelle(n)
 
 	•	Campbell, J. (2008). Der Heros in tausend Gestalten (12. Aufl., übers. von Rainer Hatoum). Insel Verlag.
-	•	Gigerenzer, G. (2013). Risiko: Wie man die richtigen Entscheidungen trifft. Bertelsmann.
-(Hinweis: Das Original Risk Savvy erschien 2014 auf Englisch, die deutsche Ausgabe ist eine eigenständige Übersetzung mit gleichem Inhalt.)
-	•	Hanisch-Johannsen, J. (2024). Elementarkommunikation: Eine systemtheoretisch-transdisziplinäre Analyse der Interdependenz von Feedback, Reflexion und Re-Entry. Unveröffentlichtes Manuskript. https://jochen-hanisch.de/Allgemein+beruflich/Research/Systemtheorie/Elementarkommunikation
+	•	Gigerenzer, G. (2013). Risiko: Wie man die richtigen Entscheidungen trifft. Bertelsmann. (Hinweis: Das Original Risk Savvy erschien 2014 auf Englisch, die deutsche Ausgabe ist eine eigenständige Übersetzung mit gleichem Inhalt.)
 	•	Luhmann, N. (1995). Soziale Systeme: Grundriss einer allgemeinen Theorie. Suhrkamp.
 	•	Luhmann, N. (1997). Die Gesellschaft der Gesellschaft. Suhrkamp.
 	•	Rimmon-Kenan, S. (2002). Narrative Fiction: Contemporary Poetics (2. Aufl., engl. Originalausgabe). Routledge.
