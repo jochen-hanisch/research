@@ -20,9 +20,11 @@ created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/rese
 
 **Einleitung**
 
-Die vorliegende Analyse geht aus einer persönlichen, beinahe beiläufigen Situation hervor: dem erstmaligen gemeinsamen Ansehen eines Harry-Potter-Films mit meiner neunjährigen Tochter. Was als alltägliche Vater-Tochter-Erfahrung begann, entwickelte sich durch algorithmisch verstärkten Social-Media-Content in der darauffolgenden Zeit zu einem erkenntnisgetriebenen Reflexionsprozess. Die Timeline füllte sich mit Szenen, Theorien, Zitaten; eine Überfülle an Fragmenten eines kulturellen Phänomens, das seit Jahrzehnten Leserinnen und Leser sowie Zuschauerinnen und Zuschauer weltweit bewegt. Und mich auch bewegte.
+Die vorliegende Essey geht aus einer persönlichen, beinahe beiläufigen Situation hervor, dem erstmaligen gemeinsamen Ansehen eines Harry-Potter-Films mit meiner neunjährigen Tochter. Was als alltägliche Vater-Tochter-Erfahrung begann, entwickelte sich durch algorithmisch verstärkten Social-Media-Content in der darauffolgenden Zeit zu einem erkenntnisgetriebenen Reflexionsprozess. Die Timeline füllte sich mit Szenen, Theorien, Zitaten; eine Überfülle an Fragmenten eines kulturellen Phänomens, das seit Jahrzehnten Leserinnen und Leser sowie Zuschauerinnen und Zuschauer weltweit bewegt. Und mich dazu.
 
-Diese unerwartete Konfrontation mit dem Harry-Potter-Universum stellte eine Frage in den Mittelpunkt, die sich durch klassische Lektüre oder filmische Rezeption kaum stellt: _Was ist die elementare Essenz der Harry-Potter-Welt?_
+Diese unerwartete Konfrontation mit dem Harry-Potter-Universum stellte eine Frage in den Mittelpunkt, die sich durch klassische Lektüre oder filmische Rezeption kaum stellt:
+
+_Was ist die elementare Essenz der Harry-Potter-Welt?_
 
 Nicht: Wer ist Harry Potter?
 Nicht: Was passiert im Detail?
@@ -32,29 +34,84 @@ Ziel dieser Arbeit ist infolgedessen, diese Frage systematisch unter Rückgriff 
 
 ## 1. Vom Eindruck zur Frage: Ein heuristischer Erkenntnisweg
 
-Jede Analyse beginnt mit einem Moment des Staunens – oder der Irritation. Der hier dokumentierte Denkprozess nahm seinen Ausgangspunkt in einem beiläufigen Ereignis: dem gemeinsamen Schauen eines Harry-Potter-Films mit meiner Tochter. Was zunächst als familiäre Alltagserfahrung erschien, entfaltete sich rasch zu einem erkenntnisleitenden Impuls. Die Reaktion auf diese Erfahrung war ambivalent – ein Gefühl zwischen Wiedererkennung und epistemischer Verstörung. Was mich irritierte, war nicht das Narrativ selbst, sondern seine Wirkung: ein kulturell durchcodiertes System, das zugleich vertraut und unheimlich wirkte.
+Jede Analyse beginnt mit einem Moment des Staunens oder der Irritation. Der hier dokumentierte Denkprozess nahm seinen Ausgangspunkt in einem beiläufigen Ereignis genauer, dem Schauen eines Harry-Potter-Films in häuslicher Umgebung. Was zunächst als familiäre Alltagserfahrung erschien, entfaltete sich in der darauffolgenden Zeit zu einem erkenntnisleitenden Impuls. Die Reaktion auf diese Erfahrung war ambivalent, zwischen dem Gefühl von Wiedererkennung und epistemischer Verstörung. Was irritierte, war nicht das Narrativ selbst, sondern seine Wirkung, d.h ein kulturell durchcodiertes System, das zugleich vertraut und unheimlich auftrat.
 
-Dieser Abschnitt rekonstruiert den Übergang vom ersten Eindruck zur systematischen Frageformulierung. Im Zentrum steht die epistemologische Bewegung: von der Szene zur Struktur, vom emotionalen Eindruck zur analytischen Abstraktion. Der heuristische Erkenntnisweg ist dabei nicht linear, sondern emergent – geprägt durch Reibung, Resonanz und reflexive Verdichtung. Die sich herauskristallisierende Leitfrage lautet daher nicht: Wer ist Harry Potter? Sondern: Was ist Harry Potter – strukturell betrachtet?
+Dieses Kapitel rekonstruiert den Übergang vom ersten Eindruck zur systematischen Frageformulierung. Im Zentrum steht die epistemologische Bewegung, die von der Szene zur Struktur, vom emotionalen Eindruck zur analytischen Abstraktion führt. Der heuristische Erkenntnisweg ist dabei nicht linear, sondern emergent und damit geprägt durch Reibung, Resonanz und reflexive Verdichtung. Die sich herauskristallisierende Leitfrage lautet daher nicht:
 
-Die folgenden Unterkapitel dokumentieren diesen Prozess: von der ersten Reaktion über die theoretische Irritation bis zur vorläufigen These, dass Harry Potter weniger Held denn Kommunikationsfigur ist. Es ist eine Bewegung weg vom Plot – hin zur Struktur. Weg von Identifikation – hin zur Systemanalyse. Und damit: der erste Schritt einer epistemischen Entzauberung.
+- Wer ist Harry Potter?
+
+Sondern:
+
+- Was ist Harry Potter – strukturell betrachtet?
+
+Die folgenden Unterkapitel dokumentieren diesen Prozess. Von der ersten Reaktion über die theoretische Irritation bis zur vorläufigen These, dass Harry Potter weniger Held denn Kommunikationsfigur ist. Der Pfad ist eine Bewegung weg vom Plot, hin zur Struktur. Weg von Identifikation, hin zur Systemanalyse. Und damit auch, der erste Schritt einer epistemischen Entzauberung.
 
 ## 1.1 Beobachtete Reaktionen: Neugier, Irritation, algorithmisches Verfangen
 
-Die erste Konfrontation mit einer algorithmisch kuratierten Flut an Inhalten aus dem Harry-Potter-Universum rief eine ambivalente Reaktion hervor: eine Mischung aus Neugier und Irritation. Die Bilder, Zitate und Theoriefragmente wirkten vertraut und zugleich entfremdet – als Wiederbegegnung mit einem kulturellen Code, der als bekannt galt, nun aber unter neuer epistemischer Spannung erschien. Erinnerungen an frühere Lektüren und kollektive Deutungsmuster mischten sich mit einer schwer zu lokalisierenden inneren Bewegung.
+Die erste Konfrontation mit einer algorithmisch kuratierten Flut an Inhalten aus dem Harry-Potter-Universum rief eine ambivalente Reaktion hervor, eine Mischung aus Neugier und Irritation. Die Bilder, Zitate und Theoriefragmente wirkten vertraut und zugleich entfremdet, eher so, als Wiederbegegnung mit einem kulturellen Code, der als bekannt galt, nun aber unter neuer epistemischer Spannung erschien. Erinnerungen an frühere Lektüren und kollektive Deutungsmuster mischten sich mit einer schwer zu lokalisierenden inneren Bewegung. Diese Muster mischen sich mit Neugier, die, ausgelöst durch viel nicht-Wissen, dichter und damit größer wurde. Nicht das bereits bekannte, sondern gerade die Lücken des Harry-Potter-Universums waren genau die Wendepunkte, an denen meine zeitlichen und inhaltlichen Betrachtungen ihre Richtung änderten.
 
-Diese algorithmische Wiederbegegnung entfaltete sich jedoch nicht als nostalgische Reminiszenz, sondern als epistemische Störung. Die emotionale Involviertheit war unerwartet intensiv. Es stellte sich weniger die Frage nach narrativen Details, sondern vielmehr nach der strukturellen Wirkung des Materials selbst. Diese Irritation verband sich mit der Beobachtung einer intergenerationellen Vermittlung: Während die Tochter das Universum erstmals betritt, gerät der Vater erneut in dessen Bann – eine Resonanz, die mehr als biografische Parallelität vermuten lässt. In der Spannung zwischen Erinnerungswissen und gegenwärtiger Konfrontation verdichtete sich eine Vermutung: Es geht hier nicht primär um Figuren oder Handlungen – es geht um Strukturen. Um systemische Bedingungen. Um Kommunikation.
+Diese algorithmische Wiederbegegnung entfaltete sich jedoch nicht als nostalgische Reminiszenz, sondern als epistemische Störung. Die emotionale Involviertheit war unerwartet intensiv. Weniger stellte sich die Frage nach narrativen Details, sondern vielmehr die, nach der strukturellen Wirkung des Materials selbst. Diese, teilweise deutliche Irritation verband sich mit der Beobachtung einer intergenerationellen Vermittlung. Während die Tochter das Universum erstmals betritt, gerät der Vater erneut in dessen Bann und damit in eine Resonanz, die mehr als biografische Parallelität vermuten lässt. In der Spannung zwischen Erinnerungswissen und gegenwärtiger Konfrontation verdichtete sich eine Vermutung. Es geht hier nicht primär um Figuren oder Handlungen, sondern um Strukturen. Um systemische Bedingungen. Um Kommunikation.
 
-Diese affektive und kognitive Überlagerung markiert die erste Erkenntnisschwelle: Sie war weder geplant noch gesteuert, sondern emergierte aus dem Ineinander von persönlicher Erfahrung, medialer Verstärkung und theoretischer Irritation.
+Diese affektive und kognitive Überlagerung markiert die erste Erkenntnisschwelle. Sie war weder geplant noch gesteuert, sondern emergierte aus dem Ineinander von persönlicher Erfahrung, medialer Verstärkung und theoretischer Irritation.
 
 ## 1.2 Heuristische Verdichtung: Von der Szene zur Struktur
 
-Ausgehend von der medialen Überreizung entwickelte sich über Nacht ein erkenntnisleitender Verdacht: Die erzählerische Welt rund um Harry Potter operiert nicht entlang klassischer Figurenkonstellationen, sondern entlang systemischer Funktionen. Die Rückkehr in das narrative Material erfolgte somit nicht über ein Wiederlesen oder Nachschauen, sondern über eine sokratische Relektüre: Welche Funktion erfüllen Figuren? Welche strukturelle Notwendigkeit liegt ihrer Existenz zugrunde? Was macht Harry Potter aus – jenseits seiner Position als Namensgeber?
+Ausgehend von der medialen Überreizung entwickelte sich über Nacht ein erkenntnisleitender Verdacht. Die erzählerische Welt rund um Harry Potter operiert nicht entlang klassischer Figurenkonstellationen, sondern entlang systemischer Funktionen. Die Rückkehr in das narrative Material erfolgte somit nicht über ein Wiederlesen oder Nachschauen, sondern über eine sokratische Relektüre:
 
-Diese Fragen leiteten eine Relektüre an, die nicht den Plot rekonstruierte, sondern die impliziten Beziehungsarchitekturen zu entschlüsseln suchte. Inmitten dieses Prozesses kristallisierte sich eine zentrale Problemanzeige: Harry Potter könnte eine Figur sein, die nicht aus innerer Motivation handelt, sondern aus systemischer Notwendigkeit existiert. 
+- Welche Funktion erfüllen die einzelnen Figuren?
+- Welche strukturelle Notwendigkeit liegt ihrer Existenz zugrunde?
+- Was macht Harry Potter aus – jenseits seiner Position als Namensgeber?
+
+Diese Fragen leiteten eine Relektüre an, die nicht den Plot rekonstruierte, sondern die impliziten Beziehungsarchitekturen zu entschlüsseln suchte. Inmitten dieses Prozesses kristallisierte sich eine zentrale Problemanzeige. Harry Potter könnte eine Figur sein, die nicht aus innerer Motivation handelt, sondern aus systemischer Notwendigkeit existiert. 
 
 ## 1.3 Reflexionskern: Die Verschiebung der Frage
 
-Die klassische Frage – Wer ist Harry Potter? – trat in den Hintergrund. Stattdessen formierte sich eine neue Perspektive: Nicht das *Wer*, sondern das *Was* wurde zentral. Was ist Harry Potter im strukturellen Sinne? Welche Funktion erfüllt er für das narrative System? Die Auseinandersetzung mit weiteren Schlüsselcharakteren – Snape, Lily, Dumbledore – offenbarte ein konsistentes Muster: Ihre Handlungen beziehen sich weniger auf sich selbst als auf eine strukturell konstituierte Mitte, die nicht durch Entscheidungsfähigkeit glänzt, sondern durch Anschlussfähigkeit.
+Die klassische Frage – Wer ist Harry Potter? – trat zunehmend in den Hintergrund. Statt einer personenbezogenen Deutung rückte eine strukturelle Perspektive in den Vordergrund: Nicht das Wer, sondern das Was wurde zentral. Was ist Harry Potter im systemischen Sinne? Welche Funktion erfüllt er innerhalb der narrativen Gesamtstruktur? Die fortlaufende Auseinandersetzung mit Schlüsselcharakteren wie Snape, Lily und Dumbledore offenbarte ein konsistentes Muster: Ihre Handlungen beziehen sich nicht primär auf sich selbst, sondern auf eine konstitutive Leerstelle – ein Zentrum, das nicht durch Autonomie, sondern durch Anschlussfähigkeit bestimmt ist.
+
+Die Figurenkonstellation und ihre funktionalen Verhältnisse sind in Abbildung 1 (siehe unten) visualisiert.
+
+```mermaid
+flowchart TD
+    %% Knoten (Figuren) mit Markdown-Syntax
+    A["**Snape**<br>_verdrängte Kommunikation_"]
+    B["**Lily**<br>_Initialzündung durch Mutterliebe_"]
+    C["**Dumbledore**<br>_kontrollierende Instanz_"]
+    D["**Ron**<br>_Affektresonanz_"]
+    E["**Hermine**<br>_Reflexionsstruktur_"]
+    H["**Ginny**<br>_Verkörperungsversuch_"]
+    F["**Harry**<br>_Kommunikationsfigur_"]
+    G["**Voldemort**<br>_systemische Intervention_"]
+
+    %% Hauptpfade
+    A -->|**latente** Ursprungsbindung| B
+    B -->|**epistemische Setzung**| C
+    C ==> |**Re-Entry der Ursprungsbindung**| A
+    C -->|Kontingenzmanagement| D
+    D -->|emotionale Resonanz| E
+    E -->|**symbolische Erdung**| H
+    H ==> |**Verkörperungsversuch**| F
+    F ==> |**strukturelle Differenz**| G
+
+    %% Rückverweise und Querbezüge
+    D -->|rückläufige Bezugnahme| C
+    E -->|**Spiegelung**| F
+    F -->|rekursive Rückbindung| E
+    G ==> |**Initiationssequenz**| B
+
+    %% Stildefinitionen für Figurengruppen
+    classDef kern fill:#fff8dc,stroke:#d2691e,stroke-width:2px;
+    classDef rahmen fill:#e6f7ff,stroke:#4682b4,stroke-width:1px;
+    classDef resonanz fill:#f0fff0,stroke:#006400,stroke-width:1px;
+    classDef gegenspiel fill:#fff0f5,stroke:#8b0000,stroke-width:1px;
+
+    %% Klassenzuweisungen
+    class A,B,C,F kern
+    class D,E,H rahmen
+    class G gegenspiel
+```
+**Abbildung 1: Systemische Figurenstruktur im Harry-Potter-Universum**
+
+Abbildung 1 zeigt die funktionale Struktur der zentralen Figuren im Harry-Potter-Universum aus systemischer Perspektive. Die Analyse ordnet jeder Figur eine spezifische kommunikative Funktion zu, wobei sich die Beziehungslinien nicht als biografisch-psychologisch, sondern als symbolisch-funktional verstehen lassen. Der Pfad beginnt mit **Snape**, dessen verdrängte Kommunikation durch eine latente Ursprungsbindung mit **Lily** verbunden ist. Lily selbst bildet die Initialzündung durch einen strukturellen Akt der Mutterliebe. **Dumbledore** übernimmt daraufhin das epistemische Steuer durch Kontingenzmanagement, das sich über **Ron** als emotionaler Resonanzfigur und **Hermine** als Reflexionsinstanz weiterentwickelt. **Ginny** verkörpert eine symbolische Erdung, die schließlich zur zentralen Figur **Harry** führt – verstanden nicht als Akteur, sondern als Kommunikationsfigur. **Voldemort** tritt in diesem Zusammenhang als systemische Intervention auf, die Differenz stiftet und den Kreislauf erneut zur Initialzündung zurückführt. Rückbezüge, etwa von Dumbledore zu Snape oder von Harry zu Hermine, markieren zirkuläre Rückkopplungen, die die kommunikative Dynamik des Systems stabilisieren und variieren. Die Abbildung operationalisiert damit die Grundannahme dieser Arbeit: dass Bedeutung nicht durch individuelle Entscheidungen, sondern durch funktionale Bezüge im symbolischen Netzwerk erzeugt wird.
 
 ## 1.4 Erste These: Kommunikationsfigur statt Heldenrolle
 
@@ -106,7 +163,7 @@ Die Analyse zielt damit nicht auf Charakterzeichnung, sondern auf Strukturverst�
 
 ### 3.3.1 Snape als verdrängte Kommunikation
 
-Severus Snape verkörpert innerhalb des narrativen Systems eine Figur, die weder eindeutig antagonistisches noch protagonistisches Handeln aufweist. Vielmehr erscheint er als Träger einer verdrängten, gleichwohl strukturell wirkmächtigen Kommunikationsoperation. Seine lebenslange Liebe zu Lily Potter wird im Text weder vollständig ausgesprochen noch praktisch realisiert. Sie bleibt als unerfüllte, aber handlungsleitende Bezugsgröße wirksam und bestimmt Snape in all seinen zentralen Entscheidungen – vom Schutz Harrys bis hin zur finalen Preisgabe seiner Erinnerung an Dumbledore.
+Severus Snape verkörpert innerhalb des narrativen Systems eine Figur, die weder eindeutig antagonistisches noch protagonistisches Handeln aufweist. Vielmehr erscheint er als Träger einer verdrängten, gleichwohl strukturell wirkmächtigen Kommunikationsoperation. Seine lebenslange Liebe zu Lily Potter wird im Text weder vollständig ausgesprochen noch praktisch realisiert. Sie bleibt als unerfüllte, aber handlungsleitende Bezugsgröße wirksam und bestimmt Snape in all seinen zentralen Entscheidungen – vom Schutz Harrys bis hin zur finalen Preisgabe seiner Erinnerung an Dumbledore (vgl. Abbildung 1: Pfad A → B).
 
 Aus systemtheoretischer Perspektive lässt sich Snape als Instanz der latenten Kommunikation beschreiben: Er artikuliert das, was im System nicht direkt sagbar ist – die Ambivalenz zwischen Zugehörigkeit und Ausschluss, zwischen Loyalität und Selbstschutz. Sein Verhalten fungiert als Korrekturoperation gegenüber der einseitigen Narration der „Guten“ und „Bösen“. Dabei operiert er in doppelter Codierung: Nach außen hin erscheint er als Todesser, im Innern jedoch agiert er als Schutzinstanz für Harry – und damit für die Kommunikation selbst.
 
@@ -114,7 +171,7 @@ Die Figur Snape zeigt, dass auch unterdrückte oder unvollständige Kommunikatio
 
 ### 3.3.2 Dumbledore als kontrollierende Instanz
 
-Albus Dumbledore fungiert im narrativen System nicht primär als weiser Mentor, sondern als zentrale Instanz der Steuerung und Kontrolle symbolischer Operationen. In seiner Funktion als Schulleiter von Hogwarts, als Gründer des Ordens des Phönix und als Vertrauensperson sowohl für Harry als auch für Severus Snape nimmt er eine Position ein, die nicht durch moralische Klarheit, sondern durch strategische Vieldeutigkeit geprägt ist.
+Albus Dumbledore fungiert im narrativen System nicht primär als weiser Mentor, sondern als zentrale Instanz der Steuerung und Kontrolle symbolischer Operationen. In seiner Funktion als Schulleiter von Hogwarts, als Gründer des Ordens des Phönix und als Vertrauensperson sowohl für Harry als auch für Severus Snape nimmt er eine Position ein, die nicht durch moralische Klarheit, sondern durch strategische Vieldeutigkeit geprägt ist (vgl. Abbildung 1: Pfad B → C und C ⇒ A).
 
 Dumbledore weiß mehr als andere Figuren, und dieses Wissensgefälle nutzt er, um systemische Stabilität zu erzeugen. Sein Handeln lässt sich als Operation des „Kontingenzmanagements“ beschreiben: Er hält das System offen, verhindert Eskalation und orchestriert Entwicklungen, ohne sie vollständig kontrollieren zu können. Dabei offenbart sich seine Rolle als eine des stillen Dirigenten: Nicht durch direkte Eingriffe, sondern durch Setzung symbolischer Marker (z. B. der Zauberstab, der Phönix, der Spiegel Nerhegeb) strukturiert er die narrative Realität.
 
@@ -124,7 +181,7 @@ Dumbledore wird so zur Figur systemischer Steuerung – nicht im Sinne totaler K
 
 ### 3.3.3 Ron & Hermine als Resonanzräume
 
-Ron Weasley und Hermine Granger erfüllen im narrativen System von Harry Potter keine strukturelle Zentralfunktion im Sinne der Kommunikationsfigur, sondern agieren als dynamische Resonanzräume, innerhalb derer sich kommunikative Prozesse spiegeln, verstärken oder kontrastieren. Sie sind nicht bloß Freunde oder Helfer, sondern strukturieren – durch ihre Reaktionen, Zweifel, Konflikte und Unterstützungen – die Art und Weise, wie Harrys Rolle als Zentrum erlebbar und beobachtbar wird.
+Ron Weasley und Hermine Granger erfüllen im narrativen System von Harry Potter keine strukturelle Zentralfunktion im Sinne der Kommunikationsfigur, sondern agieren als dynamische Resonanzräume, innerhalb derer sich kommunikative Prozesse spiegeln, verstärken oder kontrastieren. Sie sind nicht bloß Freunde oder Helfer, sondern strukturieren – durch ihre Reaktionen, Zweifel, Konflikte und Unterstützungen – die Art und Weise, wie Harrys Rolle als Zentrum erlebbar und beobachtbar wird (vgl. Abbildung 1: Pfad C → D → E).
 
 Ron verkörpert dabei die emotionale Alltäglichkeit, den durchlässigen Modus von Zugehörigkeit und Abgrenzung. In Phasen der Überforderung zieht er sich zurück, etwa in „The Deathly Hallows“ (Rowling, 2007), nur um dann gestärkt und verändert wieder in das System einzutreten. Diese Bewegungen markieren nicht bloß narrative Wendungen, sondern verweisen auf eine tiefere Struktur: Ron agiert als Affekt- und Konfliktfilter, an dem sich die Tragweite von Harrys Position immer wieder neu bemisst.
 
@@ -134,7 +191,7 @@ Gemeinsam bilden Ron und Hermine kein bloßes Begleittrio, sondern eine kommunik
 
 ### 3.3.4 Ginny als Verkörperungsversuch
 
-Ginny Weasley übernimmt innerhalb des narrativen Systems eine besondere Funktion: Sie markiert den Versuch, die abstrakte Kommunikationsfigur Harry Potter in eine körperlich-emotionale Realität zu überführen. Ihre anfängliche Verehrung Harrys – geprägt durch kindliche Bewunderung und mediale Inszenierung – transformiert sich im Verlauf der Erzählung zu einer tatsächlichen Beziehung. Diese Entwicklung ist jedoch nicht als klassische Liebesgeschichte zu lesen, sondern als struktureller Versuch, dem leeren Zentrum des Systems eine Form von greifbarer Subjektivität zu verleihen.
+Ginny Weasley übernimmt innerhalb des narrativen Systems eine besondere Funktion: Sie markiert den Versuch, die abstrakte Kommunikationsfigur Harry Potter in eine körperlich-emotionale Realität zu überführen. Ihre anfängliche Verehrung Harrys – geprägt durch kindliche Bewunderung und mediale Inszenierung – transformiert sich im Verlauf der Erzählung zu einer tatsächlichen Beziehung. Diese Entwicklung ist jedoch nicht als klassische Liebesgeschichte zu lesen, sondern als struktureller Versuch, dem leeren Zentrum des Systems eine Form von greifbarer Subjektivität zu verleihen (vgl. Abbildung 1: Pfad E → H).
 
 In ihrer Verbindung mit Ginny wird Harry erstmals als Mensch unter Menschen sichtbar – nicht als Projektionsfläche, sondern als Figur mit Beziehung, Körper, Emotion. Doch selbst in dieser Verbindung bleibt das strukturelle Ungleichgewicht bestehen: Ginny bleibt relativ randständig, ihre Perspektive wird kaum erzählt. Die Beziehung dient weniger ihrer Individualität als vielmehr der Erdung Harrys – sie ermöglicht ihm, in einem narrativen Moment eine temporäre Verkörperung zu erfahren. Kommunikation verdichtet sich hier in Intimität, ohne das strukturelle Gefälle zu lösen.
 
@@ -142,7 +199,7 @@ In dieser Lesart erscheint Ginny nicht als narrative Belohnung oder romantisches
 
 ### 3.3.5 Lord Voldemort als systemische Intervention
 
-Lord Voldemort verkörpert innerhalb des narrativen Systems die Form einer systemischen Intervention, die nicht auf Stabilität, sondern auf Destabilisierung zielt. Er ist keine klassische Antagonistenfigur im Sinne eines psychologisch nachvollziehbaren Gegenspielers, sondern agiert als strukturelle Störung – eine Operation, die Kommunikation nicht verhindert, sondern radikal umbaut.
+Lord Voldemort verkörpert innerhalb des narrativen Systems die Form einer systemischen Intervention, die nicht auf Stabilität, sondern auf Destabilisierung zielt. Er ist keine klassische Antagonistenfigur im Sinne eines psychologisch nachvollziehbaren Gegenspielers, sondern agiert als strukturelle Störung – eine Operation, die Kommunikation nicht verhindert, sondern radikal umbaut (vgl. Abbildung 1: Pfad F → G).
 
 In seiner Beziehung zu Harry Potter wird dieses Muster besonders deutlich: Voldemort ist nicht nur der „Mörder der Eltern“ oder der „Bösewicht“, sondern derjenige, der durch den gescheiterten Tötungsversuch selbst Teil des kommunikativen Systems wird. Seine Seele, fragmentiert durch die Horcruxe, wird symbolisch und real in Harry eingeschrieben – als unfreiwillige Kopplung zweier Systeme, die sich gegenseitig bedingen und bedrohen. Damit wird Voldemort zu einer paradoxen Figur: Er ist sowohl externer Angriff als auch interner Bestandteil, sowohl Zerstörer als auch Quelle systemischer Dynamik.
 
@@ -152,7 +209,7 @@ Voldemort ist somit nicht nur ein Gegner, sondern eine Bedingung. Ohne ihn gäbe
 
 ### 3.3.5 Weitere Figuren als Herleitungen
 
-Neben den zentralen Figuren Harry, Snape, Dumbledore, Ron, Hermine, Ginny und Voldemort lassen sich weitere Charaktere des Harry-Potter-Universums systematisch als funktionale Ableitungen der zentralen Kommunikationsstruktur lesen. Diese Figuren operieren nicht als eigene Zentren, sondern stabilisieren, variieren oder konterkarieren das kommunikative Gefüge.
+Neben den zentralen Figuren Harry, Snape, Dumbledore, Ron, Hermine, Ginny und Voldemort lassen sich weitere Charaktere des Harry-Potter-Universums systematisch als funktionale Ableitungen der zentralen Kommunikationsstruktur lesen. Diese Figuren operieren nicht als eigene Zentren, sondern stabilisieren, variieren oder konterkarieren das kommunikative Gefüge (vgl. Abbildung 1: periphere Funktion in Bezug auf F).
 
 Neville Longbottom etwa fungiert als kontrafaktische Alternative: Er hätte gemäß Prophezeiung ebenso „der Auserwählte“ sein können (Rowling, 2005). Doch seine biografischen Bedingungen – insbesondere die geistige Zerstörung seiner Eltern – verhindern jene zentrale Initialzündung durch symbolisch aufgeladene Mutterliebe, wie sie Harry widerfuhr. Longbottoms Funktion besteht somit nicht in heroischer Parallelität, sondern in der Konturierung der Sonderstellung Harrys: durch Differenz.
 
