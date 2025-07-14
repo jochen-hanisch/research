@@ -109,15 +109,25 @@ flowchart TD
     class D,E,H rahmen
     class G gegenspiel
 ```
-**Abbildung 1: Systemische Figurenstruktur im Harry-Potter-Universum**
+_Abbildung 1: Systemische Figurenstruktur im Harry-Potter-Universum (eig. Darsetllung)_
 
-Abbildung 1 zeigt die funktionale Struktur der zentralen Figuren im Harry-Potter-Universum aus systemischer Perspektive. Die Analyse ordnet jeder Figur eine spezifische kommunikative Funktion zu, wobei sich die Beziehungslinien nicht als biografisch-psychologisch, sondern als symbolisch-funktional verstehen lassen. Der Pfad beginnt mit **Snape**, dessen verdrängte Kommunikation durch eine latente Ursprungsbindung mit **Lily** verbunden ist. Lily selbst bildet die Initialzündung durch einen strukturellen Akt der Mutterliebe. **Dumbledore** übernimmt daraufhin das epistemische Steuer durch Kontingenzmanagement, das sich über **Ron** als emotionaler Resonanzfigur und **Hermine** als Reflexionsinstanz weiterentwickelt. **Ginny** verkörpert eine symbolische Erdung, die schließlich zur zentralen Figur **Harry** führt – verstanden nicht als Akteur, sondern als Kommunikationsfigur. **Voldemort** tritt in diesem Zusammenhang als systemische Intervention auf, die Differenz stiftet und den Kreislauf erneut zur Initialzündung zurückführt. Rückbezüge, etwa von Dumbledore zu Snape oder von Harry zu Hermine, markieren zirkuläre Rückkopplungen, die die kommunikative Dynamik des Systems stabilisieren und variieren. Die Abbildung operationalisiert damit die Grundannahme dieser Arbeit: dass Bedeutung nicht durch individuelle Entscheidungen, sondern durch funktionale Bezüge im symbolischen Netzwerk erzeugt wird.
+Abbildung 1 zeigt die funktionale Struktur der zentralen Figuren im Harry-Potter-Universum aus systemischer Perspektive. Die Analyse ordnet jeder Figur eine spezifische kommunikative Funktion zu, wobei sich die Beziehungslinien nicht als biografisch-psychologisch, sondern als symbolisch-funktional verstehen lassen. Der Pfad beginnt mit **Snape**, dessen verdrängte Kommunikation durch eine latente Ursprungsbindung mit **Lily** verbunden ist. Lily selbst bildet die Initialzündung durch einen strukturellen Akt der Mutterliebe. **Dumbledore** übernimmt daraufhin das epistemische Steuer durch Kontingenzmanagement, das sich über **Ron** als emotionaler Resonanzfigur und **Hermine** als Reflexionsinstanz weiterentwickelt. **Ginny** verkörpert eine symbolische Erdung, die schließlich zur zentralen Figur **Harry** führt, der nicht als Akteur verstanden werden darf, sondern als Kommunikationsfigur. **Voldemort** tritt in diesem Zusammenhang als systemische Intervention auf, die Differenz stiftet und den Kreislauf erneut zur Initialzündung zurückführt. Rückbezüge, etwa von Dumbledore zu Snape oder von Harry zu Hermine, markieren zirkuläre Rückkopplungen, die die kommunikative Dynamik des Systems stabilisieren und variieren. Die Abbildung operationalisiert damit die Grundannahme dieser Arbeit, dass Bedeutung nicht durch individuelle Entscheidungen, sondern durch funktionale Bezüge im symbolischen Netzwerk erzeugt wird.
 
 ## 1.4 Erste These: Kommunikationsfigur statt Heldenrolle
 
-Die entstehende Hypothese war radikal in ihrer Konsequenz: **Harry Potter ist kein Held.** Zumindest nicht im Sinne klassischer Erzählmodelle, die heroisches Handeln, Transformation und Entscheidungsfreiheit voraussetzen (vgl. Campbell, 2008). Vielmehr erfüllt Harry Potter eine strukturelle Funktion im narrativen System: Er ist kein Akteur, sondern ein Knotenpunkt. Keine Quelle von Handlung, sondern deren symbolisch vermittelndes Zentrum. 
+Die entstehende Hypothese ist in ihrer Konsequenz radikal:
 
-Diese Überlegung führt zur Einführung eines neuen figurentheoretischen Konzepts: **der Kommunikationsfigur**. Eine solche Figur ist nicht durch psychologische Tiefe oder narrative Entwicklung gekennzeichnet, sondern durch ihre Rolle als Ermöglichungsbedingung kommunikativer Prozesse. Harry Potter erscheint in dieser Perspektive nicht als autonom Handelnder, sondern als zentrale Schnittstelle, an der symbolische Bedeutungen zirkulieren, reflektiert und rückgebunden werden.
+> Harry Potter ist kein Held.
+
+Zumindest nicht im Sinne klassischer Narrationsmuster, die heroisches Handeln, Wandlung durch Prüfung und autonome Entscheidung ins Zentrum stellen (vgl. Campbell, 2008; Vogler, 2007). Stattdessen erfüllt Harry Potter im narrativen Gefüge eine strukturelle Funktion, d.h. er agiert nicht als initiierender Akteur, sondern als symbolischer Knotenpunkt, an dem Bedeutungsflüsse zusammenlaufen und rekodiert werden. Diese Einsicht erfordert die Einführung eines neuen figurentheoretischen Begriffs: der Kommunikationsfigur. Kommunikationsfiguren sind nicht nur durch psychologische Tiefe oder narrative Entwicklung charakterisiert, sondern durch ihre Position im symbolisch-kommunikativen Raum einer Erzählung. Sie dienen als mediale Instanzen, durch die andere Figuren, Diskurse und Erzählstränge miteinander in Beziehung treten.
+
+Harry Potter ist in diesem Sinne nicht Urheber von Handlung, sondern eine Reflexionsfläche kollektiver Projektionen, institutioneller Machtverhältnisse und mythischer Rahmungen. Als Kommunikationsfigur wird er zum semantischen Resonanzkörper, in dem sich das Narrativ nicht nur organisiert, sondern überhaupt erst systemisch stabilisiert. Seine Funktion ist nicht die eines handelnden Subjekts, sondern die eines strukturkonstitutiven Beobachtungspunkts, an dem Sinn zirkulieren, verdichtet und rückgebunden werden kann. Er ermöglicht dadurch die narrative Selbstbeschreibung des Systems. Nicht vordergründig als psychologisch ausgestalteter Akteur, sondern als figuratives Gefäß für die Selbstbeobachtung des Erzählganzen. Die Figur Harry ließe sich damit als funktionale Leerstelle im Sinne Barthes (1977) verstehen oder als Beobachtungsfigur zweiter Ordnung (vgl. Luhmann, 1997), die nicht im System handelt, sondern durch ihre strukturelle Einbettung das System der Erzählung selbst ermöglicht.
+
+Diese Rahmung erscheint auf den ersten Blick wenig bedeutungsvoll, gerade im Vergleich zum klassischen Heldentum wirkt die Figur der Kommunikationsfigur beinahe nebensächlich oder passiv. Doch genau hierin liegt ihre tiefere Relevanz. Aus systemtheoretischer Perspektive verdichtet sich ihre Funktion zu einer tragenden Bedingung narrativer Emergenz (Luhmann, 1995). Nicht durch Tat, sondern durch Beobachtbarkeit (Luhmann, 1997), nicht durch Handlungsmacht, sondern durch semantische Anschlussfähigkeit (Luhmann, 1984/1997) konstituiert die Kommunikationsfigur das Erzählsystem. Sie steht nicht im Zentrum der Geschichte, sondern ermöglicht, dass es ein Zentrum überhaupt geben kann und dieses als symbolisch verdichtete Schnittstelle narrativer Selbstreferenz (Barthes, 1977; Eco, 1979) existiert.
+
+> Ohne Kommunikation keine Systeme – und ohne Kommunikationsfigur kein narrativ anschlussfähiges Zentrum.
+
+In diesem Sinne übersteigt die Figur der Kommunikationsfigur das klassische Heldenmodell (Campbell, 2008) in ihrer strukturellen Reichweite. Sie ist nicht Ausdruck individueller Entwicklung, sondern Bedingung der Selbstbeschreibung eines symbolisch verfassten Systems. Als funktionale Leerstelle (Barthes, 1977, S. 142) wirkt sie wie ein Resonanzraum für kollektive Projektionen, mythische Rahmungen und diskursive Strukturen, vergleichbar einer „Beobachtungsfigur zweiter Ordnung“, die nicht handelt, sondern Handlungen kommunizierbar macht (Luhmann, 1997, S. 106 ff.).
 
 ## 2 Theoretischer Rahmen: Figuren, Kommunikation, Systeme
 
@@ -131,9 +141,125 @@ Die Grundlage für dieses Verständnis bildet die Theorie der [Elementarkommunik
 
 Damit verschiebt sich der Fokus der Analyse: Nicht mehr Handlung oder Entwicklung einer Figur stehen im Zentrum, sondern deren systemische Funktion. Nicht mehr Identifikation, sondern Beobachtbarkeit. Nicht mehr Heldenmut, sondern strukturelle Ermöglichung.
 
+Diese Verschiebung markiert einen Perspektivwechsel von einer psychologisierenden Erzählanalyse hin zu einer systemtheoretischen Figurenanalyse im Sinne narrativer Selbstbeschreibung (vgl. Luhmann, 1997, S. 498 ff.). Figuren wie Harry Potter fungieren in dieser Lesart nicht als Träger individueller Eigenschaften oder innerer Wandlungsprozesse, sondern als **Beobachtungsangebote**, über die ein erzählerisches System sich selbst strukturieren, stabilisieren und weiterentwickeln kann (vgl. Martínez & Scheffel, 2016, S. 94–97). Sie sind **semantische Knotenpunkte**, die Bedeutung nicht erzeugen, sondern zirkulieren lassen – und genau dadurch eine Form von narrativer Systembildung ermöglichen.
+
 # 3. Analytischer Hauptteil: Harry als Kommunikationsfigur
 
 Der folgende Abschnitt entfaltet systematisch die These von Harry Potter als Kommunikationsfigur. Dabei wird untersucht, wie sich seine Rolle nicht als handlungstreibender Held, sondern als strukturelle Ermöglichungsbedingung narrativer Kommunikation verstehen lässt. Ausgangspunkt ist die Beobachtung, dass Harry zu keinem Zeitpunkt echte Entscheidungsfreiheit besitzt und damit keine klassische Heldenstruktur erfüllt. Vielmehr fungiert er als Schnittstelle symbolischer Operationen, als Resonanzfläche systemischer Kräfte und als Projektionsraum anderer Figuren. Diese Analyse gliedert sich in vier zentrale Bereiche: die Dekonstruktion heroischer Strukturen, die systemische Rahmung durch Mutterliebe, die funktionale Zuordnung zentraler Figuren und die Ausweitung auf infrastrukturelle Träger wie Orte und Objekte. Ziel ist es, Harrys Funktion im narrativen System nicht psychologisch, sondern strukturell zu verstehen.
+
+**Chronologische Systemstruktur im Überblick (Gantt-Diagramm)**
+
+Das folgende Gantt-Diagramm visualisiert eine zeitsystematische Parallelisierung zentraler Personenbiografien, narrativer Ereignisse und strukturbildender Meilensteine im Harry-Potter-Universum. Es dient der historischen Kontextualisierung der Analyse und bildet die Grundlage für systemisch-dynamische Interpretationen entlang einer Jahresachse von 1881 bis 2019. Die Darstellung integriert sowohl die innerfiktionale Erzählzeit (z. B. Schuljahre, Kriege, familiäre Entwicklungen) als auch dokumentierte Nachkriegsverläufe (z. B. Epilog, _Cursed Child_) in einer gemeinsamen Zeitstruktur.
+
+Das Diagramm strukturiert das Universum als systemisch-dynamischen Zeitverlauf: Es kombiniert biografische Entwicklungen, erzählerische Schlüsselmomente und fiktionale Strukturtexte in einer gemeinsamen Darstellung. Dadurch werden Wechselwirkungen zwischen Figuren, sozialen Systemen und narrativen Ereignissen sichtbar und können funktional analysiert werden.
+
+```mermaid
+gantt
+    title Chronologische Systemstruktur
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y
+
+    section Historische Figuren
+    Albus Dumbledore            :dumbledore, 1881-08-01, 115y
+    Gellert Grindelwald         :grindelwald, 1883-01-01, 60y
+    Horace Slughorn             :slughorn, 1920-01-01, 78y
+    Tom Riddle / Voldemort      :voldemort, 1926-12-31, 71y
+    Rubeus Hagrid               :hagrid, 1928-12-06, 70y
+    Minerva McGonagall          :mcgonagall, 1935-10-04, 63y
+
+    section Orden des Phönix / Marauders
+    Sirius Black                :sirius, 1959-11-03, 21y
+    Remus Lupin                 :lupin, 1960-03-10, 21y
+    Peter Pettigrew             :pettigrew, 1960-01-01, 21y
+    Severus Snape               :snape, 1960-01-09, 38y
+    Lily & James Potter         :potters, 1960-01-30, 21y
+
+    section Weasley-Familie
+    Arthur Weasley              :arthur, 1950-02-06, 48y
+    Molly Weasley               :molly, 1950-10-30, 48y
+    Bill Weasley                :bill, 1970-11-29, 21y
+    Charlie Weasley             :charlie, 1972-12-12, 21y
+    Percy Weasley               :percy, 1976-08-22, 18y
+    Fred & George Weasley       :twins, 1978-04-01, 20y
+    Ron Weasley                 :ron, 1980-03-01, 18y
+    Ginny Weasley               :ginny, 1981-08-11, 17y
+
+    section Harrys Jahrgang & Umfeld
+    Harry Potter                :harry, 1980-07-31, 18y
+    Hermione Granger            :hermione, 1979-09-19, 18y
+    Neville Longbottom          :neville, 1980-07-30, 18y
+    Draco Malfoy                :draco, 1980-06-05, 18y
+    Luna Lovegood               :luna, 1981-02-13, 17y
+    Cho Chang                   :cho, 1979-02-01, 18y
+    Cedric Diggory              :cedric, 1977-09-01, 19y
+    Nymphadora Tonks            :tonks, 1973-01-01, 25y
+
+    section Todesser
+    Lucius Malfoy               :lucius, 1954-01-01, 44y
+    Bellatrix Lestrange         :bellatrix, 1951-11-17, 47y
+    Dolores Umbridge            :umbridge, 1965-08-26, 33y
+    Barty Crouch Jr.            :crouchjr, 1962-01-01, 36y
+
+    section Historische Ereignisse
+    Erster Zaubererkrieg        :war1, 1970-01-01, 11y
+    Voldemorts 1. Fall          :fall1, 1981-10-31, 1d
+    Zweiter Zaubererkrieg       :war2, 1995-01-01, 3y
+    Schlacht von Hogwarts       :hogwarts, 1998-05-02, 1d
+	Harry als Auror im Ministerium      :aurorharry, 1998-09-01, 5y
+	Ron bei den Weasley-Zauberwaren     :ronshop, 1998-09-01, 5y
+	Hermione im Ministerium             :hermione, 1998-09-01, 5y
+	Geburt James Sirius Potter          :jspotter, 2004-01-01, 1d
+	Geburt Albus Severus Potter         :aspotter, 2006-01-01, 1d
+	Geburt Lily Luna Potter             :llpotter, 2007-01-01, 1d
+	Einschulung Albus Severus           :albusstart, 2017-09-01, 1d
+	Cursed Child – Zeitreiseereignisse  :cursed, 2019-01-01, 1y
+
+    section Erzählzeit
+    Band 1: Stein der Weisen            :book1, 1991-09-01, 1y
+    Band 2: Kammer des Schreckens       :book2, 1992-09-01, 1y
+    Band 3: Gefangener von Askaban      :book3, 1993-09-01, 1y
+    Band 4: Feuerkelch                  :book4, 1994-09-01, 1y
+    Band 5: Orden des Phönix            :book5, 1995-09-01, 1y
+    Band 6: Halbblutprinz               :book6, 1996-09-01, 1y
+    Band 7: Heiligtümer des Todes       :book7, 1997-09-01, 1y
+    The Cursed Child                :cursedchild, 2019-01-01, 1y
+	Beedle der Barde zirkuliert    :beedle, 1997-12-01, 1y
+	Phantastische Tierwesen (Newt Scamander aktiv) :newt, 1926-01-01, 20y
+
+	section Meilensteine (narrativ-funktional)
+	Geburt Harry Potter                         :harryborn, 1980-07-31, 1d
+	Tod der Potters / Voldemorts Fall          :fall1, 1981-10-31, 1d
+	Einschulung in Hogwarts                    :hogwartsstart, 1991-09-01, 1d
+	Sieg über Basilisken (Kammer)              :basilisk, 1993-06-01, 1d
+	Rückkehr Voldemorts (Friedhof)             :voldemortback, 1995-06-24, 1d
+	Gründung Dumbledores Armee                 :dumbledoresarmy, 1995-09-01, 1d
+	Tod von Dumbledore                         :dumbledoredeath, 1996-06-30, 1d
+	Schlacht von Hogwarts                      :endbattle, 1998-05-02, 1d
+	Albus Severus beginnt in Hogwarts          :epilog, 2017-09-01, 1d
+
+```
+_Abbildung 2: Chronologische Systemstruktur im Überblick (eig. Darstellung)_
+
+_Tabelle 1: Legende zum Gantt-Diagramm „Harry-Potter-Zeitstruktur“_
+
+|**Sektion**|**Inhalt**|**Bedeutung**|
+|---|---|---|
+|**Historische Figuren**|Frühere Generationen (1880–1945), z. B. Dumbledore, Grindelwald|_Hintergrundsysteme, Präkonfliktstruktur_|
+|**Orden des Phönix / Marauders**|Akteure des ersten Krieges, Elterngeneration Harrys|_Brückenfiguren, Konfliktträger zwischen den Kriegen_|
+|**Weasley-Familie**|Familiäre Konstellationen über mehrere Jahrgänge|_Soziales Referenzsystem, Allianzstruktur_|
+|**Harrys Jahrgang & Umfeld**|Schulzeitbegleiter, Mitstreiter:innen, Gegenspieler:innen|_Zentrale Bezugseinheiten der Erzählung_|
+|**Todesser**|Hauptantagonisten um Voldemort|_Systembedrohung, destruktive Ordnung_|
+|**Historische Ereignisse**|Politische und gesellschaftliche Umbrüche, Übergänge, Reorganisationen|_Systemphasen, Strukturbrüche_|
+|**Erzählzeit**|Zeitliche Verortung der Hauptwerke inkl. Erweiterungen|_Fiktionale Rahmung der Handlungen_|
+|**Meilensteine (narrativ-funktional)**|Punktuelle Schlüsselereignisse mit systemischer Relevanz|_Kipppunkte, Identitätsumbrüche, Übergänge_|
+Ein Meilenstein in Tabelle 1 ist ein punktuell verortbares, narrativ entscheidendes Ereignis, das mindestens eine der folgenden Funktionen erfüllt:
+
+- **Transformation von Beziehungen** (z. B. Tod Dumbledores)
+- **Systemeintritt oder -austritt** (z. B. Einschulung in Hogwarts, Epilog)
+- **Eskalation oder Deeskalation** (z. B. Rückkehr Voldemorts)
+- **Wendepunkt im Erzählrahmen** (z. B. Basiliskenkampf)
+
+Das Gantt-Diagramm in Abbildung 2 bietet damit eine chronologische Übersicht über zentrale Personenbiografien, narrative Ereignisse und relevante Zeitmarken im Harry-Potter-Universum. Es verdeutlicht die zeitlichen Zusammenhänge und parallelen Entwicklungen der Charaktere sowie der konflikthaften Handlungsverläufe. Die Zeitachse reicht von 1881 (Geburt Albus Dumbledores) bis 2019 (Zeitreiseereignisse in _The Cursed Child_) und setzt die Lebensdaten der Figuren, historisch-fiktionale Ereignisse sowie schulzeitbezogene und postnarrative Entwicklungen in systemische Beziehung. Diese Struktur bildet die Grundlage für eine funktionale Analyse von Kommunikationsfiguren und deren Rollen im narrativen Gesamtgefüge.
 
 ## 3.1 Keine Entscheidungsfreiheit – keine Autonomie – keine Heldenstruktur
 
@@ -283,15 +409,18 @@ Im nun folgenden Schlussteil verdichtet sich diese Bewegung zu einer letzten epi
 
 Der Schluss geht diesen Fragen in vier Abschnitten nach: Zunächst wird Harrys Rolle als strukturelles Zentrum noch einmal pointiert (5.1), dann die affektive Folge des Erkenntnisprozesses reflektiert (5.2). Es folgt ein Ausblick auf die Übertragbarkeit des Konzepts (5.3), bevor im letzten Teil (5.4) noch einmal der epistemische Status des Entzauberungsvorgangs selbst betrachtet wird – als notwendige, wenn auch schmerzliche Konsequenz theoretischer Radikalität.
 
-## 5.1 Harry als strukturelles Zentrum, nicht als Handlungsträger
+Die Analyse mündet in einer zentralen Schlussfolgerung: Harry Potter ist nicht als handelndes Subjekt, sondern als strukturelles Zentrum eines symbolisch operierenden Kommunikationssystems zu begreifen. Seine Funktion liegt nicht in der Initiierung von Handlung, sondern in der Ermöglichung ihrer Koordination. Er ist kein Akteur im emphatischen Sinn, sondern ein semantischer Knotenpunkt, an dem disparate Stränge von Bedeutung, Loyalität, Gewalt und Hoffnung zirkulieren und rekombiniert werden.
 
-Die Analyse mündet in einer zentralen Schlussfolgerung: Harry Potter ist nicht als handelndes Subjekt zu verstehen, sondern als strukturelles Zentrum eines symbolisch operierenden Kommunikationssystems. Seine Funktion besteht nicht in der Initiierung von Handlung, sondern in der Ermöglichung ihrer Koordination. Er ist weniger Akteur als Knotenpunkt – eine Position, an der disparate Stränge von Bedeutung, Loyalität, Gewalt, Erinnerung und Hoffnung zusammengeführt, gegeneinander gespiegelt und zirkulierend weitergegeben werden.
+  
 
-Im Unterschied zur klassischen Heldenfigur (vgl. Campbell, 2008), die durch innere Entwicklung, Entscheidung und Transformation gekennzeichnet ist, verbleibt Harry in einer strukturell fixierten Rolle. Seine Entwicklung ist nicht psychologisch motiviert, sondern systemisch bedingt. Seine Entscheidungen sind keine Manifestationen von Freiheit, sondern Resultate situativer Einbettungen, symbolischer Codierungen und überindividueller Dynamiken. Damit wird Harry nicht zum Treiber der Geschichte, sondern zu ihrem Träger im strukturalen Sinn.
+Im Gegensatz zur klassischen Heldenfigur (vgl. Campbell, 2008), die durch innere Entwicklung und Transformation definiert ist, verbleibt Harry in einer strukturell fixierten Rolle. Seine Entscheidungen erscheinen nicht als Ausdruck individueller Autonomie, sondern als Effekte systemischer Einbettung, symbolischer Codierung und narrativer Notwendigkeit.
 
-Diese Lesart verweist auf einen fundamentalen Perspektivwechsel in der literaturtheoretischen Betrachtung: Figuren müssen nicht notwendigerweise intentionale Subjekte sein, um für ein narratives System zentral zu sein. Sie können – wie im Fall Harry Potters – als Leerstellen fungieren, durch die Kommunikation überhaupt erst zirkuliert, stabilisiert und transformiert werden kann. In dieser Funktion ist Harry weniger ein Charakter im klassischen Sinne als ein strukturelles Medium: sichtbar, projektionsfähig, aber selbst nicht handlungsursächlich.
+  
 
-In dieser Finalisierung verdichtet sich die im gesamten Text entwickelte These: Harry Potter ist keine Figur der Tat, sondern der Struktur – ein Zentrum ohne Zentrum, das durch seine kommunikative Ermöglichungsfunktion den narrativen Kosmos überhaupt erst zusammenhält.
+Diese Perspektive markiert einen grundlegenden Wechsel im Figurenverständnis: Nicht psychologische Tiefe, sondern kommunikative Funktion konstituiert Bedeutung. Figuren wie Harry fungieren nicht als intentionale Subjekte, sondern als projektionsfähige Leerstellen, durch die narrative Systeme sich selbst beschreiben, stabilisieren und transformieren (vgl. Luhmann, 1997; Martínez & Scheffel, 2016).
+
+
+Harry Potter ist in diesem Sinn nicht Figur der Tat, sondern Medium der Struktur – ein Zentrum ohne Handlungsmacht, das gerade durch seine Beobachtbarkeit zur Bedingung narrativer Emergenz wird.
 
 ## 5.2 Der Preis des Verstehens: Verlust der Magie, Gewinn an Struktur
 
@@ -311,16 +440,32 @@ Der Ausblick ist daher doppelt: Einerseits lädt er zur Relektüre bekannter fik
 
 # Quelle(n)
 
-	•	Campbell, J. (2008). Der Heros in tausend Gestalten (12. Aufl., übers. von Rainer Hatoum). Insel Verlag.
-	•	Gigerenzer, G. (2013). Risiko: Wie man die richtigen Entscheidungen trifft. Bertelsmann. (Hinweis: Das Original Risk Savvy erschien 2014 auf Englisch, die deutsche Ausgabe ist eine eigenständige Übersetzung mit gleichem Inhalt.)
-	•	Luhmann, N. (1995). Soziale Systeme: Grundriss einer allgemeinen Theorie. Suhrkamp.
-	•	Luhmann, N. (1997). Die Gesellschaft der Gesellschaft. Suhrkamp.
-	•	Rimmon-Kenan, S. (2002). Narrative Fiction: Contemporary Poetics (2. Aufl., engl. Originalausgabe). Routledge.
+- Luhmann, N. (1997). _Die Gesellschaft der Gesellschaft_. Frankfurt am Main: Suhrkamp.
+    
+- Martínez, M., & Scheffel, M. (2016). _Einführung in die Erzähltheorie_ (10. Aufl.). München: C.H. Beck.
+Barthes, R. (1977). _Image – Music – Text_ (S. Heath, Trans.). Fontana Press.
+Campbell, J. (2008). _The Hero with a Thousand Faces_ (3rd ed.). New World Library.
+    
+Eco, U. (1979). _Lector in fabula: Die Mitarbeit der Interpretation in erzählenden Texten_. Wilhelm Fink.
+    
+Luhmann, N. (1984). _Soziale Systeme: Grundriß einer allgemeinen Theorie_. Suhrkamp.
+    
+Luhmann, N. (1995). _Die Kunst der Gesellschaft_. Suhrkamp.
+    
+Luhmann, N. (1997). _Die Gesellschaft der Gesellschaft_ (Vol. 1–2). Suhrkamp.
+Barthes (1977)
+Campbell, J. (2008). Der Heros in tausend Gestalten (12. Aufl., übers. von Rainer Hatoum). Insel Verlag.
+Gigerenzer, G. (2013). Risiko: Wie man die richtigen Entscheidungen trifft. Bertelsmann. (Hinweis: Das Original Risk Savvy erschien 2014 auf Englisch, die deutsche Ausgabe ist eine eigenständige Übersetzung mit gleichem Inhalt.)
+Luhmann, N. (1995). Soziale Systeme: Grundriss einer allgemeinen Theorie. Suhrkamp.
+Luhmann, N. (1997). Die Gesellschaft der Gesellschaft. Suhrkamp.
+Rimmon-Kenan, S. (2002). Narrative Fiction: Contemporary Poetics (2. Aufl., engl. Originalausgabe). Routledge.
 (Hinweis: Eine autorisierte deutsche Übersetzung liegt nicht vor; das Werk wird üblicherweise im englischen Original zitiert.)
-	•	Rowling, J. K. (1998). Harry Potter und der Stein der Weisen (übers. von Klaus Fritz). Carlsen.
-	•	Rowling, J. K. (2005). Harry Potter und der Halbblutprinz (übers. von Klaus Fritz). Carlsen.
-	•	Rowling, J. K. (2007). Harry Potter und die Heiligtümer des Todes (übers. von Klaus Fritz). Carlsen.
+Rowling, J. K. (1998). Harry Potter und der Stein der Weisen (übers. von Klaus Fritz). Carlsen.
+Rowling, J. K. (2005). Harry Potter und der Halbblutprinz (übers. von Klaus Fritz). Carlsen.
+Rowling, J. K. (2007). Harry Potter und die Heiligtümer des Todes (übers. von Klaus Fritz). Carlsen.
+Rowling - alle Bände!
 
 ---
 
 #Literatur/HarryPotter #Epistemologie/Entzauberung #Figurentheorie/Kommunikationsfigur #Systemtheorie #Literaturwissenschaft/Literaturanalyse #Erkenntnistheorie
+
