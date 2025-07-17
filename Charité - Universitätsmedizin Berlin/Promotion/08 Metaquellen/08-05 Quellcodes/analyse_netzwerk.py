@@ -625,7 +625,7 @@ def visualize_time_series(bib_database):
         layout["title"] = {"font": {"size": 16}}
         layout["autosize"] = True
         fig.update_layout(**layout)
-        fig.update_traces(line=plot_styles['linie_secondaryLine'])
+        fig.update_traces(line=plot_styles['linie_primaryLine'])
         fig.show(config={"responsive": True})
         export_figure(fig, "visualize_time_series", export_fig_visualize_time_series, bib_filename)
     else:
