@@ -3,9 +3,8 @@ author: Jochen Hanisch
 title: Systemtheoretischer Professionalisierungsansatz
 project: 
 created: 2024-12-05
-updated: 2024-12-27
+updated: 2025-07-21
 publish: true
-GPT: true
 publishd: 2024-12-27
 tags:
   - Professionalisierung
@@ -14,10 +13,10 @@ tags:
   - Entwicklungsdynamik
   - asymmetrisch
   - Kopplung
-status: published
+GPT: true
 ---
 
-created: 05.12.2024 | updated: 27.12.2024 | [published](https://www.researchgate.net/publication/387527749_Systemtheoretischer_Professionalisierungsansatz): 27.12.2024 | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
+created: 05.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 21.7.2025 | [published](https://zenodo.org/records/16284826): 27.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
 
 **Systemtheoretischer Professionalisierungsansatz**
 # Einleitung
@@ -67,7 +66,7 @@ Die Wirksamkeit professionellen Handelns ergibt sich aus der Fähigkeit, durch E
 
 ## 1.2 Schematische Darstellung
 
-Das Systemtheoretische Professionalisierungsmodell beschreibt die systemischen Wechselwirkungen von Professionen durch System-Umwelt-Unterscheidungen, Elementaroperationen und asymmetrisch-strukturelle Kopplung. Im Zentrum steht die [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]], die aus Differenzierung und Entscheidungsgrundlagen hervorgeht. Sie beeinflusst Systeme durch Rückkopplung, Anpassung und Einflussnahme.
+Das Systemtheoretische Professionalisierungsmodell beschreibt die systemischen Wechselwirkungen von Professionen durch System-Umwelt-Unterscheidungen, Elementaroperationen und asymmetrisch-strukturelle Kopplung. Im Zentrum steht die [[Wirkung]], die aus Differenzierung und Entscheidungsgrundlagen hervorgeht. Sie beeinflusst Systeme durch Rückkopplung, Anpassung und Einflussnahme.
 
 ```mermaid
 flowchart TD
@@ -145,7 +144,7 @@ Der hier entwickelte systemtheoretische Professionalisierungsansatz integriert d
    Professionen zeichnen sich durch ihre Fähigkeit aus, komplexe Umweltanforderungen wahrzunehmen, zu beschreiben und zu interpretieren. Diese Differenzierungsfähigkeit ist die Grundlage für handlungsrelevante Entscheidungen und die Legitimation professioneller Eingriffe.
 
 2. Wirkung
-   Professionen erzeugen weitreichende und ambivalente Wirkungen, die sowohl in ihrer zeitlichen Dimension (kurz- und langfristige Konsequenzen) als auch in ihrer Intensität (positiv oder negativ) herausstechen. Diese [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] macht die gesellschaftliche Relevanz von Professionen deutlich und geht der Verantwortung voraus, die sie übernehmen müssen.
+   Professionen erzeugen weitreichende und ambivalente Wirkungen, die sowohl in ihrer zeitlichen Dimension (kurz- und langfristige Konsequenzen) als auch in ihrer Intensität (positiv oder negativ) herausstechen. Diese [[Wirkung]] macht die gesellschaftliche Relevanz von Professionen deutlich und geht der Verantwortung voraus, die sie übernehmen müssen.
 
 3. Entwicklungsdynamik
    Professionen entwickeln sich kontinuierlich durch das Zusammenspiel der Trias aus Feedback, Reflexion und Reentry. Diese Mechanismen ermöglichen die aktive Transformation von Systemen und die Anpassung an neue gesellschaftliche Anforderungen.
@@ -283,7 +282,7 @@ Diese Kopplung ist zudem nicht statisch, sondern dynamisch und unterliegt einer 
 
 In der systemtheoretischen Analyse wird deutlich, dass die asymmetrisch-strukturelle Kopplung nicht als statische Hierarchie zu begreifen ist, sondern als dynamische Beziehung, die durch komplexe Wechselwirkungen zwischen Profession und Umwelt geprägt ist. Sie bildet den Ausgangspunkt für die besondere gesellschaftliche Rolle von Professionen und erklärt, warum sie in zentralen gesellschaftlichen Funktionsbereichen eine herausgehobene Stellung einnehmen. Gleichzeitig zeigt sich in dieser Kopplung die Notwendigkeit professioneller Selbstregulierung und ethischer Reflexion, um den mit der Asymmetrie verbundenen Herausforderungen gerecht zu werden.
 
-##### Excurs: Mehrfache asymmetrisch-strukturelle Kopplungen
+##### Exkurs: Mehrfache asymmetrisch-strukturelle Kopplungen
 
 Mehrfache asymmetrisch-strukturelle Kopplungen stellen eine zentrale Herausforderung für professionelle Handlungsfelder dar, da sie das Potenzial haben, die Autonomie und Entscheidungsfähigkeit einer Profession erheblich einzuschränken. In der Praxis führt dies häufig dazu, dass die drei anderen Kennzeichen – System-Umwelt-Unterscheidung, Wirkung und Entwicklungsdynamik – nicht mehr in vollem Umfang wirksam werden können.  
 
@@ -436,38 +435,47 @@ Die Operationalisierung ist flexibel und lässt sich auf unterschiedliche Berufs
 - **Iterativer Prozess:** Die Operationalisierung ist kein einmaliger Vorgang, sondern sollte regelmäßig wiederholt werden, um die fortschreitende Professionalisierung zu reflektieren und weiterzuentwickeln.  
 
 Die folgende Darstellung zeigt die konkrete Operationalisierung der vier Hauptkennzeichen im Detail.
+
 ### 3.2.1 Operationalisierung der System-Umwelt-Unterscheidung  
 
 Die System-Umwelt-Unterscheidung ist das Fundament professionellen Handelns und bildet die zentrale Trennlinie zwischen den internen Prozessen eines professionellen Systems und den äußeren Einflüssen der Umwelt. Um diese Unterscheidung in der Praxis zu operationalisieren, müssen  Kriterien vorliegen, anhand derer sich erkennen lässt, ob eine Profession fähig ist, ihre Umwelt differenziert zu erfassen und sich von dieser abzugrenzen.  
 
 Zur Operationalisierung der System-Umwelt-Unterscheidung werden vier grundlegende Merkmale identifiziert. Jedes Merkmal wird durch spezifische Indikatoren konkretisiert, die als **Ja/Nein-Fragen** formuliert sind. Nur wenn alle Indikatoren eines Merkmals positiv beantwortet werden, gilt das Merkmal als erfüllt.  
 
-**Merkmal 1:  Trennung von internen und externen Prozessen**  
+**Merkmal 1:  Trennung von internen und externen Prozessen**
+
 Die Fähigkeit eines professionellen Systems, sich von seiner Umwelt abzugrenzen, zeigt sich in der n Trennung interner Entscheidungsprozesse von äußeren Einflüssen.  
+
 - **Indikatoren:**  
   1. Sind die Entscheidungswege formal festgelegt und von externen Einflüssen unabhängig?  
   2. Existieren interne Kontrollmechanismen zur Sicherstellung der Unabhängigkeit der Entscheidungsprozesse?  
   3. Wird die Trennung von internen und externen Faktoren regelmäßig überprüft?  
   4. Gibt es dokumentierte Leitlinien, die diese Trennung explizit festhalten?  
 
-**Merkmal 2: Eigenständige Deutungs- und Bewertungslogik**  
+**Merkmal 2: Eigenständige Deutungs- und Bewertungslogik**
+
 Professionelle Systeme konstruieren ihre Umwelt aktiv und interpretieren externe Informationen durch die Linse ihrer eigenen Funktionslogik.  
+
 - **Indikatoren:**  
   1. Werden externe Informationen systematisch auf ihre Relevanz für interne Prozesse geprüft?  
   2. Verfügt das System über eigene Kriterien zur Bewertung von Umweltveränderungen?  
   3. Ist eine interne Methodik zur Interpretation externer Daten vorhanden?  
   4. Gibt es regelmäßig Schulungen oder Reflexionsprozesse zur Weiterentwicklung der Deutungslogik?  
 
-**Merkmal 3: Stabilität der Unterscheidung**  
-Die Fähigkeit zur Unterscheidung von System und Umwelt muss langfristig stabil sein, um die Autonomie der Profession zu gewährleisten.  
+**Merkmal 3: Stabilität der Unterscheidung**
+
+Die Fähigkeit zur Unterscheidung von System und Umwelt muss langfristig stabil sein, um die Autonomie der Profession zu gewährleisten.
+
 - **Indikatoren:**  
   1. Wird die System-Umwelt-Unterscheidung auch unter Druck oder Krisen beibehalten?  
   2. Sind Rückmeldungen der Umwelt in einem geregelten Verfahren in die internen Prozesse integriert?  
   3. Wird Stabilität durch kontinuierliche interne Evaluation gesichert?  
   4. Gibt es institutionalisierte Reflexionsmechanismen zur Sicherstellung der Unterscheidungsfähigkeit?  
 
-**Merkmal 4: Transparenz und Kommunizierbarkeit der Unterscheidung**  
-Die System-Umwelt-Unterscheidung muss für interne und externe Akteure nachvollziehbar und vermittelbar sein.  
+**Merkmal 4: Transparenz und Kommunizierbarkeit der Unterscheidung**
+
+Die System-Umwelt-Unterscheidung muss für interne und externe Akteure nachvollziehbar und vermittelbar sein.
+
 - **Indikatoren:**  
   1. Wird die Unterscheidung zwischen internen und externen Prozessen in Dokumentationen  beschrieben?  
   2. Können die internen Akteure die Unterscheidung  kommunizieren?  
@@ -482,32 +490,40 @@ Die Wirkung professionellen Handelns ist eines der zentralen Unterscheidungsmerk
 
 Um die Wirkung einer Profession zu operationalisieren, werden vier zentrale Merkmale definiert, die die Reichweite, Intensität und Verantwortung des professionellen Handelns beschreiben. Jedes dieser Merkmale wird durch spezifische Indikatoren konkretisiert, die als **Ja/Nein-Fragen** formuliert sind. Nur wenn alle Indikatoren eines Merkmals erfüllt sind, gilt die Wirkung als ausreichend ausgeprägt, um eine professionelle Tätigkeit von nicht-professionellen Tätigkeiten abzugrenzen.  
 
-**Merkmal 1: Reichweite der Wirkung**  
-Professionelle Entscheidungen haben Auswirkungen, die über den unmittelbaren Kontext hinausgehen und sich auf verschiedene gesellschaftliche Systeme erstrecken.  
+**Merkmal 1: Reichweite der Wirkung**
+
+Professionelle Entscheidungen haben Auswirkungen, die über den unmittelbaren Kontext hinausgehen und sich auf verschiedene gesellschaftliche Systeme erstrecken.
+
 - **Indikatoren:**  
   1. Hat die Handlung Auswirkungen auf Personen oder Systeme außerhalb des direkten Einflussbereichs?  
   2. Entfalten die getroffenen Entscheidungen mittel- oder langfristige Effekte?  
   3. Kann die Wirkung der Entscheidung in angrenzende Funktionssysteme (z. B. Recht, Gesundheit, Bildung) übertragen werden?  
   4. Werden externe Systeme in Entscheidungsprozesse einbezogen oder durch diese beeinflusst?  
 
-**Merkmal 2: Intensität der Wirkung**  
-Die Intensität beschreibt die Tiefe und Tragweite professioneller Entscheidungen, die potenziell weitreichende Konsequenzen für Einzelne oder Gruppen nach sich ziehen können.  
+**Merkmal 2: Intensität der Wirkung**
+
+Die Intensität beschreibt die Tiefe und Tragweite professioneller Entscheidungen, die potenziell weitreichende Konsequenzen für Einzelne oder Gruppen nach sich ziehen können.
+
 - **Indikatoren:**  
   1. Hat die Handlung das Potenzial, den Status oder die Lebensqualität der betroffenen Personen erheblich zu verändern?  
   2. Sind irreversible oder schwer umkehrbare Folgen zu erwarten?  
   3. Erfordert die Entscheidung eine detaillierte Abwägung der Risiken und Chancen?  
   4. Wird die Wirkung der Handlung regelmäßig überprüft und bewertet?  
 
-**Merkmal 3: Ambivalenz der Wirkung**  
-Professionelles Handeln ist oft ambivalent und kann sowohl positive als auch negative Konsequenzen nach sich ziehen. Die Fähigkeit, diese Ambivalenz zu erkennen und zu steuern, ist essenziell für die Professionalität.  
+**Merkmal 3: Ambivalenz der Wirkung**
+
+Professionelles Handeln ist oft ambivalent und kann sowohl positive als auch negative Konsequenzen nach sich ziehen. Die Fähigkeit, diese Ambivalenz zu erkennen und zu steuern, ist essenziell für die Professionalität.
+
 - **Indikatoren:**  
   1. Werden mögliche positive und negative Konsequenzen der Handlung systematisch abgewogen?  
   2. Ist die Reflexion über ambivalente Handlungsfolgen Teil des Entscheidungsprozesses?  
   3. Gibt es etablierte Verfahren zur Minimierung von negativen Wirkungen?  
   4. Werden negative Wirkungen dokumentiert und für zukünftige Entscheidungsprozesse berücksichtigt?  
 
-**Merkmal 4: Verantwortung für die Wirkung**  
-Professionen übernehmen Verantwortung für die kurz- und langfristigen Auswirkungen ihrer Entscheidungen und reflektieren die damit verbundenen ethischen Dimensionen.  
+**Merkmal 4: Verantwortung für die Wirkung**
+
+Professionen übernehmen Verantwortung für die kurz- und langfristigen Auswirkungen ihrer Entscheidungen und reflektieren die damit verbundenen ethischen Dimensionen.
+
 - **Indikatoren:**  
   1. Ist die Übernahme der Verantwortung für die Folgen professioneller Handlungen formal festgelegt?  
   2. Werden Rückmeldungen von Betroffenen in die Entscheidungsprozesse integriert?  
@@ -522,32 +538,40 @@ Die Entwicklungsdynamik beschreibt die Fähigkeit von Professionen, sich kontinu
 
 Um die Entwicklungsdynamik einer Profession zu operationalisieren, werden vier zentrale Merkmale definiert, die die Prozesse von Rückkopplung, Selbstbeobachtung und kontinuierlicher Transformation beschreiben. Jedes Merkmal wird durch Indikatoren konkretisiert, die als **Ja/Nein-Fragen** formuliert sind. Eine Profession erfüllt die Entwicklungsdynamik nur dann vollständig, wenn alle Indikatoren der vier Merkmale positiv beantwortet werden.  
 
-**Merkmal 1: Feedbackprozesse und Rückkopplung**  
-Professionen sind in der Lage, Rückmeldungen aus ihrer Umwelt wahrzunehmen und in ihre internen Entscheidungsprozesse zu integrieren.  
+**Merkmal 1: Feedbackprozesse und Rückkopplung**
+
+Professionen sind in der Lage, Rückmeldungen aus ihrer Umwelt wahrzunehmen und in ihre internen Entscheidungsprozesse zu integrieren.
+
 - **Indikatoren:**  
   1. Werden Rückmeldungen aus der Umwelt systematisch erfasst und analysiert?  
   2. Gibt es etablierte Verfahren zur regelmäßigen Evaluation von Entscheidungen und Handlungen?  
   3. Wird Feedback in strukturelle oder prozessuale Anpassungen überführt?  
   4. Existieren Mechanismen zur Identifikation von Fehlentwicklungen durch externe Rückkopplung?  
 
-**Merkmal 2: Reflexion und Selbstbeobachtung**  
-Professionen verfügen über die Fähigkeit zur Selbstbeobachtung und reflektieren regelmäßig ihre Entscheidungsprozesse und Handlungslogiken.  
+**Merkmal 2: Reflexion und Selbstbeobachtung**
+
+Professionen verfügen über die Fähigkeit zur Selbstbeobachtung und reflektieren regelmäßig ihre Entscheidungsprozesse und Handlungslogiken.
+
 - **Indikatoren:**  
   1. Werden interne Prozesse regelmäßig kritisch hinterfragt und bewertet?  
   2. Gibt es Formate oder Gremien, die Reflexion strukturell verankern (z. B. Fallbesprechungen, Supervisionen)?  
   3. Fließen neue Erkenntnisse aus der Reflexion in die Gestaltung zukünftiger Entscheidungen ein?  
   4. Ist die Bereitschaft zur Selbstkritik und Veränderung im professionellen Selbstverständnis verankert?  
 
-**Merkmal 3: Reentry und Prozessrückführung**  
-Neue Erkenntnisse und reflektierte Erfahrungen werden aktiv in das System rückgeführt und tragen zur Erneuerung professioneller Praxis bei.  
+**Merkmal 3: Reentry und Prozessrückführung**
+
+Neue Erkenntnisse und reflektierte Erfahrungen werden aktiv in das System rückgeführt und tragen zur Erneuerung professioneller Praxis bei.
+
 - **Indikatoren:**  
   1. Werden aus Reflexion und Feedback neue Handlungsleitlinien oder Standards entwickelt?  
   2. Gibt es Verfahren zur Implementierung neuer Entscheidungslogiken in den Arbeitsalltag?  
   3. Werden Best-Practice-Ansätze regelmäßig angepasst und kommuniziert?  
   4. Bestehen systemische Mechanismen, die sicherstellen, dass vergangene Fehler zur Weiterentwicklung des Systems führen?  
 
-**Merkmal 4: Innovations- und Anpassungsfähigkeit**  
-Professionen zeigen die Fähigkeit, innovative Ansätze zu entwickeln und sich flexibel an neue gesellschaftliche, technologische oder rechtliche Rahmenbedingungen anzupassen.  
+**Merkmal 4: Innovations- und Anpassungsfähigkeit**
+
+Professionen zeigen die Fähigkeit, innovative Ansätze zu entwickeln und sich flexibel an neue gesellschaftliche, technologische oder rechtliche Rahmenbedingungen anzupassen.
+
 - **Indikatoren:**  
   1. Werden regelmäßig neue Entwicklungen und Trends analysiert und bewertet?  
   2. Besteht eine Offenheit gegenüber interdisziplinären Einflüssen und neuen Erkenntnissen?  
@@ -564,32 +588,40 @@ Besonders in hochkomplexen und verantwortungsvollen Kontexten zeigt sich, dass P
 
 Um die asymmetrisch-strukturelle Kopplung zu operationalisieren, werden vier Merkmale definiert, die diese besondere Beziehungsstruktur abbilden. Jedes Merkmal wird durch konkrete Indikatoren beschrieben, die die asymmetrische Einwirkung und die begrenzte Rückwirkung messen.  
 
-**Merkmal 1: Entscheidungsmacht und Einfluss**  
-Professionen besitzen die Fähigkeit, weitreichende Entscheidungen zu treffen, die andere Systeme direkt betreffen, ohne dass diese Systeme die Entscheidungen maßgeblich beeinflussen können.  
+**Merkmal 1: Entscheidungsmacht und Einfluss**
+
+Professionen besitzen die Fähigkeit, weitreichende Entscheidungen zu treffen, die andere Systeme direkt betreffen, ohne dass diese Systeme die Entscheidungen maßgeblich beeinflussen können.
+
 - **Indikatoren:**  
   1. Werden Entscheidungen getroffen, die unmittelbare Auswirkungen auf andere Systeme oder Individuen haben?  
   2. Besteht in der Entscheidungsfindung eine geringe oder keine Einflussmöglichkeit der betroffenen Systeme?  
   3. Sind die durch die Profession getroffenen Entscheidungen in ihrem Kern unumkehrbar oder nur schwer revidierbar?  
   4. Tragen die Entscheidungen langfristige Konsequenzen für das betroffene System oder die betroffenen Individuen?  
 
-**Merkmal 2: Abhängigkeit und Unumkehrbarkeit**  
-Die betroffenen Systeme oder Individuen sind in hohem Maße von den Handlungen der Profession abhängig, während die Profession selbst kaum auf Rückmeldungen angewiesen ist.  
+**Merkmal 2: Abhängigkeit und Unumkehrbarkeit**
+
+Die betroffenen Systeme oder Individuen sind in hohem Maße von den Handlungen der Profession abhängig, während die Profession selbst kaum auf Rückmeldungen angewiesen ist.
+
 - **Indikatoren:**  
   1. Sind die betroffenen Systeme in kritischen Situationen auf die Entscheidungen der Profession angewiesen?  
   2. Besteht ein Informations- oder Kompetenzgefälle zwischen der Profession und dem betroffenen System?  
   3. Ergeben sich irreversible Folgen für das betroffene System, wenn die Profession nicht handelt?  
   4. Ist das betroffene System nicht in der Lage, eigenständig eine Lösung herbeizuführen, ohne die Profession zu involvieren?  
 
-**Merkmal 3: Mehrfach- und Doppelkoppelung**  
-Professionen agieren häufig nicht nur in einer, sondern in mehreren asymmetrischen Kopplungen gleichzeitig.  
+**Merkmal 3: Mehrfach- und Doppelkoppelung**
+
+Professionen agieren häufig nicht nur in einer, sondern in mehreren asymmetrischen Kopplungen gleichzeitig.
+
 - **Indikatoren:**  
   1. Bestehen Kopplungen zu mehreren Systemen oder Akteuren, die zeitgleich beeinflusst werden?  
   2. Üben die Kopplungen unterschiedliche Arten von Einfluss aus (z. B. beratend und entscheidend)?  
   3. Sind die betroffenen Systeme oder Akteure in unterschiedlichen Rollen (z. B. Patient:in und Ärzt:in) involviert?  
   4. Entstehen Zielkonflikte oder Abstimmungsbedarfe zwischen den kopplungsbeteiligten Systemen?  
 
-**Merkmal 4: Legitimation und Verantwortung**  
-Die asymmetrische Einwirkung von Professionen erfordert eine besondere Form der Legitimation und ethischen Reflexion. 
+**Merkmal 4: Legitimation und Verantwortung**
+
+Die asymmetrische Einwirkung von Professionen erfordert eine besondere Form der Legitimation und ethischen Reflexion.
+
 - **Indikatoren:**  
   1. Gibt es  rechtliche oder institutionelle Regelungen zur Ausgestaltung der Entscheidungs- und Handlungsmacht?  
   2. Wird die Machtposition der Profession regelmäßig reflektiert und auf ethische Vertretbarkeit überprüft?  
@@ -750,7 +782,8 @@ Deprofessionalisierung ist kein irreversibler Prozess. Durch gezielte Interventi
 
 # 4 Implikationen
 
-Der systemtheoretische Professionsansatz führt zu mehreren zentralen Implikationen, die sich sowohl auf die theoretische Analyse von Professionen als auch auf deren praktische Anwendung und Weiterentwicklung auswirken. Diese Implikationen ergeben sich direkt aus der Art und Weise, wie der Ansatz Professionen als autopoietische, dynamische Systeme begreift, die sich durch vier Kernmerkmale definieren: die System-Umwelt-Unterscheidung, die Wirkung professionellen Handelns, die Entwicklungsdynamik und die asymmetrisch-strukturelle Kopplung.  
+Der systemtheoretische Professionsansatz führt zu mehreren zentralen Implikationen, die sich sowohl auf die theoretische Analyse von Professionen als auch auf deren praktische Anwendung und Weiterentwicklung auswirken. Diese Implikationen ergeben sich direkt aus der Art und Weise, wie der Ansatz Professionen als autopoietische, dynamische Systeme begreift, die sich durch vier Kernmerkmale definieren: die System-Umwelt-Unterscheidung, die Wirkung professionellen Handelns, die Entwicklungsdynamik und die asymmetrisch-strukturelle Kopplung.
+
 ## 4.1 Grundlegende Implikationen
 
 Eine erste wesentliche Implikation betrifft die Neubewertung des Begriffs der Profession. Der Ansatz weicht deutlich von klassischen Modellen ab, die Professionen anhand festgelegter Kriterien wie akademischer Ausbildung, berufsständischen Organisationen oder gesellschaftlichem Prestige definieren. Stattdessen wird Professionalität im systemtheoretischen Sinne als eine prozessuale Kategorie verstanden, die sich in der Fähigkeit zeigt, komplexe Umweltanforderungen zu identifizieren, zu verarbeiten und in interne Entscheidungslogiken zu überführen (Luhmann, 1995). Diese Verschiebung hat zur Folge, dass nicht länger die institutionelle Verankerung eines Berufsfeldes oder seine historische Entwicklung im Mittelpunkt steht, sondern die Art und Weise, wie der Beruf mit Unsicherheiten, Ambivalenzen und Kontingenzen umgeht (Schoeneborn et al., 2014).  
@@ -801,7 +834,7 @@ Die Abstraktheit der Begriffe und die damit verbundenen Vermittlungsschwierigkei
 
 Eine weitere Kritik betrifft die Gefahr einer Verwässerung des Begriffs der Profession durch die graduelle Natur der Abgrenzung. Kritiker befürchten, dass nahezu jedes Berufsfeld, das bestimmte professionelle Merkmale aufweist, als Profession klassifiziert werden könnte, was die analytische Schärfe des Begriffs untergräbt. Diese Sorge wird jedoch durch die Fokussierung auf Handlungsfelder entkräftet. Der Ansatz differenziert innerhalb von Berufsfeldern und betrachtet spezifische Tätigkeitsbereiche isoliert. Dadurch wird verhindert, dass ein gesamtes Berufsfeld automatisch als Profession gilt, wenn nur bestimmte Teilbereiche die Kriterien erfüllen. So kann beispielsweise der Bereich der Notfallversorgung innerhalb der Medizin oder der Pflege als hochprofessionell gelten, während andere, weniger kritische Bereiche dieser Berufsfelder nicht alle vier Kennzeichen aufweisen und daher nicht denselben Grad an Professionalität erreichen.  
 
-Zusammenfassend lässt sich feststellen, dass viele der gängigen Kritikpunkte am systemtheoretischen Professionsansatz bei näherer Betrachtung nicht als Schwächen, sondern als Stärken zu bewerten sind. Die Reduktion auf vier strukturelle Merkmale ermöglicht eine analytische heit, die klassischen Modellen oft fehlt. Anstatt auf historische Privilegien oder institutionelle Zugehörigkeit zu setzen, bewertet der Ansatz die tatsächliche Funktionsweise und Wirkung professionellen Handelns. Dies fördert nicht nur die Anerkennung aufstrebender Berufsfelder, sondern trägt auch dazu bei, bestehende Ungleichheiten abzubauen und neue Formen von Professionalität sichtbar zu machen. Die verbleibenden Herausforderungen betreffen weniger den Ansatz selbst als die Frage, wie er vermittelt und operationalisiert werden kann, um seine Anwendung in verschiedenen beruflichen Kontexten zu erleichtern.
+Viele der gängigen Kritikpunkte am systemtheoretischen Professionsansatz sind bei näherer Betrachtung nicht als Schwächen, sondern als Stärken zu bewerten. Die Reduktion auf vier strukturelle Merkmale ermöglicht eine analytische heit, die klassischen Modellen oft fehlt. Anstatt auf historische Privilegien oder institutionelle Zugehörigkeit zu setzen, bewertet der Ansatz die tatsächliche Funktionsweise und Wirkung professionellen Handelns. Dies fördert nicht nur die Anerkennung aufstrebender Berufsfelder, sondern trägt auch dazu bei, bestehende Ungleichheiten abzubauen und neue Formen von Professionalität sichtbar zu machen. Die verbleibenden Herausforderungen betreffen weniger den Ansatz selbst als die Frage, wie er vermittelt und operationalisiert werden kann, um seine Anwendung in verschiedenen beruflichen Kontexten zu erleichtern.
 
 # 6 Zusammenfassung
 
