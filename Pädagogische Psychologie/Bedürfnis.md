@@ -20,11 +20,22 @@ type:
 publish: false
 ---
 
-created: 01.10.2024 | updated: 27.11.2024 | [[Hinweise]]
+created: 01.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 27.11.2024 | [[Hinweise]]
+
 
 # 1 Definition
 
-Ein Bedürfnis ist eine latent wirksame Unterscheidung innerhalb eines lebenden Systems, durch die ein Unterschied zwischen einem aktuellen und einem bevorzugten Zustand erzeugt wird. Diese Unterscheidung wird durch somatische Marker codiert, psychisch repräsentiert und durch sozial anschlussfähige Handlungen bearbeitbar gemacht. Bedürfnisse sind somit operative Knotenpunkte zwischen biologischer Selbstregulation, subjektiver Erfahrung und sozialer Kommunikation.
+Ein Bedürfnis ist eine latent wirksame Unterscheidung innerhalb eines lebenden Systems, durch die ein Unterschied zwischen einem aktuellen und einem präferierten Zustand erzeugt wird. Diese Unterscheidung manifestiert sich somatisch, wird psychisch repräsentiert und kann durch selektive Handlungsausdrücke sozial anschlussfähig interpretiert werden. Bedürfnisse sind somit operative Knotenpunkte zwischen biologischer Selbstregulation, subjektiver Erfahrung und sozialer Kommunikation.
+
+Die einzelnen Elemente dieser Definition lassen sich wie folgt spezifizieren:
+
+  - **Latent wirksame Unterscheidung**: Bedürfnisse sind systeminterne Unterscheidungen zwischen einem gegenwärtigen und einem präferierten Zustand. Diese Differenz ist zunächst latent wirksam, also nicht zwingend bewusst oder sprachlich gefasst, sondern operativ im Sinne einer Orientierungsdifferenz innerhalb biologischer oder psychischer Systeme.
+
+  - **Präferenzzustände und strukturelle Kopplung**: Präferierte Zustände entstehen nicht aus dem System selbst, sondern durch strukturelle Kopplung mit der Umwelt. Bedürfnisse wirken als operative Mechanismen, die dem System erlauben, auf externe Reize selektiv zu reagieren und sich durch diese Umweltkontakte selbst zu stabilisieren.
+
+  - **Somatische Codierung**: Die latente Differenz wird körperlich codiert, etwa durch spezifische neurobiologische Marker wie Oxytocin, Cortisol oder Dopamin. Diese Codierungen sind keine eindeutigen Indikatoren für bestimmte Bedürfnisse, ermöglichen aber eine physiologische Rückbindung subjektiver Regulation an verkörperte Prozesse.
+
+  - **Konzeptionelle Handlungen**: Bedürfnisse erzeugen selektive Ausdruckshandlungen innerhalb psychischer Systeme. Diese werden in sozialen Systemen als Bedeutungseinheiten interpretiert und bilden so die Grundlage für sozial geteilte Konzepte, an denen weitere Kommunikation, Intervention und Handlung anknüpfen kann.
 
 # 2 Herleitung
 
