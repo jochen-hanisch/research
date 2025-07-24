@@ -21,7 +21,7 @@ publishd: 2025-07-24
 project: Pädagogische Psychologie
 ---
 
-created: 01.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 27.11.2024 | [published](https://zenodo.org/records/16413805): 24.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
+created: 01.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 24.7.2025 | [published](https://zenodo.org/records/16413805): 24.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
 
 **Bedürfnis als Differenz: Eine systemisch-schematherapeutische Rekonstruktion**
 
@@ -309,7 +309,7 @@ Im Unterschied zu traditionellen Bedürfnistheorien, betont dieses Modell die Gl
 
 Damit bietet das Modell eine theoretisch fundierte und praktisch anschlussfähige Grundlage für Bedürfnisarbeit in pädagogischen, therapeutischen und sozialwissenschaftlichen Kontexten.
 
-# **Quelle(n)**
+# Quelle(n)
 
 - Deci, E. L., & Ryan, R. M. (1985). _Intrinsic motivation and self-determination in human behavior_. Plenum Press.
 - Damasio, A. R. (1994). _Descartes’ error: Emotion, reason, and the human brain_. Putnam.
