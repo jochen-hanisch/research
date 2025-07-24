@@ -19,7 +19,7 @@ GPT: false
 
 **Studiendesign Untersuchung der Universalität der Grundsymbole**
 
-created: 21.11.2024 | [updated](https://git.jochen-hanisch.de/research/): 17.7.2025 | [publishd](https://zenodo.org/records/15999670): 17.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 21.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 17.7.2025 | [publishd](https://zenodo.org/records/15999670): 17.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 # 1 Forschungsziel
 
@@ -73,7 +73,7 @@ Für jedes der acht Grundsymbole wird eine einheitliche Struktur verwendet:
 
 1. Neutrale Beschreibung des Symbols (ohne Interpretation)
 2. Offene Assoziationsfrage: _„Welche Begriffe oder Bilder kommen Ihnen spontan in den Sinn, wenn Sie dieses Symbol sehen?“_
-3. Konzeptbewertung: Bewertung der Passung vorgegebener Begriffe (z. B. „Regeneration“, „Verbindung“)
+3. Konzeptbewertung: Bewertung der Passung vorgegebener Begriffe (z.B. „Regeneration“, „Verbindung“)
 4. Kulturelle Perspektive: _„Gibt es in Ihrer Kultur spezifische Bedeutungen, die mit diesem Symbol verbunden sind?“_
 ## 4.4 Abschluss
 
@@ -90,7 +90,7 @@ Für jedes der acht Grundsymbole wird eine einheitliche Struktur verwendet:
 ## 5.2 Quantitative Auswertung
 
 - Deskriptive Statistiken (Mittelwerte, Häufigkeiten)
-- Gruppenvergleiche (z. B. ANOVA, Chi-Quadrat) zur Ermittlung signifikanter Unterschiede
+- Gruppenvergleiche (z.B. ANOVA, Chi-Quadrat) zur Ermittlung signifikanter Unterschiede
 
 ## 5.3 Kulturelle Clusteranalyse
 
@@ -156,6 +156,7 @@ gantt
     Ausblick & Planungsphase Folgeprojekt     :2026-12-16, 2026-12-31
 ```
 _Abbildung 1: Zeitlicher Studienablauf (eig. Darstellung)_
+
 # 7 Potenzielle Herausforderungen
 
 ## 7.1 Repräsentativität
