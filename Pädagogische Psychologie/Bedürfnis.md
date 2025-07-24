@@ -1,27 +1,37 @@
 ---
-author: Jochen Hanisch
-title: Bedürfnisse
-created: 2024-10-01
-updated: 2024-11-27
+author: Jochen Hanisch-Johannsen
+title: "Bedürfnis als Differenz: Eine systemisch-schematherapeutische Rekonstruktion"
 tags:
-  - Begriff
-  - Definition
-  - Research
-  - "#Bedürfnisse"
-  - "#Psychologie"
-  - "#Schematherapie"
-  - "#Persönlichkeitsentwicklung"
-  - "#Maslow"
-  - "#Verhaltensmuster"
-  - Task
-project: Wirkgefüge im digitalen Bildungsraum
-type:
-  - Wissenschaftliche Notiz
-publish: false
+  - Bedürfnis
+  - Theorieintegration
+  - Schematherapie
+  - Systemtheorie
+  - Neurobiologie
+  - Pädagogik
+  - Psychologie
+  - Handlungstheorie
+  - Konzeptbildung
+  - Professionalisierung
+  - Forschung
+  - Strukturmodell
+created: 2024-10-01
+updated: 2025-07-24
+publish: true
+publishd: 2025-07-24
+project: Pädagogische Psychologie
 ---
 
-created: 01.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 27.11.2024 | [[Hinweise]]
+created: 01.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 27.11.2024 | [published](https://zenodo.org/records/16413805): 24.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
 
+**Bedürfnis als Differenz: Eine systemisch-schematherapeutische Rekonstruktion**
+
+# Einleitung
+
+Kaum ein Begriff ist theoretisch so aufgeladen und zugleich praktisch so vorausgesetzt wie der des Bedürfnisses. Ob in Therapie, Pädagogik oder Sozialarbeit – Bedürfnisse gelten als Erklärungsmuster für Verhalten, als Zielgrößen professionellen Handelns und als Indikatoren für Entwicklungsbedingungen. Und doch bleibt oft unklar, was mit einem Bedürfnis eigentlich gemeint ist: biologischer Impuls, psychische Sehnsucht, soziale Zuschreibung?
+
+Die vorliegende Arbeit unternimmt den Versuch, den Begriff des Bedürfnisses systematisch zu rekonstruieren, nicht im Sinne einer disziplinären Vereinheitlichung, sondern als funktional verschaltetes Konzept, das verschiedene Theorieansätze strukturell verbindet. Im Zentrum steht dabei die These, dass Bedürfnisse als latent wirksame Unterscheidungen in lebenden Systemen auftreten, die sich durch somatische Codierung, psychische Repräsentation und soziale Anschlussfähigkeit konkretisieren lassen.
+
+An dieser Stelle wird der Anspruch formuliert, ein Modell zu entwickeln, das sowohl theoretisch konsistent als auch praktisch anschlussfähig ist, insbesondere in pädagogischen, psychologischen und therapeutischen Kontexten. Es wird dabei bewusst auf die Vorstellung verzichtet, das Phänomen Bedürfnis abschließend zu definieren. Stattdessen wird ein heuristischer Zugang vorgeschlagen, der die ontologische Einschichtung biologischer, psychischer und sozialer Prozesse ernst nimmt und damit neue Wege eröffnet, Bedürfnisarbeit jenseits normativer Hierarchien zu denken.
 
 # 1 Definition
 
@@ -136,8 +146,8 @@ flowchart LR
     end
     
     subgraph Handlungen
-        C1[Verhalten 1]
-        C2[Verhalten 2]
+        C1[Verhalten 1<br>z.B. Annäherungsverhalten]
+        C2[Verhalten 2<br>z.B. Regulationsversuch]
     end
 
     A1 -- 10 --> B1
@@ -178,13 +188,16 @@ flowchart TD
     C --> D[Psychische Repräsentation<br>Schema / Modus]
     D --> E[Selektive Handlung<br>Ausdrucksverhalten]
     E --> F[Soziale Deutung<br>Konzeptbildung]
+    E -->|Direkte Resonanz / körperbasierte Intervention| H
     F --> G[Professionelle Handlung<br>Intervention]
     G --> H[Wirkung auf Codierung<br>Oxytocin, Cortisol etc.]
     H -->|Rückwirkung| A
 ```
-Abbildung 2: Kausalkette der Bedürfnisentstehung und -adressierung
+Abbildung 2: Kausalkette der Bedürfnisentstehung und -adressierung (eig. Darstellung)
 
 Die Abbildung 2 zeigt die Kausalkette der Bedürfnisentstehung und -adressierung. Sie verdeutlicht, wie Bedürfnisse als latente Unterscheidungen entstehen, durch strukturelle Kopplung mit Umwelt stabilisiert werden, somatisch codiert sind und schließlich in psychischen Repräsentationen (Schemata/Modi) münden. Diese Repräsentationen führen zu selektiven Handlungen, die sozial interpretiert und professionell adressiert werden können. Die Rückwirkung auf die somatische Codierung schließt den Kreis und zeigt die dynamische Wechselwirkung zwischen Bedürfnis, Handlung und biologischer Regulation.
+
+Neben dem konzeptionell vermittelten Weg von Bedürfnis über Konzept zu professioneller Handlung existiert eine zweite Schleife: Ausdruckshandlungen können direkt eine Intervention auslösen, die nicht über explizite Konzeptbildung geht, sondern durch affektive Resonanz oder körperliche Ko-Regulation unmittelbar in die somatische Codierung zurückwirkt. Diese zirkuläre Figur macht das Modell anschlussfähig für alltagspraktische, intuitive oder nicht-theoretisch vermittelte Interaktionsformen – insbesondere im Bereich der Bindungs- und Beziehungsarbeit.
 
 Die Kombination aus Schematherapie und Systemtheorie eröffnet somit eine methodisch konsistente, interdisziplinär anschlussfähige Perspektive auf Bedürfnisarbeit. Bedürfnisse werden als latente Differenz codiert, durch Umweltkontakt stabilisiert, biologisch markiert und durch konzeptionelle Handlung adressierbar. Aus dieser Konstellation ergibt sich ein praxisrelevanter Zugang zu einer präzisen, aber dynamischen Bedürfnislogik.
 
@@ -231,33 +244,82 @@ Die im vorangegangenen Kapitel formulierten theoretischen Folgerungen haben dire
   Wenn Bedürfnisse als latente Differenz, somatisch codiert und selektiv beobachtbar gedacht werden, lässt sich professionelles Handeln nicht mehr rein auf Verhaltensregulation stützen. Es bedarf gezielter Interventionen, die die individuelle Bedürfnisstruktur adressieren, etwa durch körperbasierte Ko-Regulation, ritualisierte Beziehungsgestaltung oder strukturelle Verlässlichkeit. Die Schematherapie liefert hierfür praktikable Konzepte (vgl. Roediger, 2010).
 
 - **Implikation 2: Starre Bedürfnishierarchien sind praxisfern.**  
-  Die Vorstellung, dass Bedürfnisse in stufenförmiger Reihenfolge erfüllt werden müssen (Maslow, 1943), wird in der pädagogischen Praxis zunehmend problematisch. Die hier entwickelte Modelllogik legt nahe, dass Bedürfnisse als simultan wirksame Differenzlagen auftreten, die je nach Kontext unterschiedlich salient werden. Dies erfordert eine flexible, situationsbezogene Bedürfnisdiagnostik und keine schematische Bedürfnisabfolge.
+  Die Vorstellung, dass Bedürfnisse in stufenförmiger Reihenfolge erfüllt werden müssen (Maslow, 1943), wird in der pädagogischen Praxis zunehmend problematisch. Die hier entwickelte Modelllogik legt nahe, dass Bedürfnisse als simultan wirksame Differenzlagen auftreten, die je nach Kontext unterschiedlich salient werden. Dies erfordert eine flexible, situationsbezogene Bedürfnisdiagnostik und keine schematische Bedürfnisabfolge[^2].
 
 - **Implikation 3: Prävention basiert auf der Lesbarkeit von Differenzen.**  
   In sozialpädagogischen Handlungsfeldern ist die frühzeitige Erkennung von Bedürfnislagen zentral. Die hier entwickelte Systematik erlaubt es, Verhalten nicht vorschnell zu pathologisieren, sondern als Ausdruck einer verkörperten, noch nicht beantworteten Differenz zu lesen. Daraus ergeben sich präventive Möglichkeiten, etwa durch die Gestaltung sicherer Bindungserfahrungen, verlässlicher Übergänge oder affektiv abgestimmter Resonanzangebote (vgl. Roediger, 2010).
 
 # 5 Kritik
 
-Die hier entwickelte Definition und Herleitung des Begriffs „Bedürfnis“ ist nicht ohne Kritik. Sie basiert auf der Annahme, dass Bedürfnisse als systeminterne Differenzen verstanden werden können, die durch strukturelle Kopplung mit der Umwelt stabilisiert werden. Diese Sichtweise könnte als zu mechanistisch oder reduktionistisch kritisiert werden, da sie komplexe emotionale und soziale Prozesse vereinfacht.
-Zudem könnte die Fokussierung auf somatische Codierung und konzeptionelle Handlungen als zu stark auf die individuelle Ebene fokussiert angesehen werden, ohne die sozialen und kulturellen Kontexte ausreichend zu berücksichtigen. Bedürfnisse sind nicht nur individuelle, sondern auch soziale Konstrukte, die in spezifischen kulturellen und historischen Kontexten entstehen und sich verändern können (Metz-Göckel, 2022).
-Ein weiterer Kritikpunkt könnte die Annahme sein, dass Bedürfnisse immer in einem dynamischen Wechselspiel zwischen biologischer, psychischer und sozialer Ebene entstehen. Diese Sichtweise könnte als zu deterministisch kritisiert werden, da sie die Möglichkeit individueller Agency und kreativer Neugestaltung von Bedürfnissen nicht ausreichend berücksichtigt. Bedürfnisse sind nicht nur Reaktionen auf Umweltreize, sondern auch aktive Konstruktionen des Individuums, die durch Reflexion, Kreativität und soziale Interaktion geprägt werden (Roediger, 2010).
-Die hier vorgestellte Definition und Herleitung des Begriffs „Bedürfnis“ ist somit nicht ohne Einschränkungen und sollte als ein theoretischer Zugang unter vielen verstanden werden. Sie bietet jedoch eine nützliche Grundlage für die Analyse von Bedürfnissen in pädagogischen, therapeutischen und sozialen Kontexten und ermöglicht eine differenzierte Betrachtung von Verhaltensmustern und deren Entwicklung.
+Das hier entwickelte Modell eines systemisch codierten, konzeptionell adressierbaren Bedürfnisses erhebt weder Absolutheits- noch Exklusivitätsanspruch. Dennoch ist dieses theoretisch exponiert genug, um Kritik hervorzurufen. Diese Kritik ist nicht als Widerlegung, sondern als Reflexionsangebot zu verstehen, sie schärft das Modell in seiner Reichweite und Kontur. Damit ist diese Kritik kein Widerspruch zur Theorie, sondern eine produktive Spannung, sie erweitert den Möglichkeitsraum des Modells, ohne dessen Kerngedanken zu beschädigen.
+
+## 5.1 Kritische Einwände
+
+**Reduktionistische Verkürzung**
+
+Die enge Verbindung von Bedürfnissen mit somatischen Markern wie Oxytocin, Cortisol oder Dopamin könnte als biologischer Reduktionismus gelesen werden. Kritiker könnten einwenden, dass dadurch komplexe emotionale, soziale und biografische Prozesse auf messbare physiologische Zustände verkürzt werden – und damit ein funktional reduziertes Menschenbild entsteht (vgl. Metz-Göckel, 2022).
+
+**Kulturalität und soziale Kontexte**
+
+Bedürfnisse erscheinen im Modell primär als individuell verankerte Orientierungen. Dass sie jedoch stets auch kulturell geformt, sozial vermittelt und historisch situiert sind, wird hier nur indirekt berücksichtigt. Es ließe sich einwenden, dass das Modell universelle Marker (z. B. Oxytocin) betont, ohne die kulturelle Codierung von Bedürfnissemantik ausreichend zu thematisieren.
+
+**Agency und Selbstgestaltung**
+
+Die logische Stringenz der Kausalkette (Kap. 2.6) suggeriert eine gewisse Determiniertheit. Kritisch gefragt: Wo bleibt das kreative Potenzial des Subjekts, Bedürfnisse nicht nur zu erleben oder zu regulieren, sondern selbstreflexiv zu transformieren, zu verwerfen oder neu zu konstruieren? Bedürfnisarbeit als emanzipatorische Praxis scheint hier unterbelichtet (vgl. Roediger, 2010).
+
+**Begriffliche Unschärfe und Theoriepluralität**
+
+Der Begriff „Bedürfnis“ wird in verschiedenen Disziplinen unterschiedlich verwendet. Das hier vorgeschlagene Modell könnte als theoretische Überformung eines alltagssprachlich offenen Begriffs erscheinen – ohne dessen semantische Spannweite systematisch zu reflektieren.
+
+## 5.2 Erwiderung und Klärung
+
+Die genannten Einwände verweisen auf reale Spannungsfelder, denen sich das Modell nicht entziehen will. Gerade der Anspruch, zwischen biologischer Konstanz und sozialer Variabilität, zwischen systemischer Funktionalität und subjektiver Reflexivität eine tragfähige Struktur zu schaffen, erfordert eine differenzierte Auseinandersetzung mit diesen Kritikpunkten. Im Folgenden werden die zentralen Einwände aufgegriffen und im Sinne des Modells beantwortet.
+
+**Zur Frage des Reduktionismus**
+
+Die Bezugnahme auf somatische Marker ist keine Reduktion, sondern ein Hinweis auf die ontologische Einschichtung lebender Systeme: Ohne physikalisch-chemische Grundlagen kein biologisches Leben; ohne lebendes System keine psychische Regulation; ohne psychisches System keine soziale Kommunikation. Die biologische Codierung ist notwendige Bedingung, nicht hinreichende Erklärung.
+
+**Zur kulturellen Situiertheit von Bedürfnissen**
+
+Das Modell behauptet nicht, dass Bedürfnisse unabhängig von Kultur existieren. Es differenziert vielmehr zwischen biologisch konstanten Codierungsmechanismen und sozial variabler Deutung. Die konzeptionelle Handlung (Kap. 2.4) zeigt gerade, wie soziale Systeme über kulturelle Semantiken auf körperlich codierte Differenzen reagieren. Kultur ist nicht ausgeschlossen, sondern funktional integriert.
+
+**Zur Frage von Agency**
+
+Die systemtheoretische Anlage des Modells erlaubt über die Elementaroperationen (Feedback, Reflexion, Reentry) genau jene Schleifen, in denen Selbstbeobachtung, Transformation und Neuschöpfung von Bedürfnissen möglich sind. Der Mensch ist in diesem Modell nicht nur reguliertes, sondern auch reflexiv fähiges System d.h. Agency ist implizit mitgedacht.
+
+**Zur Theoriepluralität**
+
+Der Begriff „Bedürfnis“ wird hier nicht vereinheitlicht, sondern funktional verschaltet. Das Modell versteht sich als Strukturangebot. Es will nicht definitorisch festlegen, sondern konvergente Anschlussstellen schaffen zwischen biologischer Empirie, psychischer Repräsentation und sozialer Konzeptbildung.
 
 # 6 Zusammenfassung
 
-Der **Begriff „Bedürfniss“** beschreibt grundlegende Anforderungen des Individuums, die für das emotionale und psychologische Wohlbefinden notwendig sind. Er wird in der Psychologie, Schematherapie und Soziologie angewendet und beeinflusst das Verständnis von Verhaltensmustern und deren Entwicklung. Der Begriff trägt zu relevanten Erkenntnissen über die Entstehung von maladaptiven Schemata bei und ist entscheidend für die gezielte therapeutische Arbeit und die Prävention von Verhaltensauffälligkeiten (Metz-Göckel, 2022; Roediger, 2010; Maslow).
+Das hier entwickelte Modell versteht Bedürfnisse als systemisch strukturierte Differenzphänomene, die biologisch codiert, psychisch repräsentiert und sozial interpretierbar sind. Im Zentrum steht eine dynamische Kausalkette, die von latenter Unterscheidung über strukturelle Kopplung und somatische Codierung zur selektiven Handlung und schließlich zur professionellen Konzeptbildung führt. Diese Kette ist nicht linear, sondern rekursiv: Jede Handlung kann auf die ursprüngliche Bedürfnisstruktur zurückwirken und neue Differenzlagen erzeugen.
+
+Das Besondere an diesem Modell ist die Integration verschiedener theoretischer Perspektiven, insbesondere der Schematherapie und der Systemtheorie, ohne diese zu vereinheitlichen. Bedürfnisse werden dadurch nicht als abstrakte Konzepte behandelt, sondern als real erfahrbare, beobachtbare und professionell anschlussfähige Strukturen. Die Verbindung von neurobiologischen Markern, kognitiv-emotionalen Mustern und sozial vermittelten Konzepten erlaubt einen differenzierten Zugang zu Bedürfnislagen, sowohl in der Diagnostik als auch in der Intervention.
+
+Im Unterschied zu traditionellen Bedürfnistheorien, betont dieses Modell die Gleichzeitigkeit, Kontextabhängigkeit und Dynamik von Bedürfnisprozessen. Bedürfnisse sind keine Stufen, die nacheinander erklommen werden müssen, sondern simultan wirksame Orientierungsfiguren innerhalb lebender Systeme.
+
+Damit bietet das Modell eine theoretisch fundierte und praktisch anschlussfähige Grundlage für Bedürfnisarbeit in pädagogischen, therapeutischen und sozialwissenschaftlichen Kontexten.
 
 # Quelle(n)
 
 - Metz-Göckel, H. (2022). Bedürfnis. In M. A. Wirtz (Hrsg.), _Dorsch Lexikon der Psychologie_. Hogrefe Verlag.
 - Roediger, E. (2010). _Raus aus den Lebensfallen: Das Schematherapie-Patientenbuch_. Junfermannsche Verlagsbuchhandlung.
 - Maslow, A. H. (1943). _A Theory of Human Motivation_.
+- Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). _Schematherapie: Ein kognitives Modell der emotionalen Störungen_. Klett-Cotta.
+- Damasio, A. R. (1994). _Descartes' Error: Emotion, Reason, and the Human Brain_. Putnam.
+- Panksepp, J. (1998). _Affective Neuroscience: The Foundations of Human and Animal Emotions_. Oxford University Press.
+- Luhmann, N. (1984). _Soziologische Aufklärung 1: Aufsätze zur Theorie sozialer Systeme_. Westdeutscher Verlag.
+- Luhmann, N. (1997). _Soziologische Aufklärung 2: Aufsätze zur Theorie sozialer Systeme_. Westdeutscher Verlag.
+- Maturana, H. R., & Varela, F. J. (1987). _The Tree of Knowledge: The Biological Roots of Human Understanding_.  Shambhala.
+- Deci, E. L., & Ryan, R. M. (1985). _Intrinsic Motivation and Self-Determination in Human Behavior_. Plenum Press.
+- Feldman, R. (2012). _Oxytocin and Social Affiliation in Humans_. In _Biological Psychology_ (S. 1-10). Elsevier.
 
 
-todo
-- [ ] Wäre nicht die Strukturelle Kopplung aus dem Bedürfnis nach Bildung abzuleiten?
 
+[^1]: In einer späteren Version könnte eine explizitere begriffliche Differenzierung zwischen Konzept, Schema und Modus hilfreich sein, etwa in Form eines Mini-Glossars oder durch knappe Erläuterungen im Fließtext. Derzeit wird auf eine solche Klärung zugunsten der Lesbarkeit und Argumentationsdichte bewusst verzichtet.
+[^2]: Die weit verbreitete Darstellung einer Maslow’schen Bedürfnispyramide stammt nicht von Maslow selbst, sondern wurde später (vermutlich aus didaktischen Gründen) von Managementtheorien popularisiert. Maslow selbst hat in seinen Texten keine Pyramide gezeichnet und betonte die Dynamik, Überlappung und Reversibilität von Bedürfnissen; also genau das, was das hier entwickelte Modell ebenfalls stark macht.
 
 ---
 
-[^1]: In einer späteren Version könnte eine explizitere begriffliche Differenzierung zwischen Konzept, Schema und Modus hilfreich sein, etwa in Form eines Mini-Glossars oder durch knappe Erläuterungen im Fließtext. Derzeit wird auf eine solche Klärung zugunsten der Lesbarkeit und Argumentationsdichte bewusst verzichtet.
+#Bedürfnis #Theorieintegration #Schematherapie #Systemtheorie #Neurobiologie #Pädagogik #Psychologie #Handlungstheorie #Konzeptbildung #Professionalisierung #Forschung #Strukturmodell
