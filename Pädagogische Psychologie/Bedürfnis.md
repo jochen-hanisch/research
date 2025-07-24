@@ -2,18 +2,18 @@
 author: Jochen Hanisch-Johannsen
 title: "Bedürfnis als Differenz: Eine systemisch-schematherapeutische Rekonstruktion"
 tags:
-  - Bedürfnis
-  - Theorieintegration
-  - Schematherapie
-  - Systemtheorie
-  - Neurobiologie
-  - Pädagogik
-  - Psychologie
-  - Handlungstheorie
-  - Konzeptbildung
-  - Professionalisierung
-  - Forschung
-  - Strukturmodell
+ - Bedürfnis
+ - Theorieintegration
+ - Schematherapie
+ - Systemtheorie
+ - Neurobiologie
+ - Pädagogik
+ - Psychologie
+ - Handlungstheorie
+ - Konzeptbildung
+ - Professionalisierung
+ - Forschung
+ - Strukturmodell
 created: 2024-10-01
 updated: 2025-07-24
 publish: true
@@ -39,13 +39,13 @@ Ein Bedürfnis ist eine latent wirksame Unterscheidung innerhalb eines lebenden 
 
 Die einzelnen Elemente dieser Definition lassen sich wie folgt spezifizieren:
 
-  - **Latent wirksame Unterscheidung**: Bedürfnisse sind systeminterne Unterscheidungen zwischen einem gegenwärtigen und einem präferierten Zustand. Diese Differenz ist zunächst latent wirksam, also nicht zwingend bewusst oder sprachlich gefasst, sondern operativ im Sinne einer Orientierungsdifferenz innerhalb biologischer oder psychischer Systeme.
+ - **Latent wirksame Unterscheidung**: Bedürfnisse sind systeminterne Unterscheidungen zwischen einem gegenwärtigen und einem präferierten Zustand. Diese Differenz ist zunächst latent wirksam, also nicht zwingend bewusst oder sprachlich gefasst, sondern operativ im Sinne einer Orientierungsdifferenz innerhalb biologischer oder psychischer Systeme.
 
-  - **Präferenzzustände und strukturelle Kopplung**: Präferierte Zustände entstehen nicht aus dem System selbst, sondern durch strukturelle Kopplung mit der Umwelt. Bedürfnisse wirken als operative Mechanismen, die dem System erlauben, auf externe Reize selektiv zu reagieren und sich durch diese Umweltkontakte selbst zu stabilisieren.
+ - **Präferenzzustände und strukturelle Kopplung**: Präferierte Zustände entstehen nicht aus dem System selbst, sondern durch strukturelle Kopplung mit der Umwelt. Bedürfnisse wirken als operative Mechanismen, die dem System erlauben, auf externe Reize selektiv zu reagieren und sich durch diese Umweltkontakte selbst zu stabilisieren.
 
-  - **Somatische Codierung**: Die latente Differenz wird körperlich codiert, etwa durch spezifische neurobiologische Marker wie Oxytocin, Cortisol oder Dopamin. Diese Codierungen sind keine eindeutigen Indikatoren für bestimmte Bedürfnisse, ermöglichen aber eine physiologische Rückbindung subjektiver Regulation an verkörperte Prozesse.
+ - **Somatische Codierung**: Die latente Differenz wird körperlich codiert, etwa durch spezifische neurobiologische Marker wie Oxytocin, Cortisol oder Dopamin. Diese Codierungen sind keine eindeutigen Indikatoren für bestimmte Bedürfnisse, ermöglichen aber eine physiologische Rückbindung subjektiver Regulation an verkörperte Prozesse.
 
-  - **Konzeptionelle Handlungen**: Bedürfnisse erzeugen selektive Ausdruckshandlungen innerhalb psychischer Systeme. Diese werden in sozialen Systemen als Bedeutungseinheiten interpretiert und bilden so die Grundlage für sozial geteilte Konzepte, an denen weitere Kommunikation, Intervention und Handlung anknüpfen kann.
+ - **Konzeptionelle Handlungen**: Bedürfnisse erzeugen selektive Ausdruckshandlungen innerhalb psychischer Systeme. Diese werden in sozialen Systemen als Bedeutungseinheiten interpretiert und bilden so die Grundlage für sozial geteilte Konzepte, an denen weitere Kommunikation, Intervention und Handlung anknüpfen kann.
 
 # 2 Herleitung
 
@@ -68,13 +68,13 @@ Die Unterscheidung zwischen einem aktuellen und einem präferierten Zustand impl
 
 In pädagogisch-psychologischen Kontexten lassen sich solche Präferenzen als emergente Selektivitäten beschreiben, etwa die Bevorzugung von Sicherheit, Zugehörigkeit oder Selbstwirksamkeit. Diese Zustände sind nicht im Sinne eines inneren Wollens zu verstehen, sondern als strukturierte Orientierungen, die über wiederholte Kopplungserfahrungen operationalisiert werden. So wird etwa das Bedürfnis nach Zugehörigkeit durch kontinuierliche Interaktion mit anerkennenden Bezugspersonen verstärkt und damit systemisch realisiert.
 
-Motivationstheorien wie die Selbstbestimmungstheorie (Deci & Ryan, 1985) und die Bedürfnishierarchie nach Maslow (1943) können als psychologische Modellierungen solcher Kopplungsprozesse gelesen werden. Sie beschreiben, wie Systeme bestimmte Umweltangebote (z. B. soziale Anerkennung) intern präferieren und daran ihre Handlungstendenzen ausrichten. Damit liefern sie psychologisch lesbare Korrelate zur systemischen Idee der präferierten Zustände.
+Motivationstheorien wie die Selbstbestimmungstheorie (Deci & Ryan, 1985) und die Bedürfnishierarchie nach Maslow (1943) können als psychologische Modellierungen solcher Kopplungsprozesse gelesen werden. Sie beschreiben, wie Systeme bestimmte Umweltangebote (z.B. soziale Anerkennung) intern präferieren und daran ihre Handlungstendenzen ausrichten. Damit liefern sie psychologisch lesbare Korrelate zur systemischen Idee der präferierten Zustände.
 
 ## 2.3 Somatische Codierung als physiologische Grundlage
 
 Die latente Unterscheidung zwischen aktuellem und präferiertem Zustand bleibt nicht rein kognitiv oder abstrakt, sondern ist auch somatisch fundiert. Neurobiologische Marker wie Oxytocin (Bindung), Cortisol (Stress) oder Dopamin (Motivation) begleiten typischerweise bestimmte Bedürfnislagen, auch wenn diese Marker multifunktional codiert und kontextabhängig interpretierbar sind (Panksepp, 1998; Damasio, 1994).
 
-Diese physiologischen Marker dienen nicht der eindeutigen Diagnostik eines spezifischen Bedürfnisses, sondern sind Ausdruck systemischer Zustandsveränderungen. Sie sind als Rückbindungen verkörperter Regulation zu verstehen. Der Körper markiert Differenzzustände, etwa durch Erregung, Spannung oder Entspannung, und macht sie damit im System zugänglich. Bedürfnisse sind in diesem Sinne nicht nur psychische Repräsentationen, sondern verkörperte Orientierungen, die sich unter bestimmten Bedingungen auch objektiv (z. B. hormonell, nerval) beobachten lassen.
+Diese physiologischen Marker dienen nicht der eindeutigen Diagnostik eines spezifischen Bedürfnisses, sondern sind Ausdruck systemischer Zustandsveränderungen. Sie sind als Rückbindungen verkörperter Regulation zu verstehen. Der Körper markiert Differenzzustände, etwa durch Erregung, Spannung oder Entspannung, und macht sie damit im System zugänglich. Bedürfnisse sind in diesem Sinne nicht nur psychische Repräsentationen, sondern verkörperte Orientierungen, die sich unter bestimmten Bedingungen auch objektiv (z.B. hormonell, nerval) beobachten lassen.
 
 In der pädagogischen Praxis eröffnet dieser Zugriff die Möglichkeit, körperlich wahrnehmbare Zustände als Indikatoren für Bedürfnislagen zu deuten, ohne sie jedoch vorschnell zu pathologisieren oder zu objektivieren.
 
@@ -94,7 +94,7 @@ Die Schematherapie bietet ein theoriepraktisch anschlussfähiges Modell, das die
 
 Bedürfnisse erscheinen in diesem Rahmen nicht als abstrakte Konzepte, sondern als erfahrbare Orientierungsgrößen, die in biografischen Kontexten kondensiert wurden (Roediger, 2010). Diese kondensierten Muster, z.B. Verlassenheit, Unterordnung oder emotionale Entbehrung, bilden spezifische Differenzzustände, die im System aktiviert werden können. Aus systemischer Sicht lassen sie sich als stabilisierte Differenzreaktionen verstehen, d.h. intern erzeugte, aber durch wiederholte Kopplungserfahrungen strukturierte Selektivitätsmuster.
 
-Die körperlich markierten Spannungslagen (z. B. Unsicherheit, Scham, Hyperarousal) sind Ausdruck dieser latenten Differenzen. Sie codieren das Bedürfnis somatisch, bevor es psychisch und sozial deutbar wird (Damasio, 1994; Panksepp, 1998). In der pädagogischen und therapeutischen Praxis treten diese Muster als wiederkehrende Handlungstendenzen in Erscheinung, die, wenn sie professionell beobachtet und gedeutet werden, zu konzeptionellen Handlungsfiguren führen können.
+Die körperlich markierten Spannungslagen (z.B. Unsicherheit, Scham, Hyperarousal) sind Ausdruck dieser latenten Differenzen. Sie codieren das Bedürfnis somatisch, bevor es psychisch und sozial deutbar wird (Damasio, 1994; Panksepp, 1998). In der pädagogischen und therapeutischen Praxis treten diese Muster als wiederkehrende Handlungstendenzen in Erscheinung, die, wenn sie professionell beobachtet und gedeutet werden, zu konzeptionellen Handlungsfiguren führen können.
 
 ### 2.5.2 Schemata, Grundbedürfnisse und Modi
 
@@ -102,26 +102,26 @@ Diese Tabelle zeigt eine strukturierte Darstellung typischer maladaptiver Schema
 
 Während die Tabelle eine strukturierte Aufschlüsselung typischer Schema-Bedürfnis-Zuordnungen bietet, zeigt die nachfolgende Abbildung eine dynamische Verschaltung der daraus abgeleiteten Konzepte mit konkreten Handlungsformen.
 
-*Tabelle 1: Übersicht über typische Schemata, zugehörige Domänen, Grundbedürfnisse und mögliche Modi*
+*Tabelle 1: Übersicht über typische Schemata, zugehörige Domänen, Grundbedürfnisse und mögliche Modi (i.A.a. Roediger (2010)*
 
-| **Schema (Situation / Reaktion)**                 | **Domäne / Bereich**                               | **Grundbedürfnis**                     | **Mögliche Modi**                                |
+| **Schema (Situation / Reaktion)**         | **Domäne / Bereich**                | **Grundbedürfnis**           | **Mögliche Modi**                |
 | ------------------------------------------------- | -------------------------------------------------- | -------------------------------------- | ------------------------------------------------ |
-| **Emotionale Vernachlässigung**                   | Abgetrenntheit und Ablehnung                       | Bindung                                | Verletzbares oder Wütendes Kind                  |
-| **Verlassenheit / Instabilität**                  | Abgetrenntheit und Ablehnung                       | Bindung                                | Verletzbares oder Wütendes Kind                  |
-| **Misstrauen / Missbrauch**                       | Abgetrenntheit und Ablehnung                       | Bindung                                | Rückzug, Misstrauisches Kind                     |
-| **Soziale Isolation**                             | Abgetrenntheit und Ablehnung                       | Bindung                                | Einsames Kind                                    |
-| **Unzulänglichkeit / Scham**                      | Abgetrenntheit und Ablehnung                       | Bindung                                | Verletzbares oder Wütendes Kind                  |
-| **Erfolglosigkeit / Versagen**                    | Beeinträchtigung von Autonomie und Leistung        | Autonomie, Leistung                    | Rückzugsmodus                                    |
-| **Abhängigkeit / Inkompetenz**                    | Beeinträchtigung von Autonomie und Leistung        | Autonomie, Selbstbestimmung            | Verletzbares Kind, Passiver Modus                |
-| **Verletzbarkeit**                                | Beeinträchtigung von Autonomie und Leistung        | Autonomie                              | Ängstliches Kind                                 |
-| **Verstrickung / Unentwickeltes Selbst**          | Beeinträchtigung von Autonomie und Leistung        | Autonomie, Identität                   | Verschmelzender Modus                            |
-| **Anspruchshaltung / Grandiosität**               | Beeinträchtigung von Autonomie und Leistung        | Selbstkontrolle, Autonomie             | Selbstüberhöhender Modus                         |
-| **Aufopferung**                                   | Fremdbezogenheit                                   | Selbstwert-Erhöhung, Selbstwert-Schutz | Unterordnungsmodus                               |
-| **Streben nach Zustimmung und Anerkennung**       | Fremdbezogenheit                                   | Selbstwert-Erhöhung, Bindung           | Angepasstes Kind                                 |
-| **Emotionale Gehemmtheit**                        | Übertriebene Wachsamkeit und Gehemmtheit           | Lust, Unlust-Vermeidung                | Gehemmtes Kind, Strenger Modus                   |
-| **Überhöhte Standards (unerbittliche Ansprüche)** | Übertriebene Wachsamkeit und Gehemmtheit           | Leistung, Selbstwert                   | Perfektionistischer Modus                        |
-| **Bestrafungsneigung**                            | Übertriebene Wachsamkeit und Gehemmtheit           | Kontrolle, Grenzsetzung                | Kritischer oder Strafender Elternmodus           |
-| **Impulsivität / Undiszipliniertheit**            | Beeinträchtigung der Selbstkontrolle und Disziplin | Selbstkontrolle                        | Undiszipliniertes Kind, Verantwortungsloses Kind |
+| **Emotionale Vernachlässigung**          | Abgetrenntheit und Ablehnung            | Bindung                | Verletzbares oder Wütendes Kind         |
+| **Verlassenheit / Instabilität**         | Abgetrenntheit und Ablehnung            | Bindung                | Verletzbares oder Wütendes Kind         |
+| **Misstrauen / Missbrauch**            | Abgetrenntheit und Ablehnung            | Bindung                | Rückzug, Misstrauisches Kind           |
+| **Soziale Isolation**               | Abgetrenntheit und Ablehnung            | Bindung                | Einsames Kind                  |
+| **Unzulänglichkeit / Scham**           | Abgetrenntheit und Ablehnung            | Bindung                | Verletzbares oder Wütendes Kind         |
+| **Erfolglosigkeit / Versagen**          | Beeinträchtigung von Autonomie und Leistung    | Autonomie, Leistung          | Rückzugsmodus                  |
+| **Abhängigkeit / Inkompetenz**          | Beeinträchtigung von Autonomie und Leistung    | Autonomie, Selbstbestimmung      | Verletzbares Kind, Passiver Modus        |
+| **Verletzbarkeit**                | Beeinträchtigung von Autonomie und Leistung    | Autonomie               | Ängstliches Kind                 |
+| **Verstrickung / Unentwickeltes Selbst**     | Beeinträchtigung von Autonomie und Leistung    | Autonomie, Identität          | Verschmelzender Modus              |
+| **Anspruchshaltung / Grandiosität**        | Beeinträchtigung von Autonomie und Leistung    | Selbstkontrolle, Autonomie       | Selbstüberhöhender Modus             |
+| **Aufopferung**                  | Fremdbezogenheit                  | Selbstwert-Erhöhung, Selbstwert-Schutz | Unterordnungsmodus                |
+| **Streben nach Zustimmung und Anerkennung**    | Fremdbezogenheit                  | Selbstwert-Erhöhung, Bindung      | Angepasstes Kind                 |
+| **Emotionale Gehemmtheit**            | Übertriebene Wachsamkeit und Gehemmtheit      | Lust, Unlust-Vermeidung        | Gehemmtes Kind, Strenger Modus          |
+| **Überhöhte Standards (unerbittliche Ansprüche)** | Übertriebene Wachsamkeit und Gehemmtheit      | Leistung, Selbstwert          | Perfektionistischer Modus            |
+| **Bestrafungsneigung**              | Übertriebene Wachsamkeit und Gehemmtheit      | Kontrolle, Grenzsetzung        | Kritischer oder Strafender Elternmodus      |
+| **Impulsivität / Undiszipliniertheit**      | Beeinträchtigung der Selbstkontrolle und Disziplin | Selbstkontrolle            | Undiszipliniertes Kind, Verantwortungsloses Kind |
 
 Die Tabelle zeigt eine strukturierte Zuordnung typischer maladaptiver Schemata zu übergeordneten Domänen, zentralen Grundbedürfnissen und den entsprechenden Modi, wie sie in der Schematherapie beschrieben werden. Die Schemata repräsentieren stabile Verarbeitungsmuster früher Beziehungserfahrungen, die mit spezifischen Bedürfniskonflikten und emotionalen Reaktionsweisen verknüpft sind. Die Zuordnung zu Grundbedürfnissen erlaubt eine funktionale Rückbindung der Schemata an biografisch erlebte Defiziterfahrungen. Die Modi verweisen auf erlebens- und verhaltensnahe Zustände, in denen sich diese Muster aktuell manifestieren können. Die Tabelle dient damit als heuristische Orientierung zur Analyse von Bedürfnisstrukturen und deren Ausdrucksformen im pädagogisch-therapeutischen Kontext.
 
@@ -131,40 +131,40 @@ Die hier verwendeten Konzepte wie „Sicherheit“, „Neugier“ oder „Bereit
 
 ```mermaid
 flowchart LR
-    subgraph Bedürfnisse
-        A1[Bindung]
-        A2[Kontrolle<br>nach Außen]
-        A3[Selbst-Kontrolle<br>nach innen]
-        A4[Selbstwertschutz<br>Selbstwerterhöhung]
-        A5[Unlust-Vermeidung<br>Lust]
-    end
-    
-    subgraph Konzepte
-        B1[Sicherheit]
-        B2[Neugier]
-        B3[Bereitschaft]
-    end
-    
-    subgraph Handlungen
-        C1[Verhalten 1<br>z.B. Annäherungsverhalten]
-        C2[Verhalten 2<br>z.B. Regulationsversuch]
-    end
+  subgraph Bedürfnisse
+    A1[Bindung]
+    A2[Kontrolle<br>nach Außen]
+    A3[Selbst-Kontrolle<br>nach innen]
+    A4[Selbstwertschutz<br>Selbstwerterhöhung]
+    A5[Unlust-Vermeidung<br>Lust]
+  end
+  
+  subgraph Konzepte
+    B1[Sicherheit]
+    B2[Neugier]
+    B3[Bereitschaft]
+  end
+  
+  subgraph Handlungen
+    C1[Verhalten 1<br>z.B.<br>Annäherungs-<br>verhalten]
+    C2[Verhalten 2<br>z.B.<br>Regulations-<br>versuch]
+  end
 
-    A1 -- 10 --> B1
-    A2 -- 8 --> B1
-    A3 -- 6 --> B1
-    A4 -- 4 --> B2
-    A4 -- 3 --> B3
-    A5 -- 7 --> B3
+  A1 -- 10 --> B1
+  A2 -- 8 --> B1
+  A3 -- 6 --> B1
+  A4 -- 4 --> B2
+  A4 -- 3 --> B3
+  A5 -- 7 --> B3
 
-    B1 -- 5 --> C1
-    B2 -- 6 --> C2
-    B3 -- 4 --> C2
+  B1 -- 5 --> C1
+  B2 -- 6 --> C2
+  B3 -- 4 --> C2
 
 ```
 *Abbildung 1: Flowchart der Verknüpfung von Bedürfnissen, Konzepte und Handlungen (eig. Darstellung)*
 
-Die Abbildung zeigt eine strukturierte Verschaltung elementarer Bedürfnisse mit professionellen Konzepten und daraus abgeleiteten Handlungsmustern. Fünf grundlegende Bedürfnisbereiche – etwa Bindung, Kontrolle (nach außen und innen), Selbstwertschutz sowie Lustvermeidung bzw. Lustgewinn – wirken selektiv auf die Konzeptbildung ein. Diese Konzepte wie „Sicherheit“, „Neugier“ oder „Bereitschaft“ entstehen nicht direkt aus den Bedürfnissen, sondern als abstrahierende Deutungsfiguren, die pädagogisch-therapeutisches Handeln strukturieren. Sie dienen als vermittelnde Größen zwischen dem subjektiven Bedürfniszustand und beobachtbarem Verhalten. Die Gewichtung der Verbindungslinien (Zahlenwerte) verdeutlicht die relative Einflussstärke bestimmter Bedürfnis-Konstellationen auf die jeweilige Konzeptbildung bzw. Handlungsanbahnung. Es handelt sich dabei um eine normierte Ordinalskala, die keine metrischen Abstände ausdrückt, sondern ein relationales Ranking ermöglicht. Dadurch lässt sich modellieren, welche Bedürfnisbereiche im Verhältnis zueinander besonders stark zur Konzeptbildung beitragen, ohne dies empirisch quantifizieren zu müssen.
+Abbildung 1 verdeutlicht die strukturierte Verschaltung elementarer Bedürfnisse mit professionellen Konzepten und daraus abgeleiteten Handlungsmustern. Fünf grundlegende Bedürfnisbereiche, etwa Bindung, Kontrolle (nach außen und innen), Selbstwertschutz sowie Lustvermeidung bzw. Lustgewinn, wirken selektiv auf die Konzeptbildung ein. Diese Konzepte wie „Sicherheit“, „Neugier“ oder „Bereitschaft“ entstehen nicht direkt aus den Bedürfnissen, sondern als abstrahierende Deutungsfiguren, die pädagogisch-therapeutisches Handeln strukturieren. Sie dienen als vermittelnde Größen zwischen dem subjektiven Bedürfniszustand und beobachtbarem Verhalten. Die Gewichtung der Verbindungslinien (Zahlenwerte) verdeutlicht die relative Einflussstärke bestimmter Bedürfnis-Konstellationen auf die jeweilige Konzeptbildung bzw. Handlungsanbahnung. Es handelt sich dabei um eine normierte Ordinalskala, die keine metrischen Abstände ausdrückt, sondern ein relationales Ranking ermöglicht. Dadurch lässt sich modellieren, welche Bedürfnisbereiche im Verhältnis zueinander besonders stark zur Konzeptbildung beitragen, ohne dies empirisch quantifizieren zu müssen.
 
 ## 2.6 Kausalkette als zentraler Befund
 
@@ -183,19 +183,19 @@ Diese Kausalkette erlaubt somit, das Bedürfnis nicht nur als abstrakten Mangel 
 
 ```mermaid
 flowchart TD
-    A[Latente Unterscheidung<br>Bedürfnis als Differenz] --> B[Strukturelle Kopplung<br>Präferenzbildung]
-    B --> C[Somatische Codierung<br>neurobiologische Marker]
-    C --> D[Psychische Repräsentation<br>Schema / Modus]
-    D --> E[Selektive Handlung<br>Ausdrucksverhalten]
-    E --> F[Soziale Deutung<br>Konzeptbildung]
-    E -->|Direkte Resonanz / körperbasierte Intervention| H
-    F --> G[Professionelle Handlung<br>Intervention]
-    G --> H[Wirkung auf Codierung<br>Oxytocin, Cortisol etc.]
-    H -->|Rückwirkung| A
+  A[Latente Unterscheidung<br>Bedürfnis als Differenz] --> B[Strukturelle Kopplung<br>Präferenzbildung]
+  B --> C[Somatische Codierung<br>neurobiologische Marker]
+  C --> D[Psychische Repräsentation<br>Schema / Modus]
+  D --> E[Selektive Handlung<br>Ausdrucksverhalten]
+  E --> F[Soziale Deutung<br>Konzeptbildung]
+  E -->|Direkte Resonanz / körperbasierte Intervention| H
+  F --> G[Professionelle Handlung<br>Intervention]
+  G --> H[Wirkung auf Codierung<br>Oxytocin, Cortisol etc.]
+  H -->|Rückwirkung| A
 ```
 Abbildung 2: Kausalkette der Bedürfnisentstehung und -adressierung (eig. Darstellung)
 
-Die Abbildung 2 zeigt die Kausalkette der Bedürfnisentstehung und -adressierung. Sie verdeutlicht, wie Bedürfnisse als latente Unterscheidungen entstehen, durch strukturelle Kopplung mit Umwelt stabilisiert werden, somatisch codiert sind und schließlich in psychischen Repräsentationen (Schemata/Modi) münden. Diese Repräsentationen führen zu selektiven Handlungen, die sozial interpretiert und professionell adressiert werden können. Die Rückwirkung auf die somatische Codierung schließt den Kreis und zeigt die dynamische Wechselwirkung zwischen Bedürfnis, Handlung und biologischer Regulation.
+Abbildung 2 zeigt die Kausalkette der Bedürfnisentstehung und -adressierung. Sie verdeutlicht, wie Bedürfnisse als latente Unterscheidungen entstehen, durch strukturelle Kopplung mit Umwelt stabilisiert werden, somatisch codiert sind und schließlich in psychischen Repräsentationen (Schemata/Modi) münden. Diese Repräsentationen führen zu selektiven Handlungen, die sozial interpretiert und professionell adressiert werden können. Die Rückwirkung auf die somatische Codierung schließt den Kreis und zeigt die dynamische Wechselwirkung zwischen Bedürfnis, Handlung und biologischer Regulation.
 
 Neben dem konzeptionell vermittelten Weg von Bedürfnis über Konzept zu professioneller Handlung existiert eine zweite Schleife: Ausdruckshandlungen können direkt eine Intervention auslösen, die nicht über explizite Konzeptbildung geht, sondern durch affektive Resonanz oder körperliche Ko-Regulation unmittelbar in die somatische Codierung zurückwirkt. Diese zirkuläre Figur macht das Modell anschlussfähig für alltagspraktische, intuitive oder nicht-theoretisch vermittelte Interaktionsformen – insbesondere im Bereich der Bindungs- und Beziehungsarbeit.
 
@@ -205,49 +205,57 @@ Die Kombination aus Schematherapie und Systemtheorie eröffnet somit eine method
 
 Die folgenden Beispiele verdeutlichen, wie die in Kapitel 2 hergeleiteten Strukturmerkmale eines Bedürfnisses – Unterscheidung, Kopplung, Codierung und konzeptionelle Handlung – in konkreten Fallkonstellationen beobachtbar und interpretierbar werden.
 
-- **Beispiel 1: Bindungsbedürfnis und das Schema der Verlassenheit**
+### 2.6.1 Bindungsbedürfnis und das Schema der Verlassenheit
 
-  Ein Kind, dessen Bedürfnis nach emotionaler Zuwendung und Sicherheit über längere Zeit nicht erfüllt wird, erlebt intern eine latente Unterscheidung zwischen einem gegenwärtigen Zustand (emotionale Unsicherheit) und einem präferierten Zustand (Bindung, Verlässlichkeit). Diese Differenz wird im Verlauf der Entwicklung durch wiederholte strukturelle Kopplung mit instabilen oder abweisenden Bezugspersonen stabilisiert. Das maladaptive Schema der Verlassenheit/Instabilität (Young et al., 2003) entsteht dabei als kognitive Repräsentation dieser Differenz.
+ Ein Kind, dessen Bedürfnis nach emotionaler Zuwendung und Sicherheit über längere Zeit nicht erfüllt wird, erlebt intern eine latente Unterscheidung zwischen einem gegenwärtigen Zustand (emotionale Unsicherheit) und einem präferierten Zustand (Bindung, Verlässlichkeit). Diese Differenz wird im Verlauf der Entwicklung durch wiederholte strukturelle Kopplung mit instabilen oder abweisenden Bezugspersonen stabilisiert. Das maladaptive Schema der Verlassenheit/Instabilität (Young et al., 2003) entsteht dabei als kognitive Repräsentation dieser Differenz.
 
-  Somatisch manifestiert sich dieses Bedürfnis etwa durch erhöhte Stressmarker wie Cortisol, chronische Anspannung oder Rückzugsverhalten (Damasio, 1994; Panksepp, 1998). Ausdruckshandlungen wie Klammern, regressives Verhalten oder emotionale Ambivalenz werden sozial lesbar, wenn sie im Kontext professioneller Deutung als Bedürfnis nach Bindung interpretiert werden. Daraus kann im pädagogischen oder therapeutischen Handlungsraum das Konzept „Beziehungsunsicherheit“ entstehen – als strukturierte Erwartung, die Interventionen leitet.
+ Somatisch manifestiert sich dieses Bedürfnis etwa durch erhöhte Stressmarker wie Cortisol, chronische Anspannung oder Rückzugsverhalten (Damasio, 1994; Panksepp, 1998). Ausdruckshandlungen wie Klammern, regressives Verhalten oder emotionale Ambivalenz werden sozial lesbar, wenn sie im Kontext professioneller Deutung als Bedürfnis nach Bindung interpretiert werden. Daraus kann im pädagogischen oder therapeutischen Handlungsraum das Konzept „Beziehungsunsicherheit“ entstehen d.h. als strukturierte Erwartung, die Interventionen leitet.
 
-- **Beispiel 2: Bedürfnis nach Selbstwertstabilisierung und das Schema des Anerkennungsstrebens**
+### 2.6.2 Bedürfnis nach Selbstwertstabilisierung und das Schema des Anerkennungsstrebens
 
-  Ein Erwachsener, der in seiner Biografie wiederholt nur dann Anerkennung erfahren hat, wenn er sich den Erwartungen anderer unterordnet, bildet eine latente Differenz zwischen Fremd- und Selbstbestimmung aus. Diese Unterscheidung bleibt zunächst unbewusst, strukturiert aber Wahrnehmung und Handlung. Die Kopplung an ein externalisiertes Bezugssystem (z. B. autoritäre Eltern, Leistungskontexte) stabilisiert ein Muster der Selbstverleugnung zugunsten von Zugehörigkeit.
+ Ein Erwachsener, der in seiner Biografie wiederholt nur dann Anerkennung erfahren hat, wenn er sich den Erwartungen anderer unterordnet, bildet eine latente Differenz zwischen Fremd- und Selbstbestimmung aus. Diese Unterscheidung bleibt zunächst unbewusst, strukturiert aber Wahrnehmung und Handlung. Die Kopplung an ein externalisiertes Bezugssystem (z.B. autoritäre Eltern, Leistungskontexte) stabilisiert ein Muster der Selbstverleugnung zugunsten von Zugehörigkeit.
 
-  Auf der Ebene somatischer Codierung zeigt sich dieses Muster in chronischer Anspannung, Nervosität oder psychosomatischen Stressreaktionen. Der daraus resultierende Modus ist häufig das „Angepasste Kind“, verbunden mit dem Schema „Streben nach Zustimmung und Anerkennung“. Professionell beobachtbar wird dieses Bedürfnis durch Verhalten wie Überanpassung, Perfektionismus oder Angst vor Kritik. Das daraus abgeleitete Konzept könnte „Selbstwertunsicherheit“ lauten – ein strukturierter Deutungsrahmen, der gezielte Unterstützung in pädagogischen oder beratenden Settings ermöglicht.
+ Auf der Ebene somatischer Codierung zeigt sich dieses Muster in chronischer Anspannung, Nervosität oder psychosomatischen Stressreaktionen. Der daraus resultierende Modus ist häufig das „Angepasste Kind“, verbunden mit dem Schema „Streben nach Zustimmung und Anerkennung“. Professionell beobachtbar wird dieses Bedürfnis durch Verhalten wie Überanpassung, Perfektionismus oder Angst vor Kritik. Das daraus abgeleitete Konzept könnte „Selbstwertunsicherheit“ lauten d.h. ein strukturierter Deutungsrahmen, der gezielte Unterstützung in pädagogischen oder beratenden Settings ermöglicht.
 
 # 3 Folgerungen
 
 Die vorangegangene Herleitung erlaubt, grundlegende Schlussfolgerungen im Hinblick auf die Theorie-, Praxis- und Erkenntnisstruktur von Bedürfnissen zu formulieren. Diese Folgerungen betreffen insbesondere das Verhältnis von Bedürfnis, Handlung und somatischer Codierung und markieren zentrale Denkbewegungen, die das hier entwickelte Modell trägt.
 
-- **Folgerung 1: Bedürfnisse sind nicht direkt beobachtbar, sondern funktional rekonstruierbar.**
-  Bedürfnisse liegen nicht offen zutage, sondern erscheinen als latente Differenz innerhalb lebender Systeme. Erst durch systemisch anschlussfähige Handlungen, also durch Ausdruck, Reaktion und Interpretation, können sie sichtbar gemacht und in professionelle Konzepte überführt werden. Daraus ergibt sich eine beobachtungstheoretische Perspektive auf Bedürfnisdiagnostik.
+**Bedürfnisse sind nicht direkt beobachtbar, sondern funktional rekonstruierbar.**
 
-- **Folgerung 2: Bedürfnisarbeit erfordert eine Kopplung von biologischer, psychischer und sozialer Ebene.**
-  Ein Bedürfnis lässt sich weder rein biologisch (z. B. über Marker wie Oxytocin) noch ausschließlich psychologisch (z. B. über subjektives Erleben) oder sozial (z. B. über Rollenerwartungen) bestimmen. Erst im Zusammenspiel dieser Ebenen wird Bedürfnisarbeit methodisch greifbar. Dies verlangt eine interdisziplinäre Perspektive, wie sie durch die Verbindung von Systemtheorie und Schematherapie ermöglicht wird.
+ Bedürfnisse liegen nicht offen zutage, sondern erscheinen als latente Differenz innerhalb lebender Systeme. Erst durch systemisch anschlussfähige Handlungen, also durch Ausdruck, Reaktion und Interpretation, können sie sichtbar gemacht und in professionelle Konzepte überführt werden. Daraus ergibt sich eine beobachtungstheoretische Perspektive auf Bedürfnisdiagnostik.
 
-- **Folgerung 3: Pädagogisch-therapeutische Handlungen wirken auf Codierungen zurück.**  
-  Professionelles Handeln ([[Professionalisierung]]) adressiert nicht nur kognitive Repräsentationen, sondern kann über ritualisierte Interaktionen auch auf die neurobiologische Codierung von Bedürfnissen einwirken. Die Trennung zwischen Deutung und Intervention wird damit systemisch aufgehoben: Eine Handlung ist dann nicht Ausdruck, sondern Teil der Regulation.
+**Bedürfnisarbeit erfordert eine Kopplung von biologischer, psychischer und sozialer Ebene.**
 
-- **Folgerung 4: Antinomien wie Nähe vs. Distanz sind funktional auflösbar.**
-  Was klassisch als Spannungsfeld gilt, lässt sich im Lichte der Kausalkette neu denken. Wenn Nähe als konkrete, körperlich adressierbare Antwort auf eine somatische Differenz begriffen wird, ist sie keine Haltung, sondern eine physiologische Intervention. Pädagogische Dilemmata lassen sich dadurch funktional rekonstruieren und handlungspraktisch entlasten.
+ Ein Bedürfnis lässt sich weder rein biologisch (z.B. über Marker wie Oxytocin) noch ausschließlich psychologisch (z.B. über subjektives Erleben) oder sozial (z.B. über Rollenerwartungen) bestimmen. Erst im Zusammenspiel dieser Ebenen wird Bedürfnisarbeit methodisch greifbar. Dies verlangt eine interdisziplinäre Perspektive, wie sie durch die Verbindung von Systemtheorie und Schematherapie ermöglicht wird.
 
-- **Folgerung 5: Konzeptbildung ist keine Interpretation, sondern eine Form der Kopplung.**
-  Wenn professionelle Begriffe wie „Beziehungsunsicherheit“ oder „Selbstwertinstabilität“ verwendet werden, handelt es sich nicht um bloße Diagnosen, sondern um strukturierte Reaktionsformen auf beobachtbare Ausdrucksformen. Konzepte sind damit nicht reduktionistisch, sondern ermöglichen Anschlussfähigkeit im Modus kontrollierter Unschärfe.
+**Pädagogisch-therapeutische Handlungen wirken auf Codierungen zurück.**
+
+ Professionelles Handeln ([[Professionalisierung]]) adressiert nicht nur kognitive Repräsentationen, sondern kann über ritualisierte Interaktionen auch auf die neurobiologische Codierung von Bedürfnissen einwirken. Die Trennung zwischen Deutung und Intervention wird damit systemisch aufgehoben: Eine Handlung ist dann nicht Ausdruck, sondern Teil der Regulation.
+
+**Antinomien wie Nähe vs. Distanz sind funktional auflösbar.**
+
+ Was klassisch als Spannungsfeld gilt, lässt sich im Lichte der Kausalkette neu denken. Wenn Nähe als konkrete, körperlich adressierbare Antwort auf eine somatische Differenz begriffen wird, ist sie keine Haltung, sondern eine physiologische Intervention. Pädagogische Dilemmata lassen sich dadurch funktional rekonstruieren und handlungspraktisch entlasten.
+
+**Konzeptbildung ist keine Interpretation, sondern eine Form der Kopplung.**
+
+ Wenn professionelle Begriffe wie „Beziehungsunsicherheit“ oder „Selbstwertinstabilität“ verwendet werden, handelt es sich nicht um bloße Diagnosen, sondern um strukturierte Reaktionsformen auf beobachtbare Ausdrucksformen. Konzepte sind damit nicht reduktionistisch, sondern ermöglichen Anschlussfähigkeit im Modus kontrollierter Unschärfe.
 
 # 4 Implikationen
 
 Die im vorangegangenen Kapitel formulierten theoretischen Folgerungen haben direkte Auswirkungen auf das pädagogische, therapeutische und sozialarbeiterische Handeln. Sie eröffnen neue Perspektiven auf Diagnostik, Beziehungsgestaltung und Intervention, ohne dabei normative Vorgaben zu machen. Implikationen betreffen somit nicht die Gültigkeit von Theorie, sondern deren Umsetzung unter Bedingungen professioneller Praxis.
 
-- **Implikation 1: Bedürfnisorientierung ermöglicht kontextsensitive Intervention.**
-  Wenn Bedürfnisse als latente Differenz, somatisch codiert und selektiv beobachtbar gedacht werden, lässt sich professionelles Handeln nicht mehr rein auf Verhaltensregulation stützen. Es bedarf gezielter Interventionen, die die individuelle Bedürfnisstruktur adressieren, etwa durch körperbasierte Ko-Regulation, ritualisierte Beziehungsgestaltung oder strukturelle Verlässlichkeit. Die Schematherapie liefert hierfür praktikable Konzepte (vgl. Roediger, 2010).
+**Bedürfnisorientierung ermöglicht kontextsensitive Intervention.**
 
-- **Implikation 2: Starre Bedürfnishierarchien sind praxisfern.**  
-  Die Vorstellung, dass Bedürfnisse in stufenförmiger Reihenfolge erfüllt werden müssen (Maslow, 1943), wird in der pädagogischen Praxis zunehmend problematisch. Die hier entwickelte Modelllogik legt nahe, dass Bedürfnisse als simultan wirksame Differenzlagen auftreten, die je nach Kontext unterschiedlich salient werden. Dies erfordert eine flexible, situationsbezogene Bedürfnisdiagnostik und keine schematische Bedürfnisabfolge[^2].
+ Wenn Bedürfnisse als latente Differenz, somatisch codiert und selektiv beobachtbar gedacht werden, lässt sich professionelles Handeln nicht mehr rein auf Verhaltensregulation stützen. Es bedarf gezielter Interventionen, die die individuelle Bedürfnisstruktur adressieren, etwa durch körperbasierte Ko-Regulation, ritualisierte Beziehungsgestaltung oder strukturelle Verlässlichkeit. Die Schematherapie liefert hierfür praktikable Konzepte (vgl. Roediger, 2010).
 
-- **Implikation 3: Prävention basiert auf der Lesbarkeit von Differenzen.**  
-  In sozialpädagogischen Handlungsfeldern ist die frühzeitige Erkennung von Bedürfnislagen zentral. Die hier entwickelte Systematik erlaubt es, Verhalten nicht vorschnell zu pathologisieren, sondern als Ausdruck einer verkörperten, noch nicht beantworteten Differenz zu lesen. Daraus ergeben sich präventive Möglichkeiten, etwa durch die Gestaltung sicherer Bindungserfahrungen, verlässlicher Übergänge oder affektiv abgestimmter Resonanzangebote (vgl. Roediger, 2010).
+**Starre Bedürfnishierarchien sind praxisfern.**
+
+ Die Vorstellung, dass Bedürfnisse in stufenförmiger Reihenfolge erfüllt werden müssen (Maslow, 1943), wird in der pädagogischen Praxis zunehmend problematisch. Die hier entwickelte Modelllogik legt nahe, dass Bedürfnisse als simultan wirksame Differenzlagen auftreten, die je nach Kontext unterschiedlich salient werden. Dies erfordert eine flexible, situationsbezogene Bedürfnisdiagnostik und keine schematische Bedürfnisabfolge[^2].
+
+**Prävention basiert auf der Lesbarkeit von Differenzen.**
+
+ In sozialpädagogischen Handlungsfeldern ist die frühzeitige Erkennung von Bedürfnislagen zentral. Die hier entwickelte Systematik erlaubt es, Verhalten nicht vorschnell zu pathologisieren, sondern als Ausdruck einer verkörperten, noch nicht beantworteten Differenz zu lesen. Daraus ergeben sich präventive Möglichkeiten, etwa durch die Gestaltung sicherer Bindungserfahrungen, verlässlicher Übergänge oder affektiv abgestimmter Resonanzangebote (vgl. Roediger, 2010).
 
 # 5 Kritik
 
@@ -261,7 +269,7 @@ Die enge Verbindung von Bedürfnissen mit somatischen Markern wie Oxytocin, Cort
 
 **Kulturalität und soziale Kontexte**
 
-Bedürfnisse erscheinen im Modell primär als individuell verankerte Orientierungen. Dass sie jedoch stets auch kulturell geformt, sozial vermittelt und historisch situiert sind, wird hier nur indirekt berücksichtigt. Es ließe sich einwenden, dass das Modell universelle Marker (z. B. Oxytocin) betont, ohne die kulturelle Codierung von Bedürfnissemantik ausreichend zu thematisieren.
+Bedürfnisse erscheinen im Modell primär als individuell verankerte Orientierungen. Dass sie jedoch stets auch kulturell geformt, sozial vermittelt und historisch situiert sind, wird hier nur indirekt berücksichtigt. Es ließe sich einwenden, dass das Modell universelle Marker (z.B. Oxytocin) betont, ohne die kulturelle Codierung von Bedürfnissemantik ausreichend zu thematisieren.
 
 **Agency und Selbstgestaltung**
 
@@ -301,24 +309,24 @@ Im Unterschied zu traditionellen Bedürfnistheorien, betont dieses Modell die Gl
 
 Damit bietet das Modell eine theoretisch fundierte und praktisch anschlussfähige Grundlage für Bedürfnisarbeit in pädagogischen, therapeutischen und sozialwissenschaftlichen Kontexten.
 
-# Quelle(n)
+# **Quelle(n)**
 
-- Metz-Göckel, H. (2022). Bedürfnis. In M. A. Wirtz (Hrsg.), _Dorsch Lexikon der Psychologie_. Hogrefe Verlag.
-- Roediger, E. (2010). _Raus aus den Lebensfallen: Das Schematherapie-Patientenbuch_. Junfermannsche Verlagsbuchhandlung.
-- Maslow, A. H. (1943). _A Theory of Human Motivation_.
-- Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). _Schematherapie: Ein kognitives Modell der emotionalen Störungen_. Klett-Cotta.
-- Damasio, A. R. (1994). _Descartes' Error: Emotion, Reason, and the Human Brain_. Putnam.
-- Panksepp, J. (1998). _Affective Neuroscience: The Foundations of Human and Animal Emotions_. Oxford University Press.
-- Luhmann, N. (1984). _Soziologische Aufklärung 1: Aufsätze zur Theorie sozialer Systeme_. Westdeutscher Verlag.
-- Luhmann, N. (1997). _Soziologische Aufklärung 2: Aufsätze zur Theorie sozialer Systeme_. Westdeutscher Verlag.
-- Maturana, H. R., & Varela, F. J. (1987). _The Tree of Knowledge: The Biological Roots of Human Understanding_.  Shambhala.
-- Deci, E. L., & Ryan, R. M. (1985). _Intrinsic Motivation and Self-Determination in Human Behavior_. Plenum Press.
-- Feldman, R. (2012). _Oxytocin and Social Affiliation in Humans_. In _Biological Psychology_ (S. 1-10). Elsevier.
-
-
+- Deci, E. L., & Ryan, R. M. (1985). _Intrinsic motivation and self-determination in human behavior_. Plenum Press.
+- Damasio, A. R. (1994). _Descartes’ error: Emotion, reason, and the human brain_. Putnam.
+- Feldman, R. (2012). Oxytocin and social affiliation in humans. In _Biological Psychology_ (pp. 1–10). Elsevier.
+- Heinrichs, M., Baumgartner, T., Kirschbaum, C., & Ehlert, U. (2003). Social support and oxytocin interact to suppress cortisol and subjective responses to psychosocial stress. _Biological Psychiatry, 54_(12), 1389–1398. https://doi.org/10.1016/S0006-3223(03)00465-7
+- Luhmann, N. (1984). _Soziologische Aufklärung 1: Aufsätze zur Theorie sozialer Systeme_. Westdeutscher Verlag.
+- Luhmann, N. (1997). _Soziologische Aufklärung 2: Aufsätze zur Theorie sozialer Systeme_. Westdeutscher Verlag.
+- Maslow, A. H. (1943). A theory of human motivation. _Psychological Review, 50_(4), 370–396. https://doi.org/10.1037/h0054346
+- Maturana, H. R., & Varela, F. J. (1987). _The tree of knowledge: The biological roots of human understanding_. Shambhala.
+- Metz-Göckel, H. (2022). Bedürfnis. In M. A. Wirtz (Hrsg.), _Dorsch Lexikon der Psychologie_. Hogrefe Verlag.
+- Panksepp, J. (1998). _Affective neuroscience: The foundations of human and animal emotions_. Oxford University Press.
+- Roediger, E. (2010). _Raus aus den Lebensfallen: Das Schematherapie-Patientenbuch_. Junfermannsche Verlagsbuchhandlung.
+- Uvnäs-Moberg, K., Handlin, L., & Petersson, M. (2005). Oxytocin, a mediator of anti-stress, well-being, social interaction, growth and healing. _Zentralblatt für Neurochirurgie, 66_(Suppl. 1), 29–31. https://doi.org/10.1055/s-2005-919540
+- Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). _Schematherapie: Ein kognitives Modell der emotionalen Störungen_. Klett-Cotta.
 
 [^1]: In einer späteren Version könnte eine explizitere begriffliche Differenzierung zwischen Konzept, Schema und Modus hilfreich sein, etwa in Form eines Mini-Glossars oder durch knappe Erläuterungen im Fließtext. Derzeit wird auf eine solche Klärung zugunsten der Lesbarkeit und Argumentationsdichte bewusst verzichtet.
-[^2]: Die weit verbreitete Darstellung einer Maslow’schen Bedürfnispyramide stammt nicht von Maslow selbst, sondern wurde später (vermutlich aus didaktischen Gründen) von Managementtheorien popularisiert. Maslow selbst hat in seinen Texten keine Pyramide gezeichnet und betonte die Dynamik, Überlappung und Reversibilität von Bedürfnissen; also genau das, was das hier entwickelte Modell ebenfalls stark macht.
+[^2]: Die weit verbreitete Darstellung einer Maslow'schen Bedürfnispyramide stammt nicht von Maslow selbst, sondern wurde später (vermutlich aus didaktischen Gründen) von Managementtheorien popularisiert. Maslow selbst hat in seinen Texten keine Pyramide gezeichnet und betonte die Dynamik, Überlappung und Reversibilität von Bedürfnissen; also genau das, was das hier entwickelte Modell ebenfalls stark macht.
 
 ---
 
