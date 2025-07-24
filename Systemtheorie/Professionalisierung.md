@@ -19,6 +19,7 @@ GPT: true
 created: 05.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 21.7.2025 | [published](https://zenodo.org/records/16284826): 27.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
 
 **Systemtheoretischer Professionalisierungsansatz**
+
 # Einleitung
 
 Professionen nehmen eine Schlüsselstellung in modernen Gesellschaften ein, da sie in zentralen Bereichen wie Gesundheit, Recht und Bildung wirken und maßgeblich zur sozialen Stabilität und Entwicklung beitragen. Die wissenschaftliche Auseinandersetzung mit Professionen hat zahlreiche Theorien hervorgebracht, die sich mit ihrer Entstehung, ihren Merkmalen und ihrer gesellschaftlichen Rolle befassen. Dabei dominieren in der traditionellen Forschung merkmalstheoretische, machttheoretische und funktionalistische Ansätze, die Professionen durch feste Eigenschaften oder normative Ideale definieren.  
