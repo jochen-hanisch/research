@@ -2,6 +2,7 @@
 import os
 
 # Import theme and all export_fig_... variables from central config before any use
+from ci_template.plotly_template import export_figure
 from config_korrelation import (
     theme,
     export_fig_visual,
@@ -58,26 +59,8 @@ def prepare_figure_export(fig, name):
     safe_filename = slugify(f"{name}_{bib_filename.replace('.bib', '')}")
     return f"{safe_filename}.html"
 
-# Zentrale Exportfunktion
 def export_and_transfer_figure(fig, function_name, export_flag):
-    # Plot immer anzeigen, unabhängig vom Exportflag
-    fig.show(config={"responsive": True})
-    print(f"🔄 Exportversuch: {function_name} | Aktiv: {export_flag}")
-
-    if export_flag:
-        export_path = prepare_figure_export(fig, function_name)
-        try:
-            fig.write_html(export_path, full_html=True, include_plotlyjs="cdn")
-            print(f"HTML gespeichert unter: {export_path}")
-
-            remote_path = "jochen-hanisch@sternenflottenakademie.local:/mnt/deep-space-nine/public/plot/promotion/"
-            result = subprocess.run(["scp", export_path, remote_path], check=True, capture_output=True, text=True)
-            print("✅ Übertragung erfolgreich")
-            # Nach erfolgreichem scp Transfer lokale Datei löschen
-            os.remove(export_path)
-            print(f"🗑️ Lokale Datei '{export_path}' wurde gelöscht.")
-        except Exception as e:
-            print(f"❌ Fehler: {str(e)}")
+    export_figure(fig, function_name, export_flag, export_fig_png)
 
 # BibTeX-Datei laden
 bib_path = os.path.join("Research", "Charité - Universitätsmedizin Berlin", "Systematische Literaturrecherche", "Bibliothek", bib_filename)

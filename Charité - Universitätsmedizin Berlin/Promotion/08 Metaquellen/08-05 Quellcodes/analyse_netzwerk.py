@@ -1,6 +1,8 @@
 
 from config_netzwerk import theme, export_fig_visual, bib_filename
 
+from ci_template.plotly_template import export_figure
+
 import os
 
 # Clear the terminal
@@ -61,20 +63,8 @@ from config_netzwerk import (
     export_fig_visualize_languages,
 )
 
-# Zentrale Exportfunktion für Visualisierungen
 def export_figure(fig, name, flag, bib_filename=None):
-    if flag:
-        export_path = prepare_figure_export(fig, name)
-        fig.write_html(export_path, full_html=True, include_plotlyjs="cdn")
-        remote_path = "jochen-hanisch@sternenflottenakademie.local:/mnt/deep-space-nine/public/plot/promotion/"
-        try:
-            subprocess.run(["scp", export_path, remote_path], check=True, capture_output=True, text=True)
-            print(f"✅ Datei '{export_path}' erfolgreich übertragen.")
-            os.remove(export_path)
-            print(f"🗑️ Lokale Datei '{export_path}' wurde gelöscht.")
-        except subprocess.CalledProcessError as e:
-            print("❌ Fehler beim Übertragen:")
-            print(e.stderr)
+    export_figure(fig, name, flag, export_fig_png)
 
 from ci_template.plotly_template import get_colors, get_plot_styles, get_standard_layout
 
