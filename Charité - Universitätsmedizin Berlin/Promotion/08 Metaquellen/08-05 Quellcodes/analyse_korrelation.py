@@ -6,6 +6,7 @@ from ci_template.plotly_template import export_figure
 from config_korrelation import (
     theme,
     export_fig_visual,
+    export_fig_png,
     export_fig_clusteranalyse,
     export_fig_correlation_suchbegriffe_kategorien,
     export_fig_correlation_fu_kategorien,
@@ -61,6 +62,7 @@ def prepare_figure_export(fig, name):
 
 def export_and_transfer_figure(fig, function_name, export_flag):
     export_figure(fig, function_name, export_flag, export_fig_png)
+    fig.show()
 
 # BibTeX-Datei laden
 bib_path = os.path.join("Research", "Charité - Universitätsmedizin Berlin", "Systematische Literaturrecherche", "Bibliothek", bib_filename)
@@ -436,7 +438,6 @@ def visualize_indizes_vs_indizes(export_flag):
         export_flag
     )
 
-
 #======================================
 
 cluster_colors = {
@@ -723,3 +724,7 @@ visualize_suchbegriffe_vs_suchbegriffe(export_flag=export_fig_correlation_suchbe
 visualize_kategorien_vs_kategorien(export_flag=export_fig_correlation_kategorien_kategorien)
 visualize_indizes_vs_indizes(export_flag=export_fig_correlation_indizes_indizes)
 plot_average_correlation_plotly(summary_df)
+
+# Visualisierungsoption für Plotly: Immer im Browser öffnen
+import plotly.io as pio
+pio.renderers.default = 'browser'

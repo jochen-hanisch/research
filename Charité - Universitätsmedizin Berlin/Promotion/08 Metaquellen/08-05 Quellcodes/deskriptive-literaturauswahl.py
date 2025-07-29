@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from datetime import date
 from scipy.stats.mstats import winsorize
+from scipy.stats import iqr
 
 # --- CI-Template & Konfiguration ---
 from ci_template.plotly_template import (
@@ -18,6 +19,7 @@ from ci_template.plotly_template import (
 )
 from ci_template.plotly_template import export_figure
 from config_deskriptive_literaturauswahl import theme, export_fig_visual
+from config_deskriptive_literaturauswahl import export_fig_png, export_fig_silhouette_plot
 
 # --- Initialisierung ---
 os.system('cls' if os.name == 'nt' else 'clear')
@@ -40,65 +42,110 @@ n_values = np.array([
 ])
 
 # --- Berechnungen ---
-q1 = np.percentile(sc_values, 25)
-q2 = np.percentile(sc_values, 50)
-q3 = np.percentile(sc_values, 75)
+# Berechne IQR und automatische untere/obere Grenzen
+sc_iqr = iqr(sc_values)
+q1_val = np.percentile(sc_values, 25)
+q3_val = np.percentile(sc_values, 75)
+lower_bound = q1_val - 1.5 * sc_iqr
+upper_bound = q3_val + 1.5 * sc_iqr
+sc_winsorized = np.clip(sc_values, lower_bound, upper_bound)
+median_winsorized = np.median(sc_winsorized)
+
+# Quartile
+q1 = q1_val
+q2 = np.median(sc_values)
+q3 = q3_val
 max_value = np.max(sc_values)
 min_value = np.min(sc_values)
 
-sc_winsorized = winsorize(sc_values, limits=[0.1, 0.1])
-median_winsorized = np.median(sc_winsorized)
-
-fatigue_threshold = 0.96
-circadian_optimum = 0.99
+# Schwellenwerte datenbasiert
+fatigue_threshold = q1  # oder eine alternative datenbasierte Schwelle
+circadian_optimum = q3  # oder np.percentile(sc_values, 90)
 
 # --- Visualisierung ---
 fig = go.Figure()
 
-# SC-Linie
-fig.add_trace(go.Scatter(x=years, y=sc_values, name='Silhouette-Scores',
-                         mode='lines+markers', yaxis='y1'))
+from ci_template.plotly_template import get_plot_styles
+styles = get_plot_styles()
 
-# n-Balken
-fig.add_trace(go.Bar(x=years, y=n_values, name='n-Werte (Fallzahlen)',
-                     yaxis='y2', opacity=0.3, marker_color=colors["depthArea"]))
+fig.add_trace(go.Scatter(
+    x=years,
+    y=n_values,
+    name='Fallzahlen (n)',
+    yaxis='y2',
+    mode='lines+markers',
+    line=dict(color=colors["secondaryLine"], width=1),
+    marker=dict(size=16, color=colors["secondaryLine"], symbol="square"),
+    showlegend=True
+))
 
 # Quartile & Bezugslinien
-fig.add_trace(go.Scatter(x=years, y=[q1]*len(years), mode='lines', name=f'SC Q1 = {q1:.4f}',
-                         line=dict(dash='dot', color='green'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name=f'SC Median (Q2) = {q2:.4f}',
-                         line=dict(dash='dot', color='blue'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[q3]*len(years), mode='lines', name=f'SC Q3 = {q3:.4f}',
-                         line=dict(dash='dot', color='purple'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[min_value]*len(years), mode='lines', name=f'SC Min = {min_value:.4f}',
-                         line=dict(dash='dash', color='red'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[max_value]*len(years), mode='lines', name=f'SC Max = {max_value:.4f}',
-                         line=dict(dash='dash', color='orange'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[fatigue_threshold]*len(years), mode='lines',
-                         name=f'Schwelle: Erschöpfungs-Bias = {fatigue_threshold:.4f}',
-                         line=dict(dash='dashdot', color='firebrick'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[circadian_optimum]*len(years), mode='lines',
-                         name=f'Idealer Wert (circadian) = {circadian_optimum:.4f}',
-                         line=dict(dash='dashdot', color='darkcyan'), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[median_winsorized]*len(years), mode='lines',
-                         name=f'Winsorisierter Median = {median_winsorized:.4f}',
-                         line=dict(dash='dot', color='black'), yaxis='y1'))
+fig.add_trace(go.Scatter(x=years, y=[q1]*len(years), mode='lines', name='SC Q1',
+                         line=dict(dash='dot', color=colors["brightArea"]), yaxis='y1'))
+fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='SC Median (Q2)',
+                         line=dict(dash='dot', color=colors["depthArea"]), yaxis='y1'))
+fig.add_trace(go.Scatter(x=years, y=[q3]*len(years), mode='lines', name='SC Q3',
+                         line=dict(dash='dot', color=colors["accent"]), yaxis='y1'))
+fig.add_trace(go.Scatter(
+    x=years,
+    y=[min_value]*len(years),
+    mode='lines',
+    name='SC Min',
+    line=dict(dash='dash', color=colors["negativeHighlight"]),
+    yaxis='y1'
+))
+fig.add_trace(go.Scatter(
+    x=years,
+    y=[max_value]*len(years),
+    mode='lines',
+    name='SC Max',
+    line=dict(dash='dash', color=colors["positiveHighlight"]),
+    yaxis='y1'
+))
+
+fig.add_trace(go.Scatter(
+    x=years,
+    y=sc_values,
+    name='Silhouette-Scores',
+    yaxis='y1',
+    mode='lines+markers',
+    line=dict(color=colors["primaryLine"], width=1),
+    marker=dict(size=16, color=colors["primaryLine"], symbol="circle"),
+    showlegend=True
+))
 
 # Layout
-fig.update_layout(
-    **get_standard_layout(
-        title=f"Silhouette-Scores und Fallzahlen (n={sum(n_values)}, Stand: {current_date})",
-        x_title="Jahr",
-        y_title="Silhouette-Score",
-        yaxis2=dict(
-            title="Fallzahlen (n)",
-            showgrid=False
-        )
+layout = get_standard_layout(
+    title="Silhouette-Scores und Fallzahlen pro Jahr",
+    x_title='Jahr',
+    y_title='Silhouette-Score',
+    yaxis2=dict(
+        title="Fallzahlen (n)",
+        showgrid=False,
+        title_standoff=20
     )
 )
-
-# Anzeige
-fig.show(config={"responsive": True})
+layout["font"] = {"size": 14, "color": colors['text']}
+layout["title"] = dict(text="Silhouette-Scores und Fallzahlen pro Jahr", font=dict(color=colors["text"]))
+layout["margin"] = dict(b=80, t=120, l=60, r=60)
+layout["xaxis"] = layout.get("xaxis", {})
+layout["xaxis"]["automargin"] = True
+layout["autosize"] = True
+layout["legend"] = dict(
+    x=1.05,
+    y=1.0,
+    xanchor="left",
+    yanchor="top",
+    orientation="v",
+    traceorder="normal",
+    itemclick="toggleothers",
+    itemdoubleclick="toggle"
+)
+fig.update_layout(**layout)
 
 # --- Export ---
 export_figure(fig, "silhouette_scores_und_fallzahlen", export_fig_silhouette_plot, export_fig_png)
+
+# (Hinweis: Balkenfarbe wird direkt im Bar-Trace gesetzt)
+
+fig.show(config={"responsive": True})
