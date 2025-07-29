@@ -71,6 +71,15 @@ min_value = np.min(sc_values)
 fatigue_threshold = q1  # oder eine alternative datenbasierte Schwelle
 circadian_optimum = q3  # oder np.percentile(sc_values, 90)
 
+# Neue Berechnung von delta_raw und delta_z
+delta_raw = sc_values - (n_values / np.max(n_values))
+delta_z = (delta_raw - np.mean(delta_raw)) / np.std(delta_raw)
+
+# --- Quartilsbasierte Schwellenwerte für delta_raw ---
+q1_delta = np.percentile(delta_raw, 25)
+q2_delta = np.median(delta_raw)
+q3_delta = np.percentile(delta_raw, 75)
+
 # --- Visualisierung ---
 fig = go.Figure()
 
@@ -83,15 +92,15 @@ fig.add_trace(go.Scatter(
     name='Fallzahlen (n)',
     yaxis='y2',
     mode='lines+markers',
-    line=dict(color=colors["secondaryLine"], width=1),
-    marker=dict(size=16, color=colors["secondaryLine"], symbol="square"),
+    line=dict(color=colors["primaryLine"], width=1),
+    marker=dict(size=16, color=colors["primaryLine"], symbol="square"),
     showlegend=True
 ))
 
 # Quartile & Bezugslinien
 fig.add_trace(go.Scatter(x=years, y=[q1]*len(years), mode='lines', name='SC Q1',
                          line=dict(dash='dot', color=colors["brightArea"]), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='SC Median (Q2)',
+fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='Q2',
                          line=dict(dash='dot', color=colors["depthArea"]), yaxis='y1'))
 fig.add_trace(go.Scatter(x=years, y=[q3]*len(years), mode='lines', name='SC Q3',
                          line=dict(dash='dot', color=colors["accent"]), yaxis='y1'))
@@ -123,31 +132,63 @@ fig.add_trace(go.Scatter(
     showlegend=True
 ))
 
-fig.add_trace(go.Scatter(
-    x=[None],
-    y=[None],
-    mode='lines',
+
+# 3. Abweichung ΔSCₙ – farbcodiert
+fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
+    line=dict(color=colors["positiveHighlight"], width=5),
+    name='ΔSCₙ: Optimal'
+))
+fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
+    line=dict(color=colors["secondaryLine"], width=5),
+    name='ΔSCₙ: Q2+ Bereich'
+))
+fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
     line=dict(color=colors["text"], width=5),
-    name='Abweichung (SC - n)',
-    showlegend=True
+    name='ΔSCₙ: Ambivalent'
+))
+fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
+    line=dict(color=colors["negativeHighlight"], width=5),
+    name='ΔSCₙ: Kritisch'
 ))
 
-# Direkte Differenz berechnen (ohne Normierung)
-# delta_values = sc_values - n_values
+# Berechne Quartile für SC und n
+sc_q2 = np.percentile(sc_values, 50)
+sc_q3 = np.percentile(sc_values, 75)
+n_q2 = np.percentile(n_values, 50)
+n_q3 = np.percentile(n_values, 75)
 
 for year, sc, n in zip(years, sc_values, n_values):
     delta = sc - (n / max(n_values))
+
+    if sc >= sc_q3 and n >= n_q3:
+        color = colors["positiveHighlight"]
+        label = "Optimal (SC & n ≥ Q3)"
+    elif sc < sc_q2 and n < n_q2:
+        color = colors["negativeHighlight"]
+        label = "Kritisch (SC & n < Q2)"
+    elif sc >= sc_q2 and n >= n_q2:
+        color = colors["secondaryLine"]
+        label = "Pragmatisch gut (Q2 ≤ SC & n < Q3)"
+    else:
+        color = colors["text"]
+        label = "Ambivalent (alle übrigen Fälle)"
+
+    if np.isclose(delta, q2_delta, atol=1e-3):
+        line_width = 7  # Bonus: Medianlinie hervorheben
+    else:
+        line_width = 5
+
     fig.add_trace(go.Scatter(
         x=[year, year],
         y=[0, delta],
         mode='lines',
-        line=dict(color=colors["text"], width=5),
+        line=dict(color=color, width=line_width),
         hoverinfo='text',
-        text=[f"( {year}, {delta:.4f} )"]*2,
+        text=[f"Jahr: {year}, ΔSCₙ: {delta:.4f}, {label}"]*2,
         yaxis='y3',
-        showlegend=False,
-        name='Abweichung (SC - n)'
+        showlegend=False
     ))
+    print(f"Jahr: {year}, SC: {sc:.4f}, n: {n}, Kategorie: {label}")
 
 # Layout
 layout = get_standard_layout(
@@ -167,7 +208,7 @@ layout["xaxis"] = layout.get("xaxis", {})
 layout["xaxis"]["automargin"] = True
 layout["autosize"] = True
 layout["legend"] = dict(
-    x=1.05,
+    x=1.1,
     y=1.0,
     xanchor="left",
     yanchor="top",
@@ -177,13 +218,13 @@ layout["legend"] = dict(
     itemdoubleclick="toggle"
 )
 layout["yaxis3"] = dict(
-    title="Abweichung (SC - n)",
+    title="Abweichung (ΔSCₙ)",
     overlaying="y",
     side="right",
     showgrid=False,
     zeroline=True,
     zerolinewidth=2,
-    zerolinecolor='gray',
+    zerolinecolor='grey',
     titlefont=dict(color=colors["text"]),
     tickfont=dict(color=colors["text"]),
     anchor="free",
