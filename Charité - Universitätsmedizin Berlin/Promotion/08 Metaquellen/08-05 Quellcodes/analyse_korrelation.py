@@ -1,8 +1,33 @@
 
 import os
 
+# Neue Exportfunktion: HTML in /tmp speichern, per SCP übertragen, PNG lokal speichern
+def export_figure(fig, name, export_flag_html, export_flag_png):
+    from config_korrelation import export_path_png
+    safe_filename = slugify(name)
+    remote_path = "johajo@sternenflottenakademie.local:/mnt/deep-space-nine/public/plot/promotion/"
+
+    if export_flag_html:
+        export_path_html = f"/tmp/{safe_filename}.html"
+        fig.write_html(export_path_html, full_html=True, include_plotlyjs="cdn")
+        try:
+            subprocess.run(["scp", export_path_html, remote_path], check=True)
+            print(f"✅ HTML-Datei '{export_path_html}' erfolgreich übertragen.")
+            os.remove(export_path_html)
+            print(f"🗑️ Lokale HTML-Datei '{export_path_html}' wurde gelöscht.")
+        except subprocess.CalledProcessError as e:
+            print("❌ Fehler beim HTML-Übertragen:")
+            print(e.stderr)
+
+    if export_flag_png:
+        export_path_png = os.path.join(export_path_png, f"{safe_filename}.png")
+        try:
+            fig.write_image(export_path_png, width=1200, height=800, scale=2)
+            print(f"✅ PNG-Datei lokal gespeichert: '{export_path_png}'")
+        except Exception as e:
+            print("❌ Fehler beim PNG-Export:", str(e))
+
 # Import theme and all export_fig_... variables from central config before any use
-from ci_template.plotly_template import export_figure
 from config_korrelation import (
     theme,
     export_fig_visual,
@@ -19,7 +44,8 @@ from config_korrelation import (
     export_fig_correlation_kategorien_kategorien,
     export_fig_correlation_indizes_indizes,
     export_fig_summary_plot,
-    bib_filename
+    bib_filename,
+    export_path_html
 )
 
 # Terminal leeren
@@ -61,7 +87,12 @@ def prepare_figure_export(fig, name):
     return f"{safe_filename}.html"
 
 def export_and_transfer_figure(fig, function_name, export_flag):
-    export_figure(fig, function_name, export_flag, export_fig_png)
+    export_figure(
+        fig,
+        function_name,
+        export_flag,
+        export_fig_png
+    )
     fig.show()
 
 # BibTeX-Datei laden

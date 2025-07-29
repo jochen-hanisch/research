@@ -1,7 +1,6 @@
 
 from config_netzwerk import theme, export_fig_visual, bib_filename
 
-from ci_template.plotly_template import export_figure as export_figure_ci
 
 import os
 
@@ -66,7 +65,24 @@ from config_netzwerk import (
 from config_netzwerk import export_fig_png
 
 def export_figure_local(fig, name, flag, bib_filename=None):
-    export_figure_ci(fig, name, flag, export_fig_png)
+    from config_netzwerk import export_path_html, export_path_png
+    if flag:
+        local_tmp_path = f"/tmp/{slugify(name)}.html"
+        fig.write_html(local_tmp_path, full_html=True, include_plotlyjs="cdn")
+        try:
+            subprocess.run(["scp", local_tmp_path, f"{export_path_html}/{slugify(name)}.html"], check=True)
+            print(f"✅ HTML-Datei erfolgreich übertragen.")
+            os.remove(local_tmp_path)
+            print(f"🗑️ Lokale HTML-Datei '{local_tmp_path}' wurde gelöscht.")
+        except subprocess.CalledProcessError as e:
+            print("❌ Fehler bei der Übertragung via SCP:", e)
+    if export_fig_png:
+        png_path = os.path.join(export_path_png, f"{slugify(name)}.png")
+        try:
+            fig.write_image(png_path, width=1200, height=800, scale=2)
+            print(f"✅ PNG-Datei exportiert nach: {png_path}")
+        except Exception as e:
+            print("❌ Fehler beim PNG-Export:", str(e))
 
 from ci_template.plotly_template import get_colors, get_plot_styles, get_standard_layout
 

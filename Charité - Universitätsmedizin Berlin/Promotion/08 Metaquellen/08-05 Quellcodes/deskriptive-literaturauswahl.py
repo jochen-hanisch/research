@@ -3,13 +3,14 @@
 # ===============================
 
 # --- System- und Modul-Imports ---
-import os
 import numpy as np
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from datetime import date
 from scipy.stats.mstats import winsorize
 from scipy.stats import iqr
+import os
+import subprocess
 
 # --- CI-Template & Konfiguration ---
 from ci_template.plotly_template import (
@@ -17,9 +18,14 @@ from ci_template.plotly_template import (
     get_colors,
     set_theme
 )
-from ci_template.plotly_template import export_figure
-from config_deskriptive_literaturauswahl import theme, export_fig_visual
-from config_deskriptive_literaturauswahl import export_fig_png, export_fig_silhouette_plot
+from config_deskriptive_literaturauswahl import (
+    theme,
+    export_fig_visual,
+    export_fig_png,
+    export_fig_silhouette_plot,
+    export_path_html,
+    export_path_png
+)
 
 # --- Initialisierung ---
 os.system('cls' if os.name == 'nt' else 'clear')
@@ -143,9 +149,30 @@ layout["legend"] = dict(
 )
 fig.update_layout(**layout)
 
+
+# --- Export-Funktion ---
+def export_figure(fig, name, export_flag_html, export_flag_png):
+    from config_deskriptive_literaturauswahl import export_path_png, export_path_html
+    safe_name = name.replace(" ", "_").replace("/", "_").lower()
+    html_path = f"/tmp/{safe_name}.html"
+    if export_flag_html:
+        fig.write_html(html_path, include_plotlyjs='cdn', config={"responsive": True})
+        try:
+            subprocess.run(["scp", html_path, export_path_html], check=True)
+            print(f"✅ HTML-Datei '{html_path}' erfolgreich übertragen.")
+            os.remove(html_path)
+            print(f"🗑️ Lokale HTML-Datei '{html_path}' wurde gelöscht.")
+        except subprocess.CalledProcessError as e:
+            print("❌ Fehler beim HTML-Übertragen:")
+            print(e.stderr)
+    if export_flag_png:
+        png_path = os.path.join(export_path_png, f"{safe_name}.png")
+        try:
+            fig.write_image(png_path, scale=2)
+            print(f"✅ PNG-Datei lokal gespeichert: '{png_path}'")
+        except Exception as e:
+            print("❌ Fehler beim PNG-Export:", str(e))
+
 # --- Export ---
 export_figure(fig, "silhouette_scores_und_fallzahlen", export_fig_silhouette_plot, export_fig_png)
-
-# (Hinweis: Balkenfarbe wird direkt im Bar-Trace gesetzt)
-
-fig.show(config={"responsive": True})
+fig.show()
