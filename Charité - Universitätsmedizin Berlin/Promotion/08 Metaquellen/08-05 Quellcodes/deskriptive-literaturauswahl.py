@@ -47,6 +47,9 @@ n_values = np.array([
     95, 202, 303, 377, 430, 899, 780, 192
 ])
 
+# --- Berechnung der euklidischen Distanz zwischen SC und n ---
+distances = np.sqrt((sc_values - sc_values.mean())**2 + (n_values - n_values.mean())**2)
+
 # --- Berechnungen ---
 # Berechne IQR und automatische untere/obere Grenzen
 sc_iqr = iqr(sc_values)
@@ -120,6 +123,32 @@ fig.add_trace(go.Scatter(
     showlegend=True
 ))
 
+fig.add_trace(go.Scatter(
+    x=[None],
+    y=[None],
+    mode='lines',
+    line=dict(color=colors["text"], width=5),
+    name='Abweichung (SC - n)',
+    showlegend=True
+))
+
+# Direkte Differenz berechnen (ohne Normierung)
+# delta_values = sc_values - n_values
+
+for year, sc, n in zip(years, sc_values, n_values):
+    delta = sc - (n / max(n_values))
+    fig.add_trace(go.Scatter(
+        x=[year, year],
+        y=[0, delta],
+        mode='lines',
+        line=dict(color=colors["text"], width=5),
+        hoverinfo='text',
+        text=[f"( {year}, {delta:.4f} )"]*2,
+        yaxis='y3',
+        showlegend=False,
+        name='Abweichung (SC - n)'
+    ))
+
 # Layout
 layout = get_standard_layout(
     title="Silhouette-Scores und Fallzahlen pro Jahr",
@@ -133,7 +162,7 @@ layout = get_standard_layout(
 )
 layout["font"] = {"size": 14, "color": colors['text']}
 layout["title"] = dict(text="Silhouette-Scores und Fallzahlen pro Jahr", font=dict(color=colors["text"]))
-layout["margin"] = dict(b=80, t=120, l=60, r=60)
+layout["margin"] = dict(b=80, t=120, l=60, r=100)
 layout["xaxis"] = layout.get("xaxis", {})
 layout["xaxis"]["automargin"] = True
 layout["autosize"] = True
@@ -147,8 +176,20 @@ layout["legend"] = dict(
     itemclick="toggleothers",
     itemdoubleclick="toggle"
 )
+layout["yaxis3"] = dict(
+    title="Abweichung (SC - n)",
+    overlaying="y",
+    side="right",
+    showgrid=False,
+    zeroline=True,
+    zerolinewidth=2,
+    zerolinecolor='gray',
+    titlefont=dict(color=colors["text"]),
+    tickfont=dict(color=colors["text"]),
+    anchor="free",
+    position=1.0
+)
 fig.update_layout(**layout)
-
 
 # --- Export-Funktion ---
 def export_figure(fig, name, export_flag_html, export_flag_png):
