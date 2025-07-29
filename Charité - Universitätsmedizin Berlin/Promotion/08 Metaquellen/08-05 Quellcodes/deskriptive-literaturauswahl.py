@@ -152,8 +152,8 @@ fig.update_layout(**layout)
 
 # --- Export-Funktion ---
 def export_figure(fig, name, export_flag_html, export_flag_png):
-    from config_deskriptive_literaturauswahl import export_path_png, export_path_html
-    safe_name = name.replace(" ", "_").replace("/", "_").lower()
+    from slugify import slugify
+    safe_name = slugify(name)
     html_path = f"/tmp/{safe_name}.html"
     if export_flag_html:
         fig.write_html(html_path, include_plotlyjs='cdn', config={"responsive": True})
@@ -175,4 +175,5 @@ def export_figure(fig, name, export_flag_html, export_flag_png):
 
 # --- Export ---
 export_figure(fig, "silhouette_scores_und_fallzahlen", export_fig_silhouette_plot, export_fig_png)
+
 fig.show()

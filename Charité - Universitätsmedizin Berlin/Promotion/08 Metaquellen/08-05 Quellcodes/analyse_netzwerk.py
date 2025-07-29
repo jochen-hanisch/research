@@ -66,18 +66,20 @@ from config_netzwerk import export_fig_png
 
 def export_figure_local(fig, name, flag, bib_filename=None):
     from config_netzwerk import export_path_html, export_path_png
+    # Einmalige Definition von safe_filename am Anfang der Funktion
+    safe_filename = prepare_figure_export(fig, name).replace(".html", "")
     if flag:
-        local_tmp_path = f"/tmp/{slugify(name)}.html"
+        local_tmp_path = f"/tmp/{safe_filename}.html"
         fig.write_html(local_tmp_path, full_html=True, include_plotlyjs="cdn")
         try:
-            subprocess.run(["scp", local_tmp_path, f"{export_path_html}/{slugify(name)}.html"], check=True)
+            subprocess.run(["scp", local_tmp_path, f"{export_path_html}/{safe_filename}.html"], check=True)
             print(f"✅ HTML-Datei erfolgreich übertragen.")
             os.remove(local_tmp_path)
             print(f"🗑️ Lokale HTML-Datei '{local_tmp_path}' wurde gelöscht.")
         except subprocess.CalledProcessError as e:
             print("❌ Fehler bei der Übertragung via SCP:", e)
     if export_fig_png:
-        png_path = os.path.join(export_path_png, f"{slugify(name)}.png")
+        png_path = os.path.join(export_path_png, f"{safe_filename}.png")
         try:
             fig.write_image(png_path, width=1200, height=800, scale=2)
             print(f"✅ PNG-Datei exportiert nach: {png_path}")

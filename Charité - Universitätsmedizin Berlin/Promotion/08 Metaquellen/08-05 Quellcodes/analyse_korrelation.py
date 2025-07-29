@@ -3,9 +3,17 @@ import os
 
 # Neue Exportfunktion: HTML in /tmp speichern, per SCP übertragen, PNG lokal speichern
 def export_figure(fig, name, export_flag_html, export_flag_png):
-    from config_korrelation import export_path_png
-    safe_filename = slugify(name)
+    # Lokale Implementierung der Exportlogik inkl. Bib-Quelle im Titel und Dateinamen
+    from config_korrelation import export_path_png, bib_filename
+    from slugify import slugify
     remote_path = "johajo@sternenflottenakademie.local:/mnt/deep-space-nine/public/plot/promotion/"
+
+    # Titel ggf. um Quelle ergänzen
+    if fig.layout.title and fig.layout.title.text:
+        if f"| Quelle: {bib_filename.replace('.bib', '')}" not in fig.layout.title.text:
+            fig.update_layout(title_text=f"{fig.layout.title.text} | Quelle: {bib_filename.replace('.bib', '')}")
+
+    safe_filename = slugify(f"{name}_{bib_filename.replace('.bib', '')}")
 
     if export_flag_html:
         export_path_html = f"/tmp/{safe_filename}.html"
@@ -20,10 +28,10 @@ def export_figure(fig, name, export_flag_html, export_flag_png):
             print(e.stderr)
 
     if export_flag_png:
-        export_path_png = os.path.join(export_path_png, f"{safe_filename}.png")
+        export_path_png_full = os.path.join(export_path_png, f"{safe_filename}.png")
         try:
-            fig.write_image(export_path_png, width=1200, height=800, scale=2)
-            print(f"✅ PNG-Datei lokal gespeichert: '{export_path_png}'")
+            fig.write_image(export_path_png_full, width=1200, height=800, scale=2)
+            print(f"✅ PNG-Datei lokal gespeichert: '{export_path_png_full}'")
         except Exception as e:
             print("❌ Fehler beim PNG-Export:", str(e))
 
@@ -702,11 +710,14 @@ summary_df = pd.DataFrame({
 
 # Plotly-Version für interaktive Darstellung
 def plot_average_correlation_plotly(summary_df):
+    from config_korrelation import export_path_png
+    from config_korrelation import bib_filename as global_bib_filename
+    from slugify import slugify
     fig = px.bar(
         summary_df,
         x="Korrelationstyp",
         y="Durchschnittliche Korrelation",
-        title=f"Durchschnittliche Korrelationen pro Korrelationstyp (n={len(summary_df)}, Stand: {current_date}) | Quelle: {bib_filename.replace('.bib', '')}",
+        title=f"Durchschnittliche Korrelationen pro Korrelationstyp (n={len(summary_df)}, Stand: {current_date}) | Quelle: {global_bib_filename.replace('.bib', '')}",
         labels={"Korrelationstyp": "Korrelationstyp", "Durchschnittliche Korrelation": "Durchschnittliche Korrelation"},
         color="Durchschnittliche Korrelation",
         color_continuous_scale=[
@@ -718,7 +729,7 @@ def plot_average_correlation_plotly(summary_df):
 
     fig.update_layout(
         get_standard_layout(
-            title=f"Durchschnittliche Korrelationen pro Korrelationstyp (n={len(summary_df)}, Stand: {current_date}) | Quelle: {bib_filename.replace('.bib', '')}",
+            title=f"Durchschnittliche Korrelationen pro Korrelationstyp (n={len(summary_df)}, Stand: {current_date}) | Quelle: {global_bib_filename.replace('.bib', '')}",
             x_title="Korrelationstyp",
             y_title="Durchschnittliche Korrelation"
         ),
@@ -740,6 +751,10 @@ def plot_average_correlation_plotly(summary_df):
         "summary_plot",
         export_fig_summary_plot
     )
+    # PNG-Export ergänzen
+    png_path = os.path.join(export_path_png, f"{slugify('summary_plot_' + global_bib_filename.replace('.bib', ''))}.png")
+    fig.write_image(png_path, width=1200, height=800, scale=2)
+    print(f"✅ PNG-Summary-Datei gespeichert unter: {png_path}")
 
 #============================
 # Aufruf Alle möglichen bivariaten Korrelationen visualisieren
