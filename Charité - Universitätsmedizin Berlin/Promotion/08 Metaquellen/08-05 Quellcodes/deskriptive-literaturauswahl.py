@@ -100,7 +100,7 @@ fig.add_trace(go.Scatter(
 # Quartile & Bezugslinien
 fig.add_trace(go.Scatter(x=years, y=[q1]*len(years), mode='lines', name='SC Q1',
                          line=dict(dash='dot', color=colors["brightArea"]), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='Q2',
+fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='SC Q2',
                          line=dict(dash='dot', color=colors["depthArea"]), yaxis='y1'))
 fig.add_trace(go.Scatter(x=years, y=[q3]*len(years), mode='lines', name='SC Q3',
                          line=dict(dash='dot', color=colors["accent"]), yaxis='y1'))
