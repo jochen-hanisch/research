@@ -101,7 +101,7 @@ Die folgende Tabelle gibt einen Überblick über den gegenwärtigen Stand aller 
 | 4.2 Forschungsdesign                                               |        | offen                                                |
 | 4.2.1 Dynamischer, zirkulär-iterativer Forschungsprozess           |        | offen                                                |
 | 4.2.2 Forschungsunterfragen und ihre Methoden                      |        | offen                                                |
-| 4.3 Datenerhebung und -aufbereitung                                |        | offen                                                |
+| 4.3 Datenerhebung und -aufbereitung                                | 3      | in Bearbeitung                                       |
 | 4.3.1 Literaturanalyse und KI-gestützte Methoden                   | 3      | in Bearbeitung                                       |
 | 4.3.2 Empirische Methoden                                          |        | offen                                                |
 | 4.3.3 Simulation und Datenintegration                              |        | offen                                                |
