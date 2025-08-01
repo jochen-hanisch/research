@@ -16,7 +16,7 @@ tags:
 published: 2025-08-01
 ---
 
-created: 31.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 31.7.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 31.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 31.7.2025 | [published](https://zenodo.org/records/16693320):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Kollektive Reaktionsmuster im Schwarmverhalten. Eine systemtheoretische Rekonstruktion**
 
