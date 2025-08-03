@@ -23,6 +23,8 @@ created: 31.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/rese
 
 # Kontext
 
+Diese Fallstudie analysiert die empirische Untersuchung von Pacher et al. (2025) zum kollektiven Entscheidungsverhalten von Fischschwärmen und interpretiert sie im Licht systemtheoretischer Konzepte: [[Elementaroperationen]], [[Elementarkommunikation]], [[Lernen als universelles Prinzip]] und [[Systemintelligenz]]. Die betrachtete Studie zeigt, dass größere Schwärme schneller und präziser auf Bedrohungen reagieren, ohne dabei ihre Fehlerrate zu erhöhen; ein Verhalten, das sich durch klassische Reiz-Reaktionsmodelle nicht vollständig erklären lässt.
+
 ```mermaid
 flowchart TD
   EO[[Elementaroperationen]]
@@ -37,9 +39,7 @@ flowchart TD
 
 *Abbildung 1: Systematische Architektur der Theorieelemente (eig. Darstellung)*
 
-Diese Fallstudie analysiert die empirische Untersuchung von Pacher et al. (2025) zum kollektiven Entscheidungsverhalten von Fischschwärmen und interpretiert sie im Licht dreier systemtheoretischer Konzepte: [[Elementaroperationen]], [[Lernen als universelles Prinzip]] und [[Systemintelligenz]]. Die Studie zeigt, dass größere Schwärme schneller und präziser auf Bedrohungen reagieren, ohne dabei ihre Fehlerrate zu erhöhen; ein Verhalten, das sich durch klassische Reiz-Reaktionsmodelle nicht vollständig erklären lässt.
-
-Die Darstellung 1 zeigt die architektonische Gliederung der Theorie. [[Elementaroperationen]] beschreiben die minimalen Einheiten kollektiver Reaktion. [[Elementarkommunikation]] erklärt, wie aus Reaktionen operative Anschlussfähigkeit entsteht. [[Lernen als universelles Prinzip]] deutet die Strukturveränderung durch Wiederholung als Reentry. Auf dieser Basis kann [[Systemintelligenz]] als emergente Selbstanpassung unter Umweltkomplexität verstanden werden.
+Abbildung 1 verdeutlicht die architektonische Gliederung der Fallstudie. [[Elementaroperationen]] beschreiben die minimalen Einheiten kollektiver Reaktion. [[Elementarkommunikation]] erklärt, wie aus Reaktionen operative Anschlussfähigkeit entsteht. [[Lernen als universelles Prinzip]] deutet die Strukturveränderung durch Wiederholung als Reentry. Auf dieser Basis kann [[Systemintelligenz]] als emergente Selbstanpassung unter Umweltkomplexität verstanden werden.
 
 Durch die Linse der [[Elementaroperationen]] lassen sich die beobachteten Verhaltensmuster als zyklische Folge von Feedback, Inversion, Reflexion, Re-Inversion und Re-entry rekonstruieren. Auf dieser Basis wird ersichtlich, dass das System nicht nur reagiert, sondern seine eigene Reaktionsweise über wiederholte Operationen strukturell verändert; ein Lernen ohne Gedächtnis, das durch operative Rückkopplung geschieht.
 
@@ -48,9 +48,9 @@ In der Perspektive der [[Systemintelligenz]] wird deutlich, dass der Schwarm nic
 Die Studie dient damit als verbindendes Glied zwischen drei zentralen Theoriebausteinen:
 
 - [[Elementaroperationen]]: Die beobachteten Reaktionssequenzen lassen sich strukturell als zyklische Folge von Feedback, Inversion, Reflexion, Re-Inversion und Re-entry deuten.
+- [[Elementarkommunikation]]: Die Anschlussfähigkeit des Systems basiert auf der Fähigkeit, Reaktionen nicht als Mitteilungen, sondern als operativ anschlussfähige Ereignisse zu verarbeiten – jede Reaktion erzeugt die Bedingung der nächsten.
 - [[Lernen als universelles Prinzip]]: Wiederholte Re-entry-Schleifen führen zu systemischer Strukturmodifikation und folglich zu einem Lernen ohne Repräsentation.
 - [[Systemintelligenz]]: Die Reaktionsmuster der Schwärme weisen auf eine emergente Intelligenz des Systems hin, verstanden als operative Selbstanpassung unter Umweltkomplexität.
-- [[Elementarkommunikation]]: Die Anschlussfähigkeit des Systems basiert auf der Fähigkeit, Reaktionen nicht als Mitteilungen, sondern als operativ anschlussfähige Ereignisse zu verarbeiten – jede Reaktion erzeugt die Bedingung der nächsten.
 
 Damit kann die Studie als exemplarisches Anwendungsfeld für die Gültigkeit und Verknüpfbarkeit der vier Theorieebenen herangezogen werden.
 
