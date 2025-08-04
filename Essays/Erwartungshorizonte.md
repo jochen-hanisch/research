@@ -1,6 +1,6 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Erwartungshorizonte. Eine konfrontatives Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen
+title: Erwartungshorizonte. Ein konfrontatives Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-01-11
 updated: 2025-08-04
@@ -21,7 +21,7 @@ published:
 
 created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.7.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
-**Erwartungshorizonte. Eine konfrontatives Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen**
+**Erwartungshorizonte. Ein konfrontatives Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen**
 
 # Einleitung
 
@@ -29,7 +29,7 @@ Erwartungshorizonte wurden mit dem Anspruch eingeführt, Fairness und Vergleichb
 
 > [!question] Wie kann Kompetenz gefordert und zugleich mit starren Erwartungshorizonten die Reflexion und Kreativität der Geprüften blockiert werden?
 
- Dabei reduzieren Erwartungshorizonte situatives Handeln, verhindern reflexionsbasierte Lösungsansätze und widersprechen modernen Bildungszielen ebenso wie rechtlichen und ethischen Grundsätzen. Dieses Essay zeigt, warum Erwartungshorizonte obsolet sind und wie reflexionsbasierte Prüfungen eine gerechtere und kompetenzfördernde Alternative darstellen.
+Dabei reduzieren Erwartungshorizonte situatives Handeln, verhindern reflexionsbasierte Lösungsansätze und widersprechen modernen Bildungszielen ebenso wie rechtlichen und ethischen Grundsätzen. Dieser Beitrag zeigt, weshalb Erwartungshorizonte obsolet sind und wie reflexionsbasierte Prüfungen eine gerechtere und kompetenzfördernde Alternative darstellen.
 
 Im Zentrum steht hier der Begriff der Reflexion, der als bewusste Auseinandersetzung mit Erfahrung, begründetes Entscheiden und epistemisch verantwortbares Handeln verstanden werden soll.
 
@@ -121,11 +121,11 @@ Diese zweistufige Struktur, inhaltliche Tiefe plus reflexives Niveau, ermöglich
 
 Die Leistung besteht nicht in der Reproduktion von Wissen, sondern in der Relation zwischen Gelerntem, Situation und Begründung, genau darin liegt ihr erkenntnistheoretischer Kern.
 
-Diese Form der Leistungsbeschreibung ist anschlussfähig an den erkenntnisbasierten Aufgabenzyklus (EBA-Zyklus), der Denkbewegungen in sechs aufeinander bezogene Phasen strukturiert und damit ein reflexives Prüfungsdesign ermöglicht.
+Was hier in der Leistungsbeschreibung sichtbar wird, setzt sich im EBA-Zyklus fort. Eine Prüfungsarchitektur, die Denkbewegungen sichtbar macht, in der gleichzeitig Ergebnisse und Wege zählen.
 
 # Vorteile reflexionsbasierter Prüfungen
 
-Reflexionsbasierte Prüfungen sind keine bloße Alternative, sondern ein folgerichtiges Prüfungsformat im Kontext moderner Kompetenztheorie. Sie bringen Vorteile mit sich, die weit über Didaktik und Fairness hinausreichen und adressieren zentrale Anforderungen an Bildungsprozesse im 21. Jahrhundert:
+Reflexionsbasierte Prüfungen stellen keineswegs nur eine methodische Alternative dar, sondern vielmehr ein folgerichtiges Prüfungsformat im Kontext moderner Kompetenztheorie. Sie bringen Vorteile mit sich, die weit über Didaktik und Fairness hinausreichen und adressieren zentrale Anforderungen an Bildungsprozesse im 21. Jahrhundert:
 
 1. **Stärkung von Eigenverantwortung und Urteilskraft:**
    - Anstelle von Reproduktion fördern reflexionsbasierte Prüfungen die Fähigkeit, begründet zu entscheiden, Verantwortung zu übernehmen und komplexe Situationen eigenständig zu analysieren, wie zentrale Merkmale professioneller Handlungskompetenz.
@@ -139,9 +139,9 @@ Reflexionsbasierte Prüfungen sind keine bloße Alternative, sondern ein folgeri
 4. **Anschlussfähigkeit an reale Praxis:**
    - Die Prüfungsform orientiert sich an den Unsicherheiten, Dynamiken und Widersprüchen beruflicher Realität. Sie bereitet nicht auf das Bestehen von Prüfungen vor, sondern auf die Bewährung in offenen Handlungssituationen.
 
-Reflexionsbasierte Prüfungen tragen nicht bloß zu fairer Bewertung bei, sie fördern zugleich systematisch die Fähigkeit, in komplexen Situationen verantwortungsvoll zu handeln, und machen sichtbar, was Kompetenz im eigentlichen Sinne bedeutet.
+Reflexionsbasierte Prüfungen leisten einen wesentlichen Beitrag zu fairen Bewertungsverfahren. Sie fördern gezielt die Fähigkeit, in komplexen Situationen verantwortlich zu handeln, und machen jene reflexive Urteilskraft sichtbar, die Kompetenz im eigentlichen Sinne auszeichnet.
 
-# Konfrontation: Weshalb halten wir an Erwartungshorizonten fest?
+# Konfrontation: Weshalb am Erwartungshorizonten festhalten?
 
 Wenn Erwartungshorizonte pädagogisch, rechtlich und systemisch problematisch sind, weshalb werden sie dennoch weiterhin verwendet? Die Antwort liegt weniger in fachlichen Notwendigkeiten als in strukturellen und kulturellen Dynamiken des Bildungssystems selbst:
 
@@ -159,7 +159,7 @@ Wenn Erwartungshorizonte pädagogisch, rechtlich und systemisch problematisch si
 
 Diese Faktoren machen deutlich, dass der Widerstand gegen reflexionsbasierte Prüfungen kein Ausdruck pädagogischer Einsicht ist, sondern Resultat kultureller Stabilisierung von Bewertungssystemen, gerade auch gegen bessere Erkenntnis.
 
-Erwartungshorizonte sind nicht nur didaktisch überholt, sondern systemisch schädlich für die Entwicklung jener Kompetenzen, die in einer komplexen, dynamischen Welt gebraucht werden. Sie zementieren ein Prüfverständnis, das auf Reproduktion statt auf Reflexion setzt und verhindern damit genau jene Lernbewegungen, die moderne Bildung eigentlich ermöglichen soll. Reflexionsbasierte Prüfungen eröffnen eine Alternative, die nicht weniger fordert, sondern anders; mehr Verantwortung, mehr Begründung, mehr Wirklichkeitsbezug.
+Erwartungshorizonte sind keineswegs bloß verzichtbar, sie erweisen sich als systematisch schädlich für die Entwicklung jener Kompetenzen, die in einer komplexen, dynamischen Welt gebraucht werden. Sie zementieren ein Prüfverständnis, das auf Reproduktion statt auf Reflexion setzt und verhindern damit genau jene Lernbewegungen, die moderne Bildung eigentlich ermöglichen soll. Reflexionsbasierte Prüfungen eröffnen eine Alternative, die nicht weniger fordert, sondern anders; mehr Verantwortung, mehr Begründung, mehr Wirklichkeitsbezug.
 
 Bildungseinrichtungen müssen den Mut aufbringen, sich von der Illusion objektiver Bewertbarkeit durch Erwartungshorizonte zu verabschieden. Stattdessen braucht es ein prüfungsdidaktisches Umdenken, das das Lernen als offenen, verantwortbaren Weltbezug ernst nimmt. Die Transformation von Prüfungsformaten ist daher keine bloß didaktische Reform, sondern ein ethischer Imperativ gegenüber den Lernenden und gegenüber einer Gesellschaft, die auf kritisch-reflexives Handeln angewiesen ist.
 
@@ -177,7 +177,7 @@ Die Rolle der Prüfenden verschiebt sich dabei grundlegend. Sie begleiten den Pr
 
 > [!question] Wie angemessen, begründet und verantwortlich wurde mit dem Erkenntnisziel umgegangen?
 
-Der EBA-Zyklus operationalisiert damit den Anspruch reflexionsbasierter Prüfungen; dieser schafft Struktur ohne Vorwegnahme, fordert Tiefe statt Reproduktion und verschiebt die Bewertung vom Ergebnis hin zur erkenntnisoffenen Nachvollziehbarkeit.
+Der EBA-Zyklus operationalisiert damit den Anspruch reflexionsbasierter Prüfungen; dieser geht über bloße Strukturierung hinaus: Er fordert Tiefe statt Reproduktion und verlagert die Bewertung weg vom Ergebnis, hin zur erkenntnisoffenen Nachvollziehbarkeit.
 
 # Zusammenfassung
 
@@ -185,16 +185,18 @@ Die Einführung reflexionsbasierter Prüfungen erfordert neue Bewertungspraktike
 
 # Quelle(n)
 
+- Arnold, R. (2014). Entgrenzte Bildung: Lernen im Dialog. Schneider Verlag Hohengehren.
 - Arnold, R., & Schüßler, I. (2021). Kompetenzentwicklung und Kompetenzmessung: Theorie und Praxis (3. Aufl.). Schneider Verlag Hohengehren.
--  Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter (NotSan-APrV), BGBl. I Nr. 148, S. 4280 (2023). https://www.gesetze-im-internet.de/notsan-aprv/NotSan-APrV.pdf
+- Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter (NotSan-APrV), BGBl. I Nr. 148, S. 4280 (2023). https://www.gesetze-im-internet.de/notsan-aprv/NotSan-APrV.pdf
 - Bourdieu, P., & Passeron, J.-C. (1971). Die Reproduktion: Elemente für eine Theorie des Bildungssystems. Suhrkamp.
 - Ditscheid, T. (2021). Prüfungsrecht in der beruflichen Bildung: Grundlagen, Verfahren, Rechtsschutz. wbv Media.
+- Erpenbeck, J. (2007). Die Kompetenzrevolution: Der Weg zur neuen Lernkultur. Klett-Cotta.
 - Erpenbeck, J., & Sauter, W. (2013). Kompetenzentwicklung im Netz: New Blended Learning mit Web 2.0. Springer Gabler.
 - Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters (NotSanG), BGBl. I S. 1348, 274 (2021). https://www.gesetze-im-internet.de/notsang/
 - Hopf, D. (2011). Schulische Leistungsbewertung: Theorie - Empirie - Praxis. In J. Baumert, W. Bos & R. Watermann (Hrsg.), Bildungsforschung (S. 337-351). Springer VS.
-- Klieme, E., Hartig, J., & Rauch, D. (2003). Messung von Kompetenzen: Herausforderungen der Bildungsforschung. Zeitschrift für Erziehungswissenschaft, 6(3), 264–285.
+- Klieme, E., Hartig, J., & Rauch, D. (2003). Messung von Kompetenzen: Herausforderungen der Bildungsforschung. Zeitschrift für Erziehungswissenschaft, 6(3), 264-285.
 - Pätzold, H. (2022). Wörterbuch Pädagogik (9. Aufl.). UTB.
-- Rattay, C., & Schneider, J. (2013). Erwartungshorizonte sinnvoll gestalten und verwenden – Die fünf Gestaltungsprinzipien. In M. Fröhlich, C. Rattay & J. Schneider (Hrsg.), Effizienter korrigieren - Das Praxisbuch (Kap. 4). Auer Verlag.
+- Rattay, C., & Schneider, J. (2013). Erwartungshorizonte sinnvoll gestalten und verwenden - Die fünf Gestaltungsprinzipien. In M. Fröhlich, C. Rattay & J. Schneider (Hrsg.), Effizienter korrigieren - Das Praxisbuch (Kap. 4). Auer Verlag.
 - Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom: Teacher expectation and pupils’ intellectual development. Holt, Rinehart and Winston.
 - Schröder, S., & Reinisch, H. (2024). Reflexion und Handlungskompetenz: Prüfungsformate zwischen Messung und Dialog. In H. Reinisch & S. Schröder (Hrsg.), Qualitätsentwicklung in der Berufsbildung. Springer VS.
 
