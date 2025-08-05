@@ -1,10 +1,10 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Erwartungshorizonte. Ein konfrontatives Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen
+title: Erwartungshorizonte. Ein konfrontativer Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-01-11
-updated: 2025-08-04
-publish: false
+updated: 2025-08-05
+publish: true
 tags:
   - Erwartungshorizonte
   - Reflexion
@@ -19,11 +19,14 @@ tags:
 published:
 ---
 
-created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.7.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 5.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
-**Erwartungshorizonte. Ein konfrontatives Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen**
+**Erwartungshorizonte. Ein konfrontativer Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen**
 
 # Einleitung
+
+Erwartungshorizonte gelten als Instrumente objektiver Leistungsbewertung. Doch genau dieser Anspruch steht im Verdacht, in der Realität systematisch verfehlt zu werden.
+Der vorliegende Essay nimmt daher eine konfrontative Perspektive ein und stellt die pädagogische, rechtliche und erkenntnistheoretische Legitimität starrer Bewertungsmodelle grundsätzlich in Frage und entwirft ein alternatives Prüfungsverständnis.
 
 Erwartungshorizonte wurden mit dem Anspruch eingeführt, Fairness und Vergleichbarkeit zu gewährleisten, werden mit diesem Beitrag unter den Verdacht gestellt, genau das Gegenteil zu bewirken. Bei Betrachtung traditioneller Bewertungsmodelle moderner Prüfungsformate stellt sich die Frage:
 
@@ -37,7 +40,9 @@ Im Zentrum steht hier der Begriff der Reflexion, der als bewusste Auseinanderset
 
 Erwartungshorizonte entstammen ursprünglich der Idee, Leistungsbewertung objektiver und vergleichbarer zu machen. Sie wurden insbesondere im schulischen Kontext eingeführt, um Transparenz herzustellen und Willkür zu begrenzen (Klieme et al., 2003). Dabei definieren sie im Vorfeld, welche Inhalte, Argumente oder Lösungsschritte als besonders relevant und bewertungswürdig gelten.
 
-Diese Funktion erscheint auf den ersten Blick sinnvoll. Doch bei näherer Betrachtung zeigt sich, dass Erwartungshorizonte nicht nur pädagogisch fragwürdig, sondern im Kontext kompetenzorientierter Ausbildung auch strukturell dysfunktional sind. Sie verschieben die Aufmerksamkeit von der situativen Leistungsfähigkeit der Geprüften hin zu einem starren Idealbild, das in der Realität häufig nicht greifbar ist (Arnold & Schüßler, 2021). Besonders problematisch wird dies in Berufsfeldern wie bspw. dem von Notfallsanitäterinnen und Notfallsanitätern, in denen Handlungsfähigkeit unter Unsicherheit zentral ist (§ 2a NotSanG, 2021).
+Erwartungshorizonte bezeichnen in Prüfungen vorab definierte Lösungserwartungen, die als Bewertungsmaßstab fungieren, unabhängig vom situativen Kontext oder der individuellen Begründungstiefe einer Antwort (vgl. Rattay & Schneider, 2013).
+
+Die genannten Funktion erscheint auf den ersten Blick sinnvoll. Doch bei näherer Betrachtung zeigt sich, dass Erwartungshorizonte nicht nur pädagogisch fragwürdig, sondern im Kontext kompetenzorientierter Ausbildung auch strukturell dysfunktional sind. Sie verschieben die Aufmerksamkeit von der situativen Leistungsfähigkeit der Geprüften hin zu einem starren Idealbild, das in der Realität häufig nicht greifbar ist (Arnold & Schüßler, 2021). Besonders problematisch wird dies in Berufsfeldern wie bspw. dem von Notfallsanitäterinnen und Notfallsanitätern, in denen Handlungsfähigkeit unter Unsicherheit zentral ist (§ 2a NotSanG, 2021).
 
 Im rechtlichen Kontext zeigt sich zudem, wie Erwartungshorizonte bspw. in der NotSan-Ausbildung weder vorgeschrieben noch systemkonform sind. Weder das Notfallsanitätergesetz (NotSanG) noch die Ausbildungs- und Prüfungsverordnung (NotSan-APrV) verlangen solche standardisierten Lösungsvorgaben. Im Gegenteil, da § 4 NotSanG i.V.m. § 2 NotSan-APrV explizit das Ziel eigenverantwortlichen, evidenzbasierten und situativ angemessenen Handelns betont (§ 4 NotSanG, 2021; § 2 NotSan-AprV, 2023). Starre Erwartungshorizonte laufen demnach diesem Anspruch zuwider und könnten im Extremfall sogar rechtlich angreifbar sein, insbesondere wenn sie individuelle, und gleichzeitig plausible Handlungsentscheidungen abwerten, die auf wissenschaftlicher Evidenz beruhen (Ditscheid, 2021). Hinzu kommt eine diskursethische Dimension. Im Unterschied zu Erwartungshorizonten, die meist im Verborgenen der Prüfungsplanung entstehen, sind Leistungsbeschreibungen im Sinne kompetenzorientierter Curricula zu Beginn der Ausbildung transparent, verhandelbar und für alle Beteiligten zugänglich (Pätzold, 2022). Sie beruhen auf einem gemeinsamen Diskurs, nicht auf autoritärer Setzung.
 
@@ -60,10 +65,15 @@ Erwartungshorizonte sind vorab definierte Bewertungsmaßstäbe, die festlegen, w
    - Wer nicht den Erwartungen entspricht, wird als defizitär wahrgenommen, unabhängig davon, ob das Vorgehen begründet, wirksam oder evidenzbasiert war. Dies begünstigt den Golem-Effekt; die implizite Abwertung führt zu geringerer Leistung und vermindertem Selbstvertrauen. (Rosenthal & Jacobson, 1968; Pätzold, 2022)
 
 3. **Widerspruch zur Theorie emergenter Kompetenz:**
-   - Nach Erpenbeck (2007), Arnold (2014) und anderen ist Kompetenz die Fähigkeit zur selbstorganisierten Bewältigung neuer, unübersichtlicher Situationen. Sie ist nicht planbar, nicht reproduzierbar, sondern zeigt sich emergent im Handeln. Erwartungshorizonte, die konkrete Lösungen antizipieren, widersprechen diesem Verständnis grundlegend.
+   - Nach Erpenbeck (2007), Arnold (2014) und anderen ist [[Kompetenz]] die Fähigkeit zur selbstorganisierten Bewältigung neuer, unübersichtlicher Situationen. Sie ist nicht planbar, nicht reproduzierbar, sondern zeigt sich emergent im Handeln. Erwartungshorizonte, die konkrete Lösungen antizipieren, widersprechen diesem Verständnis grundlegend.
    
 4. **Rechtslogischer Widerspruch zur NotSan-APrV:**
    - § 4 der Ausbildungs- und Prüfungsverordnung verlangt evidenzbasiertes, eigenverantwortliches und situationsbezogenes Handeln. Bewertungsraster, die nur eine spezifische Lösung anerkennen, stehen dazu im Widerspruch und sind rechtlich angreifbar (Ditscheid, 2021).
+
+Dieses Verständnis lässt sich in der folgenden Kompetenzdefinition[^2] konkretisieren:
+
+> [!quote] Zitat
+> ![[Systemische Kompetenzentwicklung High Responsibility Teams#Kompetenzdefinition High Responsibility Teams]]
 
 # Reflexionsbasierte Prüfungen: Eine Alternative
 
@@ -71,7 +81,7 @@ Ziel reflexionsbasierter Prüfungen ist es, die subjektive Erkenntnisbewegung de
 
 Diese Perspektive wird durch neuere berufsbildungstheoretische Forschung gestützt. So zeigen Schröder & Reinisch (2024), dass sich Kompetenzen nicht in der „richtigen“ Antwort zeigen, sondern in der reflexiven Bearbeitung von Situationen unter Bedingungen der Ungewissheit. Reflexion wird hier zur zentralen Bewertungsdimension, nicht als Nachdenken über Fehler, sondern als epistemisch produktiver Zugriff auf Handlungserfahrung. Damit korrespondiert das Modell reflexionsbasierter Prüfungen direkt mit wissenschaftlichen Forderungen nach dialogischen, prozessorientierten Prüfungsformaten, die auf Transparenz, Begründungstiefe und perspektivische Anschlussfähigkeit zielen.
 
-Aus der Kritik an Erwartungshorizonten ergibt sich nicht nur ein Bedarf an Reform, sondern eine grundsätzliche Neuausrichtung. Prüfungen haben der Logik emergenter Kompetenzentwicklung zu folgen und dürfen diese nicht durch antizipierte Lösungserwartungen blockieren (Erpenbeck & Sauter, 2013; Arnold & Schüßler, 2021). Ein reflexionsbasiertes Prüfungsmodell ist daher keine methodische Variation, sondern eine systemische Alternative. Dieses Verständnis basiert auf drei zentralen Prinzipien, die sich direkt aus dem Kompetenzverständnis nach Erpenbeck, Arnold und anderen ableiten:
+Aus der Kritik an Erwartungshorizonten ergibt sich nicht nur ein Bedarf an Reform, sondern eine grundsätzliche Neuausrichtung. Prüfungen haben der Logik emergenter [[Kompetenzentwicklung]] zu folgen und dürfen diese nicht durch antizipierte Lösungserwartungen blockieren (Erpenbeck & Sauter, 2013; Arnold & Schüßler, 2021). Ein reflexionsbasiertes Prüfungsmodell ist daher keine methodische Variation, sondern eine systemische Alternative. Dieses Verständnis basiert auf drei zentralen Prinzipien, die sich direkt aus dem Kompetenzverständnis nach Erpenbeck, Arnold und anderen ableiten:
 
 1. **Situationsorientierung:**
    - Kompetenzen zeigen sich nicht im Reproduzieren von Wissen, sondern in der Bewältigung offener, dynamischer Herausforderungen. Prüfungen müssen daher reale oder realitätsnahe Situationen abbilden, in denen Geprüfte ihre Wahrnehmung, Analyse und Handlungsfähigkeit zeigen.
@@ -84,7 +94,7 @@ Aus der Kritik an Erwartungshorizonten ergibt sich nicht nur ein Bedarf an Refor
 3. **Evidenzbasierung:**
    - Die Bewertung erfolgt nicht entlang eines impliziten Erwartungshorizonts, sondern anhand des Grades, in dem das Handeln nachvollziehbar, verantwortbar und wissenschaftlich fundiert ist.  Damit wird ein Bewertungsmaßstab etabliert, der auf epistemischer Legitimität beruht und nicht auf kultureller Passung oder Systemkonformität.
 
-Reflexionsbasierte Prüfungen schaffen somit den strukturellen Rahmen, in dem emergente Kompetenz beobachtbar wird und in dem Prüfende zu Begleitenden einer reflexiven Leistungsdarstellung werden, anstatt zu Gatekeepern eines versteckten Erwartungssystems.
+Reflexionsbasierte Prüfungen schaffen somit den strukturellen Rahmen, in dem emergente [[Kompetenz]] beobachtbar wird und in dem Prüfende zu Begleitenden einer reflexiven Leistungsdarstellung werden, anstatt zu Gatekeepern eines versteckten Erwartungssystems.
 
 # Leistungsbeschreibung als Alternative zum Erwartungshorizont
 
@@ -131,7 +141,7 @@ Reflexionsbasierte Prüfungen stellen keineswegs nur eine methodische Alternativ
    - Anstelle von Reproduktion fördern reflexionsbasierte Prüfungen die Fähigkeit, begründet zu entscheiden, Verantwortung zu übernehmen und komplexe Situationen eigenständig zu analysieren, wie zentrale Merkmale professioneller Handlungskompetenz.
 
 2. **Förderung von Kreativität und Problemlösefähigkeit:**
-   - Unkonventionelle oder kontextspezifisch angepasste Lösungen werden nicht als Abweichung, sondern als Ausdruck reflexiver Kompetenz gewürdigt. Damit werden kreative Potenziale nicht nur erlaubt, sondern sichtbar gemacht.
+   - Unkonventionelle oder kontextspezifisch angepasste Lösungen werden nicht als Abweichung, sondern als Ausdruck reflexiver [[Kompetenz]] gewürdigt. Damit werden kreative Potenziale nicht nur erlaubt, sondern sichtbar gemacht.
 
 3. **Transparenz, Nachvollziehbarkeit und Machtkritik:**
    - Durch dialogische Prüfungsformate und das Fehlen starrer Bewertungsvorgaben wird das Machtgefälle zwischen Prüfenden und Geprüften reduziert. Bewertungsentscheidungen werden argumentativ einholbar und anschlussfähig, also ein bildungsethischer Zugewinn.
@@ -139,7 +149,7 @@ Reflexionsbasierte Prüfungen stellen keineswegs nur eine methodische Alternativ
 4. **Anschlussfähigkeit an reale Praxis:**
    - Die Prüfungsform orientiert sich an den Unsicherheiten, Dynamiken und Widersprüchen beruflicher Realität. Sie bereitet nicht auf das Bestehen von Prüfungen vor, sondern auf die Bewährung in offenen Handlungssituationen.
 
-Reflexionsbasierte Prüfungen leisten einen wesentlichen Beitrag zu fairen Bewertungsverfahren. Sie fördern gezielt die Fähigkeit, in komplexen Situationen verantwortlich zu handeln, und machen jene reflexive Urteilskraft sichtbar, die Kompetenz im eigentlichen Sinne auszeichnet.
+Reflexionsbasierte Prüfungen leisten einen wesentlichen Beitrag zu fairen Bewertungsverfahren. Sie fördern gezielt die Fähigkeit, in komplexen Situationen verantwortlich zu handeln, und machen jene reflexive Urteilskraft sichtbar, die [[Kompetenz]] im eigentlichen Sinne auszeichnet.
 
 # Konfrontation: Weshalb am Erwartungshorizonten festhalten?
 
@@ -169,9 +179,12 @@ Bildungseinrichtungen müssen den Mut aufbringen, sich von der Illusion objektiv
 
 **Eine erkenntnistheoretische Konsequenz**
 
-Die Abkehr von Erwartungshorizonten bedeutet mehr als eine didaktische Korrektur, sie erfordert ein grundlegend anderes Prüfungsverständnis. Eine konsequente Antwort auf diese Herausforderung bietet der [[Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)]], der Prüfungen als systematische, erkenntnisorientierte Denkbewegungen versteht.
+Die Abkehr von Erwartungshorizonten bedeutet mehr als eine didaktische Korrektur, sie erfordert ein grundlegend anderes Prüfungsverständnis. Eine konsequente Antwort auf diese Herausforderung bietet der [[Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)]], der Prüfungen als systematische, erkenntnisorientierte Denkbewegungen versteht:
 
-Der EBA-Zyklus strukturiert den Weg von der Formulierung eines Erkenntnisziels über die Festlegung der Tiefe, die Auswahl passender Werkzeuge und Methoden bis hin zur reflexiven Bewertung und gegebenenfalls zur Neufassung des Erkenntnisziels. Prüfungen, die sich an diesem Zyklus orientieren, bewerten keine vorgefassten Ergebnisse, sondern die Qualität, Begründung und epistemische Tiefe des gewählten Weges.
+> [!quote] Zitat
+> ![[Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)#1 Definition]]
+
+Der EBA-Zyklus strukturiert somit den Weg von der Formulierung eines Erkenntnisziels über die Festlegung der Tiefe, die Auswahl passender Werkzeuge und Methoden bis hin zur reflexiven Bewertung und gegebenenfalls zur Neufassung des Erkenntnisziels. Prüfungen, die sich an diesem Zyklus orientieren, bewerten keine vorgefassten Ergebnisse, sondern die Qualität, Begründung und epistemische Tiefe des gewählten Weges.
 
 Die Rolle der Prüfenden verschiebt sich dabei grundlegend. Sie begleiten den Prozess nicht aus neutraler Distanz, sondern ermöglichen, beobachten und bewerten die erkenntnistheoretische Konsistenz der Denk- und Argumentationsbewegung. Die Bewertung erfolgt nicht entlang eines normativen Solls, sondern anhand der Frage:
 
@@ -193,6 +206,7 @@ Die Einführung reflexionsbasierter Prüfungen erfordert neue Bewertungspraktike
 - Erpenbeck, J. (2007). Die Kompetenzrevolution: Der Weg zur neuen Lernkultur. Klett-Cotta.
 - Erpenbeck, J., & Sauter, W. (2013). Kompetenzentwicklung im Netz: New Blended Learning mit Web 2.0. Springer Gabler.
 - Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters (NotSanG), BGBl. I S. 1348, 274 (2021). https://www.gesetze-im-internet.de/notsang/
+- Hanisch, J. (2023). _Agiles Lernen zur Kompetenzentwicklung für High Responsibility Teams. Wie agiles Lernen die Ausbildung im Rettungsdienst optimieren kann_. GRIN Publishing GmbH.
 - Hopf, D. (2011). Schulische Leistungsbewertung: Theorie - Empirie - Praxis. In J. Baumert, W. Bos & R. Watermann (Hrsg.), Bildungsforschung (S. 337-351). Springer VS.
 - Klieme, E., Hartig, J., & Rauch, D. (2003). Messung von Kompetenzen: Herausforderungen der Bildungsforschung. Zeitschrift für Erziehungswissenschaft, 6(3), 264-285.
 - Pätzold, H. (2022). Wörterbuch Pädagogik (9. Aufl.). UTB.
@@ -205,3 +219,4 @@ Die Einführung reflexionsbasierter Prüfungen erfordert neue Bewertungspraktike
 #Erwartungshorizonte #Reflexion #Kompetenzorientierung #Prüfungen #Bildung #NotSan-Ausbildung #Ethik #Rechtslogik #Didaktik #Bildungsforschung
 
 [^1]: Gebot der Chancengleichheit nach Artikel 3 Absatz 1 in Verbindung mit Artikel 12 Absatz 1 des Grundgesetzes
+[^2]: Eine ausführliche Herleitung der hier verwendeten Kompetenzdefinition im Kontext systemischer Hochverantwortungsstrukturen findet sich unter dem verlinkten Abschnitt des Vortrags _„Systemische Kompetenzentwicklung in High Responsibility Teams“_.

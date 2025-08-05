@@ -21,7 +21,7 @@ created: 29.09.2024 | updated: 26.11.2024 | [[Hinweise]]
 
 # 1 Definition
 
-Der Erkenntnisbasierte Aufgabenzyklus (EBA-Zyklus) beschreibt ein flexibles und anpassbares Rahmenwerk zur systematischen Erarbeitung und Vertiefung von Erkenntnissen. Der Zyklus ermöglicht es, Erkenntnisziele kontinuierlich anzupassen und zu überprüfen, um die Tiefe und Qualität des Lernens zu maximieren. Seine Anwendbarkeit als „verbindendes Glied“ zwischen verschiedenen Lehr-Lern-Theorien und methodischen Ansätzen macht ihn zu einem universellen Modell für die Gestaltung von Lernprozessen. Er integriert Reflexion, [[Erkenntnis]] und Aufgabenorientierung und schafft damit eine Grundlage, auf der unterschiedliche didaktische Paradigmen miteinander in Einklang gebracht werden können.
+Der Erkenntnisbasierte Aufgabenzyklus (EBA-Zyklus) beschreibt ein flexibles und anpassbares Rahmenwerk zur systematischen Erarbeitung und Vertiefung von Erkenntnissen. Der Zyklus ermöglicht, Erkenntnisziele kontinuierlich anzupassen und zu überprüfen, um die Tiefe und Qualität des Lernens zu maximieren. Seine Anwendbarkeit als „verbindendes Glied“ zwischen verschiedenen Lehr-Lern-Theorien und methodischen Ansätzen macht ihn zu einem universellen Modell für die Gestaltung von Lernprozessen. Er integriert Reflexion, [[Erkenntnis]] und Aufgabenorientierung und schafft damit eine Grundlage, auf der unterschiedliche didaktische Paradigmen miteinander in Einklang gebracht werden können.
 
 # 2 Herleitung
 
