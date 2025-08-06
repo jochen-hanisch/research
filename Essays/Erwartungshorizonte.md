@@ -65,7 +65,7 @@ Erwartungshorizonte sind vorab definierte Bewertungsmaßstäbe, die festlegen, w
    - Nach Erpenbeck (2007), Arnold (2014) und anderen ist [[Kompetenz]] die Fähigkeit zur selbstorganisierten Bewältigung neuer, unübersichtlicher Situationen. Sie ist einerseits weder planbar und reproduzierbar, andererseits zeigt sich Emergenz im Handeln. Erwartungshorizonte, die konkrete Lösungen antizipieren, widersprechen diesem Verständnis grundlegend.
    
 4. **Rechtslogischer Widerspruch zur NotSan-APrV:**
-   - § 4 der Ausbildungs- und Prüfungsverordnung verlangt evidenzbasiertes, eigenverantwortliches und situationsbezogenes Handeln. Bewertungsraster, die nur eine spezifische Lösung anerkennen, stehen dazu im Widerspruch und sind rechtlich angreifbar (Ditscheid, 2021).
+   - § 4 NotSanG verlangt evidenzbasiertes, eigenverantwortliches und situationsbezogenes Handeln. Bewertungsraster, die nur eine spezifische Lösung anerkennen, stehen dazu im Widerspruch und sind rechtlich angreifbar (Ditscheid, 2021).
 
 Dieses Verständnis lässt sich in der folgenden Kompetenzdefinition[^2] konkretisieren:
 
@@ -76,7 +76,7 @@ Dieses Verständnis lässt sich in der folgenden Kompetenzdefinition[^2] konkret
 
 Ziel reflexionsbasierter Prüfungen ist, die subjektive Erkenntnisbewegung der Geprüften sichtbar und nachvollziehbar zu machen, sowohl im Sinne ihrer Übereinstimmung mit einer vorgegebenen Lösung, als auch hinsichtlich der Kohärenz, Plausibilität und situativen Angemessenheit ihres Denkens und Handelns. Erkenntnis wird hier als Abbild und zudem als Relation zwischen Welt, Erfahrung und innerer Neuordnung verstanden. Reflexion übernimmt dabei die Funktion, neue Zusammenhänge herzustellen, eigene Deutungen zu überprüfen und Entscheidungen zu verantworten. Reflexionsbasierte Prüfungen machen genau diesen Prozess, also die Bewegung des Denkens unter Bedingungen der Ungewissheit, folglich zum eigentlichen Gegenstand der Leistungsbewertung. ([[Erkenntnisziel]])
 
-Diese Perspektive wird durch neuere berufsbildungstheoretische Forschung gestützt. So zeigen Schröder & Reinisch (2024), dass sich Kompetenzen auch in der „richtigen“ Antwort zeigen, und zudem in der reflexiven Bearbeitung von Situationen unter Bedingungen der Ungewissheit. Reflexion wird hier zur zentralen Bewertungsdimension als Nachdenken über Fehler und als als epistemisch produktiver Zugriff auf Handlungserfahrung. Damit korrespondiert das Modell reflexionsbasierter Prüfungen direkt mit wissenschaftlichen Forderungen nach dialogischen, prozessorientierten Prüfungsformaten, die auf Transparenz, Begründungstiefe und perspektivische Anschlussfähigkeit zielen.
+Diese Perspektive wird durch neuere berufsbildungstheoretische Forschung gestützt. So zeigen Schröder & Reinisch (2024), dass sich Kompetenzen auch in der „richtigen“ Antwort zeigen, und zudem in der reflexiven Bearbeitung von Situationen unter Bedingungen der Ungewissheit. Reflexion wird hier zur zentralen Bewertungsdimension als Nachdenken über Fehler und als epistemisch produktiver Zugriff auf Handlungserfahrung. Damit korrespondiert das Modell reflexionsbasierter Prüfungen direkt mit wissenschaftlichen Forderungen nach dialogischen, prozessorientierten Prüfungsformaten, die auf Transparenz, Begründungstiefe und perspektivische Anschlussfähigkeit zielen.
 
 Aus der Kritik an Erwartungshorizonten ergibt sich nicht nur ein Bedarf an Reform, sondern eine grundsätzliche Neuausrichtung. Prüfungen haben der Logik emergenter [[Kompetenzentwicklung]] zu folgen und dürfen diese nicht durch antizipierte Lösungserwartungen blockieren (Erpenbeck & Sauter, 2013; Arnold & Schüßler, 2021). Ein reflexionsbasiertes Prüfungsmodell ist daher keine methodische Variation, ein solches Modell stellt eine systemische Alternative dar. Dieses Verständnis basiert auf drei zentralen Prinzipien, die sich direkt aus dem Kompetenzverständnis nach Erpenbeck, Arnold und anderen ableiten:
 
@@ -148,7 +148,7 @@ Reflexionsbasierte Prüfungen stellen keineswegs nur eine methodische Alternativ
 
 Reflexionsbasierte Prüfungen leisten einen wesentlichen Beitrag zu fairen Bewertungsverfahren. Sie fördern gezielt die Fähigkeit, in komplexen Situationen verantwortlich zu handeln, und machen jene reflexive Urteilskraft sichtbar, die [[Kompetenz]] im eigentlichen Sinne auszeichnet.
 
-# Konfrontation: Weshalb am Erwartungshorizonten festhalten?
+# Konfrontation: Weshalb an Erwartungshorizonten festhalten?
 
 Wenn Erwartungshorizonte pädagogisch, rechtlich und systemisch problematisch sind, weshalb werden sie dennoch weiterhin verwendet? Die Antwort liegt weniger in fachlichen Notwendigkeiten als in strukturellen und kulturellen Dynamiken des Bildungssystems selbst:
 
