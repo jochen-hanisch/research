@@ -104,7 +104,7 @@ _Tabelle 1: Vergleich Erwartungshorizont vs. Leistungsbeschreibung_
 | **Ursprung der Erwartung**             | Aus Sicht der Prüfenden antizipiert (Top-down)       | Auf curricularen Inhalten basierend (Inhaltsbezug)                             |
 | **Transparenz für Geprüfte**           | Häufig implizit oder verkürzt kommuniziert           | Zu Beginn der Ausbildung offengelegt und verhandelbar                          |
 | **Fokus der Bewertung**                | Vergleich mit einer idealisierten Solllösung         | Bewertung von Reflexionstiefe und Denkbewegung                                 |
-| **Kriteriumsstruktur**                 | Ergebnisbezogen: Welche Antwort ist richtig?         | Zweistufig: (1) Inhaltliche Tiefe, (2) Anforderungsniveau                      |
+| **Kriteriumsstruktur**                 | Ergebnisbezogen:<br>Welche Antwort ist richtig?      | Zweistufig:<br>(1) Inhaltliche Tiefe,<br>(2) Anforderungsniveau                |
 | **Steuerung der Vorbereitung**         | Orientiert auf das Wiedererkennen erwarteter Inhalte | Ermöglicht gezieltes Erarbeiten von inhaltlicher Tiefe und Reflexionsfähigkeit |
 | **Rolle der Operatoren**               | Untergeordnet oder inkonsistent                      | Zentral zur Operationalisierung des Reflexionsniveaus                          |
 | **Bildungsethische Fundierung**        | Asymmetrisch, oft implizit machtvoll                 | Dialogisch, erkenntnistheoretisch fundiert                                     |
@@ -155,7 +155,7 @@ Wenn Erwartungshorizonte pädagogisch, rechtlich und systemisch problematisch si
 1. **Trugschluss der Vergleichbarkeit:**
    - Erwartungshorizonte erzeugen die Illusion objektiver Maßstäbe. Dabei wird übersehen, dass jede Bewertung auf vorausgesetzten Normen und selektiven Erwartungen beruht. Die scheinbare Vergleichbarkeit ersetzt echte Auseinandersetzung mit dem individuellen Leistungsgeschehen und stabilisiert ein trügerisches Gefühl von Gerechtigkeit.
 
-   1. **Reduktion von Komplexität - Bequemlichkeit durch Entlastung:**
+2. **Reduktion von Komplexität - Bequemlichkeit durch Entlastung:**
    - Erwartungshorizonte verschaffen Prüfenden scheinbare Sicherheit und entlasten von der Notwendigkeit, differenzierte, reflexive Bewertungen vorzunehmen. Sie transformieren offene Handlungssituationen in beurteilbare Schemata auf Kosten der didaktischen Angemessenheit.
 
 3. **Institutionelle Pfadabhängigkeit und systemische Trägheit:**
