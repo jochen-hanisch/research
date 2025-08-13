@@ -14,8 +14,9 @@ created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/rese
 
 # 1 Definition
 
-In der vorliegenden Arbeit wird der Begriff „Beherrschen“ im Kontext der Notfallsanitäter:innen-Ausbildung als Operation im systemtheoretischen Sinne verstanden. Beherrschen bezeichnet hierbei die kleinste, nicht weiter teilbare Einheit professionellen Handelns, in der die Elemente Analyse, Beurteilung und Ausführung untrennbar verschränkt auftreten. Diese Operation zielt auf die Überwindung von Transformationsbarrieren vom unerwünschten zum erwünschten Zustand ab und basiert auf ausbildungsrechtlichen Grundlagen (NotSanG, NotSan-APrV). 
-Die Beobachtung und Bewertung dieser Operation erfolgt über die sechs in § 17 Abs. 2 NotSan-APrV definierten Prüfungsperspektiven:
+Beherrschen als Operation bezeichnet im systemtheoretisch‑bildungswissenschaftlichen Sinne die kleinste, nicht weiter teilbare Einheit professioneller Handlungsausführung, in der Unterscheidung, Analyse, Beurteilung und Ausführung simultan und untrennbar verschränkt auftreten. Diese Operation ist auf die zielgerichtete Überwindung kontextrelevanter Transformationsbarrieren gerichtet und so strukturiert, dass ihre Planung, Begründung und Durchführung beobacht‑, prüf‑ und dokumentierbar sind.
+
+Auf den Kontext der Notfallsanitäter:innen-Ausbildung und -Prüfung übertragen bezeichnet „Beherrschen“ die kleinste, nicht weiter teilbare Operation professioneller Handlungsausführung, in der Unterscheidung, Analyse, Beurteilung und Ausführung simultan und untrennbar verschränkt auftreten. Diese Operation ist evidenzbasiert und patienten- sowie situationsangemessen auf die zielgerichtete Überwindung einsatzrelevanter Transformationsbarrieren gerichtet. Ihre Planung, Begründung und Durchführung sind prüf-, beobacht- und dokumentierbar. Die Beobachtung und Bewertung dieser Operation erfolgt über die sechs in § 17 Abs. 2 NotSan-APrV definierten Prüfungsperspektiven:
 
 1. Einschätzung der Gesamtsituation,
 2. Erstellung einer Arbeitsdiagnose,
@@ -24,7 +25,7 @@ Die Beobachtung und Bewertung dieser Operation erfolgt über die sechs in § 1
 5. Dokumentation sowie
 6. Herstellung der Transportbereitschaft und Übergabe.
 
-Beherrschen ist nachgewiesen, wenn in allen relevanten Perspektiven die für den Einsatzfall maßgeblichen Transformationsbarrieren erkannt, analytisch-beurteilend verarbeitet und in eine kognitive sowie psychomotorische Handlung umgesetzt werden, die eine erfolgreiche Transformation bewirkt. 
+Beherrschen ist nachgewiesen, wenn in allen relevanten Perspektiven die für den Einsatzfall maßgeblichen Transformationsbarrieren genannt, beschrieben und analytisch-beurteilend verarbeitet werden. Die Verarbeitung mündet in eine kognitive sowie psychomotorische Handlung, die auf eine patienten- und situationsangemessene, evidenzbasierte Transformation gerichtet bleibt und deren Planung, Begründung und Durchführung prüf- sowie dokumentierbar sind.
 
 # 2 Herleitung
 
