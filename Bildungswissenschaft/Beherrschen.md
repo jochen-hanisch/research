@@ -526,8 +526,185 @@ Die empirisch fundierte Operationalisierung dient als **Referenz** für Prüfung
 
 **Fazit:** Mit der hier vorgelegten Operationalisierung wird das Berufsbild Notfallsanitäter:in **empirisch adressierbar**: Was das Gesetz als „erlernt und beherrscht“ verlangt, wird prüf‑ und messbar. Damit entsteht eine belastbare Basis für curricular‑didaktische Innovation, rechtssichere Prüfungen und eine evidenzbasierte Weiterentwicklung des Berufs – anschlussfähig an Recht, Leitlinien und professionelle Selbstverantwortung (BMG, 2012; NotSan‑APrV 2013/2021; SK Verlag, 2021; Hanisch‑Johannsen, 2025).
 
+# 5 Kritik
 
 
+## 5.1 Zielsetzung des Kritik-Kapitels
+
+Das Kritik-Kapitel verfolgt zwei zentrale Zielsetzungen: Erstens soll es einen systematisch strukturierten Raum eröffnen, in dem unterschiedliche Kritikperspektiven an der hier entwickelten Definition und Operationalisierung des Begriffs „Beherrschen“ sichtbar gemacht werden. Zweitens dient es als methodischer Mechanismus, um diese Kritik nicht nur zu dokumentieren, sondern gezielt in die Weiterentwicklung des Konstrukts und seiner Anwendung in Ausbildung und Prüfung zu integrieren.
+
+Kritik wird in diesem Kontext nicht als bloße Negation oder Opposition verstanden, sondern als Beitrag zur Qualitätsentwicklung im Sinne eines reflexiven, lernenden Systems (Hanisch-Johannsen, 2025). Ausgangspunkt ist die Annahme, dass ein normativ wirksamer Begriff wie „Beherrschen“ zwangsläufig auf unterschiedliche, teils konfligierende Erwartungshorizonte trifft: pädagogische, prüfmethodische, klinische, juristische, verwaltungspraktische. Diese Vielfalt ist nicht Ausdruck von Beliebigkeit, sondern notwendige Folge der hohen Systemkomplexität, in der der Begriff angewendet wird.
+
+Die Zielsetzung gliedert sich daher in drei operative Unterziele:
+
+1. **Identifikation relevanter Kritikfelder:** Systematische Erfassung potenzieller Einwände und Perspektiven, die auf die theoretische Herleitung, die normative Setzung oder die praktische Implementierung der Definition zielen. Hierzu gehören sowohl konstruktive als auch systemisch bedingte, wiederkehrende Kritiklinien (vgl. SK Verlag, 2021).
+
+2. **Differenzierung nach Kritikqualität:** Trennung zwischen substanzhaltiger, überprüfbarer Kritik (z. B. auf Basis empirischer Daten, rechtlicher Argumentation oder didaktischer Plausibilität) und Kritik, die primär aus positionsbezogenen oder machtstrategischen Motiven heraus erfolgt. Letztere wird zwar dokumentiert, aber nicht als inhaltliche Grundlage für Änderungen verwendet.
+
+3. **Integration konstruktiver Kritik in den Entwicklungszyklus:** Entwicklung klarer Verfahren, wie substanzielle Kritik in den Änderungs- und Pflegeprozess der Definition, der Bewertungsinstrumente und der curricularen Anbindung einfließt. Dies umfasst Rückkopplungen in Qualitätszirkeln, Anpassung von Rubrics und Audit-Trails sowie die Einbettung in Schulungs- und Kalibrierungsformate.
+
+Durch diese Zielsetzung wird das Kritik-Kapitel zu einem aktiven Baustein der theoretischen und praktischen Weiterentwicklung. Es schützt die Kohärenz der normativen Setzung, ohne sie gegenüber berechtigter Anpassung zu immunisieren, und es macht den Umgang mit Kritik selbst transparent, nachvollziehbar und anschlussfähig für alle beteiligten Akteursgruppen.
+
+
+## 5.2 Kritikfelder und Reaktionsstrategien
+
+Die nachfolgende Analyse identifiziert zentrale, antizipierte Kritikfelder an Definition und Operationalisierung des Begriffs „Beherrschen“ und skizziert strukturierte Reaktionsstrategien. Die Darstellung erfolgt multiperspektivisch, um die Komplexität des Gegenstands gerecht abzubilden. Bezugnahmen auf relevante Dokumentabschnitte (z. B. Rubrics, Audit-Trail, NotSanG § 2a, NotSan-APrV § 17 Abs. 2) und einschlägige Quellen sind integriert, um die Anschlussfähigkeit an bestehende Normen und wissenschaftliche Diskurse zu sichern.
+
+### Kritikfeld 1: Pädagogische Reduktionismus- und Operationalisierungskritik
+
+**Kritikbeschreibung:**  
+Aus bildungswissenschaftlicher Sicht wird häufig eingewandt, dass die Operationalisierung komplexer professioneller Handlungsfähigkeit auf prüfbare Einheiten (Rubrics, Indikatoren) eine Reduktion pädagogischer Prozesse auf beobachtbare Teilhandlungen bewirkt. Kritiker:innen argumentieren, dass dadurch reflexive, kreative und relationale Aspekte des professionellen Handelns unsichtbar oder unterbewertet bleiben (vgl. Hanisch-Johannsen, 2025).
+
+**Rationale:**  
+Die Gefahr besteht, dass die Definition von „Beherrschen“ als unteilbare Operation (vgl. Abschnitt 2.4, 3.1.1) zu einer Überbetonung von Standardisierbarkeit und Messbarkeit führt, während emergente, kontextabhängige Kompetenzen (z. B. situative Urteilskraft, ethische Dilemmabewältigung) in den Hintergrund treten.
+
+**Reaktionsstrategie:**  
+Die Rubrics und Bewertungsinstrumente werden so gestaltet, dass sie nicht nur das beobachtbare Handeln, sondern explizit auch die Begründungs- und Reflexionsfähigkeit abbilden (siehe 3.1.2, 3.1.4). Die Pflicht zur Entscheidungsbegründung und die Integration von Reflexionsphasen (z. B. ISBAR-Reflexion, Audit-Trail) adressieren diese Kritik, indem sie die reflexive Dimension zum expliziten Bewertungsgegenstand machen. Die Definition von „Beherrschen“ bleibt damit dynamisch und anschlussfähig an die Prinzipien kompetenzorientierter Bildung (Hanisch-Johannsen, 2025).
+
+### Kritikfeld 2: Juristische und rechtssicherheitsbezogene Kritik
+
+**Kritikbeschreibung:**  
+Juristische Akteure monieren, dass die Operationalisierung von „Beherrschen“ durch Rubrics, Indikatoren und Audit-Trail zwar die Nachvollziehbarkeit erhöht, aber weiterhin Interpretationsspielräume verbleiben, insbesondere bei Grenzfällen und Abweichungen von Standardpfaden (vgl. NotSanG § 2a; NotSan-APrV § 17 Abs. 2).
+
+**Rationale:**  
+Im Widerspruchs- oder Klagefall könnte argumentiert werden, dass die Bewertungsmaßstäbe nicht hinreichend eindeutig oder einheitlich angewendet wurden. Die Gefahr der subjektiven Bewertung bleibt trotz Standardisierung bestehen.
+
+**Reaktionsstrategie:**  
+Die Reaktionsstrategie sieht vor, die Bewertungsmaßstäbe transparent, vorab kommuniziert und in Rubrics mit Ankerbeispielen operationalisiert vorzuhalten (vgl. 3.1.4, 3.1.5). Die Dokumentation jedes Prüfungsprozesses im Audit-Trail (Abschnitt 3.1.5) sowie die Begründungspflicht bei Abweichungen sichern die Nachvollziehbarkeit und erhöhen die Bestandskraft der Entscheidungen. Kalibrierungsmaßnahmen für Prüfende und die Trennung von Rolle und Bewertung (z. B. Praxisanleitung ≠ Prüfer:in) reduzieren systematische Verzerrungen und stärken die Rechtssicherheit (siehe 3.3).
+
+### Kritikfeld 3: Klinisch-praktische Anschluss- und Validitätskritik
+
+**Kritikbeschreibung:**  
+Aus klinischer Perspektive wird kritisch hinterfragt, ob die Definition und Operationalisierung von „Beherrschen“ tatsächlich die Komplexität und Dynamik realer Einsatzsituationen abbildet. Es besteht die Sorge, dass die Prüfungspraxis zu stark auf formalistische Nachweise und weniger auf tatsächliche klinische Wirksamkeit und Patient:innensicherheit ausgerichtet wird (vgl. SK Verlag, 2021).
+
+**Rationale:**  
+Die Gefahr besteht, dass eine zu enge Kopplung an Rubrics und Szenarien die Adaptivität und Innovationsfähigkeit im Einsatz einschränkt und nicht alle, insbesondere seltene oder hochdynamische, Einsatzlagen angemessen abbildet.
+
+**Reaktionsstrategie:**  
+Die Operationalisierung von „Beherrschen“ erfolgt explizit über die Überwindung von Transformationsbarrieren in realen Einsatzkategorien (vgl. 4.3.1–4.3.6). Re-Evaluation und Adaptivität sind als Kernindikatoren in allen sechs Prüfungsperspektiven verankert. Abweichungen von Standardpfaden werden nicht pauschal abgewertet, sondern müssen evidenzbasiert und patient:innensicher begründet werden (Audit-Trail, Abschnitt 3.1.5, 4.3.4). Die kontinuierliche Rückkopplung von Einsatzdaten in die Curriculums- und Prüfungsentwicklung (siehe 4.3.5) stellt die Praxisnähe und Validität sicher.
+
+### Kritikfeld 4: Verwaltungspraktische und Implementierungskritik
+
+**Kritikbeschreibung:**  
+Verwaltungs- und Schulträger kritisieren die erhöhte Komplexität und den vermeintlichen Mehraufwand, der durch die Einführung von Rubrics, Audit-Trails und Kalibrierungsformaten entsteht. Es wird befürchtet, dass die Dokumentations- und Bewertungsanforderungen zu einer Überbürokratisierung führen und die Ressourcen der Einrichtungen überstrapazieren.
+
+**Rationale:**  
+Die Einführung neuer Bewertungsinstrumente und Dokumentationsstandards erfordert personelle, zeitliche und technische Ressourcen, deren Bereitstellung nicht immer gesichert ist. Die Sorge vor zusätzlicher Bürokratie ist insbesondere in ressourcenknappen Kontexten virulent.
+
+**Reaktionsstrategie:**  
+Die Reaktionsstrategie sieht eine schrittweise, priorisierte Implementierung vor (siehe 4.1.10, 4.4.6), die auf High-Impact-Formate fokussiert und digitale Tools zur Effizienzsteigerung nutzt. Der Audit-Trail ersetzt unsystematische Dokumentation durch strukturierte, rechtssichere Nachweise und reduziert so mittel- bis langfristig den Aufwand in Widerspruchs- und Klagefällen (vgl. 4.1.12). Die Modularisierung der Bewertungsinstrumente erlaubt eine flexible Anpassung an die jeweiligen Ressourcenlagen.
+
+### Kritikfeld 5: Praktisch-operative Kritik aus dem Feld
+
+**Kritikbeschreibung:**  
+Anwender:innen im Feld, insbesondere Praxisanleitende und Notfallsanitäter:innen, äußern die Befürchtung, dass die Operationalisierung von „Beherrschen“ zu einer Formalisierung und Standardisierung führt, die individuelle Professionalität, Erfahrungswissen und legitime Handlungsvarianten einschränkt.
+
+**Rationale:**  
+Es besteht die Sorge, dass die Bewertung von Handlungen zu schematisch erfolgt und nicht ausreichend Raum für kontextuelle Besonderheiten, kreative Problemlösungen und abweichende, aber begründete Handlungswege lässt.
+
+**Reaktionsstrategie:**  
+Die Bewertungslogik trennt explizit zwischen Zweck-Erfüllung (Zielrichtung) und Mittel-Beherrschung (Ausführungssicherheit) und bewertet die Operationseinheit, nicht das bloße Abarbeiten von Checklistenpunkten (vgl. 3.1.4, 4.2.3). Abweichungen von Standardpfaden werden, sofern sie patient:innensicher und evidenzbasiert begründet sind, als Professionalitätsmarker anerkannt (Audit-Trail, 4.2.7). Die Integration von Reflexionsphasen und Peer-Review-Formaten (siehe 4.4.5) fördert die Sichtbarkeit und Anerkennung individueller Professionalität.
+
+---
+
+**Zusammenfassende Bewertung:**  
+Die antizipierten Kritikfelder sind Ausdruck der hohen Komplexität und der multiplen Rationalitäten, in die der Begriff „Beherrschen“ eingebettet ist. Die vorgeschlagenen Reaktionsstrategien zielen darauf ab, berechtigte Einwände konstruktiv zu integrieren, ohne die normative Kohärenz und Anschlussfähigkeit an den Rechtsrahmen (NotSanG § 2a, NotSan-APrV § 17 Abs. 2) zu verlieren. Die systematische Dokumentation und Integration von Kritik in den Entwicklungszyklus der Bewertungsinstrumente, Rubrics und Audit-Trails (vgl. 5.1, 4.2.7, 4.4.6) stellt die fortlaufende Qualitäts- und Professionalisierungsentwicklung sicher.
+
+
+## 5.3 Umgang mit nicht-konstruktiver Kritik
+
+### 5.3.1 Definition und Kontext „nicht-konstruktiver Kritik“
+
+Im Rahmen dieser Arbeit wird unter „nicht-konstruktiver Kritik“ jede Form der Rückmeldung verstanden, die sich nicht auf überprüfbare Fakten, nachvollziehbare Argumentation oder belegbare Quellen stützt, sondern vorwiegend polemisch, emotionalisiert oder positionsbezogen auftritt. Typisch für nicht-konstruktive Kritik ist das Fehlen eines inhaltlichen Bezugs zur Sache, zur Operationalisierung des Begriffs „Beherrschen“ oder zu dessen Anwendung in Ausbildung und Prüfung. Sie äußert sich etwa in pauschalen Ablehnungen, persönlichen Angriffen, unbelegten Behauptungen oder allgemeinen Ressentiments gegenüber normativen Setzungen, ohne konkrete Verbesserungs- oder Änderungsoptionen zu benennen (vgl. Hanisch-Johannsen, 2025; SK Verlag, 2021).
+
+Diese Form der Kritik unterscheidet sich grundlegend von substanzhaltiger, konstruktiver Kritik, wie sie in Abschnitt 5.1.2 differenziert wurde. Während konstruktive Kritik auf die Weiterentwicklung des Konstrukts oder seiner Umsetzung abzielt und sich an überprüfbaren Kriterien orientiert, bleibt nicht-konstruktive Kritik methodisch unscharf und trägt nicht zur Qualitätsverbesserung oder zum Diskurs bei (siehe auch 5.1, 5.2).
+
+### 5.3.2 Notwendigkeit eines methodisch abgesicherten Umgangs
+
+Ein methodisch abgesicherter Umgang mit nicht-konstruktiver Kritik ist aus mehreren Gründen notwendig:
+
+- **Ressourcenschonung:** Die systematische Bearbeitung unsachlicher oder nicht belegter Kritik bindet erhebliche personelle und zeitliche Ressourcen, ohne dass ein Mehrwert für die Weiterentwicklung des Konstrukts entsteht.
+- **Schutz der normativen Kohärenz:** Die wiederholte oder laute Artikulation nicht-konstruktiver Einwände kann die Kohärenz und Verbindlichkeit normativer Setzungen untergraben. Dies gefährdet die Anschlussfähigkeit an den Rechtsrahmen (NotSanG § 2a, NotSan-APrV § 17 Abs. 2) und die wissenschaftlich fundierte Entwicklung des Begriffs (Hanisch-Johannsen, 2025).
+- **Vermeidung von Schein-Debatten:** Eine klare Trennung zwischen konstruktiver und nicht-konstruktiver Kritik verhindert, dass der Entwicklungsprozess durch endlose, nicht zielführende Debatten blockiert oder intransparent wird (vgl. SK Verlag, 2021).
+
+### 5.3.3 Systematisches Vorgehen im Umgang mit nicht-konstruktiver Kritik
+
+Das strukturierte Vorgehen im Umgang mit nicht-konstruktiver Kritik gliedert sich in drei aufeinander aufbauende Schritte:
+
+1. **Erkennung und Kategorisierung**
+   - Nicht-konstruktive Kritik wird anhand klarer Kriterien von konstruktiver Kritik unterschieden. Hierzu gehören: Fehlen von Quellen, Argumenten und Bezug zur Sache; Vorliegen rein polemischer, persönlicher oder pauschalisierender Aussagen; keine Benennung konkreter Änderungs- oder Verbesserungsoptionen.
+   - Die Kriterien orientieren sich an den in Abschnitt 5.1.2 dargestellten Qualitätsmerkmalen von Kritik (siehe auch 5.1, 5.2).
+
+2. **Dokumentation ohne Eskalation**
+   - Nicht-konstruktive Kritik wird sachlich und ohne Wertung im Kritikregister dokumentiert. Es erfolgt keine unmittelbare Anpassung der Definition, der Bewertungsinstrumente oder der curricularen Anbindung auf Basis solcher Einwände.
+   - Die Dokumentation dient der Transparenz und Nachvollziehbarkeit, ohne dass eine inhaltliche Reaktion oder Eskalation erfolgt.
+
+3. **Kommunikationsstrategie**
+   - Für Rückmeldungen auf nicht-konstruktive Kritik werden standardisierte Antwortformate verwendet. Diese schaffen Transparenz über die Kriterien der Kritikbearbeitung, verweisen auf die bestehende Dokumentation und die methodischen Grundlagen (z. B. auf die Abschnitte 5.1, 5.2 und die einschlägigen Quellen).
+   - Ziel ist es, unnötige Debatten zu vermeiden, die Ressourcen zu schonen und dennoch die Offenheit für konstruktive Beiträge zu signalisieren. Die Kommunikationsstrategie betont, dass nur substanzhaltige, überprüfbare Kritik in den Weiterentwicklungsprozess einfließt.
+
+### 5.3.4 Hinweis zur Abgrenzung und Legitimität
+
+Dieses Vorgehen dient ausdrücklich **nicht** der Abwehr legitimer, substanzhaltiger Kritik. Vielmehr wird durch die Kanalisierung nicht-konstruktiver Beiträge sichergestellt, dass der Diskurs auf die Verbesserung des Konstrukts, seiner Operationalisierung und Umsetzung fokussiert bleibt. Legitime Kritik – unabhängig von ihrer Position – wird weiterhin systematisch erfasst, differenziert bewertet und in den Entwicklungszyklus integriert (vgl. 5.1, 5.2; Hanisch-Johannsen, 2025).
+
+Die Trennung zwischen konstruktiver und nicht-konstruktiver Kritik ist ein zentrales Element der Qualitätssicherung, der Sicherung der normativen Kohärenz und der nachhaltigen Ressourcensteuerung im Entwicklungsprozess (vgl. SK Verlag, 2021).
+
+
+## 5.4 Weiterentwicklung aus Kritik
+
+Im Folgenden wird ein strukturierter Ansatz zur systematischen Weiterentwicklung der Definition und Operationalisierung des Begriffs „Beherrschen“ aus konstruktiver Kritik entwickelt. Ziel ist es, die theoretische Konsistenz und praktische Anwendbarkeit durch evidenzbasierte und nachvollziehbare Verbesserungen fortlaufend zu stärken (Hanisch-Johannsen, 2025; SK Verlag, 2021; NotSan-APrV § 17 Abs. 2).
+
+### 5.4.1 Zielsetzung der Weiterentwicklung
+
+Die Weiterentwicklung aus Kritik verfolgt das Ziel, auf Basis kritischer Rückmeldungen gezielt evidenzbasierte und kohärente Anpassungen der Definition und ihrer Operationalisierung vorzunehmen. Dies dient dazu, sowohl die theoretische Fundierung als auch die praktische Anwendbarkeit kontinuierlich zu verbessern. Dabei steht die Sicherung der Anschlussfähigkeit an den Rechts- und Prüfungsrahmen im Vordergrund, ebenso wie die Förderung einer lernenden, adaptiven Entwicklungskultur (Hanisch-Johannsen, 2025).
+
+### 5.4.2 Methodische Integration
+
+Der Prozess der methodischen Integration konstruktiver Kritik erfolgt in mehreren Schritten:
+
+**a) Sammlung der Kritik:**  
+Alle eingehenden Rückmeldungen werden in einem zentralen Kritikregister erfasst. Dies umfasst sowohl interne als auch externe Quellen (z. B. Prüfende, Praxispartner, Auszubildende, Rechtsinstanzen).
+
+**b) Kategorisierung:**  
+Die Kritik wird anhand der in den Abschnitten 5.1 und 5.2 entwickelten Kriterien systematisch kategorisiert: (1) Theoretisch-begriffliche Kritik, (2) Prüfmethodisch-empirische Kritik, (3) Praktisch-implementierungsbezogene Kritik, (4) Rechtlich-normative Kritik.
+
+**c) Priorisierung:**  
+Die Einträge werden nach Relevanz, Evidenzbasis und Dringlichkeit priorisiert. Besonders berücksichtigt werden Rückmeldungen, die durch empirische Daten, rechtliche Gutachten oder nachgewiesene Praxisprobleme gestützt sind (SK Verlag, 2021).
+
+**d) Ableitung von Anpassungsvorschlägen:**  
+Für priorisierte Kritikpunkte werden konkrete Anpassungsvorschläge entwickelt, die auf die Verbesserung der Definition, der Rubrics, der Indikatoren oder der Bewertungsinstrumente abzielen. Dabei wird transparent dokumentiert, welche empirischen oder normativen Grundlagen die vorgeschlagenen Änderungen stützen (Hanisch-Johannsen, 2025).
+
+### 5.4.3 Validierung vor Umsetzung
+
+Jede geplante Änderung durchläuft eine Validierung in einem interdisziplinären Qualitätszirkel, dem Vertreter:innen aus Schule, Praxis, Ärztlicher Leitung Rettungsdienst (ÄLRD) und – bei Bedarf – juristischem Beistand angehören. In diesem Gremium werden die Anpassungsvorschläge auf Kohärenz, Evidenzbezug, Rechtssicherheit und Praxistauglichkeit geprüft. Die Validierung erfolgt unter Bezugnahme auf bestehende Audit-Trails und Rubrics, um die Anschlussfähigkeit an die bisherigen Standards sicherzustellen (vgl. NotSan-APrV § 17 Abs. 2; Hanisch-Johannsen, 2025).
+
+### 5.4.4 Implementierungsschleifen
+
+Die Umsetzung erfolgt in iterativen Zyklen nach folgendem Muster:
+
+**Pilotierung → Evaluation → Roll-out**
+
+Zunächst werden Änderungen in ausgewählten Modulen oder Prüfungsformaten pilotiert. Die Evaluation basiert auf definierten Prozess- und Ergebnisindikatoren (z. B. Inter-Rater-Varianz, Akzeptanz, Nachvollziehbarkeit der Bewertung). Die Ergebnisse werden im Qualitätszirkel reflektiert und fließen in die Entscheidung über einen breiteren Roll-out ein. Dieser Ansatz ist an die in den Kapiteln 4.1.10 (Implementierungspfad) und 4.4.6 (Governance und Roll-out) dargelegten iterativen Entwicklungszyklen angelehnt (Hanisch-Johannsen, 2025; SK Verlag, 2021).
+
+### 5.4.5 Transparenz und Dokumentation
+
+Alle Änderungen werden versioniert und nachvollziehbar dokumentiert. Die Dokumentation umfasst:
+- die Begründung der Änderung,
+- die Quelle der Kritik (inkl. Evidenzbasis),
+- den Bezug zu empirischen Daten oder rechtlichen Anforderungen,
+- die Auswirkungen auf Rubrics, Bewertungsinstrumente und Curriculumentwicklung.
+
+Diese Änderungen werden systematisch in die Ausbildungs- und Prüfungsdokumente integriert und allen relevanten Akteursgruppen zugänglich gemacht. Die Versionierung schafft Transparenz und ermöglicht eine Rückverfolgung der Entwicklungsschritte (vgl. NotSan-APrV § 17 Abs. 2; Hanisch-Johannsen, 2025).
+
+### 6. Beispielhafte Anwendung
+
+**Fallskizze:**  
+Im Rahmen einer Evaluation meldeten mehrere Prüfer:innen zurück, dass die Gewichtung der Perspektive „Dokumentation“ in einer praktischen Prüfung zu gering ausfiel, wodurch relevante Entscheidungsbegründungen und Abweichungsbegründungen nicht ausreichend bewertet wurden. Diese Kritik wurde im Kritikregister dokumentiert und durch eine Analyse der Prüfungsprotokolle empirisch gestützt (niedrige Varianz bei Dokumentationsbewertungen, hohe Fehlerquote bei Entscheidungsbegründungen).
+
+Nach Kategorisierung und Priorisierung wurde im Qualitätszirkel ein Vorschlag zur Anpassung der Rubric-Anker für die Perspektive „Dokumentation“ entwickelt: Die Anker wurden so überarbeitet, dass Entscheidungs- und Abweichungsbegründungen explizit als Bewertungskriterium aufgenommen und differenziert gewichtet werden. Nach erfolgreicher Pilotierung und Evaluation wurde die Änderung versioniert dokumentiert und in die offiziellen Bewertungsbögen sowie die Schulungsunterlagen für Prüfende integriert.
+
+**Bezug zur Literatur:**  
+Dieser Prozess entspricht den in der Fachliteratur empfohlenen Methoden der evidenzbasierten Weiterentwicklung von Bewertungsinstrumenten und Curricula (Hanisch-Johannsen, 2025; SK Verlag, 2021) und ist anschlussfähig an die Vorgaben der NotSan-APrV § 17 Abs. 2.
 
 # 6 Zusammenfassung
 
