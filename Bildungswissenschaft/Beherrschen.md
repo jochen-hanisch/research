@@ -11,6 +11,12 @@ published: ""
 
 created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/):  | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
+# Einleitung
+
+Ausgangspunkt dieser Arbeit ist die Feststellung, dass der Begriff „Beherrschen“ im Kontext der Notfallsanitäter:innen-Ausbildung zwar in Gesetz, Verwaltung und Praxis flächendeckend verwendet wird, bislang jedoch über keine pädagogisch belastbare Definition verfügt. Das Erkenntnisinteresse liegt darin, diese Leerstelle systematisch zu schließen, den Begriff rechtskonform an NotSanG § 2a und NotSan-APrV § 17 Abs. 2 anzubinden und zugleich prüf- und dokumentierbar zu machen.  
+
+Im Zentrum steht die Entwicklung einer wissenschaftlich fundierten, operationalisierten Begriffsbestimmung, die sowohl den rechtlichen Anforderungen genügt als auch in Ausbildung, Prüfung und Einsatz konsistent angewendet werden kann. „Beherrschen“ wird dabei im systemtheoretischen Sinn als kleinste, nicht weiter teilbare Einheit professioneller Handlungsausführung verstanden, in der Unterscheidung, Analyse, Beurteilung und Ausführung simultan und untrennbar verschränkt auftreten. Die Arbeit entwickelt hierfür eine Operationalisierung über die sechs in § 17 Abs. 2 NotSan-APrV definierten Prüfungsperspektiven, sodass der Begriff in Curricula, Prüfverfahren und Einsatzdokumentation einheitlich verwendbar wird.
+
 
 # 1 Definition
 
@@ -706,7 +712,20 @@ Nach Kategorisierung und Priorisierung wurde im Qualitätszirkel ein Vorschlag z
 **Bezug zur Literatur:**  
 Dieser Prozess entspricht den in der Fachliteratur empfohlenen Methoden der evidenzbasierten Weiterentwicklung von Bewertungsinstrumenten und Curricula (Hanisch-Johannsen, 2025; SK Verlag, 2021) und ist anschlussfähig an die Vorgaben der NotSan-APrV § 17 Abs. 2.
 
+
 # 6 Zusammenfassung
+
+Die vorliegende Arbeit entwickelt eine umfassende, wissenschaftlich fundierte und praxisnahe Definition sowie Operationalisierung des Begriffs „Beherrschen“ im Kontext der Notfallsanitäter:innen-Ausbildung und -Prüfung. Ausgangspunkt ist die Analyse der begrifflichen Herkunft und der gesetzlichen Rahmung, insbesondere durch NotSanG § 2a und NotSan-APrV § 17 Abs. 2. „Beherrschen“ wird als unteilbare, systemtheoretisch gefasste Operation verstanden, in der Analyse, Beurteilung und Ausführung simultan und untrennbar verschränkt auftreten und deren Kern die evidenzbasierte Überwindung von Transformationsbarrieren bildet.
+
+Die methodische Herleitung stützt sich auf die sechs in der NotSan-APrV definierten Prüfungsperspektiven, die als Beobachtungslinsen dienen. Diese Perspektiven ermöglichen es, das Beherrschen als komplexe Handlungseinheit in Ausbildung, Prüfung und Einsatz systematisch sichtbar, prüf- und dokumentierbar zu machen. Die Operationalisierung erfolgt über explizite Indikatoren, standardisierte Nachweisformen (z. B. OSCE/OSPE, strukturierte Fallvignetten, Audit-Trails) und ankergeführte Bewertungssysteme (Rubrics), wodurch eine hohe Vergleichbarkeit, Reliabilität und Rechtssicherheit gewährleistet wird.
+
+Die Arbeit zieht daraus weitreichende Folgerungen: Die präzise Definition von „Beherrschen“ schließt eine zentrale pädagogische Leerstelle und überführt einen bislang unscharfen Rechtsbegriff in eine beobachtbare, kompetenzorientierte und curricular verankerbare Kategorie. Sie erhöht die Rechtssicherheit und Vergleichbarkeit im Prüfungswesen, schafft einen verbindlichen Referenzrahmen für die curriculare Gestaltung und ermöglicht eine kontinuierliche Qualitätsentwicklung. Die Standardisierung der Bewertungsmaßstäbe und die Kopplung an den Rechtsrahmen (NotSanG § 2a, NotSan-APrV § 17 Abs. 2) sichern die Nachvollziehbarkeit und Bestandskraft von Prüfungsentscheidungen.
+
+Die Implikationen der Operationalisierung betreffen die gezielte Anpassung bestehender Curricula, die Entwicklung evidenzbasierter Bewertungsinstrumente, die Ausrichtung der Ausbildung an realen Einsatzanforderungen sowie die Förderung interdisziplinärer Anschlussfähigkeit zwischen Pädagogik, Medizin, Recht und Verwaltung. Die Arbeit zeigt, dass die konsequente Orientierung an den gesetzlichen Vorgaben und die Integration empirischer Daten ein lernfähiges System schaffen, das curricular-didaktische Innovation, rechtssichere Prüfungen und eine evidenzbasierte Weiterentwicklung des Berufsbildes Notfallsanitäter:in ermöglicht.
+
+Im Umgang mit Kritik werden systematisch unterschiedliche Perspektiven (pädagogisch, rechtlich, klinisch, verwaltungspraktisch, operativ) analysiert und konstruktiv in den Entwicklungsprozess integriert. Die Arbeit legt dar, wie substanzhaltige Kritik gezielt zur Weiterentwicklung der Definition, der Bewertungsinstrumente und der curricularen Anbindung genutzt wird, während nicht-konstruktive Kritik ressourcenschonend dokumentiert, aber nicht inhaltlich berücksichtigt wird. Durch diesen reflexiven, iterativen Ansatz wird die Anschlussfähigkeit an den Rechtsrahmen und die wissenschaftliche Fundierung fortlaufend gesichert.
+
+Zusammenfassend bietet die Arbeit eine tragfähige, empirisch und normativ abgesicherte Grundlage für die Ausbildung, Prüfung und Professionalisierung im Berufsbild Notfallsanitäter:in, die sowohl den gesetzlichen Anforderungen als auch den Erfordernissen moderner Kompetenzentwicklung entspricht. Sie leistet damit einen substantiellen Beitrag zur theoretischen Klärung, zur praktischen Umsetzbarkeit und zur nachhaltigen Qualitätsentwicklung im rettungsdienstlichen Bildungssystem.
 
 # Quelle(n)
 
