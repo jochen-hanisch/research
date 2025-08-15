@@ -15,7 +15,8 @@ created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/rese
 
 Ausgangspunkt dieser Arbeit ist die Feststellung, dass der Begriff „Beherrschen“ im Kontext der Notfallsanitäter:innen-Ausbildung zwar in Gesetz, Verwaltung und Praxis flächendeckend verwendet wird, bislang jedoch über keine pädagogisch belastbare Definition verfügt. Das Erkenntnisinteresse liegt darin, diese Leerstelle systematisch zu schließen, den Begriff rechtskonform an NotSanG § 2a und NotSan-APrV § 17 Abs. 2 anzubinden und zugleich prüf- und dokumentierbar zu machen.  
 
-Im Zentrum steht die Entwicklung einer wissenschaftlich fundierten, operationalisierten Begriffsbestimmung, die sowohl den rechtlichen Anforderungen genügt als auch in Ausbildung, Prüfung und Einsatz konsistent angewendet werden kann. „Beherrschen“ wird dabei im systemtheoretischen Sinn als kleinste, nicht weiter teilbare Einheit professioneller Handlungsausführung verstanden, in der Unterscheidung, Analyse, Beurteilung und Ausführung simultan und untrennbar verschränkt auftreten. Die Arbeit entwickelt hierfür eine Operationalisierung über die sechs in § 17 Abs. 2 NotSan-APrV definierten Prüfungsperspektiven, sodass der Begriff in Curricula, Prüfverfahren und Einsatzdokumentation einheitlich verwendbar wird.
+
+**Theoretische Setzung:** Die hier vorgenommene Begriffsbestimmung folgt konsequent einer kompetenzorientierten Perspektive. Andere theoretische Ansätze zur Beschreibung professioneller Handlungsausführung - etwa rein wissensorientierte, erfahrungsbasierte oder rein prozeduralistische Modelle - werden bewusst nicht weiterverfolgt. Begründet wird dies mit der normativen Vorgabe, dass Ausbildung und Prüfung im Rahmen des NotSanG (§ 2a) und der NotSan-APrV (§ 17 Abs. 2) auf den Nachweis beruflicher Handlungskompetenz ausgerichtet sein müssen. Die Kompetenzorientierung wird somit nicht als eine Theorie unter vielen gewählt, sondern als rechtlich und prüfungssystematisch gebotener Bezugsrahmen, der die Einheit von Wissen, Können und reflektierter Entscheidungsfähigkeit abbildet.
 
 
 # 1 Definition
@@ -53,7 +54,7 @@ In der Fachsprache, insbesondere in technisch-naturwissenschaftlichen, künstler
 
 ## 2.3 Verwaltungsrechtliche Herleitung
 
-Der Begriff „Beherrschen“ wurde im rettungsdienstlichen Kontext erstmals mit der Einführung des Notfallsanitätergesetzes (NotSanG) im Jahr 2014 in den bundesrechtlichen Rahmen aufgenommen. In § 2a NotSanG, ergänzt durch das Gesetz zur Änderung des NotSanG vom 22. Dezember 2020 (BGBl. I S. 3320), wird festgelegt, dass Notfallsanitäter:innen bestimmte heilkundliche Maßnahmen „erlernt und beherrscht“ haben müssen, um diese eigenverantwortlich durchführen zu dürfen. Diese Formulierung ist bewusst offen gehalten und verzichtet auf eine präzise gesetzliche Definition des Begriffs. Sie impliziert jedoch, dass ein Qualifikationsnachweis sowohl den erfolgreichen Erwerb der entsprechenden Kenntnisse und Fertigkeiten als auch deren sichere, konsistente Anwendung belegt. Die Auslegung dieser Anforderung obliegt damit nachrangig den Landesvorgaben, den Ärztlichen Leitungen Rettungsdienst sowie den jeweiligen Ausbildungsträgern. (BMG, 2012, S. 47–48)
+Der Begriff „Beherrschen“ wurde im rettungsdienstlichen Kontext erstmals mit der Einführung des Notfallsanitätergesetzes (NotSanG) im Jahr 2014 in den bundesrechtlichen Rahmen aufgenommen. In § 2a NotSanG, ergänzt durch das Gesetz zur Änderung des NotSanG vom 22. Dezember 2020 (BGBl. I S. 3320), wird festgelegt, dass Notfallsanitäter:innen bestimmte heilkundliche Maßnahmen „erlernt und beherrscht“ haben müssen, um diese eigenverantwortlich durchführen zu dürfen. Diese Formulierung ist bewusst offen gehalten und verzichtet auf eine präzise gesetzliche Definition des Begriffs. Sie impliziert jedoch, dass ein Qualifikationsnachweis sowohl den erfolgreichen Erwerb der entsprechenden Kenntnisse und Fertigkeiten als auch deren sichere, konsistente Anwendung belegt. Die Auslegung dieser Anforderung obliegt damit nachrangig den Landesvorgaben, den Ärztlichen Leitungen Rettungsdienst sowie den jeweiligen Ausbildungsträgern. (BMG, 2012, S. 47-48)
 
 Die Ausführungsbestimmungen des Landes Nordrhein-Westfalen zum NotSanG konkretisieren den Begriff, ohne ihn abschließend zu definieren. Sie verweisen auf einheitliche Kataloge invasiver Maßnahmen und Medikationen sowie auf die Handlungsempfehlungen des Landesverbandes der Ärztlichen Leitungen Rettungsdienst NRW (ALRD NRW). In diesen Handlungsempfehlungen wird „Beherrschen“ vor allem über regelmäßige Zertifizierungen, in der Regel jährlich, nachgewiesen, die durch die jeweils zuständige Ärztliche Leitung Rettungsdienst durchgeführt oder delegiert werden. Auch hier bleibt offen, welche didaktischen oder prüfungsrelevanten Kriterien erfüllt sein müssen, um von „Beherrschen“ sprechen zu können.
 
@@ -63,7 +64,7 @@ Diese verwaltungsrechtliche Entwicklung verdeutlicht eine zentrale Diskrepanz: W
 
 > [!warning] Deutliche Beobachtung
 > 1. Fachfremde Akteure überführten einen pädagogisch undefinierten Begriff in den Bildungskontext, der sich weder curricular belastbar ausbilden noch prüfungsrechtlich valide bewerten lässt.
-> 2. Der Begriff „Beherrschen“ findet bundesweit inflationär und unreflektiert Verwendung, obwohl keinerlei gemeinsame begriffliche Grundlage existiert – Scheinpräzision und Pseudoverbindlichkeit treten an die Stelle einer überprüfbaren, tragfähigen Operationalisierung.
+> 2. Der Begriff „Beherrschen“ findet bundesweit inflationär und unreflektiert Verwendung, obwohl keinerlei gemeinsame begriffliche Grundlage existiert - Scheinpräzision und Pseudoverbindlichkeit treten an die Stelle einer überprüfbaren, tragfähigen Operationalisierung.
 > 3. Die Pädagogik hat diese gravierende Leerstelle bislang nicht schließen können; eine eigenständige, wissenschaftlich fundierte Definitions‑ und Korrekturarbeit steht aus.
 
 Die Leerstelle wird in der folgenden Synthese gezielt adressiert. Ausgehend von der aufgezeigten Diskrepanz zwischen normativer Verankerung und fehlender pädagogischer Präzisierung werden die zuvor getrennt betrachteten Dimensionen nun zu einem kohärenten, ausbildungs- und prüfungsrelevanten Begriffsrahmen zusammengeführt.
@@ -95,7 +96,7 @@ Die Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfall
 
 Diese sechs Prüfungsperspektiven sind für die vorliegende Arbeit von zentraler Bedeutung, da sie als „Beobachtungslinsen“ fungieren, über die die Operation des Beherrschens im praktischen Prüfungskontext sichtbar und beurteilbar gemacht wird. Auch wenn die NotSan-APrV selbst keine explizite Definition des Beherrschens liefert, ermöglicht die systematische Verknüpfung dieser sechs Kompetenzbereiche mit den in der Ausbildung vermittelten kognitiven und psychomotorischen Handlungsdimensionen eine didaktische Operationalisierung, die eine fundierte Bewertung der Handlungskompetenz erlaubt.
 
-Bemerkenswert ist, dass diese Struktur bereits im Referentenentwurf des BMG (2012) in Form einer zweidimensionalen Kompetenzmatrix angelegt war, in der die höchste theoretische Stufe („Beurteilen“) mit der höchsten praktischen Stufe („sehr gute Praxis“) als Beherrschen definiert wurde. Die Übernahme dieser Logik in die NotSan-APrV schafft eine implizite, wenn auch nicht ausdrücklich kodifizierte, Operationalisierung des Begriffs für die Prüfungspraxis. (BMG, 2012, S. 47–48)
+Bemerkenswert ist, dass diese Struktur bereits im Referentenentwurf des BMG (2012) in Form einer zweidimensionalen Kompetenzmatrix angelegt war, in der die höchste theoretische Stufe („Beurteilen“) mit der höchsten praktischen Stufe („sehr gute Praxis“) als Beherrschen definiert wurde. Die Übernahme dieser Logik in die NotSan-APrV schafft eine implizite, wenn auch nicht ausdrücklich kodifizierte, Operationalisierung des Begriffs für die Prüfungspraxis. (BMG, 2012, S. 47-48)
 
 ### 2.4.3 Kompetenz für High Responsibility Teams
 
@@ -106,7 +107,7 @@ Die hier verwendete Kompetenzdefinition versteht Kompetenz wie folgt:
 Diese Definition bietet einen präzisen, handlungsorientierten Rahmen, um den bislang unscharf verwendeten Begriff „Beherrschen“ zu präzisieren.
 Im Rahmen dieser Arbeit wird diese Definition als theoretische Grundlage genutzt, um „Beherrschen“ nicht nur begrifflich zu schärfen, sondern auch didaktisch und prüfungstechnisch zu operationalisieren. Sie erlaubt infolgedessen, den systemtheoretischen Operationsbegriff mit den ausbildungsrechtlichen Anforderungen des NotSanG und den prüfungsrelevanten Perspektiven der NotSan-APrV zu verknüpfen. Auf diese Weise wird „Beherrschen“ als eine unteilbare, zielgerichtete Handlungseinheit verstanden, die kognitive und psychomotorische Komponenten vereint und auf die Überwindung konkret identifizierter Transformationsbarrieren ausgerichtet ist.
 
-Erstens definiert sie Kompetenz nicht als statischen Besitz von Wissen oder Fertigkeiten, sondern als dynamische Disposition, in der Analyse, Beurteilung und Ausführung untrennbar verbunden sind. Zweitens ist der Fokus auf die Überwindung von Transformationsbarrieren gerichtet – eine Zielsetzung, die in der notfallmedizinischen Versorgung konkret und überprüfbar ist. Drittens bindet sie jede Handlung an eine ausbildungsrechtliche Grundlage, wodurch die Anbindung an NotSanG und NotSan-APrV strukturell sichergestellt wird.
+Erstens definiert sie Kompetenz nicht als statischen Besitz von Wissen oder Fertigkeiten, sondern als dynamische Disposition, in der Analyse, Beurteilung und Ausführung untrennbar verbunden sind. Zweitens ist der Fokus auf die Überwindung von Transformationsbarrieren gerichtet - eine Zielsetzung, die in der notfallmedizinischen Versorgung konkret und überprüfbar ist. Drittens bindet sie jede Handlung an eine ausbildungsrechtliche Grundlage, wodurch die Anbindung an NotSanG und NotSan-APrV strukturell sichergestellt wird.
 
 Wird diese Definition auf den Begriff „Beherrschen“ im Kontext der NotSan-APrV substituiert, lässt sich „Beherrschen“ als eine Operation im systemtheoretischen Sinn fassen, d.h. eine unteilbare Handlungseinheit, die gleichzeitig kognitive und psychomotorische Komponenten umfasst und darauf abzielt, die erkannten Transformationsbarrieren zu überwinden. Die sechs in § 17 Abs. 2 NotSan-APrV festgelegten Prüfungsperspektiven dienen in diesem Modell als Beobachtungslinsen, über die sich die Qualität und Vollständigkeit der Operation messen lässt.
 
@@ -153,7 +154,7 @@ Geeignet sind formatives und summatives OSCE/OSPE‑Design, simulationsgestützt
 
 ### 3.1.4 Bewertungstransparenz
 
-Die Verwendung ankergeführter Rubrics je Perspektive (z. B. vier Niveaustufen mit beschreibenden Ankern) reduziert Inter‑Rater‑Varianz. Die Rubrics referenzieren explizit die Kriterien *Benennen/Beschreiben → Analysieren/Beurteilen → Umsetzen* und trennen Zweck‑Erfüllung (Zielrichtung) von Mittel‑Beherrschung (Ausführungssicherheit).
+Die Verwendung von kompetenzorientierten Leistungsanforderungen je Perspektive, mit konkretisierten Kompetenzmerkmalen und kontextbezogenen Handlungskriterien, fördert die Transparenz der Bewertung und reduziert subjektive Varianz. Bewertet wird, ob die vorgegebenen Kompetenzindikatoren im gegebenen Kontext vollständig und angemessen erfüllt werden. Die Kriterien beziehen sich explizit auf das Benennen/Beschreiben, Analysieren/Beurteilen und Umsetzen relevanter Aspekte und trennen die Zielrichtung (Zweckerfüllung) von der Ausführungssicherheit.
 
 ### 3.1.5 Dokumentation und Nachvollziehbarkeit
 
@@ -191,22 +192,22 @@ Die Standardisierung der Bewertungskriterien für „Beherrschen“ erhöht die 
 **Normative Anschlussfähigkeit.** Die hier vorgeschlagenen Kriterien verankern die Bewertung des Beherrschens explizit in den geltenden Normen (NotSanG § 2a; NotSan‑APrV § 17 Abs. 2). Damit wird der offene Rechtsbegriff in eine prüfmethodisch abgesicherte Kategorie überführt. Prüfungsentscheidungen verweisen nicht auf „Eindruck“ oder „Gesamteindruck“, sondern auf benannte Perspektiven, definierte Indikatoren und dokumentierte Begründungen.
 
 **Standardisierungselemente.** Rechtssicherheit und Vergleichbarkeit entstehen insbesondere durch:
-- **Perspektivengebundene Rubrics** je § 17‑Perspektive (mit Ankerbeschreibungen pro Niveaustufe),
+- **Perspektivengebundene kompetenzorientierte Leistungsanforderungen** je § 17‑Perspektive (mit konkretisierten Kompetenzmerkmalen und kontextbezogenen Handlungskriterien),
 - **Standardisierte Nachweisformen** (OSCE/OSPE, strukturierte Fallvignetten, Entscheidungsprotokolle),
-- **Kalibrierte Bewertungsbögen** mit einheitlicher Punktlogik und Mindestanforderungen,
-- **Prüfer:innen‑Kalibration** (gemeinsame Durchsicht von Referenzvideos/Ankerfällen, Inter‑Rater‑Checks),
+- **Kalibrierte Bewertungsbögen** mit einheitlicher Nachweislogik und Mindestanforderungen,
+- **Prüfer:innen‑Kalibration** (gemeinsame Durchsicht von Referenzvideos und Fallbeispielen, Inter‑Rater‑Checks),
 - **Audit‑Trail** pro Prüfung (Szenario, Entscheidungen, Begründungen, Maßnahmen, Re‑Evaluation),
 - **Begründungspflicht bei Abweichungen** von Standardpfaden (Dokumentation, Risiko‑Nutzen‑Abwägung, Evidenzbezug).
 
-**Verfahrenssicherheit.** Für Widerspruchs‑ und Gerichtsverfahren ist entscheidend, dass (1) die Bewertungsmaßstäbe **vorab bekannt** waren, (2) sie **gleichmäßig angewendet** wurden und (3) die Entscheidung **nachvollziehbar begründet** ist. Die Kombination aus Rubrics, Protokollen und Audit‑Trail erfüllt diese Anforderungen und erhöht die Bestandskraft der Entscheidungen. Die Trennung von **Rolle und Bewertung** (z. B. Praxisanleitung ≠ Prüfer:in) verhindert Befangenheitsargumente.
+**Verfahrenssicherheit.** Für Widerspruchs‑ und Gerichtsverfahren ist entscheidend, dass (1) die Bewertungsmaßstäbe **vorab bekannt** waren, (2) sie **gleichmäßig angewendet** wurden und (3) die Entscheidung **nachvollziehbar begründet** ist. Die Kombination aus kompetenzorientierten Leistungsanforderungen, Protokollen und Audit‑Trail erfüllt diese Anforderungen und erhöht die Bestandskraft der Entscheidungen. Die Trennung von **Rolle und Bewertung** (z. B. Praxisanleitung ≠ Prüfer:in) verhindert Befangenheitsargumente.
 
-**Vergleichbarkeit.** Die Kopplung an klar definierte Perspektiven und Indikatoren ermöglicht Querschnittsvergleiche über Klassen, Jahrgänge und Standorte hinweg. Periodische **Item‑ und Varianzanalysen** der Bewertungsbögen identifizieren systematische Unterschiede (z. B. „harte“ vs. „weiche“ Prüfendenurteile) und liefern Ansatzpunkte für Kalibrierung und Fortbildung.
+**Vergleichbarkeit.** Die Kopplung an klar definierte Perspektiven und Indikatoren ermöglicht Querschnittsvergleiche über Klassen, Jahrgänge und Standorte hinweg. Periodische Analysen der Bewertungsbögen identifizieren systematische Unterschiede (z. B. unterschiedliche Bewertungsstile) und liefern Ansatzpunkte für Kalibrierung und Fortbildung.
 
 **Schnittstellenmanagement.** Die dokumentierte Begründung von Entscheidungen schafft Anschlüsse zu übergeordneten Akteuren (z. B. Ärztliche Leitung Rettungsdienst, Bezirksregierungen). Wo lokale Behandlungspfade/ALRD‑Vorgaben von der Lehrmeinung abweichen, macht die Begründungspflicht die Entscheidung **prüf‑ und dialogfähig**, ohne die Patient:innensicherheit zu relativieren.
 
-**Grenzen und Zuständigkeitsklarheit.** Standardisierung erzeugt keine Ergebnisdeterministik. Unterschiede der Fallschwere, Kontextfaktoren und legitime Handlungsvarianten bleiben anerkannt – entscheidend ist die **evidenzbasierte Zielrichtung** und die **plausible Begründung** der Operation. Zuständigkeiten zwischen Schule, Trägern und Ärztlicher Leitung sind in Prüfungsordnung/QM eindeutig zu regeln (z. B. wer definiert Mindestanforderungen, wer entscheidet in Grenzfällen).
+**Grenzen und Zuständigkeitsklarheit.** Standardisierung erzeugt keine Ergebnisdeterministik. Unterschiede der Fallschwere, Kontextfaktoren und legitime Handlungsvarianten bleiben anerkannt - entscheidend ist die **evidenzbasierte Zielrichtung** und die **plausible Begründung** der Operation. Zuständigkeiten zwischen Schule, Trägern und Ärztlicher Leitung sind in Prüfungsordnung/QM eindeutig zu regeln (z. B. wer definiert Mindestanforderungen, wer entscheidet in Grenzfällen).
 
-Rechtssicherheit und Vergleichbarkeit steigen, wenn „Beherrschen“ nicht als diffuse Zuschreibung, sondern als operationale Bewertungsgröße behandelt wird. Der Prüfungsprozess wird dadurch reproduzierbar, überprüfbar und anschlussfähig an den Rechtsrahmen – bei gleichzeitiger Wahrung der professionellen Urteilsspielräume in komplexen Einsatzsituationen.
+Rechtssicherheit und Vergleichbarkeit steigen, wenn „Beherrschen“ nicht als diffuse Zuschreibung, sondern als operationale Bewertungsgröße behandelt wird. Der Prüfungsprozess wird dadurch reproduzierbar, überprüfbar und anschlussfähig an den Rechtsrahmen - bei gleichzeitiger Wahrung der professionellen Urteilsspielräume in komplexen Einsatzsituationen.
 
 ## 3.4 Beitrag zur curricularen Gestaltung und Qualitätsentwicklung
 
@@ -244,7 +245,7 @@ Aus dieser Norm‑Didaktik‑Kopplung ergeben sich drei Grundprinzipien:
 2. **Abbildtreue (Content‑Validität):** Die sechs Linsen repräsentieren den in der Verordnung angelegten Handlungsraum und verhindern, dass Teilaspekte über‑ oder untergewichtet werden.
 3. **Nachweislogik:** Beobachtungen müssen entlang expliziter Indikatoren und begründungspflichtiger Entscheidungslogiken dokumentiert werden (Audit‑Trail), damit Prüfungsentscheidungen nachvollziehbar sind.
 
-Damit wird ein durchgängiger Referenzrahmen geschaffen: **Definition → Indikator → Nachweis → Bewertung** – konsistent anschlussfähig an NotSanG/NotSan‑APrV (BMG, 2012; NotSan‑APrV 2013/2021).
+Damit wird ein durchgängiger Referenzrahmen geschaffen: **Definition → Indikator → Nachweis → Bewertung** - konsistent anschlussfähig an NotSanG/NotSan‑APrV (BMG, 2012; NotSan‑APrV 2013/2021).
 
 ### 4.1.9 Begründung der Design‑Entscheidungen
 **(a) Outcomes als Operationen statt Inhaltslisten.** Lernziele werden als beobachtbare Operationen formuliert. Das minimiert das Risiko der Fehlmessung (Untererfassung relevanter Aspekte; Überfrachtung durch irrelevante Inhalte) und richtet Lehre und Prüfung auf dieselbe Bezugsgröße aus.
@@ -253,7 +254,7 @@ Damit wird ein durchgängiger Referenzrahmen geschaffen: **Definition → Indika
 
 **(c) Indikatoren mit Begründungszwang.** Indikatoren machen das Konstrukt beobachtbar; die Pflicht zur Begründung (z. B. Indikation, Alternativen, Abweichungen) schützt vor Scheinpräzision und fördert die reflektierte Professionalität.
 
-**(d) Ankergeführte Rubrics.** Beschreibende Anker je Niveaustufe verringern Inter‑Rater‑Varianz, machen Erwartungen transparent und erhöhen die Reproduzierbarkeit von Bewertungen.
+**(d) Konkretisierte Kompetenzmerkmale.** Kontextbezogene Handlungskriterien und konkretisierte Kompetenzmerkmale verringern Inter‑Rater‑Varianz, machen Erwartungen transparent und erhöhen die Reproduzierbarkeit von Bewertungen.
 
 **(e) Standardisierte Nachweisformen.** OSCE/OSPE‑Stationen, strukturierte Fallvignetten und Entscheidungsprotokolle erlauben kontrollierte Bedingungen, Vergleichbarkeit zwischen Kohorten und die Abbildung von Komplexität (inkl. Störungen, Zeitdruck, Re‑Evaluation).
 
@@ -263,12 +264,12 @@ Damit wird ein durchgängiger Referenzrahmen geschaffen: **Definition → Indika
 
 **(h) Simulation & deliberate practice.** Wiederholtes, fokusiertes Üben mit unmittelbarem Feedback adressiert gezielt Teilschwächen (z. B. Re‑Evaluation, Priorisierung), ohne den Operatonscharakter zu verlieren. 
 
-**(i) Reflexion als Leistungsbestandteil.** Strukturierte Kurzreflexionen (z. B. ISBAR‑Reflexion der Entscheidungslogik) sind expliziter Teil der Nachweise und fördern die Begründungstiefe – insbesondere bei Grenz‑ und Abweichungsfällen.
+**(i) Reflexion als Leistungsbestandteil.** Strukturierte Kurzreflexionen (z. B. ISBAR‑Reflexion der Entscheidungslogik) sind expliziter Teil der Nachweise und fördern die Begründungstiefe - insbesondere bei Grenz‑ und Abweichungsfällen.
 
 ### 4.1.10 Implementierungspfad
-1. **Vorbereitung (0–3 Monate):** Projektgruppe, Prüfungsordnung/QM‑Anpassung (Rubrics, Audit‑Trail, Abweichungsbegründung), Auswahl digitaler Tools. 
-2. **Pilotierung (4–6 Monate):** 3–4 OSCE‑Stationen mit Rubrics je Linse; Doppelbewertungen; Datenerhebung zu Varianz/Ankerverständnis.
-3. **Roll‑out (6–12 Monate):** Skalierung auf alle Module; Kalibrierzyklen für Prüfende; Fortbildungsprogramm für Praxisanleitende.
+1. **Vorbereitung (0-3 Monate):** Projektgruppe, Prüfungsordnung/QM‑Anpassung (Rubrics, Audit‑Trail, Abweichungsbegründung), Auswahl digitaler Tools. 
+2. **Pilotierung (4-6 Monate):** 3-4 OSCE‑Stationen mit Rubrics je Linse; Doppelbewertungen; Datenerhebung zu Varianz/Ankerverständnis.
+3. **Roll‑out (6-12 Monate):** Skalierung auf alle Module; Kalibrierzyklen für Prüfende; Fortbildungsprogramm für Praxisanleitende.
 4. **CQI (laufend):** Halbjährliche Item‑/Varianzanalysen; Curriculumsmodulation anhand der Daten; Austausch im Qualitätszirkel.
 
 ### 4.1.11 Erfolgskriterien (KPIs)
@@ -307,14 +308,14 @@ Die Operationalisierung von „Beherrschen“ verlangt Bewertungsinstrumente, di
 *Grenzen:* Geringere Kontrollierbarkeit, mehr Störvariablen; Bedarf an Kalibrierung der Beobachter:innen.  
 **(d) Entscheidungsprotokoll & Videoreflexion.** Strukturierte Dokumentation der Entscheidungswege (Indikation, Alternativen, Abweichungen, Re‑Evaluation) plus kurze Reflexion.  
 *Stärken:* Sichtbar machende Begründungstiefe; anschlussfähig an Audit‑Trail.  
-*Grenzen:* Zusätzlicher Dokumentationsaufwand – rechtfertigt sich über Rechts‑/Nachvollziehbarkeitsgewinn.
+*Grenzen:* Zusätzlicher Dokumentationsaufwand - rechtfertigt sich über Rechts‑/Nachvollziehbarkeitsgewinn.
 
-### 4.2.3 Bewertungssysteme: Rubrics, Checklisten und kritische Fehler  
-**Rubrics** bilden die **Operationseinheit** ab (nicht nur Skills). Empfohlen sind vier Niveaus (z. B. angeleitet → teilselbständig → selbständig → **beherrscht**) mit **beschreibenden Ankern** je § 17‑Linse. **Checklisten** können zur **Mindeststandard‑Absicherung** genutzt werden (Sicherheitschecks), werden aber **nicht** zur Hauptbewertung gemacht, um die „Checklistenfalle“ zu vermeiden. **Kritische Fehler/Red‑Flags** (z. B. keine Oxygenationskontrolle bei Hypoxie) führen zu unmittelbarer Abwertung, weil Patient:innensicherheit Vorrang hat.  
-*Begründung:* Kombination aus globaler Leistungsbewertung (Rubric) und Sicherheitsminima schafft **Reliabilität** und **Patient:innenschutz**.
+### 4.2.3 Bewertungssysteme: Kompetenzorientierte Leistungsanforderungen, Checklisten und kritische Fehler  
+**Kompetenzorientierte Leistungsanforderungen** bilden die **Operationseinheit** ab (nicht nur Skills). Bewertet wird die vollständige und kontextangemessene Erfüllung der relevanten Kompetenzindikatoren anhand von konkretisierten, kontextbezogenen Handlungskriterien je § 17‑Linse. **Checklisten** können zur **Mindeststandard‑Absicherung** genutzt werden (Sicherheitschecks), werden aber **nicht** zur Hauptbewertung gemacht, um die „Checklistenfalle“ zu vermeiden. **Kritische Fehler/Red‑Flags** (z. B. keine Oxygenationskontrolle bei Hypoxie) führen zu unmittelbarer Abwertung, weil Patient:innensicherheit Vorrang hat.  
+*Begründung:* Die Kombination aus globaler Leistungsbewertung anhand der kompetenzorientierten Nachweisformen und Sicherheitsminima schafft **Reliabilität** und **Patient:innenschutz**.
 
 ### 4.2.4 Standardsetzung (Cut‑Scores) und Grenzfälle  
-**Standard‑Setting** erfolgt transparent (Prüfungskommission) und methodisch begründet, z. B. **Angoff**, **Borderline‑Group/Regression** oder **Hofstee** – abhängig vom Format. Grenzfälle (z. B. starke Zielrichtung, aber formale Dokumentationslücken) werden in **Prüfungskonferenzen** mit Audit‑Trail entschieden; **patient:innensichere Zielrichtung** hat Vorrang, formale Defizite führen zu Auflagen.  
+**Standard‑Setting** erfolgt transparent (Prüfungskommission) und methodisch begründet, z. B. **Angoff**, **Borderline‑Group/Regression** oder **Hofstee** - abhängig vom Format. Grenzfälle (z. B. starke Zielrichtung, aber formale Dokumentationslücken) werden in **Prüfungskonferenzen** mit Audit‑Trail entschieden; **patient:innensichere Zielrichtung** hat Vorrang, formale Defizite führen zu Auflagen.  
 *Begründung:* Nachvollziehbare Standards erhöhen Bestandskraft im Widerspruchs-/Klagefall und reduzieren Willkür.
 
 ### 4.2.5 Psychometrische Güte: Reliabilität, Validität, Fairness  
@@ -331,7 +332,7 @@ Pflichtprogramm: **Ankerfälle/Referenzvideos**, **gemeinsame Bewertungsübungen
 *Begründung:* Kalibrierung reduziert Bewertungsstil‑Varianz (streng/mild) und erhöht die Vergleichbarkeit zwischen Standorten.
 
 ### 4.2.7 Dokumentation und Audit‑Trail  
-Jede Prüfung erzeugt einen **Audit‑Trail**: Szenario, Kontextfaktoren, Entscheidungen, Begründungen, Maßnahmen, Re‑Evaluation, Ergebnis; Rubric‑Scores + Freitext. **Abweichungen** von Standardpfaden werden **begründet** und **nicht per se negativ** gewertet (Evidenzbezug).  
+Jede Prüfung erzeugt einen **Audit‑Trail**: Szenario, Kontextfaktoren, Entscheidungen, Begründungen, Maßnahmen, Re‑Evaluation, Ergebnis; Bewertung anhand kompetenzorientierter Leistungsanforderungen + Freitext. **Abweichungen** von Standardpfaden werden **begründet** und **nicht per se negativ** gewertet (Evidenzbezug).  
 *Begründung:* Der Audit‑Trail schafft Rechts‑ und Verfahrenssicherheit und ermöglicht nachträgliche Prüfung/Qualitätsentwicklung.
 
 ### 4.2.8 Digitale Infrastruktur und Datenschutz  
@@ -348,10 +349,10 @@ Erforderlich sind **Assessment‑Tools** (OSCE‑App/Prüfungssoftware) mit Vers
 ### 4.2.10 Beispielstation (kompakt)  
 **Szenario:** 65‑jährige Person, akute Atemnot, SpO₂ 84 % RA, Tachypnoe, Zyanose, bekannte COPD.  
 **Linsen‑Mapping:** (1) Lageeinschätzung: Atemarbeit, Gefährdungen; (2) Arbeitsdiagnose: Exazerbation vs. Lungenembolie; (3) Gerät: O₂‑Gabe, Monitoring; (4) Maßnahmen: Titration O₂, Bronchodilatatoren, ggf. CPAP nach Indikation, Eskalationskriterien; (5) Dokumentation: Indikation, Re‑Evaluation, Abweichungen; (6) Transport/Übergabe: Zielklinik, ISBAR.  
-**Rubric‑Anker (Auszug):** *Beherrscht* = erkennt Hypoxie‑Risiken, differenziert COPD‑Exazerbation vs. Alternativen, titriert O₂ indikationsgerecht, begründet CPAP‑Einleitung oder unterlässt sie nachvollziehbar, dokumentiert Re‑Evaluation und Abweichungen.  
-*Begründung:* Das Beispiel zeigt, wie die Operation über alle Linsen beobachtbar und bewertbar wird – ohne Ergebnisfixierung, aber mit klarer Zielrichtung und Patient:innensicherheit.
+**Konkretisierte Kompetenzmerkmale (Auszug):** Nachweis der Kompetenz erfolgt, wenn Hypoxie‑Risiken erkannt werden, COPD‑Exazerbation von Alternativen differenziert wird, O₂ indikationsgerecht titriert wird, die Entscheidung zur CPAP‑Einleitung nachvollziehbar begründet oder abgelehnt wird und Re‑Evaluation sowie Abweichungen dokumentiert werden.  
+*Begründung:* Das Beispiel zeigt, wie die Operation über alle Linsen anhand von kontextbezogenen Handlungskriterien beobachtbar und bewertbar wird - ohne Ergebnisfixierung, aber mit klarer Zielrichtung und Patient:innensicherheit.
 
-**Zwischenergebnis:** Evidenzbasierte Bewertungsinstrumente entstehen nicht aus Formatpräferenzen, sondern aus der **Logik des Konstrukts Beherrschen** und seinem **Rechts-/Prüfrahmen**. Der Mix aus OSCE/OSPE, Vignetten, Einsatzbeobachtung, Entscheidungsprotokoll und Videoreflexion – kalibriert, standardgesetzt und auditierbar – ermöglicht verlässliche Nachweise für „erlernt und beherrscht“ (BMG, 2012).
+**Zwischenergebnis:** Evidenzbasierte Bewertungsinstrumente entstehen nicht aus Formatpräferenzen, sondern aus der **Logik des Konstrukts Beherrschen** und seinem **Rechts-/Prüfrahmen**. Der Mix aus OSCE/OSPE, Vignetten, Einsatzbeobachtung, Entscheidungsprotokoll und Videoreflexion - kalibriert, standardgesetzt und auditierbar - ermöglicht verlässliche Nachweise für „erlernt und beherrscht“ (BMG, 2012).
 
 ## 4.3 Ausrichtung an realen Einsatzanforderungen  
 Die Operationalisierung von „Beherrschen“ über einsatzrelevante Transformationsbarrieren stellt sicher, dass Ausbildung und Prüfung nicht an idealisierten Lehrbuchsituationen, sondern am **tatsächlichen Vollzug** des Rettungsdienstes ausgerichtet sind. Ziel ist eine konsistente Passung zwischen Lernzielen, Trainingsdesign und Prüfungsarchitektur auf der einen sowie den **realen Entscheidungs‑ und Handlungslagen** im Einsatz auf der anderen Seite (BMG, 2012; NotSan‑APrV 2013/2021). Im Folgenden wird diese Passung theoriegeleitet hergeleitet und praktisch begründet.
@@ -380,7 +381,7 @@ Beherrschen zeigt sich besonders in der **Adaptivität** unter sich verändernde
 
 ### 4.3.4 Evidenz‑ und Pfadbezug ohne Ergebnisfixierung  
 Szenarien referenzieren **Leitlinien/Behandlungspfade** (ALRD‑Standards, Klinikpfade) und definieren **Indikations‑ und Abweichungsbegründungen** als Nachweiserfordernis. Bewertet wird die **evidenzbasierte Zielrichtung** und die **plausible Begründung**, nicht der Zufalls‑Outcome.  
-*Begründung:* So wird Patient:innensicherheit priorisiert und zugleich **innovations‑ und lageangemessene** Abweichung ermöglicht – dokumentiert im Audit‑Trail (NotSanG § 2a; NotSan‑APrV § 17 Abs. 2).
+*Begründung:* So wird Patient:innensicherheit priorisiert und zugleich **innovations‑ und lageangemessene** Abweichung ermöglicht - dokumentiert im Audit‑Trail (NotSanG § 2a; NotSan‑APrV § 17 Abs. 2).
 
 ### 4.3.5 Feld‑Datenrückführung („Learning System“)  
 Einsatzdaten (z. B. Dokumentationsqualität, Häufigkeit von Re‑Evaluationen, Abweichungsbegründungen) fließen als **Kennzahlen** in Lehre und Prüfung zurück:  
@@ -394,7 +395,7 @@ Zur Balance zwischen Sicherheit und Professionalität werden **Sicherheitsminima
 *Begründung:* Diese Trennung verhindert, dass Standardisierung zur Ergebnisdeterministik wird, und schützt zugleich vor patient:innengefährdender Varianz (NotSan‑APrV § 17 Abs. 2).
 
 ### 4.3.7 Implementierung im Ausbildungsverbund  
-- **Lernortkoordination:** Gemeinsame Szenario‑Roadmaps Schule–Praxis–ÄLRD; jährliche Abgleichkonferenz.  
+- **Lernortkoordination:** Gemeinsame Szenario‑Roadmaps Schule-Praxis-ÄLRD; jährliche Abgleichkonferenz.  
 - **Prüfungskompatibilität:** Ausbildungs‑Szenarien spiegeln Prüfungsanforderungen (Linsen/Indikatoren), ohne „Teaching‑to‑the‑test“.  
 - **Rollenklärung:** Praxisanleitung trainiert, Prüfende bewerten; **Kalibrierung** auf beiden Seiten (Videofälle, Ankerbeispiele).  
 *Begründung:* Nur ein abgestimmter Verbund verhindert Brüche zwischen Unterricht, Einsatzbegleitung und Prüfung.
@@ -406,14 +407,14 @@ Zur Überprüfung der Einsatznähe werden **prozess‑ und ergebnisnahe** Kennza
 - **Transfer‑KPIs:** Übereinstimmung zwischen Simulations‑ und Einsatzverhalten, Feedback der Praxispartner, Bestandskraft von Prüfungsentscheidungen.  
 *Begründung:* KPIs machen **Einsatzpassung** sichtbar und steuern die kontinuierliche Qualitätsentwicklung (CQI).
 
-**Ergebnis:** Die Ausrichtung an realen Einsatzanforderungen ist keine dramaturgische Anreicherung der Lehre, sondern eine direkte Konsequenz aus der begrifflichen und prüfmethodischen Fassung von „Beherrschen“. Ausbildungsziele, Szenarien und Prüfungen werden so gestaltet, dass die **Operation** unter den Bedingungen des Feldes beobacht‑, prüf‑ und dokumentierbar wird – anschlussfähig an Rechtsrahmen und Leitlinien, ohne in Ergebnisfixierung oder Algorithmus‑Drill zu verfallen (BMG, 2012; SK Verlag, 2021; Hanisch‑Johannsen, 2025).
+**Ergebnis:** Die Ausrichtung an realen Einsatzanforderungen ist keine dramaturgische Anreicherung der Lehre, sondern eine direkte Konsequenz aus der begrifflichen und prüfmethodischen Fassung von „Beherrschen“. Ausbildungsziele, Szenarien und Prüfungen werden so gestaltet, dass die **Operation** unter den Bedingungen des Feldes beobacht‑, prüf‑ und dokumentierbar wird - anschlussfähig an Rechtsrahmen und Leitlinien, ohne in Ergebnisfixierung oder Algorithmus‑Drill zu verfallen (BMG, 2012; SK Verlag, 2021; Hanisch‑Johannsen, 2025).
 
 
 ## 4.4 Förderung interdisziplinärer Anschlussfähigkeit  
 Die präzisierte Fassung von „Beherrschen“ als Operation schafft eine **gemeinsame Referenzsprache** zwischen Pädagogik, Medizin, Recht und Verwaltung. Sie bündelt unterschiedliche Rationalitäten (didaktische Wirksamkeit, klinische Sicherheit, rechtliche Nachvollziehbarkeit, verwaltungspraktische Umsetzbarkeit) auf einen **beobacht‑, prüf‑ und dokumentierbaren** Kern. Damit wird nicht nur Kommunikation erleichtert; es entstehen belastbare **Schnittstellen‑ und Governance‑Strukturen**, die den Vollzug von Ausbildung und Prüfung konsistenter machen (BMG, 2012; NotSan‑APrV 2013/2021; Hanisch‑Johannsen, 2025).
 
 ### 4.4.1 Ausgangslage: Polyphonie ohne gemeinsame Semantik  
-Bislang wurde „Beherrschen“ in den Feldern **pädagogisch**, **medizinisch**, **rechtlich** und **verwaltungspraktisch** unterschiedlich verwendet: als Fähigkeitslabel, als klinische Sicherheitserwartung, als offener Rechtsbegriff (§ 2a NotSanG), als Vollzugsstandard (Erlasse/ALRD‑Vorgaben). Ohne gemeinsame Semantik führten diese Deutungen zu **Reibungs‑ und Übersetzungsverlusten** – in Curricula, Prüfungen und Rechtsverfahren. Die Operationalisierung (Unterscheidung‑Analyse‑Beurteilung‑Ausführung) bietet hier einen **anschlussfähigen kleinsten gemeinsamen Nenner**.
+Bislang wurde „Beherrschen“ in den Feldern **pädagogisch**, **medizinisch**, **rechtlich** und **verwaltungspraktisch** unterschiedlich verwendet: als Fähigkeitslabel, als klinische Sicherheitserwartung, als offener Rechtsbegriff (§ 2a NotSanG), als Vollzugsstandard (Erlasse/ALRD‑Vorgaben). Ohne gemeinsame Semantik führten diese Deutungen zu **Reibungs‑ und Übersetzungsverlusten** - in Curricula, Prüfungen und Rechtsverfahren. Die Operationalisierung (Unterscheidung‑Analyse‑Beurteilung‑Ausführung) bietet hier einen **anschlussfähigen kleinsten gemeinsamen Nenner**.
 
 ### 4.4.2 Brückenkonzept: Operation + Linsen + Audit‑Trail  
 Interdisziplinäre Anschlussfähigkeit entsteht, wenn alle Beteiligten auf **drei gemeinsame Artefakte** referenzieren:  
@@ -437,16 +438,16 @@ Diese Trias übersetzt pädagogische, klinische und rechtliche Anforderungen in 
 *Begründung:* Geteilte Artefakte erzeugen **konsistente Praxis** über Lernorte und Institutionen hinweg (NotSan‑APrV § 17 Abs. 2).
 
 ### 4.4.5 Kommunikations‑ und Reviewformate  
-- **Fallkonferenzen** (monatlich): Schule–Praxis–ÄLRD; Analyse realer Fälle mit Fokus auf Barrierenwahrnehmung, Entscheidungslogik, Re‑Evaluation.  
+- **Fallkonferenzen** (monatlich): Schule-Praxis-ÄLRD; Analyse realer Fälle mit Fokus auf Barrierenwahrnehmung, Entscheidungslogik, Re‑Evaluation.  
 - **No‑blame‑Reviews** (quartalsweise): systemische Fehleranalyse; Trennung von Person und Prozess; Ableitung curricularer/organisationaler Maßnahmen.  
 - **Evidence‑Updates** (halbjährlich): Leitlinien‑/Pfadänderungen, Konsequenzen für Rubrics/Szenarien.  
 - **Linsen‑Kalibrierungen** (mind. halbjährlich): gemeinsame Bewertung von Referenzvideos; Inter‑Rater‑Report.  
 *Begründung:* Regelmäßige, ritualisierte Formate **stabilisieren** die gemeinsame Semantik im Alltag (Hanisch‑Johannsen, 2025).
 
 ### 4.4.6 Implementierungspfad  
-1) **0–3 Monate:** Glossar‑Entwurf, erste Rubrics, Audit‑Trail‑Template, Gremienkonstitution.  
-2) **4–6 Monate:** Pilot‑Fallkonferenzen und Kalibrierzirkel, Szenariobank‑Start, Abweichungsleitlinie v1.  
-3) **6–12 Monate:** Roll‑out auf alle Module/Prüfungen, jährlicher Kalibrier‑Zyklus, Verankerung in Prüfungsordnung/QM.  
+1) **0-3 Monate:** Glossar‑Entwurf, erste Rubrics, Audit‑Trail‑Template, Gremienkonstitution.  
+2) **4-6 Monate:** Pilot‑Fallkonferenzen und Kalibrierzirkel, Szenariobank‑Start, Abweichungsleitlinie v1.  
+3) **6-12 Monate:** Roll‑out auf alle Module/Prüfungen, jährlicher Kalibrier‑Zyklus, Verankerung in Prüfungsordnung/QM.  
 *Begründung:* Ein klarer Pfad verhindert **Schattennormsetzung** und schafft früh **Verbindlichkeit**.
 
 ### 4.4.7 Risiken und Gegenmaßnahmen  
@@ -470,14 +471,14 @@ Die präzise Fassung von „Beherrschen“ als **Operation** (Unterscheidung, An
 
 ### 4.5.1 Forschungsprogramm: Leitfragen und Hypothesen  
 Aus der Operationalisierung ergeben sich die folgenden **Leitfragen**:
-1. **Messbarkeit**: In welchem Ausmaß erfassen Rubrics je § 17‑Linse tatsächlich die intendierte Operation (Konstrukt‑Validität)?  
-2. **Prognosekraft**: Inwiefern sagt die in Prüfung/Simulation nachgewiesene Beherrschung **Einsatzverhalten** voraus (Kriteriums‑Validität)?  
+1. **Messbarkeit**: In welchem Ausmaß erfassen die kompetenzorientierten Leistungsanforderungen je § 17‑Linse tatsächlich die intendierte Operation (Konstrukt‑Validität)?  
+2. **Prognosekraft**: Inwiefern sagt die in Prüfung/Simulation nachgewiesene Erfüllung der Kompetenzanforderungen das **Einsatzverhalten** voraus (Kriteriums‑Validität)?  
 3. **Wirksamkeit**: Welche Lehr‑/Prüfdesigns erhöhen die Wahrscheinlichkeit, dass die Operation unter Feldbedingungen gelingend vollzogen wird (Wirksamkeitsnachweise von Simulation, deliberate practice, Reflexion)?  
 4. **Fairness**: Wie wirken sich Format, Sprache, Stressoren oder Prüfer:inneneffekte auf die Ergebnisgerechtigkeit aus (Bias, Barrierefreiheit)?
 
 **Arbeits‑Hypothesen** (beispielhaft):  
-H1: Höhere Rubric‑Scores in den Linsen *Arbeitsdiagnose* und *Re‑Evaluation* korrelieren positiv mit der Konsistenz klinischer Entscheidungen im Feld (z. B. dokumentierte Indikationsbegründungen).  
-H2: Kalibrierte OSCE‑Stationen mit Ankerbeschreibungen reduzieren Inter‑Rater‑Varianz signifikant gegenüber nicht kalibrierten mündlich‑praktischen Prüfungen.  
+H1: Die vollständige Erfüllung der Kompetenzindikatoren in den Perspektiven *Arbeitsdiagnose* und *Re‑Evaluation* korreliert positiv mit der Konsistenz klinischer Entscheidungen im Feld (z. B. dokumentierte Indikationsbegründungen).  
+H2: Kalibrierte OSCE‑Stationen mit konkretisierten Kompetenzmerkmalen und kontextbezogenen Handlungskriterien reduzieren Inter‑Rater‑Varianz signifikant gegenüber nicht kalibrierten mündlich‑praktischen Prüfungen.  
 H3: Szenarien mit expliziten **Abweichungsbegründungen** (Audit‑Trail) verbessern die Begründungstiefe und verringern sicherheitsrelevante Fehler gegenüber rein algorithmischen Drills (SK Verlag, 2021).
 
 ### 4.5.2 Messmodelle und Datendesign  
@@ -490,7 +491,7 @@ H3: Szenarien mit expliziten **Abweichungsbegründungen** (Audit‑Trail) verbes
 *Begründung:* Nur robuste Messmodelle machen die Konstrukte „operationale Beherrschung“ und „Prüfzuverlässigkeit“ wissenschaftlich anschlussfähig und steuerbar (Hanisch‑Johannsen, 2025).
 
 ### 4.5.3 Datenquellen und Kennzahlen (Praxis‑Alignment)  
-**Prüfungsdaten**: Rubric‑Scores, kritische Fehler, Freitexte der Begründungen, Zeitmaße (z. B. bis Erstmaßnahme).  
+**Prüfungsdaten**: Erfüllung der Kompetenzindikatoren (z. B. anhand von Beobachtungskriterien für die Operation Beherrschen), kritische Fehler, Freitexte der Begründungen, Zeitmaße (z. B. bis Erstmaßnahme).  
 **Praxisdaten**: Einsatzprotokolle (Indikations‑/Abweichungsbegründungen, Re‑Evaluation‑Zyklen), Übergabequalität (ISBAR‑Skalen), Follow‑up‑Indikatoren (z. B. Prozesszeiten, nicht outcome‑fixiert).  
 **Bildungsprozesse**: Teilnahme an Simulation/Reflexion, Kalibriertrainings, OSCE‑Exposure.  
 *Kennzahlen*: Inter‑Rater‑ICC, Standardfehler der Messung, Blueprint‑Coverage, Re‑Evaluation‑Rate, Häufigkeit sicherheitsrelevanter Fehler, Bestandskraft von Prüfungsentscheidungen (Widerspruchsquote).  
@@ -499,11 +500,11 @@ H3: Szenarien mit expliziten **Abweichungsbegründungen** (Audit‑Trail) verbes
 ### 4.5.4 Transfer in Fort‑ und Weiterbildung (CPD) und Rezertifizierung  
 Die Operation „Beherrschen“ liefert **durchgängige Maßstäbe** von der Erstausbildung bis zur berufsbegleitenden Fortbildung:  
 - **CPD‑Module** spiegeln die sechs Linsen; Nachweise erfolgen über Mini‑OSCEs/DOPS mit Audit‑Trail.  
-- **Rezertifizierung** koppelt sich an Rubric‑Nachweise statt an Stundenlisten; Abweichungsbegründungen werden als **Professionalitätsmarker** anerkannt, wenn sie evidenzbasiert sind.  
+- **Rezertifizierung** koppelt sich an Nachweise anhand kompetenzorientierter Leistungsanforderungen statt an Stundenlisten; Abweichungsbegründungen werden als **Professionalitätsmarker** anerkannt, wenn sie evidenzbasiert sind.  
 *Begründung:* So entsteht ein **kohärentes Kompetenzkontinuum**, das Patient:innensicherheit und Berufsethos stärkt (Hanisch‑Johannsen, 2025).
 
 ### 4.5.5 Professionalisierung und Rollenbild  
-Die begründete Operation rückt **urteilende Verantwortlichkeit** vor reine Prozedurenbeherrschung. Das Berufsbild verschiebt sich vom „Algorithmusvollstrecker“ zum **begründenden Professional**: Entscheidungen werden **sichtbar, überprüfbar und anschlussfähig** – für Kolleg:innen, Ärztliche Leitung, Recht und Verwaltung.  
+Die begründete Operation rückt **urteilende Verantwortlichkeit** vor reine Prozedurenbeherrschung. Das Berufsbild verschiebt sich vom „Algorithmusvollstrecker“ zum **begründenden Professional**: Entscheidungen werden **sichtbar, überprüfbar und anschlussfähig** - für Kolleg:innen, Ärztliche Leitung, Recht und Verwaltung.  
 *Begründung:* Dies erhöht die **berufliche Autonomie**, ohne den Rechtsrahmen zu verlassen (§ 2a NotSanG), und stärkt die externe Legitimationskraft des Berufs.
 
 ### 4.5.6 Governance und Policy‑Anschluss  
@@ -515,7 +516,7 @@ Die empirisch fundierte Operationalisierung dient als **Referenz** für Prüfung
 ### 4.5.7 Ethik, Datenschutz und Forschungszugang  
 **Ethik**: No‑blame‑Prinzip, Trennung Lern‑/Sanktionslogik, Zustimmung zu Video‑/Datenverwendung.  
 **Datenschutz**: Rollen‑/Rechtemanagement, Pseudonymisierung, Aufbewahrungsfristen, dokumentierte Löschkonzepte.  
-**Zugang**: Kooperationsvereinbarungen Schule–Träger–ÄLRD; klare Zweckbindung der Daten (Qualität, Forschung).  
+**Zugang**: Kooperationsvereinbarungen Schule-Träger-ÄLRD; klare Zweckbindung der Daten (Qualität, Forschung).  
 *Begründung:* Professionalisierung verlangt **vertrauensfähige Datenpraktiken**, sonst bricht das Learning System.
 
 ### 4.5.8 Veröffentlichungs‑ und Diskursstrategie  
@@ -530,7 +531,7 @@ Die empirisch fundierte Operationalisierung dient als **Referenz** für Prüfung
 - **Ressourcen**: Simulation/Datenerhebung sind aufwändig → stufenweise Implementierung, Kooperationen.  
 *Konsequenz:* Fortlaufende **Methodenpflege** (Rubrics, Anker, KPIs) ist Teil der Professionalisierung.
 
-**Fazit:** Mit der hier vorgelegten Operationalisierung wird das Berufsbild Notfallsanitäter:in **empirisch adressierbar**: Was das Gesetz als „erlernt und beherrscht“ verlangt, wird prüf‑ und messbar. Damit entsteht eine belastbare Basis für curricular‑didaktische Innovation, rechtssichere Prüfungen und eine evidenzbasierte Weiterentwicklung des Berufs – anschlussfähig an Recht, Leitlinien und professionelle Selbstverantwortung (BMG, 2012; NotSan‑APrV 2013/2021; SK Verlag, 2021; Hanisch‑Johannsen, 2025).
+**Fazit:** Mit der hier vorgelegten Operationalisierung wird das Berufsbild Notfallsanitäter:in **empirisch adressierbar**: Was das Gesetz als „erlernt und beherrscht“ verlangt, wird prüf‑ und messbar. Damit entsteht eine belastbare Basis für curricular‑didaktische Innovation, rechtssichere Prüfungen und eine evidenzbasierte Weiterentwicklung des Berufs - anschlussfähig an Recht, Leitlinien und professionelle Selbstverantwortung (BMG, 2012; NotSan‑APrV 2013/2021; SK Verlag, 2021; Hanisch‑Johannsen, 2025).
 
 # 5 Kritik
 
@@ -547,25 +548,25 @@ Die Zielsetzung gliedert sich daher in drei operative Unterziele:
 
 2. **Differenzierung nach Kritikqualität:** Trennung zwischen substanzhaltiger, überprüfbarer Kritik (z. B. auf Basis empirischer Daten, rechtlicher Argumentation oder didaktischer Plausibilität) und Kritik, die primär aus positionsbezogenen oder machtstrategischen Motiven heraus erfolgt. Letztere wird zwar dokumentiert, aber nicht als inhaltliche Grundlage für Änderungen verwendet.
 
-3. **Integration konstruktiver Kritik in den Entwicklungszyklus:** Entwicklung klarer Verfahren, wie substanzielle Kritik in den Änderungs- und Pflegeprozess der Definition, der Bewertungsinstrumente und der curricularen Anbindung einfließt. Dies umfasst Rückkopplungen in Qualitätszirkeln, Anpassung von Rubrics und Audit-Trails sowie die Einbettung in Schulungs- und Kalibrierungsformate.
+3. **Integration konstruktiver Kritik in den Entwicklungszyklus:** Entwicklung klarer Verfahren, wie substanzielle Kritik in den Änderungs- und Pflegeprozess der Definition, der Bewertungsinstrumente und der curricularen Anbindung einfließt. Dies umfasst Rückkopplungen in Qualitätszirkeln, Anpassung von kompetenzorientierten Leistungsanforderungen und Audit-Trails sowie die Einbettung in Schulungs- und Kalibrierungsformate.
 
 Durch diese Zielsetzung wird das Kritik-Kapitel zu einem aktiven Baustein der theoretischen und praktischen Weiterentwicklung. Es schützt die Kohärenz der normativen Setzung, ohne sie gegenüber berechtigter Anpassung zu immunisieren, und es macht den Umgang mit Kritik selbst transparent, nachvollziehbar und anschlussfähig für alle beteiligten Akteursgruppen.
 
 
 ## 5.2 Kritikfelder und Reaktionsstrategien
 
-Die nachfolgende Analyse identifiziert zentrale, antizipierte Kritikfelder an Definition und Operationalisierung des Begriffs „Beherrschen“ und skizziert strukturierte Reaktionsstrategien. Die Darstellung erfolgt multiperspektivisch, um die Komplexität des Gegenstands gerecht abzubilden. Bezugnahmen auf relevante Dokumentabschnitte (z. B. Rubrics, Audit-Trail, NotSanG § 2a, NotSan-APrV § 17 Abs. 2) und einschlägige Quellen sind integriert, um die Anschlussfähigkeit an bestehende Normen und wissenschaftliche Diskurse zu sichern.
+Die nachfolgende Analyse identifiziert zentrale, antizipierte Kritikfelder an Definition und Operationalisierung des Begriffs „Beherrschen“ und skizziert strukturierte Reaktionsstrategien. Die Darstellung erfolgt multiperspektivisch, um die Komplexität des Gegenstands gerecht abzubilden. Bezugnahmen auf relevante Dokumentabschnitte (z. B. kompetenzorientierte Leistungsanforderungen, Audit-Trail, NotSanG § 2a, NotSan-APrV § 17 Abs. 2) und einschlägige Quellen sind integriert, um die Anschlussfähigkeit an bestehende Normen und wissenschaftliche Diskurse zu sichern.
 
 ### Kritikfeld 1: Pädagogische Reduktionismus- und Operationalisierungskritik
 
 **Kritikbeschreibung:**  
-Aus bildungswissenschaftlicher Sicht wird häufig eingewandt, dass die Operationalisierung komplexer professioneller Handlungsfähigkeit auf prüfbare Einheiten (Rubrics, Indikatoren) eine Reduktion pädagogischer Prozesse auf beobachtbare Teilhandlungen bewirkt. Kritiker:innen argumentieren, dass dadurch reflexive, kreative und relationale Aspekte des professionellen Handelns unsichtbar oder unterbewertet bleiben (vgl. Hanisch-Johannsen, 2025).
+Aus bildungswissenschaftlicher Sicht wird häufig eingewandt, dass die Operationalisierung komplexer professioneller Handlungsfähigkeit auf prüfbare Einheiten (kompetenzorientierte Leistungsanforderungen, Indikatoren) eine Reduktion pädagogischer Prozesse auf beobachtbare Teilhandlungen bewirkt. Kritiker:innen argumentieren, dass dadurch reflexive, kreative und relationale Aspekte des professionellen Handelns unsichtbar oder unterbewertet bleiben (vgl. Hanisch-Johannsen, 2025).
 
 **Rationale:**  
 Die Gefahr besteht, dass die Definition von „Beherrschen“ als unteilbare Operation (vgl. Abschnitt 2.4, 3.1.1) zu einer Überbetonung von Standardisierbarkeit und Messbarkeit führt, während emergente, kontextabhängige Kompetenzen (z. B. situative Urteilskraft, ethische Dilemmabewältigung) in den Hintergrund treten.
 
 **Reaktionsstrategie:**  
-Die Rubrics und Bewertungsinstrumente werden so gestaltet, dass sie nicht nur das beobachtbare Handeln, sondern explizit auch die Begründungs- und Reflexionsfähigkeit abbilden (siehe 3.1.2, 3.1.4). Die Pflicht zur Entscheidungsbegründung und die Integration von Reflexionsphasen (z. B. ISBAR-Reflexion, Audit-Trail) adressieren diese Kritik, indem sie die reflexive Dimension zum expliziten Bewertungsgegenstand machen. Die Definition von „Beherrschen“ bleibt damit dynamisch und anschlussfähig an die Prinzipien kompetenzorientierter Bildung (Hanisch-Johannsen, 2025).
+Die kompetenzorientierten Leistungsanforderungen und Bewertungsinstrumente werden so gestaltet, dass sie nicht nur das beobachtbare Handeln, sondern explizit auch die Begründungs- und Reflexionsfähigkeit abbilden (siehe 3.1.2, 3.1.4). Die Pflicht zur Entscheidungsbegründung und die Integration von Reflexionsphasen (z. B. ISBAR-Reflexion, Audit-Trail) adressieren diese Kritik, indem sie die reflexive Dimension zum expliziten Bewertungsgegenstand machen. Die Definition von „Beherrschen“ bleibt damit dynamisch und anschlussfähig an die Prinzipien kompetenzorientierter Bildung (Hanisch-Johannsen, 2025).
 
 ### Kritikfeld 2: Juristische und rechtssicherheitsbezogene Kritik
 
@@ -587,7 +588,7 @@ Aus klinischer Perspektive wird kritisch hinterfragt, ob die Definition und Oper
 Die Gefahr besteht, dass eine zu enge Kopplung an Rubrics und Szenarien die Adaptivität und Innovationsfähigkeit im Einsatz einschränkt und nicht alle, insbesondere seltene oder hochdynamische, Einsatzlagen angemessen abbildet.
 
 **Reaktionsstrategie:**  
-Die Operationalisierung von „Beherrschen“ erfolgt explizit über die Überwindung von Transformationsbarrieren in realen Einsatzkategorien (vgl. 4.3.1–4.3.6). Re-Evaluation und Adaptivität sind als Kernindikatoren in allen sechs Prüfungsperspektiven verankert. Abweichungen von Standardpfaden werden nicht pauschal abgewertet, sondern müssen evidenzbasiert und patient:innensicher begründet werden (Audit-Trail, Abschnitt 3.1.5, 4.3.4). Die kontinuierliche Rückkopplung von Einsatzdaten in die Curriculums- und Prüfungsentwicklung (siehe 4.3.5) stellt die Praxisnähe und Validität sicher.
+Die Operationalisierung von „Beherrschen“ erfolgt explizit über die Überwindung von Transformationsbarrieren in realen Einsatzkategorien (vgl. 4.3.1-4.3.6). Re-Evaluation und Adaptivität sind als Kernindikatoren in allen sechs Prüfungsperspektiven verankert. Abweichungen von Standardpfaden werden nicht pauschal abgewertet, sondern müssen evidenzbasiert und patient:innensicher begründet werden (Audit-Trail, Abschnitt 3.1.5, 4.3.4). Die kontinuierliche Rückkopplung von Einsatzdaten in die Curriculums- und Prüfungsentwicklung (siehe 4.3.5) stellt die Praxisnähe und Validität sicher.
 
 ### Kritikfeld 4: Verwaltungspraktische und Implementierungskritik
 
@@ -651,7 +652,7 @@ Das strukturierte Vorgehen im Umgang mit nicht-konstruktiver Kritik gliedert sic
 
 ### 5.3.4 Hinweis zur Abgrenzung und Legitimität
 
-Dieses Vorgehen dient ausdrücklich **nicht** der Abwehr legitimer, substanzhaltiger Kritik. Vielmehr wird durch die Kanalisierung nicht-konstruktiver Beiträge sichergestellt, dass der Diskurs auf die Verbesserung des Konstrukts, seiner Operationalisierung und Umsetzung fokussiert bleibt. Legitime Kritik – unabhängig von ihrer Position – wird weiterhin systematisch erfasst, differenziert bewertet und in den Entwicklungszyklus integriert (vgl. 5.1, 5.2; Hanisch-Johannsen, 2025).
+Dieses Vorgehen dient ausdrücklich **nicht** der Abwehr legitimer, substanzhaltiger Kritik. Vielmehr wird durch die Kanalisierung nicht-konstruktiver Beiträge sichergestellt, dass der Diskurs auf die Verbesserung des Konstrukts, seiner Operationalisierung und Umsetzung fokussiert bleibt. Legitime Kritik - unabhängig von ihrer Position - wird weiterhin systematisch erfasst, differenziert bewertet und in den Entwicklungszyklus integriert (vgl. 5.1, 5.2; Hanisch-Johannsen, 2025).
 
 Die Trennung zwischen konstruktiver und nicht-konstruktiver Kritik ist ein zentrales Element der Qualitätssicherung, der Sicherung der normativen Kohärenz und der nachhaltigen Ressourcensteuerung im Entwicklungsprozess (vgl. SK Verlag, 2021).
 
@@ -682,7 +683,7 @@ Für priorisierte Kritikpunkte werden konkrete Anpassungsvorschläge entwickelt,
 
 ### 5.4.3 Validierung vor Umsetzung
 
-Jede geplante Änderung durchläuft eine Validierung in einem interdisziplinären Qualitätszirkel, dem Vertreter:innen aus Schule, Praxis, Ärztlicher Leitung Rettungsdienst (ÄLRD) und – bei Bedarf – juristischem Beistand angehören. In diesem Gremium werden die Anpassungsvorschläge auf Kohärenz, Evidenzbezug, Rechtssicherheit und Praxistauglichkeit geprüft. Die Validierung erfolgt unter Bezugnahme auf bestehende Audit-Trails und Rubrics, um die Anschlussfähigkeit an die bisherigen Standards sicherzustellen (vgl. NotSan-APrV § 17 Abs. 2; Hanisch-Johannsen, 2025).
+Jede geplante Änderung durchläuft eine Validierung in einem interdisziplinären Qualitätszirkel, dem Vertreter:innen aus Schule, Praxis, Ärztlicher Leitung Rettungsdienst (ÄLRD) und - bei Bedarf - juristischem Beistand angehören. In diesem Gremium werden die Anpassungsvorschläge auf Kohärenz, Evidenzbezug, Rechtssicherheit und Praxistauglichkeit geprüft. Die Validierung erfolgt unter Bezugnahme auf bestehende Audit-Trails und Rubrics, um die Anschlussfähigkeit an die bisherigen Standards sicherzustellen (vgl. NotSan-APrV § 17 Abs. 2; Hanisch-Johannsen, 2025).
 
 ### 5.4.4 Implementierungsschleifen
 
@@ -737,7 +738,7 @@ Zusammenfassend bietet die Arbeit eine tragfähige, empirisch und normativ abges
 - Dudenredaktion. (2020). *Duden: Deutsches Universalwörterbuch* (9. Aufl.). Dudenverlag.
 - Hanisch-Johannsen, J. (2025). *Systemische Kompetenzentwicklung für High Responsibility Teams: Eine fundierte Analyse der theoretischen und praktischen Aspekte von Kompetenzentwicklung in dynamischen Arbeitsumgebungen* [Vorlesung]. Ringvorlesung Rettungswissenschaften 2025, Hürth. https://doi.org/10.5281/zenodo.15384253
 - Pfeifer, W. (1993). *Etymologisches Wörterbuch des Deutschen*. Akademie Verlag.
-- SK Verlag. (2021). *Was bedeutet „Beherrschen“ in § 2a NotSanG?* Rettungsdienst, 44(4), 412–415.
+- SK Verlag. (2021). *Was bedeutet „Beherrschen“ in § 2a NotSanG?* Rettungsdienst, 44(4), 412-415.
 - Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, Bundesministerium für Gesundheit, 58 (2012).
 - Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters (NotSanG) vom 22. Mai 2013 (BGBl. I S. 1348), zuletzt geändert am 22. Dezember 2020 (BGBl. I S. 3320).
 - Ministerium für Arbeit, Gesundheit und Soziales NRW. (2025). *Handlungsempfehlungen des Landesverbandes der Ärztlichen Leitungen Rettungsdienst in NRW: Standardarbeitsanweisungen und Behandlungspfade im Rettungsdienst 2025*.
