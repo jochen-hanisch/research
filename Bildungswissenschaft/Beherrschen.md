@@ -1,6 +1,6 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Vom offenen Rechtsbegriff zur pädagogischen Bestimmung - Eine systemtheoretische Operationalisierung von „Beherrschen“ in der Notfallsanitäter:innen-Ausbildung
+title: Vom offenen Rechtsbegriff zur pädagogischen Bestimmung - Eine systemtheoretische Operationalisierung von Beherrschen in der Notfallsanitäter:innen-Ausbildung
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-08-13
 updated: 2025-08-16
@@ -22,19 +22,19 @@ published: ""
 
 created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): | [published](https://zenodo.org/records/): | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
-**Vom offenen Rechtsbegriff zur pädagogischen Bestimmung - Eine systemtheoretische Operationalisierung von „Beherrschen“ in der Notfallsanitäter:innen-Ausbildung**
+**Vom offenen Rechtsbegriff zur pädagogischen Bestimmung - Eine systemtheoretische Operationalisierung von Beherrschen in der Notfallsanitäter:innen-Ausbildung**
 
 # Einleitung
 
 Ausgangspunkt dieser Arbeit ist die Feststellung, dass der Begriff Beherrschen im Kontext der Notfallsanitäter:innen-Ausbildung zwar in Gesetz, Verwaltung und Praxis flächendeckend verwendet wird, bislang jedoch über keine pädagogisch belastbare Definition verfügt. Das Erkenntnisinteresse liegt darin, diese Leerstelle systematisch zu schließen, den Begriff rechtskonform an NotSanG § 2a und NotSan-APrV § 17 Abs. 2 anzubinden und zugleich beobacht-, prüf- und dokumentierbar zu machen.
 
-Die hier vorgenommene Begriffsbestimmung folgt konsequent einer kompetenzorientierten Perspektive. Andere theoretische Ansätze zur Beschreibung professioneller Handlungsausführung, wie etwa rein wissensorientierte, erfahrungsbasierte oder rein prozeduralistische Modelle, werden bewusst nicht weiterverfolgt. Begründet wird dies mit der normativen Vorgabe, dass Ausbildung und Prüfung im Rahmen des NotSanG (§ 2a) und der NotSan-APrV (§ 17 Abs. 2) auf den Nachweis beruflicher Handlungskompetenz ausgerichtet sein müssen. Die Kompetenzorientierung wird somit nicht als eine Theorie unter vielen gewählt, sondern als rechtlich und prüfungssystematisch gebotener Bezugsrahmen, der die Einheit von Wissen, Können und reflektierter Entscheidungsfähigkeit abbildet.
+Im vorliegenden Text wird bewusst eine abstrakt-theoretische Perspektive der Bildungswissenschaft eingenommen. Die dargestellten Konkretisierungen (z.B. Implementierungspfade, Indikatoren, Prüfungsformate) sind nicht als praxisnahe Handlungsanleitungen zu verstehen, sondern als logische Folgerungen aus der theoretischen Konstruktion des Begriffs Beherrschen. Ihre Funktion liegt darin, die Anschlussfähigkeit der abstrakten Definition an ein hochreguliertes Feld (NotSanG, NotSan-APrV, Erlasse, Empfehlungen) zu demonstrieren und zu zeigen, wie eine systemtheoretische Fassung von Beherrschen normativ wirksam werden kann. Damit bleibt der Text auf der Ebene der Theorie verankert, auch wenn er exemplarisch auf Praxis- und Rechtsbezüge verweist.
 
 # 1 Definition
 
 Beherrschen bezeichnet im systemtheoretisch-bildungswissenschaftlichen Sinn die kleinste, nicht weiter teilbare Operation professioneller Handlungsausführung, in der Unterscheidung, Analyse, Beurteilung und Ausführung simultan und untrennbar verschränkt auftreten. Sie ist auf die zielgerichtete Überwindung kontextrelevanter Transformationsbarrieren gerichtet und so strukturiert, dass Planung, Begründung und Durchführung beobacht-, prüf- und dokumentierbar sind.
 
-Auf den Kontext der Notfallsanitäter:innen-Ausbildung übertragen bedeutet Beherrschen die evidenzbasierte, patienten- und situationsangemessene Ausführung dieser Operation. Ihre Beobachtung und [[Bewertung]] erfolgt über die sechs in § 17 Abs. 2 NotSan-APrV definierten Prüfungsperspektiven:
+Auf den Kontext der Notfallsanitäter:innen-Ausbildung übertragen bedeutet Beherrschen die evidenzbasierte, patienten- und situationsangemessene Ausführung dieser Operation. Ihre Beobachtung und Bewertung erfolgt über die sechs in § 17 Abs. 2 NotSan-APrV definierten Prüfungsperspektiven:
 
 1. Einschätzung der Gesamtsituation
 2. Erstellung einer Arbeitsdiagnose
@@ -123,7 +123,7 @@ Wenn die Kompetenzdefinition auf den Begriff Beherrschen im Kontext der NotSan-A
 
 Diese Perspektive führt dazu, dass Beherrschen sowohl in Ausbildung und Prüfung als auch im realen Einsatz objektivierbar ist. Bewertet wird, ob die verantwortlich handelnde Person in der Lage ist, unter Beachtung ausbildungsrechtlicher Standards eine angemessene Operation zu planen und auszuführen, die zu einer erfolgreichen Transformation vom unerwünschten zum erwünschten Zustand führt.
 
-Die in Abschnitt 2.4.3 dargestellte Kompetenzdefinition für High Responsibility Teams liefert damit nicht nur eine theoretische Präzisierung des Begriffs „Beherrschen“, sondern auch einen unmittelbar anschlussfähigen Bezugsrahmen für dessen Umsetzung in Ausbildung und Prüfung. Da Kompetenz in diesem Modell als unteilbare Operation verstanden wird, in der kognitive und psychomotorische Anteile untrennbar verschränkt sind, ergibt sich zwingend die Notwendigkeit, diese Operation prüfmethodisch sichtbar und bewertbar zu machen.
+Die in Abschnitt 2.4.3 dargestellte Kompetenzdefinition für High Responsibility Teams liefert damit nicht nur eine theoretische Präzisierung des Begriffs Beherrschen, sondern auch einen unmittelbar anschlussfähigen Bezugsrahmen für dessen Umsetzung in Ausbildung und Prüfung. Da Kompetenz in diesem Modell als unteilbare Operation verstanden wird, in der kognitive und psychomotorische Anteile untrennbar verschränkt sind, ergibt sich zwingend die Notwendigkeit, diese Operation prüfmethodisch sichtbar und bewertbar zu machen.
 Die nachfolgende Operationalisierung (2.4.4) erfüllt genau diese Funktion: Sie übersetzt die theoretische Konstruktion in konkrete Beobachtungsperspektiven, Indikatoren und Nachweisformen, die mit dem Rechts- und Prüfungsrahmen (NotSanG § 2a; NotSan-APrV § 17 Abs. 2) kompatibel sind.
 
 ### 2.4.4 Operationalisierung
@@ -317,7 +317,7 @@ Aus dieser Norm-Didaktik-Kopplung ergeben sich drei Grundprinzipien:
 **(i) Reflexion als Leistungsbestandteil.** Strukturierte Kurzreflexionen (z.B.  ISBAR (Gheisari et al., 2025)- oder SINNHAFT (Gräff et al., 2024) Reflexion der Entscheidungslogik) sind expliziter Teil der Nachweise und fördern die Begründungstiefe - insbesondere bei Grenz- und Abweichungsfällen.
 
 ### 4.1.10 Implementierungspfad
-1. **Vorbereitung (0-3 Monate):** Projektgruppe, Prüfungsordnung/QM-Anpassung (Rubrics^[Der Begriff Rubric stammt aus der pädagogischen Leistungsbewertung und bezeichnet ein strukturiertes Bewertungsraster mit (a) Dimensionen, (b) Kriterien, (c) Niveaustufen und (d) Ankerbeispielen. Dimensionen sind im hier verwendeten Kontext die sechs Linsen des § 17 Abs. 2 NotSan-APrV; Kriterien umfassen konkretisierte Kompetenzmerkmale und kontextbezogene Handlungskriterien; Niveaustufen reichen typischerweise von „unzureichend“ bis „exzellent“; Ankerbeispiele machen jede Stufe anhand beobachtbarer Indikatoren überprüfbar. Rubrics dienen damit der prüfmethodischen Sichtbarmachung der Operation „Beherrschen“ und ermöglichen eine vergleichbare, reliabel kalibrierte Bewertung über Prüfende, Standorte und Formate hinweg (Brookhart, 2013; Popham, 1997).], Audit-Trail, Abweichungsbegründung), Auswahl digitaler Tools. 
+1. **Vorbereitung (0-3 Monate):** Projektgruppe, Prüfungsordnung/QM-Anpassung (Rubrics^[Der Begriff Rubric stammt aus der pädagogischen Leistungsbewertung und bezeichnet ein strukturiertes Bewertungsraster mit (a) Dimensionen, (b) Kriterien, (c) Niveaustufen und (d) Ankerbeispielen. Dimensionen sind im hier verwendeten Kontext die sechs Linsen des § 17 Abs. 2 NotSan-APrV; Kriterien umfassen konkretisierte Kompetenzmerkmale und kontextbezogene Handlungskriterien; Niveaustufen reichen typischerweise von „unzureichend“ bis „exzellent“; Ankerbeispiele machen jede Stufe anhand beobachtbarer Indikatoren überprüfbar. Rubrics dienen damit der prüfmethodischen Sichtbarmachung der Operation Beherrschen und ermöglichen eine vergleichbare, reliabel kalibrierte Bewertung über Prüfende, Standorte und Formate hinweg (Brookhart, 2013; Popham, 1997).], Audit-Trail, Abweichungsbegründung), Auswahl digitaler Tools. 
 2. **Pilotierung (4-6 Monate):** 3-4 OSCE-Stationen mit Rubrics je Linse; Doppelbewertungen; Datenerhebung zu Varianz/Ankerverständnis.
 3. **Roll-out (6-12 Monate):** Skalierung auf alle Module; Kalibrierzyklen für Prüfende; Fortbildungsprogramm für Praxisanleitende.
 4. **CQI (laufend):** Halbjährliche Item-/Varianzanalysen; Curriculumsmodulation anhand der Daten; Austausch im Qualitätszirkel.
