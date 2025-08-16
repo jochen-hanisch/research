@@ -5,7 +5,7 @@ Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-11-16
 updated: 2025-06-08
 publish: true
-publishd: 2025-05-11
+published: 2025-05-11
 tags:
   - "#Dissertation"
   - "#Bildungswissenschaft"
@@ -17,7 +17,7 @@ tags:
 GPT: true
 ---
 
-created: 16.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 8.8.2025 | [publishd](https://zenodo.org/records/15383476) | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 16.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 8.8.2025 | [published](https://zenodo.org/records/15383476) | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Disjunkte Lernort-Evaluation: Ein methodischer Ansatz zur Lernort-Bewertung**
 

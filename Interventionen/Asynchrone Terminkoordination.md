@@ -14,7 +14,7 @@ published:
 GPT: false
 ---
 
-created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: 7.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
+created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
 
 **Framework der asynchron-ausschlussbasierten Terminsuche**
 

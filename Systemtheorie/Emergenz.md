@@ -5,7 +5,7 @@ created: 2025-01-26
 updated: 2025-01-26
 publish: true
 GPT: true
-publishd: 2025-01-26
+published: 2025-01-26
 tags:
   - Systemtheorie
   - Emergenz
@@ -24,7 +24,7 @@ status: draft
 
 **Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy**
 
-created: 26.1.2025 | updated: 26.1.2025 | publishd: 26.1.2025 | [[Hinweise]]
+created: 26.1.2025 | updated: 26.1.2025 | published: 26.1.2025 | [[Hinweise]]
 
 # Einleitung
 

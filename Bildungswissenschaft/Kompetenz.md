@@ -2,7 +2,7 @@
 author: Jochen Hanisch-Johannsen
 title: Übersicht der Forschungsunterfragen
 created: 2024-10-23
-updated: 2024-10-23
+updated: 2025-08-05
 publish: false
 tags:
   - Kompetenz
@@ -27,6 +27,7 @@ type:
 priority: hoch
 status: in-progress
 ---
+[updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 5.8.2025
 
 # 1 Definition
 
