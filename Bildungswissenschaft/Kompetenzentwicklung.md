@@ -2,7 +2,7 @@
 author: Jochen Hanisch
 title: Was ist Kompetenzentwicklung? Eine begriffliche Klärung
 date: 2024-09-29
-updated: 2024-12-03
+updated: 2025-08-05
 publish: false
 GPT: true
 publishd: 2025-04-26
@@ -35,7 +35,7 @@ tags:
 status: post
 ---
 
-created: 29.09.2024 | updated: 02.12.2024 | [[Hinweise]]
+created: 29.09.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 02.12.2024 | [[Hinweise]]
 
 **Was ist Kompetenzentwicklung? Eine begriffliche Klärung**
 

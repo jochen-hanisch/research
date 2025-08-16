@@ -5,7 +5,6 @@ project: Interventionen
 created: 2025-06-07
 updated: 2025-06-07
 publish: true
-publishd: 2025-06-07
 tags:
   - reflexion
   - beobachtung
@@ -20,10 +19,11 @@ tags:
   - lernprozess
   - modellierung
   - qualitativ
+publishd: 2025-06-07
 GPT: true
 ---
 
-created: 7.6.2025 | updated: 7.6.2025 | [published](https://zenodo.org/records/15612369): 7.6.2025 | [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
+created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: 7.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
 
 **Dreidimensionales Reflexionsnetzwerk zur Analyse professionellen Handelns in Ausbildung, Prüfung und Tätigkeit**
 _Ein Marker-basiertes Modell zur Verbindung von Handlungskontext, Reflexionsdimension und Zeitverlauf_

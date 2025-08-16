@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Harry Potter und die Entzauberung eines nie gewesenen Helden unter systemtheoretisch-literaturanalytischer Episteminologenese
-Repository: methodologie
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-07-13
 updated: 2025-07-14
 publish: true
@@ -12,10 +12,10 @@ tags:
   - "#Systemtheorie"
   - "#Literaturwissenschaft/Literaturanalyse"
   - "#Erkenntnistheorie"
-publishd: 2025-07-15
+published: 2025-07-15
 ---
 
-created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.7.2025 | [publishd](https://zenodo.org/records/15918779): 15.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.7.2025 | [published](https://zenodo.org/records/15918779): 15.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Harry Potter und die Entzauberung eines nie gewesenen Helden unter systemtheoretisch-literaturanalytischer Episteminologenese**
 

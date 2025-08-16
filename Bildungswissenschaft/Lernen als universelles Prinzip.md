@@ -5,7 +5,7 @@ Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-10-02
 updated: 2025-07-30
 publish: true
-publishd: 2025-06-08
+published: 2025-06-08
 tags:
   - Lernen
   - Rhetorik
@@ -29,13 +29,16 @@ tags:
 GPT: true
 ---
 
-created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 30.7.2025 | publishd: 8.6.2025 |[Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 30.7.2025 | published: 8.6.2025 |[Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
->**Anmerkung**
-Dieser Artikel wird noch überarbeitet, da Lernen eine Folge von [[Elementaroperationen]] (Feedback, Reflexion und Re-entry) ist. Diese sind Stand heute in der Entwicklung. Insbesondere sind die Kapitel 2.3.1 - 2.3.3 sowie 2.4 von den Änderungen betroffen, da diese in der Notiz über die [[Elementaroperationen]] aufgehen werden.
->bisherige Änderungen
->- Anpassung Abbildung 1
->- "in autopoietischen Systemen" aus der Definition zur Erweiterung entnommen
+> [!abstract]+ Anmerkung  
+> Dieser Artikel wird noch überarbeitet, da Lernen als Folge von [[Elementaroperationen]] (Feedback, Reflexion und Re-Entry) verstanden wird. Diese befinden sich aktuell in Entwicklung.  
+> Besonders betroffen sind die Kapitel 2.3.1 – 2.3.3 sowie 2.4, da deren Inhalte künftig in der Notiz zu den [[Elementaroperationen]] integriert werden.
+>
+> #### Bisherige Änderungen
+> - Anpassung von Abbildung 1  
+> - Der Ausdruck „in autopoietischen Systemen“ wurde aus der Definition zur Erweiterung entfernt
+
 
 # Einleitung
 
