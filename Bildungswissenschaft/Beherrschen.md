@@ -20,7 +20,7 @@ tags:
 published: 2025-08-16
 ---
 
-created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.8.2025 | [published](https://zenodo.org/records/16887094): 16.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.8.2025 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung**
 
@@ -273,6 +273,7 @@ Die vorliegende Definition schließt diese Leerstelle, indem sie eine wissenscha
 Insgesamt trägt die hier vorgeschlagene Definition dazu bei, die pädagogische Anschlussfähigkeit des Rechtsbegriffs Beherrschen herzustellen und die Ausbildungspraxis im Rettungsdienst an klaren, nachvollziehbaren und wissenschaftlich begründeten Kriterien auszurichten. Sie schließt damit eine zentrale Leerstelle und bildet die Basis für eine kompetenzorientierte, gerechte und rechtssichere Gestaltung von Ausbildung und Prüfung.
 
 ## 3.3 Erhöhung von Rechtssicherheit und Vergleichbarkeit
+
 Die Standardisierung der Bewertungskriterien für Beherrschen erhöht die Rechtssicherheit im Prüfungswesen substantiell. Sie reduziert individuelle Interpretationsspielräume, schafft belastbare Bewertungsmaßstäbe und ermöglicht eine bundesweit vergleichbare Prüfungspraxis. Transparenz und Nachvollziehbarkeit von Prüfungsentscheidungen werden gestärkt, die Angreifbarkeit im Widerspruchs- und Klagefall verringert.
 
 **Normative Anschlussfähigkeit.** Die hier vorgeschlagenen Kriterien verankern die Bewertung des Beherrschens explizit in den geltenden Normen (NotSanG § 2a; NotSan-APrV § 17 Abs. 2). Damit wird der offene Rechtsbegriff in eine prüfmethodisch abgesicherte Kategorie überführt. Prüfungsentscheidungen verweisen nicht auf „Eindruck“ oder „Gesamteindruck“, sondern auf benannte Perspektiven, definierte Indikatoren und dokumentierte Begründungen.
@@ -300,7 +301,7 @@ Die Kombination aus kompetenzorientierten Leistungsanforderungen, Protokollen un
 
 **Grenzen und Zuständigkeitsklarheit.** Standardisierung erzeugt keine Ergebnisdeterministik. Unterschiede der Fallschwere, Kontextfaktoren und legitime Handlungsvarianten bleiben anerkannt - entscheidend ist die **evidenzbasierte Zielrichtung** und die **plausible Begründung** der Operation. Zuständigkeiten zwischen Schule, Trägern und Ärztlicher Leitung sind in Prüfungsordnung/QM eindeutig zu regeln (z.B. wer definiert Mindestanforderungen, wer entscheidet in Grenzfällen).
 
-Rechtssicherheit und Vergleichbarkeit steigen, wenn Beherrschen nicht als diffuse Zuschreibung, sondern als operationale Bewertungsgröße behandelt wird. Der Prüfungsprozess wird dadurch reproduzierbar, überprüfbar und anschlussfähig an den Rechtsrahmen - bei gleichzeitiger Wahrung der professionellen Urteilsspielräume in komplexen Einsatzsituationen.
+Rechtssicherheit und Vergleichbarkeit steigen, wenn Beherrschen nicht als diffuse Zuschreibung, sondern als operationale Bewertungsgröße behandelt wird. Der Prüfungsprozess wird dadurch reproduzierbar, überprüfbar und anschlussfähig an den Rechtsrahmen, bei gleichzeitiger Wahrung der professionellen Urteilsspielräume in komplexen Einsatzsituationen.
 
 ## 3.4 Beitrag zur curricularen Gestaltung und Qualitätsentwicklung
 
@@ -320,12 +321,12 @@ Insgesamt leistet die Operationalisierung des Begriffs Beherrschen einen zentral
 
 # 4 Implikationen
 
-Während Implikationen in vielen Arbeiten lediglich als lose Anmerkungen zu möglichen Anschlussfeldern dienen, ist ihre Analyse im vorliegenden Kontext integraler Bestandteil der wissenschaftlichen Arbeit. Denn die hier vorgenommene Begriffsbestimmung entfaltet normative Wirksamkeit in einem hochregulierten Feld: Sie verbindet § 2a NotSanG (Nachweis „erlernt und beherrscht“) mit § 17 Abs. 2 NotSan-APrV (Prüfungsperspektiven) zu einem prüfmethodisch belastbaren Rahmen.
-Ihre Präzisierung verändert Bewertungsmaßstäbe, curriculare Ausrichtungen und institutionelle Verfahren. Daher umfasst Kapitel 4 nicht nur mögliche Anschlussfragen, sondern eine systematische Untersuchung der unmittelbaren und mittelbaren normativen Konsequenzen, die sich aus der Definition ergeben. Diese Verknüpfung ist methodisch erforderlich, da der offene Rechtsbegriff Beherrschen in Ausbildung und Prüfung nicht wertneutral anwendbar ist, sondern immer im Rahmen einer normativen Setzung vollzogen wird.
+Während Implikationen in vielen Arbeiten lediglich als lose Anmerkungen zu möglichen Anschlussfeldern dienen, ist ihre Analyse im vorliegenden Kontext integraler Bestandteil der wissenschaftlichen Arbeit. Denn die hier vorgenommene Begriffsbestimmung entfaltet normative Wirksamkeit in einem hochregulierten Feld, sie verbindet § 2a NotSanG (Nachweis „erlernt und beherrscht“) mit § 17 Abs. 2 NotSan-APrV (Prüfungsperspektiven) zu einem prüfmethodisch belastbaren Rahmen. Ihre Präzisierung verändert Bewertungsmaßstäbe, curriculare Ausrichtungen und institutionelle Verfahren. Daher umfasst Kapitel 4 nicht nur mögliche Anschlussfragen, sondern eine systematische Untersuchung der unmittelbaren und mittelbaren normativen Konsequenzen, die sich aus der Definition ergeben. Diese Verknüpfung ist methodisch erforderlich, da der offene Rechtsbegriff Beherrschen in Ausbildung und Prüfung nicht wertneutral anwendbar ist, sondern immer im Rahmen einer normativen Setzung vollzogen wird.
 
 Über die unmittelbaren Folgerungen hinaus ergeben sich weiterführende Implikationen für die Gestaltung von Ausbildung, Prüfung und Qualitätssicherung. Diese betreffen insbesondere die Möglichkeit, bestehende Curricula und Prüfungsformate an den präzisierten Kompetenzbegriff anzupassen, die Entwicklung evidenzbasierter Bewertungsinstrumente zu fördern und die Ausbildungspraxis stärker an den realen Anforderungen des rettungsdienstlichen Einsatzes auszurichten. Zudem wird die Grundlage für eine wissenschaftlich informierte Weiterentwicklung des Berufsbildes geschaffen.
 
-## 4.1 Anpassung bestehender Curricula 
+## 4.1 Anpassung bestehender Curricula
+
 Die präzisierte Definition des Begriffs Beherrschen eröffnet die Möglichkeit, bestehende Curricula der Notfallsanitäter:innen-Ausbildung systematisch zu überprüfen und gezielt anzupassen. 
 
 **Rechtsdidaktische Leitlinie:** Curriculare Anpassungen müssen den Nachweis aus § 2a NotSanG über die in § 17 Abs. 2 NotSan-APrV definierten Perspektiven ermöglichen; die hier verwendeten Linsen- und Indikatorenmodelle sind genau hierfür konstruiert.
@@ -335,6 +336,7 @@ Module, Kompetenzzielkataloge und Kompetenzraster können auf Basis der operatio
 **Zwischenfazit**: Curricula, die den hier skizzierten Referenzrahmen übernehmen, richten Ausbildung, Training und Prüfung konsequent auf die nachgewiesene Beherrschung der geforderten Operationen aus. Dies sichert eine enge Passung zwischen Rechtsrahmen, didaktischer Umsetzung und Prüfungslogik.
 
 ### 4.1.8 Theoriegeleitete Herleitung
+
 Die curricular-didaktische Ausrichtung am Begriff Beherrschen folgt der Logik der Operationalisierung: Was rechtlich gefordert wird (NotSanG § 2a: „erlernt und beherrscht“), muss didaktisch als **beobachtbare Operation** vorliegen und prüfmethodisch **nachweisbar** sein. Die sechs Prüfungsperspektiven des § 17 Abs. 2 NotSan-APrV stellen hierfür den normativen Beobachtungsrahmen bereit. 
 
 Aus dieser Norm-Didaktik-Kopplung ergeben sich drei Grundprinzipien:
@@ -345,6 +347,7 @@ Aus dieser Norm-Didaktik-Kopplung ergeben sich drei Grundprinzipien:
  Damit entsteht ein durchgängiger Referenzrahmen **Definition → Indikator → Nachweis → Bewertung**, der den Nachweis aus § 2a NotSanG juristisch-didaktisch mit den Prüfungsperspektiven des § 17 Abs. 2 NotSan-APrV verknüpft (BMG, 2012; NotSan-APrV 2013/2021).
 
 ### 4.1.9 Begründung der Design-Entscheidungen
+
 **(a) Outcomes als Operationen statt Inhaltslisten.** Kompetenzziele werden als beobachtbare Operationen formuliert. Das minimiert das Risiko der Fehlmessung (Untererfassung relevanter Aspekte; Überfrachtung durch irrelevante Inhalte) und richtet Lehre und Prüfung auf dieselbe Bezugsgröße aus.
 
 **(b) Mapping auf die sechs Perspektiven.** Die Linse-Zuordnung sichert Abbildtreue über den gesamten Handlungszyklus (von Lageeinschätzung bis Übergabe). Das reduziert systematische Lücken (z.B. gute Ausführung, aber schwache Entscheidungslogik) und beugt einseitigen Trainings („nur Skills“) vor.
@@ -364,25 +367,29 @@ Aus dieser Norm-Didaktik-Kopplung ergeben sich drei Grundprinzipien:
 **(i) Reflexion als Leistungsbestandteil.** Strukturierte Kurzreflexionen (z.B.  ISBAR (Gheisari et al., 2025)- oder SINNHAFT (Gräff et al., 2024) Reflexion der Entscheidungslogik) sind expliziter Teil der Nachweise und fördern die Begründungstiefe - insbesondere bei Grenz- und Abweichungsfällen.
 
 ### 4.1.10 Implementierungspfad
+
 1. **Vorbereitung (0-3 Monate):** Projektgruppe, Prüfungsordnung/QM-Anpassung (Rubrics^[Der Begriff Rubric stammt aus der pädagogischen Leistungsbewertung und bezeichnet ein strukturiertes Bewertungsraster mit (a) Dimensionen, (b) Kriterien, (c) Niveaustufen und (d) Ankerbeispielen. Dimensionen sind im hier verwendeten Kontext die sechs Linsen des § 17 Abs. 2 NotSan-APrV; Kriterien umfassen konkretisierte Kompetenzmerkmale und kontextbezogene Handlungskriterien; Niveaustufen reichen typischerweise von „unzureichend“ bis „exzellent“; Ankerbeispiele machen jede Stufe anhand beobachtbarer Indikatoren überprüfbar. Rubrics dienen damit der prüfmethodischen Sichtbarmachung der Operation Beherrschen und ermöglichen eine vergleichbare, reliabel kalibrierte Bewertung über Prüfende, Standorte und Formate hinweg (Brookhart, 2013; Popham, 1997).], Audit-Trail, Abweichungsbegründung), Auswahl digitaler Tools. 
 2. **Pilotierung (4-6 Monate):** 3-4 OSCE-Stationen mit Rubrics je Linse; Doppelbewertungen; Datenerhebung zu Varianz/Ankerverständnis.
 3. **Roll-out (6-12 Monate):** Skalierung auf alle Module; Kalibrierzyklen für Prüfende; Fortbildungsprogramm für Praxisanleitende.
 4. **CQI (laufend):** Halbjährliche Item-/Varianzanalysen; Curriculumsmodulation anhand der Daten; Austausch im Qualitätszirkel.
 
 ### 4.1.11 Erfolgskriterien (KPIs)
+
 - **Reliabilität:** Inter-Rater-Korrelationen ↑, Bewertungsvarianz ↓. 
 - **Validität:** Deckungsgrad zwischen Kompetenzzielen, Prüfungsaufgaben und Indikatoren ↑; Rückmeldungen der Praxispartner zur Einsatzpassung.
 - **Verfahrenssicherheit:** Widerspruchs-/Klagequote ↓; Begründungsqualität in Audit-Trails ↑.
 - **Lernwirksamkeit:** Zielerreichungsraten pro Linse ↑; Reduktion typischer Fehler (z.B. fehlende Re-Evaluation) über Kohorten hinweg.
 
 ### 4.1.12 Antizipierte Einwände und Antworten
+
 - **„Zu viel Bürokratie.“** Antwort: Der Audit-Trail ersetzt unsystematische Dokumentation durch strukturierte, rechtssichere Nachweise und spart Zeit in Widerspruchs-/Klagefällen.
 - **„Checklisten machen unflexibel.“** Antwort: Bewertet wird die **Operationseinheit**, nicht das Abarbeiten einzelner Punkte; begründete Abweichungen sind vorgesehen.
 - **„Simulation ist teuer.“** Antwort: Priorisierung auf High-impact-Szenarien, Kooperationen, gestufte Implementierung; nachweislicher Gewinn an Vergleichbarkeit und Sicherheit.
 
 **Begründungsresümee:** Die Anpassung bestehender Curricula entlang der hier hergeleiteten Logik ist kein add-on, sondern eine strukturelle Konsequenz aus dem Rechtsrahmen (NotSanG § 2a) und der Prüfarchitektur (NotSan-APrV § 17 Abs. 2). Sie erhöht Kohärenz, Rechtssicherheit und Praxistauglichkeit und schafft einen belastbaren, evidenzorientierten Entwicklungsrahmen.
 
-## 4.2 Entwicklung evidenzbasierter Bewertungsinstrumente 
+## 4.2 Entwicklung evidenzbasierter Bewertungsinstrumente
+
 Die Operationalisierung von Beherrschen verlangt Bewertungsinstrumente, die (a) den Rechtsrahmen eindeutig abbilden, (b) die systemtheoretische Konstruktion als **Operation** erfassen und (c) unter realistischen Bedingungen verlässlich und fair eingesetzt werden können. 
 
 **Normbezug:** Jedes Instrument muss den Nachweis des Beherrschens nach § 2a NotSanG ermöglichen und zugleich die Vollständigkeit gegenüber § 17 Abs. 2 NotSan-APrV sicherstellen.
