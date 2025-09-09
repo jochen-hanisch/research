@@ -157,10 +157,58 @@ Young und Roediger (2011) identifizieren zentrale menschliche Grundbedürfnisse:
 Young, Klosko und Weishaar (2003) sowie Young und Roediger (2011) unterscheiden fünf zentrale Grundbedürfnisse, die als universale Schnittstellen zwischen psychischen und sozialen Systemen verstanden werden können:
 
 1. **Bindung** – das Bedürfnis nach stabilen und sicheren Beziehungen. In Bildungsprozessen erweist sich dieses Bedürfnis als relevant für Vertrauen und Lernbereitschaft.  
-2. **Kontrolle nach außen** – das Bedürfnis, die Umwelt beeinflussen und strukturieren zu können. Es bildet die Grundlage für das Erleben von Selbstwirksamkeit im sozialen Kontext.  
+
+| Thermometer-ID | Stichwort | Effektstärke ($d$) |
+| -------------- | --------- | ------------------ |
+| 9.05 | Einschätzung des Leistungsniveaus durch die Lehrperson | 1.30 |
+| 9.06 | Glaubwürdigkeit | 1.09 |
+| 9.07 | Klarheit der Lehrperson | 0.85 |
+| 9.08 | Kollektive Wirksamkeitserwartung | 1.34 |
+| 9.04 | Nichtetikettieren von Lernenden | 0.61 |
+| 9.02 | Sprachkompetenz | 0.22 |
+| 9.03 | Lehrererwartung – körperliche Attraktivität | 0.36 |
+
+2. **Kontrolle nach außen** – das Bedürfnis, die Umwelt beeinflussen und strukturieren zu können, was die Grundlage für das Erleben von Selbstwirksamkeit im sozialen Kontext bildet.  
+
+| Thermometer-ID | Stichwort | Effektstärke ($d$) |
+| -------------- | --------- | ------------------ |
+| 4.01 | Selbstwirksamkeit | 0.92 |
+| 7.02 | Zielklarheit | 0.56 |
+| 7.03 | Lernziele setzen | 0.77 |
+| 5.01 | Feedback | 0.72 |
+| 5.03 | Feedforward | 0.73 |
+| 8.02 | Klassenführung | 0.52 |
+| 8.03 | Klarheit der Regeln | 0.76 |
+
 3. **Kontrolle nach innen** – das Bedürfnis, innere Impulse und Emotionen regulieren zu können. In Lernumgebungen trägt es zu Aufmerksamkeitssteuerung und Emotionsregulation bei.  
+
+| Thermometer-ID | Stichwort | Effektstärke ($d$) |
+| -------------- | --------- | ------------------ |
+| 6.01 | Selbstregulation | 0.52 |
+| 6.02 | Emotionsregulation | 0.68 |
+| 6.03 | Aufmerksamkeit | 0.48 |
+| 6.04 | Motivation | 0.48 |
+| 6.05 | Ausdauer | 0.48 |
+
 4. **Selbstwerterhalt** – das Bedürfnis, ein positives Selbstbild zu entwickeln und zu bewahren. Empirisch zeigen Hatties Metaanalysen (2024), dass Interventionen mit hohem Bezug zum Selbstkonzept besonders wirksam sind.  
+
+| Thermometer-ID | Stichwort | Effektstärke ($d$) |
+| -------------- | --------- | ------------------ |
+| 4.02 | Selbstkonzept | 0.43 |
+| 4.03 | Selbstwertgefühl | 0.65 |
+| 4.04 | Selbstvertrauen | 0.50 |
+| 4.05 | Selbstbild | 0.57 |
+| 4.06 | Selbstreflexion | 0.45 |
+
 5. **Vermeidung von Unlust** – das Bedürfnis, Schmerz, Angst und Überforderung zu vermeiden. Pädagogisch zeigt sich hier die Bedeutung einer angstfreien und unterstützenden Lernumgebung.
+
+| Thermometer-ID | Stichwort | Effektstärke ($d$) |
+| -------------- | --------- | ------------------ |
+| 10.01 | Angstreduktion | 0.45 |
+| 10.02 | Stressbewältigung | 0.43 |
+| 10.03 | Fehlerfreundlichkeit | 0.54 |
+| 10.04 | Unterstützung bei Überforderung | 0.60 |
+| 10.05 | Sicherheit im Lernumfeld | 0.58 |
 
 Empirische Belege: Die folgenden Kennzahlen wurden aus der Datei `triangulation_needs_3d.csv` aggregiert (eigene Auswertung). Angegeben sind Summen der Wirkungsmasse je Systemebene ($E_\psi$, $E_\sigma$), deren Summe ($E_{\text{sum}}$), das Balancemaß $b=1-\lvert E_\psi/E_{\text{sum}} - E_\sigma/E_{\text{sum}}\rvert$, das Kopplungspotential $\mathrm{CP}=b\cdot E_{\text{sum}}$ sowie die konservative Untergrenze $\min(E_{\psi},E_{\sigma})$.
 
@@ -178,7 +226,8 @@ Interpretation: Struktur/Kompetenz und Stabilität weisen die höchsten $\mathrm
 
 Die Kopplung psychischer und sozialer Systeme lässt sich als phasenübergangsartige Dynamik interpretieren: Ab einer bestimmten Kombination aus Wirkungsmasse und Balance kann qualitativ ein „gekoppelter“ Zustand entstehen. Um diese Analogie operativ zu machen, wird eine datensatzspezifische Kopplungsschwelle $\tau$ definiert und empirisch begründet.
 
-**Operationalisierung der Schwelle (Datensatzheuristik):**  
+**Operationalisierung der Schwelle (Datensatzheuristik):**
+
 Sei $\mathrm{CP}(N)=b(N)\cdot(E_\psi(N)+E_\sigma(N))$ das Kopplungspotential pro Bedürfniscluster $N$, mit $b(N)=1-\lvert E_\psi/E_{\text{sum}}-E_\sigma/E_{\text{sum}}\rvert$. Auf Basis der in `triangulation_needs_3d.csv` aggregierten Werte (vgl. 2.4) ergibt sich die empirische Verteilung
 $\{\mathrm{CP}(N)\}=\{18{,}52; 5{,}06; 4{,}98; 3{,}52; 1{,}48\}$ und 
 $\{b(N)\}=\{0{,}441; 0{,}359; 0{,}603; 0{,}249; 0{,}118\}$.
@@ -192,16 +241,20 @@ $$
 $$
 wobei $b\ge 0{,}30$ heuristisch die Trennlinie zwischen stark asymmetrischer und mindestens moderat symmetrischer Anteilsverteilung markiert (im vorliegenden Datensatz liegen die Brückencluster oberhalb dieser Marke, vgl. 2.4).
 
-**Empirische Einordnung (aus `triangulation_needs_3d.csv`):**  
+**Empirische Einordnung (aus `triangulation_needs_3d.csv`):**
+
 Struktur/Kompetenz $(\mathrm{CP}=18{,}52,\; b=0{,}441)$ und Stabilität $(\mathrm{CP}=5{,}06,\; b=0{,}359)$ erfüllen beide Kriterien und bilden die „gekoppelte Phase“. Bindung $(\mathrm{CP}=4{,}98,\; b=0{,}603)$ liegt exakt an $\tau$ und ist damit grenzwertig gekoppelt. Emotion/Selbstkontrolle $(\mathrm{CP}=3{,}52,\; b=0{,}249)$ und Orientierung $(\mathrm{CP}=1{,}48,\; b=0{,}118)$ unterschreiten mindestens eines der Kriterien und gehören zur „entkoppelten“ oder schwach gekoppelten Phase.
 
-**Makrostruktur als Ordnungsparameter:**  
+**Makrostruktur als Ordnungsparameter:**
+
 Die Modularity $Q$ fungiert als Ordnungsparameter der Systemtrennung. Bootstrap-Schätzungen (aus `robust_bootstrap_Q.csv`) ergeben $Q\approx 0{,}44\text{–}0{,}46$ mit engen Intervallen; das empirische $Q=0{,}447$ liegt signifikant über der Nullmodell-Verteilung des grad-erhaltenden Rewirings (aus `robust_nullmodel_Q.csv`). Beim Entfernen der Top-10-Items nach $|d|$ sinkt $Q$ moderat auf $0{,}407$ (aus `robust_sensitivity_topk.csv`), bleibt jedoch deutlich positiv. Diese Muster sind konsistent mit einer robusten, aber nicht starren Phasenstruktur.
 
-**Randomisierung als Gegenbild:**  
+**Randomisierung als Gegenbild:**
+
 Permutation der Bedürfnislabels (aus `robust_permutation_needs.csv`) verschiebt die CP-Verteilung und erzeugt deutlich höhere mittlere CP-Gesamtwerte (z. B. $\overline{\mathrm{CP}}_{\text{perm}}\approx 60{,}5$ gegenüber dem beobachteten Wert $33{,}6$). Das weist darauf hin, dass die empirische, theoriebasierte Labelung selektiv ist: Sie maximiert nicht $\mathrm{CP}$ beliebig, sondern spiegelt eine strukturierte, inhaltlich motivierte Kopplungsgeometrie wider. In der Analogie entspricht dies einer spezifischen Parametrisierung, die nicht auf „maximale Energie“, sondern auf funktionale Ordnungsbildung zielt.
 
-**Zwischenfazit:**  
+**Zwischenfazit:**
+
 Die Kombination aus (i) Schwellenbildung in $\mathrm{CP}$ und $b$, (ii) stabiler Ordnungsstruktur $Q$ über Bootstrap und Sensitivität sowie (iii) deutlichem Abstand zu Randomisierungs- und Rewiring-Nullmodellen unterstützt die Interpretation eines phasenübergangsartigen Übergangs von entkoppelten zu gekoppelten Zuständen in bildungsbezogenen Arrangements (Cohen, 1988; Borenstein et al., 2009; Hattie, 2024).
 
 ## 2.6 Integration der empirischen Daten zu Kopplungspotentialen
@@ -210,7 +263,7 @@ Die aus den CSV-Dateien gewonnenen Daten zu Kopplungspotentialen liefern nicht n
 
 **Synthese der empirischen Ergebnisse (eigene Auswertung):**
 
-    - **Kopplung pro Bedürfnis (CP, b):** Höchstes Kopplungspotential bei *Struktur/Kompetenz* mit $\min(E_{\psi},E_{\sigma})=18{,}52$; der Median über alle Cluster beträgt $\min(E_{\psi},E_{\sigma})_{\text{med}}=4{,}98$ (vgl. Tab. in 2.4).
+- **Kopplung pro Bedürfnis (CP, b):** Höchstes Kopplungspotential bei *Struktur/Kompetenz* mit $\min(E_{\psi},E_{\sigma})=18{,}52$; der Median über alle Cluster beträgt $\min(E_{\psi},E_{\sigma})_{\text{med}}=4{,}98$ (vgl. Tab. in 2.4).
 - **Bootstrap der Makrostruktur $Q$:** Mittelwert $Q=0{,}445$ mit $95\,\%$-Intervall $[0{,}398; 0{,}480]$ (aus `robust_bootstrap_Q.csv`).
 - **Nullmodell (Rewiring):** Beobachtetes $Q=0{,}447$; unter der Nullverteilung liegt $p_{\text{right}}=1{,}000$ (aus `robust_nullmodel_Q.csv`), d. h. die beobachtete Ordnung liegt am rechten Rand der Rewiring-Verteilung und ist damit deutlich von zufälligen Kantenkonfigurationen separiert.
     - **Permutation der Bedürfnislabels (Gesamt-CP):** Beobachteter Wert $\mathrm{CP}_{\text{obs}}=33{,}56$ gegenüber einem Permutationsmittel von $\overline{\mathrm{CP}}_{\text{perm}}=60{,}85$ mit $95\,\%$-Intervall $[57{,}20; 61{,}30]$; Einseitiger Test $p=1{,}000$ für $\mathrm{CP}_{\text{perm}}\ge \mathrm{CP}_{\text{obs}}$ (aus `robust_permutation_needs.csv`). Dies unterstreicht, dass die theoriebasierte Labelung **nicht** beliebig $\mathrm{CP}$ maximiert, sondern eine selektive, semantisch begründete Kopplungsgeometrie abbildet (Kapitel 2.5).
@@ -227,7 +280,7 @@ Externvalidität bleibt auf schulische Kontexte im Sinne von Hattie (2024) besch
 Sensitivitätsanalysen (Kapitel 2.2.4) zeigen zwar Stabilität, belegen jedoch keine kausale Notwendigkeit. 
 Weitere Arbeiten sollten gerichtete Effekte, alternative Balancemaße (z. B. $\min/\max$) sowie externe Validierungen berücksichtigen.
 
-## 2.7 Argumentative Ableitung der Definition (zu Kapitel 1)
+## 2.7 Argumentative Ableitung der Definition
 
 **Ziel:** Explizit machen, inwiefern die in Kapitel 2 erhobenen Befunde die in Kapitel 1 formulierte Definition stützen.
 
@@ -244,8 +297,6 @@ C1. Unter den Prämissen P1–P6 ist die Definition in Kapitel 1 als *plausible,
 
 **Konsequenz für Kapitel 1 (Wahrheitsanspruch):**
 Die Definition ist nicht dogmatisch, sondern als forschungsleitende Hypothese zu verstehen, deren Evidenzgrad durch die in Kapitel 2 dokumentierten Indizien bestimmt ist. Weitere Arbeiten sollten gerichtete Effekte (Vorzeichen von d), externe Validierung und prä-registrierte Analysen ergänzen, um den kausalen Status zu stärken.
-
-
 
 ## Anhang A: Empirische Übersichtstabellen (CSV-basiert)
 
