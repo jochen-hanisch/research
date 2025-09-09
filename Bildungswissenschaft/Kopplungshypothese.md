@@ -4,7 +4,7 @@ title: Bedürfnisbasierte Kopplungshypothese der Bildung
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-09-08
 updated: 2025-09-09
-publish: false
+publish: true
 tags:
 published:
 ---
@@ -15,9 +15,9 @@ created: 8.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/resea
 
 # 1 Definition
 
-Die Bedürfnisbasierte Kopplungshypothese der Bildung ist die Annahme, dass Bildungswirksamkeit durch die strukturelle Kopplung psychischer und sozialer Systeme (vgl. Luhmann, 1984) über die Adressierung menschlicher Grundbedürfnisse (vgl. Young & Roediger, 2011) entsteht.
+Die Bedürfnisbasierte Kopplungshypothese der Bildung ist die Annahme, dass Bildungswirksamkeit durch die strukturelle Kopplung psychischer und sozialer Systeme (Luhmann, 1984) über die Adressierung menschlicher Grundbedürfnisse (Young & Roediger, 2011) entsteht.
 
-Der Status dieser Definition ist hypothetisch-arbeitsleitend; ihre argumentative Herleitung erfolgt in # 2.1–# 2.6 und wird dort als durch Indizienlage gestützte Erklärung ausgewiesen (keine Kausalbehauptung im strengen Sinne).
+Der Status dieser Definition ist hypothetisch-arbeitsleitend; ihre argumentative Herleitung erfolgt in Kapitel 2.1 - 2.6 und wird dort als durch Indizienlage gestützte Erklärung ausgewiesen (keine Kausalbehauptung im strengen Sinne).
 
 Die Definition umfasst folgende hypothetische Kernelemente:
 
@@ -28,18 +28,50 @@ Die Definition umfasst folgende hypothetische Kernelemente:
    Kommunikation bildet soziale Strukturen, die Lernprozesse organisieren und stabilisieren. Auch dieses Verständnis sozialer Systeme orientiert sich an Luhmanns Systemtheorie (Luhmann, 1984).
 
 3. **Menschliche Grundbedürfnisse**  
-   Nach Young (2011) & Roediger (2019): Bindung, Kontrolle nach außen, Kontrolle nach innen, Selbstwerterhalt, Vermeidung von Unlust. Diese Bedürfnisse sind die Schnittstellen zwischen psychischen und sozialen Systemen.
+   Nach Young und Roediger (2011) sowie Roediger (2019): Bindung, Kontrolle nach außen, Kontrolle nach innen, Selbstwerterhalt, Vermeidung von Unlust. Diese Bedürfnisse sind die Schnittstellen zwischen psychischen und sozialen Systemen.
 
 4. **Strukturelle Kopplung**  
-   Bildungswirksamkeit entsteht, wenn Bedürfnisse systematisch adressiert und so psychische und soziale Systeme gekoppelt werden. Dies entspricht Luhmanns Konzept der strukturellen Kopplung (Luhmann, 1984).
+   Bildungswirksamkeit kann entstehen, wenn Bedürfnisse systematisch adressiert und so psychische und soziale Systeme gekoppelt werden. Dies entspricht Luhmanns Konzept der strukturellen Kopplung (Luhmann, 1984).
 
 5. **Effektstärken**  
-   Empirische Evidenz bestätigt, dass Interventionen besonders wirksam sind, wenn sie zentrale Bedürfnisse adressieren (Hattie, 2013).
+   Empirische Evidenz bestätigt, dass Interventionen besonders wirksam sind, wenn sie zentrale Bedürfnisse adressieren (Hattie, 2024).
 
 6. **Brückenfunktionen**  
    Praktiken und Interventionen wirken als Brücken, indem sie die Bedürfnisadressierung in konkrete Bildungsprozesse übersetzen.
 
 # 2 Herleitung
+
+Dieses Kapitel führt die Lesenden Schritt für Schritt in die Argumentationskette ein, aus der die in Kapitel 1 formulierte Definition hervorgeht. Ausgangspunkt sind die metaanalytischen Befunde von Hattie (2024), die in Form standardisierter Effektstärken ($d$) eine empirische „Wirkungsmasse“ bereitstellen. Durch Aggregation der Beträge $|d_i|$ entsteht ein erster quantitativer Bezugsrahmen, der richtungsunabhängig die Intensität von Bildungsinterventionen abbildet.
+
+Auf dieser Basis entfaltet sich eine Reise durch mehrere theoretische und methodische Ebenen:
+
+1. **Von den Daten zur Struktur:** Die Effektstärken werden systemtheoretisch auf psychische ($ψ$) und soziale ($σ$) Ebenen bezogen und in einem Netzwerkmodell angeordnet. So erhält die Wirkungsmasse eine geometrische Gestalt, in der Brücken und Trennungen sichtbar werden (Luhmann, 1984; Newman, 2010).
+
+2. **Bedürfnisse als Semantik der Schnittstellen:** Um die Verbindungspunkte zwischen $\\psi$ und $\\sigma$ zu bestimmen, werden Items theoriegeleitet den Grundbedürfnissen nach Young und Roediger (2011) zugeordnet. Diese Bedürfnisse fungieren als heuristische Programme, die psychische Voraussetzungen anschlussfähig an soziale Arrangements machen.
+
+3. **Kennzahlen als Übersetzungen:** Mit den Größen $E_{\\psi}$, $E_{\\sigma}$, $b$, $\\mathrm{CP}$ und $Q$ wird die Kopplung operational fassbar. Sie übersetzen die Hypothese „Bedürfnisadressierung ermöglicht Kopplung“ in prüfbare Indikatoren.
+
+4. **Triangulation und Robustheit:** Die Kennzahlen werden je Bedürfniscluster ausgewertet und durch Robustheits- und Nullmodellanalysen abgesichert (Bootstrap, Permutation, Rewiring, Sensitivität). Dadurch wird sichergestellt, dass Muster nicht zufällig, sondern stabil und interpretierbar sind (Borenstein et al., 2009; Efron & Tibshirani, 1994).
+
+5. **Phasenheuristik $\\tau$:** Mit einer heuristischen Schwelle wird die Landschaft der Bedürfnisse in gekoppelte und entkoppelte Cluster gegliedert. Diese Schwelle ist datensatzgebunden, macht die empirischen Befunde jedoch kommunizierbar und nachvollziehbar.
+
+6. **Synthese:** Am Ende verdichten sich Daten, Theorie und Kennzahlen zu einer argumentativen Ableitung: Bildungswirksamkeit wird dort am wahrscheinlichsten, wo psychische und soziale Systeme über die Adressierung von Bedürfnissen strukturell gekoppelt sind.
+
+```mermaid
+flowchart TD
+  A[Metaanalyse Hattie 2024: Effektstärken d<br/>Kapitel 2.1] --> A1[Aggregation der Wirkungsmasse: #124;d_i#124;]
+  A1 --> B1[E_ψ, E_σ je Item/Cluster]
+  A1 --> B2[Netzwerkbildung: ψ ↔ σ<br/>Kapitel 2.2]
+  B1 --> C1[Bedürfnis-Mapping<br/>Young & Roediger, 2011; Kapitel 2.4]
+  B2 --> C2[Kennzahlen: b, CP, Q<br/>Kapitel 2.2.2]
+  C1 --> D[Triangulation & Auswertung je Bedürfnis<br/>Kapitel 2.4]
+  C2 --> D
+  D --> E[Robustheit: Bootstrap, Permutation, Rewiring, Sensitivität<br/>Kapitel 2.2.4; 2.6]
+  E --> F[Phasenheuristik: τ; gekoppelte/entkoppelte Cluster<br/>Kapitel 2.5]
+  F --> G[Synthese & argumentative Ableitung der Definition<br/>Kapitel 2.7]
+```
+
+Die nachfolgenden Abschnitte (2.1–2.7) folgen dieser Kette. Sie entfalten die einzelnen Schritte im Detail, illustrieren sie mit empirischen Befunden und verknüpfen sie mit der theoretischen Rahmung. Ziel ist nicht ein kausaler Nachweis, sondern eine indiziengestützte Plausibilisierung: Die Definition aus Kapitel 1 wird so in ein Netz aus Zahlen, Theorien und heuristischen Modellen eingebettet, das ihren hypothetischen Status transparent begründet.
 
 ## 2.1 Effektstärken aus Hatties Metaanalyse
 
@@ -67,7 +99,7 @@ Bildungssysteme können als Netzwerke verstanden werden, die sich aus sozialen I
 
 ### 2.2.1 Methodischer Zugang
 
-Die Netzwerkanalyse erfolgte auf Basis der in den CSV-Dateien kodierten Items, die sowohl Effektstärken $d$ (Hattie, 2024) als auch systemtheoretische Zuordnungen (psychisch vs. sozial) enthalten. Jedes Item wurde zusätzlich theoriebasiert einem Bedürfniscluster nach Young und Roediger (2011) zugeordnet. Auf dieser Grundlage wurden Kopplungsmaße berechnet, darunter die Summen der Effektstärken pro Systemebene ($E_\psi$, $E_\sigma$), ein Balance-Maß $b$ sowie das Kopplungspotential $\mathrm{CP}$. Fehlende Bedürfnislabels werden im Auswertungsskript neutral toleriert; CP- und $b$-Berechnungen pro Bedürfnisgruppe erfolgen auf den gelabelten Teilmengen, während globale Netzwerkmaße (z. B. $Q$) auf der Gesamtheit der Items basieren.
+Die Netzwerkanalyse erfolgte auf Basis der in den CSV-Dateien kodierten Items, die sowohl Effektstärken $d$ (Hattie, 2024) als auch systemtheoretische Zuordnungen (psychisch vs. sozial) enthalten. Jedes Item wurde zusätzlich theoriebasiert einem Bedürfniscluster nach Young und Roediger (2011) zugeordnet (Young & Roediger, 2011). Auf dieser Grundlage wurden Kopplungsmaße berechnet, darunter die Summen der Effektstärken pro Systemebene ($E_\psi$, $E_\sigma$), ein Balance-Maß $b$ sowie das Kopplungspotential $\mathrm{CP}$. Fehlende Bedürfnislabels werden im Auswertungsskript neutral toleriert; CP- und $b$-Berechnungen pro Bedürfnisgruppe erfolgen auf den gelabelten Teilmengen, während globale Netzwerkmaße (z. B. $Q$) auf der Gesamtheit der Items basieren.
 
 ### 2.2.2 Kennzahlen und Berechnungen
 
@@ -84,7 +116,7 @@ Diese Kennzahlen bilden die Grundlage für die Auswertung der Brückenfunktionen
 
 ### 2.2.3 Kopplung nach Bedürfnisgruppen
 
-Die Items wurden theoriebasiert den fünf Bedürfnisclustern nach Young und Roediger zugeordnet (Young, Klosko, & Weishaar, 2003; Young & Roediger, 2011). Die Auswertung zeigt drei Muster:
+Die Items wurden theoriebasiert den fünf Bedürfnisclustern nach Young, Klosko und Weishaar (2003) sowie Young und Roediger (2011) zugeordnet. Die Auswertung zeigt drei Muster:
 
 1. **Bindung und Emotion/Selbstkontrolle**: hohe $E_\psi(N)$, niedrige $E_\sigma(N)$, $b(N)\approx 0$, $\mathrm{CP}(N)$ gering. Diese Dimensionen repräsentieren primär psychische Voraussetzungen.  
 2. **Orientierung**: mittlere $b(N)$ und $\mathrm{CP}(N)$-Werte, typisch für Praktiken, die Erwartungsklarheit und Handlungsrahmen in sozialen Settings erzeugen.  
@@ -102,13 +134,24 @@ Zur Absicherung wurden mehrere Verfahren implementiert:
 
 ### 2.2.5 Systemtheoretische Interpretation
 
-Eine hohe Modularity $Q$ zwischen $\psi$ und $\sigma$ verweist auf differenzierte Teilsysteme. Substanziell erhöhte $\mathrm{CP}(N)$-Werte in Orientierung, Stabilität und Struktur/Kompetenz weisen darauf hin, dass Bildungswirksamkeit entsteht, wenn psychische Voraussetzungen in sozial getragenen Arrangements verstetigt werden. Im luhmannschen Rahmen bedeutet dies strukturelle Kopplung über bedürfnisadäquate Programme, die Bewusstseinsoperationen anschlussfähig an Kommunikation machen (Luhmann, 1984). Die Effektstärken aus der Metaanalyse (Hattie, 2024) liefern die quantitative Wirkungsmasse, die Netzwerkstruktur liefert die Kopplungsgeometrie, und die Bedürfnisdimensionen liefern die Semantik der Schnittstellen (Young & Roediger, 2011).
+Eine hohe Modularity $Q$ zwischen $\psi$ und $\sigma$ verweist auf differenzierte Teilsysteme. Substanziell erhöhte $\mathrm{CP}(N)$-Werte in Orientierung, Stabilität und Struktur/Kompetenz weisen darauf hin, dass Bildungswirksamkeit entstehen kann, wenn psychische Voraussetzungen in sozial getragenen Arrangements verstetigt werden. Im luhmannschen Rahmen bedeutet dies strukturelle Kopplung über bedürfnisadäquate Programme, die Bewusstseinsoperationen anschlussfähig an Kommunikation machen (Luhmann, 1984). Die Effektstärken aus der Metaanalyse (Hattie, 2024) liefern die quantitative Wirkungsmasse, die Netzwerkstruktur liefert die Kopplungsgeometrie, und die Bedürfnisdimensionen liefern die Semantik der Schnittstellen (Young & Roediger, 2011).
 
 ## 2.3 Systemtheoretische Konzepte nach Luhmann
 
-Nach Niklas Luhmann (1984) bestehen soziale Systeme ausschließlich aus Kommunikation und sind somit grundlegend von psychischen Systemen, die aus Bewusstseinsprozessen bestehen, zu unterscheiden. Soziale Systeme operieren autopoietisch durch kommunikative Operationen, während psychische Systeme durch bewusste Erlebnisse und Gedanken charakterisiert sind. Die Verbindung zwischen diesen beiden Systemtypen erfolgt über strukturelle Kopplungen, die als spezifische Anschlussstellen fungieren. Im Kontext der Bildung entstehen diese Anschlussstellen durch die gezielte Adressierung menschlicher Grundbedürfnisse, welche als Vermittler zwischen psychischen und sozialen Systemen dienen. Durch die wiederholte und systematische Reproduktion dieser strukturellen Kopplungen werden Bildungsprozesse stabilisiert und dauerhaft wirksam. Somit bildet die strukturelle Kopplung über bedürfnisorientierte Programme die Grundlage für die Anschlussfähigkeit von Bewusstseinsoperationen an kommunikative Prozesse innerhalb sozialer Bildungssysteme (Luhmann, 1984).
+Nach Niklas Luhmann (1984) sind soziale Systeme eigenständige, operativ geschlossene Systeme, deren Elemente aus Kommunikation bestehen. Psychische Systeme sind davon grundlegend verschieden; sie bestehen aus Bewusstseinsoperationen. Beide Systemtypen reproduzieren sich autopoietisch und stehen füreinander als Umwelt zur Verfügung. Verbindungen zwischen ihnen entstehen als **strukturelle Kopplungen**, verstanden als spezifische Anschlussstellen, an denen rekursive Erwartungs- und Selektionsstrukturen Stabilität erzeugen (Luhmann, 1984).
+
+**Begriffliche Klarstellung (im Sinne Luhmanns):**
+- **Psychisches vs. Soziales System:** operative Geschlossenheit beider Systemtypen; wechselseitige Umweltbeziehung, keine Reduktion des einen auf das andere (Luhmann, 1984).
+- **Strukturelle Kopplung:** keine Verschmelzung, sondern wiederholbare Anschlusschancen, die Irritationen und Selektionsmöglichkeiten bereitstellen; klassische Beispiele sind Sprache, Rollen/Person, Organisation/Programm sowie Medium/Form (Luhmann, 1984).
+- **Programme (bei Luhmann):** Entscheidungs- bzw. Selektionsregeln, die Kommunikation steuern; sie sind **nicht** als psychologische Bedürfnisbegriffe zu verstehen.
+
+**Anschluss in dieser Arbeit (Abgrenzung):** Die Übertragung auf **menschliche Grundbedürfnisse** als mögliche „Programme“ erfolgt **nicht** bei Luhmann, sondern wird in **Kapitel 2.4** als **eigene theoretische Setzung** eingeführt. Die empirische Operationalisierung der Kopplungsannahme über $E_\psi$, $E_\sigma$, $b$ und $\mathrm{CP}$ ist in **Kapitel 2.2.2** definiert und in **Kapitel 2.4–2.6** ausgewiesen.
+
+
 
 ## 2.4 Bedürfnisdimensionen nach Young und Roediger
+
+**Einordnung und Übergang:** Im Unterschied zu Luhmann (Kapitel 2.3), der „Programme“ als kommunikative Selektionsregeln versteht und keine psychologischen Bedürfnisbegriffe heranzieht, wird hier eine eigenständige, bedürfnisbasierte Operationalisierung als heuristische Programmatik vorgeschlagen. Die Messgrößen $E_\psi$, $E_\sigma$, $b$ und $\mathrm{CP}$ sind in Kapitel 2.2.2 definiert; die empirischen Muster werden in den Kapiteln 2.4–2.6 ausgewiesen.
 
 Young und Roediger (2011) identifizieren zentrale menschliche Grundbedürfnisse: Bindung, Kontrolle nach außen, Kontrolle nach innen, Selbstwerterhalt und Vermeidung von Unlust. Diese Bedürfnisse fungieren als Schnittstellen und Vermittler zwischen psychischen und sozialen Systemen. Die gezielte Adressierung dieser Bedürfnisse in Bildungsprozessen schafft die Grundlage für eine wirksame Kopplung.
 
@@ -134,7 +177,7 @@ Interpretation: Struktur/Kompetenz und Stabilität weisen die höchsten $\mathrm
 
 ## 2.5 Thermodynamische und phasenübergangsartige Analogie
 
-Die Kopplung psychischer und sozialer Systeme lässt sich als phasenübergangsartige Dynamik interpretieren: Ab einer bestimmten Kombination aus Wirkungsmasse und Balance entsteht qualitativ ein „gekoppelter“ Zustand. Um diese Analogie operativ zu machen, wird eine datensatzspezifische Kopplungsschwelle $\tau$ definiert und empirisch begründet.
+Die Kopplung psychischer und sozialer Systeme lässt sich als phasenübergangsartige Dynamik interpretieren: Ab einer bestimmten Kombination aus Wirkungsmasse und Balance kann qualitativ ein „gekoppelter“ Zustand entstehen. Um diese Analogie operativ zu machen, wird eine datensatzspezifische Kopplungsschwelle $\tau$ definiert und empirisch begründet.
 
 **Operationalisierung der Schwelle (Datensatzheuristik):**  
 Sei $\mathrm{CP}(N)=b(N)\cdot(E_\psi(N)+E_\sigma(N))$ das Kopplungspotential pro Bedürfniscluster $N$, mit $b(N)=1-\lvert E_\psi/E_{\text{sum}}-E_\sigma/E_{\text{sum}}\rvert$. Auf Basis der in `triangulation_needs_3d.csv` aggregierten Werte (vgl. 2.4) ergibt sich die empirische Verteilung
@@ -168,34 +211,40 @@ Die aus den CSV-Dateien gewonnenen Daten zu Kopplungspotentialen liefern nicht n
 
 **Synthese der empirischen Ergebnisse (eigene Auswertung):**
 
-- **Kopplung pro Bedürfnis (CP, b):** Höchstes Kopplungspotential bei *Struktur/Kompetenz* mit $\mathrm{CP}=18{,}52$; der Median über alle Cluster beträgt $\mathrm{CP}_{\text{med}}=4{,}98$ (vgl. Tab. in 2.4).
+    - **Kopplung pro Bedürfnis (CP, b):** Höchstes Kopplungspotential bei *Struktur/Kompetenz* mit $\mathrm{CP}=18{,}52$; der Median über alle Cluster beträgt $\mathrm{CP}_{\text{med}}=4{,}98$ (vgl. Tab. in 2.4).
 - **Bootstrap der Makrostruktur $Q$:** Mittelwert $Q=0{,}445$ mit $95\,\%$-Intervall $[0{,}398; 0{,}480]$ (aus `robust_bootstrap_Q.csv`).
 - **Nullmodell (Rewiring):** Beobachtetes $Q=0{,}447$; unter der Nullverteilung liegt $p_{\text{right}}=1{,}000$ (aus `robust_nullmodel_Q.csv`), d. h. die beobachtete Ordnung liegt am rechten Rand der Rewiring-Verteilung und ist damit deutlich von zufälligen Kantenkonfigurationen separiert.
-- **Permutation der Bedürfnislabels (Gesamt-CP):** Beobachteter Wert $\mathrm{CP}_{\text{obs}}=33{,}56$ gegenüber einem Permutationsmittel von $\overline{\mathrm{CP}}_{\text{perm}}=60{,}85$ mit $95\,\%$-Intervall $[57{,}20; 61{,}30]$; Einseitiger Test $p=1{,}000$ für $\mathrm{CP}_{\text{perm}}\ge \mathrm{CP}_{\text{obs}}$ (aus `robust_permutation_needs.csv`). Dies unterstreicht, dass die theoriebasierte Labelung **nicht** beliebig CP maximiert, sondern eine selektive, semantisch begründete Kopplungsgeometrie abbildet (vgl. 2.5).
+    - **Permutation der Bedürfnislabels (Gesamt-CP):** Beobachteter Wert $\mathrm{CP}_{\text{obs}}=33{,}56$ gegenüber einem Permutationsmittel von $\overline{\mathrm{CP}}_{\text{perm}}=60{,}85$ mit $95\,\%$-Intervall $[57{,}20; 61{,}30]$; Einseitiger Test $p=1{,}000$ für $\mathrm{CP}_{\text{perm}}\ge \mathrm{CP}_{\text{obs}}$ (aus `robust_permutation_needs.csv`). Dies unterstreicht, dass die theoriebasierte Labelung **nicht** beliebig CP maximiert, sondern eine selektive, semantisch begründete Kopplungsgeometrie abbildet (Kapitel 2.5).
 - **Sensitivität (Need-Swap):** Spannweite der Gesamtkopplung $\min=30{,}82$ bis $\max=47{,}38$ (aus `robust_sensitivity_needswap.csv`), d. h. moderate Variation bei Label-Swaps, ohne Strukturbruch.
 - **Sensitivität (Top‑$k$):** Minimales $Q_{\text{after}}=0{,}407$ bei $k=10$ entfernten Top‑Items nach $|d|$ (aus `robust_sensitivity_topk.csv`); die Ordnungsstruktur bleibt erhalten.
 - **Sensitivität (Items/Leave‑One‑Out):** Keine Veränderung der Konfidenzsumme ($\Delta CI = 0$ über alle Items; aus `robust_sensitivity_items.csv`), womit die Brückenrangfolge als stabil einzuschätzen ist.
 
-    Diese Evidenzen verbinden die mikroskopische Ebene (Bedürfniscluster mit $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$) mit der makroskopischen Ordnung ($Q$) und belegen, dass die in 2.2.3 und 2.5 formulierten Schlüsse datenbasiert getragen sind. Die Interpretation bleibt dabei transparent heuristisch: Schwellen (z. B. $\tau$ in 2.5) sind datensatzgebunden und werden durch Bootstrap-, Nullmodell- und Permutationsanalysen flankiert.
+Diese Evidenzen verbinden die mikroskopische Ebene (Bedürfniscluster mit $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$) mit der makroskopischen Ordnung ($Q$) und belegen, dass die in 2.2.3 und 2.5 formulierten Schlüsse datenbasiert getragen sind. Die Interpretation bleibt dabei transparent heuristisch: Schwellen (z. B. $\tau$ in 2.5) sind datensatzgebunden und werden durch Bootstrap-, Nullmodell- und Permutationsanalysen flankiert.
 
+**Validitätsgrenzen:** Die vorliegenden Ergebnisse sind heuristisch und datenindiziert zu interpretieren. 
+Konstruktvalidität ist eingeschränkt durch die theoriegeleitete Zuordnung der Items zu Bedürfniskategorien. 
+Internvalidität ist limitiert durch Aggregationen über $|d|$, die Richtungsinformationen der Effekte unterdrücken. 
+Externvalidität bleibt auf schulische Kontexte im Sinne von Hattie (2024) beschränkt. 
+Sensitivitätsanalysen (Kapitel 2.2.4) zeigen zwar Stabilität, belegen jedoch keine kausale Notwendigkeit. 
+Weitere Arbeiten sollten gerichtete Effekte, alternative Balancemaße (z. B. $\min/\max$) sowie externe Validierungen berücksichtigen.
 
-## 2.7 Argumentative Ableitung der Definition (zu # 1)
+## 2.7 Argumentative Ableitung der Definition (zu Kapitel 1)
 
-**Ziel:** Explizit machen, inwiefern die in # 2 erhobenen Befunde die in # 1 formulierte Definition stützen.
+**Ziel:** Explizit machen, inwiefern die in Kapitel 2 erhobenen Befunde die in Kapitel 1 formulierte Definition stützen.
 
 **Prämissen (P):**
 P1. (Systemtheorie) Psychische und soziale Systeme sind operativ getrennt; Kopplung erfolgt über spezifische Anschlussstellen (Luhmann, 1984).
 P2. (Bedürfnisdimensionen) Die fünf Grundbedürfnisse (Young, Klosko, & Weishaar, 2003; Young & Roediger, 2011) sind geeignete Kandidaten für solche Anschlussstellen.
 P3. (Wirkungsmasse) Effektstärken |d| aus Visible Learning (Hattie, 2024) dienen als standardisierte Indikatoren für Bildungswirksamkeit.
-P4. (Operationalisierung) Die Kennzahlen $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$ bilden eine theoriegeleitete Übersetzung von „adressiertem Bedürfnis in einem sozialen Arrangement“ → „potentielle Kopplung“ (# 2.2).
-P5. (Empirie) Die CSV-basierten Auswertungen zeigen robuste Muster: Hohe $\mathrm{CP}$ in „Struktur/Kompetenz“ und „Stabilität“, robuste Ordnung $Q$, deutliche Abweichung von Null‑ und Permutationsmodellen (# 2.4–# 2.6, Anhang A).
+P4. (Operationalisierung) Die Kennzahlen $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$ bilden eine theoriegeleitete Übersetzung von „adressiertem Bedürfnis in einem sozialen Arrangement“ → „potentielle Kopplung“ (Kapitel 2.2).
+P5. (Empirie) Die CSV-basierten Auswertungen zeigen robuste Muster: Hohe $\mathrm{CP}$ in „Struktur/Kompetenz“ und „Stabilität“, robuste Ordnung $Q$, deutliche Abweichung von Null‑ und Permutationsmodellen (Kapitel 2.4 – 2.6, Anhang A).
 P6. (Begrenzung) Die Evidenz ist korrelativ/indiziell (Aggregationen über |d|, heuristische Schwellen, theoriebasierte Labelung); kausale Notwendigkeit hinreichend starker Kopplung wird nicht behauptet.
 
 **Schluss (C):**
-C1. Unter den Prämissen P1–P6 ist die Definition in # 1 als *plausible, datenindizierte Erklärung* gerechtfertigt: Bildungswirksamkeit lässt sich dort am höchsten beobachten, wo Bedürfnisse als Anschlussstellen adressiert werden und dadurch eine strukturelle Kopplung zwischen psychischen und sozialen Operationen entsteht. Die Erklärung beansprucht Geltung unter den angegebenen Operationalisierungen und bleibt für weitere Kausaltests offen.
+C1. Unter den Prämissen P1–P6 ist die Definition in Kapitel 1 als *plausible, datenindizierte Erklärung* gerechtfertigt: Bildungswirksamkeit lässt sich dort am höchsten beobachten, wo Bedürfnisse als Anschlussstellen adressiert werden und dadurch eine strukturelle Kopplung zwischen psychischen und sozialen Operationen entsteht. Die Erklärung beansprucht Geltung unter den angegebenen Operationalisierungen und bleibt für weitere Kausaltests offen.
 
-**Konsequenz für # 1 (Wahrheitsanspruch):**
-Die Definition ist nicht dogmatisch, sondern als forschungsleitende Hypothese zu verstehen, deren Evidenzgrad durch die in # 2 dokumentierten Indizien bestimmt ist. Weitere Arbeiten sollten gerichtete Effekte (Vorzeichen von d), externe Validierung und prä-registrierte Analysen ergänzen, um den kausalen Status zu stärken.
+**Konsequenz für Kapitel 1 (Wahrheitsanspruch):**
+Die Definition ist nicht dogmatisch, sondern als forschungsleitende Hypothese zu verstehen, deren Evidenzgrad durch die in Kapitel 2 dokumentierten Indizien bestimmt ist. Weitere Arbeiten sollten gerichtete Effekte (Vorzeichen von d), externe Validierung und prä-registrierte Analysen ergänzen, um den kausalen Status zu stärken.
 
 
 
@@ -205,27 +254,27 @@ Die Tabellen verdichten die aus den CSV-Dateien gewonnenen Resultate und verknü
 
 ### A1. Zusammenfassung zentraler Robustheits- und Nullmodellbefunde
 
-| Test / Aspekt                     | Kennzahl(en)                                                                 | Datei                               | Kurzinterpretation                                                                 |
-|----------------------------------|------------------------------------------------------------------------------|-------------------------------------|------------------------------------------------------------------------------------|
-| Kopplung je Bedürfnis            | Top-CP: Struktur/Kompetenz = 18,52; Median CP = 4,98                         | triangulation_needs_3d.csv          | Brückencluster mit hoher sozialer und substantieller psychischer Masse            |
-| Bootstrap Q                      | Mean Q = 0,445; 95%-CI = [0,398; 0,480]                                      | robust_bootstrap_Q.csv              | Enge Intervalle belegen stabile Ordnungsstruktur                                  |
-| Nullmodell Q (Rewiring)          | Q_obs = 0,447; p_right = 1,000                                               | robust_nullmodel_Q.csv              | Beobachtete Ordnung liegt am rechten Rand der Nullverteilung                      |
-| Permutation CP_total             | obs = 33,56; perm mean = 60,85; 95%-CI = [57,20; 61,30]; p = 1,000           | robust_permutation_needs.csv        | Theoriebasierte Labelung maximiert CP nicht beliebig; selektive Kopplungsgeometrie|
-| Sensitivität (Need-Swap)         | min = 30,82; max = 47,38                                                     | robust_sensitivity_needswap.csv     | Moderate Variation ohne Strukturbruch                                             |
-| Sensitivität (Top-k)             | min Q_after = 0,407 (bei k = 10)                                             | robust_sensitivity_topk.csv         | Ordnung bleibt trotz Entfernen starker Items erhalten                              |
-| Sensitivität (Items, LOO)        | ΔCI ≠ 0 vorhanden? False                                                     | robust_sensitivity_items.csv        | Brückenrangfolge stabil                                                            |
+| Test / Aspekt                            | Kennzahl(en)                                                                                                                            | Datei                             | Kurzinterpretation                                                                            |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------- |
+| Kopplung je Bedürfnis                    | Top‑$\mathrm{CP}$: Struktur/Kompetenz $=18{,}52$; Median $\mathrm{CP}_{\text{med}}=4{,}98$                                              | `triangulation_needs_3d.csv`      | Brückencluster mit hoher sozialer und substantieller psychischer Masse                        |
+| Bootstrap $Q$                            | $\overline{Q}=0{,}445$; $95\,\%\text{-KI}=[0{,}398;\,0{,}480]$                                                                          | `robust_bootstrap_Q.csv`          | Enge Intervalle belegen stabile Ordnungsstruktur                                              |
+| Nullmodell $Q$ (Rewiring)                | $Q_{\text{obs}}=0{,}447$; $p_{\text{right}}=1{,}000$                                                                                    | `robust_nullmodel_Q.csv`          | Beobachtete Ordnung liegt am rechten Rand der Nullverteilung                                  |
+| Permutation $\mathrm{CP}_{\text{total}}$ | $\mathrm{CP}_{\text{obs}}=33{,}56$; $\overline{\mathrm{CP}}_{\text{perm}}=60{,}85$; $95\,\%\text{-KI}=[57{,}20;\,61{,}30]$; $p=1{,}000$ | `robust_permutation_needs.csv`    | Theoriebasierte Labelung maximiert $\mathrm{CP}$ nicht beliebig; selektive Kopplungsgeometrie |
+| Sensitivität (Need‑Swap)                 | $\min=30{,}82$; $\max=47{,}38$                                                                                                          | `robust_sensitivity_needswap.csv` | Moderate Variation ohne Strukturbruch                                                         |
+| Sensitivität (Top‑$k$)                   | $\min Q_{\text{after}}=0{,}407$ (bei $k=10$)                                                                                            | `robust_sensitivity_topk.csv`     | Ordnung bleibt trotz Entfernen starker Items erhalten                                         |
+| Sensitivität (Items, LOO)                | $\Delta\text{-KI}\neq 0$ vorhanden? False                                                                                               | `robust_sensitivity_items.csv`    | Brückenrangfolge stabil                                                                       |
 
 ### A2. Notationsmapping (Formelzeichen ↔︎ Code)
 
 | Theorie / Formel | Codebezeichner          |
 |------------------|-------------------------|
-| \(E_\psi\)       | `E_psych`               |
-| \(E_\sigma\)     | `E_sozial`              |
-| \(b\)            | `balance`               |
-| \(\mathrm{CP}\)  | `coupling_potential`    |
-| \(Q\)            | `Q`                     |
+| $E_\psi$         | `E_psych`               |
+| $E_\sigma$       | `E_sozial`              |
+| $b$              | `balance`               |
+| $\mathrm{CP}$    | `coupling_potential`    |
+| $Q$              | `Q`                     |
 
-Hinweis: Sämtliche Kennwerte wurden auf Basis der in # 2.4–# 2.6 beschriebenen Verfahren aus den genannten CSV-Dateien berechnet (eigene Auswertung).
+Hinweis: Sämtliche Kennwerte wurden auf Basis der in Kapitel 2.4 - 2.6 beschriebenen Verfahren aus den genannten CSV-Dateien berechnet (eigene Auswertung).
 
 # Quelle(n)
 
@@ -235,7 +284,7 @@ Luhmann, N. (1984). *Soziale Systeme: Grundriß einer allgemeinen Theorie*. Suhr
 
 Young, J. E., & Roediger, E. (2011). *Schematherapie: Ein praxisorientiertes Handbuch*. Junfermann.
 
-Roediger, H. L. (2019). *Raus aus den Lebensfallen: Ein Wegweiser für die Psychotherapie*. Springer.
+Roediger, E. (2019). *Raus aus den Lebensfallen: Ein Wegweiser für die Psychotherapie*. Springer.
 
 Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). Introduction to meta-analysis. Wiley.
 
