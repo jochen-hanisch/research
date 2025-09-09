@@ -73,6 +73,97 @@ flowchart TD
 
 Die nachfolgenden Abschnitte (2.1–2.7) folgen dieser Kette. Sie entfalten die einzelnen Schritte im Detail, illustrieren sie mit empirischen Befunden und verknüpfen sie mit der theoretischen Rahmung. Ziel ist nicht ein kausaler Nachweis, sondern eine indiziengestützte Plausibilisierung: Die Definition aus Kapitel 1 wird so in ein Netz aus Zahlen, Theorien und heuristischen Modellen eingebettet, das ihren hypothetischen Status transparent begründet.
 
+
+## 2.0 Begriffs- und Kennzahlkonsistenz
+
+Um die Nachvollziehbarkeit der Herleitung sicherzustellen, werden in diesem Abschnitt die verwendeten Begriffe, Formelzeichen und ihre Entsprechungen im Code konsistent festgelegt.
+
+### 2.0.1 Begriffe
+- **Bedürfniscluster (N):** einheitlicher Begriff für die fünf Dimensionen nach Young und Roediger. Synonyme wie „Bedürfnisgruppe“ oder „Dimension“ werden vermieden.
+- **Brückenfunktion:** bezeichnet die Rolle eines Clusters bei der Kopplung zwischen psychischen und sozialen Systemen. Operationalisiert durch Balance $b$ und Kopplungspotential $\mathrm{CP}$.
+
+### 2.0.2 Formelzeichen und Codebezeichner
+| Theorie / Formel                  | Codebezeichner        | Bedeutung |
+|-----------------------------------|-----------------------|-----------|
+| $E_\psi$                          | `E_psych`             | Summe der psychischen Anteile pro Cluster |
+| $E_\sigma$                        | `E_sozial`            | Summe der sozialen Anteile pro Cluster |
+| $E_{\text{sum}}=E_\psi+E_\sigma$  | `E_sum`               | Gesamtsumme der Wirkungsmasse pro Cluster |
+| $b$                               | `balance`             | Maß für die Symmetrie zwischen $E_\psi$ und $E_\sigma$ |
+| $\mathrm{CP}(N)=(E_\psi+E_\sigma)\cdot b$ | `coupling_potential` | gewichtetes Kopplungspotential |
+| $\min(E_\psi,E_\sigma)$           | `min(E_psych,E_sozial)` | konservative Untergrenze der gemeinsam getragenen Wirkungsmasse |
+| $Q$                               | `Q`                   | Modularity-Wert als Ordnungsparameter der Systemtrennung |
+
+
+### 2.0.3 Schreibweise
+- Effektstärken werden durchgängig als $d$ bezeichnet, mit $|d_i|$ für Beträge.
+- Aggregationen werden als $\sum |d_i|$ notiert.
+- Tabellen folgen einheitlich den Spalten: $E_\psi$, $E_\sigma$, $E_{\text{sum}}$, $b$, $\mathrm{CP}$, $\min(E_\psi,E_\sigma)$.
+- Referenzen auf Tabellen und Abschnitte erfolgen konsistent („vgl. Tab. in 2.4“ oder „siehe Anhang A2“).
+
+Diese Festlegungen gewährleisten, dass die in den Kapiteln 2.1–2.7 dargestellten Berechnungen und Interpretationen eindeutig nachvollziehbar bleiben.
+
+### 2.0.4 Datei- und Reproduzierbarkeitslinking
+
+Dieser Abschnitt dokumentiert die verwendeten Dateien, Skripte, Ausgabeorte und die minimalen Schritte zur Reproduktion der Berechnungen. Verweise sind so gestaltet, dass Dritte die Schritte unabhängig nachvollziehen können.
+
+#### Datenquellen (CSV)
+- `Thermometer.csv` — Stammtabelle der Items mit Thermometer_ID, Stichwort, Effektstärke $d$, Kapitel, Systemebene und Bedürfnislabel.
+- `system_view.csv` — Systemtheoretische Zuordnung und Ableitungen auf Itemebene.
+- `deskriptiv.csv` — deskriptive Statistiken der Effektstärken.
+- `signifikanz_ranking.csv` — Rang- und Signifikanzübersichten.
+- `clusterzuordnung.csv` — Item-zu-Cluster-/Kapitel-Mapping.
+- `fib_abs_series.csv`, `fib_signed_series.csv` — Zeit-/Reihen bzw. Serien zur Bogen-/Kurvenanalyse.
+- `werte_extras.csv`, `werte_mapping.csv` — Mapping- und Zusatzwerte (Young/Roediger ↔ Hattie).
+- `coupling_per_item.csv`, `coupling_per_need.csv`, `coupling_potential_per_need.csv` — Kopplungsmaße je Item bzw. je Bedürfniscluster.
+- `triangulation_needs_3d.csv` — aggregierte 3D-Triangulation (Systemebene × Bedürfnis × Wirkungsmasse).
+- Robustheit: `robust_bootstrap_Q.csv`, `robust_nullmodel_Q.csv`, `robust_permutation_needs.csv`, `robust_sensitivity_needswap.csv`, `robust_sensitivity_topk.csv`, `robust_sensitivity_items.csv`.
+
+Standard-Ausgabeordner:  
+`Research/Eigene Forschungsprojekte/Visible Learning/export`
+
+#### Skripte
+- `visible-learning netzwerkanalyse.py` — Hauptpipeline (Berechnung $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$, $Q$, Visualisierungen).
+- `Robustheitsprüfung.py` — Bootstrap, Permutation, grad-erhaltendes Rewiring, Sensitivität.
+- `mapping young hattie.py` — Ableitung und Export der Bedürfnislabels und Zusatzwerte.
+
+#### Minimale Reproduktionsschritte (Beispiel)
+
+```bash
+# 1) Python-Umgebung (Python ≥ 3.12)
+python -V
+# benötigte Pakete (Beispiele): pandas, numpy, networkx, plotly, scipy
+pip install -r requirements.txt  # falls vorhanden
+
+# 2) Hauptanalyse
+python "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Eigene Forschungsprojekte/Visible Learning/visible-learning netzwerkanalyse.py"
+
+# 3) Robustheit
+python "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Eigene Forschungsprojekte/Visible Learning/Robustheitsprüfung.py"
+
+# 4) Mapping-Exporte (Young ↔ Hattie)
+python "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Eigene Forschungsprojekte/Visible Learning/mapping young hattie.py"
+```
+
+Die erzeugten Tabellen/Abbildungen werden im Export-Ordner abgelegt (s. o.). Die Skripte verwenden feste Zufallssaaten für Resampling/Permutation (Parameter `seed` im Kopf der Skripte). Iterationszahlen (z. B. Bootstrap- und Permutationsläufe) sind als Parameter definiert und in den Export-Dateien vermerkt.
+
+#### Integritäts- und Versionsnachweis
+Zur Sicherung der Dateiintegrität können Hashes abgelegt werden:
+
+```bash
+# Beispiel: SHA256 der wichtigsten CSVs
+cd "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Eigene Forschungsprojekte/Visible Learning/export"
+shasum -a 256 triangulation_needs_3d.csv robust_bootstrap_Q.csv robust_nullmodel_Q.csv robust_permutation_needs.csv \
+       robust_sensitivity_needswap.csv robust_sensitivity_topk.csv robust_sensitivity_items.csv \
+       coupling_per_item.csv coupling_per_need.csv coupling_potential_per_need.csv > CHECKSUMS.sha256
+```
+
+Repository und Versionsstand:  
+Primär-Repo laut Kopfbereich: `https://git.jochen-hanisch.de/jochen-hanisch/research/`.  
+Für wissenschaftliche Referenzen empfiehlt sich die Dokumentation des Commit-Hashes, der Python-Version sowie relevanter Paketversionen (z. B. `pip freeze > VERSIONS.txt`) im Export-Ordner.
+
+#### Nachnutzung
+Alle Tabellen im Anhang A referenzieren die benannten Dateien. Die in Kapitel 2 verwendeten Kennzahlen ($E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$, $Q$) sind in den Export-CSV-Dateien enthalten und können ohne erneute Berechnung für Re-Analysen, Visualisierungen oder Replikationen genutzt werden.
+
 ## 2.1 Effektstärken aus Hatties Metaanalyse
 
 Die Metaanalyse in Visible Learning 2.0 integriert eine sehr große Zahl primärer Meta-Analysen zu schulischen Interventionen und Kontexten und verdichtet die Befunde in standardisierte Effektstärken $d$ (Hattie, 2024). Die Effektstärke $d$ beschreibt die Größe eines Mittelwertsunterschieds relativ zur Streuung und erlaubt dadurch eine vergleichbare Skalierung heterogener Studien. Formal gilt für zwei Gruppen mit den Mittelwerten $\bar X_T$ (Treatment) und $\bar X_C$ (Kontrolle) sowie den Standardabweichungen $s_T$ und $s_C$:
@@ -156,59 +247,79 @@ Young und Roediger (2011) identifizieren zentrale menschliche Grundbedürfnisse:
 
 Young, Klosko und Weishaar (2003) sowie Young und Roediger (2011) unterscheiden fünf zentrale Grundbedürfnisse, die als universale Schnittstellen zwischen psychischen und sozialen Systemen verstanden werden können:
 
-1. **Bindung** – das Bedürfnis nach stabilen und sicheren Beziehungen. In Bildungsprozessen erweist sich dieses Bedürfnis als relevant für Vertrauen und Lernbereitschaft.  
+1. **Bindung** – das Bedürfnis nach stabilen und sicheren Beziehungen. In Bildungsprozessen ist dieses Bedürfnis grundlegend für Vertrauen, Erwartungssicherheit und Lernbereitschaft.
 
 | Thermometer-ID | Stichwort | Effektstärke ($d$) |
-| -------------- | --------- | ------------------ |
+| -------------- | --------- | ------------------:|
 | 9.05 | Einschätzung des Leistungsniveaus durch die Lehrperson | 1.30 |
 | 9.06 | Glaubwürdigkeit | 1.09 |
 | 9.07 | Klarheit der Lehrperson | 0.85 |
 | 9.08 | Kollektive Wirksamkeitserwartung | 1.34 |
 | 9.04 | Nichtetikettieren von Lernenden | 0.61 |
-| 9.02 | Sprachkompetenz | 0.22 |
 | 9.03 | Lehrererwartung – körperliche Attraktivität | 0.36 |
+| 9.02 | Sprachkompetenz | 0.22 |
 
-2. **Kontrolle nach außen** – das Bedürfnis, die Umwelt beeinflussen und strukturieren zu können, was die Grundlage für das Erleben von Selbstwirksamkeit im sozialen Kontext bildet.  
-
-| Thermometer-ID | Stichwort | Effektstärke ($d$) |
-| -------------- | --------- | ------------------ |
-| 4.01 | Selbstwirksamkeit | 0.92 |
-| 7.02 | Zielklarheit | 0.56 |
-| 7.03 | Lernziele setzen | 0.77 |
-| 5.01 | Feedback | 0.72 |
-| 5.03 | Feedforward | 0.73 |
-| 8.02 | Klassenführung | 0.52 |
-| 8.03 | Klarheit der Regeln | 0.76 |
-
-3. **Kontrolle nach innen** – das Bedürfnis, innere Impulse und Emotionen regulieren zu können. In Lernumgebungen trägt es zu Aufmerksamkeitssteuerung und Emotionsregulation bei.  
+2. **Kontrolle nach außen** – das Bedürfnis, die Umwelt beeinflussen und strukturieren zu können; Grundlage für erlebte Wirksamkeit im sozialen Kontext (Orientierung, Regeln, Zielklarheit).
 
 | Thermometer-ID | Stichwort | Effektstärke ($d$) |
-| -------------- | --------- | ------------------ |
-| 6.01 | Selbstregulation | 0.52 |
-| 6.02 | Emotionsregulation | 0.68 |
-| 6.03 | Aufmerksamkeit | 0.48 |
-| 6.04 | Motivation | 0.48 |
-| 6.05 | Ausdauer | 0.48 |
+| -------------- | --------- | ------------------:|
+| 11.10 | Kognitive Aufgabenanalyse (Cognitive Task Analysis) | 1.09 |
+| 11.15 | Klassendiskussionen | 0.82 |
+| 11.08 | Lernziele (Aufgaben-Orientierung) | 0.67 |
+| 11.05 | Erfolgskriterien | 0.64 |
+| 11.06 | Planung des Ziels | 0.60 |
+| 11.19 | Übungstests | 0.59 |
+| 11.12 | Feedback (Technikunterstützung) | 0.55 |
+| 11.16 | Peer- und Selbstbeurteilung | 0.54 |
+| 11.13 | Fragen stellen | 0.49 |
+| 11.17 | Formative Evaluation | 0.40 |
+| 11.14 | Produktives Scheitern | 0.39 |
+| 11.18 | Häufigkeit von Tests | 0.39 |
+| 8.10 | Klassenführung | 0.43 |
+| 8.11 | Aktive Pausen im Klassenzimmer | 0.16 |
+| 8.12 | (Cyber-)Bulling | -0.28 |
+| 8.14 | Schulverweis / Schulausschluss | -0.20 |
+| 11.03 | Lernzielhierarchisierung | 0.19 |
 
-4. **Selbstwerterhalt** – das Bedürfnis, ein positives Selbstbild zu entwickeln und zu bewahren. Empirisch zeigen Hatties Metaanalysen (2024), dass Interventionen mit hohem Bezug zum Selbstkonzept besonders wirksam sind.  
+3. **Kontrolle nach innen** – das Bedürfnis, Aufmerksamkeit, Impulse und Emotionen zu regulieren (Aufmerksamkeitssteuerung, Emotionsregulation, Motivation).
 
 | Thermometer-ID | Stichwort | Effektstärke ($d$) |
-| -------------- | --------- | ------------------ |
-| 4.02 | Selbstkonzept | 0.43 |
-| 4.03 | Selbstwertgefühl | 0.65 |
-| 4.04 | Selbstvertrauen | 0.50 |
-| 4.05 | Selbstbild | 0.57 |
-| 4.06 | Selbstreflexion | 0.45 |
+| -------------- | --------- | ------------------:|
+| 5.28 | Positiv-aktivierend (Neugierde) | 0.74 |
+| 5.20 | Selbstkontrolle | 0.66 |
+| 5.18 | Selbstwirksamkeitserwartung | 0.64 |
+| 5.23 | Emotionen | 0.61 |
+| 5.24 | Emotionale Intelligenz | 0.50 |
+| 5.29 | Positiv-aktivierend (Glücklichsein) | 0.54 |
+| 5.26 | Positiv-aktivierend (Freude) | 0.50 |
+| 5.17 | Konzentration / Ausdauer und Engagement | 0.41 |
+| 5.31 | negativ-aktivierend (Angst) | -0.40 |
+| 5.32 | negativ-aktivierend (Depressionen) | -0.30 |
+| 5.36 | negativ-aktivierend (Langeweile) | -0.46 |
+| 5.38 | kognitive Dispositionen (Prokrastination) | -0.41 |
 
-5. **Vermeidung von Unlust** – das Bedürfnis, Schmerz, Angst und Überforderung zu vermeiden. Pädagogisch zeigt sich hier die Bedeutung einer angstfreien und unterstützenden Lernumgebung.
+4. **Selbstwerterhalt** – das Bedürfnis, ein positives und stabiles Selbstbild zu entwickeln und zu bewahren (Selbstkonzept, Leistungszuversicht).
 
 | Thermometer-ID | Stichwort | Effektstärke ($d$) |
-| -------------- | --------- | ------------------ |
-| 10.01 | Angstreduktion | 0.45 |
-| 10.02 | Stressbewältigung | 0.43 |
-| 10.03 | Fehlerfreundlichkeit | 0.54 |
-| 10.04 | Unterstützung bei Überforderung | 0.60 |
-| 10.05 | Sicherheit im Lernumfeld | 0.58 |
+| -------------- | --------- | ------------------:|
+| 5.11 | Beurteilung der eigenen Leistungsfähigkeit | 0.96 |
+| 5.19 | Positives Selbstbild | 0.51 |
+| 5.14 | Beharrlichkeit und Zuversicht (Mindset) | 0.19 |
+| 11.20 | Alternative Bewertungsmethoden | 0.67 |
+| 10.30 | Ergebnisorientierte Bildung | 0.97 |
+
+5. **Vermeidung von Unlust** – das Bedürfnis, Angst, Scham, Ausgrenzung und Überforderung zu vermeiden; pädagogisch relevant für sichere und fehlerfreundliche Lernumgebungen.
+
+| Thermometer-ID | Stichwort | Effektstärke ($d$) |
+| -------------- | --------- | ------------------:|
+| 8.12 | (Cyber-)Bulling | -0.28 |
+| 8.21 | Lehrer-Schüler-Abhängigkeit | -0.24 |
+| 8.24 | Unbeliebtheit in der Klasse | -0.26 |
+| 8.26 | Nicht-Versetzung | -0.24 |
+| 5.31 | negativ-aktivierend (Angst) | -0.40 |
+| 5.32 | negativ-aktivierend (Depressionen) | -0.30 |
+| 5.33 | negativ-aktivierend (Wut) | -0.65 |
+| 5.36 | negativ-aktivierend (Langeweile) | -0.46 |
 
 Empirische Belege: Die folgenden Kennzahlen wurden aus der Datei `triangulation_needs_3d.csv` aggregiert (eigene Auswertung). Angegeben sind Summen der Wirkungsmasse je Systemebene ($E_\psi$, $E_\sigma$), deren Summe ($E_{\text{sum}}$), das Balancemaß $b=1-\lvert E_\psi/E_{\text{sum}} - E_\sigma/E_{\text{sum}}\rvert$, das Kopplungspotential $\mathrm{CP}=b\cdot E_{\text{sum}}$ sowie die konservative Untergrenze $\min(E_{\psi},E_{\sigma})$.
 
