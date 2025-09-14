@@ -25,11 +25,17 @@ Als Teil meiner Vorarbeiten habe ich darüber hinaus eine eigene Moodle-Testumge
 
 Ich verfolge eine integrative, prozesshafte Arbeitsweise. d.h. ich schreibe nicht linear „Kapitel für Kapitel“, sondern arbeite iterativ an Argumentationsketten, rekonstruiere Erkenntnisschritte, prüfe Strukturvarianten und füge daraus nach und nach das Gesamtmanuskript zusammen.
 
-Die nachfolgende Tabelle zeigt den Stand der einzelnen Abschnitte. Sie wird fortlaufend aktualisiert. Alle Änderungen sind im Git-Repository dokumentiert. Jeder Commit steht für einen konkreten Arbeitsfortschritt. Mein Ziel ist, innerhalb des vereinbarten Dreijahreszeitraums abzuschließen! Substanziell, wissenschaftlich fundiert und mit hohem Anspruch.
+Tabelle 1 zeigt den Stand der einzelnen Abschnitte. Sie wird fortlaufend aktualisiert. Alle Änderungen sind im [Git-Repository](https://git.jochen-hanisch.de/jochen-hanisch/research/src/branch/main/Promotion/00%20Projektstruktur/00-05%20Dokumentation) dokumentiert. Jeder Commit steht für einen konkreten Arbeitsfortschritt. Mein Ziel ist, innerhalb des vereinbarten Dreijahreszeitraums abzuschließen! Substanziell, wissenschaftlich fundiert und mit hohem Anspruch.
+
+# Aktuelle Entwicklungen
+
+- **Einstellung der Suchstrategie zum 15.9.2025:** Die durch die Google-Alert gefundenen Quellen werden duch die Zotero-Suchordner nicht mehr zugeordnet, sodass keine weiteren zu analysierenden Artefakte identifiziert werden können. Zudem zeigt der Silhouette-Score an, dass seit ca. Frühjahr 2025 die Literaturlandschaft von digitalen Lehr-Lern-Räumen zu KI-Themen driftet. Diese Entwicklungen legitimieren die Einstellung des Monitorings der Literatur.
 
 # Überblick
 
 Die folgende Tabelle gibt einen Überblick über den gegenwärtigen Stand aller Kapitel, Unterkapitel und Anhänge (siehe unten).
+
+_Tabelle 1: Statusreport_
 
 | Überschrift                                                        | Seiten | Status                                               |
 | ------------------------------------------------------------------ | ------ | ---------------------------------------------------- |
