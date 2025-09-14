@@ -9,7 +9,7 @@ tags:
 published:
 ---
 
-created: 14.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.92025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 14.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.92025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 # Einleitung
 
@@ -19,45 +19,28 @@ created: 14.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/rese
 
 # 1 Theoretische Grundlagen
 
+## 1.1 Einsatzsupervision als praxisnahe Operation
 
-
-## 1.1 Kritische Situationen
-
-- Definition (Hanisch 2019): Unterbrechung von Routinen, Unsicherheit, offene Bewältigung.
-- Bedeutung im HRT-Kontext.
-
-## 1.2 High Responsibility Teams (HRT)
-
-- Merkmale (Hagemann & Kluge).
-- Rettungsdienst als exemplarisches HRT.
-
-## 1.3 Systemische Intervention
-
-- Definition: bewusste, zielgerichtete Einwirkung auf autopoietische Systeme.
-- Wirkweise: Dekonstruktion von Narrativen, Ermöglichung von Perspektivwechseln.
-
-## 1.4 Haltung nach Rogers
-
-- Empathie, nichtbedingte Akzeptanz, Kongruenz.
-- Haltung als notwendige Bedingung für systemische Intervention.
-
-# 2 Einsatzsupervision als Form systemischer Intervention
-
-Beide Perspektiven – die praxisnahen Operationen von Heinzel und die systemische Rahmung nach Hanisch – ergänzen sich und bilden die Grundlage für eine konsolidierte Sichtweise.
-
-## 2.1 Perspektive Heinzel
+Perspektive Heinzel (2021, 2023):
 
 - Beobachtung, Debriefing, Feedback, Feldforschung.
 - Beschreibung als praxisnahe Bausteine.
 - Diese Operationen bilden praxisnahe Zugänge, die wichtige Ansatzpunkte für die Professionalisierung liefern.
 
-## 2.2 Perspektive Hanisch
+## 1.2 Systemische Intervention
 
-- Einordnung der Operationen als spezifische Interventionsformen.
-- Verbindung mit Haltung und Methoden der systemischen Beratung.
-- Die theoretische Perspektive fokussiert die systemische Verortung, wodurch die Praxisbausteine als Interventionsformen präziser eingeordnet werden können.
+Perspektive Hanisch (2020:
 
-## 2.3 Konsolidierung und Synthese
+- Unterbrechung von Routinen, Unsicherheit, offene Bewältigung.
+- Bedeutung im HRT-Kontext.
+- Merkmale (Hagemann & Kluge).
+- Rettungsdienst als exemplarisches HRT.
+- Definition: bewusste, zielgerichtete Einwirkung auf autopoietische Systeme.
+- Wirkweise: Dekonstruktion von Narrativen, Ermöglichung von Perspektivwechseln.
+- Empathie, nichtbedingte Akzeptanz, Kongruenz.
+- Haltung als notwendige Bedingung für systemische Intervention.
+
+# 2 Einsatzsupervision als Form systemischer Intervention
 
 - Konsolidierte Arbeitsdefinition von Einsatzsupervision:
 - _Form systemischer Intervention in kritischen Situationen von HRT, die Haltung, systemische Methoden und praxisnahe Operationen integriert, um Handlungsfähigkeit zu stabilisieren und Professionalisierung zu fördern._
@@ -74,9 +57,7 @@ Beide Perspektiven – die praxisnahen Operationen von Heinzel und die systemisc
 ## 3.2 Für die Organisation
 
 - Integration von Einsatzsupervision ins Qualitätsmanagement.
-    
 - Standardisierte Abläufe (z. B. wann Supervisoren eingesetzt werden).
-    
 - Ressourcensicherung (Zeit, Personal, Finanzen).
 
 ## 3.3 Für die Professionalisierung
@@ -100,6 +81,6 @@ Beide Perspektiven – die praxisnahen Operationen von Heinzel und die systemisc
 # Quelle(n)
 
 - Hanisch, J. (2020). Notfallsanitäter. Systemische Interventionskompetenz durch High Responsibility Teams in kritischen Situationen: Eine qualitative Inhaltsanalyse der berufsausbildenden Grundlagenliteratur. GRIN Publishing GmbH.
-- Heinzel, P. (2021). „Field Supervision“ eine Methode zur Weiter- entwicklung von Risiko-, Qualitäts- und Wis- sensmanagement im deutschen Rettungs- dienst [Bachelorarbeit (B.Sc.)]. Ostfalia Hochschule für angewandte Wissenschaften, Hochschule Braunschweig / Wolfenbüttel, Fakultät Gesundheitswesen.
+- Heinzel, P. (2021). „Field Supervision“ eine Methode zur Weiterentwicklung von Risiko-, Qualitäts- und Wissensmanagement im deutschen Rettungsdienst [Bachelorarbeit (B.Sc.)]. Ostfalia Hochschule für angewandte Wissenschaften, Hochschule Braunschweig / Wolfenbüttel, Fakultät Gesundheitswesen.
 - Heinzel, P. (2023). Professionalisierung durch  Feldsupervision im Rettungsdienst [Masterthesis (M.A.)]. Universität Kassel, Fachbereich Humanwissenschaften, Masterstudiengang Bildungsmanagement.
-- Heinzel, P. (2024). Professionalisierung im Einsatz: Einsatzsupervision. retten!, 13(04), 271–276. https://doi.org/10.1055/a-2118-0435
+- Heinzel, P. (2024). Professionalisierung im Einsatz: Einsatzsupervision. retten!, 13(04), 271–276.
