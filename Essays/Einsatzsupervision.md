@@ -43,7 +43,7 @@ Die Bachelorarbeit (2021) liefert dazu die systematische Herleitung: Ein interna
 
 Konzeptionell verknüpft Heinzel ESU mit QM/RM/KM: Qualitätssteigerung durch Verhaltensanalyse, Fehlerauseinandersetzung und adressatengerechte Kommunikation; Hypothesen fokussieren die „Supervision realer Einsätze“, das Sichtbarmachen der Spannungsfelder Mensch–Technik–Organisation sowie die Stärkung Non-Technical Skills als Kern der Patientinnensicherheit. (Heinzel, 2023)
 
-In Heinzel’scher Lesart ist Einsatzsupervision eine praxisnahe, einsatzbegleitende Beobachtungs- und Reflexionsoperation mit nachgelagertem Debriefing, die
+In Heinzel'scher Lesart ist Einsatzsupervision eine praxisnahe, einsatzbegleitende Beobachtungs- und Reflexionsoperation mit nachgelagertem Debriefing, die
 
 - individuelle und organisationale Professionalisierung adressiert,
 - über evidenznahe Techniken wie Audit-&-Feedback und Gruppensupervision anschlussfähig ist und
@@ -51,16 +51,15 @@ In Heinzel’scher Lesart ist Einsatzsupervision eine praxisnahe, einsatzbegleit
 
 ## 1.2 Systemische Intervention
 
-Perspektive Hanisch (2020:
+In der Perspektive von Hanisch (2020; Hanisch-Johannsen, 2025b) wird systemische Intervention als bewusste und zielgerichtete Einwirkung auf autopoietische Systeme verstanden. Der Begriff greift die systemtheoretische Annahme auf, dass soziale Systeme, hier Teams im Rettungsdienst, nicht von außen steuerbar sind, sondern nur durch Irritationen in ihrer Selbstreferentialität angeregt werden können. Systemische Intervention zielt deshalb nicht auf direktive Kontrolle, sondern auf die Eröffnung von Möglichkeitsräumen, die neue Handlungsoptionen erzeugen.
 
-- Unterbrechung von Routinen, Unsicherheit, offene Bewältigung.
-- Bedeutung im HRT-Kontext.
-- Merkmale (Hagemann & Kluge).
-- Rettungsdienst als exemplarisches HRT.
-- Definition: bewusste, zielgerichtete Einwirkung auf autopoietische Systeme.
-- Wirkweise: Dekonstruktion von Narrativen, Ermöglichung von Perspektivwechseln.
-- Empathie, nichtbedingte Akzeptanz, Kongruenz.
-- Haltung als notwendige Bedingung für systemische Intervention.
+Diese Irritationen entfalten ihre Wirksamkeit insbesondere in „kritischen Situationen“ d.h. einem von Hanisch (2019), Hagemann und Kluge (2012) sowie Hanisch-Johannsen (2025b) in die Systemische Beratung überführten Begriff, der Zustände beschreibt, in denen Routinen unterbrochen werden, Unsicherheit dominiert und die Bewältigung des Geschehens offen bleibt. Gerade in diesen Situationen wird die epistemische Autorität des Handelns sichtbar; also die Frage, wer wie Wissen für Handeln generiert. High Responsibility Teams (HRT), wie sie Hagemann und Kluge (2012) beschreiben, stehen dabei unter besonderen Anforderungen: Sie müssen unter Zeitdruck und bei hoher Konsequenzentscheidungsdichte handeln, ohne dass Unterbrechung oder Rückgriff auf Standardverfahren immer möglich wäre. Hanisch (2019) argumentiert, dass der Rettungsdienst exemplarisch ein solches HRT darstellt.
+
+Systemische Interventionen in diesem Kontext sind nicht technokratische Maßnahmen, sondern setzen auf die Dekonstruktion von Routinen, Erzählungen und Funktionslogiken. Durch gezielte Irritationen – etwa zirkuläre Fragen, Reframing oder Perspektivwechsel – wird das System eingeladen, seine bisherigen Muster zu beobachten und zu variieren. Die zugrunde liegende Haltung ist dabei zentral: In Anlehnung an Rogers (1957, 1961) beschreibt Hanisch-Johannsen (2024, 2025a) die Notwendigkeit einer systemisch fundierten Haltung, die auf Empathie, nichtbedingter Akzeptanz und Kongruenz basiert (vgl. auch Rogers, 1957, 1961). Diese Haltung ist keine moralische Option, sondern methodologische Voraussetzung: Nur durch ein nicht-beurteilendes, verstehendes Gegenüber kann ein System sich selbst beobachten, ohne sich bedroht zu fühlen.
+
+Systemische Intervention wird somit als reflexive Struktur verstanden, die keine Lösungen vorgibt, sondern Möglichkeitsbedingungen für Veränderung schafft. In kritischen Situationen von HRTs wird diese Struktur zur Grundlage professionellen Handelns – nicht als Ausnahme, sondern als epistemisches Zentrum des professionellen Selbstverständnisses (Hanisch-Johannsen, 2025b).
+
+
 
 # 2 Einsatzsupervision als Form systemischer Intervention
 
@@ -106,3 +105,8 @@ Perspektive Hanisch (2020:
 - Heinzel, P. (2021). „Field Supervision“ eine Methode zur Weiterentwicklung von Risiko-, Qualitäts- und Wissensmanagement im deutschen Rettungsdienst [Bachelorarbeit (B.Sc.)]. Ostfalia Hochschule für angewandte Wissenschaften, Hochschule Braunschweig / Wolfenbüttel, Fakultät Gesundheitswesen.
 - Heinzel, P. (2023). Professionalisierung durch  Feldsupervision im Rettungsdienst [Masterthesis (M.A.)]. Universität Kassel, Fachbereich Humanwissenschaften, Masterstudiengang Bildungsmanagement.
 - Heinzel, P. (2024). Professionalisierung im Einsatz: Einsatzsupervision. retten!, 13(04), 271–276.
+- Hanisch, J. (2019). Systemische Interventionskompeten in Kritischen Situationen: Systemisches Denken und Handeln durch High Responsibility Teams [Masterarbeit (M.A.), Technische Universität Kaiserslautern, Distance and Independent Studies Center (DISC)]. https://zenodo.org/records/15856060
+- Hanisch-Johannsen, J. (2024). Systemtheoretischer Professionalisierungsansatz (Research, S. 1–71) [Begriffsbestimmung]. b-Quadrat - Open Research and Knowledge Hub. https://doi.org/10.5281/zenodo.16284826
+- Hanisch-Johannsen, J. (2025a). Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung—Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung (Research, S. 1–67) [Begriffsbestimmung]. b-Quadrat - Open Research and Knowledge Hub. https://doi.org/10.5281/zenodo.16887477
+- Hanisch-Johannsen, J. (2025b). Elementarteams: Eine systemtheoretische Grundlagensynthese im Kontext von High-Responsibility-Teams unter Einbezug iterativer Kommunikationsprinzipien (Research, S. 1–42) [Begriffsbestimmung]. b-Quadrat - Open Research and Knowledge Hub. https://doi.org/10.5281/zenodo.15857049
+- Hagemann, V., & Kluge, A. (2012). [Titel der Quelle, falls vorhanden]. [Verlag/Zeitschrift falls bekannt]. [Falls nicht vorhanden, bitte ergänzen]
