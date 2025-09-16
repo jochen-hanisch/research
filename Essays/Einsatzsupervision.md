@@ -49,17 +49,15 @@ In Heinzel'scher Lesart ist Einsatzsupervision eine praxisnahe, einsatzbegleiten
 - über evidenznahe Techniken wie Audit-&-Feedback und Gruppensupervision anschlussfähig ist und
 - systematisch in Qualitäts-, Risiko- und Wissensmanagement integriert werden kann. 
 
-## 1.2 Systemische Intervention
+## 1.2 Systemische Intervention als theoretische Rahmung
 
 In der Perspektive von Hanisch (2020; Hanisch-Johannsen, 2025b) wird systemische Intervention als bewusste und zielgerichtete Einwirkung auf autopoietische Systeme verstanden. Der Begriff greift die systemtheoretische Annahme auf, dass soziale Systeme, hier Teams im Rettungsdienst, nicht von außen steuerbar sind, sondern nur durch Irritationen in ihrer Selbstreferentialität angeregt werden können. Systemische Intervention zielt deshalb nicht auf direktive Kontrolle, sondern auf die Eröffnung von Möglichkeitsräumen, die neue Handlungsoptionen erzeugen.
 
-Diese Irritationen entfalten ihre Wirksamkeit insbesondere in „kritischen Situationen“ d.h. einem von Hanisch (2019), Hagemann und Kluge (2012) sowie Hanisch-Johannsen (2025b) in die Systemische Beratung überführten Begriff, der Zustände beschreibt, in denen Routinen unterbrochen werden, Unsicherheit dominiert und die Bewältigung des Geschehens offen bleibt. Gerade in diesen Situationen wird die epistemische Autorität des Handelns sichtbar; also die Frage, wer wie Wissen für Handeln generiert. High Responsibility Teams (HRT), wie sie Hagemann und Kluge (2012) beschreiben, stehen dabei unter besonderen Anforderungen: Sie müssen unter Zeitdruck und bei hoher Konsequenzentscheidungsdichte handeln, ohne dass Unterbrechung oder Rückgriff auf Standardverfahren immer möglich wäre. Hanisch (2019) argumentiert, dass der Rettungsdienst exemplarisch ein solches HRT darstellt.
+Diese Irritationen entfalten ihre Wirksamkeit insbesondere in „kritischen Situationen“ d.h. einem von Hanisch (2019), Hagemann, Kluge und Ritzmann (2011) sowie Hanisch-Johannsen (2025b) in die Systemische Beratung überführten Begriff, der Zustände beschreibt, in denen Routinen unterbrochen werden, Unsicherheit dominiert und die Bewältigung des Geschehens offen bleibt. Gerade in diesen Situationen wird die epistemische Autorität des Handelns sichtbar; also die Frage, wer wie Wissen für Handeln generiert. High Responsibility Teams (HRT), wie sie Hagemann, Kluge und Ritzmann (2011) beschreiben, stehen dabei unter besonderen Anforderungen: Sie müssen unter Zeitdruck und bei hoher Konsequenzentscheidungsdichte handeln, ohne dass Unterbrechung oder Rückgriff auf Standardverfahren immer möglich wäre. Hanisch (2019) argumentiert, dass der Rettungsdienst exemplarisch ein solches HRT darstellt.
 
 Systemische Interventionen in diesem Kontext sind nicht technokratische Maßnahmen, sondern setzen auf die Dekonstruktion von Routinen, Erzählungen und Funktionslogiken. Durch gezielte Irritationen – etwa zirkuläre Fragen, Reframing oder Perspektivwechsel – wird das System eingeladen, seine bisherigen Muster zu beobachten und zu variieren. Die zugrunde liegende Haltung ist dabei zentral: In Anlehnung an Rogers (1957, 1961) beschreibt Hanisch-Johannsen (2024, 2025a) die Notwendigkeit einer systemisch fundierten Haltung, die auf Empathie, nichtbedingter Akzeptanz und Kongruenz basiert (vgl. auch Rogers, 1957, 1961). Diese Haltung ist keine moralische Option, sondern methodologische Voraussetzung: Nur durch ein nicht-beurteilendes, verstehendes Gegenüber kann ein System sich selbst beobachten, ohne sich bedroht zu fühlen.
 
 Systemische Intervention wird somit als reflexive Struktur verstanden, die keine Lösungen vorgibt, sondern Möglichkeitsbedingungen für Veränderung schafft. In kritischen Situationen von HRTs wird diese Struktur zur Grundlage professionellen Handelns – nicht als Ausnahme, sondern als epistemisches Zentrum des professionellen Selbstverständnisses (Hanisch-Johannsen, 2025b).
-
-
 
 # 2 Einsatzsupervision als Form systemischer Intervention
 
@@ -67,7 +65,39 @@ Systemische Intervention wird somit als reflexive Struktur verstanden, die keine
 - _Form systemischer Intervention in kritischen Situationen von HRT, die Haltung, systemische Methoden und praxisnahe Operationen integriert, um Handlungsfähigkeit zu stabilisieren und Professionalisierung zu fördern._
 - Zusammenführung beider Ansätze im Hinblick auf die Leitfrage.
 
+## 2.1 Ausgangslage
+
+Die bisherigen Ausführungen markieren zwei unterschiedliche, jedoch komplementäre Ausgangspunkte zur Bestimmung von Einsatzsupervision: Zum einen entwickelt Heinzel (2021, 2023, 2024) eine empirisch fundierte, evidenzbasierte Perspektive, in der Einsatzsupervision als praxisnahe Operation innerhalb realer Einsätze verortet ist. Beobachtung, Debriefing, kollegiale Reflexion, Feedback und Feldforschung stehen hier im Vordergrund – verbunden mit qualifizierenden Verfahren wie Audit & Feedback. Ziel ist die Steigerung individueller Handlungskompetenz und die Etablierung übergreifender Qualitätsstandards durch institutionell anschlussfähige Formate.
+
+Zum anderen skizziert Hanisch (2019, 2020 sowie 2024, 2025a, 2025b) eine systemtheoretisch fundierte Perspektive, in der systemische Intervention als reflexive Struktur begriffen wird. Die zentrale Annahme: In kritischen Situationen geraten soziale Systeme – insbesondere High Responsibility Teams (Hagemann et al., 2011) – in eine Irritation ihrer Routinen, was epistemische Instabilität erzeugt. Interventionen, so Hanisch-Johannsen, setzen hier nicht direktiv an, sondern eröffnen Möglichkeitsräume zur Selbstbeobachtung. Diese Dynamik wird als systemische Interventionslogik gefasst, deren Wirksamkeit auf einer spezifischen Haltung basiert: Empathie, Kongruenz und nichtbedingte Akzeptanz (Rogers, 1957, 1961).
+
+Beide Perspektiven adressieren somit unterschiedliche Dimensionen: Heinzel fokussiert das „Wie“ und „Was“ operativer Praxis, Hanisch das „Warum“ und „Wozu“ professioneller Reflexion. Erst die integrative Zusammenschau – die Verschränkung evidenzbasierter Handlungspraxis mit systemtheoretisch begründeter Interventionshaltung – eröffnet ein vollständiges Verständnis von Einsatzsupervision: als strukturierte, professionsnahe und theoriegeleitete Form zur Stabilisierung von Handlungsfähigkeit in kritischen Situationen.
+
+## 2.2 Synthese / Integration
+
+Die vorausgehenden Abschnitte zeichnen zwei komplementäre Perspektiven auf Einsatzsupervision nach: eine evidenzbasierte, praxisnahe Zugangsweise (Heinzel, 2021, 2023, 2024) und eine systemtheoretisch-reflexive Fundierung (Hanisch, 2019, 2020; Hanisch-Johannsen, 2024, 2025a, 2025b). Erst durch die systematische Verschränkung beider Perspektiven lässt sich das Konzept Einsatzsupervision in seiner vollen Tragweite bestimmen.
+
+Heinzel liefert mit der Beschreibung konkreter Operationen – wie Beobachtung, Debriefing, Feedback und Feldforschung – ein Repertoire erfahrungsnaher Verfahren, die innerhalb realer Einsatzkontexte erprobt und methodisch legitimiert sind. Diese Operationen orientieren sich an etablierten Qualitäts- und Risikomanagementinstrumenten wie Audit & Feedback und erzeugen Wirksamkeit insbesondere dort, wo Strukturen, Ressourcen und Zielorientierungen klar operationalisierbar sind. Ihr methodologischer Zugriff ist pragmatisch-evidenzorientiert, ihr Fokus liegt auf der Entwicklung operativer Kompetenz und dem Transfer in organisationale Qualitätslogiken.
+
+Die Perspektive Hanischs erweitert diesen Zugang um eine epistemologische Tiefenschicht. Die Frage nach der Ermöglichungslogik von Handlungsfähigkeit wird nicht allein durch Verfahren beantwortet, sondern durch eine systemische Haltung, die Unsicherheit als konstitutives Element kritischer Situationen begreift. Interventionen zielen nicht auf Optimierung, sondern auf das Ermöglichen von Selbstbeobachtung in hochdynamischen, reflexiv herausfordernden Kontexten. Die theoretische Rahmung über Systemtheorie, HRT-Konzepte (Hagemann et al., 2011) und Rogers’ Haltungskonzept (1957, 1961) verortet Einsatzsupervision damit innerhalb eines professionstheoretischen Paradigmas.
+
+## 2.3 Konsolidierte Definition
+
+Die vorausgehenden Ausführungen zeigen, dass sich Einsatzsupervision nicht allein durch ihre praktischen Verfahren (Heinzel, 2021, 2023, 2024) und nicht allein durch ihre systemische Rahmung (Hanisch, 2019, 2020; Hanisch-Johannsen, 2024, 2025a, 2025b) definieren lässt. Erst die bewusste Integration beider Ebenen erzeugt ein konsistentes und wirksames Interventionsmodell für High Responsibility Teams (Hagemann, Kluge & Ritzmann, 2011).
+
+Heinzel beschreibt mit Beobachtung, Debriefing, kollegialer Reflexion und Feedback konkrete Handlungsformate, die in kritischen Einsatzsituationen anschlussfähig sind – evidenzbasiert, professionsnah, anschlussfähig an Qualitätsmanagementstrukturen. Diese Verfahren entfalten jedoch nur dann ihre Wirkung, wenn sie nicht als „Instrumente“ im engen Sinn, sondern als relationale Prozesse begriffen werden, die Vertrauen, Dialog und Selbstbeobachtung ermöglichen. Genau an diesem Punkt setzt die Perspektive Hanischs an: Systemische Intervention gelingt nur dort, wo eine Haltung der Empathie, Kongruenz und nichtbedingten Akzeptanz (Rogers, 1957, 1961) die Bedingungen für reflexive Offenheit schafft.
+
+Die Konsolidierung liegt somit in einer funktionalen Verschränkung. Die Operationen nach Heinzel sind die _Vehikel_, die Haltung nach Hanisch ist die _Bedingung ihrer Wirksamkeit_. Ohne Haltung wird Feedback zur Kontrolle; mit Haltung wird Feedback zur Einladung. Ohne systemische Reflexionslogik bleibt Debriefing ein Protokoll; mit ihr wird es zur professionellen Lernschleife. Einsatzsupervision entsteht genau in dieser Schnittstelle – dort, wo praktische Handlungsmuster durch systemische Rahmung reflexiv aufgeladen und strategisch wirksam werden.
+
+Darüber hinaus macht die Analyse kritischer Situationen als Kontextbedingung (Hanisch, 2019; Hanisch-Johannsen, 2025b) deutlich, dass es sich bei Einsatzsupervision nicht um ein normiertes Verfahren, sondern um eine situationssensitive Reaktionsstruktur handelt. Die Supervision realer Einsätze wird nicht „angewendet“, sondern ereignet sich im Spannungsfeld zwischen Organisation, Team und Individuum – als bewusste systemische Antwort auf die epistemische Instabilität hochdynamischer Settings.
+
+## Konsolidierte Definition:
+
+> **Einsatzsupervision** ist eine spezifische Form systemischer Intervention, die in kritischen Situationen von High Responsibility Teams zur Anwendung kommt. Sie verbindet evidenzbasierte Praxisoperationen (z. B. Debriefing, kollegiales Feedback) mit einer systemisch fundierten Haltung (Empathie, Kongruenz, Akzeptanz) und reagiert kontextsensibel auf die epistemische Dynamik kritischer Situationen. Ziel ist die Stabilisierung professioneller Handlungsfähigkeit und die Förderung individueller wie organisationaler Professionalisierung.
+
 # 3 Handlungsempfehlungen
+
+Einsatzsupervision kann so als genuine Form systemischer Intervention verstanden werden, die operatives Handeln, systemische Reflexion und professionsbezogene Entwicklung in einem kohärenten Rahmen verbindet – mit hoher Anschlussfähigkeit sowohl für die Praxis als auch für bildungstheoretische, organisationsbezogene und epistemologische Diskurse.
 
 ## 3.1 Für die Praxis im Einsatz
 
@@ -109,4 +139,4 @@ Systemische Intervention wird somit als reflexive Struktur verstanden, die keine
 - Hanisch-Johannsen, J. (2024). Systemtheoretischer Professionalisierungsansatz (Research, S. 1–71) [Begriffsbestimmung]. b-Quadrat - Open Research and Knowledge Hub. https://doi.org/10.5281/zenodo.16284826
 - Hanisch-Johannsen, J. (2025a). Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung—Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung (Research, S. 1–67) [Begriffsbestimmung]. b-Quadrat - Open Research and Knowledge Hub. https://doi.org/10.5281/zenodo.16887477
 - Hanisch-Johannsen, J. (2025b). Elementarteams: Eine systemtheoretische Grundlagensynthese im Kontext von High-Responsibility-Teams unter Einbezug iterativer Kommunikationsprinzipien (Research, S. 1–42) [Begriffsbestimmung]. b-Quadrat - Open Research and Knowledge Hub. https://doi.org/10.5281/zenodo.15857049
-- Hagemann, V., & Kluge, A. (2012). [Titel der Quelle, falls vorhanden]. [Verlag/Zeitschrift falls bekannt]. [Falls nicht vorhanden, bitte ergänzen]
+- Hagemann, V., Kluge, A., & Ritzmann, S. (2011). High Responsibility Teams – Eine systematische Analyse von Teamarbeitskontexten für einen effektiven Kompetenzerwerb. *Journal Psychologie des Alltagshandelns*, *4*(1), 22–42.
