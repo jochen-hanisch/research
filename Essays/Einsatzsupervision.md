@@ -79,7 +79,7 @@ Die vorausgehenden Abschnitte zeichnen zwei komplementäre Perspektiven auf Eins
 
 Heinzel liefert mit der Beschreibung konkreter Operationen – wie Beobachtung, Debriefing, Feedback und Feldforschung – ein Repertoire erfahrungsnaher Verfahren, die innerhalb realer Einsatzkontexte erprobt und methodisch legitimiert sind. Diese Operationen orientieren sich an etablierten Qualitäts- und Risikomanagementinstrumenten wie Audit & Feedback und erzeugen Wirksamkeit insbesondere dort, wo Strukturen, Ressourcen und Zielorientierungen klar operationalisierbar sind. Ihr methodologischer Zugriff ist pragmatisch-evidenzorientiert, ihr Fokus liegt auf der Entwicklung operativer Kompetenz und dem Transfer in organisationale Qualitätslogiken.
 
-Die Perspektive Hanischs erweitert diesen Zugang um eine epistemologische Tiefenschicht. Die Frage nach der Ermöglichungslogik von Handlungsfähigkeit wird nicht allein durch Verfahren beantwortet, sondern durch eine systemische Haltung, die Unsicherheit als konstitutives Element kritischer Situationen begreift. Interventionen zielen nicht auf Optimierung, sondern auf das Ermöglichen von Selbstbeobachtung in hochdynamischen, reflexiv herausfordernden Kontexten. Die theoretische Rahmung über Systemtheorie, HRT-Konzepte (Hagemann et al., 2011) und Rogers’ Haltungskonzept (1957, 1961) verortet Einsatzsupervision damit innerhalb eines professionstheoretischen Paradigmas.
+Die Perspektive Hanischs erweitert diesen Zugang um eine epistemologische Tiefenschicht. Die Frage nach der Ermöglichungslogik von Handlungsfähigkeit wird nicht allein durch Verfahren beantwortet, sondern durch eine systemische Haltung, die Unsicherheit als konstitutives Element kritischer Situationen begreift. Interventionen zielen nicht auf Optimierung, sondern auf das Ermöglichen von Selbstbeobachtung in hochdynamischen, reflexiv herausfordernden Kontexten. Die theoretische Rahmung über Systemtheorie, HRT-Konzepte (Hagemann et al., 2011) und Rogers' Haltungskonzept (1957, 1961) verortet Einsatzsupervision damit innerhalb eines professionstheoretischen Paradigmas.
 
 ## 2.3 Konsolidierte Definition
 
@@ -87,13 +87,15 @@ Die vorausgehenden Ausführungen zeigen, dass sich Einsatzsupervision nicht alle
 
 Heinzel beschreibt mit Beobachtung, Debriefing, kollegialer Reflexion und Feedback konkrete Handlungsformate, die in kritischen Einsatzsituationen anschlussfähig sind – evidenzbasiert, professionsnah, anschlussfähig an Qualitätsmanagementstrukturen. Diese Verfahren entfalten jedoch nur dann ihre Wirkung, wenn sie nicht als „Instrumente“ im engen Sinn, sondern als relationale Prozesse begriffen werden, die Vertrauen, Dialog und Selbstbeobachtung ermöglichen. Genau an diesem Punkt setzt die Perspektive Hanischs an: Systemische Intervention gelingt nur dort, wo eine Haltung der Empathie, Kongruenz und nichtbedingten Akzeptanz (Rogers, 1957, 1961) die Bedingungen für reflexive Offenheit schafft.
 
-Die Konsolidierung liegt somit in einer funktionalen Verschränkung. Die Operationen nach Heinzel sind die _Vehikel_, die Haltung nach Hanisch ist die _Bedingung ihrer Wirksamkeit_. Ohne Haltung wird Feedback zur Kontrolle; mit Haltung wird Feedback zur Einladung. Ohne systemische Reflexionslogik bleibt Debriefing ein Protokoll; mit ihr wird es zur professionellen Lernschleife. Einsatzsupervision entsteht genau in dieser Schnittstelle – dort, wo praktische Handlungsmuster durch systemische Rahmung reflexiv aufgeladen und strategisch wirksam werden.
+Die Konsolidierung liegt somit in einer funktionalen Verschränkung. Die Operationen nach Heinzel sind die _Vehikel_, die Haltung nach Hanisch ist die _Bedingung ihrer Wirksamkeit_. Ohne Haltung wird Feedback zur Kontrolle; mit Haltung wird Feedback zur Einladung. Ohne systemische Reflexionslogik bleibt Debriefing ein Protokoll; mit ihr wird es zur professionellen Lernschleife. Einsatzsupervision entsteht genau in dieser Schnittstelle - dort, wo praktische Handlungsmuster durch systemische Rahmung reflexiv aufgeladen und strategisch wirksam werden.
 
 Darüber hinaus macht die Analyse kritischer Situationen als Kontextbedingung (Hanisch, 2019; Hanisch-Johannsen, 2025b) deutlich, dass es sich bei Einsatzsupervision nicht um ein normiertes Verfahren, sondern um eine situationssensitive Reaktionsstruktur handelt. Die Supervision realer Einsätze wird nicht „angewendet“, sondern ereignet sich im Spannungsfeld zwischen Organisation, Team und Individuum – als bewusste systemische Antwort auf die epistemische Instabilität hochdynamischer Settings.
 
-## Konsolidierte Definition:
+Zusammenfassend lässt sich daher folgende konsolidierte Definition formulieren:
 
-> **Einsatzsupervision** ist eine spezifische Form systemischer Intervention, die in kritischen Situationen von High Responsibility Teams zur Anwendung kommt. Sie verbindet evidenzbasierte Praxisoperationen (z. B. Debriefing, kollegiales Feedback) mit einer systemisch fundierten Haltung (Empathie, Kongruenz, Akzeptanz) und reagiert kontextsensibel auf die epistemische Dynamik kritischer Situationen. Ziel ist die Stabilisierung professioneller Handlungsfähigkeit und die Förderung individueller wie organisationaler Professionalisierung.
+> Einsatzsupervision ist eine spezifische Form systemischer Intervention, die in kritischen Situationen von High Responsibility Teams zur Anwendung kommt. Sie verbindet evidenzbasierte Praxisoperationen (z.B. Debriefing, kollegiales Feedback) mit einer systemisch fundierten Haltung (Empathie, Kongruenz, Akzeptanz) und reagiert kontextsensibel auf die epistemische Dynamik kritischer Situationen. Ziel ist die Stabilisierung professioneller Handlungsfähigkeit und die Förderung individueller wie organisationaler Professionalisierung.
+
+Damit wird Einsatzsupervision als genuin systemische Interventionsform bestimmt, die operative Praxis und reflexive Haltung in einem kohärenten Rahmen verbindet. Diese Synthese eröffnet neue Perspektiven für die Gestaltung, Implementierung und Evaluation von Supervisionsformaten im Rettungsdienst und darüber hinaus.
 
 # 3 Handlungsempfehlungen
 
@@ -101,21 +103,41 @@ Einsatzsupervision kann so als genuine Form systemischer Intervention verstanden
 
 ## 3.1 Für die Praxis im Einsatz
 
-- On-Scene-Debriefing.
-- Kurzreflexion unter Zeitdruck.
-- Kollegiale Feedback-Schleifen.
+Einsatzsupervision lässt sich im praktischen Einsatzkontext in Form konkreter, niedrigschwelliger und anschlussfähiger Interventionsformate realisieren. Ziel ist nicht die nachträgliche Aufarbeitung unter kontrollierten Bedingungen, sondern eine direkte, einsatznahe Ermöglichung professioneller Selbstbeobachtung und kollegialer Reflexion – in Übereinstimmung mit den Prinzipien systemischer Intervention (Hanisch-Johannsen, 2025b) und evidenzbasierter Supervisonsverfahren (Heinzel, 2021, 2024).
+
+- **On-Scene-Debriefing:** Kurzformatige Reflexionsgespräche unmittelbar nach dem Einsatz ermöglichen es, Erfahrungen zeitnah zu kontextualisieren. In Anlehnung an Konzepte der gruppenbasierten Supervision (Heinzel, 2024) und systemischer Kurzintervention (Hanisch-Johannsen, 2024) kann hier durch gezielte Fragen (z. B. Perspektivwechsel, Externalisierungen) eine erste Verarbeitung unterstützt werden.
+
+- **Kurzreflexion unter Zeitdruck:** Für hochdynamische Einsatzsituationen ist eine Reflexion im engeren Sinn häufig nicht möglich. Dennoch kann bereits eine 30–60-sekündige Selbstunterbrechung („Was war jetzt zentral?“, „Was irritiert mich noch?“) eine bewusstere Anschlussfähigkeit nach dem Einsatz schaffen. Diese Mikroformate entsprechen dem Gedanken der selbstreferenziellen Irritation im System (Hanisch, 2020).
+
+- **Kollegiale Feedback-Schleifen:** Aufbauend auf dem evidenzbasierten Format „Audit & Feedback“ (Heinzel, 2021) können strukturierte, nicht hierarchische Rückmeldungen zwischen Kolleg:innen initiiert werden. Grundlage ist ein vereinbarter Rahmen (z. B. Orientierung an Leitlinien, Kommunikationsverläufe), ergänzt um die systemische Haltung der nichtbewertenden Resonanz (vgl. Rogers, 1957; Hanisch-Johannsen, 2024).
+
+Diese Formate lassen sich unabhängig von institutioneller Vorgabe oder formaler Rolle initiieren, erfordern jedoch eine implizite Professionalisierung im Umgang mit Haltung, Sprache und Differenz. Einsatzsupervision in diesem Sinne ist keine „zusätzliche Aufgabe“, sondern eine veränderte Logik innerhalb bestehender Teams – mit dem Ziel, Sicherheit nicht nur technisch, sondern epistemisch zu stützen.
 
 ## 3.2 Für die Organisation
 
-- Integration von Einsatzsupervision ins Qualitätsmanagement.
-- Standardisierte Abläufe (z. B. wann Supervisoren eingesetzt werden).
-- Ressourcensicherung (Zeit, Personal, Finanzen).
+Die institutionelle Verankerung von Einsatzsupervision erfordert klare strukturelle und prozedurale Rahmungen. Analog zu etablierten Qualitätsmanagementprozessen (Heinzel, 2023) und unter Berücksichtigung der systemischen Interventionslogik (Hanisch-Johannsen, 2025a), ergeben sich folgende organisationale Handlungsempfehlungen:
+
+- **Integration ins Qualitätsmanagement:** Einsatzsupervision sollte als eigenständiges Qualitätsmerkmal begriffen und entsprechend in bestehende QM-Systeme eingebettet werden. Dies umfasst eine explizite Zieldefinition (z. B. Reflexionsförderung, Fehlerkultur, Teamlernen), eine dokumentierte Prozessbeschreibung sowie eine Rückkopplungsschleife zur Organisationsentwicklung.
+
+- **Standardisierte Abläufe:** Für eine zuverlässige Implementierung bedarf es klarer Indikatoren und Schwellenwerte, die den Einsatz einer Einsatzsupervision auslösen. Hierzu gehören etwa besonders belastende Einsätze (z. B. Reanimation mit Kindern, Gewalterfahrung), wiederholte Fehlerquellen oder Kommunikationskonflikte. Die Standardisierung darf dabei nicht in Erstarrung münden, sondern muss als adaptive Struktur auf organisationsspezifische Dynamiken reagieren.
+
+- **Ressourcensicherung:** Die Wirksamkeit von Einsatzsupervision steht und fällt mit der Bereitstellung adäquater Ressourcen. Neben qualifiziertem Personal (siehe Heinzel, 2024) sind insbesondere Zeitfenster unmittelbar nach dem Einsatz entscheidend, um Reflexion nicht zu entkoppeln. Auch digitale Unterstützung (z. B. protokollgestützte Dokumentation, asynchrone Rückmeldekanäle) kann die Umsetzbarkeit erhöhen, ohne Präsenzzeiten zu verlängern.
+
+- **Verknüpfung mit Fortbildung:** Organisatorische Implementierung sollte eng mit Bildungsangeboten verzahnt sein. Dies betrifft sowohl die Qualifizierung der Einsatzsupervisor:innen als auch die Befähigung der Teams, Rückmeldestrukturen als lernförderlich und nicht defizitorientiert zu interpretieren. Die Haltung nach Rogers (1957, 1961) wird damit zur organisationalen Kulturtechnik.
+
+Durch diese Maßnahmen kann Einsatzsupervision nicht nur als punktuelle Intervention, sondern als integratives Element organisationaler Lernkultur etabliert werden.
 
 ## 3.3 Für die Professionalisierung
 
-- Haltung trainierbar machen (Rogers in Fortbildungskonzepten).
-- Methodenpool systemisch begründen (z. B. zirkuläre Fragen).
-- Operationen weiterentwickeln (z. B. strukturierte Protokolle, digitale Tools).
+Einsatzsupervision trägt nicht nur zur Qualitätssicherung und Reflexionsförderung im Einzelfall bei, sondern entfaltet auch ein erhebliches Potenzial zur langfristigen Professionalisierung des Berufsbildes Notfallsanitäter:in. Diese Professionalisierung betrifft sowohl die individuelle Entwicklung (Kompetenzen, Haltung, Reflexivität) als auch die kollektive Entwicklung des Berufsstandes (Standards, Rollenklarheit, institutionelle Anerkennung). Drei Dimensionen sind dabei zentral:
+
+- **Haltung trainierbar machen:** Die von Carl Rogers (1957, 1961) beschriebenen Grundhaltungen – Empathie, Kongruenz und nichtbedingte Akzeptanz – bilden laut Hanisch-Johannsen (2024, 2025a) die methodologische Voraussetzung systemischer Intervention. Professionalisierung erfordert daher Fortbildungsformate, in denen nicht nur Techniken vermittelt, sondern auch Haltungen erfahrbar, reflektierbar und kultivierbar gemacht werden. Dies kann etwa durch dialogische Settings, Feedbackschleifen, Rollenspiele oder biografisches Arbeiten geschehen – stets im Bewusstsein, dass Haltung nicht belehrt, sondern ermöglicht werden muss.
+
+- **Methodenpool systemisch begründen:** Interventionen in kritischen Situationen brauchen ein methodisches Repertoire, das sich nicht in Checklisten oder Handlungsschemata erschöpft. Professionelle Handlungskompetenz bedeutet, situativ anschlussfähig zu agieren, ohne dabei beliebig zu sein. Systemische Methoden wie zirkuläre Fragen, Skalierungen, Externalisierungen oder Perspektivwechsel (vgl. Hanisch-Johannsen, 2024; Heinzel, 2024) sind dabei nicht als Werkzeuge zu verstehen, sondern als reflexive Kommunikationsformate, die dem Team ermöglichen, sich selbst im Handeln zu beobachten und neue Optionen zu erschließen. Ein solcher systemischer Methodenpool sollte curricular verankert und kontinuierlich weiterentwickelt werden.
+
+- **Operationen weiterentwickeln:** Die in Heinzel (2021, 2023, 2024) beschriebenen Operationen – Beobachtung, Debriefing, Feedback, Feldforschung – bieten eine solide Grundlage, müssen jedoch an neue Kontexte, technische Möglichkeiten und organisationale Realitäten angepasst werden. Dazu zählen z. B. strukturierte Protokolle, digitale Tools für asynchrone Reflexion (z. B. Einsatzlogs, Feedback-Apps) oder auch Formate für simulationsgestützte Nachbesprechungen. Professionalisierung bedeutet hier: Bestehende Verfahren nicht bloß zu replizieren, sondern systematisch weiterzudenken – stets mit Blick auf epistemische Stabilisierung, kollegiale Anschlussfähigkeit und organisationsbezogene Wirksamkeit.
+
+Insgesamt zeigt sich: Einsatzsupervision ist nicht nur ein Interventionsformat im Einsatzalltag, sondern ein strategischer Hebel zur Professionalisierung der Notfallpraxis – durch Haltung, durch Methoden, durch strukturierte Operationen.
 
 # 4 Diskussion und Ausblick
 
