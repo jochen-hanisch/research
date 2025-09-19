@@ -56,8 +56,8 @@ _Tabelle 1: Statusreport_
 | Hinweis zum Zitationsstil                                          | 1      | verfasst, revidiert                                  |
 | Hinweis zum Sprachstil                                             | 1      | verfasst, revidiert                                  |
 | Hinweis zur Begriffsbestimmung                                     | 1      | verfasst, revidiert                                  |
-| 1 Einleitung und theoretischer Rahmen                              |        | in Bearbeitung, "knackiger" Anfang fehlt             |
-| 1.1 Erkenntnisinteresse, Problemstellung und Relevanz              |        | offen                                                |
+| 1 Einleitung und theoretischer Rahmen                              | 1      | in Bearbeitung, "knackiger" Anfang fehlt             |
+| 1.1 Erkenntnisinteresse, Problemstellung und Relevanz              | 1      | offen                                                |
 | 1.1.1 Erkenntnisinteresse                                          | 1      | in Bearbeitung                                       |
 | 1.1.2 Problemstellung                                              |        | offen                                                |
 | 1.1.3 Thematische Relevanz                                         | 1      | in Bearbeitung                                       |
@@ -147,6 +147,7 @@ _Tabelle 1: Statusreport_
 | Literaturverzeichnis                                               |        | offen                                                |
 | Anhänge                                                            |        | offen                                                |
 | Anhang Kapitel 1                                                   |        | offen                                                |
+| Anhang 1.1.1 Darstellung Zotero-Suchordner                         |        | in Bearbeitung                                       |
 | Anhang Kapitel 2                                                   |        | offen                                                |
 | Anhang Kapitel 3                                                   |        | offen                                                |
 | Anhang 3.1 Übersicht Berufliche Handlungssituationen               | 2      | verfasst, revidiert                                  |
