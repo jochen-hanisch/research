@@ -1,7 +1,12 @@
 ---
-tags: [promotion, stand, öffentlichkeit, arbeitstransparenz]
+tags:
+  - promotion
+  - stand
+  - öffentlichkeit
+  - arbeitstransparenz
 title: Aktueller Arbeitsstand der Dissertation (öffentliches Git-Repository)
 date: 2025-07-11
+updated: 2025-09-14
 ---
 
 # Einleitung
@@ -69,7 +74,7 @@ _Tabelle 1: Statusreport_
 | 2.1 Bildungswissenschaftlich-theoretische Verortung                |        | offen                                                |
 | 2.1.1 Einleitung und Übersicht zur Theorie                         |        | offen                                                |
 | 2.1.2 Systemisch-konstruktivistische Theorie                       |        | offen                                                |
-| 2.1.3 Bildungstechnologie und Digitalität                          |        | offen                                                |
+| 2.1.3 Bildungstechnologie und Digitalität                          |        | in Bearbeitung                                       |
 | 2.1.4 Kompetenzentwicklung im digitalen Bildungsraum               |        | offen                                                |
 | 2.2 Pädagogisch-psychologische Grundannahmen                       |        | offen                                                |
 | 2.2.1 Bedürfnisse als Grundlage digitaler Lernprozesse             |        | offen                                                |
