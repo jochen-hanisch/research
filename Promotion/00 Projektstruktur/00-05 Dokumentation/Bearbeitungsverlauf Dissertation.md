@@ -147,7 +147,7 @@ _Tabelle 1: Statusreport_
 | Literaturverzeichnis                                               |        | offen                                                |
 | Anhänge                                                            |        | offen                                                |
 | Anhang Kapitel 1                                                   |        | offen                                                |
-| Anhang 1.1.1 Darstellung Zotero-Suchordner                         |        | in Bearbeitung                                       |
+| Anhang 1.1.1 Darstellung Zotero-Suchordner                         |        | verfasst, finalisiert                                |
 | Anhang Kapitel 2                                                   |        | offen                                                |
 | Anhang Kapitel 3                                                   |        | offen                                                |
 | Anhang 3.1 Übersicht Berufliche Handlungssituationen               | 2      | verfasst, revidiert                                  |
