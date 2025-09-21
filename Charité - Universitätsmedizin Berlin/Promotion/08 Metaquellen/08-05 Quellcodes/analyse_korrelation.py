@@ -492,11 +492,6 @@ df['Y_Dimension'] = df[[cat for cat in categories_processed if cat in df.columns
 df['Z_Dimension'] = df[[rq for rq in research_questions_processed if rq in df.columns]].sum(axis=1)
 
 # Clusteranalyse mit K-Means basierend auf den deduktiven Dimensionen
-features = df[['X_Dimension', 'Y_Dimension', 'Z_Dimension']]
-scaler = StandardScaler()
-scaled_features = scaler.fit_transform(features)
-
-# Clusteranalyse mit K-Means basierend auf den deduktiven Dimensionen
 # Prüfung auf konstante deduktive Dimensionen
 if df[['X_Dimension', 'Y_Dimension', 'Z_Dimension']].nunique().eq(1).all():
     print("⚠️ Alle deduktiven Dimensionen sind konstant. K-Means-Clustering wird übersprungen.")
@@ -568,6 +563,19 @@ for cluster in cluster_means.index:
 
 # Statische Cluster-Beschriftungen in den DataFrame einfügen
 df['Cluster_Label'] = df['KMeans_Cluster'].map(cluster_labels)
+df['Cluster_Label'] = df['Cluster_Label'].fillna(df['KMeans_Cluster'])
+
+# Farbzuordnung für die Clusterlabels aus den CI-Farben ableiten
+fallback_color = cluster_colors.get("0", colors.get('primaryLine', '#1f77b4'))
+color_map = {}
+for cluster_key, label in cluster_labels.items():
+    base_color = cluster_colors.get(str(cluster_key), fallback_color)
+    color_map[label] = base_color
+
+# Sicherstellen, dass auch eventuelle Restlabels (z.B. "Nicht gültig") erfasst werden
+for label in df['Cluster_Label'].dropna().unique():
+    if label not in color_map:
+        color_map[label] = cluster_colors.get(str(label), fallback_color)
 
 # Ausgabe der statischen Cluster-Beschriftungen
 print("Cluster-Beschriftungen (inhaltlich):")
@@ -584,7 +592,7 @@ fig_cluster = px.scatter_3d(
     color='Cluster_Label',
     size='Point_Size',
     size_max=100,
-    color_discrete_sequence=list(cluster_colors.values()),
+    color_discrete_map=color_map,
     hover_data={
         'Cluster_Label': True,
         'X_Dimension': True,
@@ -753,8 +761,17 @@ def plot_average_correlation_plotly(summary_df):
     )
     # PNG-Export ergänzen
     png_path = os.path.join(export_path_png, f"{slugify('summary_plot_' + global_bib_filename.replace('.bib', ''))}.png")
-    fig.write_image(png_path, width=1200, height=800, scale=2)
-    print(f"✅ PNG-Summary-Datei gespeichert unter: {png_path}")
+    try:
+        fig.write_image(png_path, width=1200, height=800, scale=2)
+        print(f"✅ PNG-Summary-Datei gespeichert unter: {png_path}")
+    except ValueError as err:
+        if "kaleido" in str(err).lower():
+            print("⚠️ PNG-Export übersprungen: Plotly benötigt das Paket 'kaleido'.")
+            print("   Installation (falls gewünscht): pip install -U kaleido")
+        else:
+            print(f"⚠️ PNG-Export fehlgeschlagen: {err}")
+    except Exception as err:
+        print(f"⚠️ PNG-Export fehlgeschlagen: {err}")
 
 #============================
 # Aufruf Alle möglichen bivariaten Korrelationen visualisieren

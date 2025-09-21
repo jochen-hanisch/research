@@ -166,13 +166,6 @@ def visualize_network(bib_database):
                     if tag in keyword:
                         tag_counts[tag] += 1
 
-    fundzahlen = defaultdict(int)
-    for tag, count in tag_counts.items():
-        search_term = tag.split(':')[-1]
-        for key, value in search_terms.items():
-            if search_term == value:
-                fundzahlen[value] += count
-
     search_terms_network = {
         "Primäre Begriffe": {
             "learning:management:system": [
@@ -181,7 +174,7 @@ def visualize_network(bib_database):
                 "online:lernplattform",
                 "online:lernumgebung",
                 "digital:learning",
-                "digitales:lernen"
+                "digital:lernen"
             ]
         },
         "Sekundäre Begriffe": {
@@ -191,15 +184,15 @@ def visualize_network(bib_database):
             ],
             "bildung:technologie": [
                 "digital:learning",
-                "digitales:lernen",
+                "digital:lernen",
                 "blended:learning"
             ],
             "digital:learning": [
-                "digitale:medien",
+                "digital:medien",
                 "online:learning"
             ],
-            "digitales:lernen": [
-                "digitale:medien",
+            "digital:lernen": [
+                "digital:medien",
                 "online:lernen"
             ],
             "blended:learning": ["mooc"]
@@ -209,6 +202,14 @@ def visualize_network(bib_database):
             "online:lernen": []
         }
     }
+
+    # Fundzählung exakt entlang der search_terms-Definition
+    fundzahlen = defaultdict(int)
+
+    for number, suchbegriff in search_terms.items():
+        for typ in types:
+            tag = f'#{number}:{typ}:{suchbegriff}'.lower()
+            fundzahlen[suchbegriff.lower()] += tag_counts.get(tag, 0)
 
     G = nx.Graph()
 
