@@ -9,7 +9,7 @@ tags:
 published:
 ---
 
-created: 8.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 9.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 8.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 9.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Bedürfnisbasierte Kopplungshypothese der Bildung**
 
@@ -31,7 +31,7 @@ Die Definition umfasst folgende hypothetische Kernelemente:
    Nach Young und Roediger (2011) sowie Roediger (2019): Bindung, Kontrolle nach außen, Kontrolle nach innen, Selbstwerterhalt, Vermeidung von Unlust. Diese Bedürfnisse sind die Schnittstellen zwischen psychischen und sozialen Systemen.
 
 4. **Strukturelle Kopplung**  
-   Bildungswirksamkeit kann entstehen, wenn Bedürfnisse systematisch adressiert und so psychische und soziale Systeme gekoppelt werden. Dies entspricht Luhmanns Konzept der strukturellen Kopplung (Luhmann, 1984).
+   Bildungswirksamkeit kann entstehen, wenn Bedürfnisse systematisch adressiert und so psychische und soziale Systeme gekoppelt werden. Dies entspricht Luhmanns Konzept der strukturellen Kopplung (Luhmann, 1984). Das hier eingeführte Kopplungsmaß ($C(\gamma)$) ist eng mit dem [[Bildungswirkfaktor]] verschränkt. Letzterer streckt sich über die Unschärferelation von $\Delta E$ und $\Delta K$ und prüft die Güte der strukturellen Kopplung, indem er die Annäherung an die Kopplungsgrenze $C(\gamma)$ abbildet.
 
 5. **Effektstärken**  
    Empirische Evidenz bestätigt, dass Interventionen besonders wirksam sind, wenn sie zentrale Bedürfnisse adressieren (Hattie, 2024).
@@ -73,16 +73,17 @@ flowchart TD
 
 Die nachfolgenden Abschnitte (2.1–2.7) folgen dieser Kette. Sie entfalten die einzelnen Schritte im Detail, illustrieren sie mit empirischen Befunden und verknüpfen sie mit der theoretischen Rahmung. Ziel ist nicht ein kausaler Nachweis, sondern eine indiziengestützte Plausibilisierung: Die Definition aus Kapitel 1 wird so in ein Netz aus Zahlen, Theorien und heuristischen Modellen eingebettet, das ihren hypothetischen Status transparent begründet.
 
-
 ## 2.0 Begriffs- und Kennzahlkonsistenz
 
 Um die Nachvollziehbarkeit der Herleitung sicherzustellen, werden in diesem Abschnitt die verwendeten Begriffe, Formelzeichen und ihre Entsprechungen im Code konsistent festgelegt.
 
 ### 2.0.1 Begriffe
+
 - **Bedürfniscluster (N):** einheitlicher Begriff für die fünf Dimensionen nach Young und Roediger. Synonyme wie „Bedürfnisgruppe“ oder „Dimension“ werden vermieden.
 - **Brückenfunktion:** bezeichnet die Rolle eines Clusters bei der Kopplung zwischen psychischen und sozialen Systemen. Operationalisiert durch Balance $b$ und Kopplungspotential $\mathrm{CP}$.
 
 ### 2.0.2 Formelzeichen und Codebezeichner
+
 | Theorie / Formel                  | Codebezeichner        | Bedeutung |
 |-----------------------------------|-----------------------|-----------|
 | $E_\psi$                          | `E_psych`             | Summe der psychischen Anteile pro Cluster |
@@ -93,8 +94,8 @@ Um die Nachvollziehbarkeit der Herleitung sicherzustellen, werden in diesem Absc
 | $\min(E_\psi,E_\sigma)$           | `min(E_psych,E_sozial)` | konservative Untergrenze der gemeinsam getragenen Wirkungsmasse |
 | $Q$                               | `Q`                   | Modularity-Wert als Ordnungsparameter der Systemtrennung |
 
-
 ### 2.0.3 Schreibweise
+
 - Effektstärken werden durchgängig als $d$ bezeichnet, mit $|d_i|$ für Beträge.
 - Aggregationen werden als $\sum |d_i|$ notiert.
 - Tabellen folgen einheitlich den Spalten: $E_\psi$, $E_\sigma$, $E_{\text{sum}}$, $b$, $\mathrm{CP}$, $\min(E_\psi,E_\sigma)$.
@@ -107,6 +108,7 @@ Diese Festlegungen gewährleisten, dass die in den Kapiteln 2.1–2.7 dargestell
 Dieser Abschnitt dokumentiert die verwendeten Dateien, Skripte, Ausgabeorte und die minimalen Schritte zur Reproduktion der Berechnungen. Verweise sind so gestaltet, dass Dritte die Schritte unabhängig nachvollziehen können.
 
 #### Datenquellen (CSV)
+
 - `Thermometer.csv` — Stammtabelle der Items mit Thermometer_ID, Stichwort, Effektstärke $d$, Kapitel, Systemebene und Bedürfnislabel.
 - `system_view.csv` — Systemtheoretische Zuordnung und Ableitungen auf Itemebene.
 - `deskriptiv.csv` — deskriptive Statistiken der Effektstärken.
@@ -144,7 +146,7 @@ python "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Eigene Forschu
 python "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Eigene Forschungsprojekte/Visible Learning/mapping young hattie.py"
 ```
 
-Die erzeugten Tabellen/Abbildungen werden im Export-Ordner abgelegt (s. o.). Die Skripte verwenden feste Zufallssaaten für Resampling/Permutation (Parameter `seed` im Kopf der Skripte). Iterationszahlen (z. B. Bootstrap- und Permutationsläufe) sind als Parameter definiert und in den Export-Dateien vermerkt.
+Die erzeugten Tabellen/Abbildungen werden im Export-Ordner abgelegt (s.o.). Die Skripte verwenden feste Zufallssaaten für Resampling/Permutation (Parameter `seed` im Kopf der Skripte). Iterationszahlen (z. B. Bootstrap- und Permutationsläufe) sind als Parameter definiert und in den Export-Dateien vermerkt.
 
 #### Integritäts- und Versionsnachweis
 Zur Sicherung der Dateiintegrität können Hashes abgelegt werden:
@@ -157,11 +159,12 @@ shasum -a 256 triangulation_needs_3d.csv robust_bootstrap_Q.csv robust_nullmodel
        coupling_per_item.csv coupling_per_need.csv coupling_potential_per_need.csv > CHECKSUMS.sha256
 ```
 
-Repository und Versionsstand:  
+Repository und Versionsstand:
 Primär-Repo laut Kopfbereich: `https://git.jochen-hanisch.de/jochen-hanisch/research/`.  
 Für wissenschaftliche Referenzen empfiehlt sich die Dokumentation des Commit-Hashes, der Python-Version sowie relevanter Paketversionen (z. B. `pip freeze > VERSIONS.txt`) im Export-Ordner.
 
 #### Nachnutzung
+
 Alle Tabellen im Anhang A referenzieren die benannten Dateien. Die in Kapitel 2 verwendeten Kennzahlen ($E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$, $Q$) sind in den Export-CSV-Dateien enthalten und können ohne erneute Berechnung für Re-Analysen, Visualisierungen oder Replikationen genutzt werden.
 
 ## 2.1 Effektstärken aus Hatties Metaanalyse
@@ -396,18 +399,98 @@ Weitere Arbeiten sollten gerichtete Effekte, alternative Balancemaße (z. B. $\m
 **Ziel:** Explizit machen, inwiefern die in Kapitel 2 erhobenen Befunde die in Kapitel 1 formulierte Definition stützen.
 
 **Prämissen (P):**
-P1. (Systemtheorie) Psychische und soziale Systeme sind operativ getrennt; Kopplung erfolgt über spezifische Anschlussstellen (Luhmann, 1984).
-P2. (Bedürfnisdimensionen) Die fünf Grundbedürfnisse (Young, Klosko, & Weishaar, 2003; Young & Roediger, 2011) sind geeignete Kandidaten für solche Anschlussstellen.
-P3. (Wirkungsmasse) Effektstärken |d| aus Visible Learning (Hattie, 2024) dienen als standardisierte Indikatoren für Bildungswirksamkeit.
-P4. (Operationalisierung) Die Kennzahlen $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$ bilden eine theoriegeleitete Übersetzung von „adressiertem Bedürfnis in einem sozialen Arrangement“ → „potentielle Kopplung“ (Kapitel 2.2).
-P5. (Empirie) Die CSV-basierten Auswertungen zeigen robuste Muster: Hohe $\mathrm{CP}$ in „Struktur/Kompetenz“ und „Stabilität“, robuste Ordnung $Q$, deutliche Abweichung von Null‑ und Permutationsmodellen (Kapitel 2.4 – 2.6, Anhang A).
-P6. (Begrenzung) Die Evidenz ist korrelativ/indiziell (Aggregationen über |d|, heuristische Schwellen, theoriebasierte Labelung); kausale Notwendigkeit hinreichend starker Kopplung wird nicht behauptet.
+
+- P1. (Systemtheorie) Psychische und soziale Systeme sind operativ getrennt; Kopplung erfolgt über spezifische Anschlussstellen (Luhmann, 1984).
+- P2. (Bedürfnisdimensionen) Die fünf Grundbedürfnisse (Young, Klosko, & Weishaar, 2003; Young & Roediger, 2011) sind geeignete Kandidaten für solche Anschlussstellen.
+- P3. (Wirkungsmasse) Effektstärken |d| aus Visible Learning (Hattie, 2024) dienen als standardisierte Indikatoren für Bildungswirksamkeit.
+- P4. (Operationalisierung) Die Kennzahlen $E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$ bilden eine theoriegeleitete Übersetzung von „adressiertem Bedürfnis in einem sozialen Arrangement“ → „potentielle Kopplung“ (Kapitel 2.2).
+- P5. (Empirie) Die CSV-basierten Auswertungen zeigen robuste Muster: Hohe $\mathrm{CP}$ in „Struktur/Kompetenz“ und „Stabilität“, robuste Ordnung $Q$, deutliche Abweichung von Null‑ und Permutationsmodellen (Kapitel 2.4 – 2.6, Anhang A).
+- P6. (Begrenzung) Die Evidenz ist korrelativ/indiziell (Aggregationen über |d|, heuristische Schwellen, theoriebasierte Labelung); kausale Notwendigkeit hinreichend starker Kopplung wird nicht behauptet.
 
 **Schluss (C):**
+
 C1. Unter den Prämissen P1–P6 ist die Definition in Kapitel 1 als *plausible, datenindizierte Erklärung* gerechtfertigt: Bildungswirksamkeit lässt sich dort am höchsten beobachten, wo Bedürfnisse als Anschlussstellen adressiert werden und dadurch eine strukturelle Kopplung zwischen psychischen und sozialen Operationen entsteht. Die Erklärung beansprucht Geltung unter den angegebenen Operationalisierungen und bleibt für weitere Kausaltests offen.
 
 **Konsequenz für Kapitel 1 (Wahrheitsanspruch):**
+
 Die Definition ist nicht dogmatisch, sondern als forschungsleitende Hypothese zu verstehen, deren Evidenzgrad durch die in Kapitel 2 dokumentierten Indizien bestimmt ist. Weitere Arbeiten sollten gerichtete Effekte (Vorzeichen von d), externe Validierung und prä-registrierte Analysen ergänzen, um den kausalen Status zu stärken.
+
+# 3 Folgerungen
+
+Die folgenden Folgerungen ergeben sich direkt aus den in Kapitel 2 hergeleiteten Kennzahlen, den zugehörigen Robustheits- und Nullmodellprüfungen sowie dem theoretischen Bezugsrahmen (Hattie, 2024; Luhmann, 1984; Young & Roediger, 2011; Borenstein et al., 2009).
+
+## 3.1 Konsolidierte Befundlage
+
+1.	Kopplungsgeometrie der Bedürfnisse
+
+Die Aggregation der Wirkungsmasse je Bedürfniscluster $N$ und die daraus berechneten Größen $E_\psi(N)$, $E_\sigma(N)$, $b(N)$ und $\mathrm{CP}(N)$ weisen ein konsistentes Muster auf:
+
+- Struktur/Kompetenz und Stabilität zeigen erhöhte $\mathrm{CP}(N)$ bei $b(N)\ge 0{,}30$ und fungieren als tragfähige Brücken zwischen $\psi$ und $\sigma$.
+- Bindung zeigt grenzwertige Kopplung ($\mathrm{CP}$ am Median), dominiert von $E_\psi$.
+- Emotion/Selbstkontrolle und Orientierung zeigen geringe $\mathrm{CP}$ aufgrund starker Asymmetrien ($b$ niedrig) oder geringer Gegenmasse auf der jeweils anderen Ebene.
+- Diese Ordnung blieb in Bootstrap- und Sensitivitätsanalysen stabil (vgl. 2.2.4, 2.6).
+
+2.	Makrostruktur und Ordnungsparameter
+
+Der Modularity-Wert $Q$ liegt im Bereich $0{,}40$–$0{,}48$ (95-%-Intervall), deutlich oberhalb grad-erhaltender Rewiring-Nullmodelle. Daraus folgt eine robuste, jedoch nicht starre Systemtrennung zwischen $\psi$ und $\sigma$ (Newman, 2010).
+
+3.	Selektive, nicht triviale Labelstruktur
+
+Permutation der Bedürfnislabels erhöht die erwartete Gesamtkopplung $\overline{\mathrm{CP}}$ im Mittel, während die beobachtete, theoriebasierte Labelung eine spezifische, inhaltlich begründete Kopplungsgeometrie repräsentiert. Daraus folgt: Die empirische Zuordnung maximiert nicht mechanisch Kopplung, sondern bildet eine semantisch selektive Struktur ab (Young, Klosko, & Weishaar, 2003; Young & Roediger, 2011).
+
+4.	Phasenheuristik auf Datenbasis
+
+Die Schwellenheuristik mit $\tau=\mathrm{Median}{\mathrm{CP}(N)}$ und Mindestbalance $b\ge 0{,}30$ segmentiert die Bedürfnisse in „gekoppelte“ (Struktur/Kompetenz, Stabilität), „grenzwertig gekoppelte“ (Bindung) und „entkoppelte“ bis schwach gekoppelte Cluster (Emotion/Selbstkontrolle, Orientierung). Daraus folgt eine datenindizierte, phasenähnliche Einteilung der Kopplungszustände.
+
+## 3.2 Theoretische Schlussfolgerungen im Projektrahmen
+
+5.	Bedürfnisadressierung als strukturelle Kopplung
+
+Unter den Setzungen in 2.3–2.5 folgt: Bedürfnisadäquate Praktiken können als Programme verstanden werden, die $\psi$-Operationen an $\sigma$-Kommunikation anschlussfähig machen. Die beobachteten Brückencluster liefern Indizien für solche Anschlussstellen im Sinne struktureller Kopplung (Luhmann, 1984).
+
+6.	Effektstärken als Wirkungsmasse der Kopplung
+
+Die standardisierten Effekte $d$ (Hattie, 2024) bilden, nach Aggregation zu $E_\psi$ und $E_\sigma$, die quantitative Basis der Kopplungsmaße. Daraus folgt: Erhöhte $\mathrm{CP}(N)$ entstehen nicht allein durch hohe $E_{\text{sum}}$, sondern durch hinreichende Balance $b(N)$, also gemeinsame Trägerschaft durch $\psi$ und $\sigma$.
+
+7.	Netzwerkstruktur als notwendige Kontextualisierung
+
+Die bloße Höhe von $d$ genügt nicht zur Erklärung der Wirksamkeit. Erst die Netzwerkebene (Modularity $Q$ und Balancemaße) liefert eine Geometrie, in der Wirkungsmasse als Kopplung oder Trennung sichtbar wird (Wasserman & Faust, 1994; Newman, 2010). Daraus folgt: Wirkungsinterpretationen benötigen Netzwerk-Kontext.
+
+## 3.3 Reichweite und Grenzen der Folgerungen
+
+8.	Geltungsbereich
+
+Die Folgerungen gelten für den vorliegenden Datensatz und die dort verwendeten Mapping-Entscheidungen, Aggregationsregeln ($\sum |d_i|$) und Schwellenheuristiken. Random-Effects-Heterogenität in den Meta-Analysen begrenzt die Verallgemeinerbarkeit (Borenstein et al., 2009).
+
+9.	Nichtkausaler Status
+
+Die Argumentation ist indizien- und modellbasiert. Kausale Notwendigkeit oder Suffizienz eines spezifischen Clusters für Kopplung wird nicht beansprucht. Daraus folgt: Die Folgerungen bleiben hypothesenleitend.
+
+10.	Konstrukt- und Messgrenzen
+
+Die theoriegeleitete Bedürfniszuordnung ist interpretativ. Das Aggregat $|d|$ unterdrückt Richtungsinformation. Daraus folgt: Ergänzende Analysen mit gerichteten Effekten, Moderatorvariablen und alternativen Balancemaßen sind angezeigt (Hedges & Olkin, 1985).
+
+## 3.4 Falsifikations- und Präzisierungsoptionen
+
+11.	Präregistrierte Tests
+
+Out-of-sample-Validierung der Brückenordnung bei vorregistrierter Bedürfniszuordnung. Falsifikation, falls Reihenfolge der $\mathrm{CP}(N)$ oder $b(N)$ systematisch kollabiert.
+
+12.	Kompetitive Modelle
+
+Vergleich von spline-basierten Kurvenmodellen ohne Bedürfnissemantik gegen das bedürfnisbasierte Kopplungsmodell anhand von Informationskriterien ($\mathrm{AIC}$, $\mathrm{BIC}$) und Vorhersagefehlern. Falsifikation, falls semantikfreie Modelle wiederholt besser abschneiden.
+
+13.	Externe Replikationen
+
+Re-Mapping auf unabhängige Datensätze mit ähnlichen Domänen. Falsifikation, falls $Q$ und Brückenordnung nicht reproduziert werden.
+
+## 3.5 Schlussformelierung
+
+Unter den in Kapitel 2 gewählten Operationalisierungen folgt:
+
+>Bildungswirksamkeit kann dort erhöhte Wahrscheinlichkeit annehmen, wo Praktiken zugleich $E_\psi$ und $E_\sigma$ tragen und damit $b(N)$ sowie $\mathrm{CP}(N)$ über datensatzspezifische Schwellen heben. Die beobachtete Ordnung der Bedürfniscluster liefert eine konsistente, robustheitsgestützte Brückengeometrie; der Status bleibt hypothesenleitend und nichtkausal (Hattie, 2024; Luhmann, 1984; Young & Roediger, 2011).
+
+
 
 ## Anhang A: Empirische Übersichtstabellen (CSV-basiert)
 
