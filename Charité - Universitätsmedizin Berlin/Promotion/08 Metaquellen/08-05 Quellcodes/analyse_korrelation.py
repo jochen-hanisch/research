@@ -1,4 +1,3 @@
-
 import os
 
 # Neue Exportfunktion: HTML in /tmp speichern, per SCP übertragen, PNG lokal speichern
