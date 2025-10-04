@@ -675,50 +675,6 @@ def visualize_top_authors(bib_database):
     else:
         print("Keine Autoren gefunden.")
 
- # Top Titel nach Anzahl der Werke
-def normalize_title(title):
-    # Entfernen von Sonderzeichen und Standardisierung auf Kleinbuchstaben
-    title = title.lower().translate(str.maketrans('', '', ",.!?\"'()[]{}:;"))
-    # Zusammenführen ähnlicher Titel, die sich nur in geringfügigen Details unterscheiden
-    title = " ".join(title.split())
-    # Entfernen häufiger Füllwörter oder Standardphrasen, die die Unterscheidung nicht unterstützen
-    common_phrases = ['eine studie', 'untersuchung der', 'analyse von']
-    for phrase in common_phrases:
-        title = title.replace(phrase, '')
-    return title.strip()
-
-def visualize_top_publications(bib_database):
-    top_n = 25  # Anzahl der Top-Publikationen, die angezeigt werden sollen
-    publication_counts = defaultdict(int)
-    
-    for entry in bib_database.entries:
-        if 'title' in entry:
-            title = normalize_title(entry['title'])
-            publication_counts[title] += 1
-
-    top_publications = sorted(publication_counts.items(), key=lambda x: x[1], reverse=True)[:top_n]
-    publication_data = [{'Title': title[:50] + '...' if len(title) > 50 else title, 'Count': count} for title, count in top_publications]
-
-    df = pd.DataFrame(publication_data)
-    
-    fig = px.bar(df, x='Title', y='Count', title=f'Häufig zitierte Publikationen in der Analyse (Top {top_n}, n={sum(publication_counts.values())}, Stand: {current_date})', labels={'Title': 'Titel', 'Count': 'Anzahl der Nennungen'})
-    layout = get_standard_layout(
-        title=fig.layout.title.text,
-        x_title='Titel',
-        y_title='Anzahl der Nennungen'
-    )
-    layout["font"] = {"size": 14, "color": colors['text']}
-    layout["title"] = {"font": {"size": 16}}
-    layout["margin"] = dict(b=160, t=60, l=40, r=40)
-    layout["xaxis"] = layout.get("xaxis", {})
-    layout["xaxis"]["tickangle"] = -45
-    layout["xaxis"]["automargin"] = True
-    layout["autosize"] = True
-    fig.update_layout(**layout)
-    fig.update_traces(marker=plot_styles['balken_primaryLine'])
-    fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_top_publications", export_fig_visualize_top_publications)
-
 ##########
 
 # Daten vorbereiten
@@ -1362,7 +1318,6 @@ visualize_research_questions(bib_database)
 visualize_categories(bib_database)
 visualize_time_series(bib_database)
 visualize_top_authors(bib_database)
-visualize_top_publications(bib_database)
 data = prepare_path_data(bib_database)
 create_path_diagram(data)
 create_sankey_diagram(bib_database)
