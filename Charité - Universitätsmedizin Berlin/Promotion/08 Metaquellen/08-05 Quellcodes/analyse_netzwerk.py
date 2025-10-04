@@ -1,7 +1,6 @@
 
 from config_netzwerk import theme, export_fig_visual, bib_filename
 
-
 import os
 
 # Clear the terminal
@@ -64,7 +63,7 @@ from config_netzwerk import (
 
 from config_netzwerk import export_fig_png
 
-def export_figure_local(fig, name, flag, bib_filename=None):
+def export_figure_local(fig, name, flag):
     from config_netzwerk import export_path_html, export_path_png
     # Einmalige Definition von safe_filename am Anfang der Funktion
     safe_filename = prepare_figure_export(fig, name).replace(".html", "")
@@ -343,7 +342,7 @@ def visualize_network(bib_database):
     fig.update_layout(**layout)
 
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_network", export_fig_visualize_network, bib_filename)
+    export_figure_local(fig, "visualize_network", export_fig_visualize_network)
 
     # Einfache Pfadanalyse nach dem Anzeigen der Figur
     if 'e-learning' in G and 'online:lernen' in G:
@@ -381,7 +380,7 @@ def visualize_tags(bib_database):
         'Konferenz-Paper'
     ]
     tags_to_search = set(
-        f"#{number}:{type_}:{search_terms[number]}"
+        f"#{number}:{type_}:{search_terms[number]}".lower()
         for number, type_ in product(numbers, types)
     )
 
@@ -450,7 +449,7 @@ def visualize_tags(bib_database):
     fig.update_layout(**layout)
 
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_tags", export_fig_visualize_tags, bib_filename)
+    export_figure_local(fig, "visualize_tags", export_fig_visualize_tags)
 
  # Visualisierung 3: Häufigkeit Index
 def visualize_index(bib_database):
@@ -498,7 +497,7 @@ def visualize_index(bib_database):
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_index", export_fig_visualize_index, bib_filename)
+    export_figure_local(fig, "visualize_index", export_fig_visualize_index)
 
  # Visualisierung 4: Häufigkeit Forschungsunterfragen
 def visualize_research_questions(bib_database):
@@ -547,7 +546,7 @@ def visualize_research_questions(bib_database):
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_research_questions", export_fig_visualize_research_questions, bib_filename)
+    export_figure_local(fig, "visualize_research_questions", export_fig_visualize_research_questions)
 
  # Visualisierung 5: Häufigkeit spezifischer Kategorien
 def visualize_categories(bib_database):
@@ -591,7 +590,7 @@ def visualize_categories(bib_database):
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_categories", export_fig_visualize_categories, bib_filename)
+    export_figure_local(fig, "visualize_categories", export_fig_visualize_categories)
 
  # Zeitreihenanalyse der Veröffentlichungen
 def visualize_time_series(bib_database):
@@ -638,7 +637,7 @@ def visualize_time_series(bib_database):
         fig.update_layout(**layout)
         fig.update_traces(line=plot_styles['linie_primaryLine'])
         fig.show(config={"responsive": True})
-        export_figure_local(fig, "visualize_time_series", export_fig_visualize_time_series, bib_filename)
+        export_figure_local(fig, "visualize_time_series", export_fig_visualize_time_series)
     else:
         print("Keine gültigen Veröffentlichungsjahre gefunden.")
 
@@ -672,7 +671,7 @@ def visualize_top_authors(bib_database):
         fig.update_layout(**layout)
         fig.update_traces(marker=plot_styles['balken_primaryLine'])
         fig.show(config={"responsive": True})
-        export_figure_local(fig, "visualize_top_authors", export_fig_visualize_top_authors, bib_filename)
+        export_figure_local(fig, "visualize_top_authors", export_fig_visualize_top_authors)
     else:
         print("Keine Autoren gefunden.")
 
@@ -718,7 +717,7 @@ def visualize_top_publications(bib_database):
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_top_publications", export_fig_visualize_top_publications, bib_filename)
+    export_figure_local(fig, "visualize_top_publications", export_fig_visualize_top_publications)
 
 ##########
 
@@ -850,7 +849,7 @@ def create_path_diagram(data):
     layout["autosize"] = True
     fig.update_layout(**layout)
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "create_path_diagram", export_fig_create_path_diagram, bib_filename)
+    export_figure_local(fig, "create_path_diagram", export_fig_create_path_diagram)
 
 #############
 
@@ -983,7 +982,7 @@ def create_sankey_diagram(bib_database):
     layout["autosize"] = True
     fig.update_layout(**layout)
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "create_sankey_diagram", export_fig_create_sankey_diagram, bib_filename)
+    export_figure_local(fig, "create_sankey_diagram", export_fig_create_sankey_diagram)
 
 ##########
 
@@ -1111,7 +1110,7 @@ def visualize_sources_status(bib_database):
     layout["autosize"] = True
     fig.update_layout(**layout)
     fig.show(config={"responsive": True})
-    export_figure_local(fig, "visualize_sources_status", export_fig_visualize_sources_status, bib_filename)
+    export_figure_local(fig, "visualize_sources_status", export_fig_visualize_sources_status)
 
 #############
 
@@ -1216,7 +1215,7 @@ def visualize_languages(bib_database):
     fig.show(config={"responsive": True})
     # Tabelle ausgeben
     print(tabulate(df.sort_values("Anzahl", ascending=False), headers="keys", tablefmt="grid", showindex=False))
-    export_figure_local(fig, "visualize_languages", export_fig_visualize_languages, bib_filename)
+    export_figure_local(fig, "visualize_languages", export_fig_visualize_languages)
 
 # Visualisierung der Verteilung von ENTRYTYPE innerhalb jeder Sprache
 def visualize_language_entrytypes(bib_database):
@@ -1318,7 +1317,7 @@ def visualize_language_entrytypes(bib_database):
     fig.update_layout(**layout)
     fig.show(config={"responsive": True})
     print(tabulate(grouped.sort_values(["Sprache", "Eintragstyp"]), headers=["Sprache", "Eintragstyp", "Anzahl", "Anteil innerhalb Sprache (%)", "Typgruppe"], tablefmt="grid", showindex=False))
-    export_figure_local(fig, "visualize_language_entrytypes", export_fig_visualize_languages, bib_filename)
+    export_figure_local(fig, "visualize_language_entrytypes", export_fig_visualize_languages)
 
 #############
 
