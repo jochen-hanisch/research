@@ -609,7 +609,6 @@ fig_cluster = px.scatter_3d(
     }
 )
 
-
 # Layout mit Standardlayout und konsistenten CI-konformen Ergänzungen
 layout_cluster = get_standard_layout(
     title=plot_title,
