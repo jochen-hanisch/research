@@ -59,6 +59,9 @@ from config_netzwerk import (
     export_fig_visualize_sources_status,
     export_fig_create_wordcloud_from_titles,
     export_fig_visualize_languages,
+    export_fig_visualize_relevance_fu,
+    export_fig_visualize_relevance_categories,
+    export_fig_visualize_relevance_search_terms,
 )
 
 from config_netzwerk import export_fig_png
@@ -99,6 +102,23 @@ word_colors = [
     colors["negativeHighlight"]
 ]
 
+# Relevanz-Stufen (1 = gering, 5 = sehr hoch)
+RELEVANCE_LEVELS = [5, 4, 3, 2, 1]
+RELEVANCE_LEVEL_LABELS = {
+    5: "Relevanz 5",
+    4: "Relevanz 4",
+    3: "Relevanz 3",
+    2: "Relevanz 2",
+    1: "Relevanz 1",
+}
+RELEVANCE_COLOR_MAP = {
+    "Relevanz 5": colors['positiveHighlight'],
+    "Relevanz 4": colors['accent'],
+    "Relevanz 3": colors['brightArea'],
+    "Relevanz 2": colors['depthArea'],
+    "Relevanz 1": colors['negativeHighlight'],
+}
+
 # Aktuelles Datum
 current_date = datetime.now().strftime("%Y-%m-%d")
 
@@ -118,6 +138,13 @@ with open('en_complete.txt', 'r', encoding='utf-8') as file:
 
 # Kombinierte Stoppliste
 stop_words = stop_words_de.union(stop_words_en)
+
+# Hilfsfunktion: Relevanzstufe aus Keywords extrahieren
+def extract_relevance_level(entry_keywords):
+    for level in RELEVANCE_LEVELS:
+        if f'promotion:relevanz:{level}' in entry_keywords:
+            return level
+    return None
 
 # Funktion zur Berechnung der Stichprobengröße
 def calculate_sample_size(N, Z=1.96, p=0.5, e=0.05):
@@ -595,6 +622,160 @@ def visualize_categories(bib_database):
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
     fig.show(config={"responsive": True})
     export_figure_local(fig, "visualize_categories", export_fig_visualize_categories)
+
+# Relevanz-Auswertungen
+def build_relevance_distribution(bib_database, tag_to_label):
+    records = []
+
+    for entry in bib_database.entries:
+        keywords_raw = entry.get('keywords', '')
+        if not keywords_raw:
+            continue
+
+        entry_keywords = set(map(str.lower, map(str.strip, keywords_raw.replace('\\#', '#').split(','))))
+        relevance_level = extract_relevance_level(entry_keywords)
+        if relevance_level is None:
+            continue
+
+        for tag, label in tag_to_label.items():
+            if tag in entry_keywords:
+                records.append({
+                    'Kategorie': label,
+                    'Relevanzstufe': RELEVANCE_LEVEL_LABELS[relevance_level]
+                })
+
+    if not records:
+        return pd.DataFrame()
+
+    df = pd.DataFrame(records)
+    df = (
+        df.groupby(['Kategorie', 'Relevanzstufe'])
+        .size()
+        .reset_index(name='Count')
+    )
+    df['Relevanzstufe'] = pd.Categorical(
+        df['Relevanzstufe'],
+        categories=[RELEVANCE_LEVEL_LABELS[level] for level in RELEVANCE_LEVELS],
+        ordered=True
+    )
+    return df.sort_values(['Kategorie', 'Relevanzstufe'])
+
+
+def plot_relevance_distribution(df, title, x_title, export_flag, filename):
+    if df.empty:
+        print(f"⚠️ Keine Relevanzdaten verfügbar für: {title}")
+        return
+
+    total_count = df['Count'].sum()
+    fig = px.bar(
+        df,
+        x='Kategorie',
+        y='Count',
+        color='Relevanzstufe',
+        color_discrete_map=RELEVANCE_COLOR_MAP,
+        category_orders={'Relevanzstufe': [RELEVANCE_LEVEL_LABELS[level] for level in RELEVANCE_LEVELS]},
+        title=f"{title} (n={total_count}, Stand: {current_date})",
+        labels={'Kategorie': x_title, 'Count': 'Anzahl', 'Relevanzstufe': 'Relevanzstufe'},
+    )
+
+    layout = get_standard_layout(
+        title=fig.layout.title.text,
+        x_title=x_title,
+        y_title='Anzahl'
+    )
+    layout['barmode'] = 'stack'
+    layout['font'] = {"size": 14, "color": colors['text']}
+    layout['title'] = {"font": {"size": 16}}
+    layout['margin'] = dict(b=160, t=60, l=40, r=40)
+    layout['xaxis'] = layout.get('xaxis', {})
+    layout['xaxis']['tickangle'] = -45
+    layout['xaxis']['automargin'] = True
+    layout['autosize'] = True
+    fig.update_layout(**layout)
+
+    fig.show(config={"responsive": True})
+    export_figure_local(fig, filename, export_flag)
+
+
+def visualize_relevance_vs_research_questions(bib_database):
+    research_questions = {
+        'promotion:fu1': 'Akzeptanz und Nützlichkeit (FU1)',
+        'promotion:fu2a': 'Effekt für Lernende (FU2a)',
+        'promotion:fu2b': 'Effekt-Faktoren für Lehrende (FU2b)',
+        'promotion:fu3': 'Konzeption und Merkmale (FU3)',
+        'promotion:fu4a': 'Bildungswissenschaftliche Mechanismen (FU4a)',
+        'promotion:fu4b': 'Technisch-gestalterische Mechanismen (FU4b)',
+        'promotion:fu5': 'Möglichkeiten und Grenzen (FU5)',
+        'promotion:fu6': 'Beurteilung als Kompetenzerwerbssystem (FU6)',
+        'promotion:fu7': 'Inputs und Strategien (FU7)'
+    }
+    tag_to_label = {key.lower(): value for key, value in research_questions.items()}
+    df = build_relevance_distribution(bib_database, tag_to_label)
+    plot_relevance_distribution(
+        df,
+        "Relevanzverteilung nach Forschungsunterfragen",
+        "Forschungsunterfragen",
+        export_fig_visualize_relevance_fu,
+        "visualize_relevance_fu"
+    )
+
+
+def visualize_relevance_vs_categories(bib_database):
+    categories = {
+        'promotion:argumentation': 'Argumentation',
+        'promotion:kerngedanke': 'Kerngedanke',
+        'promotion:weiterführung': 'Weiterführung',
+        'promotion:schlussfolgerung': 'Schlussfolgerung'
+    }
+    tag_to_label = {key.lower(): value for key, value in categories.items()}
+    df = build_relevance_distribution(bib_database, tag_to_label)
+    plot_relevance_distribution(
+        df,
+        "Relevanzverteilung nach Kategorien",
+        "Kategorien",
+        export_fig_visualize_relevance_categories,
+        "visualize_relevance_categories"
+    )
+
+
+def visualize_relevance_vs_search_terms(bib_database):
+    search_terms = {
+        '0': 'digital:learning',
+        '1': 'learning:management:system',
+        '2': 'online:lernplattform',
+        '3': 'online:lernumgebung',
+        '4': 'mooc',
+        '5': 'e-learning',
+        '6': 'bildung:technologie',
+        '7': 'digital:medien',
+        '8': 'blended:learning',
+        '9': 'digital:lernen',
+        'a': 'online:lernen',
+        'b': 'online:learning'
+    }
+    types = [
+        'Zeitschriftenartikel',
+        'Buch',
+        'Buchteil',
+        'Bericht',
+        'Konferenz-Paper',
+        'Studienbrief'
+    ]
+
+    tag_to_label = {}
+    for number, term in search_terms.items():
+        for type_ in types:
+            tag = f'#{number}:{type_}:{term}'.lower()
+            tag_to_label[tag] = f"#{number}:{term}"
+
+    df = build_relevance_distribution(bib_database, tag_to_label)
+    plot_relevance_distribution(
+        df,
+        "Relevanzverteilung nach Suchbegriffen",
+        "Suchbegriffe",
+        export_fig_visualize_relevance_search_terms,
+        "visualize_relevance_search_terms"
+    )
 
  # Zeitreihenanalyse der Veröffentlichungen
 def visualize_time_series(bib_database):
@@ -1324,6 +1505,9 @@ visualize_tags(bib_database)
 visualize_index(bib_database)
 visualize_research_questions(bib_database)
 visualize_categories(bib_database)
+visualize_relevance_vs_research_questions(bib_database)
+visualize_relevance_vs_categories(bib_database)
+visualize_relevance_vs_search_terms(bib_database)
 visualize_time_series(bib_database)
 visualize_top_authors(bib_database)
 data = prepare_path_data(bib_database)
