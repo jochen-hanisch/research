@@ -693,6 +693,7 @@ correlation_quality_results = {
     "Forschungsunterfragen & Kategorien": analyze_correlation_quality(df, research_questions_processed, categories_processed),
     "Forschungsunterfragen & Suchbegriffe": analyze_correlation_quality(df, research_questions_processed, tags_to_search_processed),
     "Forschungsunterfragen & Indizes": analyze_correlation_quality(df, research_questions_processed, index_terms_processed),
+    "Forschungsunterfragen & Forschungsunterfragen": analyze_correlation_quality(df, research_questions_processed, research_questions_processed),
     "Indizes & Kategorien": analyze_correlation_quality(df, index_terms_processed, categories_processed),
     "Indizes & Suchbegriffe": analyze_correlation_quality(df, index_terms_processed, tags_to_search_processed),
     "Suchbegriffe & Kategorien": analyze_correlation_quality(df, tags_to_search_processed, categories_processed),

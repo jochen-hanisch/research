@@ -148,8 +148,10 @@ def visualize_network(bib_database):
         'Buch',
         'Buchteil',
         'Bericht',
-        'Konferenz-Paper'
+        'Konferenz-Paper',
+        'Studienbrief'
     ]
+    
     tags_to_search = set()
     for number, type_ in product(numbers, types):
         search_term = search_terms[number]
@@ -377,7 +379,8 @@ def visualize_tags(bib_database):
         'Buch',
         'Buchteil',
         'Bericht',
-        'Konferenz-Paper'
+        'Konferenz-Paper',
+        'Studienbrief'
     ]
     tags_to_search = set(
         f"#{number}:{type_}:{search_terms[number]}".lower()
@@ -418,7 +421,8 @@ def visualize_tags(bib_database):
         'konferenz-paper': colors['secondaryLine'],
         'buch': colors['depthArea'],
         'buchteil': colors['brightArea'],
-        'bericht': colors['accent']
+        'bericht': colors['accent'],
+        'studienbrief': colors['positiveHighlight']
     }
 
     # Visualisierung erstellen
@@ -716,7 +720,8 @@ def prepare_path_data(bib_database):
         'Buch',
         'Buchteil',
         'Bericht',
-        'Konferenz-Paper'
+        'Konferenz-Paper',
+        'Studienbrief'
     ]
 
     data = []
@@ -760,7 +765,8 @@ def create_path_diagram(data):
         'konferenz-paper': colors['secondaryLine'],
         'buch': colors['depthArea'],
         'buchteil': colors['brightArea'],
-        'bericht': colors['accent']
+        'bericht': colors['accent'],
+        'studienbrief': colors['positiveHighlight']
     }
 
     def add_to_labels(label):
@@ -956,31 +962,33 @@ def visualize_sources_status(bib_database):
     """
     Visualisiert den Status der analysierten und nicht analysierten Quellen pro Suchordner.
     """
+    search_terms = {
+        '0': 'digital:learning',
+        '1': 'learning:management:system',
+        '2': 'online:lernplattform',
+        '3': 'online:lernumgebung',
+        '4': 'mooc',
+        '5': 'e-learning',
+        '6': 'bildung:technologie',
+        '7': 'digital:medien',
+        '8': 'blended:learning',
+        '9': 'digital:lernen',
+        'a': 'online:lernen',
+        'b': 'online:learning'
+    }
+    numbers_order = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b']
+    type_order = [
+        'Zeitschriftenartikel',
+        'Buch',
+        'Buchteil',
+        'Bericht',
+        'Konferenz-Paper',
+        'Studienbrief'
+    ]
     search_folder_tags = [
-        "#1:zeitschriftenartikel:learning:management:system",
-        "#2:zeitschriftenartikel:online:lernplattform",
-        "#3:zeitschriftenartikel:online:lernumgebung",
-        "#4:zeitschriftenartikel:mooc",
-        "#5:zeitschriftenartikel:e-learning",
-        "#6:zeitschriftenartikel:bildung:technologie",
-        "#7:zeitschriftenartikel:digital:medien",
-        "#8:zeitschriftenartikel:blended:learning",
-        "#9:zeitschriftenartikel:digital:lernen",
-        "#a:zeitschriftenartikel:online:lernen",
-        "#b:zeitschriftenartikel:online:learning",
-        "#0:zeitschriftenartikel:digital:learning",
-        "#1:konferenz-paper:learning:management:system",
-        "#2:konferenz-paper:online:lernplattform",
-        "#3:konferenz-paper:online:lernumgebung",
-        "#4:konferenz-paper:mooc",
-        "#5:konferenz-paper:e-learning",
-        "#6:konferenz-paper:bildung:technologie",
-        "#7:konferenz-paper:digital:medien",
-        "#8:konferenz-paper:blended:learning",
-        "#9:konferenz-paper:digital:lernen",
-        "#a:konferenz-paper:online:lernen",
-        "#b:konferenz-paper:online:learning",
-        "#0:konferenz-paper:digital:learning"
+        f"#{number}:{type_}:{search_terms[number]}".lower()
+        for type_ in type_order
+        for number in numbers_order
     ]
 
     category_tags = {"promotion:argumentation", "promotion:kerngedanke", "promotion:weiterführung", "promotion:schlussfolgerung"}
