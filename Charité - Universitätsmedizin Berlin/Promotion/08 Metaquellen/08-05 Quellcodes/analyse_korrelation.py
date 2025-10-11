@@ -288,6 +288,7 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
                             abs_corr = abs(corr)
                             significance = 'Signifikant' if p_value < 0.05 else 'Nicht signifikant'
                             hover_color = colors['brightArea'] if p_value < 0.05 else colors['depthArea']
+                            cooccurrence_count = int(((df[x_term] == 1) & (df[y_term] == 1)).sum())
                             correlations.append({
                                 'x_term': x_term,
                                 'y_term': y_term,
@@ -296,6 +297,8 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
                                 'p_value': p_value,
                                 'significance': significance,
                                 'hover_color': hover_color,
+                                'n_observations': int(len(x_valid)),
+                                'cooccurrence_count': cooccurrence_count,
                                 'interpretation': (
                                     f"Die Korrelation zwischen '{x_term}' und '{y_term}' beträgt {corr:.2f}. "
                                     f"p-Wert: {p_value:.3e} ({significance})"
@@ -361,12 +364,25 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
             line=dict(width=1, color=colors['background'])
         ),
         hovertemplate=(
-            '<b>%{customdata[0]}</b><br>'
+            '<b>%{customdata[0]}</b> ↔ <b>%{customdata[1]}</b><br>'
             'Korrelation: %{marker.color:.2f}<br>'
-            'p-Wert: %{customdata[1]:.3e}<br>'
-            'Signifikanz: %{customdata[2]}'
+            'p-Wert: %{customdata[3]:.3e}<br>'
+            'Signifikanz: %{customdata[4]}<br>'
+            'Stichprobe (n): %{customdata[5]}<br>'
+            'Gemeinsame Treffer: %{customdata[6]}<br>'
+            '%{customdata[7]}'
+            '<extra></extra>'
         ),
-        customdata=correlation_df[['x_term', 'p_value', 'significance']].to_numpy()
+        customdata=np.array(list(zip(
+            correlation_df['x_term'],
+            correlation_df['y_term'],
+            correlation_df['correlation'],
+            correlation_df['p_value'],
+            correlation_df['significance'],
+            correlation_df['n_observations'],
+            correlation_df['cooccurrence_count'],
+            correlation_df['interpretation']
+        )), dtype=object)
     )
 
     # Standardlayout verwenden und ggf. ergänzen, Margin dynamisch für Responsivität
@@ -376,6 +392,7 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
             x_title=x_label,
             y_title=y_label
         ),
+        hovermode='closest',
         xaxis=dict(
             tickangle=-45,
             automargin=True
