@@ -218,14 +218,13 @@ layout["legend"] = dict(
     itemdoubleclick="toggle"
 )
 layout["yaxis3"] = dict(
-    title="Abweichung (ΔSCₙ)",
+    title=dict(text="Abweichung (ΔSCₙ)", font=dict(color=colors["text"])),
     overlaying="y",
     side="right",
     showgrid=False,
     zeroline=True,
     zerolinewidth=2,
     zerolinecolor='grey',
-    titlefont=dict(color=colors["text"]),
     tickfont=dict(color=colors["text"]),
     anchor="free",
     position=1.0
