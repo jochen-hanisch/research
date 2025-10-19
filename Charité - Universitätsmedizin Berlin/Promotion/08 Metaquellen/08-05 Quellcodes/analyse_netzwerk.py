@@ -314,11 +314,15 @@ def visualize_network(bib_database):
     secondary_nodes = []
     tertiary_nodes = []
 
+    total_fundzahlen = sum(fundzahlen.values())
+
     for node in G.nodes():
         color = G.nodes[node]['color']
         size = math.log(G.nodes[node].get('size', 10) + 1) * 10
         x, y = pos[node]
-        hovertext = f"{node}<br>Anzahl Funde: {fundzahlen.get(node, 0)}"
+        count = fundzahlen.get(node, 0)
+        percentage = (count / total_fundzahlen * 100) if total_fundzahlen else 0
+        hovertext = f"{node}<br>Anzahl Funde: {count}<br>Anteil: {percentage:.1f}%"
         node_data = dict(x=x, y=y, text=node, size=size, hovertext=hovertext)
         if color == colors['primaryLine']:
             primary_nodes.append(node_data)
@@ -359,7 +363,7 @@ def visualize_network(bib_database):
 
     fig = go.Figure(data=[edge_trace, primary_trace, secondary_trace, tertiary_trace])
     layout = get_standard_layout(
-        title=f"Suchbegriff-Netzwerk nach Relevanz und Semantik (n={sum(fundzahlen.values())}, Stand: {current_date})",
+        title=f"Suchbegriff-Netzwerk nach Relevanz und Semantik (n={total_fundzahlen}, Stand: {current_date})",
         x_title="Technologische Dimension",
         y_title="Pädagogische Dimension"
     )
@@ -432,15 +436,24 @@ def visualize_tags(bib_database):
                         tag_counts[tag] += 1
 
     # Daten für Visualisierung aufbereiten
-    data = [
-        {'Tag': tag, 'Count': count, 'Type': tag.split(':')[1].lower()}
+    data_rows = [
+        {
+            'Tag': tag,
+            'Count': count,
+            'Type': tag.split(':')[1].lower()
+        }
         for tag, count in tag_counts.items()
         if count > 0
     ]
 
-    if not data:
+    if not data_rows:
         print("Warnung: Keine Tags gefunden, die den Suchkriterien entsprechen.")
         return
+
+    df = pd.DataFrame(data_rows)
+    df['TypeLabel'] = df['Type'].str.replace('-', ' ').str.title()
+    total_count = df['Count'].sum()
+    df['Percentage'] = df['Count'] / total_count * 100 if total_count else 0
 
     # Farbzuordnung
     color_map = {
@@ -453,16 +466,16 @@ def visualize_tags(bib_database):
     }
 
     # Visualisierung erstellen
-    total_count = sum(tag_counts.values())
     fig = px.bar(
-        data,
+        df,
         x='Tag',
         y='Count',
         title=f'Häufigkeit der Suchbegriffe in der Literaturanalyse (n={total_count}, Stand: {current_date})',
         labels={'Tag': 'Tag', 'Count': 'Anzahl der Vorkommen'},
         color='Type',
         color_discrete_map=color_map,
-        text_auto=True
+        text_auto=True,
+        custom_data=['TypeLabel', 'Percentage']
     )
 
     layout = get_standard_layout(
@@ -478,6 +491,14 @@ def visualize_tags(bib_database):
     layout["xaxis"]["automargin"] = True
     layout["autosize"] = True
     fig.update_layout(**layout)
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Typ: %{customdata[0]}<br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata[1]:.1f}%<extra></extra>"
+        )
+    )
 
     fig.show(config={"responsive": True})
     export_figure_local(fig, "visualize_tags", export_fig_visualize_tags)
@@ -508,11 +529,21 @@ def visualize_index(bib_database):
     index_data = [{'Index': index, 'Count': count} for index, count in index_counts.items()]
     index_data = sorted(index_data, key=lambda x: x['Count'], reverse=True)
 
-    total_count = sum(index_counts.values())
+    index_df = pd.DataFrame(index_data)
+    total_count = index_df['Count'].sum()
+    index_df['Percentage'] = index_df['Count'] / total_count * 100 if total_count else 0
     print(f"Häufigkeit Indizes (Gesamtanzahl: {total_count}):")
-    print(tabulate(index_data, headers="keys", tablefmt="grid"))
+    print(tabulate(index_df.to_dict('records'), headers="keys", tablefmt="grid"))
 
-    fig = px.bar(index_data, x='Index', y='Count', title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date})', labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig = px.bar(
+        index_df,
+        x='Index',
+        y='Count',
+        title=f'Relevanzschlüssel nach Indexkategorien (n={total_count}, Stand: {current_date})',
+        labels={'Index': 'Index', 'Count': 'Anzahl der Vorkommen'},
+        text_auto=True,
+        custom_data=['Percentage']
+    )
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Index',
@@ -527,6 +558,13 @@ def visualize_index(bib_database):
     layout["autosize"] = True
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata[0]:.1f}%<extra></extra>"
+        )
+    )
     fig.show(config={"responsive": True})
     export_figure_local(fig, "visualize_index", export_fig_visualize_index)
 
@@ -555,13 +593,22 @@ def visualize_research_questions(bib_database):
     rq_data = [{'Research_Question': research_questions[keyword], 'Count': count} for keyword, count in rq_counts.items()]
     rq_data = sorted(rq_data, key=lambda x: x['Count'], reverse=True)
 
-    rq_data_df = pd.DataFrame(rq_data)
+    rq_data_df = pd.DataFrame(rq_data, columns=['Research_Question', 'Count'])
 
     total_count = rq_data_df['Count'].sum()
+    rq_data_df['Percentage'] = rq_data_df['Count'] / total_count * 100 if total_count else 0
     print(f"Häufigkeit Forschungsunterfragen (Gesamtanzahl: {total_count}):")
     print(tabulate(rq_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(rq_data_df, x='Research_Question', y='Count', title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date})', labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig = px.bar(
+        rq_data_df,
+        x='Research_Question',
+        y='Count',
+        title=f'Zuordnung der Literatur zu Forschungsunterfragen (n={total_count}, Stand: {current_date})',
+        labels={'Research_Question': 'Forschungsunterfrage', 'Count': 'Anzahl der Vorkommen'},
+        text_auto=True,
+        custom_data=['Percentage']
+    )
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Forschungsunterfrage',
@@ -576,6 +623,13 @@ def visualize_research_questions(bib_database):
     layout["autosize"] = True
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata[0]:.1f}%<extra></extra>"
+        )
+    )
     fig.show(config={"responsive": True})
     export_figure_local(fig, "visualize_research_questions", export_fig_visualize_research_questions)
 
@@ -599,13 +653,22 @@ def visualize_categories(bib_database):
     cat_data = [{'Category': categories[keyword], 'Count': count} for keyword, count in cat_counts.items()]
     cat_data = sorted(cat_data, key=lambda x: x['Count'], reverse=True)
 
-    cat_data_df = pd.DataFrame(cat_data)
+    cat_data_df = pd.DataFrame(cat_data, columns=['Category', 'Count'])
 
     total_count = cat_data_df['Count'].sum()
+    cat_data_df['Percentage'] = cat_data_df['Count'] / total_count * 100 if total_count else 0
     print(f"Häufigkeit Kategorien (Gesamtanzahl: {total_count}):")
     print(tabulate(cat_data, headers="keys", tablefmt="grid"))
 
-    fig = px.bar(cat_data_df, x='Category', y='Count', title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date})', labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'}, text_auto=True)
+    fig = px.bar(
+        cat_data_df,
+        x='Category',
+        y='Count',
+        title=f'Textsortenzuordnung der analysierten Quellen (n={total_count}, Stand: {current_date})',
+        labels={'Category': 'Kategorie', 'Count': 'Anzahl der Vorkommen'},
+        text_auto=True,
+        custom_data=['Percentage']
+    )
     layout = get_standard_layout(
         title=fig.layout.title.text,
         x_title='Kategorie',
@@ -620,6 +683,13 @@ def visualize_categories(bib_database):
     layout["autosize"] = True
     fig.update_layout(**layout)
     fig.update_traces(marker=plot_styles['balken_primaryLine'])
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata[0]:.1f}%<extra></extra>"
+        )
+    )
     fig.show(config={"responsive": True})
     export_figure_local(fig, "visualize_categories", export_fig_visualize_categories)
 
@@ -667,6 +737,7 @@ def plot_relevance_distribution(df, title, x_title, export_flag, filename):
         return
 
     total_count = df['Count'].sum()
+    df['Percentage'] = df['Count'] / total_count * 100 if total_count else 0
     fig = px.bar(
         df,
         x='Kategorie',
@@ -676,6 +747,7 @@ def plot_relevance_distribution(df, title, x_title, export_flag, filename):
         category_orders={'Relevanzstufe': [RELEVANCE_LEVEL_LABELS[level] for level in RELEVANCE_LEVELS]},
         title=f"{title} (n={total_count}, Stand: {current_date})",
         labels={'Kategorie': x_title, 'Count': 'Anzahl', 'Relevanzstufe': 'Relevanzstufe'},
+        custom_data=['Relevanzstufe', 'Percentage']
     )
 
     layout = get_standard_layout(
@@ -692,6 +764,14 @@ def plot_relevance_distribution(df, title, x_title, export_flag, filename):
     layout['xaxis']['automargin'] = True
     layout['autosize'] = True
     fig.update_layout(**layout)
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Relevanzstufe: %{customdata[0]}<br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata[1]:.1f}%<extra></extra>"
+        )
+    )
 
     fig.show(config={"responsive": True})
     export_figure_local(fig, filename, export_flag)
@@ -798,13 +878,16 @@ def visualize_time_series(bib_database):
     if publication_years:
         year_counts = Counter(publication_years)
         df = pd.DataFrame(year_counts.items(), columns=['Year', 'Count']).sort_values('Year')
+        total_publications = df['Count'].sum()
+        df['Percentage'] = df['Count'] / total_publications * 100 if total_publications else 0
 
         fig = px.line(
             df,
             x='Year',
             y='Count',
             title=f'Jährliche Veröffentlichungen in der Literaturanalyse (n={sum(year_counts.values())}, Stand: {current_date})',
-            labels={'Year': 'Jahr', 'Count': 'Anzahl der Veröffentlichungen'}
+            labels={'Year': 'Jahr', 'Count': 'Anzahl der Veröffentlichungen'},
+            custom_data=['Percentage']
         )
         layout = get_standard_layout(
             title=fig.layout.title.text,
@@ -821,6 +904,13 @@ def visualize_time_series(bib_database):
         layout["autosize"] = True
         fig.update_layout(**layout)
         fig.update_traces(line=plot_styles['linie_primaryLine'])
+        fig.update_traces(
+            hovertemplate=(
+                "<b>%{x}</b><br>"
+                "Anzahl: %{y}<br>"
+                "Anteil: %{customdata[0]:.1f}%<extra></extra>"
+            )
+        )
         fig.show(config={"responsive": True})
         export_figure_local(fig, "visualize_time_series", export_fig_visualize_time_series)
     else:
@@ -839,8 +929,18 @@ def visualize_top_authors(bib_database):
     top_authors = Counter(author_counts).most_common(top_n)
     if top_authors:
         df = pd.DataFrame(top_authors, columns=['Author', 'Count'])
+        overall_total = sum(author_counts.values())
+        df['Percentage'] = df['Count'] / overall_total * 100 if overall_total else 0
 
-        fig = px.bar(df, x='Author', y='Count', title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={sum(author_counts.values())}, Stand: {current_date})', labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'}, text_auto=True)
+        fig = px.bar(
+            df,
+            x='Author',
+            y='Count',
+            title=f'Meistgenannte Autor:innen in der Literaturanalyse (Top {top_n}, n={overall_total}, Stand: {current_date})',
+            labels={'Author': 'Autor', 'Count': 'Anzahl der Werke'},
+            text_auto=True,
+            custom_data=['Percentage']
+        )
         layout = get_standard_layout(
             title=fig.layout.title.text,
             x_title='Autor',
@@ -855,6 +955,13 @@ def visualize_top_authors(bib_database):
         layout["autosize"] = True
         fig.update_layout(**layout)
         fig.update_traces(marker=plot_styles['balken_primaryLine'])
+        fig.update_traces(
+            hovertemplate=(
+                "<b>%{x}</b><br>"
+                "Anzahl: %{y}<br>"
+                "Anteil: %{customdata[0]:.1f}%<extra></extra>"
+            )
+        )
         fig.show(config={"responsive": True})
         export_figure_local(fig, "visualize_top_authors", export_fig_visualize_top_authors)
     else:
@@ -941,6 +1048,7 @@ def create_path_diagram(data):
     sources = []
     targets = []
     values = []
+    node_counts = Counter()
     color_map = {
         'zeitschriftenartikel': colors['primaryLine'],
         'konferenz-paper': colors['secondaryLine'],
@@ -964,8 +1072,19 @@ def create_path_diagram(data):
         sources.extend([fu_idx, category_idx, index_idx])
         targets.extend([category_idx, index_idx, type_idx])
         values.extend([1, 1, 1])
+        node_counts.update([entry['FU'], entry['Category'], entry['Index'], entry['Type']])
 
     node_colors = [color_map.get(label, colors['primaryLine']) for label in labels]
+    total_paths = len(data)
+    total_flows = sum(values)
+    node_percentages = [
+        node_counts.get(label, 0) / total_paths * 100 if total_paths else 0
+        for label in labels
+    ]
+    link_percentages = [
+        value / total_flows * 100 if total_flows else 0
+        for value in values
+    ]
 
     fig = go.Figure(data=[go.Sankey(
         node=dict(
@@ -973,12 +1092,24 @@ def create_path_diagram(data):
             thickness=20,
             line=dict(color="black", width=0.5),
             label=labels,
-            color=node_colors
+            color=node_colors,
+            customdata=node_percentages,
+            hovertemplate=(
+                "%{label}<br>"
+                "Anzahl: %{value}<br>"
+                "Anteil der Pfade: %{customdata:.1f}%<extra></extra>"
+            )
         ),
         link=dict(
             source=sources,
             target=targets,
-            value=values
+            value=values,
+            customdata=link_percentages,
+            hovertemplate=(
+                "%{source.label} → %{target.label}<br>"
+                "Anzahl: %{value}<br>"
+                "Anteil der Verbindungen: %{customdata:.1f}%<extra></extra>"
+            )
         )
     )])
     layout = get_standard_layout(
@@ -1096,22 +1227,54 @@ def create_sankey_diagram(bib_database):
         colors['positiveHighlight']     # Ausgewählte Quellen
     ]
 
+    node_values = [
+        initial_sources,
+        screened_sources,
+        quality_sources,
+        relevance_sources,
+        thematic_sources,
+        recent_sources,
+        classic_sources,
+        selected_sources
+    ]
+    node_percentages = [
+        value / initial_sources * 100 if initial_sources else 0
+        for value in node_values
+    ]
+    link_percentages = [
+        value / initial_sources * 100 if initial_sources else 0
+        for value in values
+    ]
+
     # Sankey-Diagramm erstellen
     node_config = {
         **plot_styles["sankey_node"],
         "label": node_labels,
-        "color": node_colors
+        "color": node_colors,
+        "customdata": node_percentages,
+        "hovertemplate": (
+            "%{label}<br>"
+            "Anzahl: %{value}<br>"
+            "Anteil an Ausgangsmenge: %{customdata:.1f}%<extra></extra>"
+        )
     }
     # Remove any invalid 'font' key if present
     node_config.pop("font", None)
+    link_config = {
+        **plot_styles["sankey_link"],
+        "source": sources,
+        "target": targets,
+        "value": values,
+        "customdata": link_percentages,
+        "hovertemplate": (
+            "%{source.label} → %{target.label}<br>"
+            "Anzahl: %{value}<br>"
+            "Anteil an Ausgangsmenge: %{customdata:.1f}%<extra></extra>"
+        )
+    }
     fig = go.Figure(go.Sankey(
         node=node_config,
-        link=dict(
-            **plot_styles["sankey_link"],
-            source=sources,
-            target=targets,
-            value=values
-        )
+        link=link_config
     ))
     # Layout anpassen
     layout = get_standard_layout(
@@ -1224,21 +1387,45 @@ def visualize_sources_status(bib_database):
         tablefmt='grid'
     ))
 
+    total_identifiziert = sum(counts["Identifiziert"] for counts in source_data.values())
+    analysiert_percentages = [
+        value / total_identifiziert * 100 if total_identifiziert else 0
+        for value in analysiert_values
+    ]
+    nicht_analysiert_percentages = [
+        value / total_identifiziert * 100 if total_identifiziert else 0
+        for value in nicht_analysiert_values
+    ]
+
     fig = go.Figure()
     fig.add_trace(go.Bar(
         x=tags,
         y=analysiert_values,
         name='Analysiert',
-        marker=dict(color=analysiert_colors)
+        marker=dict(color=analysiert_colors),
+        customdata=analysiert_percentages,
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Status: Analysiert<br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata:.1f}%<extra></extra>"
+        )
     ))
     fig.add_trace(go.Bar(
         x=tags,
         y=nicht_analysiert_values,
         name='Nicht-Analysiert',
-        marker=plot_styles['balken_primaryLine']
+        marker=plot_styles['balken_primaryLine'],
+        customdata=nicht_analysiert_percentages,
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Status: Nicht-Analysiert<br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata:.1f}%<extra></extra>"
+        )
     ))
     layout = get_standard_layout(
-        title=f'Analyse- und Stichprobenstatus je Suchordner (n={sum(counts["Identifiziert"] for counts in source_data.values())}, Stand: {current_date})',
+        title=f'Analyse- und Stichprobenstatus je Suchordner (n={total_identifiziert}, Stand: {current_date})',
         x_title='Suchbegriffsordner',
         y_title='Anzahl der Quellen'
     )
@@ -1341,8 +1528,8 @@ def visualize_languages(bib_database):
         color='Gruppe',
         color_discrete_map=color_discrete_map,
         title=f'Sprachverteilung der analysierten Quellen (n={sum(norm_counts.values())}, Stand: {current_date})',
-        hover_data=["Sprache", "Gruppe", "Anzahl", "Anteil (%)"],
-        barmode="stack"
+        barmode="stack",
+        custom_data=['Gruppe', 'Anteil (%)']
     )
 
     layout = get_standard_layout(
@@ -1357,6 +1544,14 @@ def visualize_languages(bib_database):
     # Ergänzung: Y-Achse logarithmisch skalieren
     layout["yaxis_type"] = "log"
     fig.update_layout(**layout)
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Sprachgruppe: %{customdata[0]}<br>"
+            "Anzahl: %{y}<br>"
+            "Anteil: %{customdata[1]:.2f}%<extra></extra>"
+        )
+    )
     fig.show(config={"responsive": True})
     # Tabelle ausgeben
     print(tabulate(df.sort_values("Anzahl", ascending=False), headers="keys", tablefmt="grid", showindex=False))
@@ -1410,6 +1605,8 @@ def visualize_language_entrytypes(bib_database):
     grouped.rename(columns={'ENTRYTYPE': 'Eintragstyp'}, inplace=True)
     # Anteil innerhalb Sprache (%)
     grouped["Anteil innerhalb Sprache (%)"] = grouped.groupby("Sprache")["Anzahl"].transform(lambda x: (x / x.sum() * 100).round(2))
+    total_entrytypes = grouped['Anzahl'].sum()
+    grouped["Anteil Gesamt (%)"] = grouped['Anzahl'] / total_entrytypes * 100 if total_entrytypes else 0
 
     # Mapping Eintragstyp zu Typgruppe
     eintragstyp_gruppen = {
@@ -1446,7 +1643,8 @@ def visualize_language_entrytypes(bib_database):
         barmode="group",
         title=f'Verteilung der Eintragstypen pro Sprache (n={len(df)}, Stand: {current_date})',
         text='Anzahl',
-        labels={'Sprache': 'Sprache', 'Eintragstyp': 'Eintragstyp', 'Anzahl': 'Anzahl', 'Typgruppe': 'Typgruppe'}
+        labels={'Sprache': 'Sprache', 'Eintragstyp': 'Eintragstyp', 'Anzahl': 'Anzahl', 'Typgruppe': 'Typgruppe'},
+        custom_data=['Eintragstyp', 'Typgruppe', 'Anteil Gesamt (%)', 'Anteil innerhalb Sprache (%)']
     )
     layout = get_standard_layout(
         title=fig.layout.title.text,
@@ -1460,6 +1658,16 @@ def visualize_language_entrytypes(bib_database):
     # Ergänzung: Y-Achse logarithmisch skalieren
     layout["yaxis_type"] = "log"
     fig.update_layout(**layout)
+    fig.update_traces(
+        hovertemplate=(
+            "<b>%{x}</b><br>"
+            "Eintragstyp: %{customdata[0]}<br>"
+            "Typgruppe: %{customdata[1]}<br>"
+            "Anzahl: %{y}<br>"
+            "Anteil gesamt: %{customdata[2]:.2f}%<br>"
+            "Anteil innerhalb Sprache: %{customdata[3]:.2f}%<extra></extra>"
+        )
+    )
     fig.show(config={"responsive": True})
     print(tabulate(grouped.sort_values(["Sprache", "Eintragstyp"]), headers=["Sprache", "Eintragstyp", "Anzahl", "Anteil innerhalb Sprache (%)", "Typgruppe"], tablefmt="grid", showindex=False))
     export_figure_local(fig, "visualize_language_entrytypes", export_fig_visualize_languages)
