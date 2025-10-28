@@ -1,6 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Übersicht der Forschungsunterfragen
+Repository: 
 created: 2024-10-23
 updated: 2025-08-05
 publish: false
@@ -21,12 +22,14 @@ tags:
   - "#Emotionale"
   - "#Selbstorganisation"
   - "#DynamischeAnpassung"
+published: 
 project: Kompetenzforschung
 type:
   - Wissenschaftliche Notiz
 priority: hoch
 status: in-progress
 ---
+
 [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 5.8.2025
 
 # 1 Definition
@@ -49,7 +52,7 @@ Diese Definition vereint die Kernaspekte aus den folgenden Quellen:
 
 ## 2.1 Verschränkung Kompetenz und Entwicklung
 
-Die Verschränkung der Begriffe *Kompetenz* und *Entwicklung* zum Begriff der **[[Kompetenzentwicklung]]** verdeutlicht die Dynamik und die kontinuierliche Anpassung, die Kompetenzen auszeichnet. Für den spezifischen Kontext der [[High Responsibility Teams]] wird der Begriff der Kompetenz im Zusammenhang mit der Fähigkeit zur selbstorganisierten Bewältigung komplexer Aufgaben formuliert. Diese Verschränkung ergibt sich aus den folgenden Kernüberlegungen:
+Die Verschränkung der Begriffe *Kompetenz* und *Entwicklung* zum Begriff der **[[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]]** verdeutlicht die Dynamik und die kontinuierliche Anpassung, die Kompetenzen auszeichnet. Für den spezifischen Kontext der [[High Responsibility Teams]] wird der Begriff der Kompetenz im Zusammenhang mit der Fähigkeit zur selbstorganisierten Bewältigung komplexer Aufgaben formuliert. Diese Verschränkung ergibt sich aus den folgenden Kernüberlegungen:
 
 - Kompetenz ist die "Fähigkeit, selbstorganisiert und kreativ von einmal bewussten, gelernten, getanem ausgehend Neues zu schaffen, neuartige Probleme zu lösen und neue Denkweisen zu begründen“ (Erpenbeck et al., 2007, S. 10).
 - Diese Definition wird durch mehrere Determinanten konkretisiert, die im Kontext von High Responsibility Teams von zentraler Bedeutung sind:

@@ -1,12 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Wirkungskriterium
-project: Wirkgefüge im digitalen Bildungsraum
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-11-17
 updated: 2024-11-18
 publish: true
-publishd: 
 tags:
   - Notfallmedizin
   - Systemtheorie
@@ -15,9 +13,11 @@ tags:
   - Checkliste
   - Kompetenz
   - "#werkannalgorithmen"
+published: []
+project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 17.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.11.2024 | publishd:  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 17.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.11.2024 | publishd:  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Einleitung
 

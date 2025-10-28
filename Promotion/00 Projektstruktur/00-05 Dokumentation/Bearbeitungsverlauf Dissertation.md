@@ -1,12 +1,16 @@
 ---
+author: 
+title: Aktueller Arbeitsstand der Dissertation (öffentliches Git-Repository)
+Repository: 
+created: 2025-07-11
+updated: 2025-09-14
+publish: 
 tags:
   - promotion
   - stand
   - öffentlichkeit
   - arbeitstransparenz
-title: Aktueller Arbeitsstand der Dissertation (öffentliches Git-Repository)
-date: 2025-07-11
-updated: 2025-09-14
+published: 
 ---
 
 # Einleitung
@@ -147,7 +151,7 @@ _Tabelle 1: Statusreport_
 | Literaturverzeichnis                                               |        | offen                                                |
 | Anhänge                                                            |        | offen                                                |
 | Anhang Kapitel 1                                                   |        | offen                                                |
-| Anhang 1.1.1 Darstellung Zotero-Suchordner                         |        | verfasst, finalisiert                                |
+| Anhang 1.2.5 Darstellung Zotero-Suchordner                         | 1      | verfasst, finalisiert                                |
 | Anhang Kapitel 2                                                   |        | offen                                                |
 | Anhang Kapitel 3                                                   |        | offen                                                |
 | Anhang 3.1 Übersicht Berufliche Handlungssituationen               | 2      | verfasst, revidiert                                  |

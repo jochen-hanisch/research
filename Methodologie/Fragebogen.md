@@ -1,9 +1,10 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Fragebogen
+Repository: 
 created: 2024-10-02
 updated: 2024-10-02
-due: 
+publish: false
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -15,12 +16,13 @@ tags:
   - "#Datenerhebung"
   - "#Gütekriterien"
   - Empirie
+published: 
+due: []
 project: Wirkgefüge im digitalen Bildungsraum
 type:
   - Methodische Notiz
 priority: hoch
 status: in-progress
-publish: false
 ---
 # 1 Definition
 Ein Fragebogen ist ein systematisch konzipiertes Instrument zur **Datenerhebung**, das aus einer strukturierten Abfolge von Fragen oder Items besteht und auf die Erfassung bestimmter Merkmale, Einstellungen oder Verhaltensweisen abzielt. Ziel eines Fragebogens ist es, standardisierte Daten zu erheben, die anschließend quantitativ oder qualitativ ausgewertet werden können. Ein gut konzipierter Fragebogen muss den Kriterien der **Objektivität, Validität** und **Reliabilität** entsprechen, um aussagekräftige und verallgemeinerbare Ergebnisse zu liefern.

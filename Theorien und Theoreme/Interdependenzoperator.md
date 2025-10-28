@@ -1,11 +1,10 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: "Kommunikation als Strukturprinzip: Die Theorie des Interdependenzoperators $H$ als Fundament systemischer Dynamik"
-author: Jochen Hanisch
+Repository: 
 created: 2025-04-03
 updated: 2025-04-03
 publish: true
-GPT: true
-publishd: 2025-04-04
 tags:
   - Elementarkommunikation
   - Emergenz
@@ -22,10 +21,11 @@ tags:
   - Reflexion
   - Systemtheorie
   - Wahrscheinlichkeit
-status: published
+published: 2025-04-04
+GPT: true
 ---
 
-created: 3.4.2025 | updated: 4.4.2025 | [publishd](https://www.researchgate.net/publication/390491690_Kommunikation_als_Strukturprinzip_Die_Theorie_des_Interdependenzoperators_H_als_Fundament_systemischer_Dynamik): 4.4.2025 | [[Hinweise]]
+created: 3.4.2025 | updated: 4.4.2025 | [publishd](https://www.researchgate.net/publication/390491690_Kommunikation_als_Strukturprinzip_Die_Theorie_des_Interdependenzoperators_H_als_Fundament_systemischer_Dynamik): 4.4.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Kommunikation als Strukturprinzip: Die Theorie des Interdependenzoperators $H$ als Fundament systemischer Dynamik**
 

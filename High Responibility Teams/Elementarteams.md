@@ -1,12 +1,10 @@
 ---
 author: Jochen Hanisch
 title: "Elementarteams: Eine systemtheoretische Grundlagensynthese im Kontext von High-Responsibility-Teams unter Einbezug iterativer Kommunikationsprinzipien"
-project: High Responsibility Teams
 Repository: https://git.jochen-hanisch.de/research/high-responibility-teams
 created: 2025-01-21
 updated: 2025-01-21
 publish: true
-publishd: 2025-07-10
 tags:
   - "#Elementarteams"
   - "#Feedback"
@@ -29,10 +27,12 @@ tags:
   - "#Teamarbeit"
   - "#Organisationsentwicklung"
   - "#Wirkungswahrscheinlichkeit"
+published: 2025-07-10
+project: High Responsibility Teams
 GPT: true
 ---
 
-created: 21.1.2025 | [updated](https://git.jochen-hanisch.de/research/high-responibility-teams): 21.1.2025 | [publishd](https://zenodo.org/records/15857049): 10.7.2025  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Hinweise]]
+created: 21.1.2025 | [updated](https://git.jochen-hanisch.de/research/high-responibility-teams): 21.1.2025 | [publishd](https://zenodo.org/records/15857049): 10.7.2025  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Elementarteams: Eine systemtheoretische Grundlagensynthese im Kontext von High-Responsibility-Teams unter Einbezug iterativer Kommunikationsprinzipien**
 

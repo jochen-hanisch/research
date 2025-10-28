@@ -1,12 +1,10 @@
 ---
 author: Jochen Hanisch
 title: "Kompetenzziel: Systemische Grundlagen, Struktur und sprachliche Präzision für dynamische Bildungsprozesse"
-project: Systemische Kompetenzentwicklung für High Responsibility Teams
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-01-10
 updated: 2024-12-11
 publish: true
-publishd: 2025-01-11
 tags:
   - "#Kompetenzziele"
   - "#Lernen"
@@ -14,12 +12,14 @@ tags:
   - "#Forschung"
   - "#Transformation"
   - "#Interdisziplinarität"
+published: 2025-01-11
+project: Systemische Kompetenzentwicklung für High Responsibility Teams
 GPT: true
 ---
 
 **Kompetenzziel: Systemische Grundlage, Struktur und sprachliche Präzision für dynamische Bildungsprozesse**
 
-created: 10.1.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 11.1.2025 | [publishd](https://www.researchgate.net/publication/387933723_Kompetenzziel_Systemische_Grundlagen_Struktur_und_sprachliche_Prazision_fur_dynamische_Bildungsprozesse): 11.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 10.1.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 11.1.2025 | [publishd](https://www.researchgate.net/publication/387933723_Kompetenzziel_Systemische_Grundlagen_Struktur_und_sprachliche_Prazision_fur_dynamische_Bildungsprozesse): 11.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Executive Summary
 
@@ -35,11 +35,11 @@ Dieser Beitrag widmet sich der Definition, Struktur und praktischen Anwendung vo
 
 **Ergebnisse:** Die Ergebnisse zeigen, dass Kompetenzziele eine Struktur bieten, die durch die [[Elementaroperationen]] und evidenzbasierten Grundlagen gestützt wird. Sie ermöglichen die Formulierung von Zielen, die die Überwindung von Transformationsbarrieren und die Entwicklung neuer Handlungsoptionen fördern. Beispiele zeigen ihre Anwendbarkeit in unterschiedlichen Kontexten, während SMART-Kriterien die Überprüfbarkeit sicherstellen.
 
-**Schlussfolgerung:** Kompetenzziele bieten eine zukunftsweisende Grundlage für Bildung, Forschung und Praxis. Sie fördern nachhaltige [[Kompetenzentwicklung]], interdisziplinäre Zusammenarbeit und die Integration digitaler Technologien. Gleichzeitig erfordert ihre Implementierung die Berücksichtigung von Herausforderungen wie der Gefahr der Standardisierung, der Messbarkeit und Evaluierung sowie ethischer Fragen. Dieser Beitrag leistet einen entscheidenden Schritt, um Kompetenzziele sprachlich und praktisch fundiert zu gestalten und ihre Anwendung in modernen Kontexten zu ermöglichen.
+**Schlussfolgerung:** Kompetenzziele bieten eine zukunftsweisende Grundlage für Bildung, Forschung und Praxis. Sie fördern nachhaltige [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]], interdisziplinäre Zusammenarbeit und die Integration digitaler Technologien. Gleichzeitig erfordert ihre Implementierung die Berücksichtigung von Herausforderungen wie der Gefahr der Standardisierung, der Messbarkeit und Evaluierung sowie ethischer Fragen. Dieser Beitrag leistet einen entscheidenden Schritt, um Kompetenzziele sprachlich und praktisch fundiert zu gestalten und ihre Anwendung in modernen Kontexten zu ermöglichen.
 
 # Einleitung
 
-Die [[Kompetenzentwicklung]] hat in den letzten Jahrzehnten zunehmend an Bedeutung gewonnen, da moderne Gesellschaften und Arbeitsmärkte immer komplexer und dynamischer werden. In einer Welt, die von ständigen Veränderungen und globalen Herausforderungen geprägt ist, reicht dies nicht mehr aus, lediglich Wissen und Fertigkeiten zu vermitteln. Stattdessen rückt die Fähigkeit, spezifische Transformationsbarrieren zu überwinden und dynamisch auf neue Anforderungen zu reagieren, in den Fokus. Kompetenzziele, wie sie in diesem Artikel konzipiert werden, bieten eine systematische und anpassungsfähige Grundlage, um diesen Herausforderungen zu begegnen.
+Die [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]] hat in den letzten Jahrzehnten zunehmend an Bedeutung gewonnen, da moderne Gesellschaften und Arbeitsmärkte immer komplexer und dynamischer werden. In einer Welt, die von ständigen Veränderungen und globalen Herausforderungen geprägt ist, reicht dies nicht mehr aus, lediglich Wissen und Fertigkeiten zu vermitteln. Stattdessen rückt die Fähigkeit, spezifische Transformationsbarrieren zu überwinden und dynamisch auf neue Anforderungen zu reagieren, in den Fokus. Kompetenzziele, wie sie in diesem Artikel konzipiert werden, bieten eine systematische und anpassungsfähige Grundlage, um diesen Herausforderungen zu begegnen.
 
 Kompetenzziele basieren auf dem Konzept [[Lernen als universelles Prinzip]] und sind auf die [[Elementaroperationen]] [[Allgemein beruflich/Research/Systemtheorie/Feedback|Feedback]], [[Allgemein beruflich/Research/Systemtheorie/Reflexion|Reflexion]] und Re-entry sowie die Opertionen der Emergenz und [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] gestützt. Sie sind darauf ausgelegt, durch die Überwindung von Transformationsbarrieren unerwünschte Zustände in erwünschte zu transformieren. Dabei verbinden sie evidenzbasierte Grundlagen mit den Anforderungen spezifischer Kontexte und orientieren sich an den SMART-Kriterien, um sowohl praxisnah als auch überprüfbar zu sein.
 

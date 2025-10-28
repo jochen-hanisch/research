@@ -1,8 +1,10 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Operationalisierung und Forschungshypothesen
+Repository: 
 created: 2024-10-02
 updated: 2024-10-02
+publish: false
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -13,12 +15,12 @@ tags:
   - "#Hypothesenformulierung"
   - "#Operationalisierung"
   - Empirie
+published: 
 project: Wirkgefüge im digitalen Bildungsraum
 type:
   - Methodische Notiz
 priority: hoch
 status: in-progress
-publish: false
 ---
 
 # 1 Herleitung

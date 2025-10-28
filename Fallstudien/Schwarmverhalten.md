@@ -16,7 +16,7 @@ tags:
 published: 2025-08-01
 ---
 
-created: 31.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 31.7.2025 | [published](https://zenodo.org/records/16693320):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 31.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 31.7.2025 | [published](https://zenodo.org/records/16693320):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Kollektive Reaktionsmuster im Schwarmverhalten. Eine systemtheoretische Rekonstruktion**
 
@@ -88,7 +88,7 @@ Die Autoren deuten dieses Phänomen als Ausdruck kollektiver Kognition. Sie verw
 
 # Abschnitt 2: Elementaroperationen im kollektiven Verhalten
 
-Um das Verhalten der Fischschwärme systemtheoretisch zu deuten, werden die in der Studie beobachteten Reaktionsmuster entlang der Theorie der Elementaroperationen rekonstruiert. Diese grundlegenden Operationen - [[Feedback]], [[Inversion]], [[Reflexion]], [[Re-Inversion]] und [[Re-entry]] - lassen sich als zyklischer Ablauf im kollektiven Entscheidungsprozess nachvollziehen.
+Um das Verhalten der Fischschwärme systemtheoretisch zu deuten, werden die in der Studie beobachteten Reaktionsmuster entlang der Theorie der Elementaroperationen rekonstruiert. Diese grundlegenden Operationen - [[Feedback]], [[Inversion]], [[Allgemein beruflich/Professionelle Praxis/Reflexion]], [[Re-Inversion]] und [[Re-entry]] - lassen sich als zyklischer Ablauf im kollektiven Entscheidungsprozess nachvollziehen.
 
 ```mermaid
 flowchart TD

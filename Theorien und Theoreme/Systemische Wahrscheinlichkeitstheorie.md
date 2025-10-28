@@ -1,11 +1,10 @@
 ---
-title: Systemische Wahrscheinlichkeiten als theoretische komplex-dynamische Modulation
 author: Jochen Hanisch
+title: Systemische Wahrscheinlichkeiten als theoretische komplex-dynamische Modulation
+Repository: 
 created: 2025-03-31
 updated: 2025-04-08
 publish: true
-GPT: true
-publishd: 2025-04-08
 tags:
   - "#Elementarkommunikation"
   - "#Emergenz"
@@ -23,10 +22,12 @@ tags:
   - "#Systemtheorie"
   - "#Wirkungswahrscheinlichkeit"
   - "#Zeitstruktur"
+published: 2025-04-08
+GPT: true
 status: post
 ---
 
-created: 31.3.2025 | updated: 8.4.2025 | [publishd](https://www.researchgate.net/publication/390597666_Systemische_Wahrscheinlichkeiten_als_theoretische_komplex-dynamische_Modulation): 8.4.2025 | [[Hinweise]]
+created: 31.3.2025 | updated: 8.4.2025 | [publishd](https://www.researchgate.net/publication/390597666_Systemische_Wahrscheinlichkeiten_als_theoretische_komplex-dynamische_Modulation): 8.4.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Systemische Wahrscheinlichkeiten als theoretische komplex-dynamische Modulation**
 

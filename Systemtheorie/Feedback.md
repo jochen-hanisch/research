@@ -1,18 +1,20 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Feedback – Eine systemische und zirkuläre Perspektive
+Repository: 
 created: 2024-12-06
 updated: 2024-12-06
+publish: false
 tags:
   - Feedback
   - Systemtheorie
   - Lernen
-  - Reflexion
+  - [[Reflexion]]
   - Kybernetik
+published: 
 project: Systemlernen
 type:
   - Wissenschaftliche Notiz
-publish: false
 ---
 
 # Einleitung
@@ -21,7 +23,7 @@ Feedback ist ein zentrales Konzept in unterschiedlichsten wissenschaftlichen und
 
 # 1 Definition
 
-Der Begriff **Feedback** bezieht sich auf einen neutralen Informationsimpuls, der Unterschiede zwischen einem Ist-Zustand und einem Soll-Zustand sichtbar macht. Es ist durch Neutralität, Kontextabhängigkeit und die Anregung von Reflexions- und Anpassungsprozessen gekennzeichnet. Feedback wird in biologischen, psychischen, sozialen und technischen Systemen verwendet und trägt wesentlich zur Selbstregulation, Anpassung und Weiterentwicklung dieser Systeme bei.
+Der Begriff **Feedback** bezieht sich auf einen neutralen Informationsimpuls, der Unterschiede zwischen einem Ist-Zustand und einem Soll-Zustand sichtbar macht. Es ist durch Neutralität, Kontextabhängigkeit und die Anregung von Reflexions- und Anpassungsprozessen gekennzeichnet. Feedback wird in biologischen, psychischen, sozialen und technischen Systemen verwendet und trägt wesentlich zur Selbstregulation, Anpassung und Weiterentwicklung dieser [[Systeme]] bei.
 
 # 2 Herleitung
 
@@ -31,7 +33,7 @@ In der Kybernetik wurde der Begriff Feedback durch **Norbert Wiener** geprägt, 
 - **Negativem Feedback**, das Stabilität fördert, indem es Abweichungen korrigiert (z. B. bei der Temperaturregelung im menschlichen Körper).
 - **Positivem Feedback**, das Verstärkung und Veränderung bewirkt (z. B. bei exponentiellem Wachstum in biologischen Systemen).
 
-Die Systemtheorie von **Ludwig von Bertalanffy** erweiterte diese Perspektive, indem Feedback als universeller Mechanismus in offenen Systemen betrachtet wurde (*Bertalanffy, 1968*). Hier dient Feedback der Selbstorganisation und Adaptivität komplexer Systeme.
+Die Systemtheorie von **Ludwig von Bertalanffy** erweiterte diese Perspektive, indem Feedback als universeller Mechanismus in offenen Systemen betrachtet wurde (*Bertalanffy, 1968*). Hier dient Feedback der Selbstorganisation und Adaptivität komplexer [[Systeme]].
 
 ## 2.2 Pädagogik und Psychologie
 
@@ -39,7 +41,7 @@ In der Pädagogik ist Feedback ein zentrales Element, um Lernprozesse zu unterst
 
 In der Psychologie wurde Feedback durch **B. F. Skinner** im Kontext der operanten Konditionierung beschrieben (*Skinner, 1953*). Rückmeldungen dienen hier als Verstärker, die Verhalten formen und steuern können.
 
-## 2.3 Kommunikation und technische Systeme
+## 2.3 Kommunikation und technische [[Systeme]]
 
 In der Kommunikationstheorie von **Claude Shannon** und **Warren Weaver** (*Shannon & Weaver, 1949*) spielt Feedback eine essenzielle Rolle, um die Wirksamkeit von Botschaften zu überprüfen und Kommunikationsprozesse anzupassen. In technischen Systemen wird Feedback verwendet, um Regelkreise und Automatisierungen zu steuern.
 
@@ -58,22 +60,22 @@ bedeutet Feedback, dass der imaginäre Anteil der [[Wirkungswahrscheinlichkeit]]
 
 # 3 Folgerungen
 
-Feedback ist ein universeller Mechanismus, der die Selbstregulation, Reflexion und Anpassung in lebenden, psychischen, sozialen und technischen Systemen ermöglicht. Seine Funktion im zirkulären Lernprozess ist zentral, um Unterschiede sichtbar zu machen und Anpassungen vorzunehmen.
+Feedback ist ein universeller Mechanismus, der die Selbstregulation, [[Reflexion]] und Anpassung in lebenden, psychischen, sozialen und technischen Systemen ermöglicht. Seine Funktion im zirkulären Lernprozess ist zentral, um Unterschiede sichtbar zu machen und Anpassungen vorzunehmen.
 
 # 4 Implikationen
 
 Die Implikationen des Feedback-Konzepts sind vielfältig: 
 - In der Bildung ermöglicht es zielgerichtete Lernprozesse und die Förderung von Selbstregulation.
-- In der Technik sorgt es für stabile und adaptive Systeme.
+- In der Technik sorgt es für stabile und adaptive [[Systeme]].
 - In der Kommunikation verbessert es die Effektivität zwischenmenschlicher und technischer Interaktionen.
 
 # 5 Kritik
 
-Trotz seiner universellen Bedeutung ist Feedback nicht immer effektiv. Es hängt stark von der Wahrnehmung, den Bedürfnissen und den Emotionen der empfänglichen Systeme ab. Unspezifisches oder übermäßig kritisches Feedback kann zu Widerständen und Fehlinterpretationen führen.
+Trotz seiner universellen Bedeutung ist Feedback nicht immer effektiv. Es hängt stark von der Wahrnehmung, den Bedürfnissen und den Emotionen der empfänglichen [[Systeme]] ab. Unspezifisches oder übermäßig kritisches Feedback kann zu Widerständen und Fehlinterpretationen führen.
 
 # 6 Zusammenfassung
 
-Der Begriff **Feedback** beschreibt einen neutralen Informationsimpuls, der Unterschiede sichtbar macht, Reflexionsprozesse anstößt und systeminterne Anpassungen ermöglicht. Er wird in biologischen, psychischen, sozialen und technischen Systemen angewendet und ist entscheidend für die Selbstorganisation, Stabilität und Weiterentwicklung dieser Systeme.
+Der Begriff **Feedback** beschreibt einen neutralen Informationsimpuls, der Unterschiede sichtbar macht, Reflexionsprozesse anstößt und systeminterne Anpassungen ermöglicht. Er wird in biologischen, psychischen, sozialen und technischen Systemen angewendet und ist entscheidend für die Selbstorganisation, Stabilität und Weiterentwicklung dieser [[Systeme]].
 
 # Quellen
 

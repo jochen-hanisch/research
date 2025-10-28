@@ -14,10 +14,10 @@ tags:
   - Sichtbarkeit
   - Dynamik
   - Gestaltung
-publishd:
+published: []
 ---
 
-created: 16.11.2024 | [updated]() | [publishd]() | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 16.11.2024 | [updated]() | [publishd]() | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Epistemolismus denken: Zur Sichtbarmachung wissenschaftlicher Prozesse in versionierten Erkenntnisräumen**
 

@@ -1,11 +1,10 @@
 ---
 author: Jochen Hanisch
 title: "Erkenntnisbasierter Aufgabenzyklus: EBA-Zyklus"
-project: Interventionen
+Repository: 
 created: 2024-09-29
 updated: 2024-11-26
 publish: true
-publishd: 
 tags:
   - Bildung
   - "#Lernprozess"
@@ -14,10 +13,12 @@ tags:
   - "#Konstruktivismus"
   - "#Reflexion"
   - "#EBA-Zyklus"
+published: []
+project: Interventionen
 GPT: true
 ---
 
-created: 29.09.2024 | updated: 26.11.2024 | [[Hinweise]]
+created: 29.09.2024 | updated: 26.11.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # 1 Definition
 
@@ -65,6 +66,7 @@ Der EBA-Zyklus kann als integratives Prinzip betrachtet werden, das verschiedene
 
 5. **Systemisch-konstruktivistischer Ansatz**:  
    Der Zyklus fördert die Betrachtung von Lernprozessen als offene Systeme, die durch externe und interne Einflüsse dynamisch gesteuert werden. Lernende reflektieren kontinuierlich, wie ihre Erkenntnisziele im Kontext der sich verändernden Systemdynamiken angepasst werden müssen.
+
 ## 2.3 Grafisches Flussdiagramm des EBA-Zyklus
 
 ```mermaid

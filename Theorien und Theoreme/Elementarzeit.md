@@ -1,11 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Die gegebene Zeit. Ein strukturtheoretischer Entwurf zur Operation und Emergenz temporaler Ordnung
-project: 
+Repository: 
 created: 2025-06-21
 updated: 2025-06-23
 publish: true
-publishd: 2025-06-23
 tags:
   - Forschung
   - Systemtheorie
@@ -23,9 +22,11 @@ tags:
   - Elementarzeit
   - Zeitstruktur
   - Übergangsarchitektur
+published: 2025-06-23
+project: []
 ---
 
-created: 21.6.2025 | [updated](https://git.jochen-hanisch.de/research/theorien-theoreme/): 22.7.2025 | [publishd](https://zenodo.org/records/15723385):  | [[Hinweise]]
+created: 21.6.2025 | [updated](https://git.jochen-hanisch.de/research/theorien-theoreme/): 22.7.2025 | [published](https://zenodo.org/records/15723385): 23.6.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Die gegebene Zeit.** Ein strukturtheoretischer Entwurf zur Operation und Emergenz temporaler Ordnung
 

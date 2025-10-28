@@ -5,7 +5,6 @@ Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-10-02
 updated: 2025-07-30
 publish: true
-published: 2025-06-08
 tags:
   - Lernen
   - Rhetorik
@@ -26,10 +25,11 @@ tags:
   - "#Kompetenzentwicklung"
   - "#Lernprozesse"
   - "#Autopoiesis"
+published: 2025-06-08
 GPT: true
 ---
 
-created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 30.7.2025 | published: 8.6.2025 |[Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 30.7.2025 | published: 8.6.2025 |[Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 > [!abstract]+ Anmerkung  
 > Dieser Artikel wird noch überarbeitet, da Lernen als Folge von [[Elementaroperationen]] (Feedback, Reflexion und Re-Entry) verstanden wird. Diese befinden sich aktuell in Entwicklung.  

@@ -5,7 +5,6 @@ Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-11-16
 updated: 2025-06-08
 publish: true
-published: 2025-05-11
 tags:
   - "#Dissertation"
   - "#Bildungswissenschaft"
@@ -14,6 +13,7 @@ tags:
   - "#Professionalisierung"
   - "#Lernortevaluation"
   - "#Qualitätsanalyse"
+published: 2025-05-11
 GPT: true
 ---
 

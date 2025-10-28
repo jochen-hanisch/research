@@ -1,21 +1,22 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Analyse zweiter Ordnung
-project: Methodologie
+Repository: 
 created: 2025-07-05
 updated: 2025-07-05
 publish: true
-publishd: 2025-07-06
 tags:
   - "#Forschung"
   - "#Bildungsforschung"
   - "#Wissenschaft"
   - "#Datenverarbeitung"
   - "#Clusteranalyse"
+published: 2025-07-06
+project: Methodologie
 GPT: true
 ---
 
-created: 5.7.2025 | [updated](https://git.jochen-hanisch.de/research/methodologie): 5.7.2025 | [publishd](https://zenodo.org/records/15815427): 6.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 5.7.2025 | [updated](https://git.jochen-hanisch.de/research/methodologie): 5.7.2025 | [publishd](https://zenodo.org/records/15815427): 6.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Abstract
 

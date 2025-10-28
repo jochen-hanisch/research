@@ -5,7 +5,6 @@ Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-10-24
 updated: 2024-12-03
 publish: true
-publishd: 
 tags:
   - "#Kompetenzentwicklung"
   - "#Lernprozess"
@@ -14,6 +13,7 @@ tags:
   - "#Transduktion"
   - "#Wissensübertragung"
   - Konjugation
+published: []
 ---
 
 created: 24.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 03.12.2024 | publishd: |  [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
@@ -22,7 +22,7 @@ created: 24.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/res
 
 Transferaktive Kompetenzentwicklung beschreibt einen prozessorientierten Ansatz zur Entwicklung von Kompetenzen, bei dem Wissen und Können durch aktive Aufnahme, Vermittlung und Austausch in dynamischen Lernprozessen erworben und weitergegeben wird. Dieser Ansatz basiert auf der Übertragung biologischer Mechanismen der horizontalen Genübertragung (Transformation, Transduktion, Konjugation) auf Bildungsprozesse.
 
-Im Kern der transferaktiven [[Kompetenzentwicklung]] steht die Idee, dass Lernende nicht nur passiv [[Epistemosphäre|Wissen]] aufnehmen und assimilieren sowie im Prozessverlauf akkommodieren, sondern durch Interaktion, Reflexion und Kooperation aktiv in die Wissensgenerierung und -weitergabe eingebunden sind. Es umfasst die folgenden Schlüsselprozesse:
+Im Kern der transferaktiven [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]] steht die Idee, dass Lernende nicht nur passiv [[Epistemosphäre|Wissen]] aufnehmen und assimilieren sowie im Prozessverlauf akkommodieren, sondern durch Interaktion, Reflexion und Kooperation aktiv in die Wissensgenerierung und -weitergabe eingebunden sind. Es umfasst die folgenden Schlüsselprozesse:
 
 1. **Transformation**: Die passive Aufnahme von [[Epistemosphäre|Wissen]] durch individuelle Lernprozesse, wie das Lesen, Zuhören oder Beobachten von Inhalten, ähnlich der biologischen Aufnahme von genetischem Material aus der Umwelt.
    
