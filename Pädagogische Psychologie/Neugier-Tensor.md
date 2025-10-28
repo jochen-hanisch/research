@@ -1,10 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Neugier-Tensor
+Repository: 
 created: 2024-10-05
 updated: 2024-12-03
 publish: true
-publishd: 
 tags:
   - "#Neugier"
   - "#Bildungsraum"
@@ -14,10 +14,11 @@ tags:
   - "#Neugier-Tensor"
   - "#Lernlandschaft"
   - "#Motivationsdynamik"
+published: []
 project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 05.10.2024 | updated 03.12.2024 | [[Hinweise]]
+created: 05.10.2024 | updated 03.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # 1 Definition
 

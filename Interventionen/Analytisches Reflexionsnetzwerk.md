@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch
 title: "Dreidimensionales Reflexionsnetzwerk zur Analyse professionellen Handelns in Ausbildung und Prüfung: Ein Marker-basiertes Modell zur Verbindung von Handlungskontext, Reflexionsdimension und Zeitverlauf"
-project: Interventionen
+Repository: 
 created: 2025-06-07
 updated: 2025-06-07
 publish: true
@@ -19,11 +19,12 @@ tags:
   - lernprozess
   - modellierung
   - qualitativ
-publishd: 2025-06-07
+published: 2025-06-07
+project: Interventionen
 GPT: true
 ---
 
-created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: 7.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
+created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: 7.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
 
 **Dreidimensionales Reflexionsnetzwerk zur Analyse professionellen Handelns in Ausbildung, Prüfung und Tätigkeit**
 _Ein Marker-basiertes Modell zur Verbindung von Handlungskontext, Reflexionsdimension und Zeitverlauf_
@@ -138,14 +139,14 @@ Beispielhafte Marker:
 
 Nach Prüfungsende wird das Markerprotokoll als Grundlage für das Reflexionsgespräch genutzt. Die Auswertung erfolgt nicht linear, sondern entlang thematischer Achsen: „Wie wurde Wirkung wahrgenommen und kommuniziert?“ oder „Wo blieb Zielorientierung unklar?“ So entsteht ein dialogischer Raum jenseits von „richtig/falsch“, aber mit Bezug zur Leistung.
 
-### Beispiel 5: Fieldsupervision in der Berufspraxis
+### Beispiel 5: Einsatzsupervision in der Berufspraxis
 
-Ein bereits examinierter Notfallsanitäter wird im Rahmen einer Feldsupervision durch eine erfahrene Kollegin begleitet. Während eines psychiatrischen Einsatzes übernimmt er zügig die Gesprächsführung, ohne jedoch vorher Zielklärung im Team herzustellen. Nach dem Einsatz reflektieren beide gemeinsam, unterstützt durch eine digitale Markerstruktur, die die Supervisierende live mitgeführt hat:
+Ein bereits examinierter Notfallsanitäter wird im Rahmen einer [[Einsatzsupervision]] durch eine erfahrene Kollegin begleitet. Während eines psychiatrischen Einsatzes übernimmt er zügig die Gesprächsführung, ohne jedoch vorher Zielklärung im Team herzustellen. Nach dem Einsatz reflektieren beide gemeinsam, unterstützt durch eine digitale Markerstruktur, die die Supervisierende live mitgeführt hat:
 
 - `[Kommunikation im Team] / [F1 Ziel] / [Min 01:00]`: „Ziel der Maßnahme nicht verbalisiert – Wirkung auf Kolleg:innen unklar“  
 - `[Patienteninteraktion] / [F6 Verhalten] / [Min 05:30]`: „Sprache beruhigend – Körpersprache konfrontativ“
 
-Die Fieldsupervision nutzt das ARN, um berufliche Routinen sichtbar zu machen und zu hinterfragen. Ziel ist keine Bewertung, sondern eine Öffnung reflexiver Räume – kollegial, theoriegeleitet, und auf professionelle Weiterentwicklung hin ausgerichtet.
+Die [[Einsatzsupervision]] nutzt das ARN, um berufliche Routinen sichtbar zu machen und zu hinterfragen. Ziel ist keine Bewertung, sondern eine Öffnung reflexiver Räume, also kollegial, theoriegeleitet und auf professionelle Weiterentwicklung hin ausgerichtet.
 
 ## 2.6 Mathematische Modellierung bzw. qualitative und quantitative Herleitung
 
@@ -162,7 +163,7 @@ Das Analytische Reflexionsnetzwerk (ARN) beruht auf der Grundannahme, dass päda
 Die formal beschreibbare Grundstruktur eines Markers $m$ ist:
 
 $$
-m = (h, r, t)
+m = (h, r, t) \tag{1}
 $$
 
 mit:
@@ -182,7 +183,7 @@ $$
 Eine Sammlung von $n$ Markern bildet die Grundlage für die qualitative Analyse eines Einsatzes oder eines Szenarios. Die gesamte Beobachtungsstruktur $M$ wird als Menge von Markern dargestellt:
 
 $$
-M = \{m_1, m_2, \dots, m_n\}
+M = \{m_1, m_2, \dots, m_n\} \tag{2}
 $$
 
 Die qualitative Auswertung dieser Markermenge basiert nicht auf statistischen Häufigkeiten, sondern auf der Analyse ihrer relationalen Konfiguration. Entscheidend ist dabei nicht allein die Anzahl gesetzter Marker, sondern deren **Verteilung, Wiederkehr, Auslassung oder Korrelation** in bestimmten Handlungsfeldern und Reflexionsachsen.
@@ -207,7 +208,7 @@ Das Analytische Reflexionsnetzwerk (ARN) erzeugt eine strukturierte Datenbasis, 
 Ausgangspunkt ist die bereits definierte Markermenge:
 
 $$
-M = \{m_1, m_2, \dots, m_n\}, \quad m_i = (h_i, r_i, t_i)
+M = \{m_1, m_2, \dots, m_n\}, \quad m_i = (h_i, r_i, t_i) \tag {3}
 $$
 
 Diese Menge kann entlang verschiedener Dimensionen **statistisch deskriptiv und explorativ** ausgewertet werden:
@@ -217,7 +218,7 @@ Diese Menge kann entlang verschiedener Dimensionen **statistisch deskriptiv und 
 Für jede Kombination von Handlungsfeld $h$ und Reflexionsdimension $r$ kann die absolute Häufigkeit berechnet werden:
 
 $$
-f(h, r) = \left| \{ m \in M \mid m = (h, r, t), \; t \in \mathbb{R}^+ \} \right|
+f(h, r) = \left| \{ m \in M \mid m = (h, r, t), \; t \in \mathbb{R}^+ \} \right| \tag{4}
 $$
 
 Diese Funktion $f(h, r)$ ergibt eine **2-dimensionale Kontingenzmatrix**, die z. B. als Heatmap dargestellt werden kann. Bereiche hoher Frequenz weisen auf **Beobachtungsschwerpunkte**, solche mit Nullfrequenz auf **blinde Flecken** hin.
@@ -227,7 +228,7 @@ Diese Funktion $f(h, r)$ ergibt eine **2-dimensionale Kontingenzmatrix**, die z.
 Für die Analyse kritischer Phasen kann die Zeitachse in Intervalle $\Delta t$ unterteilt werden. Die Markerfrequenz in einem Zeitintervall $I_k = [t_k, t_{k+1})$ ergibt sich zu:
 
 $$
-f_t(I_k) = \left| \{ m \in M \mid t_k \leq t_m < t_{k+1} \} \right|
+f_t(I_k) = \left| \{ m \in M \mid t_k \leq t_m < t_{k+1} \} \right| \tag{5}
 $$
 
 Diese Funktion lässt sich als Zeitreihe visualisieren. Peaks deuten auf **Verdichtungen von Handlungs- oder Reflexionsereignissen**, Plateaus auf ruhige oder unreflektierte Phasen.
@@ -237,7 +238,7 @@ Diese Funktion lässt sich als Zeitreihe visualisieren. Peaks deuten auf **Verdi
 Aus der Menge $M$ lässt sich eine multidimensionale Punktwolke im Raum $H \times R \times T$ erzeugen. Die Distanzfunktion
 
 $$
-d(m_i, m_j) = \alpha \cdot \delta_H(h_i, h_j) + \beta \cdot \delta_R(r_i, r_j) + \gamma \cdot |t_i - t_j|
+d(m_i, m_j) = \alpha \cdot \delta_H(h_i, h_j) + \beta \cdot \delta_R(r_i, r_j) + \gamma \cdot |t_i - t_j| \tag{6}
 $$
 
 mit $\alpha, \beta, \gamma \in \mathbb{R}$ (gewichtende Faktoren) erlaubt die Bestimmung von **thematischen oder zeitlichen Clustern**. Ähnlichkeitsanalysen (z. B. durch hierarchisches Clustering oder k-Means) ermöglichen Rückschlüsse auf **wiederkehrende Handlungsmuster**, **typische Reflexionsprofile** oder **abweichende Verläufe**.
@@ -247,13 +248,13 @@ mit $\alpha, \beta, \gamma \in \mathbb{R}$ (gewichtende Faktoren) erlaubt die Be
 Zur Messung der Veränderung über Zeit oder zwischen Gruppen kann z. B. die Effektstärke $d$ nach Cohen berechnet werden:
 
 $$
-d = \frac{M_1 - M_2}{SD_{\text{pooled}}}
+d = \frac{M_1 - M_2}{SD_{\text{pooled}}} \tag{7}
 $$
 
 Dabei sind $M_1, M_2$ die Mittelwerte (z. B. der Anzahl von $F_4$-Markern in zwei Ausbildungsgruppen) und $SD_{\text{pooled}}$ die gepoolte Standardabweichung:
 
 $$
-SD_{\text{pooled}} = \sqrt{ \frac{(n_1 - 1) \cdot SD_1^2 + (n_2 - 1) \cdot SD_2^2}{n_1 + n_2 - 2} }
+SD_{\text{pooled}} = \sqrt{ \frac{(n_1 - 1) \cdot SD_1^2 + (n_2 - 1) \cdot SD_2^2}{n_1 + n_2 - 2} } \tag{8}
 $$
 
 Eine Effektstärke $d > 0{,}8$ deutet auf einen **starken Effekt** der Intervention (z. B. Markertraining, strukturierte Debriefingmethodik).
@@ -277,7 +278,7 @@ Das Netzwerk aus Markern $m = (h, r, t)$ lässt sich als **Tensorraum dritter Or
 Formal entsteht ein dreidimensionaler Erkenntnisraum:
 
 $$
-\mathcal{M} : H \times R \times T \rightarrow \mathbb{B}
+\mathcal{M} : H \times R \times T \rightarrow \mathbb{B} \tag{9}
 $$
 
 mit $\mathbb{B}$ als boolescher oder kategorialer Wert (z. B. Marker gesetzt: ja/nein, Markerkommentar vorhanden etc.). Dieser Raum ist nicht ontisch gegeben, sondern durch Beobachtung und Codierung erzeugt. Die Konstruktion des Markerraums ist somit selbst ein Akt professioneller Reflexion und nicht von dieser zu trennen.

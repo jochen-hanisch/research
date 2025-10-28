@@ -1,11 +1,10 @@
 ---
-title: "Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy"
 author: Jochen Hanisch
+title: "Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy"
+Repository: 
 created: 2025-01-26
 updated: 2025-01-26
 publish: true
-GPT: true
-published: 2025-01-26
 tags:
   - Systemtheorie
   - Emergenz
@@ -13,18 +12,20 @@ tags:
   - Selbstorganisation
   - Interdisziplinarität
   - Dynamische
-  - Systeme
+  - [[Systeme]]
   - Nichtlinearität
   - Schwellenwerte
   - Mensch-KI-Interaktion
   - Normen
   - Schwarmintelligenz
+published: 2025-01-26
+GPT: true
 status: draft
 ---
 
 **Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy**
 
-created: 26.1.2025 | updated: 26.1.2025 | published: 26.1.2025 | [[Hinweise]]
+created: 26.1.2025 | updated: 26.1.2025 | published: 26.1.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Einleitung
 
@@ -32,7 +33,7 @@ Emergenz ist ein zentraler Begriff in der Systemtheorie, der die Entstehung qual
 
 # 1 Definition
 
-Emergenz bezeichnet die Operation, bei der in einem System durch die dynamische Interaktion seiner Komponenten qualitativ neue Eigenschaften, Strukturen oder Verhaltensweisen entstehen, die nicht vollständig auf die Einzelteile reduzierbar sind. Diese neuen Eigenschaften können durch mathematische Modelle beschrieben und analysiert werden, die die systemischen Bedingungen und Schwellenwerte identifizieren, unter denen Emergenz auftritt. Sie ist charakteristisch für hierarchisch organisierte, dynamische und offene Systeme und spiegelt die Fähigkeit dieser Systeme wider, komplexe Ganzheiten zu bilden.
+Emergenz bezeichnet die Operation, bei der in einem System durch die dynamische Interaktion seiner Komponenten qualitativ neue Eigenschaften, Strukturen oder Verhaltensweisen entstehen, die nicht vollständig auf die Einzelteile reduzierbar sind. Diese neuen Eigenschaften können durch mathematische Modelle beschrieben und analysiert werden, die die systemischen Bedingungen und Schwellenwerte identifizieren, unter denen Emergenz auftritt. Sie ist charakteristisch für hierarchisch organisierte, dynamische und offene [[Systeme]] und spiegelt die Fähigkeit dieser [[Systeme]] wider, komplexe Ganzheiten zu bilden.
 
 1. Begriffseinordnung
 - **„Emergenz bezeichnet die Operation“**:
@@ -75,12 +76,12 @@ Emergenz bezeichnet die Operation, bei der in einem System durch die dynamische 
     - **Konfiguration:** Abhängigkeit von den Eigenschaften des Systems und der Art der Wechselwirkungen.
 
 9. Systemtyp
-- **„charakteristisch für hierarchisch organisierte, dynamische und offene Systeme“**:
+- **„charakteristisch für hierarchisch organisierte, dynamische und offene [[Systeme]]“**:
     - **Hierarchie:** Notwendigkeit einer Organisation, bei der höhere Ebenen aus Interaktionen auf niedrigeren Ebenen entstehen.
-    - **Offenheit:** Systeme sind nicht geschlossen, sondern stehen im Austausch mit ihrer Umwelt.
+    - **Offenheit:** [[Systeme]] sind nicht geschlossen, sondern stehen im Austausch mit ihrer Umwelt.
 
 10. Funktion
-- **„spiegelt die Fähigkeit dieser Systeme wider, komplexe Ganzheiten zu bilden“**:
+- **„spiegelt die Fähigkeit dieser [[Systeme]] wider, komplexe Ganzheiten zu bilden“**:
     - **Funktionalität:** Emergenz zeigt die Fähigkeit eines Systems, neue Strukturen oder Prozesse zu entwickeln.
     - **Komplexität:** Ziel ist die Erhöhung der Systemkomplexität und Anpassungsfähigkeit.
 
@@ -96,11 +97,11 @@ In der Philosophie des 19. Jahrhunderts tauchte der Begriff der Emergenz erstmal
 
 ## 2.2 Systemtheorie und Kybernetik
 
-Ludwig von Bertalanffy, einer der Begründer der modernen Systemtheorie, legte mit seinem Werk *General System Theory* (1968) eine umfassende Grundlage für das Verständnis von Emergenz. Er betrachtete Systeme als hierarchisch organisiert, wobei jede Ebene emergente Eigenschaften aufweist, die aus den Wechselwirkungen der darunterliegenden Ebene entstehen. 
+Ludwig von Bertalanffy, einer der Begründer der modernen Systemtheorie, legte mit seinem Werk *General System Theory* (1968) eine umfassende Grundlage für das Verständnis von Emergenz. Er betrachtete [[Systeme]] als hierarchisch organisiert, wobei jede Ebene emergente Eigenschaften aufweist, die aus den Wechselwirkungen der darunterliegenden Ebene entstehen. 
 
-Bertalanffy beschrieb Emergenz als Phänomen, das nicht durch eine einfache Summierung der Bestandteile erklärt werden kann, sondern durch die spezifische Organisation und Interaktion dieser Bestandteile entsteht. Er betonte die Bedeutung von Selbstorganisation, die Systemen ermöglicht, stabile Strukturen zu entwickeln, die gleichzeitig adaptiv und dynamisch sind. Diese Sichtweise ermöglichte, Phänomene wie biologische Evolution, ökologische Systeme und soziale Strukturen zu analysieren.
+Bertalanffy beschrieb Emergenz als Phänomen, das nicht durch eine einfache Summierung der Bestandteile erklärt werden kann, sondern durch die spezifische Organisation und Interaktion dieser Bestandteile entsteht. Er betonte die Bedeutung von Selbstorganisation, die Systemen ermöglicht, stabile Strukturen zu entwickeln, die gleichzeitig adaptiv und dynamisch sind. Diese Sichtweise ermöglichte, Phänomene wie biologische Evolution, ökologische [[Systeme]] und soziale Strukturen zu analysieren.
 
-Ein zentraler Beitrag Bertalanffys war die mathematische Beschreibung solcher Prozesse. Er führte Konzepte wie Nichtlinearität und Rückkopplung ein, um die Dynamik emergenter Systeme formal zu modellieren. Diese Ansätze legten den Grundstein für viele spätere Entwicklungen in der Kybernetik und Komplexitätsforschung (von Bertalanffy, 1968).
+Ein zentraler Beitrag Bertalanffys war die mathematische Beschreibung solcher Prozesse. Er führte Konzepte wie Nichtlinearität und Rückkopplung ein, um die Dynamik emergenter [[Systeme]] formal zu modellieren. Diese Ansätze legten den Grundstein für viele spätere Entwicklungen in der Kybernetik und Komplexitätsforschung (von Bertalanffy, 1968).
 
 Heinz von Foerster interpretierte Bertalanffys Ansatz weiter, indem er den Fokus auf rekursive Prozesse und Rückkopplungsschleifen legte. Von Foersters Perspektive hebt die Rolle des Beobachters als zentralen Faktor hervor, da dieser die emergenten Eigenschaften erkennt und kontextualisiert. Diese Sichtweise ist jedoch nicht ohne Einschränkungen. Die Fokussierung auf die Beobachterperspektive wird kritisiert, da sie die objektive Existenz emergenter Phänomene einschränkt und zu einer Engführung führen kann. Emergenz entsteht nicht erst durch die Wahrnehmung des Beobachters, sondern durch die dynamischen Interaktionen im System selbst. Diese Prozesse sind unabhängig vom Beobachter, der lediglich eine interpretative Rolle einnimmt.
 
@@ -124,7 +125,7 @@ Mathematische Modelle beschreiben die Bedingungen, unter denen Emergenz auftritt
 
 Während der Entwicklung der Definition von Emergenz wurde deutlich, dass Schwellenwerte eine zentrale Rolle in der Beschreibung und Operationalisierung emergenter Prozesse spielen. Schwellenwerte markieren die kritischen Punkte in einem System, bei denen qualitative Veränderungen auftreten und emergente Phänomene entstehen können. Diese Erkenntnis ergab sich aus der Analyse der Definition und der Diskussion darüber, wie dynamische Interaktionen in Systemen zu neuen Eigenschaften führen (*Scheffer et al., 2001*; *Kauffman, 1993*).
 
-Die Schwellenwerte stammen aus der Dynamik der Systeme selbst und sind oft kontextspezifisch. Sie können durch empirische Beobachtungen, mathematische Modelle oder experimentelle Untersuchungen identifiziert werden. In verschiedenen Disziplinen zeigen sich Schwellenwerte in spezifischen Formen:
+Die Schwellenwerte stammen aus der Dynamik der [[Systeme]] selbst und sind oft kontextspezifisch. Sie können durch empirische Beobachtungen, mathematische Modelle oder experimentelle Untersuchungen identifiziert werden. In verschiedenen Disziplinen zeigen sich Schwellenwerte in spezifischen Formen:
 
 - **Physik:** Kritische Temperaturen oder Drücke, bei denen Phasenübergänge stattfinden, wie beim Übergang von flüssig zu gasförmig (Stanley, 1971).
 - **Biologie:** Mindestdichte von Populationen, die notwendig ist, um kollektives Verhalten wie Schwarmintelligenz zu erzeugen (Couzin & Krause, 2003).
@@ -133,7 +134,7 @@ Die Schwellenwerte stammen aus der Dynamik der Systeme selbst und sind oft konte
 
 Die Diskussion über Schwellenwerte zeigte, dass sie eine wichtige Verbindung zwischen der abstrakten Theorie von Emergenz und deren konkreten Anwendungen darstellen. Sie sind messbare, oft mathematisch beschreibbare Parameter, die als Grundlage für die wissenschaftliche Untersuchung von Emergenz dienen. 
 
-Indem Schwellenwerte als Schlüsselkonzept in der Definition von Emergenz verankert wurden, wurde die Definition nicht nur präziser, sondern auch anschlussfähig für disziplinübergreifende Forschung und Modellierung. Diese Erkenntnis unterstreicht die Bedeutung von Schwellenwerten als unverzichtbares Element in der Theorie und Praxis emergenter Systeme.
+Indem Schwellenwerte als Schlüsselkonzept in der Definition von Emergenz verankert wurden, wurde die Definition nicht nur präziser, sondern auch anschlussfähig für disziplinübergreifende Forschung und Modellierung. Diese Erkenntnis unterstreicht die Bedeutung von Schwellenwerten als unverzichtbares Element in der Theorie und Praxis emergenter [[Systeme]].
 
 ## 2.6 Beispiele
 
@@ -145,11 +146,11 @@ Indem Schwellenwerte als Schlüsselkonzept in der Definition von Emergenz verank
 
 # 3 Folgerungen
 
-Emergenz erklärt, wie komplexe Systeme durch Interaktion und Selbstorganisation neue Eigenschaften hervorbringen können. Dies hat weitreichende Implikationen für die Modellierung dynamischer Systeme in Wissenschaft und Technik. Beispielsweise bietet Emergenz eine Grundlage für das Verständnis von künstlicher Intelligenz und komplexen adaptiven Systemen.
+Emergenz erklärt, wie komplexe [[Systeme]] durch Interaktion und Selbstorganisation neue Eigenschaften hervorbringen können. Dies hat weitreichende Implikationen für die Modellierung dynamischer [[Systeme]] in Wissenschaft und Technik. Beispielsweise bietet Emergenz eine Grundlage für das Verständnis von künstlicher Intelligenz und komplexen adaptiven Systemen.
 
 # 4 Implikationen
 
-Emergenz fordert klassische reduktionistische Ansätze heraus und erfordert interdisziplinäre Ansätze in Forschung und Praxis. In der Bildung könnte das Verständnis emergenter Prozesse zu neuen Lehrmethoden führen, die stärker auf Selbstorganisation und Reflexion setzen. In der Technik erlaubt die Berücksichtigung emergenter Eigenschaften die Entwicklung robuster, adaptiver Systeme.
+Emergenz fordert klassische reduktionistische Ansätze heraus und erfordert interdisziplinäre Ansätze in Forschung und Praxis. In der Bildung könnte das Verständnis emergenter Prozesse zu neuen Lehrmethoden führen, die stärker auf Selbstorganisation und [[Reflexion]] setzen. In der Technik erlaubt die Berücksichtigung emergenter Eigenschaften die Entwicklung robuster, adaptiver [[Systeme]].
 
 # 5 Kritik
 
@@ -157,7 +158,7 @@ Ein Kritikpunkt ist, dass Emergenz oft phänomenologisch beschrieben wird und kl
 
 # 6 Zusammenfassung
 
-Emergenz beschreibt die Entstehung neuer Eigenschaften durch die Interaktion von Komponenten in einem System. Sie ist charakteristisch für komplexe, dynamische und offene Systeme und hat weitreichende Implikationen für Wissenschaft und Praxis. Diese Definition ist bewusst allgemein gehalten, um eine breite Anschlussfähigkeit für disziplinübergreifende Forschung zu gewährleisten. Sie stellt einen ersten Aufschlag einer positiv-formulierten Definition dar, die als Grundlage für weitere disziplinäre Operationalisierungen dient. Zukünftige Arbeiten können darauf aufbauen, um die Bedingungen, Mechanismen und Anwendungsfelder emergenter Phänomene genauer zu erforschen.
+Emergenz beschreibt die Entstehung neuer Eigenschaften durch die Interaktion von Komponenten in einem System. Sie ist charakteristisch für komplexe, dynamische und offene [[Systeme]] und hat weitreichende Implikationen für Wissenschaft und Praxis. Diese Definition ist bewusst allgemein gehalten, um eine breite Anschlussfähigkeit für disziplinübergreifende Forschung zu gewährleisten. Sie stellt einen ersten Aufschlag einer positiv-formulierten Definition dar, die als Grundlage für weitere disziplinäre Operationalisierungen dient. Zukünftige Arbeiten können darauf aufbauen, um die Bedingungen, Mechanismen und Anwendungsfelder emergenter Phänomene genauer zu erforschen.
 
 # Quelle(n)
 

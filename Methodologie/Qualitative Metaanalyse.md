@@ -1,21 +1,23 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Qualitative Metaanalyse
+Repository: 
 created: 2002-10-02
 updated: ""
-due: ""
+publish: false
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
   - "#Bildungsforschung"
   - "#eLearning"
   - "#Metaanalyse"
+published: 
+due: ""
 project: Wirkgefüge im digitalen Bildungsraum
 type:
   - Methodische Notiz
 priority: hoch
 status: open
-publish: false
 task: Ergänzung und Erweiterung der bestehenden Notiz zur qualitativen Metaanalyse unter Einbeziehung spezifischer methodischer Herausforderungen und empirischer Studien.
 ---
 # 1 Definition

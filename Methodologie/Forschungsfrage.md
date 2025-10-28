@@ -1,8 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Forschungsfrage und Operationalisierung
+Repository: 
 created: 2024-10-02
 updated: 2024-10-02
+publish: false
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -13,11 +15,11 @@ tags:
   - "#Forschungsdesign"
   - "#Operationalisierung"
   - Empirie
+published: 
 project: Wirkgefüge im digitalen Bildungsraum
 type:
   - Methodische Notiz
 status: in-progress
-publish: false
 ---
 
 # 1 Syntax

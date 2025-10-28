@@ -19,7 +19,7 @@ GPT: false
 
 **Studiendesign Untersuchung der Universalität der Grundsymbole**
 
-created: 21.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 17.7.2025 | [publishd](https://zenodo.org/records/15999670): 17.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 21.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 17.7.2025 | [publishd](https://zenodo.org/records/15999670): 17.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # 1 Forschungsziel
 

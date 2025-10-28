@@ -1,11 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Wirkungsraum
-project: 
+Repository: 
 created: 2024-09-27
 updated: 2024-12-10
 publish: false
-publishd: 2024-11-26
 tags:
   - Begriff
   - Definition
@@ -16,10 +15,12 @@ tags:
   - Forschung
   - Bildungswissenschaft
   - Wirkungsraum
+published: 2024-11-26
+project: []
 status: published
 ---
 
-created: 27.09.2024 | updated: 26.11.2024 | published: 26.11.2024 | [[Hinweise]]
+created: 27.09.2024 | updated: 26.11.2024 | published: 26.11.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # 1 Definition
 

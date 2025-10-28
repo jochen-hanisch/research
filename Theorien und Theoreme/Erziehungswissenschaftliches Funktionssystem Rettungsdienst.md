@@ -1,16 +1,17 @@
 ---
 author: Jochen Hanisch
 title: Rettungsdienst als Funktionssystem - eine erziehungswissenschaftliche Grundlegung pädiatrischer Versorgung
-project: Theorien und Theoreme
-tags: 
+Repository: 
 created: 2025-08-18
 updated: 2025-08-18
 publish: false
-publishd: ""
+tags: []
+published: ""
+project: Theorien und Theoreme
 GPT: false
 ---
 
-created: 18.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 18.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Rettungsdienst als Funktionssystem - eine erziehungswissenschaftliche Grundlegung pädiatrischer Versorgung**
 

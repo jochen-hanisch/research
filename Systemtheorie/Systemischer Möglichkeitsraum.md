@@ -1,15 +1,18 @@
 ---
+author: 
 title: Stabilitätsfunktion S(c)
+Repository: 
 created: 2025-04-23
+updated: 
 publish: false
-GPT: true
 tags:
   - Begriff
   - Fibonacci
   - Systemtheorie
-  - Elementaroperationen
+  - [[Elementaroperationen]]
+published: 2025-06-17
+GPT: true
 status: post
-publishd: 2025-06-17
 ---
 
 # Einleitung
@@ -32,7 +35,7 @@ $$
 Im [[H-Fibonacci-Fraktalmodell]] (HFFM) wird der Raum $V$ operationalisiert durch:
 
 - die Simulation dynamischer Verläufe im rekursiven [[Elementarraum]],  
-- die Berechnung der **Systemintelligenz** $V(t)$ als normiertes Produkt der Elementaroperationen,  
+- die Berechnung der **Systemintelligenz** $V(t)$ als normiertes Produkt der [[Elementaroperationen]],  
 - und die Bewertung über die [[Systemische Stabilitätsfunktion]] $S(c)$ in Relation zur normierten Fibonacci-Folge $\hat{F}_n$ (Mitchell, 2009; Kellert, 1993).
 
 Die wiederholte Simulation bei Variation von $c$ ergibt eine Punktwolke im Raum $(Re(c), Im(c), S(c))$ – aus der sich topologische Regionen, Dichtekerne und Emergenzplateaus ableiten lassen (vgl. Strogatz, 2018).

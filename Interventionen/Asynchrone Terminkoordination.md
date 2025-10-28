@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Framework der asynchron-ausschlussbasierten Terminsuche
-project: Interventionen
+Repository: 
 created: 2025-08-07
 updated: 2025-08-07
 publish: false
@@ -10,11 +10,12 @@ tags:
   - Terminkoordination
   - Gruppenprozesse
   - Chatmethodik
-published: 
+published: []
+project: Interventionen
 GPT: false
 ---
 
-created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite Jochen Hanisch/Hinweise|Hinweise]]
+created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
 
 **Framework der asynchron-ausschlussbasierten Terminsuche**
 

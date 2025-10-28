@@ -5,8 +5,8 @@ Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-09-08
 updated: 2025-10-06
 publish: true
-tags:
-published:
+tags: []
+published: []
 ---
 
 created: 8.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 9.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
@@ -30,8 +30,8 @@ Die Definition umfasst folgende hypothetische Kernelemente:
 3. **Menschliche Grundbedürfnisse**  
    Nach Young und Roediger (2011) sowie Roediger (2019): Bindung, Kontrolle nach außen, Kontrolle nach innen, Selbstwerterhalt, Vermeidung von Unlust. Diese Bedürfnisse sind die Schnittstellen zwischen psychischen und sozialen Systemen.
 
-4. **Strukturelle Kopplung**  
-   Bildungswirksamkeit kann entstehen, wenn Bedürfnisse systematisch adressiert und so psychische und soziale Systeme gekoppelt werden. Dies entspricht Luhmanns Konzept der strukturellen Kopplung (Luhmann, 1984). Das hier eingeführte Kopplungsmaß ($C(\gamma)$) ist eng mit dem [[Bildungswirkfaktor]] verschränkt. Letzterer streckt sich über die Unschärferelation von $\Delta E$ und $\Delta K$ und prüft die Güte der strukturellen Kopplung, indem er die Annäherung an die Kopplungsgrenze $C(\gamma)$ abbildet.
+4. **Strukturelle Kopplung**
+   Bildungswirksamkeit kann entstehen, wenn Bedürfnisse systematisch adressiert und so psychische und soziale Systeme gekoppelt werden. Dies entspricht Luhmanns Konzept der strukturellen Kopplung (Luhmann, 1984) und baut auf dem allgemeinen [[Wirkfaktor]] auf, der Wirkprozesse systemisch ordnet. Das hier eingeführte Kopplungsmaß ($C(\gamma)$) ist eng mit dem [[Bildungswirkfaktor]] verschränkt. Letzterer streckt sich über die Unschärferelation von $\Delta E$ und $\Delta K$ und prüft die Güte der strukturellen Kopplung, indem er die Annäherung an die Kopplungsgrenze $C(\gamma)$ abbildet.
 
 5. **Effektstärken**  
    Empirische Evidenz bestätigt, dass Interventionen besonders wirksam sind, wenn sie zentrale Bedürfnisse adressieren (Hattie, 2024).
@@ -161,6 +161,16 @@ Für wissenschaftliche Referenzen empfiehlt sich die Dokumentation des Commit-Ha
 #### Nachnutzung
 
 Alle Tabellen im Anhang A referenzieren die benannten Dateien. Die in Kapitel 2 verwendeten Kennzahlen ($E_\psi$, $E_\sigma$, $b$, $\mathrm{CP}$, $Q$) sind in den Export-CSV-Dateien enthalten und können ohne erneute Berechnung für Re-Analysen, Visualisierungen oder Replikationen genutzt werden.
+
+### 2.0.5 Messlogik und Beobachtungsgrößen
+
+Die operative Spezifikation der Beobachtungsgrößen $\nu$, $\Delta E$ und $\Delta K$ sowie der daraus abgeleiteten Kopplungsindikatoren ist in [[Bildungswirkfaktor#2 Herleitung]] festgelegt. Dort wird erläutert, wie die Änderungsraten der Kompetenzentwicklung berechnet, in Simulationen abgebildet und gegen die Kopplungsgrenze $C(\gamma)$ gespiegelt werden. Für Auswertungen im Rahmen der Kopplungshypothese bedeutet das:
+
+- $\nu$ als Steigung der Kompetenzentwicklung dient als Frühindikator für Kopplungsverluste oder -gewinne; seine Berechnung folgt [[Bildungswirkfaktor#2.1 Mathematische Herleitung]] und [[Bildungswirkfaktor#2.2 Standardisierte Änderungsrate]].
+- $\Delta E$ und $\Delta K$ werden analog zu [[Bildungswirkfaktor#2.4 Systemische Verknüpfung]] erhoben und liefern gemeinsam mit $\nu$ die Messbasis, auf die sich die in diesem Dokument diskutierten Netz- und Bedürfnisgrößen beziehen.
+- Die Interpretation der Kopplungsgrenze $C(\gamma)$ und des Produkts $\Xi = \Delta E \cdot \Delta K$ bleibt unverändert; die hier vorgenommenen Analysen setzen diese Größen voraus und erweitern sie um die Bedürfnisdimensionen.
+
+Damit liegt der Schwerpunkt dieser Notiz auf der theoretischen und empirischen Einbettung der Kennzahlen, während die Messlogik transparent in [[Bildungswirkfaktor]] dokumentiert ist.
 
 ## 2.1 Effektstärken aus Hatties Metaanalyse
 
@@ -485,6 +495,14 @@ Unter den in Kapitel 2 gewählten Operationalisierungen folgt:
 
 >Bildungswirksamkeit kann dort erhöhte Wahrscheinlichkeit annehmen, wo Praktiken zugleich $E_\psi$ und $E_\sigma$ tragen und damit $b(N)$ sowie $\mathrm{CP}(N)$ über datensatzspezifische Schwellen heben. Die beobachtete Ordnung der Bedürfniscluster liefert eine konsistente, robustheitsgestützte Brückengeometrie; der Status bleibt hypothesenleitend und nichtkausal (Hattie, 2024; Luhmann, 1984; Young & Roediger, 2011).
 
+## 2.8 Dynamikmessung über den Bildungswirkfaktor
+
+Die in Abschnitt 2 hergeleitete Bedürfnisgeometrie gewinnt ihre praktische Tragweite erst durch die kontinuierliche Beobachtung der Kompetenzdynamik. Hier dient der [[Bildungswirkfaktor]] als Messinstrument, das die Steigung der Kompetenzentwicklungskurve ($\nu$) ins Zentrum stellt und damit sichtbar macht, wann strukturelle Kopplungen gelingen oder zu erodieren beginnen (vgl. [[Bildungswirkfaktor#2 Herleitung]]). Während Luhmann (1984) strukturelle Kopplung als wiederholbare Anschlusschance zwischen psychischen und sozialen Systemen bestimmt, operationalisiert der Bildungswirkfaktor diese Chance über die kombinierte Beobachtung von $\nu$, $\Delta E$ und $\Delta K$. Werden Bedürfnisse wie Bindung oder Kontrollklarheit verlässlich adressiert, stabilisieren sich Entwicklungs- und Messunsicherheit; $\nu$ verläuft moderat und nähert sich der Kopplungsgrenze $C(\gamma)$, anstatt sie zu überschreiten.
+
+Metaanalytische Befunde aus Visible Learning (Hattie, 2024) und schematherapeutische Bedürfnisdimensionen (Young & Roediger, 2011) liefern dabei die empirische Folie, auf der die Kopplungshypothese getestet wird. Hohe Kopplungspotentiale in den Clustern Struktur/Kompetenz sowie Stabilität spiegeln sich in glatten $\nu$-Verläufen wider, sobald formative Diagnostik, transparente Kriterien und sichere Beziehungsmuster umgesetzt sind. Umgekehrt markieren Ausschläge des Bildungswirkfaktors jene Lernphasen, in denen Bedürfnisverletzungen auftreten oder Kommunikationsarchitekturen versagen – ein Frühwarnsystem für drohende Entkopplungen.
+
+Die Notiz [[Bildungswirkfaktor#3 Folgerungen]] fasst die Beobachtungslogik für die pädagogische Praxis zusammen und ergänzt damit die Hypothese dieser Datei. Zusammengenommen entsteht ein geschlossenes Steuerungssystem: Bedürfnisbasierte Interventionen adressieren gezielt die in Abschnitt 2 identifizierten Brücken, und die Wirkungsdiagnostik im Bildungswirkfaktor liefert Rückmeldungen, ob $\nu$, $\Delta E$ und $\Delta K$ die erwartete Balance halten. So avanciert die Kopplungshypothese von einer theoretischen Annahme zu einem handlungsleitenden Modell, das Dateninterpretation, Intervention und Evaluation miteinander verschränkt (Hattie, 2024; Young & Roediger, 2011; Luhmann, 1984).
+
 ## Anhang A: Empirische Übersichtstabellen (CSV-basiert)
 
 Die Tabellen verdichten die aus den CSV-Dateien gewonnenen Resultate und verknüpfen sie mit den entsprechenden Dateien.
@@ -520,6 +538,6 @@ Hinweis: Sämtliche Kennwerte wurden auf Basis der in Kapitel 2.4 - 2.6 beschrie
 - Young, J. E., & Roediger, E. (2011). *Schematherapie: Ein praxisorientiertes Handbuch*. Junfermann.
 - Roediger, E. (2019). *Raus aus den Lebensfallen: Ein Wegweiser für die Psychotherapie*. Springer.
 - Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). *Schema therapy: A practitioner's guide*. Guilford Press.
-- Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). Introduction to meta-analysis. Wiley.
-- Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum.
-- Hedges, L. V., & Olkin, I. (1985). Statistical methods for meta-analysis. Academic Press.
+- Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). *Introduction to meta-analysis*. Wiley.
+- Cohen, J. (1988). *Statistical power analysis for the behavioral sciences* (2nd ed.). Lawrence Erlbaum.
+- Hedges, L. V., & Olkin, I. (1985). *Statistical methods for meta-analysis*. Academic Press.

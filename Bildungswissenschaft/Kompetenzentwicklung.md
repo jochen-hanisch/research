@@ -1,11 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Was ist Kompetenzentwicklung? Eine begriffliche Klärung
-date: 2024-09-29
+Repository:
+created: 2024-09-29
 updated: 2025-08-05
 publish: false
-GPT: true
-publishd: 2025-04-26
 tags:
   - "#Adaption"
   - "#Architektur"
@@ -32,6 +31,8 @@ tags:
   - "#Transfer"
   - "#Unsicherheit"
   - "#Wirksamkeit"
+published:
+GPT: false
 status: post
 ---
 

@@ -1,16 +1,18 @@
 ---
 author: Jochen Hanisch
 title: Zeitplan Dissertation
+Repository: 
 created: 2024-11-22
 updated: 2024-11-23
+publish: false
 tags:
   - Projekt
+published: 
 project: Wirkgefüge im digitalen Bildungsraum
 type:
   - Projekt
   - Dissertation
   - Aufgabe
-publish: false
 status: In Bearbeitung
 start: 2023-10-01
 due: 2025-09-30

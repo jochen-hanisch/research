@@ -1,10 +1,10 @@
 ---
 author: Jochen Hanisch-Johannsen
-title:
+title: "Einsatzsupervision als systemische Intervention: Theorie und Praxis im Kontext kritischer Situationen von High Responsibility Teams"
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-09-14
 updated: 2025-09-16
-publish: false
+publish: true
 tags:
   - Einsatzsupervision
   - Rettungsdienst
@@ -17,10 +17,12 @@ tags:
   - Rogers
   - Heinzel
   - Hanisch
-published:
+published: 2025-09-23
 ---
 
-created: 14.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.9.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 14.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.9.2025 | [published](https://zenodo.org/records/17183877):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+
+**Einsatzsupervision als systemische Intervention: Theorie und Praxis im Kontext kritischer Situationen von High Responsibility Teams**
 
 # Einleitung
 

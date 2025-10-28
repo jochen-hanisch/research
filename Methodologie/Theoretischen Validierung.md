@@ -1,8 +1,10 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Theoretische Validierung wissenschaftlicher Modelle
+Repository: 
 created: 2024-10-05
-updated: 
+updated: []
+publish: false
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -12,10 +14,10 @@ tags:
   - "#Kognition"
   - "#Kohärenzprüfung"
   - Dissertation
+published: 
 project: Wirkgefüge im digitalen Bildungsraum
 type:
   - Methodische Notiz
-publish: false
 ---
 # 1 Definition
 

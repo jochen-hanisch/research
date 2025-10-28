@@ -1,13 +1,17 @@
 ---
+author: 
 title: Systemisch-dynamische Analyse der Kompetenzentwicklung
+Repository: 
 created: 2025-04-15
+updated: 
+publish: false
 tags:
   - Kompetenzentwicklung
   - Systemtheorie
   - Bildungswirkgefüge
   - Visualisierung
   - Spiralmodell
-publish: false
+published: 
 status: draft
 ---
 

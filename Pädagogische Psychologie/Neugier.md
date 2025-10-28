@@ -1,10 +1,10 @@
 ---
 author: Jochen Hanisch
 title: Bedürfnisse
+Repository: 
 created: 2024-10-01
 updated: 2024-11-26
 publish: true
-publishd: 
 tags:
   - Begriff
   - Definition
@@ -14,10 +14,11 @@ tags:
   - "#Kognition"
   - "#Psychologie"
   - "#Lernmotivation"
+published: []
 project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 01.10.2024 | updated: 26.11.2024 | [[Hinweise]]
+created: 01.10.2024 | updated: 26.11.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Einleitung
 
@@ -38,7 +39,7 @@ Im untersuchten Ansatz folgt Neugier dem systemtheoretischen Prinzip des **Re-En
 
 # 2 Herleitung
 
-Die Herleitung des Begriffs **Neugier** als Re-Entry-Prozess erfolgt durch die systematische Differenzierung und Integration zentraler systemtheoretischer, psychologischer und neurobiologischer Konzepte. In der Systemtheorie ist Re-Entry ein Prozess, bei dem ein autopoetisches System eine Unterscheidung wieder in sich selbst einführt und somit die Grundlage für neue Operationen schafft (Spencer Brown, 1969; Luhmann, 2000). Übertragen auf den Mechanismus der Neugier bedeutet dies, dass Neugier als innerer Antrieb zur fortlaufenden Wiedereinführung von Unterscheidungen fungiert. Ein neugiergetriebenes System führt in diesem Sinne keine bloßen Wissensansammlungen durch, sondern hinterfragt, strukturiert und erweitert seine kognitive Struktur eigenständig und zyklisch.
+Die Herleitung des Begriffs Neugier als Re-Entry-Prozess erfolgt durch die systematische Differenzierung und Integration zentraler systemtheoretischer, psychologischer und neurobiologischer Konzepte. In der Systemtheorie ist Re-Entry ein Prozess, bei dem ein autopoetisches System eine Unterscheidung wieder in sich selbst einführt und somit die Grundlage für neue Operationen schafft (Spencer Brown, 1969; Luhmann, 2000). Übertragen auf den Mechanismus der Neugier bedeutet dies, dass Neugier als innerer Antrieb zur fortlaufenden Wiedereinführung von Unterscheidungen fungiert. Ein neugiergetriebenes System führt in diesem Sinne keine bloßen Wissensansammlungen durch, sondern hinterfragt, strukturiert und erweitert seine kognitive Struktur eigenständig und zyklisch.
 
 Aus psychologischer Perspektive baut Neugier auf intrinsischen Bedürfnissen auf und wird durch Emotionen wie Freude an Neuem oder Spannung reguliert (Deci & Ryan, 1985). Diese Emotionen fördern die Wiederaufnahme der Wissenssuche und verstärken die Motivation, neue Erkenntnisse zu generieren. Neurobiologisch betrachtet ist der Reiz der Neugier an die Aktivierung des Belohnungssystems im Gehirn gekoppelt, was eine autokatalytische Wirkung erzielt: Die Befriedigung eines neugiergetriebenen Impulses führt zur Ausschüttung von Neurotransmittern wie Dopamin, die das Bedürfnis nach weiterer Erkundung verstärken (Kang et al., 2009).
 
@@ -289,7 +290,7 @@ Damit bildet die Simulation diese Definition von Neugier als Re-Entry-Prozess ni
 
 Die Simulation[^2] verdeutlicht, dass Neugier und Kompetenz nicht statische Attribute sind, sondern dynamische, sich selbst verstärkende Prozesse, die durch Re-Entry und Rückkopplung im Netzwerkmodell ständig weiterentwickelt werden. Die Nutzung der Formalnotation von Spencer Brown ermöglicht es, Neugier als autopoetischen Mechanismus zu modellieren, der unabhängig von externem Feedback als treibender Faktor im Lernprozess fungiert. 
 
-Durch die Integration rekursiver Berechnungen und Netzwerkinteraktionen zeigt die Simulation, wie [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]] als fortlaufender Prozess der Selbststrukturierung und Wissensgenerierung verstanden werden kann. Der Bildungsraum wird so zu einer Umgebung, in der Neugier durch die selbstgesteuerte, kontinuierliche Wiedereinführung von Unterscheidungen gefördert wird und die Lernenden eine autokatalytische Schleife der Kompetenzentwicklung durchlaufen.
+Durch die Integration rekursiver Berechnungen und Netzwerkinteraktionen zeigt die Simulation, wie [[Kompetenzentwicklung]] als fortlaufender Prozess der Selbststrukturierung und Wissensgenerierung verstanden werden kann. Der Bildungsraum wird so zu einer Umgebung, in der Neugier durch die selbstgesteuerte, kontinuierliche Wiedereinführung von Unterscheidungen gefördert wird und die Lernenden eine autokatalytische Schleife der Kompetenzentwicklung durchlaufen.
 
 # 4 Implikationen
 

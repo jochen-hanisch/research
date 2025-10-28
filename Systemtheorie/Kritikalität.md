@@ -1,15 +1,15 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: 
+title: []
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2024-11-25
 updated: 2025-08-22
 publish: false
-tags:
-published: 
+tags: []
+published: []
 ---
 
-created: 25.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 25.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Abstract
 
@@ -17,7 +17,7 @@ created: 25.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/res
 
 # 1 Definition
 
-Im Sinne des RIM bezeichnet Kritikalität den relationalen Bedeutungsgrad einer Ressource innerhalb eines interdependenten Systems. Sie ergibt sich nicht allein aus der Knappheit oder dem absoluten Wert einer Ressource, sondern aus der systemischen Konsequenz ihres Ausfalls oder ihrer Veränderung.
+Kritikalität bezeichnet den relationalen Bedeutungsgrad einer Ressource innerhalb eines interdependenten Systems. Sie ergibt sich nicht allein aus der Knappheit oder dem absoluten Wert einer Ressource, sondern aus der systemischen Konsequenz ihres Ausfalls oder ihrer Veränderung.
 
 Formal kann Kritikalität als Funktion zweier Faktoren verstanden werden:
 

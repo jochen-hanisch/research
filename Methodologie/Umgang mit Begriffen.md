@@ -1,11 +1,10 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: "Begriffe klären – Denken ermöglichen: Eine Handreichung für den wissenschaftlichen Sprachgebrauch in Lehre und Studium"
+Repository: 
 created: 2025-05-05
 updated: 2025-05-05
 publish: true
-GPT: false
-publishd: 
 tags:
   - Wissenschaftssprache
   - Begriffsklärung
@@ -15,13 +14,15 @@ tags:
   - Prüfungsdidaktik
   - Forschung
   - Forschungsdesign
-project: 
+published: []
+GPT: false
+project: []
 type:
   - Methodische Notiz
 status: in-progress
 ---
 
-created: 5.5.2025 | updated:5.5.2025 | publishd: 5.5.205 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 5.5.2025 | updated:5.5.2025 | publishd: 5.5.205 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 **Begriffe klären – Denken ermöglichen: Eine Handreichung für den wissenschaftlichen Sprachgebrauch in Lehre und Studium**
 

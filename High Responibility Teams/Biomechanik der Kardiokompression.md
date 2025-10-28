@@ -1,11 +1,10 @@
 ---
 author: Jochen Hanisch
 title: "Biomechanik der Kardiokompression: Eine theoretische Analyse professioneller Präzision"
-project: 
+Repository: https://git.jochen-hanisch.de/research/biomechanik
 created: 2024-11-30
 updated: 2024-12-31
 publish: true
-publishd: 2024-12-31
 tags:
   - Simulation
   - Systemtheorie
@@ -14,10 +13,12 @@ tags:
   - Kommunikation
   - Selbstorganisation
   - Reanimation
+published: 2024-12-31
+project: []
 status: review
 ---
 
-created: 30.11.2024 | [updated](https://git.jochen-hanisch.de/research/high-responibility-teams): 31.12.2024 | [publishd](https://zenodo.org/records/15856952): 31.12.2024 | [[Hinweise]]
+created: 30.11.2024 | [updated](https://git.jochen-hanisch.de/research/biomechanik): 31.12.2024 | [publishd](https://zenodo.org/records/15856952): 31.12.2024 | [[Hinweise]]
 
 # Zusammenfassung
 
