@@ -1,4 +1,6 @@
 
+## **Einleitung**
+
 Hier ist das **vollständige Codiersystem** zur Forschungsunterfrage **FU1**
 
 („Welche Akzeptanz und Nützlichkeit (Bedeutung) beschreiben Akteure im digitalen Bildungsraum der Gesundheitsberufe bei der Anwendung eines LMS?“),
@@ -8,6 +10,16 @@ basierend auf der Metaanalyse nach Mayring und den Primäranalysen aus der Datei
 ---
 
 # **Codiersystem FU1: Akzeptanz und Nützlichkeit von Learning-Management-Systemen**
+
+## **Metadaten (Mayring, Layout)**
+
+| Feld                   | Wert                    |
+| ---------------------- | ----------------------- |
+| Version                | —                       |
+| Datum                  | —                       |
+| Bearbeitung            | —                       |
+| Materialkorpus/Quellen | 58 Primäranalysen (FU1) |
+| Software               | —                       |
 
   
 
@@ -61,12 +73,6 @@ Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere
 |**6. Relevanzprüfung**|Nur Textstellen mit unmittelbarem Bezug zu wahrgenommener Bedeutung, Wirkung oder Akzeptanz des LMS werden berücksichtigt.|
 |**7. Abstraktionsregel**|Bei der Zusammenfassung werden Paraphrasen zu Abstraktionen verdichtet, die den Kategorien zugeordnet werden können.|
 |**8. Konsistenzregel**|Alle Codierungen erfolgen mit identischem Kategoriensystem über alle Quellen hinweg, um Vergleichbarkeit sicherzustellen.|
-
----
-
-## **4a. Verfahrensschritte (Mayring, Layout)**
-
-Hinweis: Darstellung der typischen Schritte ohne inhaltliche Änderung: Materialfestlegung → Paraphrase → Generalisierung → Reduktion → Kategorienentwicklung (induktiv/deduktiv) → Pilotkodierung → Revision → Hauptkodierung → Zusammenfassung.
 
 ---
 

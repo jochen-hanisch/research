@@ -1,9 +1,20 @@
+## **Einleitung**
 
 Hier ist das **vollständige Codiersystem** für FU2b, konsistent, strukturiert und methodisch anschlussfähig an die qualitative Inhaltsanalyse nach Mayring (Döring, 2023, S. 874). Die Kategorien basieren direkt auf den 27 Primäranalysen.
 
 ---
 
 # **Codiersystem FU2b**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|27 Primäranalysen (FU2b)|
+|Software|—|
 
   
 

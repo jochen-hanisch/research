@@ -1,3 +1,5 @@
+## **Einleitung**
+
 Unten erhältst Du das **vollständige, bereinigte und systematisch hergeleitete Codiersystem für FU7**, basierend **ausschließlich** auf den acht Primäranalysen aus der Datei  
 **FU7 Primäranalysen (8).md** 
 
@@ -7,6 +9,16 @@ klar strukturiert, theorieangebunden (Grounded Theory / Luhmann & Schorr), opera
 ---
 
 # **Codiersystem FU7**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|„FU7 Primäranalysen (8).md“|
+|Software|—|
 
 **„Inputs und Strategien als Erweiterung von Kausalgesetzen bei der Anwendung eines LMS im digitalen Bildungsraum der Gesundheitsberufe“**
 

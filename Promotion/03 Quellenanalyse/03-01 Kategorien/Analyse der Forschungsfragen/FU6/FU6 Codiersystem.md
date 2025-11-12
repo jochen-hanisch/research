@@ -1,3 +1,17 @@
+# **Codiersystem FU6**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|—|
+|Software|—|
+
+## **Einleitung**
+
 Hier ist ein Codiersystem, das genau auf FU6 zugeschnitten ist und zu deinen bisherigen Auswertungen (Kompetenzforschung, LMS, Gesundheitsberufe) passt.
 
 Du kannst es 1:1 für MAXQDA/Atlas.ti/Obsidian übernehmen und bei Bedarf weiter verfeinern.

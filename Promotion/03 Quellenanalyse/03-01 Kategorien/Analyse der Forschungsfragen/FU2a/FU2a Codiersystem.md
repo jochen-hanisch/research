@@ -1,3 +1,5 @@
+## **Einleitung**
+
 Unten findest Du **das vollständige Codiersystem** für FU2a – **präzise, strukturiert und unmittelbar anwendbar für Deine qualitative Inhaltsanalyse nach Mayring**.
 
 Es ist vollständig unabhängig von der Synthese formuliert, dient als eigenständige Kodiergrundlage und bildet die vier Dimensionen exakt ab.
@@ -5,6 +7,16 @@ Es ist vollständig unabhängig von der Synthese formuliert, dient als eigenstä
 ---
 
 # **Codiersystem (FU2a): Effekte der LMS-Nutzung aus Lernendensicht**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|85 Primäranalysen (FU2a)|
+|Software|—|
 
   
 

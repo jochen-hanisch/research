@@ -1,3 +1,5 @@
+## **Einleitung**
+
 Hier ist **das vollständige, für FU3 maßgeschneiderte Codiersystem**, entwickelt auf Basis der 116 Primäranalysen, der systemisch-konstruktivistischen Rahmung deines Forschungsdesigns sowie der thematischen Cluster deiner Metaanalyse.
 
   
@@ -16,6 +18,16 @@ Alle Codes enthalten:
 ---
 
 # **Codiersystem FU3**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|116 Primäranalysen (FU3)|
+|Software|—|
 
   
 

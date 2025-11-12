@@ -1,3 +1,4 @@
+## **Einleitung**
 
 Hier ist **das Codiersystem speziell für FU4a**, **ausschließlich** aus der Datei _„FU4a Primäranalysen (220).md“_rekonstruiert und darauf abgestimmt.  
 Es bildet **nur jene Kategorien ab**, die in den Primäranalysen tatsächlich vorkommen und dort als Mechanismen oder wiederkehrende inhaltliche Kategorien benannt, verschlagwortet oder begründet wurden.
@@ -7,6 +8,16 @@ Die Struktur folgt Mayring (deduktiv–induktiv), jedoch vollständig datenbasie
 ---
 
 # **Codiersystem FU4a**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|„FU4a Primäranalysen (220).md“|
+|Software|—|
 
 _(rekonstruiert ausschließlich aus den 220 Primäranalysen)_
 
