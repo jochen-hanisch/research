@@ -298,6 +298,39 @@ FU5
 
 ---
 
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout – Platzhalter)**
+
+Hinweis: Für FU5 liegen die Kategorien überwiegend narrativ vor. Diese Tabellenansicht dient als strukturierte Mayring‑Darstellung und referenziert die bestehenden Abschnitte. Zellen können bei Bedarf mit wörtlichen Auszügen aus „Definition/Indikatoren/Beispiele/Kodierregeln“ ergänzt werden.
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|Möglichkeiten: Multimediale Möglichkeiten|—|—|—|—|—|
+|Möglichkeiten: Interaktivität & Exploration|—|—|—|—|—|
+|Möglichkeiten: Kollaborative Möglichkeiten|—|—|—|—|—|
+|Möglichkeiten: Didaktische Gestaltungsspielräume|—|—|—|—|—|
+|Möglichkeiten: Learning Analytics|—|—|—|—|—|
+|Möglichkeiten: Flexibilität & Zugriff|—|—|—|—|—|
+|Möglichkeiten: Skalierbarkeit|—|—|—|—|—|
+|Grenzen: Technische Grenzen|—|—|—|—|—|
+|Grenzen: Didaktische Grenzen|—|—|—|—|—|
+|Grenzen: Personelle Grenzen|—|—|—|—|—|
+|Grenzen: Institutionelle Grenzen|—|—|—|—|—|
+|Grenzen: Pädagogische Risiken|—|—|—|—|—|
+|Kontext: Technische Bedingungen|—|—|—|—|—|
+|Kontext: Didaktische Bedingungen|—|—|—|—|—|
+|Kontext: Personelle Bedingungen|—|—|—|—|—|
+|Kontext: Organisational‑strukturelle Bedingungen|—|—|—|—|—|
+|Kontext: Kulturelle Bedingungen|—|—|—|—|—|
+|Systemische Spannungsverhältnisse (4.1–4.5)|—|—|—|—|—|
+
+---
+
 Wenn Du möchtest, kann ich als Nächstes:
 
 - **eine vollständige Codierung aller 125 Primäranalysen** (in Tabelle oder Markdown),

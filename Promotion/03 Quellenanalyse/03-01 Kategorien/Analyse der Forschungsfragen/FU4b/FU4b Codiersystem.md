@@ -144,6 +144,33 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+
+Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition“, „Kodierregel“ (als Inklusion) und Beispiele. Nicht explizit Benanntes bleibt leer („—“).
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|1.1 Navigationsklarheit|Aussagen zur Verständlichkeit, Transparenz und Orientierung im Interface.|Kodieren, wenn der Text explizit Orientierung erleichtert oder erschwert beschreibt.|—|„Die Teilnehmer*innen finden relevante Inhalte schneller.“|Kodieren, wenn der Text explizit Orientierung erleichtert oder erschwert beschreibt.|
+|1.2 Konsistenz des Interface|Wiedererkennbare Strukturen, stabile Layout‑Logiken, vertraute UI‑Elemente.|Nur kodieren, wenn Konsistenz als Merkmal oder Problempunkt genannt wird.|—|„Unterschiedliche Kursseiten verwirren …“|Nur kodieren, wenn Konsistenz als Merkmal oder Problempunkt genannt wird.|
+|1.3 Wahrnehmbare Bedienbarkeit|Sichtbarkeit von Funktionen, intuitive Klickpfade, Fehlertoleranz.|Kodieren, wenn Funktionen als leicht oder schwer erkennbar beschrieben werden.|—|„Es ist nicht sichtbar, wo Aufgaben abgegeben werden.“|Kodieren, wenn Funktionen als leicht oder schwer erkennbar beschrieben werden.|
+|2.1 Interaktivität und Aufgabenformate|Technische Interaktionen (Drag‑and‑Drop, Quiz, Voting, Foren).|Nur technische, nicht pädagogisch‑inhaltliche Interaktivität kodieren.|—|„Die Drag‑and‑Drop‑Funktion erleichtert …“|Nur technische, nicht pädagogisch‑inhaltliche Interaktivität kodieren.|
+|2.2 Feedback‑Mechanismen|Systemgeneriertes oder konfigurierbares Feedback (z. B. Auto‑Feedback).|Nur wenn Feedback technisch erzeugt oder technisch moderiert wird.|—|„Automatische Rückmeldungen reduzieren Wartezeiten.“|Nur wenn Feedback technisch erzeugt oder technisch moderiert wird.|
+|2.3 Tool‑Integration|Verbindung verschiedener Tools (Mahara, Nextcloud, LTIs).|Kodieren, wenn die Integration technische Auswirkungen hat.|—|„H5P‑Einbettungen führen … zu Ladeproblemen.“|Kodieren, wenn die Integration technische Auswirkungen hat.|
+|2.4 Assessment‑Funktionen|Technische Realisierung von Prüfungsformaten (Tests, Logfiles, Tracking).|Kodieren, wenn eine technische Funktion zur Beurteilung oder Datenerhebung beschrieben wird.|—|„Das Testmodul speichert die Bearbeitungszeit.“|Kodieren, wenn eine technische Funktion zur Beurteilung oder Datenerhebung beschrieben wird.|
+|3.1 Systemleistung und Stabilität|Ladezeiten, Serverreaktionen, Abstürze, technische Zuverlässigkeit.|Kodieren, wenn das Verhalten des Systems beschrieben wird.|—|„Bei hoher Last bricht die Seite ab.“|Kodieren, wenn das Verhalten des Systems beschrieben wird.|
+|3.2 Skalierbarkeit|Fähigkeit des Systems, wachsende Nutzer*innenzahlen oder Datenlasten zu bewältigen.|Nur kodieren, wenn Skalierung explizit thematisiert wird.|—|„Mit steigender Kurszahl wurde das System …“|Nur kodieren, wenn Skalierung explizit thematisiert wird.|
+|3.3 Interoperabilität|Technische Kompatibilität zwischen Systemen, Formaten, Geräten.|Kodieren, wenn Austauschfähigkeit oder Geräteanpassung beschrieben wird.|—|„Auf Mobilgeräten bricht das Layout ein.“|Kodieren, wenn Austauschfähigkeit oder Geräteanpassung beschrieben wird.|
+|4.1 Didaktisch tragfähige Technikelemente|Technische Entscheidungen, die didaktische Wirkungen erzeugen oder ermöglichen.|Kodieren, wenn Technik eine didaktische Funktion unterstützt/behindert.|—|„Die visuelle Segmentierung erleichtert den Lernpfad.“|Kodieren, wenn Technik eine didaktische Funktion unterstützt/behindert.|
+|4.2 Unterstützung selbstorganisierten Lernens|Technik, die Autonomie, Strukturierung, Selbststeuerung ermöglicht.|Kodieren, wenn technische Gestaltung explizit Selbstorganisation begünstigt.|—|„Dashboards helfen … den Fortschritt zu steuern.“|Kodieren, wenn technische Gestaltung explizit Selbstorganisation begünstigt.|
+|4.3 Kognitive Entlastung|Gestalterische Maßnahmen zur Reduktion extrinsischer Belastung.|Nur kodieren, wenn Gestaltung Einfluss auf mentale Belastung beschreibt.|—|„Ein einheitliches Farbschema reduziert Suchzeit.“|Nur kodieren, wenn Gestaltung Einfluss auf mentale Belastung beschreibt.|
+|4.4 Blickführung & visuelle Organisation|Gestalterische Elemente, die Aufmerksamkeit leiten.|Kodieren, wenn Blicklenkung/visueller Fokus beschrieben wird.|—|„Hervorhebungen unterstützen die Navigation.“|Kodieren, wenn Blicklenkung/visueller Fokus beschrieben wird.|
+
 Wenn Du möchtest, starte ich als nächsten Schritt die **vollständige Auswertung aller 93 Primäranalysen** nach FU4b mit diesem Codiersystem.
 
 Sobald Du „Start“ schreibst, beginne ich.

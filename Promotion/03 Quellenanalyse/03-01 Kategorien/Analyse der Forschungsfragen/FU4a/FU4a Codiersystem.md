@@ -144,6 +144,23 @@ D4 Datenbasiertes Feedback (Learning Analytics)
 
 ---
 
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+
+Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition“, „Kodierregeln“ (als Inklusion) und „Ankerbeispiele“. „Nicht codieren, wenn …/Abgrenzung“ dient als Exklusion. Nicht explizit Benanntes bleibt leer („—“).
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|A Selbstregulation & Selbststeuerung|Alle textuellen Hinweise darauf, dass Lernende ihr Lernen planen, überwachen oder regulieren – ausgelöst oder unterstützt durch LMS‑Funktionen oder LMS‑gestützte didaktische Arrangements.|Codieren, wenn SRL explizit genannt wird; Planung, Monitoring, Zielsetzung, Strategieanpassung beschrieben werden; LMS‑Funktionen als Auslöser/Unterstützer von SRL dargestellt werden.|—|„Peer Observation wirkt …“; „Fortschrittsanzeige … fördert die Selbststeuerung.“|—|
+|B Reflexion|Mechanismen, die die bewusste Auseinandersetzung mit Erfahrungen, Entscheidungen, Fehlern oder Fallbeispielen fördern.|Codieren, wenn Reflexion explizit benannt; Reflexionsaufgaben beschrieben; Reflexionsprozesse als Mechanismus der Wirkung dargestellt werden.|—|„Reflexion, Selbststeuerung und Ko‑Produktion …“|—|
+|C Ko‑Produktion & kollaboratives Lernen|Mechanismen, bei denen Lernende und Lehrende gemeinsam Inhalte, Lernprozesse oder Qualität erzeugen.|Codieren, wenn Ko‑Produktion explizit genannt; kollaborative Erzeugung von Wissen; gemeinsame problemorientierte Bearbeitung beschrieben werden.|—|„Kollaborative Aufgaben in Gruppen …“|—|
+|D Feedback|Alle Hinweise auf Rückmeldeschleifen, die das Lernverhalten oder den Lernerfolg beeinflussen.|Codieren, wenn irgendeine Form von Feedback beschrieben wird; Wirkung oder Funktion des Feedbacks thematisiert wird.|—|„Peer Feedback verbessert Selbstregulation.“|—|
+
 ## **Hauptkategorie E: Learning Analytics (LA)**
 
 **Definition:**  

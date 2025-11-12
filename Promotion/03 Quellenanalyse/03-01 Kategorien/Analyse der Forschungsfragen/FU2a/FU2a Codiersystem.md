@@ -31,6 +31,25 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 # **Hauptkategorien und Subkategorien**
 
+---
+
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+
+Hinweis: Diese Tabellenansicht referenziert wörtlich die vorhandenen Felder „Definition“, „Ankerbeispiele“ und „Kodierregeln“. Wo „Abgrenzung/Nicht codieren, wenn …“ vorliegt, dient sie als Exklusion. Nicht explizit Benanntes bleibt leer („—“).
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|Lernerleben: Motivation|Alle Aussagen, die Motivation, Engagement, Interesse oder Antrieb bei der Nutzung von LMS betreffen.|Immer codieren, wenn Motivation direkt benannt oder erkennbar impliziert wird.|—|„Ich fühle mich motivierter, wenn ich die Materialien online bearbeiten kann.“|Bei Überlappung mit Lernerfolg → Motivation primär unter Lernerleben.|
+|Lernerleben: Autonomie / Selbstbestimmung|Wahrgenommene Freiheit im Lernprozess (Flexibilität, Selbstwirksamkeit, Selbststeuerung).|Subjektive Wahrnehmung der Kontrolle → hier codieren.|Leistungsbezogene Aussagen → unter Lernerfolg.|„Ich kann mein Lernen selbst steuern.“|—|
+|Lernerleben: Usability / technische Zugänglichkeit|Wahrnehmung von Bedienbarkeit, Verständlichkeit oder technischer Qualität.|Nutzerorientierte Rückmeldungen zur Oberfläche werden hier codiert.|Nicht Leistungsbezug, nicht Zufriedenheit → weiterhin Lernerleben.|„Das System ist leicht zu bedienen.“|—|
+|Lernerleben: Soziale Einbindung|Erleben von Zusammenarbeit, Austausch, Peer‑Learning, Zugehörigkeit.|Hier codieren, wenn Fokus auf sozialem Kontakt/Teams.|—|„Die Gruppenarbeiten fördern unser Zusammengehörigkeitsgefühl.“|—|
+
   
 
 ## **1. Lernerleben**
