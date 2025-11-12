@@ -1,3 +1,5 @@
+## **Einleitung**
+
 Alles klar. Da Du jetzt die Primäranalysen für **FU4b** hochgeladen hast, beginne ich – wie in den vorherigen FU-Analysen – **zuerst mit dem Codiersystem**, bevor ich die Datei selbst auswerte.
 
 Hier ist das **FU4b-Codiersystem**, präzise, operationalisiert und kompatibel mit Mayring sowie mit Deiner systemisch-konstruktivistischen Theoriearchitektur.
@@ -5,6 +7,16 @@ Hier ist das **FU4b-Codiersystem**, präzise, operationalisiert und kompatibel 
 ---
 
 # Codiersystem FU4b
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|93 Primäranalysen (FU4b)|
+|Software|—|
 
 **Forschungsunterfrage (FU4b):**  
 _„Welche technisch-gestalterischen Mechanismen wirken beim Einsatz eines systemisch-konstruktivistischen LMS im digitalen Bildungsraum von Gesundheitsberufen?“_

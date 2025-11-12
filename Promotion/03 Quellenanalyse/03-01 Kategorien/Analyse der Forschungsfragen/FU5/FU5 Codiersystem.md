@@ -1,3 +1,5 @@
+## **Einleitung**
+
 Hier ist das **vollständige, systematisch hergeleitete Codiersystem für FU5**, entwickelt ausschließlich aus den 125 Primäranalysen (Datei: _FU5 Primäranalysen (125).md_) und strikt entlang Deines Metaprompts.
 
 Das Codiersystem ist **theoriegeleitet** (systemisch-konstruktivistisch, Bildungsraumtheorie, LMS-Forschung) und **datenbasiert** (induktive Ableitung der Unterkategorien aus den Primäranalysen).  
@@ -6,6 +8,16 @@ Es kann sofort für MAXQDA, Atlas.ti oder Obsidian als Markdown-Codetaxonomie ge
 ---
 
 # **Codiersystem FU5 – Möglichkeiten und Grenzen eines systemisch-konstruktivistischen LMS**
+
+## **Metadaten (Mayring, Layout)**
+
+|Feld|Wert|
+|---|---|
+|Version|—|
+|Datum|—|
+|Bearbeitung|—|
+|Materialkorpus/Quellen|„FU5 Primäranalysen (125).md“|
+|Software|—|
 
 ## **Analyseeinheiten (Mayring)**
 
