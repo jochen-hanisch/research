@@ -154,6 +154,4 @@ Die Analyse bestätigt, dass die wahrgenommene Nützlichkeit der zentrale Treibe
 
 **Gesamtrelevanz für FU1:** hoch (Ø Bewertung = 4,8 von 5)
 
-  
-
 _(Quellen: Zotero-Primäranalysen FU1, Hanisch 2022; Döring 2023)_
