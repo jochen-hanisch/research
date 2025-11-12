@@ -95,7 +95,3 @@ Das Codiersystem stützt sich auf das **Technology Acceptance Model (TAM)** nach
 Alle vier Hauptkategorien sind wechselseitig verbunden:
 
 Die **Nützlichkeit** beeinflusst **Akzeptanz**, während **Chancen** und **Herausforderungen** als Moderatoren wirken, die das Verhältnis dynamisch steuern.
-
----
-
-Möchtest Du, dass ich Dir dieses Codiersystem zusätzlich als **tabellarische Markdown- oder CSV-Datei** exportiere, damit Du es direkt in MAXQDA oder Obsidian übernehmen kannst?
