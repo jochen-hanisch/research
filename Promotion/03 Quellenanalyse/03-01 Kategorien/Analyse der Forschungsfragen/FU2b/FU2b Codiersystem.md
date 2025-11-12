@@ -128,3 +128,33 @@ Wenn du möchtest, kann ich dir noch:
 - ein **grafisches Kategoriensystem** (Mermaid),
     
 - oder eine **prüfbare Kodierleitlinie** (z. B. für Zweitcodierung) erzeugen.
+
+---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout)**
+
+Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere Zellen bedeuten: nicht explizit im Originaltext benannt.
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|Didaktisches Design / LMS‑Szenarien|Strukturmerkmale des Lehrdesigns im LMS (Strukturierung, Aufgabenformat, PBL, Simulation, Blended‑Learning‑Konfiguration).|Kodieren, wenn Lehrende beschreiben, wie das Design eines Kurses im LMS Effekte erzeugt.|—|„Blended Learning mit Supervision führt zu besseren praktischen Ergebnissen“ (Engert et al., 2025).|Kodieren, wenn Lehrende beschreiben, wie das Design eines Kurses im LMS Effekte erzeugt.|
+|Feedback‑ und Kooperationsarchitekturen|Organisierte Interaktionsformen: Peer‑Feedback, Peer‑Assessment, kollaboratives Schreiben, Storytelling, Gruppenarbeit.|Kodieren, sobald soziale Interaktionen im LMS als Wirkfaktor benannt werden.|—|„Kollaboratives Schreiben steigert Interdependenz“ (Compagnoni & Serragiotto, 2024).|Kodieren, sobald soziale Interaktionen im LMS als Wirkfaktor benannt werden.|
+|Learning Analytics / Datenpraxis|Nutzung von Dashboards, Logdaten, Risikoidentifikation, Monitoring.|Kodieren, wenn Daten aus LMS für Entscheidungen oder Anpassungen genutzt werden.|—|„Multifunktionale LA‑Interventionen verbessern Lernergebnisse“ (Pan et al., 2024).|Kodieren, wenn Daten aus LMS für Entscheidungen oder Anpassungen genutzt werden.|
+|Technische Infrastruktur / Systemqualität|Stabilität, Zugang, Bandbreite, Tool‑Kompatibilität, Geräte.|Kodieren, wenn Lehrende auf technische Bedingungen verweisen, die Effekte beeinflussen.|—|„Unzureichende Infrastruktur verursacht Belastung“ (Annemann et al., 2024).|Kodieren, wenn Lehrende auf technische Bedingungen verweisen, die Effekte beeinflussen.|
+|Lernprozesse / Kompetenzentwicklung|Wahrgenommene Effekte auf Wissen, Skills, Selbstregulation, Transfer.|Kodieren, wenn Lehrende konkrete Veränderungen bei Lernenden durch das LMS beschreiben.|—|„Microlearning erhöht VC‑Kompetenzen signifikant“ (Liew et al., 2023).|Kodieren, wenn Lehrende konkrete Veränderungen bei Lernenden durch das LMS beschreiben.|
+|Soziale Interaktion / Interdependenz / Teamkognition|Kooperation, Verantwortungsübernahme, Peer‑Dynamiken.|Kodieren, wenn soziale Prozesse als Effekte beschrieben werden.|—|„Peer‑Feedback korreliert mit höherer Leistung“ (Viberg et al., 2024).|Kodieren, wenn soziale Prozesse als Effekte beschrieben werden.|
+|Motivation / Selbstwirksamkeit der Lernenden|Auswirkungen auf Engagement, Aktivität, Motivation.|Kodieren, wenn Lehrende Motivation als Wirkung eines LMS‑Settings einstufen.|—|„E‑Portfolios fördern Reflexion und Eigenverantwortung“ (Gittinger & Eckenbach, 2024).|Kodieren, wenn Lehrende Motivation als Wirkung eines LMS‑Settings einstufen.|
+|Beanspruchung, Technostress, Belastung|Psychische, zeitliche oder technische Belastungen durch LMS.|Kodieren, wenn Belastung als Effekt oder Nebenwirkung benannt wird.|—|„Techno‑overload führt zu Burnout‑Risiko“ (Bail et al., 2024).|Kodieren, wenn Belastung als Effekt oder Nebenwirkung benannt wird.|
+|Haltung, Motivation, Erwartungen|Einstellungen, Selbstwirksamkeit, Offenheit, Pygmalion‑Effekte.|Kodieren, wenn persönliche Einstellung oder Erwartungsdynamik thematisiert wird.|—|„Erwartungen der Studierenden beeinflussen Emotionen der Lehrenden“ (Hackbart & Thies, 2024).|Kodieren, wenn persönliche Einstellung oder Erwartungsdynamik thematisiert wird.|
+|Technisch‑didaktische Kompetenzen / TPACK|Fähigkeit, Technologie, Didaktik und Fachlichkeit zu verknüpfen.|Kodieren, wenn Lehrende techn.-didaktische Fähigkeiten als Wirkfaktor benennen.|—|„Fortbildungen mit TPACK‑Bezug führen zu höherer Kompetenz und Qualität“ (Runge et al., 2024).|Kodieren, wenn Lehrende techn.-didaktische Fähigkeiten als Wirkfaktor benennen.|
+|Rollenverständnis / Rollenwandel|Verschiebung vom Instrukteur zur Lernbegleitung, Feedbackdesigner_in, Dateninterpret_in.|Kodieren, wenn die Selbstbeschreibung oder Rolle des Lehrenden im Fokus steht.|—|„Lehrende gestalten kooperative Lernprozesse statt Inhalte zu vermitteln“ (DPBL‑Studien).|Kodieren, wenn die Selbstbeschreibung oder Rolle des Lehrenden im Fokus steht.|
+|Unterstützungsstrukturen / Fortbildung / Coaching|Fortbildungen, Support, kollegiale Netzwerke, IT‑Support.|Kodieren, wenn organisationale Unterstützung als Ermöglichungsfaktor erscheint.|—|„Coach‑unterstützte Trainings steigern Completion und Lernleistung“ (Mathur et al., 2023).|Kodieren, wenn organisationale Unterstützung als Ermöglichungsfaktor erscheint.|
+|Arbeitsbedingungen / zeitliche Ressourcen|Freiräume, Workload, digitale Mehrbelastung.|Kodieren, wenn Arbeitsorganisation oder Belastung als Kontextfaktor auftaucht.|—|„Erhöhte Anforderungen durch Online‑Lernen führen zu Erschöpfung“ (Richards & Thompson, 2023).|Kodieren, wenn Arbeitsorganisation oder Belastung als Kontextfaktor auftaucht.|
+|Organisationskultur / Führung|Haltung der Leitung, kollegiale Unterstützung, Fehlerkultur.|Kodieren, wenn Kultur‑ oder Führungsaspekte Effekte beeinflussen.|—|„Offenes Kollegium und Schulleitung reduzieren Beanspruchung“ (Annemann et al., 2024).|Kodieren, wenn Kultur‑ oder Führungsaspekte Effekte beeinflussen.|
+
+
+---
+
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)

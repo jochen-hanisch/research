@@ -36,6 +36,19 @@ Hinweis: Siehe „Kodierregeln (übergreifend) – Regel 2: Einheit der Analyse�
 
 ---
 
+## **3a. 6‑Spalten‑Kategorienansicht (Mayring, Layout)**
+
+Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere Zellen bedeuten: nicht explizit im Originaltext benannt.
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|Akzeptanz|Grad der Zustimmung, des Vertrauens und der Bereitschaft zur Nutzung eines LMS durch Akteur*innen im digitalen Bildungsraum.|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|—|„Computervertrautheit und soziale Normen beeinflussen die Einstellung positiv.“|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|
+|Nützlichkeit|Wahrgenommener funktionaler, didaktischer oder organisatorischer Nutzen eines LMS für Lern- und Lehrprozesse.|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|—|„Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|
+|Herausforderungen|Faktoren, die Akzeptanz oder Nützlichkeit hemmen oder die Nutzung einschränken.|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|—|„Selbstwirksamkeit und Computerangst beeinflussen die Nutzung negativ.“|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|
+|Chancen|Potenziale und förderliche Bedingungen für die Steigerung von Akzeptanz und Nützlichkeit.|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|—|„Eye-Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|
+
+---
+
 ## **4. Kodierregeln (übergreifend)**
 
 |**Regel**|**Beschreibung**|
@@ -48,6 +61,12 @@ Hinweis: Siehe „Kodierregeln (übergreifend) – Regel 2: Einheit der Analyse�
 |**6. Relevanzprüfung**|Nur Textstellen mit unmittelbarem Bezug zu wahrgenommener Bedeutung, Wirkung oder Akzeptanz des LMS werden berücksichtigt.|
 |**7. Abstraktionsregel**|Bei der Zusammenfassung werden Paraphrasen zu Abstraktionen verdichtet, die den Kategorien zugeordnet werden können.|
 |**8. Konsistenzregel**|Alle Codierungen erfolgen mit identischem Kategoriensystem über alle Quellen hinweg, um Vergleichbarkeit sicherzustellen.|
+
+---
+
+## **4a. Verfahrensschritte (Mayring, Layout)**
+
+Hinweis: Darstellung der typischen Schritte ohne inhaltliche Änderung: Materialfestlegung → Paraphrase → Generalisierung → Reduktion → Kategorienentwicklung (induktiv/deduktiv) → Pilotkodierung → Revision → Hauptkodierung → Zusammenfassung.
 
 ---
 
@@ -101,3 +120,9 @@ Das Codiersystem stützt sich auf das **Technology Acceptance Model (TAM)** nach
 Alle vier Hauptkategorien sind wechselseitig verbunden:
 
 Die **Nützlichkeit** beeinflusst **Akzeptanz**, während **Chancen** und **Herausforderungen** als Moderatoren wirken, die das Verhältnis dynamisch steuern.
+
+---
+
+## **9. Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)

@@ -119,4 +119,21 @@ B-Codes markieren Kontextfaktoren, die erklären, warum F-Elemente (LMS-Funktion
 
 ---
 
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout – Platzhalter)**
+
+Hinweis: Für FU6 liegen viele Inhalte bereits in Tabellenform (K/F/E/B). Diese Ansicht bietet das einheitliche 6‑Spalten‑Raster und kann mit wörtlichen Auszügen aus den vorhandenen Tabellen befüllt werden.
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|K – Kompetenzbegriff (K‑FACH, K‑HAND, K‑SOZ, K‑SELBST, K‑DIGI, K‑BERUF)|—|—|—|—|—|
+|F – Kompetenzfördernde LMS‑Elemente (F‑INT, F‑SIM, F‑KOLL, F‑FB, F‑PORT, F‑ANALYT, F‑ORG)|—|—|—|—|—|
+|E – Evaluation/Kompetenznachweise (E‑TEST, E‑SIMPERF, E‑PORTBEW, E‑SELF, E‑NUTZ, E‑MIX)|—|—|—|—|—|
+|B – Bedingungen (B‑TECH, B‑DIDAKT, B‑ORG, B‑LEHR, B‑LEARN, B‑KULT)|—|—|—|—|—|
+
 Wenn du möchtest, kann ich dir im nächsten Schritt eine kurze Obsidian-Vorlage (Markdown) für dieses Codierschema bauen, die du direkt als eigene „Codebook“-Notiz in dein Projekt einhängst.

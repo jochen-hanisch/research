@@ -31,6 +31,12 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
+## **Reliabilität und Revision (Mayring)**
+
+Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
 # **Hauptkategorie A: Didaktisches Design**
 
   
@@ -63,6 +69,17 @@ Nicht codieren, wenn Aussagen rein organisatorisch (z. B. Kursstruktur) oder rei
     
 
 ---
+
+## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+
+Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition“, „Abgrenzung“ (als Exklusion) und „Ankerbeispiele“. Nicht explizit Benanntes bleibt leer („—“).
+
+|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
+|---|---|---|---|---|---|
+|A1 Lernaktivitäten und Lernaufgaben|Aussagen zur Struktur und Gestaltung handlungsorientierter Lernaktivitäten im LMS (z. B. Aufgabenketten, Lernpfade, Szenarien).|—|Nicht codieren, wenn Aussagen rein organisatorisch (z. B. Kursstruktur) oder rein technologisch (z. B. Toolbeschreibung) sind.|„strukturierte Lernpfade, kollaborative Aufgaben, praxisnahe Szenarien“|—|
+|A2 Feedback und Prüfungsdesign|Aussagen zu Online‑Feedbackmechanismen, Prüfungsformen, Quiz, Kriterien, Rubrics, formative und summative Diagnostik.|—|Nicht codieren, wenn Feedback lediglich als technische „Funktion“ beschrieben wird.|„Quiz mit unmittelbarem Feedback …“|—|
+|A3 Motivation, Unterstützung, ARCS/Multimedia‑Lernen|Hinweise auf motivationale Gestaltung, kognitive Unterstützung, ARCS‑Modell, multimedia‑psychologische Prinzipien.|—|Nicht codieren, wenn Motivation nur implizit vermutet wird.|„Adaptives, ARCS‑gestütztes Kursdesign …“|—|
+|A4 Konstruktivistische und kollaborative Lernarrangements|Aussagen zur Förderung sozialer Interaktion, gemeinsamen Wissensaufbaus, Peer‑Feedback, Gruppenarbeit.|—|Nicht codieren, wenn Kollaboration rein technisch beschrieben wird (→ Systemfunktionalität).|„Kollaboratives Lernen über Lehrlabor³‑Strukturen“|—|
 
 ## **A2 Feedback und Prüfungsdesign**
 
