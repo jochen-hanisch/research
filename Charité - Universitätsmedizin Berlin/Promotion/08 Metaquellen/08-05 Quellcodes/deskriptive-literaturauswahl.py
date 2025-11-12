@@ -3,14 +3,44 @@
 # ===============================
 
 # --- System- und Modul-Imports ---
+import os
+import sys
+from pathlib import Path
 import numpy as np
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from datetime import date
 from scipy.stats.mstats import winsorize
 from scipy.stats import iqr
-import os
 import subprocess
+
+def _ensure_ci_template_path():
+    """Sucht das lokale CI-Paket und hängt es an sys.path."""
+    env_path = os.environ.get("CI_TEMPLATE_PATH")
+    if env_path and env_path not in sys.path:
+        sys.path.append(env_path)
+        return
+    base_dir = Path(__file__).resolve().parent
+    search_roots = [base_dir] + list(base_dir.parents)
+    for root in search_roots:
+        candidates = [
+            root / "ci_template",
+            root / "CI" / "ci_template",
+            root / "Jochen-Hanisch" / "CI" / "ci_template",
+        ]
+        for candidate in candidates:
+            if (candidate / "__init__.py").exists():
+                package_root = candidate.parent
+            elif (candidate / "ci_template" / "__init__.py").exists():
+                package_root = candidate
+            else:
+                continue
+            package_root_str = str(package_root)
+            if package_root_str not in sys.path:
+                sys.path.append(package_root_str)
+            return
+
+
+_ensure_ci_template_path()
 
 # --- CI-Template & Konfiguration ---
 from ci_template.plotly_template import (
@@ -29,7 +59,7 @@ from config_deskriptive_literaturauswahl import (
 
 # --- Initialisierung ---
 os.system('cls' if os.name == 'nt' else 'clear')
-set_theme(theme)
+set_theme(theme, preserve_effects=True)
 colors = get_colors()
 current_date = date.today().isoformat()
 

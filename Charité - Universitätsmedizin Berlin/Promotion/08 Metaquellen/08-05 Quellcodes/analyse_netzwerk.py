@@ -2,12 +2,40 @@
 from config_netzwerk import theme, export_fig_visual, bib_filename
 
 import os
+import sys
+from pathlib import Path
 
 # Clear the terminal
 os.system('cls' if os.name == 'nt' else 'clear')
 
-import sys
-sys.path.append('/Users/jochenhanisch-johannsen/Documents/scripte/ci_template')
+def _ensure_ci_template_path():
+    """Sucht das lokale CI-Paket und hängt es an sys.path."""
+    env_path = os.environ.get("CI_TEMPLATE_PATH")
+    if env_path and env_path not in sys.path:
+        sys.path.append(env_path)
+        return
+    base_dir = Path(__file__).resolve().parent
+    search_roots = [base_dir] + list(base_dir.parents)
+    for root in search_roots:
+        candidates = [
+            root / "ci_template",
+            root / "CI" / "ci_template",
+            root / "Jochen-Hanisch" / "CI" / "ci_template",
+        ]
+        for candidate in candidates:
+            if (candidate / "__init__.py").exists():
+                package_root = candidate.parent
+            elif (candidate / "ci_template" / "__init__.py").exists():
+                package_root = candidate
+            else:
+                continue
+            package_root_str = str(package_root)
+            if package_root_str not in sys.path:
+                sys.path.append(package_root_str)
+            return
+
+
+_ensure_ci_template_path()
 
 import bibtexparser
 import pandas as pd
@@ -28,7 +56,7 @@ import subprocess
 
 # Template
 from ci_template import plotly_template
-plotly_template.set_theme(theme)
+plotly_template.set_theme(theme, preserve_effects=True)
 pd.set_option('display.max_columns', None)
 pd.set_option('future.no_silent_downcasting', True)
 

@@ -1,4 +1,6 @@
 import os
+import sys
+from pathlib import Path
 
 # Neue Exportfunktion: HTML in /tmp speichern, per SCP übertragen, PNG lokal speichern
 def export_figure(fig, name, export_flag_html, export_flag_png):
@@ -58,6 +60,40 @@ from config_korrelation import (
 # Terminal leeren
 os.system('cls' if os.name == 'nt' else 'clear')
 
+def _ensure_ci_template_path():
+    """Sucht das lokale CI-Paket und hängt es an sys.path.
+
+    Reihenfolge:
+    1) Umgebungsvariable CI_TEMPLATE_PATH (falls gesetzt)
+    2) Heuristische Suche relativ zum Dateipfad
+    """
+    env_path = os.environ.get("CI_TEMPLATE_PATH")
+    if env_path and env_path not in sys.path:
+        sys.path.append(env_path)
+        return
+    base_dir = Path(__file__).resolve().parent
+    search_roots = [base_dir] + list(base_dir.parents)
+    for root in search_roots:
+        candidates = [
+            root / "ci_template",
+            root / "CI" / "ci_template",
+            root / "Jochen-Hanisch" / "CI" / "ci_template",
+        ]
+        for candidate in candidates:
+            if (candidate / "__init__.py").exists():
+                package_root = candidate.parent
+            elif (candidate / "ci_template" / "__init__.py").exists():
+                package_root = candidate
+            else:
+                continue
+            package_root_str = str(package_root)
+            if package_root_str not in sys.path:
+                sys.path.append(package_root_str)
+            return
+
+
+_ensure_ci_template_path()
+
 from ci_template import plotly_template
 from datetime import datetime
 import bibtexparser
@@ -74,11 +110,9 @@ from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
-from sklearn.metrics import silhouette_score
 
 # Visualization
 import plotly.express as px
-import matplotlib.pyplot as plt
 
 # Debugging and Output
 from tabulate import tabulate
@@ -108,7 +142,7 @@ with open(bib_path, encoding='utf-8') as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
 
 # Template aktivieren und Farben/Styles setzen
-plotly_template.set_theme(theme)
+plotly_template.set_theme(theme, preserve_effects=True)
 from ci_template.plotly_template import get_colors, get_plot_styles, get_standard_layout
 colors = get_colors()
 plot_styles = get_plot_styles()
