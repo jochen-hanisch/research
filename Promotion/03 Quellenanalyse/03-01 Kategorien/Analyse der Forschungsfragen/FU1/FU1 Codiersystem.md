@@ -19,7 +19,13 @@ Das Codiersystem dient der systematischen und transparenten Auswertung von Texts
 
 ---
 
-## **2. Hauptkategorien und Definitionen**
+## **2. Analyseeinheiten (Mayring)**
+
+Hinweis: Siehe „Kodierregeln (übergreifend) – Regel 2: Einheit der Analyse“.
+
+---
+
+## **3. Hauptkategorien und Definitionen**
 
 |**Kategorie**|**Definition**|**Subkategorien**|**Ankerbeispiel**|**Kodierregel**|
 |---|---|---|---|---|
@@ -30,7 +36,7 @@ Das Codiersystem dient der systematischen und transparenten Auswertung von Texts
 
 ---
 
-## **3. Kodierregeln (übergreifend)**
+## **4. Kodierregeln (übergreifend)**
 
 |**Regel**|**Beschreibung**|
 |---|---|
@@ -45,7 +51,7 @@ Das Codiersystem dient der systematischen und transparenten Auswertung von Texts
 
 ---
 
-## **4. Struktur der Auswertung**
+## **5. Struktur der Auswertung**
 
 1. **Textdurchlauf 1:** Paraphrasierung relevanter Textstellen (Reduktion auf Kernaussage).
     
@@ -60,7 +66,7 @@ Das Codiersystem dient der systematischen und transparenten Auswertung von Texts
 
 ---
 
-## **5. Theoretische Verankerung**
+## **6. Theoretische Verankerung**
 
   
 
@@ -68,7 +74,7 @@ Das Codiersystem stützt sich auf das **Technology Acceptance Model (TAM)** nach
 
 ---
 
-## **6. Beispiel für die Codematrix (Kurzversion)**
+## **7. Beispiel für die Codematrix (Kurzversion)**
 
 |**Segment-ID**|**Quelle**|**Kategorie**|**Subkategorie**|**Ankerzitat (gekürzt)**|**Interpretation / Kommentar**|
 |---|---|---|---|---|---|
@@ -79,7 +85,7 @@ Das Codiersystem stützt sich auf das **Technology Acceptance Model (TAM)** nach
 
 ---
 
-## **7. Zusammenfassung der Codierlogik**
+## **8. Zusammenfassung der Codierlogik**
 
 - **Akzeptanz** = emotionale und kognitive Zustimmung zur Nutzung.
     
