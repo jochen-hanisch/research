@@ -1,0 +1,121 @@
+Bitte diesen Prompt für diesen Chat nehmen, ich gebe eine Export-Datei aller Primäranalysen, die Du nach diesem Prompt bearbeitest:
+# Vorarbeiten
+
+**Aufgabe:**  
+Analysiere die bereitgestellte Datei systematisch und integriere alle enthaltenen Analysen zur Beantwortung der Forschungsfrage (FU).
+
+**Forschungsfrage (FU7):**
+
+„Welche Inputs und Strategien werden als Erweiterung von Kausalgesetzen bei der Anwendung eines Learning-Management-Systems durch Akteure im digitalen Bildungsraum von Gesundheitsberufen abgeleitet?“
+
+Methodik:
+
+1. **Einfall und Theorieentwicklung (Glaser & Strauss, 1967):**
+    
+    - Anwendung eines iterativen Prozesses, um Inputs und Strategien zu identifizieren, die auf die Wirkung des LMS einwirken.
+    - Nutzung der Grounded-Theory-Methodologie, um Kausalzusammenhänge und Wirkungsbeziehungen systematisch zu entwickeln.
+2. **Berücksichtigung des Technologiedefizits (Luhmann & Schorr, 1982):**
+    
+    - Analyse, wie technologische Inputs durch soziale und organisatorische Strategien ergänzt werden müssen, um wirksame Ergebnisse im digitalen Bildungsraum zu erzielen.
+    - Identifikation von Grenzen der Technologie sowie notwendiger nicht-technologischer Ergänzungen.
+
+Erwartete Leistung:
+
+Entwickle ein kausales Ursachen-Wirkungs-Theoriemodell (Kausalpläne), das Inputs, Strategien und Wirkungen im Zusammenhang mit der LMS-Anwendung darstellt. Formuliere auf dieser Basis fundierte Handlungsempfehlungen für den digitalen Bildungsraum der Gesundheitsberufe.
+
+
+Darstellung der Ergebnisse:
+
+ 1. **Anzahl der analysierten Studien:**
+
+- Gib die Gesamtzahl der analysierten und in die Theorieentwicklung einbezogenen Studien an.
+
+ 2. **Entwicklung des Kausalmodells:**
+
+- Beschreibe Inputs (z. B. technologische, didaktische, soziale Faktoren) und Strategien (z. B. Anpassung an Bedürfnisse der Akteure, organisatorische Prozesse).
+- Zeige, wie diese Inputs und Strategien in kausalen Beziehungen zu den Wirkungen des LMS stehen.
+- Visualisiere diese Zusammenhänge in einem Kausalplan, der die Ursachen-Wirkungs-Beziehungen verdeutlicht.
+
+ 3. **Integration relevanter Begriffe und Theorien:**
+
+- Erkläre Begriffe wie „Technologiedefizit“, „Inputs“, „Strategien“ und „Kausalgesetze“.
+- Verknüpfe die Ergebnisse mit relevanten Theorien, z. B.:
+    - **Technologiedefizit (Luhmann & Schorr, 1982):** Ergänzung technischer Systeme durch soziale und organisatorische Inputs.
+    - **Systemtheorie:** Darstellung komplexer Wechselwirkungen in Bildungs- und Technologiesystemen.
+
+ 4. **Tabellarische Darstellung der Inputs, Strategien und Wirkungen:**
+
+- Zeige die Inputs, Strategien und ihre kausalen Wirkungen in einer übersichtlichen Tabelle.
+
+|**Input**|**Strategie**|**Wirkung**|**Kausale Beziehung**|
+|---|---|---|---|
+|Technologische Funktionen|Anpassung der LMS-Funktionen an spezifische Bildungsbedürfnisse|Effektiver Kompetenzerwerb|Technologie als Grundlage, ergänzt durch didaktische Anpassung.|
+|Didaktische Inputs|Entwicklung kollaborativer und interaktiver Lerninhalte|Stärkung der sozialen Interaktion|Soziale Strategien fördern die Nutzung und Akzeptanz des LMS.|
+|Organisatorische Prozesse|Unterstützung durch Schulungen und begleitende Maßnahmen|Höhere Akzeptanz und Motivation|Schulung gleicht technologische Schwächen aus.|
+
+ 5. **Kritische Reflexion und Ausblick:**
+
+- Reflektiere die Aussagekraft und die Limitationen des entwickelten Kausalmodells.
+- Zeige, wie die Handlungsempfehlungen zur Verbesserung der LMS-Nutzung beitragen können und welche weiteren Forschungsschritte notwendig sind.
+
+
+Zusatz:
+
+Betone, wie die Kausalpläne nicht nur technische, sondern auch soziale und organisatorische Inputs als integralen Bestandteil berücksichtigen, um die Wirksamkeit des LMS im Bildungsraum der Gesundheitsberufe zu maximieren.
+
+# Metaprompt
+
+**Ziel:**  
+Führe eine strukturierte Metaanalyse durch, die zentrale Erkenntnisse aus den bereitgestellten Analysen aggregiert und auf die folgende Forschungsunterfrage abstimmt:
+
+**Forschungsunterfrage (FU7):**  
+_„Welche Inputs (z. B. Ressourcen, Rahmenbedingungen) und Strategien (z. B. didaktische, technologische, organisationale) werden im digitalen Bildungsraum der Gesundheitsberufe bei der Nutzung eines Learning-Management-Systems (LMS) beschrieben?“_
+
+**Anweisungen für die Durchführung:**
+
+1. **Themenkategorisierung:**  
+   - Ordne die analysierten Inhalte folgenden Themenfeldern zu:
+     - **Didaktische Strategien:** z. B. Blended Learning, flipped classroom, adaptives Lernen.
+     - **Technologische Strategien:** z. B. Tool-Integration, Interoperabilität, Skalierbarkeit.
+     - **Organisationale Strategien:** z. B. Schulungsprogramme, Change Management, Supportstrukturen.
+     - **Inputs:** Ressourcen (zeitlich, personell, finanziell), technische Ausstattung, institutionelle Vorgaben.
+     - **Rahmenbedingungen:** rechtliche, ethische, kulturelle und infrastrukturelle Voraussetzungen.
+
+2. **Synthese der Ergebnisse:**  
+   - Fasse wiederkehrende Muster und erfolgskritische Faktoren für die erfolgreiche LMS-Nutzung zusammen.
+   - Hebe innovative oder besonders wirkungsvolle Strategien hervor.
+   - Identifiziere Wechselwirkungen zwischen Inputfaktoren und Implementierungsstrategien.
+
+3. **Diskussion und Bewertung:**  
+   - Diskutiere die Bedeutung der genannten Inputs und Strategien im Kontext der Gesundheitsberufe.
+   - Reflektiere kritische Punkte, z. B. Abhängigkeit von Ressourcen oder mangelnde Strategieumsetzung.
+   - Bewerte den Innovationsgrad und die Skalierbarkeit der beschriebenen Modelle.
+
+4. **Theoretischer und praktischer Beitrag:**  
+   - Formuliere konkrete Handlungsempfehlungen für Bildungsinstitutionen im Gesundheitswesen.
+   - Identifiziere Gelingensbedingungen für nachhaltige LMS-Integration.
+   - Benenne Forschungslücken und Perspektiven zur strategischen Weiterentwicklung.
+
+**Output-Struktur:**  
+1. **Einleitung**  
+   - Ziel und Kontext der Metaanalyse  
+   - Überblick über das untersuchte Material
+
+2. **Themenkategorisierung**  
+   - Systematische Darstellung nach Inputs und Strategien
+
+3. **Synthese und Diskussion**  
+   - Zentrale Befunde und deren Bedeutung für die LMS-Nutzung  
+   - Kritische Reflexion und Kontextualisierung
+
+4. **Praktische Empfehlungen**  
+   - Strategien für die erfolgreiche LMS-Implementierung  
+   - Empfehlungen für Inputmanagement und Rahmenbedingungen
+
+5. **Schlussfolgerung**  
+   - Zusammenfassung zentraler Erkenntnisse und Ausblick
+
+**Zusatz:**  
+Bitte gib die Anzahl der analysierten Notizen an.
+
+**Format:** Markdown
