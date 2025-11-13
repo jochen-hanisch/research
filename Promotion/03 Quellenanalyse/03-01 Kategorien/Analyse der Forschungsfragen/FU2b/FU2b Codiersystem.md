@@ -1,3 +1,14 @@
+---
+title: "Codiersystem FU2b"
+fu: FU2b
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "27 Primäranalysen (FU2b)"
+software: tbd
+---
+
 ## **Einleitung**
 
 Hier ist das **vollständige Codiersystem** für FU2b, konsistent, strukturiert und methodisch anschlussfähig an die qualitative Inhaltsanalyse nach Mayring (Döring, 2023, S. 874). Die Kategorien basieren direkt auf den 27 Primäranalysen.
@@ -6,16 +17,7 @@ Hier ist das **vollständige Codiersystem** für FU2b, konsistent, strukturiert 
 
 # **Codiersystem FU2b**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|27 Primäranalysen (FU2b)|
-|Software|—|
-
+ 
   
 
 **Forschungsunterfrage:**
@@ -47,6 +49,30 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt aus den vorhandenen Tabellen übernommen.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|Didaktisches Design / LMS‑Szenarien|Strukturmerkmale des Lehrdesigns im LMS.|Kodieren, wenn Lehrende beschreiben, wie das Design Effekte erzeugt.|„Blended Learning mit Supervision führt zu besseren praktischen Ergebnissen“|
+|Feedback- und Kooperationsarchitekturen|Organisierte Interaktionsformen.|Kodieren, sobald soziale Interaktionen im LMS als Wirkfaktor benannt werden.|„Kollaboratives Schreiben steigert Interdependenz“|
+|Learning Analytics / Datenpraxis|Nutzung von Dashboards, Logdaten, Monitoring.|Kodieren, wenn Daten aus LMS für Entscheidungen oder Anpassungen genutzt werden.|„Multifunktionale LA‑Interventionen verbessern Lernergebnisse“|
+|Technische Infrastruktur / Systemqualität|Stabilität, Zugang, Bandbreite, Tool-Kompatibilität.|Kodieren, wenn technische Bedingungen Effekte beeinflussen.|„Unzureichende Infrastruktur verursacht Belastung“|
+|Lernprozesse / Kompetenzentwicklung|Effekte auf Wissen, Skills, Selbstregulation, Transfer.|Kodieren, wenn konkrete Veränderungen bei Lernenden beschrieben werden.|„Microlearning erhöht VC‑Kompetenzen signifikant“|
+|Soziale Interaktion / Interdependenz / Teamkognition|Kooperation, Verantwortungsübernahme, Peer‑Dynamiken.|Kodieren, wenn soziale Prozesse als Effekte beschrieben werden.|„Peer‑Feedback korreliert mit höherer Leistung“|
+|Motivation / Selbstwirksamkeit der Lernenden|Auswirkungen auf Engagement, Aktivität, Motivation.|Kodieren, wenn Motivation als Wirkung eines LMS‑Settings eingestuft wird.|„E‑Portfolios fördern Reflexion und Eigenverantwortung“|
+|Beanspruchung, Technostress, Belastung|Psychische, zeitliche oder technische Belastungen.|Kodieren, wenn Belastung als Effekt oder Nebenwirkung benannt wird.|„Techno‑overload führt zu Burnout‑Risiko“|
+|Haltung, Motivation, Erwartungen|Einstellungen, Selbstwirksamkeit, Offenheit.|Kodieren, wenn persönliche Einstellung/Erwartung thematisiert wird.|„Erwartungen der Studierenden beeinflussen Emotionen der Lehrenden“|
+|Technisch-didaktische Kompetenzen / TPACK|Verknüpfung von Technologie, Didaktik und Fachlichkeit.|Kodieren, wenn techn.-didaktische Fähigkeiten als Wirkfaktor benannt werden.|„Fortbildungen mit TPACK‑Bezug führen zu höherer Kompetenz“|
+|Rollenverständnis / Rollenwandel|Vom Instrukteur zur Lernbegleitung etc.|Kodieren, wenn Rolle des Lehrenden im Fokus steht.|„Lehrende gestalten kooperative Lernprozesse“|
+|Unterstützungsstrukturen / Fortbildung / Coaching|Fortbildungen, Support, Netzwerke.|Kodieren, wenn organisationale Unterstützung erscheint.|„Coach‑unterstützte Trainings steigern Completion“|
+|Arbeitsbedingungen / zeitliche Ressourcen|Freiräume, Workload, Mehrbelastung.|Kodieren, wenn Arbeitsorganisation/Belastung Kontextfaktor ist.|„Erhöhte Anforderungen … führen zu Erschöpfung“|
+|Organisationskultur / Führung|Haltung der Leitung, kollegiale Unterstützung.|Kodieren, wenn Kultur-/Führung Effekte beeinflussen.|„Offenes Kollegium … reduzieren Beanspruchung“|
+
+---
+
+<!-- P-QIA: hidden start -->
 ## **1. Faktoren (Strukturebene)**
 
 |**Kategorie**|**Definition**|**Ankerbeispiele**|**Kodierregel**|
@@ -142,7 +168,7 @@ Wenn du möchtest, kann ich dir noch:
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
 
 Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere Zellen bedeuten: nicht explizit im Originaltext benannt.
 
@@ -169,3 +195,4 @@ Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere
 ## **Reliabilität und Revision (Mayring)**
 
 Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+<!-- P-QIA: hidden end -->

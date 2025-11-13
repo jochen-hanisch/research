@@ -1,3 +1,14 @@
+---
+title: "Codiersystem (FU2a): Effekte der LMS-Nutzung aus Lernendensicht"
+fu: FU2a
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "85 Primäranalysen (FU2a)"
+software: tbd
+---
+
 ## **Einleitung**
 
 Unten findest Du **das vollständige Codiersystem** für FU2a – **präzise, strukturiert und unmittelbar anwendbar für Deine qualitative Inhaltsanalyse nach Mayring**.
@@ -8,18 +19,7 @@ Es ist vollständig unabhängig von der Synthese formuliert, dient als eigenstä
 
 # **Codiersystem (FU2a): Effekte der LMS-Nutzung aus Lernendensicht**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|85 Primäranalysen (FU2a)|
-|Software|—|
-
-  
-
+ 
 Dieses Codiersystem basiert auf den Vorgaben der Forschungsunterfrage FU2a sowie der Analyse der 85 Primäranalysen. Es folgt der Logik der **inhaltlich-strukturierenden Inhaltsanalyse nach Mayring** mit:
 
 - klar definierten Kategorien,
@@ -41,7 +41,30 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
-# **Hauptkategorien und Subkategorien**
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt aus den Abschnitten „Definition/Ankerbeispiele/Kodierregeln“ übernommen.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|Lernerleben: Motivation|Alle Aussagen, die Motivation, Engagement, Interesse oder Antrieb betreffen.|Immer codieren, wenn Motivation direkt benannt oder impliziert wird; bei Überlappung mit Lernerfolg → Motivation unter Lernerleben.|„Ich fühle mich motivierter, wenn ich die Materialien online bearbeiten kann.“|
+|Lernerleben: Autonomie / Selbstbestimmung|Wahrgenommene Freiheit im Lernprozess (Flexibilität, Selbstwirksamkeit, Selbststeuerung).|Subjektive Wahrnehmung der Kontrolle → hier; Leistungsbezogene Aussagen → unter Lernerfolg.|„Ich kann mein Lernen selbst steuern.“|
+|Lernerleben: Usability / technische Zugänglichkeit|Wahrnehmung von Bedienbarkeit, Verständlichkeit oder technischer Qualität.|Nutzerorientierte Rückmeldungen zur Oberfläche hier; nicht Leistungsbezug → weiterhin Lernerleben.|„Das System ist leicht zu bedienen.“|
+|Lernerleben: Soziale Einbindung|Zusammenarbeit, Austausch, Peer‑Learning, Zugehörigkeit.|Fokus auf sozialem Kontakt/Gruppenarbeit/soziale Präsenz.|„Die Gruppenarbeiten fördern unser Zusammengehörigkeitsgefühl.“|
+|Lernerfolg: Kompetenzerwerb|Aussagen zu neuem Wissen, Fertigkeiten, Verständnis oder klinischem Denken.|Inhaltlicher Fokus auf Kompetenz → immer hier; Doppelcodierung mit Motivation möglich, Vorrang bei Lernerfolg.|„Ich verstehe die Fälle jetzt besser.“|
+|Lernerfolg: Lernleistung / Prüfungserfolg|Bezug auf Prüfungen, Scores, Noten, Punkte, quantitative Ergebnisse.|Jede Art von Leistungskennzahl → hier; Zufriedenheit zusätzlich unter Bewertung.|„Ich habe bessere Ergebnisse in den Prüfungen erzielt.“|
+|Lernerfolg: Anwendungstransfer|Übertragung von digital erworbenem Wissen/Fertigkeiten in klinische oder praktische Situationen.|Bezug auf reale Situationen oder Praxis → Transfer; kein Leistungsbezug → nicht Lernleistung.|„Ich kann das Gelernte jetzt im Praktikum anwenden.“|
+|Nutzungsverhalten: Nutzungsmuster / Häufigkeit|—|—|—|
+|Nutzungsverhalten: Wiederverwendung / Wiederholung|—|—|—|
+|Nutzungsverhalten: Interaktion mit Materialien/Funktionen|—|—|—|
+|Bewertung: Zufriedenheit|Übergreifende positive oder negative Urteile zum digitalen Unterricht.|Nur summative/allgemeine Bewertungen; Leistungsbezug → Lernerfolg.|„Insgesamt bin ich zufrieden.“|
+|Bewertung: Lernpräferenzen|Vergleich zwischen digitalen und analogen Formaten oder persönliche Vorlieben.|Präferenz klar erkennbar → hier; reine Usability → nicht hier.|„Ich bevorzuge Online-Lernen.“|
+|Bewertung: Technologische Offenheit / Innovationsakzeptanz|Haltung gegenüber digitalen Medien, Tools, zukünftiger Nutzung.|Zukunftsorientierte Haltung → hier; nicht auf konkrete Funktionen bezogen.|„Ich würde das LMS auch später weiter nutzen.“|
+
+---
+
+<!-- P-QIA: hidden start -->
+## **Hauptkategorien und Subkategorien**
 
 ---
 
@@ -51,7 +74,7 @@ Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und E
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
 
 Hinweis: Diese Tabellenansicht referenziert wörtlich die vorhandenen Felder „Definition“, „Ankerbeispiele“ und „Kodierregeln“. Wo „Abgrenzung/Nicht codieren, wenn …“ vorliegt, dient sie als Exklusion. Nicht explizit Benanntes bleibt leer („—“).
 
@@ -468,7 +491,7 @@ Haltung gegenüber digitalen Medien, Tools, zukünftiger Nutzung.
 
 ---
 
-# **Kodierprinzipien (übergreifend)**
+## **Kodierregeln (übergreifend)**
 
   
 
@@ -496,7 +519,7 @@ Haltung gegenüber digitalen Medien, Tools, zukünftiger Nutzung.
 
 ---
 
-# **Kurzversion (kompakt für Kodierleitfaden)**
+## **Kurzversion (kompakt für Kodierleitfaden)**
 
 - **Lernerleben:** Motivation, Autonomie, Usability, soziale Einbindung.
     
@@ -504,6 +527,7 @@ Haltung gegenüber digitalen Medien, Tools, zukünftiger Nutzung.
     
 - **Nutzungsverhalten:** Nutzungsmuster, Wiederholung, Tools.
     
+<!-- P-QIA: hidden end -->
 - **Bewertung:** Zufriedenheit, Präferenzen, technologische Offenheit.
     
 

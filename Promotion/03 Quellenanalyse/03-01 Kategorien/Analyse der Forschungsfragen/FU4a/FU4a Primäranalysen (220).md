@@ -22917,3 +22917,22 @@ Angyal argumentiert, dass die traditionelle Relationstheorie nicht ausreicht, um
     - Die Simulation wird genutzt, um die Wirksamkeit des Lernmanagementsystems (LMS) als Mittel zur Kompetenzentwicklung zu bewerten.
 
 Diese Analyse zeigt, wie die theoretischen Überlegungen von Warren Weaver auf moderne Anwendungen in der Bildung übertragen werden können, insbesondere im Hinblick auf die Modellierung und Vorhersage von Lernprozessen in digitalen Umgebungen.
+---
+title: "FU4a Primäranalysen"
+fu: FU4a
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 220
+sources_file: "FU4a Primäranalysen (220).md"
+software: tbd
+tags: [mayring, fu/FU4a, typ/primäranalyse]
+links:
+  prompt: "FU4a Prompt Sekundäranalyse.md"
+  primary: "FU4a Primäranalysen (220).md"
+  analysis: "FU4a Qualitative Inhlatsanalyse.md"
+  codebook: "FU4a Codiersystem.md"
+---
+
+Links: [[FU4a Prompt Sekundäranalyse]] · [[FU4a Qualitative Inhlatsanalyse]] · [[FU4a Codiersystem]]

@@ -10283,3 +10283,22 @@ Gesamtbewertung: 4.0
 Schlussfolgerung
 
 Die Studie zeigt, dass computergestützte Prüfungen erhebliche Vorteile bieten, aber auch große Herausforderungen mit sich bringen. Eine erfolgreiche Umsetzung erfordert eine sorgfältige Planung und die Berücksichtigung methodischer, technischer und rechtlicher Aspekte. Die Ergebnisse bieten wertvolle Einblicke und Empfehlungen für die Integration computergestützter Prüfungen in Lernmanagementsysteme.
+---
+title: "FU5 Primäranalysen"
+fu: FU5
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 125
+sources_file: "FU5 Primäranalysen (125).md"
+software: tbd
+tags: [mayring, fu/FU5, typ/primäranalyse]
+links:
+  prompt: "FU5 Prompt Sekundäranalyse.md"
+  primary: "FU5 Primäranalysen (125).md"
+  analysis: "FU5 Qualitative Inhaltsanalyse.md"
+  codebook: "FU5 Codiersystem.md"
+---
+
+Links: [[FU5 Prompt Sekundäranalyse]] · [[FU5 Qualitative Inhaltsanalyse]] · [[FU5 Codiersystem]]

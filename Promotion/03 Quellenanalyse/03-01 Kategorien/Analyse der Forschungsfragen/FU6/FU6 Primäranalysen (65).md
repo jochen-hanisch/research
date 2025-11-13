@@ -6984,3 +6984,22 @@ Der Beitrag leistet einen entscheidenden Beitrag zur Konzeptualisierung von Lehr
 * * *
 
 **APA-Referenz:**Ehlers, U.-D. (2013). *Qualitätssicherung im E-Learning: Veränderungen durch derzeitige Technologien und Konzepte.* In M. Ebner & S. Schön (Hrsg.), *Lehrbuch für Lernen und Lehren mit Technologien (L3T).* Graz: TU Graz.
+---
+title: "FU6 Primäranalysen"
+fu: FU6
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 65
+sources_file: "FU6 Primäranalysen (65).md"
+software: tbd
+tags: [mayring, fu/FU6, typ/primäranalyse]
+links:
+  prompt: "FU6 Prompt Sekundäranalyse.md"
+  primary: "FU6 Primäranalysen (65).md"
+  analysis: "FU6 Qualitative Inhaltsanalyse.md"
+  codebook: "FU6 Codiersystem.md"
+---
+
+Links: [[FU6 Prompt Sekundäranalyse]] · [[FU6 Qualitative Inhaltsanalyse]] · [[FU6 Codiersystem]]

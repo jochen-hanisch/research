@@ -2393,3 +2393,22 @@ Passendste Forschungsunterfrage:
 ### **11\. Schlussfolgerung**
 
 Die Studie von **Engert et al. (2025)** zeigt, dass **Blended Learning mit Supervision die effektivste Methode zur Vermittlung praktischer medizinischer Fertigkeiten ist**. Während digitale Inhalte eine gute theoretische Grundlage bieten, ist die **praktische Anwendung mit direkter Rückmeldung durch Lehrende unerlässlich**. Zudem sollten **individuelle Faktoren wie Geschlecht, Selbstbewertung und feinmotorische Fähigkeiten in der Lehrplanung berücksichtigt werden**.
+---
+title: "FU2b Primäranalysen"
+fu: FU2b
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 27
+sources_file: "FU2b Primäranalysen (27).md"
+software: tbd
+tags: [mayring, fu/FU2b, typ/primäranalyse]
+links:
+  prompt: "FU2b Prompt Sekundäranalyse.md"
+  primary: "FU2b Primäranalysen (27).md"
+  analysis: "FU2b Qualitative Metaanalyse.md"
+  codebook: "FU2b Codiersystem.md"
+---
+
+Links: [[FU2b Prompt Sekundäranalyse]] · [[FU2b Qualitative Metaanalyse]] · [[FU2b Codiersystem]]

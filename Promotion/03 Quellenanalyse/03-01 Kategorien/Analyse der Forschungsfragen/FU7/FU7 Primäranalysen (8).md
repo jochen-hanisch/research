@@ -1305,3 +1305,22 @@ Der OSL-Algorithmus stellt einen neuartigen Input für datengetriebenes, dynamis
 **Relevanz: 3 – Mittelmäßig relevant**  
 **Begründung**:  
 Die Studie liefert **relevante Konzepte für dynamisches, datengetriebenes Strukturlernen**, ist aber **nicht unmittelbar auf LMS oder Gesundheitsberufe bezogen**. Ihre Bedeutung liegt in der methodologischen Übertragbarkeit – etwa auf selbstadaptierende, intelligenter werdende Lernplattformen.
+---
+title: "FU7 Primäranalysen"
+fu: FU7
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 8
+sources_file: "FU7 Primäranalysen (8).md"
+software: tbd
+tags: [mayring, fu/FU7, typ/primäranalyse]
+links:
+  prompt: "FU7 Prompt Sekundäranalyse.md"
+  primary: "FU7 Primäranalysen (8).md"
+  analysis: "FU7 Qualitative Inhaltsanalyse.md"
+  codebook: "FU7 Codiersystem.md"
+---
+
+Links: [[FU7 Prompt Sekundäranalyse]] · [[FU7 Qualitative Inhaltsanalyse]] · [[FU7 Codiersystem]]

@@ -237,3 +237,22 @@ Wenn Du möchtest, formuliere ich als Nächstes:
     
 
 Sag mir einfach, welchen Schritt Du als Nächstes brauchst.
+---
+title: "FU5 Qualitative Inhaltsanalyse"
+fu: FU5
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 125
+sources_file: "FU5 Primäranalysen (125).md"
+software: tbd
+tags: [mayring, fu/FU5, typ/inhaltsanalyse]
+links:
+  prompt: "FU5 Prompt Sekundäranalyse.md"
+  primary: "FU5 Primäranalysen (125).md"
+  analysis: "FU5 Qualitative Inhaltsanalyse.md"
+  codebook: "FU5 Codiersystem.md"
+---
+
+Links: [[FU5 Prompt Sekundäranalyse]] · [[FU5 Primäranalysen (125)]] · [[FU5 Codiersystem]]

@@ -121,3 +121,22 @@ _„Welche Möglichkeiten und Grenzen beschreiben Akteur*innen im digitalen Bild
 Bitte gib die Anzahl der analysierten Notizen an.
 
 **Format:** Markdown
+---
+title: "FU5 Prompt Sekundäranalyse"
+fu: FU5
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
+sources_count: 125
+sources_file: "FU5 Primäranalysen (125).md"
+software: tbd
+tags: [mayring, fu/FU5, typ/prompt]
+links:
+  prompt: "FU5 Prompt Sekundäranalyse.md"
+  primary: "FU5 Primäranalysen (125).md"
+  analysis: "FU5 Qualitative Inhaltsanalyse.md"
+  codebook: "FU5 Codiersystem.md"
+---
+
+Links: [[FU5 Prompt Sekundäranalyse]] · [[FU5 Primäranalysen (125)]] · [[FU5 Qualitative Inhaltsanalyse]] · [[FU5 Codiersystem]]

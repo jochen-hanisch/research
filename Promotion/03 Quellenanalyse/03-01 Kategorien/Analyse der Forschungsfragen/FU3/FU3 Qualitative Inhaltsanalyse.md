@@ -349,3 +349,22 @@ Für dein Promotionsvorhaben bedeutet das: Die 116 FU3-Analysen liefern eine dic
   
 
 Wenn du möchtest, kann ich im nächsten Schritt ein explizites Codierschema für FU3 (mit Hauptkategorien, Subcodes, Definitionen und Ankerbeispielen aus den Primäranalysen) ausformulieren, das du direkt in dein Auswertungskapitel übernehmen kannst.
+---
+title: "FU3 Qualitative Inhaltsanalyse"
+fu: FU3
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 116
+sources_file: "FU3 Primäranalysen (116).md"
+software: tbd
+tags: [mayring, fu/FU3, typ/inhaltsanalyse]
+links:
+  prompt: "FU3 Prompt Sekundäranalyse.md"
+  primary: "FU3 Primäranalysen (116).md"
+  analysis: "FU3 Qualitative Inhaltsanalyse.md"
+  codebook: "FU3 Codiersystem.md"
+---
+
+Links: [[FU3 Prompt Sekundäranalyse]] · [[FU3 Primäranalysen (116)]] · [[FU3 Codiersystem]]

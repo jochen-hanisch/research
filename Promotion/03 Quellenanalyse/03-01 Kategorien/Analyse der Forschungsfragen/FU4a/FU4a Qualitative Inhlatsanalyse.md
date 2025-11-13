@@ -293,3 +293,22 @@ Wenn man ausschließlich die 220 Primäranalysen heranzieht, ergibt sich für FU
     
 
 Wenn du möchtest, kann ich im nächsten Schritt die Mechanismen direkt in deine Epistemosphären-Terminologie (z. B. Feedback/Reflexion/Re-Entry, Inversion/Re-Inversion) übersetzen – wiederum nur auf Basis der Notizen.
+---
+title: "FU4a Qualitative Inhaltsanalyse"
+fu: FU4a
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 220
+sources_file: "FU4a Primäranalysen (220).md"
+software: tbd
+tags: [mayring, fu/FU4a, typ/inhaltsanalyse]
+links:
+  prompt: "FU4a Prompt Sekundäranalyse.md"
+  primary: "FU4a Primäranalysen (220).md"
+  analysis: "FU4a Qualitative Inhlatsanalyse.md"
+  codebook: "FU4a Codiersystem.md"
+---
+
+Links: [[FU4a Prompt Sekundäranalyse]] · [[FU4a Primäranalysen (220)]] · [[FU4a Codiersystem]]

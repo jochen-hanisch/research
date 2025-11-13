@@ -263,4 +263,23 @@ Die acht analysierten Quellen bilden ein konsistentes Muster:
     
 
 Ein systemisch-konstruktivistisches LMS entsteht somit als **hybrides, adaptives Wirkgefüge**, das Lernprozesse nicht linear kausal erklärt, sondern dynamisch modelliert.
+---
+title: "FU7 Qualitative Inhaltsanalyse"
+fu: FU7
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 8
+sources_file: "FU7 Primäranalysen (8).md"
+software: tbd
+tags: [mayring, fu/FU7, typ/inhaltsanalyse]
+links:
+  prompt: "FU7 Prompt Sekundäranalyse.md"
+  primary: "FU7 Primäranalysen (8).md"
+  analysis: "FU7 Qualitative Inhaltsanalyse.md"
+  codebook: "FU7 Codiersystem.md"
+---
+
+Links: [[FU7 Prompt Sekundäranalyse]] · [[FU7 Primäranalysen (8)]] · [[FU7 Codiersystem]]
 

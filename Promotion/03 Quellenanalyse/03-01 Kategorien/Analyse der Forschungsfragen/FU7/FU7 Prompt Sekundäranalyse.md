@@ -119,3 +119,22 @@ _„Welche Inputs (z. B. Ressourcen, Rahmenbedingungen) und Strategien (z. B
 Bitte gib die Anzahl der analysierten Notizen an.
 
 **Format:** Markdown
+---
+title: "FU7 Prompt Sekundäranalyse"
+fu: FU7
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
+sources_count: 8
+sources_file: "FU7 Primäranalysen (8).md"
+software: tbd
+tags: [mayring, fu/FU7, typ/prompt]
+links:
+  prompt: "FU7 Prompt Sekundäranalyse.md"
+  primary: "FU7 Primäranalysen (8).md"
+  analysis: "FU7 Qualitative Inhaltsanalyse.md"
+  codebook: "FU7 Codiersystem.md"
+---
+
+Links: [[FU7 Prompt Sekundäranalyse]] · [[FU7 Primäranalysen (8)]] · [[FU7 Qualitative Inhaltsanalyse]] · [[FU7 Codiersystem]]

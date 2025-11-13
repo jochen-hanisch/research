@@ -1,3 +1,13 @@
+---
+title: "Codiersystem FU1: Akzeptanz und Nützlichkeit von Learning-Management-Systemen"
+fu: FU1
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "58 Primäranalysen (FU1)"
+software: tbd
+---
 
 ## **Einleitung**
 
@@ -11,18 +21,7 @@ basierend auf der Metaanalyse nach Mayring und den Primäranalysen aus der Datei
 
 # **Codiersystem FU1: Akzeptanz und Nützlichkeit von Learning-Management-Systemen**
 
-## **Metadaten (Mayring, Layout)**
-
-| Feld                   | Wert                    |
-| ---------------------- | ----------------------- |
-| Version                | —                       |
-| Datum                  | —                       |
-| Bearbeitung            | —                       |
-| Materialkorpus/Quellen | 58 Primäranalysen (FU1) |
-| Software               | —                       |
-
-  
-
+ 
 ## **1. Ziel des Codiersystems**
 
   
@@ -31,13 +30,27 @@ Das Codiersystem dient der systematischen und transparenten Auswertung von Texts
 
 ---
 
-## **2. Analyseeinheiten (Mayring)**
+## 2. Analyseeinheiten
 
 Hinweis: Siehe „Kodierregeln (übergreifend) – Regel 2: Einheit der Analyse“.
 
 ---
 
-## **3. Hauptkategorien und Definitionen**
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt ist 1:1 aus vorhandenen Abschnitten übernommen.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|Akzeptanz|Grad der Zustimmung, des Vertrauens und der Bereitschaft zur Nutzung eines LMS durch Akteur*innen im digitalen Bildungsraum.|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|„Computervertrautheit und soziale Normen beeinflussen die Einstellung positiv.“|
+|Nützlichkeit|Wahrgenommener funktionaler, didaktischer oder organisatorischer Nutzen eines LMS für Lern- und Lehrprozesse.|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|„Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“|
+|Herausforderungen|Faktoren, die Akzeptanz oder Nützlichkeit hemmen oder die Nutzung einschränken.|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|„Selbstwirksamkeit und Computerangst beeinflussen die Nutzung negativ.“|
+|Chancen|Potenziale und förderliche Bedingungen für die Steigerung von Akzeptanz und Nützlichkeit.|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|„Eye-Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“|
+
+---
+
+<!-- P-QIA: hidden start -->
+## **3. Hauptkategorien und Subkategorien**
 
 |**Kategorie**|**Definition**|**Subkategorien**|**Ankerbeispiel**|**Kodierregel**|
 |---|---|---|---|---|
@@ -48,7 +61,7 @@ Hinweis: Siehe „Kodierregeln (übergreifend) – Regel 2: Einheit der Analyse�
 
 ---
 
-## **3a. 6‑Spalten‑Kategorienansicht (Mayring, Layout)**
+## **3a. 6‑Spalten‑Kategorienansicht (Mayring)**
 
 Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere Zellen bedeuten: nicht explizit im Originaltext benannt.
 
@@ -132,3 +145,4 @@ Die **Nützlichkeit** beeinflusst **Akzeptanz**, während **Chancen** und **Hera
 ## **9. Reliabilität und Revision (Mayring)**
 
 Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
+<!-- P-QIA: hidden end -->
