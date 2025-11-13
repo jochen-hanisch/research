@@ -1,3 +1,14 @@
+---
+title: "Codiersystem FU7"
+fu: FU7
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "FU7 Primäranalysen (8).md"
+software: tbd
+---
+
 ## **Einleitung**
 
 Unten erhältst Du das **vollständige, bereinigte und systematisch hergeleitete Codiersystem für FU7**, basierend **ausschließlich** auf den acht Primäranalysen aus der Datei  
@@ -10,16 +21,7 @@ klar strukturiert, theorieangebunden (Grounded Theory / Luhmann & Schorr), opera
 
 # **Codiersystem FU7**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|„FU7 Primäranalysen (8).md“|
-|Software|—|
-
+ 
 **„Inputs und Strategien als Erweiterung von Kausalgesetzen bei der Anwendung eines LMS im digitalen Bildungsraum der Gesundheitsberufe“**
 
 ---
@@ -30,7 +32,42 @@ Hinweis: Vgl. „Kodierregeln“ (Segmentierungsregel). (Layout-Sektion, keine I
 
 ---
 
-# **1. Hauptkategorien**
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt 1:1 aus den bestehenden Tabellen.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|DI1 Aktivierende Lernmethoden|Formate, die Lernende aus der Rezeption in Handlung versetzen.|—|PBL, Jigsaw, Simulation, Case‑Study|
+|DI2 Selbststeuerung / Heutagogie|Förderung autonomer Lernprozesse, Reflexion, Selbstregulation.|—|Heutagogy‑Shift|
+|DI3 Kollaboration & Interaktion|Kooperative Lernformen, Peer‑Feedback, Gruppenarbeit.|—|Group Discussion, Microteaching|
+|DI4 Multimodale Lerninputs|Nutzung mehrerer Sinneskanäle zur Kompetenzentwicklung.|—|Multimedia, Experimente, Analogie‑Lernen|
+|TI1 KI‑Analytics & Prognosesysteme|KI‑Systeme zur Analyse/Vorhersage.|—|KI‑gestützte SWOT, Balanced Scorecard‑ML|
+|TI2 Adaptive KI‑Modelle|Systeme, die Lernpfade anpassen.|—|ISAR‑Modell|
+|TI3 Sensorik & Wearables|Echtzeitdaten für Lernen/Diagnostik.|—|w‑IoT Edge‑AI|
+|TI4 Online‑Modellierung|Fortlaufende Modellaktualisierung.|—|POD‑ESN + Kalman Filter|
+|TI5 Strukturlernen|Algorithmen lernen Kausalstrukturen.|—|OSL|
+|TI6 Interoperabilität|Kopplung heterogener Tools/Daten.|—|Multi‑Layer‑Architekturen|
+|OI1 Hybride Lehrformate|Kombination Präsenz/Online.|—|BIP (Zahnmedizin)|
+|OI2 Interprofessionalität & Internationalität|Kooperation über Berufsgruppen/Länder.|—|BIP (Europa–Südamerika)|
+|OI3 Digitaler Wandel & Change|Transformationsimpulse (Pandemie, KI).|—|Post‑pandemic evolution|
+|OI4 Systemische Infrastruktur|Strukturen für digitale Systeme.|—|Support, Schulungen, Curriculum|
+|ST1 Didaktische Aktivierung|Umsetzung aktivierender/adaptiver Muster.|—|PBL, Simulation, Reflexion|
+|ST2 Algorithmische Planung|KI‑gestützte Steuerung.|—|Strategietools|
+|ST3 Adaptive Pfadsteuerung|Realtime‑Anpassungen.|—|Augmentation/Redefinition|
+|ST4 Echtzeitintegration|Integration kontinuierlicher Daten.|—|Wearables + Edge AI|
+|ST5 Strukturadaption|Anpassung interner Struktur.|—|OSL, POD‑ESN|
+|ST6 Systemintegration|Harmonisierung von Subsystemen.|—|Multi‑Layer‑Architektur|
+|WI1 Kompetenzzuwachs|Fähigkeitserweiterung.|—|bessere Lernleistung durch HITS|
+|WI2 Personalisierung|Individuell angepasste Lernpfade.|—|Adaptive Lernunterstützung|
+|WI3 Prognosefähigkeit|Genauere Prognosen.|—|POD‑ESN, ML‑Analytics|
+|WI4 Systemrobustheit|Resilienz gegenüber Störungen.|—|Hybride Programme|
+|WI5 Interprofessionalität|Lerngewinne durch Kooperation.|—|BIP|
+
+---
+
+<!-- P-QIA: hidden start -->
+## **1. Hauptkategorien**
 
 Die Grounded-Theory-Auswertung ergibt fünf ontologische Hauptkategorien:
 
@@ -49,7 +86,7 @@ Diese fünf Hauptkategorien bilden das epistemische Wirkgefüge ab, das in allen
 
 ---
 
-# **2. Vollständiges Codiersystem (mit Definitionen & Subcodes)**
+## **2. Vollständiges Codiersystem (mit Definitionen & Subcodes)**
 
 ## **A. DIDAKTISCHE INPUTS (DI)**
 
@@ -121,7 +158,7 @@ _Beobachtbare Outcomes, z. B. Lernverhalten, Kompetenz, Systemverhalten._
 
 ---
 
-# **3. Kodierregeln**
+## **3. Kodierregeln**
 
 ### **Regel 1: Nur ein Code pro Segment (streng unizentrisch)**
 
@@ -158,7 +195,7 @@ Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und E
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
 
 Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere Zellen bedeuten: nicht explizit im Originaltext benannt.
 
@@ -191,7 +228,8 @@ Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere
 |WI5 Interprofessionalität|Lerngewinne durch multiprofessionelle Kooperation.|—|—|BIP.|—|
 
 
-# **4. Struktur des gesamten Codierbaums (kompakt)**
+## **4. Struktur des gesamten Codierbaums (kompakt)**
+<!-- P-QIA: hidden end -->
 
 ```
 FU7 Codiersystem

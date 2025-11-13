@@ -8114,3 +8114,22 @@ Die Autoren argumentieren, dass die Integration digitaler Kompetenzen und die An
 ### Schlussfolgerung
 
 Die Handreichung von Brandt und Frey (2023) zeigt, dass die digitale Transformation der medizinischen Ausbildung entscheidend für die Anpassung an moderne Technologien und die Verbesserung der Lehr- und Lernergebnisse ist. Die Integration digitaler Kompetenzen und die Anwendung evidenzbasierter didaktischer Methoden sind zentrale Elemente dieser Transformation. Die Ergebnisse bieten wertvolle Leitlinien und Empfehlungen für die zukünftige Gestaltung und Implementierung digitaler Lehrformate in der medizinischen Ausbildung.
+---
+title: "FU4b Primäranalysen"
+fu: FU4b
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 93
+sources_file: "FU4b Primäranalysen (93).md"
+software: tbd
+tags: [mayring, fu/FU4b, typ/primäranalyse]
+links:
+  prompt: "FU4b Prompt Sekundäranalyse.md"
+  primary: "FU4b Primäranalysen (93).md"
+  analysis: "FU4b Qualitative Inhaltsanalyse.md"
+  codebook: "FU4b Codiersystem.md"
+---
+
+Links: [[FU4b Prompt Sekundäranalyse]] · [[FU4b Qualitative Inhaltsanalyse]] · [[FU4b Codiersystem]]

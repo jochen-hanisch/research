@@ -1,3 +1,14 @@
+---
+title: "Codiersystem FU3"
+fu: FU3
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "116 Primäranalysen (FU3)"
+software: tbd
+---
+
 ## **Einleitung**
 
 Hier ist **das vollständige, für FU3 maßgeschneiderte Codiersystem**, entwickelt auf Basis der 116 Primäranalysen, der systemisch-konstruktivistischen Rahmung deines Forschungsdesigns sowie der thematischen Cluster deiner Metaanalyse.
@@ -19,16 +30,7 @@ Alle Codes enthalten:
 
 # **Codiersystem FU3**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|116 Primäranalysen (FU3)|
-|Software|—|
-
+ 
   
 
 **Forschungsfrage:**
@@ -43,13 +45,40 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt 1:1 aus den Abschnitten „Definition/Abgrenzung/Ankerbeispiele“ übernommen.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|A1 Lernaktivitäten und Lernaufgaben|Aussagen zur Struktur und Gestaltung handlungsorientierter Lernaktivitäten im LMS (z. B. Aufgabenketten, Lernpfade, Szenarien).|Nicht codieren, wenn Aussagen rein organisatorisch (Kursstruktur) oder rein technologisch (Toolbeschreibung) sind.|„Strukturierte Lernpfade, kollaborative Aufgaben, praxisnahe Szenarien“|
+|A2 Feedback und Prüfungsdesign|Online‑Feedbackmechanismen, Prüfungsformen, Quiz, Kriterien, Rubrics, formative/summative Diagnostik.|Nicht codieren, wenn Feedback lediglich als technische „Funktion“ beschrieben wird.|„Quiz mit unmittelbarem Feedback …“|
+|A3 Motivation, Unterstützung, ARCS/Multimedia‑Lernen|Motivationale Gestaltung, kognitive Unterstützung, ARCS, multimedia‑psychologische Prinzipien.|Nicht codieren, wenn Motivation nur implizit vermutet wird.|„Adaptives, ARCS‑gestütztes Kursdesign …“|
+|A4 Konstruktivistische und kollaborative Lernarrangements|Soziale Interaktion, gemeinsamer Wissensaufbau, Peer‑Feedback, Gruppenarbeit.|Nicht codieren, wenn Kollaboration rein technisch beschrieben wird (→ Systemfunktionalität).|„Kollaboratives Lernen über Lehrlabor³‑Strukturen“|
+|A5 Professionalisierung und didaktische Modellrahmen|—|—|—|
+|B1 Kommunikation und Kollaborationstools|—|—|—|
+|B2 Adaptivität und Personalisierung|—|—|—|
+|B3 Learning Analytics und Monitoring|—|—|—|
+|B4 Einbindung externer Tools und Ressourcen|—|—|—|
+|C1 Barrierefreiheit und WCAG‑Konformität|—|—|—|
+|C2 Usability und UI/UX‑Design|—|—|—|
+|C3 Mobilität und flexible Nutzung|—|—|—|
+|C4 Nutzerzentrierte Entwicklung / Partizipation|—|—|—|
+|D1 Lernsystemarchitektur|—|—|—|
+|D2 Interoperabilität und technische Standards|—|—|—|
+|D3 Sicherheit und Datenschutz|—|—|—|
+|D4 Systemintegration und institutionelle Einbettung|—|—|—|
+
+---
+
 ## **Reliabilität und Revision (Mayring)**
 
 Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
 
 ---
 
-# **Hauptkategorie A: Didaktisches Design**
+<!-- P-QIA: hidden start -->
+## **Hauptkategorie A: Didaktisches Design**
 
   
 
@@ -57,7 +86,7 @@ Diese Kategorie bündelt alle Aussagen, die sich auf die **pädagogische Gestalt
 
 ---
 
-## **A1 Lernaktivitäten und Lernaufgaben**
+### **A1 Lernaktivitäten und Lernaufgaben**
 
   
 
@@ -82,7 +111,7 @@ Nicht codieren, wenn Aussagen rein organisatorisch (z. B. Kursstruktur) oder rei
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
 
 Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition“, „Abgrenzung“ (als Exklusion) und „Ankerbeispiele“. Nicht explizit Benanntes bleibt leer („—“).
 
@@ -93,7 +122,7 @@ Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition�
 |A3 Motivation, Unterstützung, ARCS/Multimedia‑Lernen|Hinweise auf motivationale Gestaltung, kognitive Unterstützung, ARCS‑Modell, multimedia‑psychologische Prinzipien.|—|Nicht codieren, wenn Motivation nur implizit vermutet wird.|„Adaptives, ARCS‑gestütztes Kursdesign …“|—|
 |A4 Konstruktivistische und kollaborative Lernarrangements|Aussagen zur Förderung sozialer Interaktion, gemeinsamen Wissensaufbaus, Peer‑Feedback, Gruppenarbeit.|—|Nicht codieren, wenn Kollaboration rein technisch beschrieben wird (→ Systemfunktionalität).|„Kollaboratives Lernen über Lehrlabor³‑Strukturen“|—|
 
-## **A2 Feedback und Prüfungsdesign**
+### **A2 Feedback und Prüfungsdesign**
 
   
 
@@ -118,7 +147,7 @@ Nicht codieren, wenn Feedback lediglich als technische „Funktion“ beschriebe
 
 ---
 
-## **A3 Motivation, Unterstützung, ARCS/Multimedia-Lernen**
+### **A3 Motivation, Unterstützung, ARCS/Multimedia-Lernen**
 
   
 
@@ -141,7 +170,7 @@ Nicht codieren, wenn Motivation nur implizit vermutet wird.
 
 ---
 
-## **A4 Konstruktivistische und kollaborative Lernarrangements**
+### **A4 Konstruktivistische und kollaborative Lernarrangements**
 
   
 
@@ -189,7 +218,7 @@ Nicht codieren, wenn rein technische Standards gemeint sind.
 
 ---
 
-# **Hauptkategorie B: Systemfunktionalitäten**
+## **Hauptkategorie B: Systemfunktionalitäten**
 
   
 
@@ -295,7 +324,7 @@ Technische Architektur → Kategorie C.
 
 ---
 
-# **Hauptkategorie C: Nutzerzentrierung und Zugänglichkeit**
+## **Hauptkategorie C: Nutzerzentrierung und Zugänglichkeit**
 
   
 
@@ -395,7 +424,7 @@ Institutionelle Strategie → D4.
 
 ---
 
-# **Hauptkategorie D: Strukturelle und technische Merkmale**
+## **Hauptkategorie D: Strukturelle und technische Merkmale**
 
   
 
@@ -499,7 +528,8 @@ Partizipation → C4.
 
 ---
 
-# **Zusammenfassung der Codierlogik**
+## **Zusammenfassung der Codierlogik**
+<!-- P-QIA: hidden end -->
 
 |**Hauptkategorie**|**Fokus**|**Typische Subcodes**|
 |---|---|---|

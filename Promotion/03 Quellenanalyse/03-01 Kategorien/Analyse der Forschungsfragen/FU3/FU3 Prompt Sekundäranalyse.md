@@ -116,3 +116,22 @@ _„Welche konzeptionellen Grundlagen und spezifischen Merkmale beschreiben Akte
 Bitte nenne die Anzahl der analysierten Notizen.
 
 **Format:** Markdown
+---
+title: "FU3 Prompt Sekundäranalyse"
+fu: FU3
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
+sources_count: 116
+sources_file: "FU3 Primäranalysen (116).md"
+software: tbd
+tags: [mayring, fu/FU3, typ/prompt]
+links:
+  prompt: "FU3 Prompt Sekundäranalyse.md"
+  primary: "FU3 Primäranalysen (116).md"
+  analysis: "FU3 Qualitative Inhaltsanalyse.md"
+  codebook: "FU3 Codiersystem.md"
+---
+
+Links: [[FU3 Prompt Sekundäranalyse]] · [[FU3 Primäranalysen (116)]] · [[FU3 Qualitative Inhaltsanalyse]] · [[FU3 Codiersystem]]

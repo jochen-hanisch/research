@@ -1,3 +1,14 @@
+---
+title: "Codiersystem FU4a"
+fu: FU4a
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "FU4a Primäranalysen (220).md"
+software: tbd
+---
+
 ## **Einleitung**
 
 Hier ist **das Codiersystem speziell für FU4a**, **ausschließlich** aus der Datei _„FU4a Primäranalysen (220).md“_rekonstruiert und darauf abgestimmt.  
@@ -9,16 +20,7 @@ Die Struktur folgt Mayring (deduktiv–induktiv), jedoch vollständig datenbasie
 
 # **Codiersystem FU4a**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|„FU4a Primäranalysen (220).md“|
-|Software|—|
-
+ 
 _(rekonstruiert ausschließlich aus den 220 Primäranalysen)_
 
 ---
@@ -29,6 +31,25 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt aus den vorhandenen Abschnitten übernommen.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|A Selbstregulation & Selbststeuerung|Hinweise darauf, dass Lernende planen, überwachen, regulieren – ausgelöst/unterstützt durch LMS‑Funktionen/Arrangements.|Codieren, wenn SRL explizit; Planung/Monitoring/Zielsetzung/Strategieregulation; LMS‑Funktionen als Auslöser/Unterstützer.|„Peer Observation wirkt als Mechanismus …“; „Fortschrittsanzeige … fördert die Selbststeuerung.“|
+|B Reflexion|Bewusste Auseinandersetzung mit Erfahrungen/Entscheidungen/Fehlern/Fällen.|Codieren, wenn Reflexion explizit; Reflexionsaufgaben; Reflexionsprozesse als Wirkmechanismus.|„Reflexion, Selbststeuerung und Ko‑Produktion sind Mechanismen …“|
+|C Ko‑Produktion & kollaboratives Lernen|Gemeinsame Erzeugung von Inhalten/Prozessen/Qualität.|Codieren, wenn Ko‑Produktion explizit; kollaborative Erzeugung; gemeinsame problemorientierte Bearbeitung.|„Kollaborative Aufgaben in Gruppen erzeugen geteilte Verantwortung.“|
+|D Feedback|Rückmeldeschleifen, die Lernverhalten/Lernerfolg beeinflussen.|Codieren, wenn irgendeine Form von Feedback beschrieben; Wirkung/Funktion thematisiert.|„Peer Feedback verbessert Selbstregulation.“|
+|E Learning Analytics (LA)|—|—|—|
+|F Simulation & szenariobasiertes Lernen|—|—|—|
+|G Community, soziale Interaktion & Identität|—|—|—|
+|H Motivation & Engagement|—|—|—|
+|I Kompetenzentwicklung & Professionalisierung|—|—|—|
+
+---
+
+<!-- P-QIA: hidden start -->
 ## **Hauptkategorie A: Selbstregulation & Selbststeuerung**
 
 **Definition:**  
@@ -161,7 +182,7 @@ Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und E
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
 
 Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition“, „Kodierregeln“ (als Inklusion) und „Ankerbeispiele“. „Nicht codieren, wenn …/Abgrenzung“ dient als Exklusion. Nicht explizit Benanntes bleibt leer („—“).
 
@@ -324,7 +345,7 @@ I4 Future Skills
 
 ---
 
-# **Meta-Codierregeln**
+## **Kodierregeln (übergreifend)**
 
 1. **Eine Textstelle erhält mehrere Codes**, wenn mehrere Mechanismen gleichzeitig thematisiert werden.
     
@@ -339,7 +360,8 @@ I4 Future Skills
 
 ---
 
-# **Zusammenfassung**
+## **Zusammenfassung**
+<!-- P-QIA: hidden end -->
 
 Das Codiersystem bildet genau jene Mechanismen ab, die in den 220 Primäranalysen vorkommen:
 

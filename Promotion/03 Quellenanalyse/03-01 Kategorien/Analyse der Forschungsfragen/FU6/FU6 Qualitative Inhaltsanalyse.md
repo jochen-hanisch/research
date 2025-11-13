@@ -273,3 +273,22 @@ Forschungsbedarfe ergeben sich insbesondere in folgenden Bereichen:
     
 
 Für dein Promotionsvorhaben stützt FU6 damit die These, dass ein systemisch-konstruktivistisch entworfenes LMS als epistemisch-digitales „Kompetenzökosystem“ gelesen werden kann – vorausgesetzt, die digitale Architektur ist konsequent auf Handlungssituationen, Reflexion und dateninformierte Steuerung von Lernprozessen ausgerichtet.
+---
+title: "FU6 Qualitative Inhaltsanalyse"
+fu: FU6
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 65
+sources_file: "FU6 Primäranalysen (65).md"
+software: tbd
+tags: [mayring, fu/FU6, typ/inhaltsanalyse]
+links:
+  prompt: "FU6 Prompt Sekundäranalyse.md"
+  primary: "FU6 Primäranalysen (65).md"
+  analysis: "FU6 Qualitative Inhaltsanalyse.md"
+  codebook: "FU6 Codiersystem.md"
+---
+
+Links: [[FU6 Prompt Sekundäranalyse]] · [[FU6 Primäranalysen (65)]] · [[FU6 Codiersystem]]

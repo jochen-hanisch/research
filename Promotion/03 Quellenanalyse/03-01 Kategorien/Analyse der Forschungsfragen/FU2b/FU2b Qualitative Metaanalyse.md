@@ -324,3 +324,22 @@ Wenn du möchtest, kann ich im nächsten Schritt:
 - die Ergebnisse noch spezifischer auf deinen Gesundheitsberufe-Kontext zuschneiden (z. B. explizit auf NotSan-, Pflege- oder Medizinausbildung beziehen),
     
 - oder Teilausschnitte (z. B. nur Learning Analytics, nur Technostress, nur Feedbackarchitekturen) in eine eigenständige Sektion deiner Arbeit überführen.
+---
+title: "FU2b Qualitative Metaanalyse"
+fu: FU2b
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 27
+sources_file: "FU2b Primäranalysen (27).md"
+software: tbd
+tags: [mayring, fu/FU2b, typ/inhaltsanalyse]
+links:
+  prompt: "FU2b Prompt Sekundäranalyse.md"
+  primary: "FU2b Primäranalysen (27).md"
+  analysis: "FU2b Qualitative Metaanalyse.md"
+  codebook: "FU2b Codiersystem.md"
+---
+
+Links: [[FU2b Prompt Sekundäranalyse]] · [[FU2b Primäranalysen (27)]] · [[FU2b Codiersystem]]

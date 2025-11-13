@@ -155,3 +155,22 @@ Die Analyse bestätigt, dass die wahrgenommene Nützlichkeit der zentrale Treibe
 **Gesamtrelevanz für FU1:** hoch (Ø Bewertung = 4,8 von 5)
 
 _(Quellen: Zotero-Primäranalysen FU1, Hanisch 2022; Döring 2023)_
+---
+title: "FU1 Qualitative Metaanalyse"
+fu: FU1
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 58
+sources_file: "FU1 Primäranalysen (58).md"
+software: tbd
+tags: [mayring, fu/FU1, typ/inhaltsanalyse]
+links:
+  prompt: "FU1 Prompt Sekundäranalyse.md"
+  primary: "FU1 Primäranalysen (58).md"
+  analysis: "FU1 Qualitative Metaanalyse.md"
+  codebook: "FU1 Codiersystem.md"
+---
+
+Links: [[FU1 Prompt Sekundäranalyse]] · [[FU1 Primäranalysen (58)]] · [[FU1 Codiersystem]]

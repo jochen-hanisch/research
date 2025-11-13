@@ -1,3 +1,14 @@
+---
+title: "Codiersystem FU5 – Möglichkeiten und Grenzen eines systemisch-konstruktivistischen LMS"
+fu: FU5
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "FU5 Primäranalysen (125).md"
+software: tbd
+---
+
 ## **Einleitung**
 
 Hier ist das **vollständige, systematisch hergeleitete Codiersystem für FU5**, entwickelt ausschließlich aus den 125 Primäranalysen (Datei: _FU5 Primäranalysen (125).md_) und strikt entlang Deines Metaprompts.
@@ -9,22 +20,41 @@ Es kann sofort für MAXQDA, Atlas.ti oder Obsidian als Markdown-Codetaxonomie ge
 
 # **Codiersystem FU5 – Möglichkeiten und Grenzen eines systemisch-konstruktivistischen LMS**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|„FU5 Primäranalysen (125).md“|
-|Software|—|
-
+ 
 ## **Analyseeinheiten (Mayring)**
 
 Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, keine Inhaltsänderung.)
 
 ---
 
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Diese Datei ist stark narrativ; die Tabelle dient als strukturierte Zielansicht und kann sukzessive mit wörtlichen Auszügen befüllt werden.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|Möglichkeiten: Multimediale Möglichkeiten|—|—|—|
+|Möglichkeiten: Interaktivität & Exploration|—|—|—|
+|Möglichkeiten: Kollaborative Möglichkeiten|—|—|—|
+|Möglichkeiten: Didaktische Gestaltungsspielräume|—|—|—|
+|Möglichkeiten: Learning Analytics|—|—|—|
+|Möglichkeiten: Flexibilität & Zugriff|—|—|—|
+|Möglichkeiten: Skalierbarkeit|—|—|—|
+|Grenzen: Technische Grenzen|—|—|—|
+|Grenzen: Didaktische Grenzen|—|—|—|
+|Grenzen: Personelle Grenzen|—|—|—|
+|Grenzen: Institutionelle Grenzen|—|—|—|
+|Grenzen: Pädagogische Risiken|—|—|—|
+|Kontext: Technische Bedingungen|—|—|—|
+|Kontext: Didaktische Bedingungen|—|—|—|
+|Kontext: Personelle Bedingungen|—|—|—|
+|Kontext: Organisational‑strukturelle Bedingungen|—|—|—|
+|Kontext: Kulturelle Bedingungen|—|—|—|
+|Systemische Spannungsverhältnisse (4.1–4.5)|—|—|—|
+
+---
+
+<!-- P-QIA: hidden start -->
 ## **0. Strukturprinzip**
 
 FU5 umfasst vier zentrale Analyseachsen:
@@ -42,7 +72,7 @@ Jede Hauptkategorie gliedert sich in theoretisch begründete und empirisch valid
 
 ---
 
-# **1. Hauptkategorie: Gestaltungsmöglichkeiten (MÖGLICHKEITEN)**
+## **1. Hauptkategorie: Gestaltungsmöglichkeiten (MÖGLICHKEITEN)**
 
 Diese Kategorie erfasst alle Aussagen, die Potenziale, Erweiterungen oder positive Wirkfaktoren der LMS-Nutzung beschreiben.
 
@@ -83,7 +113,7 @@ LMS als ausbaufähiges System auf institutioneller Ebene.
 
 ---
 
-# **2. Hauptkategorie: Grenzen (LIMITIERUNGEN)**
+## **2. Hauptkategorie: Grenzen (LIMITIERUNGEN)**
 
 Diese Kategorie erfasst alle Aussagen, die Hindernisse, Schwierigkeiten oder Beschränkungen der LMS-Nutzung darstellen.
 
@@ -176,7 +206,7 @@ Unklarheiten beim Einsatz von Learning Analytics.
 
 ---
 
-# **3. Hauptkategorie: Wirkungsbedingungen (KONTEXT)**
+## **3. Hauptkategorie: Wirkungsbedingungen (KONTEXT)**
 
 Diese Kategorie beschreibt, unter welchen Bedingungen Möglichkeiten realisiert oder Grenzen verstärkt werden.
 
@@ -202,7 +232,7 @@ Feedbackkultur, Kollaboration, Offenheit für Digitalität.
 
 ---
 
-# **4. Hauptkategorie: Systemische Spannungsverhältnisse**
+## **4. Hauptkategorie: Systemische Spannungsverhältnisse**
 
 Diese Kategorie wurde **emergent** aus der Datenlage abgeleitet.  
 Sie bildet die systemisch-konstruktivistische Perspektive ab:
@@ -229,7 +259,7 @@ OER-Praktiken vs. Datenschutz/Compliance.
 
 ---
 
-# **5. Ankerbeispiele (repräsentativ, aus den Primäranalysen)**
+## **5. Ankerbeispiele (repräsentativ, aus den Primäranalysen)**
 
 **Beispiel für Möglichkeit (Interaktivität):**  
 Digitale Medien ermöglichen „umfangreiche Unterstützung forschenden Lernens“ (S. 26) .
@@ -245,7 +275,7 @@ Nutzung hängt von institutionellen Policies und Governance ab (mehrere Primära
 
 ---
 
-# **6. Formaler Codierleitfaden**
+## **6. Formaler Codierleitfaden**
 
 Für jede Textstelle gilt:
 
@@ -268,7 +298,7 @@ Für jede Textstelle gilt:
 
 ---
 
-# **7. Exportformat für MAXQDA / Obsidian**
+## **7. Exportformat für MAXQDA / Obsidian**
 
 ```
 FU5
@@ -316,7 +346,8 @@ Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und E
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout – Platzhalter)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
+<!-- P-QIA: hidden end -->
 
 Hinweis: Für FU5 liegen die Kategorien überwiegend narrativ vor. Diese Tabellenansicht dient als strukturierte Mayring‑Darstellung und referenziert die bestehenden Abschnitte. Zellen können bei Bedarf mit wörtlichen Auszügen aus „Definition/Indikatoren/Beispiele/Kodierregeln“ ergänzt werden.
 

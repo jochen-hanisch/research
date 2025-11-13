@@ -1,15 +1,17 @@
+---
+title: "Codiersystem FU6"
+fu: FU6
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "tbd"
+software: tbd
+---
+
 # **Codiersystem FU6**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|—|
-|Software|—|
-
+ 
 ## **Einleitung**
 
 Hier ist ein Codiersystem, das genau auf FU6 zugeschnitten ist und zu deinen bisherigen Auswertungen (Kompetenzforschung, LMS, Gesundheitsberufe) passt.
@@ -24,6 +26,20 @@ Hinweis: Vgl. Abschnitt „Anwendungshinweise“ (Analyseeinheit, Mehrfachcodier
 
 ---
 
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Die vollständigen Definitionen stehen in den vorhandenen Tabellen (K/F/E/B); diese Kernsicht kann bei Bedarf mit wörtlichen Auszügen befüllt werden.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|K – Kompetenzbegriff (K‑FACH, K‑HAND, K‑SOZ, K‑SELBST, K‑DIGI, K‑BERUF)|—|—|—|
+|F – Kompetenzfördernde LMS‑Elemente (F‑INT, F‑SIM, F‑KOLL, F‑FB, F‑PORT, F‑ANALYT, F‑ORG)|—|—|—|
+|E – Evaluation/Kompetenznachweise (E‑TEST, E‑SIMPERF, E‑PORTBEW, E‑SELF, E‑NUTZ, E‑MIX)|—|—|—|
+|B – Bedingungen (B‑TECH, B‑DIDAKT, B‑ORG, B‑LEHR, B‑LEARN, B‑KULT)|—|—|—|
+
+---
+
+<!-- P-QIA: hidden start -->
 ## 1. Struktur des Codiersystems FU6
 
 Vier Hauptebenen:
@@ -139,7 +155,8 @@ Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und E
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout – Platzhalter)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
+<!-- P-QIA: hidden end -->
 
 Hinweis: Für FU6 liegen viele Inhalte bereits in Tabellenform (K/F/E/B). Diese Ansicht bietet das einheitliche 6‑Spalten‑Raster und kann mit wörtlichen Auszügen aus den vorhandenen Tabellen befüllt werden.
 

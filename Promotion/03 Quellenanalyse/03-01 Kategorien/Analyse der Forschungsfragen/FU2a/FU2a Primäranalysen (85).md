@@ -7084,3 +7084,22 @@ Die Autor\*innen argumentieren mit Bezug auf Literatur und qualitative Daten, da
 ### 9. **Schlussfolgerung**
 
 Die Studie zeigt, dass qualitativ hochwertiges, personalisiertes Feedback über ein ePortfolio die Lernwirksamkeit im medizinischen Ausbildungskontext steigert. Die Analyse betont, dass weniger, aber tiefgreifenderes Feedback zielführender ist als häufige Rückmeldungen. Der technologische Rahmen muss jedoch benutzerfreundlich und flexibel genug sein, um Akzeptanz und nachhaltiges Lernen zu ermöglichen.
+---
+title: "FU2a Primäranalysen"
+fu: FU2a
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 85
+sources_file: "FU2a Primäranalysen (85).md"
+software: tbd
+tags: [mayring, fu/FU2a, typ/primäranalyse]
+links:
+  prompt: "FU2a Prompt Sekundäranalyse.md"
+  primary: "FU2a Primäranalysen (85).md"
+  analysis: "FU2a Qualitative Metaanalyse.md"
+  codebook: "FU2a Codiersystem.md"
+---
+
+Links: [[FU2a Prompt Sekundäranalyse]] · [[FU2a Qualitative Metaanalyse]] · [[FU2a Codiersystem]]

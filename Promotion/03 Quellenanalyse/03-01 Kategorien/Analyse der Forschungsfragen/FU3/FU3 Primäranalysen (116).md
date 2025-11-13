@@ -10027,3 +10027,22 @@ Die Studie entwickelt auf Grundlage empirischer Modellfälle und theoretischer �
 - **Anwendungsbezug im Hochschulkontext:** 5 – Hohe Übertragbarkeit auf andere Bildungsfelder, insbesondere Gesundheitsberufe.
 
 **Gesamtbewertung:** **5**
+---
+title: "FU3 Primäranalysen"
+fu: FU3
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 116
+sources_file: "FU3 Primäranalysen (116).md"
+software: tbd
+tags: [mayring, fu/FU3, typ/primäranalyse]
+links:
+  prompt: "FU3 Prompt Sekundäranalyse.md"
+  primary: "FU3 Primäranalysen (116).md"
+  analysis: "FU3 Qualitative Inhaltsanalyse.md"
+  codebook: "FU3 Codiersystem.md"
+---
+
+Links: [[FU3 Prompt Sekundäranalyse]] · [[FU3 Qualitative Inhaltsanalyse]] · [[FU3 Codiersystem]]

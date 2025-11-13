@@ -4600,3 +4600,22 @@ Die Autoren argumentieren, dass Emotionen eine entscheidende Rolle für das Enga
 Die Quelle liefert umfassende Erkenntnisse über die Rolle von Emotionen und Metakognition im Online-Lernen und bietet wertvolle Implikationen für die Gestaltung von Online-Lernumgebungen, um das Engagement der Studierenden zu fördern.
 
 Diese strukturierte Analyse bietet einen tieferen Einblick in die Themen der Studie und zeigt deren Relevanz im Kontext der digitalen Bildung auf. Die Ergebnisse unterstreichen die Notwendigkeit, Online-Lernumgebungen so zu gestalten, dass sie positive Emotionen fördern und die Metakognition der Studierenden unterstützen.
+---
+title: "FU1 Primäranalysen"
+fu: FU1
+version: tbd
+last_updated: tbd
+status: quelle
+procedure: "Materialkorpus für QIA (Mayring)"
+sources_count: 58
+sources_file: "FU1 Primäranalysen (58).md"
+software: tbd
+tags: [mayring, fu/FU1, typ/primäranalyse]
+links:
+  prompt: "FU1 Prompt Sekundäranalyse.md"
+  primary: "FU1 Primäranalysen (58).md"
+  analysis: "FU1 Qualitative Metaanalyse.md"
+  codebook: "FU1 Codiersystem.md"
+---
+
+Links: [[FU1 Prompt Sekundäranalyse]] · [[FU1 Qualitative Metaanalyse]] · [[FU1 Codiersystem]]

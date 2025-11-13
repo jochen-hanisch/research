@@ -381,3 +381,22 @@ Gleichzeitig verweisen die Befunde auf Risiken: fehlende soziale Präsenz, Über
   
 
 Aus systemischer Perspektive erscheint das LMS damit nicht als neutraler Container, sondern als wirkmächtiger Bestandteil eines Bildungswirkgefüges: Es moduliert Motivation, Lernstrategien, Interaktionen und Leistungsentwicklungen – und seine Effekte werden maßgeblich durch das didaktische Design, die Feedbackkultur und die Anschlussfähigkeit an klinische Praxis gerahmt.
+---
+title: "FU2a Qualitative Metaanalyse"
+fu: FU2a
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 85
+sources_file: "FU2a Primäranalysen (85).md"
+software: tbd
+tags: [mayring, fu/FU2a, typ/inhaltsanalyse]
+links:
+  prompt: "FU2a Prompt Sekundäranalyse.md"
+  primary: "FU2a Primäranalysen (85).md"
+  analysis: "FU2a Qualitative Metaanalyse.md"
+  codebook: "FU2a Codiersystem.md"
+---
+
+Links: [[FU2a Prompt Sekundäranalyse]] · [[FU2a Primäranalysen (85)]] · [[FU2a Codiersystem]]

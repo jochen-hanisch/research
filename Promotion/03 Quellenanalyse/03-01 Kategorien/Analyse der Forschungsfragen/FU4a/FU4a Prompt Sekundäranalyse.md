@@ -116,3 +116,22 @@ _„Welche bildungswissenschaftlichen Mechanismen werden beim Einsatz von Learni
 Bitte nenne die Anzahl der analysierten Notizen.
 
 **Format:** Markdown
+---
+title: "FU4a Prompt Sekundäranalyse"
+fu: FU4a
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
+sources_count: 220
+sources_file: "FU4a Primäranalysen (220).md"
+software: tbd
+tags: [mayring, fu/FU4a, typ/prompt]
+links:
+  prompt: "FU4a Prompt Sekundäranalyse.md"
+  primary: "FU4a Primäranalysen (220).md"
+  analysis: "FU4a Qualitative Inhlatsanalyse.md"
+  codebook: "FU4a Codiersystem.md"
+---
+
+Links: [[FU4a Prompt Sekundäranalyse]] · [[FU4a Primäranalysen (220)]] · [[FU4a Qualitative Inhlatsanalyse]] · [[FU4a Codiersystem]]

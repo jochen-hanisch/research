@@ -1,3 +1,14 @@
+---
+title: "Codiersystem FU4b"
+fu: FU4b
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring)"
+sources: "93 Primäranalysen (FU4b)"
+software: tbd
+---
+
 ## **Einleitung**
 
 Alles klar. Da Du jetzt die Primäranalysen für **FU4b** hochgeladen hast, beginne ich – wie in den vorherigen FU-Analysen – **zuerst mit dem Codiersystem**, bevor ich die Datei selbst auswerte.
@@ -6,18 +17,9 @@ Hier ist das **FU4b-Codiersystem**, präzise, operationalisiert und kompatibel 
 
 ---
 
-# Codiersystem FU4b
+# **Codiersystem FU4b**
 
-## **Metadaten (Mayring, Layout)**
-
-|Feld|Wert|
-|---|---|
-|Version|—|
-|Datum|—|
-|Bearbeitung|—|
-|Materialkorpus/Quellen|93 Primäranalysen (FU4b)|
-|Software|—|
-
+ 
 **Forschungsunterfrage (FU4b):**  
 _„Welche technisch-gestalterischen Mechanismen wirken beim Einsatz eines systemisch-konstruktivistischen LMS im digitalen Bildungsraum von Gesundheitsberufen?“_
 
@@ -31,6 +33,29 @@ Das Codiersystem umfasst **vier Hauptkategorien** und **14 Subkategorien**. J
 ## **Analyseeinheiten (Mayring)**
 
 Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, keine Inhaltsänderung.)
+
+---
+
+## **P‑QIA Kodiermanual (Kernschema)**
+
+Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt 1:1 aus den bestehenden Abschnitten.
+
+|Kategorie|Definition|Kodierregeln|Beispielstellen|
+|---|---|---|---|
+|1.1 Navigationsklarheit|Verständlichkeit, Transparenz und Orientierung im Interface.|Kodieren, wenn Text explizit Orientierung erleichtert oder erschwert.|„Die Teilnehmer*innen finden relevante Inhalte schneller.“|
+|1.2 Konsistenz des Interface|Wiedererkennbare Strukturen, stabile Layout‑Logiken.|Nur kodieren, wenn Konsistenz als Merkmal/Problem genannt.|„Unterschiedliche Kursseiten verwirren die Nutzer*innen.“|
+|1.3 Wahrnehmbare Bedienbarkeit|Sichtbarkeit von Funktionen, intuitive Klickpfade.|Kodieren, wenn Funktionen als leicht/schwer erkennbar beschrieben.|„Es ist nicht sichtbar, wo Aufgaben abgegeben werden.“|
+|2.1 Interaktivität und Aufgabenformate|Technische Interaktionen (Drag‑and‑Drop, Quiz, Foren).|Nur technische, nicht pädagogisch‑inhaltliche Interaktivität kodieren.|„Die Drag‑and‑Drop‑Funktion erleichtert die Bearbeitung.“|
+|2.2 Feedback‑Mechanismen|Systemgeneriertes oder konfigurierbares Feedback.|Nur wenn Feedback technisch erzeugt oder moderiert wird.|„Automatische Rückmeldungen reduzieren Wartezeiten.“|
+|2.3 Tool‑Integration|Verbindung externer Tools (Plugins, LTIs).|Kodieren, wenn Integration technische Auswirkungen hat.|„H5P‑Einbettungen führen … zu Ladeproblemen.“|
+|2.4 Assessment‑Funktionen|Technische Realisierung von Prüfungsformaten.|Kodieren, wenn Funktion zur Beurteilung/Datenerhebung beschrieben.|„Das Testmodul speichert die Bearbeitungszeit.“|
+|3.1 Systemleistung und Stabilität|Ladezeiten, Zuverlässigkeit.|Kodieren, wenn Systemverhalten beschrieben wird.|„Bei hoher Last bricht die Seite ab.“|
+|3.2 Skalierbarkeit|Bewältigung wachsender Last/Nutzerzahlen.|Nur kodieren, wenn Skalierung explizit thematisiert.|„Mit steigender Kurszahl wurde das System langsamer.“|
+|3.3 Interoperabilität|Kompatibilität zwischen Systemen/Geräten.|Kodieren, wenn Austauschfähigkeit/Geräteanpassung beschrieben.|„Auf Mobilgeräten bricht das Layout ein.“|
+|4.1 Didaktisch tragfähige Technikelemente|Technische Entscheidungen mit didaktischer Wirkung.|Kodieren, wenn Technik didaktische Funktion unterstützt/behindert.|„Visuelle Segmentierung erleichtert den Lernpfad.“|
+|4.2 Unterstützung selbstorganisierten Lernens|Technik ermöglicht Autonomie/Strukturierung.|Kodieren, wenn Gestaltung explizit Selbstorganisation begünstigt.|„Dashboards helfen, den Fortschritt zu steuern.“|
+|4.3 Kognitive Entlastung|Reduktion extrinsischer Belastung.|Nur kodieren, wenn Einfluss auf mentale Belastung beschrieben.|„Ein einheitliches Farbschema reduziert Suchzeit.“|
+|4.4 Blickführung & visuelle Organisation|Aufmerksamkeitslenkung durch Gestaltung.|Kodieren, wenn Blicklenkung/visueller Fokus beschrieben.|„Hervorhebungen unterstützen die Navigation.“|
 
 ---
 
@@ -134,7 +159,8 @@ Hinweis: Dokumentiert die Analyseeinheiten gemäß Mayring. (Layout-Sektion, kei
 
 ---
 
-# Formale Kodierregeln (übergreifend)
+<!-- P-QIA: hidden start -->
+## **Kodierregeln (übergreifend)**
 
 1. **Segmentierungsregel:**  
     Jede Sinneinheit (typisch 1–3 Sätze) wird als eigenes Codiersegment behandelt.
@@ -162,7 +188,8 @@ Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und E
 
 ---
 
-## **6‑Spalten‑Kategorienansicht (Mayring, Layout – aus obigen Abschnitten)**
+## **6‑Spalten‑Kategorienansicht (Mayring)**
+<!-- P-QIA: hidden end -->
 
 Hinweis: Tabellenansicht referenziert wörtlich vorhandene Felder „Definition“, „Kodierregel“ (als Inklusion) und Beispiele. Nicht explizit Benanntes bleibt leer („—“).
 

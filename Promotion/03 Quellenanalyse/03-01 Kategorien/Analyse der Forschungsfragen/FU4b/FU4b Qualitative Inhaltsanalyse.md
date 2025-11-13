@@ -227,3 +227,22 @@ Offene Desiderate, die sich aus den analysierten Notizen andeuten, betreffen vor
     
 
 Die vorliegende Synthese liefert damit einen strukturierten technischen Bezugsrahmen, auf dessen Grundlage die Eye-Tracking-Studie gezielt geplant und das zugrunde liegende LMS im Sinne eines evidenzbasierten, systemisch-konstruktivistischen Designs weiterentwickelt werden kann.
+---
+title: "FU4b Qualitative Inhaltsanalyse"
+fu: FU4b
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
+sources_count: 93
+sources_file: "FU4b Primäranalysen (93).md"
+software: tbd
+tags: [mayring, fu/FU4b, typ/inhaltsanalyse]
+links:
+  prompt: "FU4b Prompt Sekundäranalyse.md"
+  primary: "FU4b Primäranalysen (93).md"
+  analysis: "FU4b Qualitative Inhaltsanalyse.md"
+  codebook: "FU4b Codiersystem.md"
+---
+
+Links: [[FU4b Prompt Sekundäranalyse]] · [[FU4b Primäranalysen (93)]] · [[FU4b Codiersystem]]
