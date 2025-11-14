@@ -18,20 +18,18 @@ Die folgende Tabelle und das Diagramm zeigen die Verteilung der verarbeiteten An
 
 Gesamtzahl der verarbeiteten Analysen über alle Forschungsunterfragen (FU1–FU7): **n = 797**.
 
-# Tortendiagramm zur Verteilung der Quellenanzahl
-
 ```mermaid
 pie showData
   title Verteilung der Quellenanzahl (FU1–FU7)
-  "FU1 (58)" : 58
-  "FU2a (85)" : 85
-  "FU2b (27)" : 27
-  "FU3 (116)" : 116
-  "FU4a (220)" : 220
-  "FU4b (93)" : 93
-  "FU5 (125)" : 125
-  "FU6 (65)" : 65
-  "FU7 (8)" : 8
+  "FU1" : 58
+  "FU2a" : 85
+  "FU2b" : 27
+  "FU3" : 116
+  "FU4a" : 220
+  "FU4b" : 93
+  "FU5" : 125
+  "FU6" : 65
+  "FU7" : 8
 ```
 
 # Auswertung
@@ -62,7 +60,7 @@ pie showData
   "Rollen & Strategien (4,4 %)" : 35
 ```
 
-### Kernarchitektur (FU3, FU4a, FU5)
+## Kernarchitektur (FU3, FU4a, FU5)
 
 Die drei zentralen Forschungsunterfragen FU3, FU4a und FU5 bilden die „Kernarchitektur“ der LMS‑Metaanalyse. Ihre hohe Repräsentanz (insgesamt 461 Analysen; 57,83 %) reflektiert die grundlegende Bedeutung dieser Aspekte für das Verständnis digitaler Lernumgebungen:
 
