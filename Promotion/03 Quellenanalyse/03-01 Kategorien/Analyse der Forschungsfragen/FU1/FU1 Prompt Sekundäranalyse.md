@@ -9,21 +9,31 @@ Forschungsunterfrage (FU1):
 
 Methodik:
 
-Führe eine qualitative Metaanalyse nach Mayring (vgl. Döring, 2023, S. 874) durch, um zentrale Aussagen und Themen aus den enthaltenen Studien systematisch zu extrahieren und zu kategorisieren. Die Methodik umfasst folgende Schritte:
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch. Ziel ist es, zentrale Aussagen und Themen aus den enthaltenen Analysen systematisch zu extrahieren, probabilistisch zu strukturieren und theoretisch zu interpretieren. Die Methodik umfasst folgende Schritte (vgl. [[P-QIA Methode]]):
 
-1. **Induktive Kategorienbildung:**
-    - **Akzeptanz:** Einstellungen, emotionale Reaktionen und Nutzungsmuster der Akteure.
-    - **Nützlichkeit:** Wahrgenommener Nutzen des LMS für Lernprozesse, Kommunikation und Organisation im Bildungsraum der Gesundheitsberufe.
-2. **Codierschema:**
-    - **Definition der Kategorien:** Präzise Abgrenzung der Dimensionen „Akzeptanz“ und „Nützlichkeit“.
-    - **Ankerbeispiele:** Konkrete Textstellen und Verweise auf die jeweiligen Primäranalyse, die als Beispiele für jede Kategorie dienen.
-    - **Kodierregeln:** Kriterien für die Zuordnung von Textstellen, einschließlich Umgang mit Mehrdeutigkeiten, um eine systematische und transparente Kategorisierung zu gewährleisten.
-3. **Synthese:**  
-    Verbindung der Kategorien, um die Wechselwirkungen zwischen Akzeptanz und Nützlichkeit des LMS herauszuarbeiten.
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+    - Segmentiere die bereitgestellten Primäranalysen in Sinnabschnitte (1–3 Sätze).
+    - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+    - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+    - Leite aus den stabilen Clustern Kategorien für **Akzeptanz** und **Nützlichkeit** ab:
+      - **Akzeptanz:** Einstellungen, emotionale Reaktionen und Nutzungsmuster der Akteure.
+      - **Nützlichkeit:** Wahrgenommener Nutzen des LMS für Lernprozesse, Kommunikation und Organisation im Bildungsraum der Gesundheitsberufe.
+    - Erstelle ein Codierschema mit:
+      - **Kategoriedefinitionen** (präzise Abgrenzung der Dimensionen „Akzeptanz“ und „Nützlichkeit“),
+      - **Ankerbeispielen** (konkrete Textstellen mit Pfadangabe, z. B. `FU1 Primäranalysen (58).md:Zeile`),
+      - **Kodierregeln** (Kriterien für die Zuordnung von Textstellen, inkl. Umgang mit Mehrdeutigkeiten und Mehrfachkodierungen).
+3. **Kodierung und Synthese (Mayring + P‑QIA):**  
+    - Kodierung der bereitgestellten Segmente anhand des Codierschemas.
+    - Verbindung und Gegenüberstellung der Kategorien, um Wechselwirkungen zwischen Akzeptanz und Nützlichkeit des LMS herauszuarbeiten (z. B. Rolle von Benutzerfreundlichkeit, wahrgenommener Nützlichkeit, Selbstwirksamkeit, Rahmenbedingungen).
 
 Erwartete Leistung:
 
-Erstelle eine fundierte und umfassende Darstellung des aktuellen Forschungsstandes auf Basis aller enthaltenen Analysen. Beantworte die Forschungsfrage, indem du die Ergebnisse in den Kontext des digitalen Bildungsraums der Gesundheitsberufe einordnest und die Interdependenzen zwischen Akzeptanz und Nützlichkeit verdeutlichst.
+Erstelle eine fundierte und umfassende Darstellung des aktuellen Forschungsstandes auf Basis aller enthaltenen Analysen. Beantworte die Forschungsfrage, indem du:
+
+- die probabilistisch gewonnenen Cluster und Kategorien transparent darstellst,
+- die Ergebnisse theoriegeleitet (z. B. TAM, UTAUT, Motivationstheorien) einordnest,
+- die Interdependenzen zwischen Akzeptanz und Nützlichkeit im digitalen Bildungsraum der Gesundheitsberufe herausarbeitest.
 
 Darstellung der Ergebnisse:
 
