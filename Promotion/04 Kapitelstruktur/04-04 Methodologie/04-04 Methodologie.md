@@ -4,11 +4,15 @@ Kapitel 4 beschreibt die angewendete Methodik und reflektiert diese entlang der 
 
 ## 4.1 Forschungsparadigma
 
-Methodenkompetenz in den Human- und Sozialwissenschaften umfasst die Fähigkeit, empirische Studien nicht nur zu lesen und zu interpretieren, sondern diese auch selbstständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu generieren. Dabei etablierten sich drei zentrale Forschungsparadigmen, die sich in ihren erkenntnistheoretischen Grundlagen und methodischen Logiken unterscheiden: (a) das quantitative Paradigma, basierend auf dem kritischen Realismus, (b) das qualitative Paradigma, verankert im Sozialkonstruktivismus, sowie (c) das Mixed-Methods-Paradigma, das im Pragmatismus wurzelt. Während das quantitative Paradigma einen linear-strukturierten Forschungsprozess postuliert, der auf zu überprüfende Hypothesen aufbaut, bildet das qualitative Paradigma einen zirkulären, wenig strukturierten Forschungsprozess mit offenen Forschungsfragen ab. Mit dem Mixed-Methods-Ansatz können komplexere, lineare sowie nichtlineare Vorhaben bearbeitet und mit verschiedenen Teilprozessen verbunden werden. Die Differenzierung der Paradigmen erweitert sich auch um die Rollenperspektive der Forschenden, die in Abhängigkeit vom untersuchten Forschungsgegenstand reflektiert werden muss. Entscheidend für die Wahl der Forschungslogik ist nicht, welche Daten (z.B. numerische oder textliche) vorliegen, sondern mit welchem Vorgehen die vorliegenden oder noch zu erzeugenden Daten methodisch zu bearbeiten sind. Das Begründungsgebot nimmt hierbei im wissenschaftlichen Arbeiten eine zentrale Stellung ein, da es die Wahl der Forschungslogik und die Bearbeitung von Daten methodisch legitimiert [@doring_empirische_2023, S. 4–5; @doring_wissenschaftstheoretische_2023, S. 32–33].
+Methodenkompetenz in den Human- und Sozialwissenschaften umfasst die Fähigkeit, empirische Studien nicht nur zu lesen und zu interpretieren, sondern diese auch eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung haben sich drei zentrale Forschungsparadigmen etabliert, die sich in ihren erkenntnistheoretischen Grundlagen und methodischen Logiken unterscheiden: (a) das quantitative Paradigma, basierend auf dem kritischen Realismus, (b) das qualitative Paradigma, verankert im Sozialkonstruktivismus, sowie (c) das Mixed-Methods-Paradigma, das im Pragmatismus wurzelt [@doring_empirische_2023, S. 4–5; @doring_wissenschaftstheoretische_2023, S. 32–33].
+
+Während das quantitative Paradigma einen linear-strukturierten Forschungsprozess mit vorab formulierten Hypothesen postuliert, bildet das qualitative Paradigma einen zirkulären, offen strukturierten Forschungsprozess mit explorativen Fragestellungen ab. Mixed-Methods-Ansätze erlauben es, lineare und nichtlineare Forschungslogiken zu kombinieren und verschiedene Teilprozesse zu verbinden. Die Wahl des Paradigmas hängt dabei nicht primär von der Datenform (z.B. numerisch vs. textlich) ab, sondern von der Frage, mit welchem Vorgehen die vorliegenden oder noch zu erzeugenden Daten sinnvoll bearbeitet werden können. Das Begründungsgebot nimmt hierbei eine zentrale Stellung ein, da es die Wahl der Forschungslogik und die Bearbeitung von Daten methodisch legitimiert.
+
+### 4.1.1 Vorüberlegungen zur Methodologie
 
 Methodisch herausfordernd in dieser Arbeit ist die Auflösung eines Dilemmas durch Verknüpfung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Quantitative Daten, bspw. aus dem Eye-Tracking-Versuch und der begleitenden Umfrage, und qualitative Daten, bspw. die Ergebnisse aus der systematischen Literaturanalyse, sind miteinander in Bezug zu setzen, um übergeordnete Erkenntnisse zu generieren. Die Verwendung der beiden Paradigmen wird durch die Intention der Hauptforschungsfrage legitimiert, die Wissen um Muster und Regelmäßigkeiten im LMS erzeugen möchte. Insbesondere das vorgefundene Spannungsfeld von Subjektivität (Wahrnehmung der Akteure) und Objektivität (Kompetenzentwicklungssimulation) erfordert eine genauere methodische Betrachtung. Die sonst eher streng zugeordnete Forschungsmethodik, das quantitative Paradigma als deduktiv und das qualitative Paradigma als induktiv, greift hier zu kurz, da diese strikte Trennung die komplexe Wirkung des Forschungsgegenstands nicht abbilden kann [@reinders_uberblick_2022, S. 157].
 
-Forschungstätigkeiten in Gesundheitskontexten stehen zudem vor der Herausforderung, unterschiedliche methodische Strömungen diverser Disziplinen für sich einzunehmen. Insbesondere der Umgang mit tradierten Forschungsparadigmen muss angesichts der Komplexität intradisziplinärer Forschungstätigkeiten beantwortet werden. Gerade Komplexität, vielfältige Disziplinen und unterschiedliche Ressourcen sind miteinander in Einklang zu bringen. Damit dies gelingt, können die jeweiligen Stärken und Chancen bisheriger Forschungsmethoden in einen neuen, interdisziplinären und generativen Kontext gestellt werden [@niederberger_forschungsmethoden_2021, S. 4–5].
+Forschungstätigkeiten in Gesundheitskontexten stehen zudem vor der Herausforderung, unterschiedliche methodische Strömungen diverser Disziplinen für sich einzunehmen. Insbesondere der Umgang mit tradierten Forschungsparadigmen muss angesichts der Komplexität intradisziplinärer Forschungstätigkeiten beantwortet werden. Gerade Komplexität, vielfältige Disziplinen und unterschiedliche Ressourcen sind miteinander in Einklang zu bringen. Damit dies gelingt, werden in dieser Arbeit die jeweiligen Stärken bestehender Forschungsmethoden in einen neuen, interdisziplinären und generativen Kontext gestellt [@niederberger_forschungsmethoden_2021, S. 4–5].
 
 Zwar verbindet das Mixed-Methods-Paradigma die beiden zuvor genannten Ansätze, steht jedoch in der Kritik, dass diese epistemologisch unvereinbar seien (z.B. Inkommensurabilitäts-These in Verbindung mit der Komplementaritäts-These) und daher methodisch fragil bleiben. Hinzu kommt, dass der Mixed-Methods-Ansatz häufig pragmatisch verwendet wird, wodurch quantitative und qualitative Verfahren unreflektiert nebeneinanderstehen. Auch die strikte Trennung der Paradigmen – das quantitative Paradigma als deduktiv und das qualitative Paradigma als induktiv – greift zu kurz, da sie die notwendige Integration von Regelmäßigkeiten (quantitative Ebene) und subjektiven Kontexten (qualitative Ebene) verhindert [@doring_wissenschaftstheoretische_2023, Kapitel 2].
 
@@ -16,7 +20,7 @@ Das hier beschriebene Forschungsvorhaben erfordert aufgrund seiner zirkulären K
 
 Die Auflösung des vorliegenden forschungsparadigmatischen Dilemmas erfolgt durch den Zugang zum Forschungsgegenstand über die konsequente Ableitung der Methoden aus den Forschungsfragen. Dieses Vorgehen ermöglicht nicht nur eine zielgerichtete Methodenauswahl, sondern auch eine Komplexitätsreduktion, die der Mehrdimensionalität des Forschungsgegenstandes gerecht wird und gleichzeitig die Stärken bestehender Methoden integriert.
 
-### 4.1.1 Systemisch-forschungsfragengeleiteter Ansatz
+### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz
 
 Der systemische, forschungsfragengeleitete Ansatz dieser Arbeit fußt vollständig auf den Forschungsfragen FU1 bis FU7 (s. Kapitel 1.2.3), die aus dem Erkenntnisinteresse (s. Kapitel 1.1.1) und dem bestehenden LMS-Produkt (s. Kapitel 3) abgeleitet wurden. Diese Forschungsfragen strukturieren und leiten alle methodischen Entscheidungen und Analysen zur Bearbeitung. Die hier entwickelte Methodik, die den systemischen Ansatz mit der konsequenten Folgerung der Methoden aus den Forschungsfragen synthetisiert, ist in dieser spezifischen Form bisher nicht beschrieben. Damit werden systemtheoretische Prinzipien wie Interdependenz und Emergenz mit der gezielten Integration qualitativer und quantitativer Methoden verknüpft, um der zirkulären Komplexität des Forschungsgegenstandes gerecht zu werden.
 
@@ -25,23 +29,6 @@ Interdependenz bedeutet für die Methodologie des Forschungsprozesses, dass Fors
 Die konkrete Umsetzung dieses Ansatzes erfolgt durch die Ableitung der Methoden aus den Forschungsfragen, wobei jede Forschungsfrage die spezifische Methodenwahl bestimmt und somit eine zielgerichtete, präzise und funktionale Kombination qualitativer und quantitativer Methoden ermöglicht. Qualitative Literaturanalysen werden systematisch mit qualitativen Methoden wie Eye-Tracking-Analysen (z.B. Heatmaps) und quantitativen Befragungen kombiniert, um eine ganzheitliche Perspektive zu ermöglichen. Die eingesetzten Methoden werden dabei passgenau auf die jeweiligen Forschungsfragen abgestimmt und berücksichtigen sowohl subjektive Akteurswahrnehmungen als auch objektive Daten zur Mustererkennung.
 
 Die gezielte Methodenkombination unterstützt die Komplexitätsreduktion des Forschungsgegenstandes auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu vernachlässigen. Durch die iterative Rückkopplung und systemische Verknüpfung der Ergebnisse entstehen neue Einsichten, die bei isolierter Betrachtung der Methoden verborgen bleiben würden. Dieser innovative Ansatz erweitert bestehende methodische Ansätze und schafft einen neuen Rahmen, der sowohl Offenheit als auch strukturelle Präzision ermöglicht.
-
-Methodische Konsequenzen der Forschungsfragen
-
-- Die Forschungsfragen bestimmten:
-  - Auswahl und Strukturierung der Literatur.
-  - Entwicklung von Kategorien und Schlagworten zur thematischen Verknüpfung.
-  - Kombination und Anpassung klassischer Methoden.
-- **Begründung**:
-  - Die Komplexität des digitalen Bildungsraums erforderte eine Methodenkombination, um die Forschungsfragen adäquat zu beantworten.
-
-Forschungsdesign (ca. 3–4 Seiten)
-
-Dynamischer, zirkulär-itterativer Forschungsprozess
-
-Der Forschungsprozess wurde iterativ gestaltet. Neue Erkenntnisse wurden kontinuierlich in die nächsten Arbeitsschritte integriert, beispielsweise als später eine Python-Simulation eingebaut wurde. Insgesamt umfasste das Projekt sechs Phasen. Zunächst erfolgte die Planungsphase, in der Forschungsfragen formuliert, ein Exposee erstellt und die Methodik festgelegt wurden. Daran schloss sich die Recherche an; hierbei analysierte man Literatur mit Hilfe von KI, sammelte relevante Quellen und kategorisierte diese. In der Erhebungsphase wurden eine Umfrage zu digitalen Kompetenzen sowie Eye-Tracking-Analysen durchgeführt. Anschließend folgte die Modellierung, bei der eine Python-Simulation entwickelt und deren Ergebnisse miteinander verknüpft wurden. Die Schreibphase beinhaltete das Verfassen von Theorie, Methodik und Ergebnissen sowie das Einholen von Rückmeldungen zur Fragestellung. Abschließend wurden im Rahmen der Endredaktion die finale Einreichung und die Vorbereitung der Publikation vorgenommen.
-
-Forschungsunterfragen und ihre Methoden
 
 ```{=latex}
 \begin{table}[!htbp]
@@ -74,73 +61,23 @@ Die Tabelle zeigt die Zuordnung der Methoden zu den Forschungsunterfragen. Sie u
 \end{table}
 ```
 
+Methodische Konsequenzen der Forschungsfragen
 
-Tabelle 5: Forschungsunterfragen und deren Bearbeitungsmethoden
-Forschungsunterfrage	Methoden
-FU1: Akzeptanz und Nützlichkeit	Systematische Literaturanalyse, KI-gestützte Analyse zur Untersuchung der Benutzerfreundlichkeit und Nützlichkeit von LMS.
-FU2a: Effekt auf Lernende	Monte-Carlo-Simulation und 3D-Kompetenzmessmodell zur Modellierung der Kompetenzentwicklung und Unsicherheiten im Lernprozess.
-FU2b: Effekt auf Lehrende	Umfrage zur digitalen Kompetenz von Lehrenden und ergänzende Literaturanalyse zur Erfassung der Herausforderungen und Bedürfnisse.
-FU3: Didaktische und technologische Merkmale	Literaturanalyse, Eye-Tracking-Experiment und systemische Analyse zur Untersuchung der didaktischen und technischen Gestaltung von LMS.
-FU4a: Bildungswissenschaftliche Mechanismen	Literaturanalyse zu bildungswissenschaftlichen Modellen und Mechanismen.
-FU4b: Technisch-gestalterische Mechanismen	Eye-Tracking-Experiment mit begleitender Umfrage zur Analyse der Wahrnehmung und Navigation in LMS.
-FU5: Möglichkeiten und Grenzen	Synthese aller Ergebnisse und theoretische Reflexion zur Identifikation von Potenzialen und Limitationen von LMS.
-FU6: LMS als Kompetenzerwerbssystem	Systematische Literaturrecherche (500 Quellen) und systemische Bewertung der LMS als Kompetenzerwerbssystem.
-FU7: Erweiterung von Kausalgesetzen	Python-Simulation zur Analyse der Korrelationen zwischen Forschungsunterfragen sowie Schlagwort- und Kategorisierungsanalyse.
-Die Tabelle zeigt die Zuordnung der Methoden zu den Forschungsunterfragen. Sie umfasst systematische Literaturanalyse, empirische Erhebungen (Umfragen, Eye-Tracking) und modellbasierte Ansätze (Simulation), die flexibel kombiniert wurden, um die Forschungsfragen adäquat zu beantworten.
-Die methodische Abbildung und Zuordnung der Forschungsunterfragen (FU) in Tabelle 4 ist ein zentrales Element des Forschungsdesigns, da sie die Verbindung zwischen den zentralen Erkenntnisinteressen und den jeweils angewandten wissenschaftlichen Methoden systematisch herstellt. Im Folgenden wird eine umfassende, tiefgreifende Ausführung zu den einzelnen Elementen von Tabelle 4 präsentiert. Diese Darstellung erläutert die Hintergründe der gewählten Methoden, ihre Einbettung in die übergeordneten Forschungsfragen sowie die praktischen und theoretischen Implikationen, die sich daraus für das Gesamtvorhaben ergeben. Tabelle 4 ordnet jede einzelne Forschungsunterfrage einer oder mehreren spezifischen methodischen Herangehensweisen zu. Die Zuordnung erfolgt dabei nicht willkürlich, sondern basiert auf einer sorgfältigen Abwägung der jeweiligen Erkenntnisinteressen sowie der Stärken und Grenzen der zur Verfügung stehenden Methoden. Auf diese Weise wird gewährleistet, dass sowohl Breite als auch Tiefe methodischer Zugänge realisiert werden; von rein qualitativen, über quantitative bis hin zu experimentellen Verfahren. Die Tabelle fördert die Transparenz des Forschungsprozesses und macht die Logik der methodischen Wahl für Außenstehende nachvollziehbar.
+- Die Forschungsfragen bestimmten:
+  - Auswahl und Strukturierung der Literatur.
+  - Entwicklung von Kategorien und Schlagworten zur thematischen Verknüpfung.
+  - Kombination und Anpassung klassischer Methoden.
+- **Begründung**:
+  - Die Komplexität des digitalen Bildungsraums erforderte eine Methodenkombination, um die Forschungsfragen adäquat zu beantworten.
 
 
-3	Detailanalyse der Forschungsunterfragen und Methoden
-3.1	FU4a: Bildungswissenschaftliche Mechanismen
-Forschungsunterfrage:
-Welche bildungswissenschaftlichen Modelle und Mechanismen sind für das Verständnis von Lernmanagementsystemen (LMS) zentral?
-Methodik:
-•	Literaturanalyse zu bildungswissenschaftlichen Modellen und Mechanismen: Die Durchführung einer systematischen Literaturanalyse bildet die methodische Grundlage, um das breite Spektrum bildungswissenschaftlicher Theorien, Paradigmen und Modelle zu identifizieren, die für den Einsatz und das Design von LMS relevant sind. Hierbei erfolgt eine gezielte Recherche in einschlägigen Datenbanken unter Nutzung definierter Schlagworte und Filtermechanismen, um die Qualität und Aktualität der Literatur sicherzustellen.
-Begründung & Umsetzung:
-Die Literaturanalyse ermöglicht die Zusammenführung und kritische Bewertung von Forschungssträngen, Konzepten und empirischen Befunden. Sie legt den theoretischen Grundstein für alle weiteren empirischen und analytischen Schritte, indem sie zentrale Begrifflichkeiten, Modelle (wie z.B. konstruktivistische Lerntheorien, Motivationstheorie, Kompetenzmodelle etc.) und Mechanismen aufarbeitet. Die Ergebnisse dieser Analyse werden im weiteren Verlauf mit empirischen Daten aus anderen Methoden trianguliert.
-3.2	FU4b: Technisch-gestalterische Mechanismen
-Forschungsunterfrage:
-Wie nehmen Nutzer*innen die technische Gestaltung und Navigation in LMS wahr, und welche Mechanismen beeinflussen den Umgang mit solchen Systemen?
-Methodik:
-•	Eye-Tracking-Experiment: Diese Methode ermöglicht die objektive Messung von Blickbewegungen, Verweildauer auf bestimmten Elementen, sowie Navigationspfaden von Nutzer*innen innerhalb des LMS. Dadurch werden unbewusste Wahrnehmungs- und Navigationsmuster sichtbar.
-•	Begleitende Umfrage: Qualitative und quantitative Erhebungen liefern ergänzende Einblicke in subjektive Präferenzen, Schwierigkeiten und Verbesserungsvorschläge hinsichtlich der Bedienbarkeit und Gestaltung des Systems.
-Begründung & Umsetzung:
-Die Kombination aus Eye-Tracking-Daten und Umfrageergebnissen ermöglicht eine multidimensionale Betrachtung technisch-gestalterischer Mechanismen. Während Eye-Tracking objektive, verhaltensnahe Daten liefert, erfassen Umfragen subjektive Einschätzungen und Erklärungen. Diese methodische Kopplung eröffnet die Möglichkeit, Diskrepanzen zwischen tatsächlicher Nutzung und Selbstauskunft analytisch zu erfassen.
-3.3	FU5: Möglichkeiten und Grenzen
-Forschungsunterfrage:
-Welche Potenziale und Limitationen bieten LMS aus bildungswissenschaftlicher, technischer und nutzerorientierter Perspektive?
-Methodik:
-•	Synthese aller Ergebnisse: Auf Basis der aus den vorhergehenden Methoden gewonnenen Daten erfolgt eine umfassende Synthese, in der Möglichkeiten und Grenzen systematisch herausgearbeitet und reflektiert werden.
-•	Theoretische Reflexion: Die Ergebnisse werden in einen größeren theoretischen Kontext eingebettet, wodurch auch blinde Flecken und Desiderate offengelegt werden.
-Begründung & Umsetzung:
-Die Synthese und Reflexion stehen am Endpunkt des Forschungsprozesses und bündeln alle bislang gewonnenen Erkenntnisse. Hierbei werden u.a. die Ergebnisse der Literaturanalyse, empirische Daten aus Experimenten und Umfragen sowie die Resultate aus Simulationen vereint. Ziel ist es, über die isolierte Betrachtung einzelner Aspekte hinauszugehen und ein integratives Bild der Möglichkeiten und Grenzen von LMS zu zeichnen.
-3.4	FU6: LMS als Kompetenzerwerbssystem
-Forschungsunterfrage:
-Inwieweit eignen sich LMS als Systeme für den Kompetenzerwerb, und welche Bedingungen fördern oder behindern einen erfolgreichen Kompetenzerwerb?
-Methodik:
-•	Systematische Literaturrecherche (ca. 500 Quellen): Umfangreiche Recherche in internationalen Fachzeitschriften, Datenbanken und Konferenzberichten, um die Rolle von LMS als Systeme für den Kompetenzerwerb aus unterschiedlichsten Perspektiven zu beleuchten.
-•	Systemische Bewertung: Kritische Analyse und Bewertung der identifizierten Literatur unter Berücksichtigung von Effektivität, Akzeptanz, Implementierungsbedingungen und nachhaltigem Kompetenzaufbau.
-Begründung & Umsetzung:
-Durch die gezielte systematische Recherche und anschließende Bewertung der Quellen entsteht eine solide empirisch-theoretische Basis für die Beurteilung der Eignung und Grenzen von LMS im Kontext des Kompetenzerwerbs. Die große Anzahl der einbezogenen Quellen gewährleistet eine hohe inhaltliche Tiefe und thematische Breite, wodurch auch selten betrachtete Aspekte identifiziert werden können.
-3.5	FU7: Erweiterung von Kausalgesetzen
-Forschungsunterfrage:
-Wie lassen sich Korrelationen und Zusammenhänge zwischen den Forschungsunterfragen und zentralen Konzepten systematisch analysieren und visualisieren?
-Methodik:
-•	Python-Simulation: Entwicklung und Durchführung von Simulationen, die verschiedene hypothetische Szenarien und deren Auswirkungen auf die Korrelationen zwischen Forschungsunterfragen abbilden. Hier kommen numerische Verfahren und Algorithmen zur Anwendung, die große Datenmengen verarbeiten können.
-•	Schlagwort- und Kategorisierungsanalyse: Mithilfe fortgeschrittener KI-gestützter Verfahren werden thematische Schlagworte und Kategorien aus den erhobenen Daten extrahiert und ausgewertet, um Zusammenhänge und Muster sichtbar zu machen.
-Begründung & Umsetzung:
-Simulationen bieten die Möglichkeit, komplexe Kausalzusammenhänge und Rückkopplungseffekte experimentell zu erfassen, ohne auf reale Proband*innendaten angewiesen zu sein. Die Kategorisierungsanalyse unterstützt die Identifikation von Mustern und clustert große Informationsmengen, was wiederum Rückschlüsse auf übergeordnete Gesetzmäßigkeiten und Korrelationen zwischen verschiedenen Forschungsaspekten zulässt.
-4	Zusammenspiel der Methoden
-Die Methoden sind nicht isoliert zu betrachten, sondern stehen in einem engen Wechselverhältnis. Die systematische Literaturanalyse (FU4a, FU6) liefert den theoretischen Rahmen, während Eye-Tracking-Experimente und Umfragen (FU4b) konkrete empirische Daten zur Anwendung und Nutzer*innenperspektive bereitstellen. Simulationen und KI-gestützte Analysen (FU7) ermöglichen es, aus den gewonnenen Daten neue Hypothesen zu generieren und Zusammenhänge auf einer abstrakten Ebene zu modellieren. Die abschließende Synthese (FU5) integriert alle Ergebnisse, reflektiert methodische Limitationen und weist auf offene Forschungsfragen hin.
-5	Reflexion der methodischen Vielfalt
-Die breite methodische Aufstellung in Tabelle 4 verdeutlicht den Anspruch, das Untersuchungsfeld aus multiplen Perspektiven zu erfassen. Die Kombination aus klassischen (z.B. Literaturanalysen), modernen (z.B. KI-gestützte Analyse) und experimentellen Methoden (z.B. Eye-Tracking, Simulationen) sorgt für eine hohe Validität und Reliabilität der Ergebnisse. Zudem erlaubt sie die flexible Anpassung des Forschungsdesigns an neue Erkenntnisse und sich verändernde Herausforderungen im Forschungsprozess.
-Tabelle 4 kann damit als zentrales Steuerungsinstrument des Forschungsprojekts angesehen werden und dokumentiert die bewusste, theoriebasierte und empirisch begründete Zuordnung von Methoden zu Forschungsunterfragen. Sie schafft Transparenz, Nachvollziehbarkeit und sorgt für eine effiziente Planung und Umsetzung der Untersuchung. Die methodische Vielfalt und Tiefe ermöglicht es, sowohl grundlegende Mechanismen als auch spezifische Anwendungsaspekte von LMS umfassend zu analysieren und damit einen substanziellen Beitrag zur wissenschaftlichen Diskussion über das Potenzial digitaler Lernumgebungen zu leisten.
-Datenerhebung und -aufbereitung (ca. 4–5 Seiten)
-Interpretation der Methodenkohärenz
+## 4.2 Forschungsdesign und Datenerhebung
 
-Durch die kombinierte Anwendung deduktiver Strukturierung, statistischer Clusteranalyse ($k$-Means) und selektiver Segmentierung anhand empirisch ermittelter Perzentile ($Q_2$–$Q_3$) wurde ein qualitativer Literaturkorpus in eine quantitativ auswertbare Struktur überführt. Diese Vorgehensweise ermöglicht eine fundierte Zuordnung der Forschungsunterfragen (FU) zu jenen Bereichen der Literatur, die sich im Verdichtungsraum epistemischer Kohärenz befinden. Das bedeutet: Die ausgewählten Publikationen weisen eine besonders hohe strukturelle Nähe zueinander auf, gemessen an der maximalen Trennschärfe und Homogenität im Silhouette-Score.
+### 4.2.1 Systematische Literaturanalyse
 
-Bemerkenswert ist dabei, dass die Auswahl nicht durch subjektives Eingreifen, thematische Vorannahmen oder bewusste Schwerpunktsetzungen erfolgte, sondern ausschließlich durch algorithmisch rekonstruierte Dichtefelder innerhalb der deduktiv-numerischen Vektorräume. Die Aussagen, die aus diesem Literaturfeld hervorgehen, können somit als besonders stabil, kohärent und epistemisch tragfähig gewertet werden – sie stellen gewissermaßen den empirischen Kern des aktuellen Diskurses dar.
+Die systematische Literaturanalyse bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
+
+Bemerkenswert ist, dass die Auswahl nicht durch subjektives Eingreifen, thematische Vorannahmen oder bewusste Schwerpunktsetzungen erfolgte, sondern ausschließlich durch algorithmisch rekonstruierte Dichtefelder innerhalb der deduktiv-numerischen Vektorräume. Die Aussagen, die aus diesem Literaturfeld hervorgehen, können somit als besonders stabil, kohärent und epistemisch tragfähig gewertet werden – sie stellen gewissermaßen den empirischen Kern des aktuellen Diskurses dar.
 
 Jahr	$n$	Cluster	Silhouette-Skore
 2010	7	2	1.0000
@@ -162,11 +99,7 @@ Jahr	$n$	Cluster	Silhouette-Skore
 Summe			
 
 
-
-
-
-
-
+<<<Abbildung Zeitreihe einfügen>>>
 
 
 Die Visualisierung zeigt eine Kombination aus zwei zentralen Metriken für deine Analysequalität:
@@ -217,8 +150,16 @@ Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es,
     wissenschaftliche Aussagen systematisch zu begründen,
     und die methodische Qualität retrospektiv zu validieren.
 
+## 4.3 Datenanalyse
 
-KI-gestützte Dokumentenanalyse
+### 4.3.1 Klassische Auswertungsverfahren
+
+### 4.3.2 KI-gestützte Dokumentenanalyse
+
+
+<<<Primäranalyse, Sekundäranlyse und P-QIA einfügen>>>
+
+KI-gestützte Dokumentenanalyse (Primäranalyse, Sekundäranlyse und P-QIA)
 - Systematische Dokumentenanalyse:
 
 
@@ -227,9 +168,7 @@ Entsprechend der Überlegungen von Yu et al. (2024, S. 2–3, 6–8), die den Ei
 Die Verbindung klassischer Dokumentenanalyse mit KI-gestützter Kategorisierung stellt eine innovative methodische Synthese dar, die sowohl die Verarbeitung umfangreicher Literaturbestände erleichtert als auch eine transparente, systematische und theoriegeleitete Rückführung auf den Forschungsprozess ermöglicht. Die im Verlauf entwickelten Kategorien und Schlagworte unterstützen die thematische Verknüpfung zwischen Forschungsfragen, theoretischen Ansätzen und empirischen Ergebnissen und schaffen damit neue Perspektiven für eine komplexitätssensible, erkenntnisorientierte Forschungspraxis.
 
 
-
-
-Keine KI-Analyse Erwähnung bei den herkömmlichen Methodenbüchern -> also eine neue Methode – Grundlage (Yu et al., 2024, S. 2–3, 6–8) da dieser explizit die Nutzung von KI zur Unterstützung von Reflexions- und Analyseprozessen behandelt. Ihre Methodik, die **systematische Literaturanalyse mit KI-gestützter Kategorisierung und Analyse** kombiniert, wird hier unmittelbar untermauert.
+Keine KI-Analyse Erwähnung bei den herkömmlichen Methodenbüchern -> also eine neue Methode – Grundlage (Yu et al., 2024, S. 2–3, 6–8) da dieser explizit die Nutzung von KI zur Unterstützung von Reflexions- und Analyseprozessen behandelt. Ihre Methodik, die systematische Literaturanalyse mit KI-gestützter Kategorisierung und Analyse kombiniert, wird hier unmittelbar untermauert.
 
 Die systematische Literaturanalyse in dieser Arbeit dient der Identifikation relevanter Arbeiten zur Beantwortung der Forschungsfragen mit dem Ziel, eine thematische Verknüpfung zwischen den einzelnen Forschungsfragen und bestehenden wissenschaftlichen Erkenntnissen herzustellen. Um die Analyseprozesse effizienter zu gestalten und neue Muster und Zusammenhänge zu identifizieren, wird die systematische Literaturauswertung durch KI-gestützte Methoden ergänzt. Diese hybride Vorgehensweise erlaubt damit, Schlagworte, Kategorien und Querverweise datenbasiert zu strukturieren und so eine methodisch fundierte Grundlage für die weiteren Forschungsschritte zu schaffen.
 Ein vergleichbarer Ansatz wird von Yu et al. (2024, S. 2–3, 6–8) beschrieben, die in ihrer Arbeit aufzeigen, dass KI-gestützte Analysen die Tiefe der Reflexion und Analyseprozesse signifikant verbessern können. In ihrem Hybrid Intelligence Feedback (HIF)-System werden große Sprachmodelle (LLMs) genutzt, um Peer-Feedback strukturiert aufzubereiten und in übergeordnete Kategorien zu systematisieren. Diese Vorgehensweise zeigt, dass KI nicht nur eine unterstützende, sondern eine strategisch integrierte Rolle in der systematischen Analyse übernehmen kann. Analog dazu wird in dieser Arbeit eine KI-gestützte Kategorisierung der Literatur durchgeführt, um die Identifikation relevanter Begriffe und Forschungszusammenhänge zu optimieren.
@@ -242,7 +181,8 @@ Vergleich der Kodierergebnisse zwischen Mensch und KI
 
 Ein zentraler Aspekt der qualitativen Clustervalidierung ist der Vergleich zwischen menschlichen Kodierungen und KI-gestützten Inhaltsanalysen. Um die methodische Präzision beider Ansätze zu bewerten, wurden die Silhouette-Scores der jeweiligen Analysen berechnet. Die Ergebnisse zeigen deutliche Unterschiede in der Trennschärfe der Cluster.
 
-### 4.1.2 Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung
+#### Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung
+
 Zur Überprüfung der methodischen Präzision und Trennschärfe von KI-gestützten Analysen im Vergleich zu menschlichen Kodierungen wurde die qualitative Clustervalidierung auf eine klassisch kodierte Studie von Kerman et al. (2024) angewendet. Ziel war es, die Clusterstruktur beider Verfahren zu vergleichen und Unterschiede in der methodischen Konsistenz zu identifizieren.
 Die Analyse ergab, dass die KI-gestützte Analyse einen Silhouette-Score von 0.92 erreichte, während die menschliche Kodierung lediglich 0.62 betrug. Dies verdeutlicht die höhere methodische Präzision und Trennschärfe der KI-gestützten Analyse. Während die manuelle Kodierung stärkere Überschneidungen zwischen Kategorien aufwies, erzeugte die KI-gestützte Analyse klar abgegrenzte Clusterstrukturen mit geringerem inhaltlichem Überlapp.
 Die Ergebnisse zeigen, dass KI-gestützte Inhaltsanalysen eine objektivere und methodisch konsistentere Alternative zur klassischen Kodierung darstellen können. Die qualitative Clustervalidierung bestätigt, dass menschliche Kodierungsprozesse anfällig für subjektive Einflüsse sind und eine systematische Überprüfung erfordern. Die methodische Stabilität der KI-Analyse verdeutlicht die Notwendigkeit, qualitative Inhaltsanalysen durch datenbasierte Validierung zu ergänzen.
@@ -277,7 +217,7 @@ Die Ergebnisse zeigen, dass die qualitative Clustervalidierung eine objektive Be
 
 Gleichzeitig bleibt zu beachten, dass menschliche Kodierungen theoretische Konzepte und interpretative Nuancen einbeziehen können, die über rein datenbasierte Analysen hinausgehen. Diese Erkenntnisse unterstreichen das Potenzial der qualitativen Clustervalidierung als standardisiertes Verfahren zur Überprüfung methodischer Trennschärfe. Langfristig könnte sie als ergänzende Methode zur Qualitätssicherung klassischer Kodierungsverfahren etabliert werden. In der qualitativen Forschung könnte daher ein hybrider Ansatz sinnvoll sein, bei dem KI-gestützte Analysen zur Strukturierung und Validierung menschlicher Kodierungen eingesetzt werden.
 
-## 4.2 Exkurs: Mehrdimensional-analytische Clustervalidierung
+### 4.3.3 Mehrdimensional-analytische Clustervalidierung (mdaCV)
 
 Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse, eher zufällig als potenzielle Erweiterung der qualitativen Analyse in Betracht gezogen (Kapitel 4.3.1). Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus erschien als vielversprechender Zugang zur Identifikation verborgener Muster oder nicht explizit abgebildeter Strukturen. Überraschenderweise blieben jedoch neue Erkenntnisse aus, da die Clustervalidierung weitgehend die bestehenden semantischen Erkenntnisse bestätigte. Diese zunächst irritierende Stabilität erwies sich im weiteren Verlauf als methodisch hochbedeutsam. Die Tatsache, dass ein klassisch induktiv genutzter Algorithmus ein deduktiv geschaffenes Ordnungssystem reproduzierte, verweist auf eine inhärente Validierung der Ausgangsstruktur. Erst mit zeitlichem Abstand wurde deutlich, dass sich hier eine neue methodische Perspektive eröffnet, d.h. die Möglichkeit, qualitative Strukturierungslogiken algorithmisch zu überprüfen.
 Aus dieser Beobachtung entwickelte sich schrittweise die mehrdimensional-analytische Clustervalidierung (mdaCV). Ein Verfahren, das qualitative Strukturierung, algorithmische Clusterdetektion und visuelle Repräsentation in einem konsistenten Validierungsprozess verbindet. Dabei wird ein deduktiv formulierter semantischer Raum entlang inhaltlich begründeter Dimensionen (z.B. Kategorien, Forschungsfragen, Schlagworte) aufgespannt. Die Positionierung der Datenpunkte erfolgt entlang dieser Achsen, die Clusterbildung erfolgt mit dem $k$-Means-Algorithmus, die Qualität der Trennung wird über den Silhouette-Score erfasst (vgl. Rousseeuw, 1987). (Hanisch-Johannsen, 2025a)
@@ -302,7 +242,8 @@ Eine Veränderung von bspw. $0.001$ bei konstantem Stichprobenumfang und stabile
 Tabelle 6: Strukturelle Paradigmen-Überlagerung bei Clusteranalysen
 Quantitativ	Qualitativ
 
->>> Abbildungen einfügen <<<
+<<<Abbildungen einfügen>>>
+
 Silhouette-Score als Gütemaß	Deduktive Kategorienstruktur
 Clusterdichte und Trennschärfe	Theoriegeleitete Semantikachsen
 
@@ -310,7 +251,7 @@ $k$-Means als algorithmischer Kern	Vorstrukturierung durch Forschungsperspektive
 Die Darstellung verdeutlicht, wie sich deduktive, theoriegeleitete Kategorien mit algorithmischen, quantitativ validierbaren Verfahren, etwa dem $k$-Means-Algorithmus und dem Silhouette-Score, strukturell verzahnen. Diese methodische Komplementarität ist zentral für die mehrdimensional-analystische Clustervalidierung (mdaCV) und ermöglicht die gleichzeitige Berücksichtigung epistemischer Tiefenstruktur und formaler Trennschärfe.
 Besonders hervorzuheben ist dabei, dass die methodische Verzahnung nicht nur eine Erweiterung quantitativer Validierungsmaßstäbe bedeutet, sondern auch die Öffnung für neue, integrative Bewertungsdimensionen. Während die klassische Clusterbewertung meist auf einzelne numerische Kennzahlen fokussiert, rückt der mdaCV-Ansatz die Notwendigkeit einer umfassenderen Güteprüfung ins Zentrum, bei der neben der formalen Trennschärfe auch die inhaltliche Erfassungstiefe und Vollständigkeit der Daten eine Rolle spielt. Damit wird der Blick für latente Verlustrisiken geschärft, die rein metrische Metriken bislang ausblenden.
 
-### 4.2.1 Epistemische Verlustfunktion als heuristisches Integritätsmaß
+#### 4.3.3.1 Epistemische Verlustfunktion als heuristisches Integritätsmaß
 
 Im Kontext der mehrdimensional-analytischen Clustervalidierung wird üblicherweise der Silhouette-Score als zentrales Maß zur Beurteilung der Clusterdifferenzierung genutzt (i.A.a. Rousseeuw, 1987). Dieser Wert allein erfasst jedoch lediglich die geometrische Separierbarkeit der Cluster im Vektorraum. Was bislang fehlt, ist ein zusammengesetztes Maß, das sowohl die strukturelle Kohärenz (Silhouette) als auch die semantische Vollständigkeit (Datenintegrität) einer Analyse widerspiegelt. Im Rahmen dieser Dissertation wurde daher eine epistemische Verlustfunktion ℇ eingeführt, die beide Dimensionen in einem einzigen heuristischen Indikator vereint. Ziel dieses Verfahrens ist die Modellierung eines skalierbaren Integritätsmaßes, welches sowohl den Grad der Clusterdifferenzierung als auch den Umfang erfasster Quellen berücksichtigt. Die Funktion kann damit als Überwachungsgröße für Datenverarbeitungsläufe herangezogen werden und kritische Abweichungen sichtbar machen, die sich nicht allein über Silhouette- oder Dokumentenzahl abbilden lassen. Die epistemische Verlustfunktion wird von den beiden Größen Clusterdifferenzierungsleistung, gemessen über den Silhouette-Score, und Datenvollständigkeit, gemessen über das Verhältnis zwischen intendierter und tatsächlich verarbeiteter Quellenzahl. Die Epistemische Verlustfunktion ℇ wird wie folgt definiert:
 
@@ -347,7 +288,10 @@ Die epistemische Verlustfunktion liegt in diesem Fall mit $≈ 0,0252$ in einem 
 
 Der Nutzen dieses Maßes liegt nicht in seiner absoluten Exaktheit, sondern in der epistemischen Sensibilität. Schon kleinste Abweichungen vom Ideal (Silhouette < 1 oder Datenlücken) werden sichtbar gemacht und können reflektiert werden, woraus eine neue Form der kontinuierlichen Gültigkeitsüberwachung in datenintensiven Forschungsprozessen entsteht. Die hier eingeführte epistemische Verlustfunktion ℇ stellt ein heuristisches und gleichzeitig methodisch begründetes Integritätsmaß dar, das den Anspruch der mdaCV auf Verknüpfung qualitativer und quantitativer Güteprinzipien konsequent weiterführt. Sie ist anschlussfähig für weitere Forschungsdesigns, maschinelle Analysen und metawissenschaftliche Validitätsdiskurse.
 
-## 4.3 Reflexion der Methode (ca. 2 Seiten)
+
+## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung
+
+## 4.5 Reflexion der Methode
 
 Die kritische Methodenreflexion hat den Zweck, die eigene Arbeitsweise transparent, nachvollziehbar und anhand des wissenschaftlichen Qualitätskriteriums „Methodische Strenge“ (Döring, 2023c, S. 89–90) beurteilbar zu machen. Inwiefern diese Arbeit die Anforderungen an eine methodisch saubere, nachvollziehbare und theoriegeleitete Forschung erfüllt, ist in diesem Kapitel zu klären.
 Als Herleitungsgrundlage kann ein systemisch-konstruktivistisches Verständnis von Erkenntnis angesetzt werden, das mit bewährten Evaluationsmodellen (z. B. dem CIPP-Modell nach Stufflebeam in Hanisch (2017, Kapitel 3.1)) sowie analytischen Verfahren wie Korrelations- und deduktiven Clusteranalysen verbunden wird. Diese Kombination ist weder beliebig noch additiv, sondern strukturell aufeinander bezogen und somit theoriekompatibel.  Die Auswahl der Methoden ergibt sich aus der forschungsfragengeleiteten Logik. Sie folgt keiner Paradigmentreue, sondern einem funktionalen Verständnis von Methodeneinsatz und hat zur Folge, dass qualitative und quantitative Verfahren entlang der FU dort eingesetzt werden, wo sie zur Bearbeitung beitragen. Die theoretischen Begriffe (z.B. Kompetenz, Selbstorganisation, Nachhaltigkeit) werden auf konkrete Analyseebenen übertragen, etwa über Prädiktorvariablen (z.B. PV1a–PV3 bei Hanisch (2017, Kapitel 3.4)) oder KI-gestützte Analysen. Sämtliche Analyseprozesse, von der Auswahl der Quellen, über die Generierung und Anwendung der Prompts, bis hin zur Auswertung und Rückführung in die FU, sind dokumentiert, versioniert und theoretisch hergeleitet. Die Struktur folgt einer nachvollziehenden analytischen Logik, die von der FU über die erste KI-gestützte Analyse bis zur Metaebene mit Clusterauswertungen übergeht. Als kuratierende Hilfsmittel unterstützen digitale Werkzeuge, unter deren Verwendung das Literatur und Notizmanagement (Zotero), die Versionierungen (Gitea), sowie die statistischen Berechnungen und Visualisierungen (Python) durchgeführt werden konnten. Diese Kombination von Methoden und Werkzeugen gewährleistet sowohl Reproduzierbarkeit als auch in sich Konsistenz.
