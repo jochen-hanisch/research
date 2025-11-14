@@ -1,0 +1,1 @@
+[Ihr MAXQDA 2022 Upgrade](message:%3CCWxDiQrjYnzyTljHfPDIYHiKAo9PL4hQ2LsTWRAeU@www.maxqda.com%3E)

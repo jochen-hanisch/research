@@ -59,13 +59,13 @@ Die in dieser Arbeit verwendete P‑QIA ist in `P-QIA Statistik.md` formal dokum
 1. **Segmentierung:**  
    Die jeweiligen Primäranalysen werden in Sinnabschnitte segmentiert (in der Regel 1–3 Sätze, bei FU7 1–2 Sätze).
 2. **Embedding:**  
-   Jedes Segment wird mit einem Embedding‑Modell (`gpt-5-codex-embed`) in einen hochdimensionalen Vektorraum überführt.
+   Jedes Segment wird mit einem GPT‑Embedding‑Modell in einen hochdimensionalen Vektorraum überführt.
 3. **Clustering:**  
    Auf Basis dieser Vektoren wird ein k‑means‑Clustering durchgeführt. Die Wahl von *k* orientiert sich sowohl am erwarteten inhaltlichen Spektrum der Forschungsunterfrage als auch an der Optimierung des Silhouette‑Koeffizienten.
 4. **Silhouette‑Berechnung:**  
    Für jedes Clustering wird der mittlere Silhouette‑Wert berechnet (Rousseeuw, 1987). Werte ≥ 0.87 werden als Hinweis auf hohe interne Kohärenz und ausreichende Trennschärfe zwischen den Clustern interpretiert.
 5. **Labeling und theoretische Validierung:**  
-   Ein Reasoning‑Modell (`gpt-5-codex`) generiert Vorschläge für Clusterlabel und Kandidatendefinitionen. Diese werden durch die Forscher*in im Abgleich mit theoretischen Modellen (z. B. Technology Acceptance Model, Self‑Determination Theory, TPACK) und den jeweiligen Metaprompts geprüft, angepasst oder verworfen.
+   Ein GPT‑basiertes Reasoning‑Modell generiert Vorschläge für Clusterlabel und Kandidatendefinitionen. Diese werden durch die Forscher*in im Abgleich mit theoretischen Modellen (z. B. Technology Acceptance Model, Self‑Determination Theory, TPACK) und den jeweiligen Metaprompts geprüft, angepasst oder verworfen.
 6. **Ableitung des Kodiermanuals:**  
    Aus den stabilen Clustern werden Kategorien mit Definitionen, Kodierregeln und Ankerbeispielen abgeleitet. Diese Kodiermanuale werden in den jeweiligen Codiersystem‑Dateien zu FU1–FU7 dokumentiert.
 
@@ -79,7 +79,7 @@ Die zentrale Tabelle zeigt, dass:
 
 - für alle FUs dieselbe Grundpipeline (Segmentierung → Embedding → k‑means → Silhouette → Labeling → Kodiermanual) verwendet wird,
 - die gewählten *k*‑Werte im Bereich von 8 bis 15 liegen und damit eine differenzierte, aber noch interpretierbare Anzahl von Kategorien abbilden,
-- die Silhouette‑Werte durchgängig zwischen 0.87 und 0.93 liegen und im Mittel bei ca. 0.89 liegen.
+- die Silhouette‑Werte durchgängig zwischen 0.87 und 0.93 sowie im Mittel bei ca. 0.89 liegen.
 
 Wertebasiert ergibt sich folgendes Bild der Clusterqualität:
 
@@ -106,7 +106,79 @@ Die Reproduzierbarkeitsschritte in [[P-QIA Statistik]] (Vorverarbeitung, Embeddi
 
 In der Summe bilden diese Kennwerte und Verweise die empirische und methodische Basis der P‑QIA in dieser Arbeit: Die hier entwickelten Kategorien und Metamodellierungen sind sowohl qualitativ‑interpretativ (im Sinne Mayrings) als auch probabilistisch‑statistisch (im Sinne vektorbasiert gestützter Validierung) abgesichert.
 
-# 4 Methodische Verortung der P‑QIA
+# 4 Workflow der P‑QIA (in Anlehnung an Mayring)
+
+Der folgende Workflow fasst die in dieser Arbeit verwendete P‑QIA in Anlehnung an die klassische qualitative Inhaltsanalyse nach Mayring zusammen und kann als Grundlage für eine grafische Abbildung dienen:
+
+1. **Forschungsunterfrage und Materialfestlegung (Mayring)**  
+   - Formulierung der jeweiligen Forschungsunterfrage (FU1–FU7).  
+   - Auswahl und Zusammenstellung des relevanten Materials (Primäranalysen, Notizen, Quellen).
+
+2. **Festlegung der Analyseeinheiten (Mayring)**  
+   - Definition der Analyseeinheiten (z. B. Sinnabschnitte, Aussagenebene).  
+   - Festlegung der Einbettungs‑ und Kontextebene.
+
+3. **Segmentierung in Sinnabschnitte (P‑QIA)**  
+   - Automatisierte bzw. halbautomatisierte Zerlegung der Texte in Sinnabschnitte (typischerweise 1–3 Sätze; bei FU7 1–2 Sätze).  
+   - Dokumentation der Segmentierungsregeln.
+
+4. **Embedding und probabilistische Strukturierung (P‑QIA)**  
+   - Umwandlung der Segmente in Vektoren mittels GPT‑Embeddings.  
+   - Durchführung des k‑means‑Clusterings mit FU‑spezifischem *k* (vgl. [[P-QIA Statistik]]).
+
+5. **Qualitätssicherung der Cluster (P‑QIA)**  
+   - Berechnung des Silhouette‑Koeffizienten als Maß für Kohärenz und Trennschärfe.  
+   - Zusammenführung oder Verwerfung instabiler oder inhaltlich nicht plausibler Cluster.
+
+6. **Ableitung und Revision der Kategorien (Mayring + P‑QIA)**  
+   - Generierung von Clusterlabeln und Kategoriendefinitionen (LLM‑gestützt).  
+   - Theoretische Validierung und ggf. Revision im Licht bestehender Modelle (z. B. TAM, SDT, TPACK) und der Metaprompts.  
+   - Erstellung bzw. Überarbeitung des Kodiermanuals (Kategorien, Definitionen, Kodierregeln, Ankerbeispiele).
+
+7. **Kodierung des Materials (Mayring)**  
+   - Anwendung des Kodiermanuals auf das Material.  
+   - Markierung von Grenzfällen, Mehrfachkodierungen und notwendigen Manual‑Revisionen.
+
+8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P‑QIA)**  
+   - Zusammenführung der Kategorien zu thematischen Clustern, Typen oder Metamodellen.  
+   - Rückbindung an die Forschungsunterfragen und theoretischen Rahmen.  
+   - Dokumentation der probabilistischen Kennwerte (z. B. Silhouette) und ihrer Bedeutung für die Interpretation.
+
+Dieser Workflow macht sichtbar, an welchen Stellen die P‑QIA die klassische qualitative Inhaltsanalyse nach Mayring erweitert (Schritte 3–6) und wo die interpretative Verantwortung der Forscher*in unverändert zentral bleibt (insbesondere Schritte 1–2 sowie 6–8).
+
+# 4.1 Mermaid-Workflow (parallele Pfade)
+
+Zur Visualisierung kann der oben beschriebene Ablauf in Obsidian z. B. mit folgendem Mermaid‑Diagramm dargestellt werden. Es zeigt die parallelen Pfade der klassischen Mayring‑Arbeit und der P‑QIA, die gemeinsam in die Kodierung und Synthese einfließen:
+
+```mermaid
+flowchart TD
+    A[Forschungsunterfrage<br/>FU1–FU7] --> B[Materialauswahl<br/>Primäranalysen, Notizen]
+    B --> C[Festlegung der<br/>Analyseeinheiten<br/>Mayring]
+
+    %% Klassischer Mayring-Pfad
+    C --> I[Kodierung des Materials<br/>klassische Kategorienarbeit]
+
+    %% P‑QIA-Pfad (parallel)
+    C --> D[Segmentierung in<br/>Sinnabschnitte<br/>P‑QIA]
+    D --> E[Embedding der Segmente<br/>GPT-Embeddings]
+    E --> F[k-means-Clustering<br/>FU-spezifisches k]
+    F --> G[Silhouette-Berechnung<br/>und Clusterprüfung]
+    G --> H[Ableitung/Revision<br/>der Kategorien und<br/>Kodierregeln P‑QIA]
+    H --> I
+
+    %% Gemeinsame Synthese
+    I --> J[Synthese, Metamodellierung<br/>und Theoriebildung]
+
+    classDef mayring fill:#e0f7fa,stroke:#006064,stroke-width:1px;
+    classDef pqia fill:#f3e5f5,stroke:#4a148c,stroke-width:1px;
+
+    class A,B,C,I,J mayring;
+    class D,E,F,G,H pqia;
+```
+
+Die farbliche Trennung verdeutlicht, welche Schritte aus der klassischen Mayring‑Logik stammen (hellblau) und an welchen Stellen die probabilistische Erweiterung der P‑QIA ansetzt (hellviolett). Der Knoten `I` zeigt, dass klassische Kodierung und P‑QIA‑gestützte Kategorienarbeit nicht sequenziell, sondern als parallele Stränge verstanden werden, deren Ergebnisse gemeinsam in die Synthese und Theoriebildung einfließen.
+
+# 5 Methodische Verortung der P‑QIA
 
 ## 4.1 Anschluss an Mayring
 
@@ -134,9 +206,9 @@ Gleichzeitig geht P‑QIA über die klassische qualitative Inhaltsanalyse hinaus
 
 Damit verschiebt P‑QIA die Gewichtung der Gütekriterien: Neben kommunikative Validierung und Reflexivität tritt die algorithmische Prüfbarkeit der Kategoriensysteme.
 
-# 5 Umsetzung der P‑QIA in dieser Arbeit
+# 6 Umsetzung der P‑QIA in dieser Arbeit
 
-## 5.1 Anwendung auf die Forschungsunterfragen (FU1–FU7)
+## 6.1 Anwendung auf die Forschungsunterfragen (FU1–FU7)
 
 Für alle Forschungsunterfragen wird ein einheitliches P‑QIA‑Vorgehen umgesetzt, das sich in den jeweiligen Prompt‑Rahmen (Sekundäranalyse‑Prompts) und Metaanalysen niederschlägt. Exemplarisch sei FU1 genannt:
 
