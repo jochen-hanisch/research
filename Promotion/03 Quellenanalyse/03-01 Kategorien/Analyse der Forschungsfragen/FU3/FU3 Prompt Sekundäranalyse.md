@@ -28,14 +28,25 @@ Forschungsfrage (FU3):
 
 Methodik:
 
-1. **Theoriearbeit zur Didaktik:**
-    
-    - Untersuchung der grundlegenden didaktischen Prinzipien und Anforderungen für den Einsatz eines LMS im Bildungsraum der Gesundheitsberufe.
-    - Analyse, wie diese Anforderungen in einem LMS konzeptionell und praktisch umgesetzt werden können.
-2. **Bildungstechnologische Theoriearbeit:**
-    
-    - Untersuchung der technischen Architektur und bildungstechnologischen Merkmale eines LMS.
-    - Bewertung der Interaktion zwischen technischen Funktionen und didaktischen Zielen.
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um didaktische und bildungstechnologische Merkmale von LMS zu identifizieren und zu strukturieren (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
+
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die Primäranalysen (FU3) in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Kategorien zu:
+     - **Didaktischem Design** (z. B. Lernaktivitäten, Feedback, Prüfungsformate),
+     - **Systemfunktionalitäten** (z. B. Kommunikation, Personalisierung, Integration),
+     - **Nutzerzentrierung und Zugänglichkeit** (z. B. Barrierefreiheit, Mobilität),
+     - **Strukturellen und technischen Merkmalen** (z. B. Modularität, Interoperabilität, Sicherheit).
+   - Erstelle ein Codierschema mit Definitionen, Ankerbeispielen (Pfad:Zeile) und Kodierregeln für jede Kategorie.
+
+3. **Kodierung, Theoriearbeit und Synthese (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang des Codierschemas.
+   - Verbinde die probabilistisch gewonnenen Kategorien mit didaktischen und bildungstechnologischen Theorien (z. B. digitale Bildung, Standards wie SCORM/xAPI).
+   - Synthese der Merkmale zu konzeptionellen Modellen bzw. Typen von LMS im digitalen Bildungsraum der Gesundheitsberufe.
 
 Erwartete Leistung:
 

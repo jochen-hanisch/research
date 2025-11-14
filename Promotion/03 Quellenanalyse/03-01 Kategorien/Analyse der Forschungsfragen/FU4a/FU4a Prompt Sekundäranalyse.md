@@ -28,15 +28,24 @@ Forschungsfrage (FU4a):
 
 Methodik:
 
-1. **Qualitative Inhaltsanalyse (Mayring):**
-    
-    - Systematische Extraktion und Analyse von Aussagen zu bildungswissenschaftlichen Mechanismen.
-    - Bildung von Kategorien zur Beschreibung von Wirkmechanismen, z. B. kognitive Aktivierung, soziale Interaktion und Selbstregulation.
-    - Absicherung der Kategorien durch Ankerbeispiele und Definitionen, um die Zuordnung von Daten zu erleichtern.
-2. **Synthese der Ergebnisse:**
-    
-    - Identifikation übergreifender Muster und Wirkprinzipien.
-    - Analyse, wie diese Mechanismen die Erfahrungen und das Verhalten der Akteure beeinflussen.
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um bildungswissenschaftliche Mechanismen der LMS‑Nutzung zu identifizieren (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
+
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die Primäranalysen (FU4a) in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Mechanismen ab, z. B.:
+     - **Kognitive Aktivierung**,
+     - **Selbstregulation**,
+     - **Soziale Interaktion**,
+     - weitere bildungswissenschaftliche Mechanismen (z. B. Feedback, Reflexion).
+   - Erstelle ein Codierschema mit Definitionen, Ankerbeispielen (Pfad:Zeile) und Kodierregeln für jede Mechanismuskategorie.
+
+3. **Kodierung und Synthese (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang der Mechanismuskategorien.
+   - Synthese der Ergebnisse zu übergreifenden Wirkprinzipien; Analyse, wie diese Mechanismen Erfahrungen und Verhalten der Akteure im digitalen Bildungsraum prägen.
 
 Erwartete Leistung:
 

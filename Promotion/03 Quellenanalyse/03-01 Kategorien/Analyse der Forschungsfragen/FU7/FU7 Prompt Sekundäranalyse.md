@@ -28,14 +28,23 @@ Analysiere die bereitgestellte Datei systematisch und integriere alle enthaltene
 
 Methodik:
 
-1. **Einfall und Theorieentwicklung (Glaser & Strauss, 1967):**
-    
-    - Anwendung eines iterativen Prozesses, um Inputs und Strategien zu identifizieren, die auf die Wirkung des LMS einwirken.
-    - Nutzung der Grounded-Theory-Methodologie, um Kausalzusammenhänge und Wirkungsbeziehungen systematisch zu entwickeln.
-2. **Berücksichtigung des Technologiedefizits (Luhmann & Schorr, 1982):**
-    
-    - Analyse, wie technologische Inputs durch soziale und organisatorische Strategien ergänzt werden müssen, um wirksame Ergebnisse im digitalen Bildungsraum zu erzielen.
-    - Identifikation von Grenzen der Technologie sowie notwendiger nicht-technologischer Ergänzungen.
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um Inputs und Strategien in einem kausalen Wirkmodell der LMS‑Nutzung zu rekonstruieren (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
+
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die Primäranalysen (FU7) in kurze Sinnabschnitte (1–2 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Kategorien zu:
+     - **Inputs** (z. B. Ressourcen, Rahmenbedingungen, technologische/didaktische/organisationale Inputs),
+     - **Strategien** (z. B. didaktische, technologische, organisationale Strategien),
+     - **Wirkungen** (z. B. Effekte auf Nutzung, Akzeptanz, Kompetenzerwerb).
+   - Erstelle ein Codierschema mit Definitionen, Ankerbeispielen (Pfad:Zeile) und Kodierregeln zur Zuordnung von Segmenten zu Input, Strategie und Wirkung.
+
+3. **Kodierung, Kausalmodellierung und Theoriebezug (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang der drei Kategoriengruppen (Inputs, Strategien, Wirkungen).
+   - Rekonstruiere auf dieser Basis Kausalpläne (Ursache‑Wirkungs‑Ketten) und verknüpfe sie mit theoretischen Konzepten (z. B. Technologiedefizit nach Luhmann & Schorr, systemtheoretische Perspektiven).
 
 Erwartete Leistung:
 

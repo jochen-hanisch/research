@@ -29,14 +29,23 @@ Forschungsfrage (FU6):
 
 Methodik:
 
-1. **Theoriearbeit zur Kompetenzforschung:**
-    
-    - Untersuchung der relevanten Konstrukte der Kompetenzforschung (z. B. Wissensaufbau, Handlungskompetenz, Selbstkompetenz).
-    - Analyse der Verschränkung dieser Konstrukte mit den Funktionen und Einsatzmöglichkeiten eines LMS.
-2. **Integration mit bestehenden Analysen (ggf. Verbindung mit FU2):**
-    
-    - Einbindung von Ergebnissen aus vorherigen Analysen (z. B. FU2) zur Wirkung des LMS auf Akteure.
-    - Verknüpfung der theoretischen Ansätze mit empirischen Erkenntnissen, um die Beurteilung des LMS als Kompetenzerwerbssystem zu untermauern.
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um Aussagen zur Eignung des LMS als Kompetenzerwerbssystem zu strukturieren (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
+
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die Primäranalysen (FU6) in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Kategorien zu:
+     - **Kompetenzbezug** (Fach‑, Handlungs‑, Sozial‑, Selbstkompetenz),
+     - **Kompetenzfördernden LMS‑Funktionen** (z. B. interaktive Lernmodule, kollaborative Werkzeuge, Feedback‑Mechanismen),
+     - **Begrenzenden Faktoren** (z. B. fehlende Passung, technische/organisationale Hürden).
+   - Erstelle ein Codierschema mit Definitionen, Ankerbeispielen (Pfad:Zeile) und Kodierregeln.
+
+3. **Kodierung, Theoriearbeit und Synthese (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang der Kategorien.
+   - Verknüpfe die Ergebnisse mit Kompetenzmodellen und Theorien des selbstgesteuerten Lernens; leite daraus eine Bewertung der LMS‑Eignung als Kompetenzerwerbssystem ab.
 
 
 Erwartete Leistung:

@@ -28,15 +28,24 @@ Forschungsfrage (FU4b):
 
 Methodik:
 
-1. **Qualitative Inhaltsanalyse (Mayring, 2010; Mayring & Gläser-Zikuda, 2008):**
-    
-    - Systematische Extraktion und Analyse der technisch-gestalterischen Mechanismen aus den vorhandenen Daten.
-    - Bildung und Absicherung von Kategorien, die technische Merkmale (z. B. Navigation, Visualisierung, Interaktivität) und ihre gestalterische Umsetzung beschreiben.
-    - Identifikation von Mechanismen, die als unterstützend oder hinderlich für die Erfahrungen der Akteure wirken.
-2. **Vorbereitung auf die Auswertung des Eye-Tracking-Versuchs:**
-    
-    - Ableitung technischer und gestalterischer Hypothesen aus den Ergebnissen der Inhaltsanalyse.
-    - Identifikation relevanter Merkmale für die Eye-Tracking-Auswertung (z. B. Blickführung, Interaktionsverhalten, Benutzerfreundlichkeit).
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um technisch‑gestalterische Mechanismen eines systemisch‑konstruktivistischen LMS zu identifizieren (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
+
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die Primäranalysen (FU4b) in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Mechanismenkategorien ab, z. B.:
+     - **Navigation**,
+     - **Visualisierung**,
+     - **Interaktivität**,
+     - ggf. weitere technisch‑gestalterische Dimensionen (z. B. Responsivität, Barrierefreiheit).
+   - Erstelle ein Codierschema mit Definitionen, Ankerbeispielen (Pfad:Zeile) und Kodierregeln.
+
+3. **Kodierung, Synthese und Vorbereitung der Eye‑Tracking‑Auswertung (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang der Mechanismenkategorien.
+   - Synthese der Ergebnisse zu einem Mechanismenmodell; Ableitung technischer und gestalterischer Hypothesen für die Eye‑Tracking‑Auswertung (z. B. Blickführung, Interaktionsverhalten, Usability).
 
 
 Erwartete Leistung:
