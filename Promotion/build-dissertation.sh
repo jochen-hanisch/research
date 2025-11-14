@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR"
 
 pandoc \
   dissertation.md \
-  "04 Kapitelstruktur/04-01 Einleitung und theoretischer Rahmen/04-01 Einleitung und theoretischer Rahmen.md" \
+  "04 Kapitelstruktur/04-01 Einleitung/04-01 Einleitung.md" \
   "04 Kapitelstruktur/04-02 Theorieteil/04-02 Theorieteil.md" \
   "04 Kapitelstruktur/04-03 Forschungsgegenstand/04-03 Forschungsgegenstand.md" \
   "04 Kapitelstruktur/04-04 Methodologie/04-04 Methodologie.md" \

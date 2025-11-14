@@ -1,3 +1,5 @@
+\newpage
+
 # 5 Ergebnisse
 
 Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es schlägt die Brücke von der Methodologie (Kapitel 4) zur Interpretation in Kapitel 6 und strukturiert die Ergebnisdarstellung entlang der in `Kapitel 5 Struktur.md` dokumentierten Kernbereiche.

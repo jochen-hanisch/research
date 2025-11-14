@@ -43,8 +43,6 @@ header-includes:
 
 \pagestyle{plain}
 
-# Titelseite
-
 ```{=latex}
 \begin{titlepage}
 \begin{center}
@@ -111,7 +109,14 @@ header-includes:
 
 # Formelverzeichnis
 
-<!-- Optional: eigene Umgebung/Liste für Formeln, wenn du das weiter nutzen möchtest. -->
+Die nachfolgende Tabelle listet alle im Manuskript aufgeführten Gleichungen mit der jeweils zugehörigen inhaltlichen Beschreibung.
+
+\begin{longtable}{p{4cm}p{10cm}}
+\caption{Formelverzeichnis}\label{tab:formelverzeichnis}\\
+\textbf{Gleichung} & \textbf{Beschreibung} \\
+\hline
+\eqref{eq:verlust} & Epistemische Verlustfunktion zur Bewertung der Integrität der mehrdimensional-analytischen Clustervalidierung (mdaCV). \\
+\end{longtable}
 
 \newpage
 
