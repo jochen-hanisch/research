@@ -44,39 +44,10 @@ Wissenschaftliche und praxisorientierte Erkenntnisinteressen.
 
 > Die Forschungsfrage ist absichtlich eng gefasst, da ein bestehendes Learning-Management-System betrachtet wird. Weiterhin besteht die aufgrund einer weit gefassten Begriffsauslegung die Notwendigkeit, die Forschungsfrage in ihrer Syntax zu entfalten Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet (Schnell et al., 2013, S. 7). Ziel und Zweck der Forschungsfrage ist die Betrachtung der Anwendung des eingesetzten Medientools LMS (S. 7) im digitalem Bildungsraum (S. 6, 5). Als zentraler Begriff, der zu operationalisieren ist, steht das Wirkgefüge (S. 6) im Fokus. Der Kontext, in dem die Bearbeitung stattfindet, ist in den Gesundheitsberufen (S. 7) zu finden, in dessen Kontext Akteure (S. 7) agieren. Zur Operationalisierung wurde der Begriff der Gestaltung ausgewählt. (Hanisch, 2022, 24-25)
 
-Tabelle 1: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen
-FU	Bearbeitungsmethode	Erfüllungskriterien
-FU1	Qualitative Metaanalyse (Döring, 2023, S. 874)	Darstellung des aktuellen Forschungsstandes in der Fachliteratur und Einordnung in das Gesamtgefüge
-FU2a	Evaluating Training Programs (Kirkpatrick, 1998)
-The Training Evaluation Inventory (Ritzmann et al., 2014)
-Bildungswissenschaftliche Evaluation des Trainingsprogramms (quantitativ); Anwendungsorientierte Evaluation des Trainingsprogramms (quantitativ-qualitativ)
-FU2b	Halbstrukturiertes Gruppeninterview im Face-to-Face Kontakt mit Betroffenen (Döring, 2023a, Kapitel 3.2, 10.2)
-Erzeugung generalisierbarer Aussagen zu den Faktoren, die durch Lernende genannten Effekte
-FU3	Rezeption der systemisch-konstruktivistischen Theorie; Theoriearbeit
-Bildungstechnologische Theoriearbeit über die Architektur des Learning-Management-Systems
-(Döring, 2023d, Kapitel 6.3.1)
-Darstellung des didaktischen Designs sowie Herleitung, Beschreibung und Absicherung der relevanten Merkmale
-FU4a	Qualitative Inhaltsanalyse (Mayring, 2010; Mayring & Gläser-Zikuda, 2008)	Herleitung, Beschreibung und Absicherung der relevanten Wirkmechanismen
-FU4b	Quantitative Beobachtung (Döring & Bortz, 2016a, Kapitel 10.1.3)
-Augenaktivität (Eye-Tracking) 
-Computersimulation zur Theorieprüfung (Döring, 2023d, Kapitel 6.3.1) 
-Datenerhebung und -auswertung, Theorieprüfung sowie Einordnung der Ergebnisse
-FU5	Qualitative Inhaltsanalyse (Mayring, 2010; Mayring & Gläser-Zikuda, 2008); SWOT-Analyse (Wollny & Paul, 2015)	Einordnung der Möglichkeiten und Grenzen des Trainingsmodells in einer nachvollziehbaren Darstellung
-FU6	Verschränkung der systemisch-konstruktivistischen Theorie mit den Konstrukten der Kompetenzforschung; Theoriearbeit	Herleitung, Darstellung, Transfer und Einordnung der Ergebnisse
+Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7) zu den eingesetzten Methoden sowie den jeweiligen Erfüllungskriterien ist in Kapitel 4.2 (Forschungsdesign und Datenerhebung) dargestellt.
 
-FU7	„Einfall und Theorieentwicklung“ (Glaser & Strauss, 1967, Kapitel XI) auf Grundlage der Berücksichtigung des Technologiedefizites (Luhmann & Schorr, 1982)	Entwicklung eines kausalen Ursachen-Wirkungstheoriemodells (Kausalpläne) und Überführung in Handlungsempfehlungen
-Die Tabelle fasst die Forschungsunterfragen (FU) zusammen und ordnet sie ihren jeweiligen Bearbeitungsmethoden sowie den damit verbundenen Erfüllungskriterien zu.
-Die einzelnen Forschungsunterfragen greifen dabei ineinander und bilden gemeinsam einen strukturierten Analyserahmen des untersuchten Learning-Management-Systems. Während jede FU einen spezifischen Aspekt beleuchtet, von Akzeptanz, Nützlichkeit und Effekten über technologische, didaktische und gestalterische Merkmale bis hin zu theoretisch fundierten Ursachen-Wirkungs-Zusammenhängen, ergibt sich aus der Gesamtheit ein umfassendes Bild, das sowohl praxisnahe als auch theoriegeleitete Perspektiven vereint. Jede Forschungsunterfrage erfüllt dabei eine spezifische Funktion und fokussiert einen jeweils eng umrissenen thematischen Schwerpunkt. In ihrer Gesamtheit ermöglichen sie eine vielschichtige Analyse des Untersuchungsgegenstandes:
--	FU1 führt unter Anwendung der qualitativen Metaanalyse dazu, die Akzeptanz und den wahrgenommenen Nutzen eines Learning-Management-Systems im Gesundheitswesen zu untersuchen. Ziel ist hierbei, zentrale Bewertungen von Akteur*innen sichtbar zu machen und deren Relevanz systematisch einzuordnen.
--	FU2a/2b kombinieren quantitative Evaluationsmethoden und qualitative Interviews, um Effekte und Einflussfaktoren aus Sicht von Lernenden und Lehrenden zu identifizieren. Dadurch sollen Gelingensbedingungen und Herausforderungen beim Einsatz des Systems empirisch fundiert herausgearbeitet werden.
--	FU3 stützt sich auf Theoriearbeit, um die didaktischen und technologischen Merkmale des LMS tiefgreifend zu analysieren. Im Zentrum steht dabei die Ableitung theoretisch fundierter Prinzipien für die Systemgestaltung.
--	FU4a/4b nutzen bildungswissenschaftliche Inhaltsanalysen sowie technisch-gestalterische Beobachtungsverfahren sowie computergestützte Simulationen, um Mechanismen der Kompetenzentwicklung und Systemnutzung zu erfassen. Ziel ist, Potenziale zur didaktischen und funktionalen Optimierung aufzudecken.
--	FU5 greift auf qualitative Inhaltsanalyse und SWOT-Analyse zurück, um Möglichkeiten und Grenzen des Systems systematisch zu bewerten. Dabei stehen strategische Entwicklungsoptionen und potenzielle Risiken im Vordergrund.
--	FU6 bewertet das LMS mittels theoretischer Modellbildung als Instrument zur Kompetenzentwicklung. Fokus ist die Frage, inwieweit das System den Aufbau fachlicher und überfachlicher Handlungskompetenzen unterstützt.
--	FU7 kombiniert systemtheoretische Ansätze mit theoriegeleiteter Modellbildung, um ein kausales Wirkgefüge zu entwickeln. Aus diesem werden konkrete, evidenzbasierte Handlungsempfehlungen zur Implementierung abgeleitet.
 
-Stand der Forschung und Forschungslücke
-
+## 1.2 Stand der Forschung und Forschungslücke
 
 - [ ] Überblick über die bisherigen Studien und relevante Literatur zum Thema.
 - [ ] legt den Stand der Forschung dar und entwickelt die Fragestellung. 
@@ -85,11 +56,11 @@ Die Untersuchung legt nahe, dass künftige Forschungen sich verstärkt auf die A
 
 > Der menschliche Bildungsprozess ist von einer ständigen Wechselwirkung zwischen grundlegenden emotionalen und kognitiven Bedürfnissen sowie den Unsicherheiten geprägt, die beim Lernen und der Kompetenzentwicklung auftreten. Bedürfnisse wie Bindung, Selbstwerterhöhung und die Vermeidung von Unlust bilden die Basis für eine dynamische Kausalkette, die das Lernverhalten antreibt. Aus den Bedürfnissen heraus entstehen Unsicherheiten im Lernprozess und in der Kompetenzmessung, die das Handeln der Lernenden prägen. Diese Handlungen zielen darauf ab, die Unsicherheiten zu verringern und das Bedürfnis nach Selbstverwirklichung zu befriedigen. In dieser kontinuierlichen Zirkulation beeinflussen sich Bedürfnisse, Konzepte und Handlungen wechselseitig und treiben den Lernprozess stetig voran.
 
-### 1.2.4	Theoretische und empirische Vorüberlegungen
+### 1.2.1	Theoretische und empirische Vorüberlegungen
 
-### 1.2.5	Literaturrecherche
+### 1.2.2	Literaturrecherche
 
-### 1.2.6	Identifikation der Forschungslücke
+### 1.2.3	Identifikation der Forschungslücke
 
 Eine der dem Untersuchungsgegenstand am nächsten kommenden Studien stammt von Fonseca et al. (2024). Diese Untersuchung zeigt, dass digitale Communities of Practice (CoPs) eine zentrale Rolle für den Erfolg kollaborativer Lernökosysteme spielen. Erfolgreiche Collaborative Learning Ecosystems (CESs) zeichnen sich durch klare Kommunikationsstrukturen, dynamische soziale Interaktionen sowie flexible Lerntechnologien aus. Die Studie liefert konkrete Designprinzipien, die zur Entwicklung nachhaltiger digitaler Lernräume genutzt werden können. Auf dieser Grundlage wird ein neues Modell für digitale Lernökosysteme entwickelt, das kollaborative Lernprozesse mit technologischen und sozialen Aspekten verbindet. (Fonseca et al., 2024, S. 130, 134, 137)
 Während die genannte Untersuchung wertvolle Erkenntnisse über die Bedeutung von Communities of Practice (CoPs) und Collaborative Learning Ecosystems (CESs) liefert, fehlt in der bisherigen Forschung eine systemische Erklärung der Wirkmechanismen digitaler Bildungsräume. Die bisherigen Studien konzentrieren sich primär auf die empirische Analyse einzelner Erfolgsfaktoren und Designprinzipien, ohne die kausalen Interdependenzen zwischen den beteiligten Elementen umfassend zu modellieren.
