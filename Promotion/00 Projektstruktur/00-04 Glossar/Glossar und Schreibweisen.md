@@ -13,7 +13,7 @@
 | Datei                                    | Hochgeladene Dokumente und Dateien, die als Lernmaterial dienen.                      |           |
 | Delta E (ΔE)                             | Unsicherheit in der Messung von Kompetenzen.                                          |           |
 | Delta K (ΔK)                             | Unsicherheit in der Entwicklung von Kompetenzen.                                      |           |
-| E-Lear­ning                              | Oberbegriff für elektronisch bzw. digital gestütztes Lernen, das über Computer, mobile Endgeräte und Online-Plattformen (z. B. LMS) organisiert und durchgeführt wird. |           |
+| E-Learning                              | Oberbegriff für elektronisch bzw. digital gestütztes Lernen, das über Computer, mobile Endgeräte und Online-Plattformen (z. B. LMS) organisiert und durchgeführt wird. |           |
 | E-Portfolio                              | Digitales Portfolio zur Sammlung, Strukturierung und Reflexion von Lernartefakten, Kompetenzen und Entwicklungsprozessen über einen definierten Zeitraum. |           |
 | Eye-Tracking                             | Verfahren zur Erfassung und Analyse von Blickbewegungen, um Aufmerksamkeitsverteilung, Navigationsmuster und Interface-Nutzung in digitalen Lernumgebungen zu untersuchen. |           |
 | Feedback                                 | Rückmeldungen zu Leistungen und Beiträgen.                                            |           |
