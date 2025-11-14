@@ -13,9 +13,9 @@
 | Datei                                    | Hochgeladene Dokumente und Dateien, die als Lernmaterial dienen.                      |           |
 | Delta E (ΔE)                             | Unsicherheit in der Messung von Kompetenzen.                                          |           |
 | Delta K (ΔK)                             | Unsicherheit in der Entwicklung von Kompetenzen.                                      |           |
-| E-Lear­ning                              |                                                                                       |           |
-| E-Portfolio                              |                                                                                       |           |
-| Eye-Tracking                             |                                                                                       |           |
+| E-Lear­ning                              | Oberbegriff für elektronisch bzw. digital gestütztes Lernen, das über Computer, mobile Endgeräte und Online-Plattformen (z. B. LMS) organisiert und durchgeführt wird. |           |
+| E-Portfolio                              | Digitales Portfolio zur Sammlung, Strukturierung und Reflexion von Lernartefakten, Kompetenzen und Entwicklungsprozessen über einen definierten Zeitraum. |           |
+| Eye-Tracking                             | Verfahren zur Erfassung und Analyse von Blickbewegungen, um Aufmerksamkeitsverteilung, Navigationsmuster und Interface-Nutzung in digitalen Lernumgebungen zu untersuchen. |           |
 | Feedback                                 | Rückmeldungen zu Leistungen und Beiträgen.                                            |           |
 | Foren                                    | Diskussionsplattformen für Austausch und Fragen.                                      |           |
 | Hauptforschungsfrage                     | Auch im Abkürzungsverzeichnis.                                                        |           |
@@ -25,7 +25,7 @@
 | Kompetenzentwicklung                     | Prozess des Erwerbs und der Verbesserung von Fähigkeiten und Wissen.                  |           |
 | Korrelationskoeffizient (ρ)              | Maß für die Stärke und Richtung eines Zusammenhangs.                                  |           |
 | Kumulative Bildungswirkung (ν dx)        | Integrales Maß für die gesammelte Bildungswirkung über die Zeit.                      |           |
-| Learning Management System (LMS)         |                                                                                       |           |
+| Learning Management System (LMS)         | Zentrale digitale Plattform zur Bereitstellung von Lernmaterialien, Organisation von Kursen, Kommunikation, Prüfungen und Auswertung von Lernaktivitäten. |           |
 | Lightbox Galerie                         | Bildergalerien zur visuellen Darstellung von Inhalten.                                |           |
 | Link/URL                                 | Externe Webseiten und Ressourcen.                                                     |           |
 | Metaanalyse                              | Höherstufige, systematische Aggregation und Synthese von Primär- und Sekundäranalysen, um übergreifende Muster, Effekte oder Modelle abzuleiten; im Projekt als qualitative Metaanalyse/P‑QIA umgesetzt. |           |
