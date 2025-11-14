@@ -5,7 +5,7 @@ geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=1.0cm, includefoot, footsk
 papersize: a4
 latex_engine: xelatex
 bibliography: "08 Metaquellen/Matadaten/Literaturverzeichnis.bib"
-csl: "pandoc-templates/bibliography/apa.csl"
+csl: "08 Metaquellen/Matadaten/apa-no-initials.csl"
 header-includes:
   - \usepackage{fontspec}
   - \setmainfont{Arial}
@@ -138,7 +138,7 @@ Auslassungen sind durch „(…)“ dargestellt und Ergänzungen innerhalb von Z
 
 ## Hinweis zum Sprachstil
 
-Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von Koehler und Wahl, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ ihren sprachlichen Ausdruck innerhalb der scientific community finden muss [@koehler2021Egd, S. 2].
+Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von Koehler und Wahl, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ ihren sprachlichen Ausdruck innerhalb der scientific community finden muss [@koehler_empfehlung_2021, S. 2].
 
 Hieraus ergeben sich folgende, stilentsprechende Implikationen:
 
@@ -150,7 +150,7 @@ Hieraus ergeben sich folgende, stilentsprechende Implikationen:
 - Sprachliche Präzision: Geschlechtsneutrale Begriffe und Formulierungen fördern die sprachliche Präzision und vermeiden stereotype Geschlechtszuschreibungen.
 - Rechtliche und institutionelle Anforderungen: Universitäten und Institutionen verlangen oder empfehlen die Anwendung gendergerechter Sprache in akademischen Arbeiten.
 
-Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit einen Beitrag zur Lebendwirklichkeit aller Personen leisten, was sich zudem in der Verwendung des Asterisks beim Gendern ausdrückt. Hierdurch können typografische Verzerrungen im Vorfeld auf ein Minimum reduziert und eine weite Beteiligung aller erreicht werden [@koehler2021Egd, Kapitel 7; @koehler2021Egd, Kapitel 8].
+Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit einen Beitrag zur Lebendwirklichkeit aller Personen leisten, was sich zudem in der Verwendung des Asterisks beim Gendern ausdrückt. Hierdurch können typografische Verzerrungen im Vorfeld auf ein Minimum reduziert und eine weite Beteiligung aller erreicht werden [@koehler_empfehlung_2021, Kapitel 7; @koehler_empfehlung_2021, Kapitel 8].
 
 ## Hinweis zur Begriffsbestimmung
 
