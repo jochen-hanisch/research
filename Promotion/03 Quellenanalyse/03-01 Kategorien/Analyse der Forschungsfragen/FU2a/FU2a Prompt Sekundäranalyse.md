@@ -29,18 +29,27 @@ Forschungsunterfrage (FU2a):
 
 ## Methodik:
 
-Führe eine qualitative Metaanalyse nach Mayring durch, um zentrale Aussagen und Themen der enthaltenen Studien systematisch zu extrahieren, zu kategorisieren und in die Synthese einzubinden. Nutze ein strukturiertes Codierschema und analysiere entlang folgender Dimensionen (Lernendensicht):
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch. Ziel ist es, die Lernendensicht auf Effekte der LMS‑Nutzung systematisch, probabilistisch gestützt und theoriebezogen zu erfassen (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
 
-1. Lernerleben: Motivation, Autonomie, Usability, soziale Einbindung
-2. Lernerfolg: Kompetenzerwerb, Lernleistung, Anwendungstransfer
-3. Nutzungsverhalten: Nutzungsmuster, Wiederverwendung, Interaktion mit Inhalten
-4. Perspektivische Bewertung: Zufriedenheit, Lernpräferenzen, technologische Offenheit
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die bereitgestellten Primäranalysen in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
 
-## Codierschema:
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern die vier Dimensionen der Lernendensicht ab:
+     - **Lernerleben:** Motivation, Autonomie, Usability, soziale Einbindung.
+     - **Lernerfolg:** Kompetenzerwerb, Lernleistung, Anwendungstransfer.
+     - **Nutzungsverhalten:** Nutzungsmuster, Wiederverwendung, Interaktion mit Inhalten.
+     - **Perspektivische Bewertung:** Zufriedenheit, Lernpräferenzen, technologische Offenheit.
+   - Erstelle ein Codierschema mit:
+     - präzisen **Kategoriedefinitionen**,
+     - **Ankerbeispielen** (konkrete Textstellen mit Pfadangabe, z. B. `FU2a Primäranalysen (85).md:Zeile`),
+     - **Kodierregeln** (Zuordnungskriterien, Umgang mit Mehrdeutigkeiten, Regeln für Doppel‑/Mehrfachkodierungen).
 
-- Definition der Kategorien: präzise Abgrenzung der vier Dimensionen (s. oben).
-- Ankerbeispiele: konkrete Textstellen, die typische Merkmale der jeweiligen Kategorie veranschaulichen.
-- Kodierregeln: Zuordnungskriterien, Umgang mit Mehrdeutigkeiten, Regeln für Doppelcodierungen; Priorisierung bei Konflikten.
+3. **Kodierung und Synthese (Mayring + P‑QIA):**
+   - Kodiere alle Segmente der Primäranalysen entlang des Codierschemas.
+   - Synthese entlang der vier Dimensionen (Lernerleben, Lernerfolg, Nutzungsverhalten, Bewertung) unter Berücksichtigung der probabilistischen Clusterstruktur.
   
 ## Erwartete Leistung:
 

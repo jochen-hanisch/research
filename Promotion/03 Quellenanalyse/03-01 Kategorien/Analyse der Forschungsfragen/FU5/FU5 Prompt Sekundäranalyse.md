@@ -28,17 +28,20 @@ Forschungsfrage (FU5):
 
 Methodik:
 
-1. **Qualitative Inhaltsanalyse (Mayring, 2010; Mayring & Gläser-Zikuda, 2008):**
-    
-    - Systematische Extraktion und Analyse von Aussagen der Akteure zu Möglichkeiten und Grenzen des LMS.
-    - Bildung und Absicherung von Kategorien, die die Stärken, Schwächen, Chancen und Risiken der LMS-Anwendung aufzeigen.
-2. **SWOT-Analyse (Wollny & Paul, 2015):**
-    
-    - Zusammenführung der Ergebnisse der Inhaltsanalyse in die Dimensionen einer SWOT-Analyse:
-        - **Stärken:** Vorteile und positive Aspekte des LMS aus Sicht der Akteure.
-        - **Schwächen:** Herausforderungen und kritische Punkte bei der Nutzung.
-        - **Chancen:** Potenziale und zukünftige Entwicklungsmöglichkeiten.
-        - **Risiken:** Mögliche negative Auswirkungen oder externe Bedrohungen.
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um Möglichkeiten und Grenzen eines systemisch‑konstruktivistischen LMS zu strukturieren (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
+
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die Primäranalysen (FU5) in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Kategorien zu **Stärken**, **Schwächen**, **Chancen** und **Risiken** ab.
+   - Erstelle ein Codierschema mit Definitionen, Ankerbeispielen (Pfad:Zeile) und Kodierregeln für jede SWOT‑Dimension.
+
+3. **Kodierung, SWOT‑Synthese und Interpretation (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang der SWOT‑Kategorien.
+   - Fasse die Ergebnisse in einer SWOT‑Matrix zusammen und analysiere Wechselwirkungen (z. B. wie Stärken Chancen ermöglichen oder Schwächen Risiken verstärken).
 
 
 Erwartete Leistung:

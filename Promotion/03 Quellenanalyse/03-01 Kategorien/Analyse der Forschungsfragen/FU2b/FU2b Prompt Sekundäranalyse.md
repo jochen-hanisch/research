@@ -28,16 +28,26 @@ Forschungsunterfrage (FU2b):
 
 Methodik:
 
-Führe eine qualitative Metaanalyse nach Mayring durch (vgl. Döring, 2023, S. 874), um die zentralen Aussagen und Themen der enthaltenen Studien systematisch zu extrahieren, zu kategorisieren und in die Synthese einzubinden. Nutze ein strukturiertes Codierschema und untersuche die Inhalte entlang folgender Dimensionen:
+Führe eine probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring durch, um Effekt‑Faktoren aus Lehrendensicht systematisch und probabilistisch gestützt zu erfassen (vgl. [[P-QIA Methode]]). Die Methodik umfasst folgende Schritte:
 
-1. **Faktoren:**  
-    Identifikation von Faktoren, die von Lehrenden als wirksam für den Einsatz des LMS beschrieben werden (z. B. Interaktivität, Adaptivität, Flexibilität).
-    
-2. **Effekte:**  
-    Beschreibung der durch die Lehrenden beobachteten Effekte auf Lernprozesse, soziale Interaktionen oder die organisatorische Unterstützung.
-    
-3. **Interaktionen:**  
-    Untersuchung von Wechselwirkungen zwischen LMS-Funktionen und der wahrgenommenen Wirksamkeit für verschiedene Bildungskontexte.
+1. **Segmentierung und probabilistische Strukturierung (P‑QIA):**
+   - Segmentiere die bereitgestellten Primäranalysen in Sinnabschnitte (1–3 Sätze).
+   - Erzeuge GPT‑Embeddings für alle Segmente und führe ein k‑means‑Clustering mit FU‑spezifischem *k* durch (vgl. [[P-QIA Statistik]]).
+   - Prüfe die Clusterqualität mithilfe des Silhouette‑Koeffizienten und fasse instabile Cluster ggf. zusammen.
+
+2. **Kategorienbildung und Codierschema (Mayring + P‑QIA):**
+   - Leite aus den stabilen Clustern Kategorien zu:
+     - **Faktoren:** Merkmale des LMS, die von Lehrenden als wirksam beschrieben werden (z. B. Interaktivität, Adaptivität, Flexibilität).
+     - **Effekten:** beobachtete Wirkungen auf Lernprozesse, soziale Interaktionen oder organisatorische Unterstützung.
+     - **Interaktionen:** Wechselwirkungen zwischen LMS‑Funktionen und wahrgenommener Wirksamkeit in verschiedenen Kontexten.
+   - Erstelle ein Codierschema mit:
+     - klaren **Kategoriedefinitionen**,
+     - **Ankerbeispielen** mit Pfadangabe (z. B. `FU2b Primäranalysen (27).md:Zeile`),
+     - **Kodierregeln** zur Zuordnung von Textstellen, inkl. Regeln für Mehrfachkodierungen.
+
+3. **Kodierung und Synthese (Mayring + P‑QIA):**
+   - Kodiere die Segmente entlang des Codierschemas.
+   - Synthese der Ergebnisse entlang der Dimensionen Faktoren, Effekte und Interaktionen; Ableitung eines zusammenhängenden Bildes der Effekt‑Faktoren aus Lehrendensicht.
     
 
 **Codierschema:**
