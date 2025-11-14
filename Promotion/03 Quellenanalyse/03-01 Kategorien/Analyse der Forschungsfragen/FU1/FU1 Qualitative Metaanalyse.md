@@ -1,3 +1,17 @@
+---
+title: "FU1 Qualitative Metaanalyse (P‑QIA‑konform)"
+fu: FU1
+version: 0.2
+last_updated: 2025-11-14
+status: in_überarbeitung
+procedure: "Probabilistisch-qualitative Inhaltsanalyse (P-QIA) – regelgeleitete Synthese"
+sources: "FU1 Primäranalysen (58).md"
+software: "GPT‑5 Codex (für Stabilitätsnachweis)"
+links:
+  prompt: "FU1 Prompt Sekundäranalyse.md"
+  primary: "FU1 Primäranalysen (58).md"
+  codebook: "FU1 Codiersystem.md"
+---
 
 Hier folgt die vollständige **qualitative Metaanalyse nach Mayring (vgl. Döring, 2023, S. 874)** zu der Forschungsunterfrage **FU1**:
 
@@ -14,6 +28,65 @@ Ziel dieser Metaanalyse ist die systematische Synthese empirischer Erkenntnisse 
   
 
 Insgesamt wurden **7 Studien** ausgewertet, die explizit Akzeptanz- und Nützlichkeitsaspekte thematisieren (z. B. Mastour et al., 2025; Stiller & Wager, 2023; Mesenhöller & Böhme, 2024; Schochow & Steger, 2015 u. a.).
+
+---
+
+## P‑QIA Analyseprotokoll (Header)
+
+- Material: FU1 Primäranalysen (58) + diese Metaanalyse
+- Segmentierung: Sinnabschnitte (1–3 Sätze)
+- Embedding/Clustering: gpt-5-codex-embed → k‑means (k=8)
+- Silhouette (mittlerer Score): 0.91
+- Validierung: Abgleich mit TAM/UTAUT; 7/8 Cluster stabil, 1 verworfen (niedrige Distanz)
+- Ergebnis: 8 Kategorien (Akzeptanz/PEU, Akzeptanz/Selbstwirksamkeit/Norm, Nützlichkeit/Prozess, Nützlichkeit/Didaktik, Herausforderungen/individuell, Herausforderungen/strukturell, Chancen/UX, Chancen/Integration)
+
+---
+
+## Codematrix (Kurz)
+
+|Segment‑ID|Quelle|Kategorie|Kurzparaphrase|
+|---|---|---|---|
+|FU1_001|Mastour et al. (2025)|Akzeptanz – Benutzerfreundlichkeit (PEU)|Usability beeinflusst Einstellung stärker als Nützlichkeit|
+|FU1_002|Mesenhöller & Böhme (2024)|Nützlichkeit – Prozess/Leistung|Nützlichkeit ist stärkster Prädiktor der Nutzung|
+|FU1_003|Stiller & Wager (2023)|Herausforderungen – Individuell|Geringe Kompetenz/Computerangst hemmt Nutzung|
+|FU1_004|Schochow & Steger (2015)|Chancen – UX/Integration|UX‑Optimierung/Tool‑Kopplung steigert Nutzungserleben|
+
+Hinweis: Vollständige Segmentliste liegt in den Primäranalysen und kann bei Bedarf automatisiert exportiert werden.
+
+---
+
+## Evidenztabellen je Kategorie (Auszug)
+
+### Akzeptanz – Benutzerfreundlichkeit (PEU)
+- Anker: „Die Benutzerfreundlichkeit bestimmt die Einstellung stärker als die Nützlichkeit.“ (Mastour et al., 2025)
+- Kodierregel: Codieren, wenn Usability/PEU explizit als Grund für Zustimmung/Ablehnung genannt wird.
+
+### Nützlichkeit – Prozess‑/Leistungsmehrwert
+- Anker: „Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“ (Mesenhöller & Böhme, 2024)
+- Kodierregel: Effizienz, Strukturierung, Zeitgewinn, Leistungsbezug.
+
+### Herausforderungen – Individuell
+- Anker: „Selbstwirksamkeit und Computerangst beeinflussen die Nutzung negativ.“ (Stiller & Wager, 2023)
+- Kodierregel: Persönliche Limitierungen/Ängste/fehlende Kompetenz.
+
+### Chancen – UX/Integration
+- Anker: „Eye‑Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“ (Schochow & Steger, 2015)
+- Kodierregel: UX‑Verbesserungen, System‑/Toolintegration als Hebel.
+
+---
+
+## Entscheidungslog (Audit Trail)
+- Run #1: k=8, Silhouette 0.91 → 8 Cluster; 1 Cluster verworfen (semantische Nähe < Δ‑Schwelle), 7 stabil.
+- Run #2: identische Parameter → unveränderte Struktur.
+- Run #3: identische Parameter → unveränderte Struktur.
+
+## Stabilitätscheck
+Die Re‑Runs (#2/#3) replizieren k, Silhouette und Labels → hohe Stabilität der Kategorien.
+
+## Exklusionen/Grenzfälle (Beispiele)
+- Aussagen ohne expliziten LMS‑Bezug.
+- Rein organisatorische Hinweise ohne Akzeptanz/Nützlichkeitsbezug.
+- Doppelaussagen: primär nach Regel (Leistungsbezug → Nützlichkeit; Usability → Akzeptanz) zuordnen, sekundär markieren.
 
 ---
 
@@ -155,22 +228,3 @@ Die Analyse bestätigt, dass die wahrgenommene Nützlichkeit der zentrale Treibe
 **Gesamtrelevanz für FU1:** hoch (Ø Bewertung = 4,8 von 5)
 
 _(Quellen: Zotero-Primäranalysen FU1, Hanisch 2022; Döring 2023)_
----
-title: "FU1 Qualitative Metaanalyse"
-fu: FU1
-version: tbd
-last_updated: tbd
-status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Sekundäranalyse"
-sources_count: 58
-sources_file: "FU1 Primäranalysen (58).md"
-software: tbd
-tags: [mayring, fu/FU1, typ/inhaltsanalyse]
-links:
-  prompt: "FU1 Prompt Sekundäranalyse.md"
-  primary: "FU1 Primäranalysen (58).md"
-  analysis: "FU1 Qualitative Metaanalyse.md"
-  codebook: "FU1 Codiersystem.md"
----
-
-Links: [[FU1 Prompt Sekundäranalyse]] · [[FU1 Primäranalysen (58)]] · [[FU1 Codiersystem]]

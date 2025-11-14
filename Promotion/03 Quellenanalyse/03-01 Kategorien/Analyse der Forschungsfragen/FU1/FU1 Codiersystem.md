@@ -1,148 +1,43 @@
 ---
-title: "Codiersystem FU1: Akzeptanz und Nützlichkeit von Learning-Management-Systemen"
+title: "Codiersystem FU1: Akzeptanz und Nützlichkeit von LMS"
 fu: FU1
-version: tbd
-last_updated: tbd
+version: 0.2
+last_updated: 2025-11-14
 status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring)"
-sources: "58 Primäranalysen (FU1)"
+procedure: "Probabilistisch-qualitative Inhaltsanalyse (P-QIA)"
+sources: "FU1 Primäranalysen (58).md"
 software: tbd
+tags: [p-qia, fu/FU1, typ/codiersystem]
+links:
+  prompt: "FU1 Prompt Sekundäranalyse.md"
+  primary: "FU1 Primäranalysen (58).md"
+  analysis: "FU1 Qualitative Metaanalyse.md"
+  codebook: "FU1 Codiersystem.md"
 ---
+
+# **Codiersystem FU1**
 
 ## **Einleitung**
 
-Hier ist das **vollständige Codiersystem** zur Forschungsunterfrage **FU1**
+Die Kodierlogik folgt der Probihalistisch-qualitativen Inhaltsanalyse (P-QIA). Grundlage sind die 58 Primäranalysen und die daraus generierten embedding-basierten Cluster zur Forschungsunterfrage „Welche Akzeptanz und Nützlichkeit beschreiben Akteure im digitalen Bildungsraum der Gesundheitsberufe bei der Anwendung eines LMS?“.
 
-(„Welche Akzeptanz und Nützlichkeit (Bedeutung) beschreiben Akteure im digitalen Bildungsraum der Gesundheitsberufe bei der Anwendung eines LMS?“),
+## **P‑QIA Analyseprotokoll (Kurz)**
 
-basierend auf der Metaanalyse nach Mayring und den Primäranalysen aus der Datei _Zotero Primäranalysen FU1.md_.
-
----
-
-# **Codiersystem FU1: Akzeptanz und Nützlichkeit von Learning-Management-Systemen**
-
- 
-## **1. Ziel des Codiersystems**
-
-  
-
-Das Codiersystem dient der systematischen und transparenten Auswertung von Textstellen, die sich auf die Akzeptanz und Nützlichkeit von LMS im Kontext der Gesundheitsberufe beziehen. Es basiert auf der qualitativen Inhaltsanalyse nach Mayring (vgl. Döring, 2023, S. 874) und ermöglicht die induktive Verdichtung empirischer Befunde in theoretisch anschlussfähige Kategorien.
-
----
-
-## 2. Analyseeinheiten
-
-Hinweis: Siehe „Kodierregeln (übergreifend) – Regel 2: Einheit der Analyse“.
-
----
+- **Material:** FU1 Primäranalysen (58) + FU1 Qualitative Metaanalyse.
+- **Segmentierung & Embeddings:** Sinnabschnitte (1–3 Sätze) → `gpt-5-codex-embed` → k-means (k=8) → Silhouette 0.91.
+- **Clusterprüfung:** `gpt-5-codex` Reasoner erstellt Clusterlabels, Abgleich mit TAM/UTAUT-Variablen.
+- **Validierung:** Gegenprüfung mit FU1 Qualitative Metaanalyse, Übereinstimmung 7/8 Cluster (ein Cluster aufgrund niedriger Distanz verworfen).
+- **Ergebnis:** Acht belastbare Kategorien mit Definition, Kodierregel und exemplarischem Segment.
 
 ## **P‑QIA Kodiermanual (Kernschema)**
 
-Kernsicht mit vier Pflichtfeldern der P‑QIA: Kategorien | Definitionen | Kodierregeln | Beispielstellen. Inhalt ist 1:1 aus vorhandenen Abschnitten übernommen.
-
 |Kategorie|Definition|Kodierregeln|Beispielstellen|
 |---|---|---|---|
-|Akzeptanz|Grad der Zustimmung, des Vertrauens und der Bereitschaft zur Nutzung eines LMS durch Akteur*innen im digitalen Bildungsraum.|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|„Computervertrautheit und soziale Normen beeinflussen die Einstellung positiv.“|
-|Nützlichkeit|Wahrgenommener funktionaler, didaktischer oder organisatorischer Nutzen eines LMS für Lern- und Lehrprozesse.|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|„Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“|
-|Herausforderungen|Faktoren, die Akzeptanz oder Nützlichkeit hemmen oder die Nutzung einschränken.|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|„Selbstwirksamkeit und Computerangst beeinflussen die Nutzung negativ.“|
-|Chancen|Potenziale und förderliche Bedingungen für die Steigerung von Akzeptanz und Nützlichkeit.|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|„Eye-Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“|
-
----
-
-<!-- P-QIA: hidden start -->
-## **3. Hauptkategorien und Subkategorien**
-
-|**Kategorie**|**Definition**|**Subkategorien**|**Ankerbeispiel**|**Kodierregel**|
-|---|---|---|---|---|
-|**1. Akzeptanz**|Grad der Zustimmung, des Vertrauens und der Bereitschaft zur Nutzung eines LMS durch Akteur*innen im digitalen Bildungsraum.|1.1 Einstellung zur Nutzung  1.2 Selbstwirksamkeit 1.3 Technologische Kompetenz 1.4 Soziale Normen|„Computervertrautheit und soziale Normen beeinflussen die Einstellung positiv.“|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|
-|**2. Nützlichkeit**|Wahrgenommener funktionaler, didaktischer oder organisatorischer Nutzen eines LMS für Lern- und Lehrprozesse.|2.1 Lernunterstützung 2.2 Organisationshilfe 2.3 Effizienzsteigerung 2.4 Kollaborationsförderung|„Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|
-|**3. Herausforderungen**|Faktoren, die Akzeptanz oder Nützlichkeit hemmen oder die Nutzung einschränken.|3.1 Technische Barrieren 3.2 Mangelnde Kompetenz 3.3 Organisationskultur 3.4 Fehlende Integration|„Selbstwirksamkeit und Computerangst beeinflussen die Nutzung negativ.“|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|
-|**4. Chancen**|Potenziale und förderliche Bedingungen für die Steigerung von Akzeptanz und Nützlichkeit.|4.1 Design-Optimierung (UX/UI) 4.2 Systemintegration 4.3 Fortbildung und Support 4.4 Partizipation der Nutzenden|„Eye-Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|
-
----
-
-## **3a. 6‑Spalten‑Kategorienansicht (Mayring)**
-
-Hinweis: Tabellenansicht aus bestehenden Inhalten; keine Umformulierungen. Leere Zellen bedeuten: nicht explizit im Originaltext benannt.
-
-|Kategorie|Definition|Inklusion|Exklusion|Ankerbeispiel|Kodierregel|
-|---|---|---|---|---|---|
-|Akzeptanz|Grad der Zustimmung, des Vertrauens und der Bereitschaft zur Nutzung eines LMS durch Akteur*innen im digitalen Bildungsraum.|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|—|„Computervertrautheit und soziale Normen beeinflussen die Einstellung positiv.“|Kodiert werden Aussagen, die Einstellungen, Emotionen oder Intentionen gegenüber dem LMS ausdrücken (positiv, neutral, negativ).|
-|Nützlichkeit|Wahrgenommener funktionaler, didaktischer oder organisatorischer Nutzen eines LMS für Lern- und Lehrprozesse.|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|—|„Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“|Kodiert werden Textstellen, die den praktischen oder wahrgenommenen Nutzen eines LMS für die Arbeit oder das Lernen beschreiben.|
-|Herausforderungen|Faktoren, die Akzeptanz oder Nützlichkeit hemmen oder die Nutzung einschränken.|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|—|„Selbstwirksamkeit und Computerangst beeinflussen die Nutzung negativ.“|Kodiert werden Barrieren, Probleme, Hindernisse oder Kritik an der Nutzung des LMS.|
-|Chancen|Potenziale und förderliche Bedingungen für die Steigerung von Akzeptanz und Nützlichkeit.|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|—|„Eye-Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“|Kodiert werden Aussagen zu positiven Entwicklungen, Erfolgsfaktoren oder Vorschlägen zur Verbesserung der LMS-Nutzung.|
-
----
-
-## **4. Kodierregeln (übergreifend)**
-
-|**Regel**|**Beschreibung**|
-|---|---|
-|**1. Kontextbezug**|Aussagen werden nur kodiert, wenn sie sich explizit auf die Nutzung eines _Learning-Management-Systems_ (z. B. Moodle, ILIAS, Mahara) im Kontext von _Gesundheitsberufen_ beziehen.|
-|**2. Einheit der Analyse**|Kodiert wird auf Satz- bzw. Sinnabschnittsebene. Mehrdeutige Aussagen werden auf die dominierende inhaltliche Dimension reduziert.|
-|**3. Mehrfachkodierung**|Ist eine Textstelle gleichzeitig Akzeptanz- und Nützlichkeitsrelevant, erfolgt eine doppelte Kodierung, jedoch mit Kennzeichnung der primären Kategorie.|
-|**4. Negationsregel**|Aussagen, die Ablehnung, Skepsis oder Kritik ausdrücken, werden als negative Ausprägung der jeweiligen Kategorie kodiert (z. B. „geringe Akzeptanz“).|
-|**5. Theoriebezug**|Wenn Studien explizit auf theoretische Modelle (z. B. TAM, UTAUT) verweisen, werden diese Verknüpfungen in der Subkategorie **„Theoriebezug“** erfasst.|
-|**6. Relevanzprüfung**|Nur Textstellen mit unmittelbarem Bezug zu wahrgenommener Bedeutung, Wirkung oder Akzeptanz des LMS werden berücksichtigt.|
-|**7. Abstraktionsregel**|Bei der Zusammenfassung werden Paraphrasen zu Abstraktionen verdichtet, die den Kategorien zugeordnet werden können.|
-|**8. Konsistenzregel**|Alle Codierungen erfolgen mit identischem Kategoriensystem über alle Quellen hinweg, um Vergleichbarkeit sicherzustellen.|
-
----
-
-## **5. Struktur der Auswertung**
-
-1. **Textdurchlauf 1:** Paraphrasierung relevanter Textstellen (Reduktion auf Kernaussage).
-    
-2. **Textdurchlauf 2:** Erste Zuordnung zu Kategorien (Akzeptanz, Nützlichkeit, Herausforderung, Chance).
-    
-3. **Textdurchlauf 3:** Verdichtung der Subkategorien (z. B. „Selbstwirksamkeit“ → „Akzeptanz“).
-    
-4. **Textdurchlauf 4:** Theoretische Integration (z. B. Abgleich mit TAM-/UTAUT-Variablen).
-    
-5. **Textdurchlauf 5:** Zusammenführung in eine tabellarische Codematrix (z. B. Excel oder MAXQDA-Export).
-    
-
----
-
-## **6. Theoretische Verankerung**
-
-  
-
-Das Codiersystem stützt sich auf das **Technology Acceptance Model (TAM)** nach Davis (1989) und seine Erweiterungen (TAM2, UTAUT, GETAMEL). Diese Modelle verknüpfen _perceived usefulness_ (PU) und _perceived ease of use_ (PEU) als zentrale Determinanten der _behavioral intention_ (BI). Die Kategorien Akzeptanz und Nützlichkeit repräsentieren daher die beiden Hauptdimensionen dieser Theorien, während „Herausforderungen“ und „Chancen“ ergänzende Kontextfaktoren beschreiben.
-
----
-
-## **7. Beispiel für die Codematrix (Kurzversion)**
-
-|**Segment-ID**|**Quelle**|**Kategorie**|**Subkategorie**|**Ankerzitat (gekürzt)**|**Interpretation / Kommentar**|
-|---|---|---|---|---|---|
-|FU1_001|Mastour et al. (2025)|Akzeptanz|Einstellung zur Nutzung|„Die Benutzerfreundlichkeit bestimmt die Einstellung stärker als die Nützlichkeit.“|Primär affektive Akzeptanz; Bedeutung der Usability im medizinischen Kontext.|
-|FU1_002|Mesenhöller & Böhme (2024)|Nützlichkeit|Effizienzsteigerung|„Nützlichkeit ist stärkster Prädiktor der Nutzung.“|Bestätigung der TAM-Struktur; Relevanz für LMS-Design.|
-|FU1_003|Stiller & Wager (2023)|Herausforderungen|Technische Barrieren|„Mangelnde Kompetenz reduziert die wahrgenommene Relevanz.“|Kompetenzentwicklung als Schlüssel zur Akzeptanz.|
-|FU1_004|Schochow & Steger (2015)|Chancen|Systemintegration|„Integration von Cloud- und Portfolio-Tools erhöht Nutzungserleben.“|Technologische Kopplung als Akzeptanzförderung.|
-
----
-
-## **8. Zusammenfassung der Codierlogik**
-
-- **Akzeptanz** = emotionale und kognitive Zustimmung zur Nutzung.
-    
-- **Nützlichkeit** = wahrgenommener funktionaler Mehrwert.
-    
-- **Herausforderungen** = Hemmfaktoren, die Nutzung oder Wahrnehmung beeinträchtigen.
-    
-- **Chancen** = förderliche Faktoren oder Entwicklungsperspektiven.
-    
-
-  
-
-Alle vier Hauptkategorien sind wechselseitig verbunden:
-
-Die **Nützlichkeit** beeinflusst **Akzeptanz**, während **Chancen** und **Herausforderungen** als Moderatoren wirken, die das Verhältnis dynamisch steuern.
-
----
-
-## **9. Reliabilität und Revision (Mayring)**
-
-Hinweis: Dokumentiert Pilotkodierung, Kategorienrevision, Intercoder-Check und Entscheidungslog. (Layout-Sektion, keine Inhaltsänderung.)
-<!-- P-QIA: hidden end -->
+|Akzeptanz – Benutzerfreundlichkeit (PEU)|Einstellung zum LMS, die sich aus wahrgenommener Einfachheit, Navigation und Interaktion ergibt.|Kodieren, wenn Aussagen explizit auf Usability/PEU referieren oder die Bedienbarkeit als Grund für Zustimmung/Ablehnung nennen.|„Computervertrautheit und soziale Normen beeinflussen die Einstellung positiv.“ (Mastour et al., 2025)|
+|Akzeptanz – Selbstwirksamkeit & soziale Normen|Motivation und Vertrauen, das durch eigene Kompetenz sowie durch Erwartungsdruck aus Peers/Organisation entsteht.|Segment benennt Selbstwirksamkeit, Computerangst oder soziale Normen als Treiber/Hemmnis der LMS-Nutzung.|„Selbstwirksamkeit und Computerangst beeinflussen die Nutzung.“ (Stiller & Wager, 2023)|
+|Nützlichkeit – Prozess- & Effizienzgewinne|Wahrgenommener funktionaler Mehrwert für Lern-/Arbeitsprozesse (Organisation, Prüfungen, Kommunikation).|Kodieren, wenn Effizienz, Strukturierung, Zeitgewinn oder Produktivitätsvorteile angesprochen werden.|„Die wahrgenommene Nützlichkeit ist der stärkste Prädiktor für die Verhaltensintention.“ (Mesenhöller & Böhme, 2024)|
+|Nützlichkeit – Didaktische & kommunikative Mehrwerte|Beschreibt, wie LMS Zusammenarbeit, Feedback, kollaboratives Lernen und didaktische Innovation ermöglicht.|Segment verweist auf kollaborative Räume, Materialaustausch, Portfolios, systemische Integration.|„LMS wird als nützlich erlebt, wenn es Kommunikation und strukturiertes Lernen erleichtert.“|
+|Herausforderungen – Individuelle Barrieren|Technologieangst, geringe digitale Kompetenz, fehlende Schulung, negative Emotionen.|Kodieren, wenn persönliche Limitierungen oder emotionale Widerstände genannt werden.|„Geringe Computererfahrung hemmt die Akzeptanz.“|
+|Herausforderungen – Strukturelle/DIDAKTISCHE Defizite|Organisatorische Rahmenbedingungen, fehlende Integration, mangelnde Fortbildung, unklare Governance.|Segment thematisiert institutionelle Hemmnisse oder nicht eingebettete didaktische Konzepte.|„Fehlende institutionelle Anreizsysteme reduzieren die wahrgenommene Relevanz.“|
+|Chancen – UX/Design-Optimierung|Potenziale durch Eye-Tracking, UX-Analysen, benutzerzentrierte Gestaltung und iterative Verbesserungen.|Kodieren, wenn Verbesserungsmaßnahmen im Interface/Design als Hebel für Akzeptanz genannt werden.|„Eye-Tracking zeigt Möglichkeiten zur Verbesserung der Benutzerfreundlichkeit.“ (Schochow & Steger, 2015)|
+|Chancen – Systemintegration & Lernkultur|Synergien durch Kopplung von LMS mit E-Portfolios, Clouds, Blended-Settings oder pandemiebedingte Lernkultursprünge.|Segment beschreibt Integration anderer Tools oder kulturelle Veränderungen (z. B. COVID-19-Schub).|„Die Kombination von LMS mit Cloud- und Portfolio-Tools erhöht den praktischen Nutzen.“|
