@@ -4,9 +4,9 @@
 | Abstimmungen                             | Umfragen, die zur Meinungsbildung unter Lernenden eingesetzt werden.                  |           |
 | Anpassung                                | Initiale Phase der Bereitschaftssteigerung mit geringem Wachstum.                     |           |
 | Bereit­schafts­steigerung                | Erhöhte Bereitschaft zur Teilnahme und zum Engagement in Lernaktivitäten.             |           |
+| BigBlueButton                            | Videokonferenz-Tool innerhalb des LMS.                                                |           |
 | Bildungswirkfaktor (ν)                   | Produkt der Unsicherheiten in der Kompetenzentwicklung und -messung.                  |           |
 | Bildungswirkindikator (ι)                | Maß für die Steigung des Bildungswirkfaktors.                                         |           |
-| BigBlueButton                            | Videokonferenz-Tool innerhalb des LMS.                                                |           |
 | Buch                                     | Digitale Bücher und Lehrmaterialien, die den Lernenden zur Verfügung gestellt werden. |           |
 | Chats                                    | Tools für die Echtzeit-Kommunikation zwischen Lernenden und Lehrenden.                |           |
 | Code / Kategorie                         | Repräsentationen von Aspekten, Inhalten und Themen.                                   |           |
@@ -28,6 +28,7 @@
 | Learning Management System (LMS)         |                                                                                       |           |
 | Lightbox Galerie                         | Bildergalerien zur visuellen Darstellung von Inhalten.                                |           |
 | Link/URL                                 | Externe Webseiten und Ressourcen.                                                     |           |
+| Metaanalyse                              | Höherstufige, systematische Aggregation und Synthese von Primär- und Sekundäranalysen, um übergreifende Muster, Effekte oder Modelle abzuleiten; im Projekt als qualitative Metaanalyse/P‑QIA umgesetzt. |           |
 | Motivation                               | Innerer Antrieb und Bereitschaft zur Durchführung von Lernaktivitäten.                |           |
 | Neugier                                  | Interesse und Bereitschaft, neues Wissen zu erwerben.                                 |           |
 | Normale Dichte                           | Wahrscheinlichkeitsdichtefunktion der Normalverteilung.                               |           |
@@ -39,8 +40,10 @@
 | PLE (Persönlicher Leistungseinbruch)     | Interner Rückgang der Leistung.                                                       |           |
 | PSE (Persönlicher Stabilitätserfolg)     | Stabilisierung und positive Entwicklungen.                                            |           |
 | Plateau                                  | Phase der Sättigung und Stabilisierung.                                               |           |
+| Primäranalyse                            | Erste, unmittelbare Auswertung von Quellen bzw. Studien im Hinblick auf eine konkrete Forschungsfrage; dient als Basis für weiterführende Sekundäranalysen und Metaanalysen. |           |
 | Quizze                                   | Interaktive Tests zur Wissensüberprüfung.                                             |           |
 | Savgol-Filter                            | Glättungsfilter zur Ermittlung von Kurvenverläufen.                                   |           |
+| Sekundäranalyse                          | Zusammenführende Auswertung mehrerer Primäranalysen zu einer Forschungsunterfrage; Fokus auf Vergleich, Verdichtung und theoriegeleitete Neubewertung der bereits vorliegenden Ergebnisse. |           |
 | Steigung                                 | Veränderungsrate einer Variablen in Bezug auf eine andere.                            |           |
 | Terminplaner                             | Werkzeuge zur Organisation und Verwaltung von Terminen.                               |           |
 | Tests                                    | Prüfungen zur Bewertung von Lernfortschritt und Kompetenzen.                          |           |
@@ -51,8 +54,5 @@
 | Verfestigung                             | Phase der Stabilisierung mit moderatem Wachstum.                                      |           |
 | Verzeichnisse                            | Ordnerstrukturen zur Organisation von Dateien.                                        |           |
 | Videokonferenzen                         | Online-Meetings für Unterrichtseinheiten und Besprechungen.                           |           |
-| Wikis                                    | Kollaborative Webseiten, die von Lernenden gemeinsam bearbeitet werden können.        |           |
 | Wachstum                                 | Hauptwachstumsphase mit signifikanten Steigerungen der Bereitschaft.                  |           |
-| Primäranalyse                            | Erste, unmittelbare Auswertung von Quellen bzw. Studien im Hinblick auf eine konkrete Forschungsfrage; dient als Basis für weiterführende Sekundäranalysen und Metaanalysen. |           |
-| Sekundäranalyse                          | Zusammenführende Auswertung mehrerer Primäranalysen zu einer Forschungsunterfrage; Fokus auf Vergleich, Verdichtung und theoriegeleitete Neubewertung der bereits vorliegenden Ergebnisse. |           |
-| Metaanalyse                              | Höherstufige, systematische Aggregation und Synthese von Primär- und Sekundäranalysen, um übergreifende Muster, Effekte oder Modelle abzuleiten; im Projekt als qualitative Metaanalyse/P‑QIA umgesetzt. |           |
+| Wikis                                    | Kollaborative Webseiten, die von Lernenden gemeinsam bearbeitet werden können.        |           |
