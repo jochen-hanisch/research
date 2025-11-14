@@ -1,0 +1,1 @@
+ ausführlich und detaillieret mit Zitationen in APA 7th. und wissenschaftlichem Sprachstil, Ausgabe in Obsidian-Markdown, Formelzeichen zwischen $ und Formeln zwischen $ $. Keine Superlative und Fettschrift, wenn nicht zwingend erforderlich. keine unspezifischen Werte, z.B. "es" oder "sich".

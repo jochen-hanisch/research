@@ -1,0 +1,12 @@
+
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F2]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F3]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F5]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F6]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F8]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F9]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F10]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F11]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F12]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F13]]
+![[Allgemein beruflich/Research/Charité - Universitätsmedizin Berlin ORIGINAL/00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Eye-Tracking Versuch/Analysen Eye Tracking/Analyse Stimulus F14]]

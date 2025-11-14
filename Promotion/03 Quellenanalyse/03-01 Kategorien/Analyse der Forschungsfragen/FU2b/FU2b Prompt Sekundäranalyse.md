@@ -1,4 +1,3 @@
-
 ---
 title: "FU2b Prompt Sekundäranalyse"
 fu: FU2b
