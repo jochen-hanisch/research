@@ -30,36 +30,21 @@ Die konkrete Umsetzung dieses Ansatzes erfolgt durch die Ableitung der Methoden 
 
 Die gezielte Methodenkombination unterstützt die Komplexitätsreduktion des Forschungsgegenstandes auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu vernachlässigen. Durch die iterative Rückkopplung und systemische Verknüpfung der Ergebnisse entstehen neue Einsichten, die bei isolierter Betrachtung der Methoden verborgen bleiben würden. Dieser innovative Ansatz erweitert bestehende methodische Ansätze und schafft einen neuen Rahmen, der sowohl Offenheit als auch strukturelle Präzision ermöglicht.
 
-```{=latex}
-\begin{table}[!htbp]
-\centering
-\renewcommand{\arraystretch}{1.2}
-\caption{Tabellarische Darstellung der Forschungsunterfragen (FU) und Methoden}
-\label{tab:methoden_FU}
-{\fontsize{8}{10}\selectfont
-\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}m{3cm}|X|}
-\hline
-\textbf{Forschungsunterfrage} & \textbf{Methoden} \\ \hline
-\textbf{FU1: Akzeptanz und Nützlichkeit} & Systematische Literaturanalyse, KI-gestützte Analyse zur Untersuchung der Benutzerfreundlichkeit und Nützlichkeit von LMS. \\ \hline
-\textbf{FU2a: Effekt auf Lernende} & Monte-Carlo-Simulation und 3D-Kompetenzmessmodell zur Modellierung der Kompetenzentwicklung und Unsicherheiten im Lernprozess. \\ \hline
-\textbf{FU2b: Effekt auf Lehrende} & Umfrage zur digitalen Kompetenz von Lehrenden und ergänzende Literaturanalyse zur Erfassung der Herausforderungen und Bedürfnisse. \\ \hline
-\textbf{FU3: Didaktische und technologische Merkmale} & Literaturanalyse, Eye-Tracking-Experiment und systemische Analyse zur Untersuchung der didaktischen und technischen Gestaltung von LMS. \\ \hline
-\textbf{FU4a: Bildungswissenschaftliche Mechanismen} & Literaturanalyse zu bildungswissenschaftlichen Modellen und Mechanismen. \\ \hline
-\textbf{FU4b: Technisch-gestalterische Mechanismen} & Eye-Tracking-Experiment mit begleitender Umfrage zur Analyse der Wahrnehmung und Navigation in LMS. \\ \hline
-\textbf{FU5: Möglichkeiten und Grenzen} & Synthese aller Ergebnisse und theoretische Reflexion zur Identifikation von Potenzialen und Limitationen von LMS. \\ \hline
-\textbf{FU6: LMS als Kompetenzerwerbssystem} & Systematische Literaturrecherche (500 Quellen) und systemische Bewertung der LMS als Kompetenzerwerbssystem. \\ \hline
-\textbf{FU7: Erweiterung von Kausalgesetzen} & Python-Simulation zur Analyse der Korrelationen zwischen Forschungsunterfragen sowie Schlagwort- und Kategorisierungsanalyse. \\ \hline
-\end{tabularx}
-}
-\vspace{0.3cm}
-\begin{quote}
-{\fontsize{8}{10}\selectfont
-Die Tabelle zeigt die Zuordnung der Methoden zu den Forschungsunterfragen. Sie umfasst systematische Literaturanalyse, empirische Erhebungen (Umfragen, Eye-Tracking) und modellbasierte Ansätze (Simulation), die flexibel kombiniert wurden, um die Forschungsfragen adäquat zu beantworten.
-}
-\end{quote}
+Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:methoden_FU}
 
-\end{table}
-```
+| Forschungsunterfrage | Bearbeitungsmethode | Erfüllungskriterien |
+| --- | --- | --- |
+| **FU1: Akzeptanz und Nützlichkeit** | Qualitative Metaanalyse zur Darstellung des aktuellen Forschungsstandes im Kontext digitaler Bildungsräume [@doring_untersuchungsdesign_2023, S. 194]. | Darstellung und Einordnung der Akzeptanz- und Nutzenargumente in das Gesamtgefüge. |
+| **FU2a: Effekt auf Lernende** | Evaluationsframework nach Kirkpatrick sowie Training Evaluation Inventory zur Wirksamkeitsanalyse der Lernprozesse [@kirkpatrick_evaluating_1998; @ritzmann_training_2014]. | Quantitative Evaluation der Kompetenzentwicklung und ihrer Unsicherheiten. |
+| **FU2b: Effekt auf Lehrende** | Halbstrukturiertes Gruppeninterview im Face-to-Face-Kontakt mit Lernenden und Lehrenden [@doring_datenerhebung_2023, Kap. 3.2; @doring_datenerhebung_2023, Kap. 10.2]. | Ableitung generalisierbarer Aussagen zu wahrgenommenen Effekten und Einflussfaktoren. |
+| **FU3: Didaktische und technologische Merkmale** | Theoriearbeit zur systemisch-konstruktivistischen Gestaltung des LMS und zur Beschreibung seiner Architektur [@doring_empirische_2023, Kap. 6.3.1]. | Herleitung, Beschreibung und Absicherung der relevanten Merkmale des LMS. |
+| **FU4a: Bildungswissenschaftliche Mechanismen** | Qualitative Inhaltsanalyse nach Mayring sowie deren Weiterentwicklungen [@mayring_qualitative_2010; @mayring_neuere_2008]. | Herleitung, Beschreibung und Absicherung der bildungswissenschaftlichen Wirkmechanismen. |
+| **FU4b: Technisch-gestalterische Mechanismen** | Quantitative Beobachtung (inkl. Eye-Tracking) und simulationsgestützte Theorieprüfung [@doring_datenerhebung_2023, Kap. 10.1.3; @doring_forschungsmethoden_2023, Kap. 6.3.1]. | Datenerhebung, Auswertung sowie Rückbindung an die theoretische Modellierung. |
+| **FU5: Möglichkeiten und Grenzen** | Kombination aus Qualitativer Inhaltsanalyse und SWOT-Analyse zur systemischen Bewertung [@mayring_qualitative_2010; @niederberger_swot-analyse_2015]. | Strukturierte Darstellung der Potenziale und Limitationen des Trainingsmodells. |
+| **FU6: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_wissenschaftstheoretische_2023, Kap. 5]. | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell. |
+| **FU7: Erweiterung von Kausalgesetzen** | Grounded-Theory-basierte „Einfall und Theorieentwicklung“ sowie Analyse des Technologiedefizits [@glaser_strauss_1967, Kap. 11; @luhmann_technologiedefizit_1982]. | Entwicklung und Ableitung eines kausalen Ursachen-Wirkungstheoriemodells. |
+
+Die Tabelle fasst die Forschungsunterfragen zusammen und verknüpft sie mit den jeweils eingesetzten Methoden sowie ihren Erfüllungskriterien. Auf diese Weise wird nachvollziehbar, wie qualitative Literaturarbeit, empirische Erhebungen (Eye-Tracking, Interviews, Umfragen) und simulationsbasierte Verfahren im Zusammenspiel verwendet wurden, um die unterschiedlichen Facetten des Lernmanagementsystems abzubilden.
 
 Methodische Konsequenzen der Forschungsfragen
 
