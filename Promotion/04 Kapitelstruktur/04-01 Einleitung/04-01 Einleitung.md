@@ -46,7 +46,7 @@ Wissenschaftliche und praxisorientierte Erkenntnisinteressen.
 
 > Die Forschungsfrage ist absichtlich eng gefasst, da ein bestehendes Learning-Management-System betrachtet wird. Weiterhin besteht die aufgrund einer weit gefassten Begriffsauslegung die Notwendigkeit, die Forschungsfrage in ihrer Syntax zu entfalten Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet (Schnell et al., 2013, S. 7). Ziel und Zweck der Forschungsfrage ist die Betrachtung der Anwendung des eingesetzten Medientools LMS (S. 7) im digitalem Bildungsraum (S. 6, 5). Als zentraler Begriff, der zu operationalisieren ist, steht das Wirkgefüge (S. 6) im Fokus. Der Kontext, in dem die Bearbeitung stattfindet, ist in den Gesundheitsberufen (S. 7) zu finden, in dessen Kontext Akteure (S. 7) agieren. Zur Operationalisierung wurde der Begriff der Gestaltung ausgewählt. (Hanisch, 2022, 24-25)
 
-Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7) zu den eingesetzten Methoden sowie den jeweiligen Erfüllungskriterien ist in Kapitel 4.2 (Forschungsdesign und Datenerhebung) dargestellt.
+Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7) zu den eingesetzten Methoden sowie den jeweiligen Erfüllungskriterien ist in Kapitel 4.2 (Forschungsdesign und Datenerhebung) dargestellt.
 
 
 ## 1.2 Stand der Forschung und Forschungslücke

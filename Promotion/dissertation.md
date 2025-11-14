@@ -1,6 +1,4 @@
 ---
-author: "Jochen Hanisch-Johannsen"
-title: "Wirkgefüge im digitalen Bildungsraum"
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=1.0cm, includefoot, footskip=1.5cm"
 papersize: a4
 latex_engine: xelatex
@@ -96,14 +94,37 @@ header-includes:
 
 # Abkürzungsverzeichnis
 
-<!-- Hier kannst du später die Abkürzungstabelle aus der bestehenden Version
-     als LaTeX-Block einfügen. -->
+\begin{longtable}{p{3cm}p{10cm}}
+\textbf{Abkürzung} & \textbf{Bedeutung} \\
+\hline
+LMS & Learning-Management-System; zentrale Plattform zur Bereitstellung und Organisation der Lehrangebote. \\
+FU & Forschungsunterfrage (FU1–FU7) als operationalisierte Teilfragestellungen. \\
+mdaCV & Mehrdimensional-analytische Clustervalidierung zur Prüfung der literaturbasierten Clusterstruktur. \\
+P-QIA & Probabilistisch-Qualitative Inhaltsanalyse – hybride Methode zur Quellenkodierung. \\
+KI & Künstliche Intelligenz; insbesondere generative Verfahren zur Dokumentenanalyse. \\
+LLM & Large Language Model; Sprachmodell zur semantischen Einordnung großer Textkorpora. \\
+SC & Silhouette-Score; Maß für die Trennschärfe von Clustern (Kapitel 4.3.3). \\
+E-Portfolio & Digitales Portfolio zur Dokumentation und Reflexion von Lernleistungen. \\
+MOOC & Massive Open Online Course; frei zugängliches Online-Lernformat. \\
+LXP & Learning Experience Platform; nutzungszentrierte Erweiterung eines LMS. \\
+\end{longtable}
 
 \newpage
 
 # Symbolverzeichnis
 
-<!-- Platzhalter für das Symbolverzeichnis (ebenfalls als LaTeX-Tabelle möglich). -->
+\begin{longtable}{p{3cm}p{10cm}}
+\textbf{Symbol} & \textbf{Beschreibung} \\
+\hline
+$\varepsilon$ & Epistemische Verlustfunktion zur Bewertung der Integrität der mdaCV (Gl.~\eqref{eq:verlust}). \\
+$S$ & Silhouette-Score als Maß der Clusterdifferenzierung. \\
+$k$ & Anzahl der Cluster im k-Means-Algorithmus. \\
+$\nu$ & Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. \\
+$\iota$ & Bildungswirkindikator; Steigung des Bildungswirkfaktors. \\
+$\Delta K$ & Kognitive Unsicherheit innerhalb der Kompetenzentwicklung. \\
+$\Delta E$ & Emotionale Unsicherheit innerhalb der Kompetenzentwicklung. \\
+$t$ & Zeitvariable der Dynamikmodelle. \\
+\end{longtable}
 
 \newpage
 
@@ -166,13 +187,3 @@ Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführ
 Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe (S. VI) eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält. Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
 
 \newpage
-
-# Literatur
-
-<!-- Wenn du mit pandoc + CSL arbeitest, reicht normalerweise:
-
-```{=latex}
-\printbibliography
-```
-
-oder das Standard-Literaturverzeichnis von pandoc anhand deiner .bib-Datei. -->

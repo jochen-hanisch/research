@@ -2,7 +2,7 @@
 
 # 3 Beschreibung des Forschungsgegenstandes
 
-Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten Learning-Management-Systems. Die nachfolgenden Unterabschnitte dienen als Rahmen zur Einbindung der Detailtexte in diesem Ordner.
+Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten Learning-Management-Systems. Die nachfolgenden Unterabschnitte dienen als Rahmen zur Einbindung der Detailtexte in diesem Ordner.
 
 ## 3.1 Kontext des Forschungsgegenstandes
 

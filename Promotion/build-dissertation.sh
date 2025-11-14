@@ -14,7 +14,8 @@ pandoc \
   "04 Kapitelstruktur/04-05 Ergebnisse/04-05 Ergebnisse.md" \
   "04 Kapitelstruktur/04-06 Diskussion/04-06 Diskussion.md" \
   "04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md" \
-  -o dissertation.pdf \
+  literaturverzeichnis.md \
+  "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md" \
   --pdf-engine=xelatex \
   --citeproc
 
