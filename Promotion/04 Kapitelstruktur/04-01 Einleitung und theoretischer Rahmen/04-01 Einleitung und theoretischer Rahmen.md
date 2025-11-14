@@ -4,7 +4,7 @@ Der Mensch hat seit jeher Werkzeuge genutzt, um sich an seine Umwelt anzupassen 
 In prähistorischen Zeiten diente der Werkzeuggebrauch nicht nur dem Überleben, sondern förderte auch die soziale Zusammenarbeit und den Wissensaustausch innerhalb von Gemeinschaften. Diese Prinzipien haben sich über Jahrtausende hinweg erhalten und finden sich auch in modernen digitalen Umgebungen wieder, in denen kollaborative Werkzeuge wie Foren und Wikis es den Menschen ermöglichen, gemeinsam zu lernen und zu arbeiten.
 Dieses Dokument untersucht den evolutionären Bogen von den ersten Werkzeugen bis zu den heutigen digitalen Lernsystemen. Es zeigt auf, wie Werkzeuge in der Menschheitsgeschichte immer wieder genutzt wurden, um die grundlegenden Bedürfnisse nach Bindung, Kontrolle, Selbstwert und Lust / Unlust-Vermeidung zu befriedigen. Dabei wird deutlich, dass moderne Technologien wie Learning-Management-Systeme nicht nur technische Hilfsmittel sind, sondern auch zentrale Werkzeuge zur Förderung von sozialem Lernen, Zusammenarbeit und persönlicher Verantwortung.
 Durch diese Betrachtung wird deutlich, dass der Mensch seit der Nutzung des Faustkeils bis hin zu digitalen Lernsystemen Werkzeuge als Mittel zur Anpassung an die Umwelt und zur Erfüllung sozialer und individueller Bedürfnisse verwendet hat.
-Die aktuellen Novellierungen in der Ausbildung der Gesundheitsberufe zielen darauf ab, nicht nur die gesetzlichen Rahmenbedingungen für Berufe wie Anästhesietechnische Assistent*innen, Operationstechnische Assistent*innen und Notfallsanitäter*innen anzupassen, sondern auch die Kompetenzanforderungen zu erweitern und zu präzisieren. So wird besonderer Wert auf die Förderung fachspezifischer, sozialer und methodischer Kompetenzen gelegt, die sich an den wachsenden Herausforderungen im Gesundheitswesen orientieren. Dies spiegelt sich sowohl in den neuen Ausbildungsrichtlinien als auch in den erweiterten Kompetenzprofilen der jeweiligen Berufsgruppen wider [@pflegekammernrw2023Wpn; @bgbl.i2022Gueb].
+Die aktuellen Novellierungen in der Ausbildung der Gesundheitsberufe zielen darauf ab, nicht nur die gesetzlichen Rahmenbedingungen für Berufe wie Anästhesietechnische Assistent*innen, Operationstechnische Assistent*innen und Notfallsanitäter*innen anzupassen, sondern auch die Kompetenzanforderungen zu erweitern und zu präzisieren. So wird besonderer Wert auf die Förderung fachspezifischer, sozialer und methodischer Kompetenzen gelegt, die sich an den wachsenden Herausforderungen im Gesundheitswesen orientieren. Dies spiegelt sich sowohl in den neuen Ausbildungsrichtlinien als auch in den erweiterten Kompetenzprofilen der jeweiligen Berufsgruppen wider [@pflegekammer_nrw_weiterbildungsordnung_2023; @bgbl_i_gesetz_2022].
 
 ## 1.1	Erkenntnisinteresse, Problemstellung und Relevanz
 
@@ -71,23 +71,4 @@ Diese Arbeit setzt an dieser Stelle an, indem sie ein systemisches Modell des di
 Die Struktur des vorliegenden Forschungsprojekts weist aufgrund der transdisziplinären Ausrichtung zwischen Bildungswissenschaft und Medizin eine besondere Komplexität auf, da verschiedene Disziplinen integriert und unterschiedliche wissenschaftliche Anforderungen berücksichtigt werden müssen. Um dieser Herausforderung gerecht zu werden, folgt der strukturelle Aufbau der Arbeit einer konsequenten Verschränkung der formalen Anforderungen sowohl der medizinischen als auch der kultur- und sozialwissenschaftlichen Rahmenbedingungen. Dies ermöglicht eine umfassende Bearbeitung des Themas, die den jeweiligen spezifischen Gegebenheiten beider Disziplinen gerecht wird.
 
 
-Zum Abschluss der Einleitung wird ein Überblick über den Aufbau der Arbeit gegeben:
-
-- **Kapitel 2: Theoretischer Hintergrund**
-    
-    - In diesem Kapitel werden die relevanten Theorien und Konzepte vorgestellt, die für das Forschungsthema von Bedeutung sind. Es werden zentrale Begriffe definiert und ein theoretisches Rahmenwerk entwickelt.
-- **Kapitel 3: Stand der Forschung**
-    
-    - Hier wird der aktuelle Forschungsstand zum Thema dargestellt. Empirische Studien und relevante Literatur werden diskutiert, um eine Forschungsgrundlage zu schaffen und bestehende Forschungslücken zu identifizieren.
-- **Kapitel 4: Methodik**
-    
-    - In diesem Kapitel wird die methodische Vorgehensweise beschrieben. Es wird erläutert, welche Methoden zur Datenerhebung und -analyse verwendet werden, um die Forschungsfragen zu beantworten.
-- **Kapitel 5: Ergebnisse**
-    
-    - Die Ergebnisse der Forschung werden in diesem Kapitel präsentiert. Es wird darauf eingegangen, welche Daten erhoben wurden und welche Erkenntnisse sich daraus ergeben haben.
-- **Kapitel 6: Diskussion**
-    
-    - In der Diskussion werden die Ergebnisse im Kontext des theoretischen Hintergrunds und des Forschungsstands interpretiert. Es wird reflektiert, inwiefern die Forschungsfragen beantwortet wurden und welche Implikationen sich daraus ergeben.
-- **Kapitel 7: Fazit und Ausblick**
-    
-    - Im letzten Kapitel werden die zentralen Ergebnisse der Arbeit zusammengefasst. Es werden Schlussfolgerungen gezogen und ein Ausblick auf mögliche weiterführende Forschungsfragen und die praktische Relevanz der Ergebnisse gegeben.
+Zum Abschluss der Einleitung folgt ein kurzer Überblick über die nachfolgenden Kapitel: Kapitel 2 entfaltet den theoretischen Hintergrund und klärt zentrale Begriffe; Kapitel 3 beschreibt den Forschungsgegenstand und die Ausgangslage. Kapitel 4 erläutert das methodische Vorgehen, Kapitel 5 präsentiert die Ergebnisse, Kapitel 6 diskutiert deren Einordnung und Kapitel 7 bündelt die Schlussfolgerungen mit einem Ausblick auf weitere Forschungsperspektiven.
