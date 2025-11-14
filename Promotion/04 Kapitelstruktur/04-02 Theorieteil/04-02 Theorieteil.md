@@ -1,3 +1,5 @@
+\newpage
+
 # 2 Theorieteil
 
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges. Die Kapitel gliedern sich entlang der funktionalen Argumentationsfolge aus `Kapitelstruktur.md`.

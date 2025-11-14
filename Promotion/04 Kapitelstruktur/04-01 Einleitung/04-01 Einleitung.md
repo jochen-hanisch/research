@@ -1,3 +1,5 @@
+\newpage
+
 # 1	Einleitung und theoretischer Rahmen
 
 Der Mensch hat seit jeher Werkzeuge genutzt, um sich an seine Umwelt anzupassen und seine Lebensbedingungen zu verbessern. Diese Fähigkeit, Werkzeuge zu entwickeln und zu nutzen, ist tief in der menschlichen Evolution verwurzelt und hat entscheidend zur Entwicklung von kognitiven und sozialen Strukturen beigetragen. Beginnend mit einfachen Werkzeugen wie dem Faustkeil, der vor über zwei Millionen Jahren von frühen Hominiden verwendet wurde, bis hin zu hochkomplexen digitalen Werkzeugen wie Learning-Management-Systemen (LMS), hat der Mensch immer danach gestrebt, durch den Einsatz von Hilfsmitteln seine Umwelt zu kontrollieren und sich neue Möglichkeiten zu erschließen.

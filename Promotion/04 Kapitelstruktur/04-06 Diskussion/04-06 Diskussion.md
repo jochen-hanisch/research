@@ -1,3 +1,5 @@
+\newpage
+
 # 6 Diskussion
 
 Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und der Forschungsfragen. Struktur gemäß den Arbeitsnotizen:

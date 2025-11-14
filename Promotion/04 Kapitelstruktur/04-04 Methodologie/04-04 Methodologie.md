@@ -1,3 +1,5 @@
+\newpage
+
 # 4 Methodologie
 
 Kapitel 4 beschreibt die angewendete Methodik und reflektiert diese entlang der wissenschaftlichen Gütekriterien. Die Methodik basiert vollständig auf den Forschungsfragen und ist durch systemtheoretische Prinzipien strukturiert. Die Kombination aus geplanten Methoden (z.B. Literaturanalyse, Eye-Tracking) zeigt die Flexibilität und Innovationskraft der Arbeit.
