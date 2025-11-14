@@ -1,4 +1,22 @@
 
+---
+title: "FU2b Prompt Sekundäranalyse"
+fu: FU2b
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Probabilistisch‑Qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring"
+sources_count: 27
+sources_file: "FU2b Primäranalysen (27).md"
+software: tbd
+tags: [mayring, fu/FU2b, typ/prompt]
+links:
+  prompt: "FU2b Prompt Sekundäranalyse.md"
+  primary: "FU2b Primäranalysen (27).md"
+  analysis: "FU2b Qualitative Metaanalyse.md"
+  codebook: "FU2b Codiersystem.md"
+---
+
 # Vorarbeiten
 
 **Aufgabe:**  
@@ -125,22 +143,5 @@ _„Welche Faktoren beeinflussen die Anwendung und Wirkung von Learning-Manageme
 Bitte nenne die Anzahl der analysierten Notizen.
 
 **Format:** Markdown
----
-title: "FU2b Prompt Sekundäranalyse"
-fu: FU2b
-version: tbd
-last_updated: tbd
-status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
-sources_count: 27
-sources_file: "FU2b Primäranalysen (27).md"
-software: tbd
-tags: [mayring, fu/FU2b, typ/prompt]
-links:
-  prompt: "FU2b Prompt Sekundäranalyse.md"
-  primary: "FU2b Primäranalysen (27).md"
-  analysis: "FU2b Qualitative Metaanalyse.md"
-  codebook: "FU2b Codiersystem.md"
----
 
 Links: [[FU2b Prompt Sekundäranalyse]] · [[FU2b Primäranalysen (27)]] · [[FU2b Qualitative Metaanalyse]] · [[FU2b Codiersystem]]

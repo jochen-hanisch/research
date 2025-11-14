@@ -4,7 +4,7 @@ fu: FU1
 version: tbd
 last_updated: tbd
 status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
+procedure: "Probabilistisch‑Qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring"
 sources_count: 58
 sources_file: "FU1 Primäranalysen (58).md"
 software: tbd

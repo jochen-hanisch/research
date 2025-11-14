@@ -1,3 +1,21 @@
+---
+title: "FU6 Prompt Sekundäranalyse"
+fu: FU6
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Probabilistisch‑Qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring"
+sources_count: 65
+sources_file: "FU6 Primäranalysen (65).md"
+software: tbd
+tags: [mayring, fu/FU6, typ/prompt]
+links:
+  prompt: "FU6 Prompt Sekundäranalyse.md"
+  primary: "FU6 Primäranalysen (65).md"
+  analysis: "FU6 Qualitative Inhaltsanalyse.md"
+  codebook: "FU6 Codiersystem.md"
+---
+
 Bitte diesen Prompt für diesen Chat nehmen, ich gebe eine Export-Datei aller Primäranalysen, die Du nach diesem Prompt bearbeitest:
 # Vorarbeiten
 
@@ -119,22 +137,5 @@ _„Wie wird ein Learning-Management-System (LMS) im digitalen Bildungsraum der 
 Bitte gib die Anzahl der analysierten Notizen an.
 
 **Format:** Markdown
----
-title: "FU6 Prompt Sekundäranalyse"
-fu: FU6
-version: tbd
-last_updated: tbd
-status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
-sources_count: 65
-sources_file: "FU6 Primäranalysen (65).md"
-software: tbd
-tags: [mayring, fu/FU6, typ/prompt]
-links:
-  prompt: "FU6 Prompt Sekundäranalyse.md"
-  primary: "FU6 Primäranalysen (65).md"
-  analysis: "FU6 Qualitative Inhaltsanalyse.md"
-  codebook: "FU6 Codiersystem.md"
----
 
 Links: [[FU6 Prompt Sekundäranalyse]] · [[FU6 Primäranalysen (65)]] · [[FU6 Qualitative Inhaltsanalyse]] · [[FU6 Codiersystem]]

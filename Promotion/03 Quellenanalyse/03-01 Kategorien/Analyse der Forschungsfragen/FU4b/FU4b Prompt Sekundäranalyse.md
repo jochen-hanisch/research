@@ -1,3 +1,21 @@
+---
+title: "FU4b Prompt Sekundäranalyse"
+fu: FU4b
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Probabilistisch‑Qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring"
+sources_count: 93
+sources_file: "FU4b Primäranalysen (93).md"
+software: tbd
+tags: [mayring, fu/FU4b, typ/prompt]
+links:
+  prompt: "FU4b Prompt Sekundäranalyse.md"
+  primary: "FU4b Primäranalysen (93).md"
+  analysis: "FU4b Qualitative Inhaltsanalyse.md"
+  codebook: "FU4b Codiersystem.md"
+---
+
 Bitte diesen Prompt für diesen Chat nehmen, ich gebe eine Export-Datei aller Primäranalysen, die Du nach diesem Prompt bearbeitest:
 # Vorarbeiten
 
@@ -120,22 +138,5 @@ _„Welche technisch-gestalterischen Mechanismen wirken beim Einsatz eines Learn
 Bitte gib die Anzahl der analysierten Notizen an.
 
 **Format:** Markdown
----
-title: "FU4b Prompt Sekundäranalyse"
-fu: FU4b
-version: tbd
-last_updated: tbd
-status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
-sources_count: 93
-sources_file: "FU4b Primäranalysen (93).md"
-software: tbd
-tags: [mayring, fu/FU4b, typ/prompt]
-links:
-  prompt: "FU4b Prompt Sekundäranalyse.md"
-  primary: "FU4b Primäranalysen (93).md"
-  analysis: "FU4b Qualitative Inhaltsanalyse.md"
-  codebook: "FU4b Codiersystem.md"
----
 
 Links: [[FU4b Prompt Sekundäranalyse]] · [[FU4b Primäranalysen (93)]] · [[FU4b Qualitative Inhaltsanalyse]] · [[FU4b Codiersystem]]
