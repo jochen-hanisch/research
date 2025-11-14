@@ -6,7 +6,10 @@ bibliography: "08 Metaquellen/Matadaten/Literaturverzeichnis.bib"
 csl: "08 Metaquellen/Matadaten/apa-no-initials.csl"
 header-includes:
   - \usepackage{fontspec}
-  - \setmainfont{Arial}
+  - \usepackage{unicode-math}
+  - \setmainfont{STIX Two Text}
+  - \setsansfont{STIX Two Text}
+  - \setmathfont{STIX Two Math}
   - \usepackage[ngerman]{babel}
   - \usepackage{setspace}
   - \onehalfspacing
@@ -45,27 +48,29 @@ header-includes:
 \begin{titlepage}
 \begin{center}
 
-{\Large DISSERTATION}\\[3cm]
+{\Large DISSERTATION}\\[2.5cm]
 
-{\bfseries\LARGE Wirkgefüge im digitalen Bildungsraum}\\[0.8cm]
+{\bfseries\LARGE Wirkgefüge im digitalen Bildungsraum}\\[0.6cm]
 
-{\large Eine Untersuchung der Merkmale, Effekte, Mechanismen und Reaktionen von Learning-Management-Systemen am Beispiel der Lehre in Gesundheitsberufen}\\[1.5cm]
+{\large Eine Untersuchung der Merkmale, Effekte, Mechanismen und Reaktionen von Learning-Management-Systemen am Beispiel der Lehre in Gesundheitsberufen}\\[1.2cm]
 
-{\bfseries\large Interactional Frameworks in the Digital Educational Space}\\[0.8cm]
+{\bfseries\large Interactional Frameworks in the Digital Educational Space}\\[0.6cm]
 
-{\large An Exploration of the Characteristics, Effects, Mechanisms, and Responses of Learning Management Systems Using the Example of Healthcare Education}\\[3cm]
+{\large An Exploration of the Characteristics, Effects, Mechanisms, and Responses of Learning Management Systems Using the Example of Healthcare Education}\\[1.2cm]
 
 {\large zur Erlangung des akademischen Grades}\\[0.5cm]
-{\large Doctor rerum medicinalium (Dr. rer. medic.)}\\[1.5cm]
+{\large Doctor rerum medicinalium (Dr. rer. medic.)}\\[1.2cm]
 
 {\large vorgelegt der Medizinischen Fakultät}\\[0.2cm]
-{\large Charité – Universitätsmedizin Berlin}\\[1.5cm]
+{\large Charité – Universitätsmedizin Berlin}\\[2.0cm]
 
 {\large von}\\[0.2cm]
-{\large Jochen Hanisch-Johannsen M.A., M.A.}\\[2cm]
+{\large Jochen Hanisch-Johannsen M.A., M.A.}\\[1.8cm]
+
+\vfill
 
 {\large Erstbetreuung: Prof. Dr. med. Sebastian Spethmann}\\[0.2cm]
-{\large Zweitbetreuung: Prof.in Dr.in phil. Eva Cendon}\\[0.8cm]
+{\large Zweitbetreuung: Prof.in Dr.in phil. Eva Cendon}\\[0.6cm]
 {\large Datum der Promotion: dd.mm.yyyy}\\
 
 \end{center}
