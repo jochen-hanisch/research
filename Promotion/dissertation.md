@@ -4,7 +4,7 @@ title: "Wirkgefüge im digitalen Bildungsraum"
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=1.0cm, includefoot, footskip=1.5cm"
 papersize: a4
 latex_engine: xelatex
-bibliography: "Allgemein_beruflich/Research/Charité - Universitätsmedizin Berlin/Matadaten/Literaturverzeichnis.bib"
+bibliography: "08 Metaquellen/Matadaten/Literaturverzeichnis.bib"
 csl: "pandoc-templates/bibliography/apa.csl"
 header-includes:
   - \usepackage{fontspec}
@@ -45,9 +45,36 @@ header-includes:
 
 # Titelseite
 
-<!-- Hier kannst du den bestehenden Titelseiten-Block aus
-     `09 Backup/Versionen/v-0-0-3 Wirkgefüge im digitalen Bildungsraum.md`
-     1:1 (inkl. LaTeX) einfügen. -->
+```{=latex}
+\begin{titlepage}
+\begin{center}
+
+{\Large DISSERTATION}\\[3cm]
+
+{\bfseries\LARGE Wirkgefüge im digitalen Bildungsraum}\\[0.8cm]
+
+{\large Eine Untersuchung der Merkmale, Effekte, Mechanismen und Reaktionen von Learning-Management-Systemen am Beispiel der Lehre in Gesundheitsberufen}\\[1.5cm]
+
+{\bfseries\large Interactional Frameworks in the Digital Educational Space}\\[0.8cm]
+
+{\large An Exploration of the Characteristics, Effects, Mechanisms, and Responses of Learning Management Systems Using the Example of Healthcare Education}\\[3cm]
+
+{\large zur Erlangung des akademischen Grades}\\[0.5cm]
+{\large Doctor rerum medicinalium (Dr. rer. medic.)}\\[1.5cm]
+
+{\large vorgelegt der Medizinischen Fakultät}\\[0.2cm]
+{\large Charité – Universitätsmedizin Berlin}\\[1.5cm]
+
+{\large von}\\[0.2cm]
+{\large Jochen Hanisch-Johannsen M.A., M.A.}\\[2cm]
+
+{\large Erstbetreuung: Prof. Dr. med. Sebastian Spethmann}\\[0.2cm]
+{\large Zweitbetreuung: Prof.in Dr.in phil. Eva Cendon}\\[0.8cm]
+{\large Datum der Promotion: dd.mm.yyyy}\\
+
+\end{center}
+\end{titlepage}
+```
 
 # Inhaltsverzeichnis
 
@@ -147,4 +174,3 @@ header-includes:
 ```
 
 oder das Standard-Literaturverzeichnis von pandoc anhand deiner .bib-Datei. -->
-
