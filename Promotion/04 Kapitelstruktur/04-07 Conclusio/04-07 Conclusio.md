@@ -4,8 +4,8 @@
 
 ## 7.1 Zusammenfassung der zentralen Ergebnisse
 
-- Verdichtung der wichtigsten Befunde aus Kapitel 5.
-- Rückbindung an die Zielsetzung aus Kapitel 1.
+- Verdichtung der wichtigsten Befunde aus Kapitel 5.
+- Rückbindung an die Zielsetzung aus Kapitel 1.
 
 ## 7.2 Theoretische Schlussfolgerungen
 
