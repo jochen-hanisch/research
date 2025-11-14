@@ -1,6 +1,4 @@
-# 4	Methodologie
-
-Überleitung von Kapitel 3 und Zusammenfassung, Kapitel 4, inkl. Inhalt
+# 4 Methodologie
 
 Kapitel 4 beschreibt eine Methodik, die vollständig auf den Forschungsfragen basiert und durch systemtheoretische Prinzipien strukturiert ist. Die Kombination aus geplanten Methoden (z. B. Literaturanalyse, Eye-Tracking) und methodischen Erweiterungen (Python-Simulation) zeigt die Flexibilität und Innovationskraft der Arbeit.
 
@@ -74,6 +72,7 @@ Die Tabelle zeigt die Zuordnung der Methoden zu den Forschungsunterfragen. Sie u
 \end{quote}
 
 \end{table}
+```
 
 
 Tabelle 5: Forschungsunterfragen und deren Bearbeitungsmethoden
@@ -139,11 +138,11 @@ Tabelle 4 kann damit als zentrales Steuerungsinstrument des Forschungsprojekts a
 Datenerhebung und -aufbereitung (ca. 4–5 Seiten)
 Interpretation der Methodenkohärenz
 
-Durch die kombinierte Anwendung deduktiver Strukturierung, statistischer Clusteranalyse (K-Means) und selektiver Segmentierung anhand empirisch ermittelter Perzentile (Q2–Q3) wurde ein qualitativer Literaturkorpus in eine quantitativ auswertbare Struktur überführt. Diese Vorgehensweise ermöglicht eine fundierte Zuordnung der Forschungsunterfragen (FU) zu jenen Bereichen der Literatur, die sich im Verdichtungsraum epistemischer Kohärenz befinden. Das bedeutet: Die ausgewählten Publikationen weisen eine besonders hohe strukturelle Nähe zueinander auf, gemessen an der maximalen Trennschärfe und Homogenität im Silhouette-Score.
+Durch die kombinierte Anwendung deduktiver Strukturierung, statistischer Clusteranalyse ($k$-Means) und selektiver Segmentierung anhand empirisch ermittelter Perzentile ($Q_2$–$Q_3$) wurde ein qualitativer Literaturkorpus in eine quantitativ auswertbare Struktur überführt. Diese Vorgehensweise ermöglicht eine fundierte Zuordnung der Forschungsunterfragen (FU) zu jenen Bereichen der Literatur, die sich im Verdichtungsraum epistemischer Kohärenz befinden. Das bedeutet: Die ausgewählten Publikationen weisen eine besonders hohe strukturelle Nähe zueinander auf, gemessen an der maximalen Trennschärfe und Homogenität im Silhouette-Score.
 
 Bemerkenswert ist dabei, dass die Auswahl nicht durch subjektives Eingreifen, thematische Vorannahmen oder bewusste Schwerpunktsetzungen erfolgte, sondern ausschließlich durch algorithmisch rekonstruierte Dichtefelder innerhalb der deduktiv-numerischen Vektorräume. Die Aussagen, die aus diesem Literaturfeld hervorgehen, können somit als besonders stabil, kohärent und epistemisch tragfähig gewertet werden – sie stellen gewissermaßen den empirischen Kern des aktuellen Diskurses dar.
 
-Jahr	𝓃	Cluster	Silhouette-Skore
+Jahr	$n$	Cluster	Silhouette-Skore
 2010	7	2	1.0000
 2011	29	4	0.9655
 2012	7	3	0.8571
@@ -178,16 +177,16 @@ Interpretation der Kurve
 
 1. 
 Allgemeines Muster (2010–2025):
-    Von 2010–2017 zeigen sich trotz geringer Fallzahlen (n < 100) durchweg exzellente Silhouette-Scores (≈1.0).
-    2018–2022 bleibt der SC durchgehend über dem Median (Q2 ≈ 0.9906), bei gleichzeitig signifikant steigenden Fallzahlen.
-    Ab 2023 fällt der Score unter Q3 und erreicht 2024 einen Tiefpunkt von 0.9208, während die Fallzahl mit 780 hoch bleibt.
+    Von 2010–2017 zeigen sich trotz geringer Fallzahlen ($n < 100$) durchweg exzellente Silhouette-Scores (≈1.0).
+    2018–2022 bleibt der SC durchgehend über dem Median ($Q_2 \approx 0.9906$), bei gleichzeitig signifikant steigenden Fallzahlen.
+    Ab 2023 fällt der Score unter $Q_3$ und erreicht 2024 einen Tiefpunkt von 0.9208, während die Fallzahl mit 780 hoch bleibt.
     2025 zeigt sich eine leichte Erholung des SC (0.9696), jedoch bei stark gesunkenen Fallzahlen.
 
 2. 
 Quartile & Bias-Schwellen:
     Q1 (≈ 0.9686): Markiert die Schwelle, ab der Werte als „niedrig“ gelten.
-    Q3 = 1.0000: Zeigt an, dass ein Viertel aller Jahre perfekte Clusterkohärenz aufweist – ein selten hoher Wert.
-    Fatigue Threshold (0.96): Ab diesem Wert könnte eine inhaltliche Erschöpfung im Datenraum interpretiert werden.
+    $Q_3 = 1.0000$: Zeigt an, dass ein Viertel aller Jahre perfekte Clusterkohärenz aufweist – ein selten hoher Wert.
+    Fatigue Threshold ($0.96$): Ab diesem Wert könnte eine inhaltliche Erschöpfung im Datenraum interpretiert werden.
     Circadian Optimum & Winsorisierter Median (≈ 0.9906): Dienen als kognitives Optimum bzw. robuste Mittelwerte der Analysequalität.
 
 Schlussfolgerungen
@@ -209,11 +208,14 @@ Die Darstellung liefert eine statistisch transparente Grundlage, um
     Aussagekraft einzuschätzen,
     Jahre mit hoher epistemischer Kohärenz zu identifizieren.
 
-Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es dir,
+Die Darstellung liefert eine statistisch transparente Grundlage, um
+    einzelne Jahrgänge zu gewichten,
+    Aussagekraft einzuschätzen,
+    Jahre mit hoher epistemischer Kohärenz zu identifizieren.
+
+Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es,
     wissenschaftliche Aussagen systematisch zu begründen,
     und die methodische Qualität retrospektiv zu validieren.
-
-Du hast damit ein hochgradig differenziertes, datenbasiertes Auswahlkriterium geschaffen – mit hoher Anschlussfähigkeit für qualitative wie quantitative Anschlussarbeiten.
 
 
 KI-gestützte Dokumentenanalyse
@@ -253,15 +255,15 @@ Die KI-gestützte Analyse erreichte einen Silhouette-Score von 0.92, während di
 
 Ein wesentlicher Bestandteil der qualitativen Clustervalidierung ist die systematische Überprüfung der Analyseergebnisse anhand definierter Testansätze. Zunächst erfolgt eine automatische Kodierung, bei der untersucht wird, ob die Methode relevante Konzepte aus dem Text extrahiert und korrekt zuordnet. Anschließend wird die extrahierte Struktur mit der ursprünglichen Kodierung in der Studie verglichen, um mögliche Abweichungen oder Übereinstimmungen zu identifizieren.
 
-Ein weiterer Schritt ist die Clusterbildung mit 𝐾-Means, um zu prüfen, ob sich inhaltlich sinnvolle Cluster innerhalb der Daten ergeben. Diese werden mit den thematischen Schwerpunkten der Studie abgeglichen, um zu evaluieren, inwiefern die identifizierten Cluster mit etablierten Forschungsstrukturen übereinstimmen.
+Ein weiterer Schritt ist die Clusterbildung mit $k$-Means, um zu prüfen, ob sich inhaltlich sinnvolle Cluster innerhalb der Daten ergeben. Diese werden mit den thematischen Schwerpunkten der Studie abgeglichen, um zu evaluieren, inwiefern die identifizierten Cluster mit etablierten Forschungsstrukturen übereinstimmen.
 
 Zur Stabilitätsprüfung der Analyse wird der Silhouette-Score berechnet, wobei die Clustervalidierungmehrfach durchgeführt wird. Dadurch kann überprüft werden, ob sich die ermittelten Cluster über verschiedene Durchläufe hinweg stabil zeigen oder ob signifikante Schwankungen auftreten. Dies dient als Maß für die methodische Konsistenz der Validierung.
 
 Ein abschließender Vergleich erfolgte durch die Anwendung der qualitativen Clustervalidierung auf die klassisch kodierte Studie von Kerman et al. Dabei wurde analysiert, inwiefern die von Menschen kodierten Kategorien eine ähnlich klare Trennung aufweisen wie die KI-generierten Cluster. Die Ergebnisse zeigen, dass die Clustervalidierung eine objektive Bewertung der bestehenden Kodierung ermöglicht und methodische Schwächen in der menschlichen Kategorisierung sichtbar machen kann.
 
-### Ergänzung zu ATLAS.ti und 𝐾-Means
+### Ergänzung zu ATLAS.ti und $k$-Means
 
-In der Diskussion zur methodischen Validierung wurde auch die Möglichkeit betrachtet, klassische Inhaltsanalyse-Tools wie ATLAS.ti 9 oder NVivo für die Analyse KI-generierter Kodierungen einzusetzen. Dabei zeigte sich jedoch, dass diese Werkzeuge primär für die Unterstützung menschlicher Kodierungsprozesse konzipiert sind und keine geeignete Methodik zur objektiven Validierung von Clustern bieten. Die qualitative Clustervalidierung verfolgt hingegen einen anderen Ansatz: Sie nutzt Algorithmen wie 𝐾-Means nicht zur explorativen Clusterbildung, sondern zur quantitativen Prüfung der methodischen Konsistenz bereits vorhandener Kodierungen. Diese Unterscheidung ist zentral, da die qualitative Clustervalidierung nicht als Konkurrenz zu klassischen Inhaltsanalyseverfahren betrachtet werden sollte, sondern als eine ergänzende Methode zur Überprüfung der Trennschärfe und methodischen Stabilität kodierter Daten.
+In der Diskussion zur methodischen Validierung wurde auch die Möglichkeit betrachtet, klassische Inhaltsanalyse-Tools wie ATLAS.ti 9 oder NVivo für die Analyse KI-generierter Kodierungen einzusetzen. Dabei zeigte sich jedoch, dass diese Werkzeuge primär für die Unterstützung menschlicher Kodierungsprozesse konzipiert sind und keine geeignete Methodik zur objektiven Validierung von Clustern bieten. Die qualitative Clustervalidierung verfolgt hingegen einen anderen Ansatz: Sie nutzt Algorithmen wie $k$-Means nicht zur explorativen Clusterbildung, sondern zur quantitativen Prüfung der methodischen Konsistenz bereits vorhandener Kodierungen. Diese Unterscheidung ist zentral, da die qualitative Clustervalidierung nicht als Konkurrenz zu klassischen Inhaltsanalyseverfahren betrachtet werden sollte, sondern als eine ergänzende Methode zur Überprüfung der Trennschärfe und methodischen Stabilität kodierter Daten.
 
 
 
@@ -277,7 +279,7 @@ Gleichzeitig bleibt zu beachten, dass menschliche Kodierungen theoretische Konze
 
 ---
 
-### **Warum ist diese Einbindung hier sinnvoll?**
+### Warum ist diese Einbindung hier sinnvoll?
 1. **Unmittelbare Parallelen zur Nutzung von KI-gestützten Verfahren in der Literaturanalyse**  
    - Die Arbeit von Yu et al. (2024) belegt, dass KI nicht nur unterstützend wirkt, sondern Reflexions- und Analyseprozesse **strategisch verbessert**.  
    - Dies stärkt Ihre Argumentation, dass Ihre methodische Kombination aus systematischer Literaturanalyse und KI-basierter Kategorisierung ein wissenschaftlich fundierter Ansatz ist.
@@ -330,38 +332,54 @@ Korrelation und Interdependenz
 - Ergebnis: Visualisierung der strukturellen Kopplungen und Interdependenzen.
 
 Exkurs: Mehrdimensional-analytische Clustervalidierung
-Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse, eher zufällig als potenzielle Erweiterung der qualitativen Analyse in Betracht gezogen (Kapitel 4.3.1). Die Anwendung des 𝐾-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus erschien als vielversprechender Zugang zur Identifikation verborgener Muster oder nicht explizit abgebildeter Strukturen. Überraschenderweise blieben jedoch neue Erkenntnisse aus, da die Clustervalidierung weitgehend die bestehenden semantischen Erkenntnisse bestätigte. Diese zunächst irritierende Stabilität erwies sich im weiteren Verlauf als methodisch hochbedeutsam. Die Tatsache, dass ein klassisch induktiv genutzter Algorithmus ein deduktiv geschaffenes Ordnungssystem reproduzierte, verweist auf eine inhärente Validierung der Ausgangsstruktur. Erst mit zeitlichem Abstand wurde deutlich, dass sich hier eine neue methodische Perspektive eröffnet, d.h. die Möglichkeit, qualitative Strukturierungslogiken algorithmisch zu überprüfen.
-Aus dieser Beobachtung entwickelte sich schrittweise die mehrdimensional-analytische Clustervalidierung (mdaCV). Ein Verfahren, das qualitative Strukturierung, algorithmische Clusterdetektion und visuelle Repräsentation in einem konsistenten Validierungsprozess verbindet. Dabei wird ein deduktiv formulierter semantischer Raum entlang inhaltlich begründeter Dimensionen (z. B. Kategorien, Forschungsfragen, Schlagworte) aufgespannt. Die Positionierung der Datenpunkte erfolgt entlang dieser Achsen, die Clusterbildung erfolgt mit dem 𝐾-Means-Algorithmus, die Qualität der Trennung wird über den Silhouette-Score erfasst (vgl. Rousseeuw, 1987). (Hanisch-Johannsen, 2025a)
+Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse, eher zufällig als potenzielle Erweiterung der qualitativen Analyse in Betracht gezogen (Kapitel 4.3.1). Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus erschien als vielversprechender Zugang zur Identifikation verborgener Muster oder nicht explizit abgebildeter Strukturen. Überraschenderweise blieben jedoch neue Erkenntnisse aus, da die Clustervalidierung weitgehend die bestehenden semantischen Erkenntnisse bestätigte. Diese zunächst irritierende Stabilität erwies sich im weiteren Verlauf als methodisch hochbedeutsam. Die Tatsache, dass ein klassisch induktiv genutzter Algorithmus ein deduktiv geschaffenes Ordnungssystem reproduzierte, verweist auf eine inhärente Validierung der Ausgangsstruktur. Erst mit zeitlichem Abstand wurde deutlich, dass sich hier eine neue methodische Perspektive eröffnet, d.h. die Möglichkeit, qualitative Strukturierungslogiken algorithmisch zu überprüfen.
+Aus dieser Beobachtung entwickelte sich schrittweise die mehrdimensional-analytische Clustervalidierung (mdaCV). Ein Verfahren, das qualitative Strukturierung, algorithmische Clusterdetektion und visuelle Repräsentation in einem konsistenten Validierungsprozess verbindet. Dabei wird ein deduktiv formulierter semantischer Raum entlang inhaltlich begründeter Dimensionen (z. B. Kategorien, Forschungsfragen, Schlagworte) aufgespannt. Die Positionierung der Datenpunkte erfolgt entlang dieser Achsen, die Clusterbildung erfolgt mit dem $k$-Means-Algorithmus, die Qualität der Trennung wird über den Silhouette-Score erfasst (vgl. Rousseeuw, 1987). (Hanisch-Johannsen, 2025a)
 Erst in einem späteren Entwicklungsschritt wurde deutlich, dass diese Vorgehensweise nicht nur für menschlich kodierte, sondern auch für KI-generierte Analysen geeignet ist. Durch die Anwendung auf Testdatensätze – real, manipuliert und zufällig – konnte nachgewiesen werden, dass die mdaCV zwischen kohärenten, rauschhaften und künstlich homogenisierten Datenstrukturen zuverlässig differenziert. Die methodische Implementierung wurde versioniert dokumentiert und ist unter folgender Struktur öffentlich einsehbar (https://git.jochen-hanisch.de/promotion/literaturanalyse). Dort finden sich sowohl der vollständige Datensatz mit Testvarianten (Real-, Zufalls- und manipulierte Daten) als auch die korrespondierenden Python-Skripte (analyse_korrelation.py, analyse_netzwerk.py) sowie ein angepasstes .gitignore, zur Sicherstellung, dass keine personenbezogenen oder bibliographisch geschützten Inhalte öffentlich sichtbar sind.
-Die Methode wurde nicht abstrakt konzipiert, sondern emergierte aus forschungspraktischen Überlegungen, iterativen Rückkopplungen und der Notwendigkeit, große Datenmengen zugleich strukturiert, nachvollziehbar und validierbar zu analysieren. Die theoretische Herleitung basiert u. a. auf Arbeiten zur Stabilität des 𝐾-Means-Algorithmus (Rakhlin & Caponnetto, o. J., Kapitel 5), zur Struktur von Merkmalsräumen (Mavroeidis & Marchiori, 2011, Kapitel 3) sowie zur algorithmischen Modellierung semantischer Nähe durch Vektorraummodelle (Mikolov et al., 2013, Kapitel 2). Die mdaCV verbindet somit deduktive Theoriegeleitetheit mit datenbasierter Validierungslogik. Ein methodisches Hybridmodell , das qualitative und quantitative Paradigmen nicht nur überbrückt, sondern integrativ zusammenführt.
+Die Methode wurde nicht abstrakt konzipiert, sondern emergierte aus forschungspraktischen Überlegungen, iterativen Rückkopplungen und der Notwendigkeit, große Datenmengen zugleich strukturiert, nachvollziehbar und validierbar zu analysieren. Die theoretische Herleitung basiert u. a. auf Arbeiten zur Stabilität des $k$-Means-Algorithmus (Rakhlin & Caponnetto, o. J., Kapitel 5), zur Struktur von Merkmalsräumen (Mavroeidis & Marchiori, 2011, Kapitel 3) sowie zur algorithmischen Modellierung semantischer Nähe durch Vektorraummodelle (Mikolov et al., 2013, Kapitel 2). Die mdaCV verbindet somit deduktive Theoriegeleitetheit mit datenbasierter Validierungslogik. Ein methodisches Hybridmodell, das qualitative und quantitative Paradigmen nicht nur überbrückt, sondern integrativ zusammenführt.
 Die mdaCV ist ein Verfahren zur Validierung von Kodierungsstrukturen in qualitativ vorstrukturierten Datenräumen. Dieses Verfahren basiert auf einem dreidimensionalen semantischen Raum, in dem Datenpunkte entlang deduktiv definierter Achsen (z. B. Kategorien, Forschungsfragen, Schlagworte) positioniert und anschließend mittels algorithmischer Clustervalidierung überprüft werden. Dabei kombiniert das Verfahren inhaltlich fundierte Dimensionen mit statistischen Bewertungsverfahren wie dem Silhouette-Score (Rousseeuw, 1987, S. 59, 61), um die Trennschärfe und Kohärenz der Clusterbildung zu bewerten.
+
 Die methodische Herleitung fußt auf drei zentralen Komponenten:
-    Deduktive Strukturierung des semantischen Raums : Aufbauend auf theoretisch oder empirisch begründeten Dimensionen erfolgt eine systematische Vorstrukturierung des Datenraums (Kuckartz & Rädiker, 2022; Mayring, 2022; Mayring & Fenzl, 2022). Diese Dimensionen bspw. Kategorien, Disziplinen oder thematische Schlagworte, definieren die Achsen des Raums und ermöglichen die strukturierte Positionierung der Daten.
-    Um die semantische Struktur der Daten algorithmisch analysierbar zu machen, werden begriffliche Relationen in numerische Vektoren überführt. Die semantische Nähe zwischen Datenpunkten entspricht dabei ihrer geometrischen Nähe im Vektorraum. Diese Transformation bildet die Grundlage für distanzbasierte Verfahren wie die Clustervalidierung. Konzepte  wie CBOW und Skip-gram (Mikolov et al., 2013, Kapitel 6) zeigen, dass auch mit vergleichsweise einfachen Modellarchitekturen hochdimensionale, semantisch präzise Repräsentationen berechnet werden können. Dies ermöglicht die effiziente Verarbeitung großer Korpora und bildet die konzeptionelle Basis für die Vektorraummodellierung in der mdaCV.
-    Statistische Validierung mittels 𝐾-Means-Algorithmus: Die deduktiv vorstrukturierten Daten werden dem 𝐾-Means-Verfahren unterzogen. Die zentrale mathematische Formulierung basiert auf der Minimierung der quadrierten Distanzen innerhalb der Cluster (Pérez-Ortega et al., 2020, S. 5). Die Wahl der Anzahl der Cluster 𝐾 erfolgt theoriegeleitet oder wird durch Metriken wie den Silhouette-Score empirisch justiert. Die Sensitivität des 𝐾-Means-Algorithmus gegenüber strukturellen Varianzen wird dabei bewusst genutzt, um die methodische Konsistenz der Vorstrukturierung zu evaluieren. (Rakhlin & Caponnetto, o. J., Kapitel 6)
+
+1. Deduktive Strukturierung des semantischen Raums : Aufbauend auf theoretisch oder empirisch begründeten Dimensionen erfolgt eine systematische Vorstrukturierung des Datenraums (Kuckartz & Rädiker, 2022; Mayring, 2022; Mayring & Fenzl, 2022). Diese Dimensionen bspw. Kategorien, Disziplinen oder thematische Schlagworte, definieren die Achsen des Raums und ermöglichen die strukturierte Positionierung der Daten.
+2. Um die semantische Struktur der Daten algorithmisch analysierbar zu machen, werden begriffliche Relationen in numerische Vektoren überführt. Die semantische Nähe zwischen Datenpunkten entspricht dabei ihrer geometrischen Nähe im Vektorraum. Diese Transformation bildet die Grundlage für distanzbasierte Verfahren wie die Clustervalidierung. Konzepte  wie CBOW und Skip-gram (Mikolov et al., 2013, Kapitel 6) zeigen, dass auch mit vergleichsweise einfachen Modellarchitekturen hochdimensionale, semantisch präzise Repräsentationen berechnet werden können. Dies ermöglicht die effiziente Verarbeitung großer Korpora und bildet die konzeptionelle Basis für die Vektorraummodellierung in der mdaCV.
+3. Statistische Validierung mittels $k$-Means-Algorithmus: Die deduktiv vorstrukturierten Daten werden dem $k$-Means-Verfahren unterzogen. Die zentrale mathematische Formulierung basiert auf der Minimierung der quadrierten Distanzen innerhalb der Cluster (Pérez-Ortega et al., 2020, S. 5). Die Wahl der Anzahl der Cluster $k$ erfolgt theoriegeleitet oder wird durch Metriken wie den Silhouette-Score empirisch justiert. Die Sensitivität des $k$-Means-Algorithmus gegenüber strukturellen Varianzen wird dabei bewusst genutzt, um die methodische Konsistenz der Vorstrukturierung zu evaluieren. (Rakhlin & Caponnetto, o. J., Kapitel 6)
+
 Diese Kombination aus inhaltlicher Fundierung, geometrischer Modellierung und algorithmischer Validierung begründet die mdaCV als eigenständiges methodisches Verfahren. Sie wurde im Verlauf der Dissertation iterativ verfeinert, insbesondere durch Tests mit realen, manipulierten und zufälligen Datensätzen, um ihre Robustheit gegenüber Rauschelementen und ihre Fähigkeit  zur Differenzierung inhaltlicher Kohärenz nachzuweisen (Pérez-Ortega et al., 2020, S. 5, Punkt 4). Damit stellt die mdaCV keine bloße Kombination bestehender Verfahren dar, sondern ein transmethodisches Integrationsmodell, das qualitative Kategoriensysteme auf algorithmisch validierbare Weise überprüfbar macht – ein Beitrag zur Qualitätssicherung, Reproduzierbarkeit und epistemischen Transparenz in der qualitativen Bildungsforschung.
 Die mehrdimensional-analytische Clustervalidierung begleitete nicht nur den Analyseprozess im engeren Sinne, sondern wurde über den gesamten Promotionszeitraum hinweg als sensible, seismografisch wirkende Dauermessung eingesetzt. Die jeweiligen Messpunkte wurden nach gezielten Veränderungen am Suchbegriffkorpus vorgenommen und erlauben eine fortlaufende Rückmeldung über die semantische Konsistenz des Quellenraums, wobei die Anzahl der Cluster dauerhaft mit n = 4 beibehalten wurde. Im Rahmen dieser Analyse (Achsen: Suchbegriff, Kategorie, Forschungsfrage) wurde der Korpus beispielsweise in einem Prozess zunächst auf n = 3502 Quellen bereinigt, indem bestimmte Dokumentgattungen (etwa Manuskripte oder unspezifische Vorabfassungen) ausgeschlossen wurden. Infolge dieser Kuration stieg der Silhouette-Score von 0.964 auf 0.9751. Diese Differenz ist nicht als bloße numerische Verbesserung zu verstehen, sondern als qualitatives Emergenzphänomen. Nach Einbezug der o.a. Herleitung, wirkt jede Bereinigung in einem semantisch hochdimensionalen Raum potenziell in alle Richtungen. Der Erkenntniswert liegt somit weniger in der absoluten Score-Steigerung, sondern in der damit verbundenen epistemischen Schärfung, die sich durch den Ausschluss semantischer Rauschelemente ergibt. Hier demonstriert die Analyse exemplarisch, wie sich durch dreidimensional deduktive Validierung eine strukturell kohärente Quellenarchitektur rekonstruieren lässt.
 Nach erneuter Einbindung der zuvor ausgeschlossenen Konferenzbände stieg die Anzahl der analysierten Quellen auf n = 3572. Überraschenderweise blieb der Silhouette-Score mit 0.9754 nicht nur stabil, sondern übertraf den vorherigen Wert sogar leicht. Dieses Ergebnis legt nahe, dass die dreidimensionale deduktive Validierung hinreichend robust ist, um auch heterogene Dokumenttypen kohärent zu integrieren. Der ursprünglich befürchtete semantische Rausch-Effekt durch Konferenzbeiträge trat nicht ein; vielmehr scheint die zunehmende Datenfülle eine semantische Verdichtung zu bewirken. Das Cluster-Modell reagiert dabei nicht empfindlich, sondern resilient-emergent auf Datenerweiterung.
 Die Beobachtungen von Veränderungen innerhalb der mehrdimensional-analytische Clustervalidierungsind insbesondere im Grenzbereich zwischen Systemstabilität und kategorialer Modifikation aufschlussreich. In einem weiterem Durchgang wurde der Eintragstyp Buchteil gezielt untersucht. Dabei wurde der Datensatz minimal um einen Eintrag reduziert (nun n = 3571), woraufhin sich der Silhouette-Score um -0.001 veränderte. Diese Differenz mag numerisch klein erscheinen, ist jedoch im Kontext eines Scores über 0.97 hochrelevant. In diesem Bereich deutet bereits eine Veränderung in der dritten Nachkommastelle auf strukturelle Anpassungen im Clustermodell hin, etwa durch leicht verschobene Clusterzentren oder veränderte Einpassung eines Einzelbeitrags.
 Diese hier exemplarisch angedeutete Sensitivität ist Ausdruck der hohen Auflösung und Differenzierungsfähigkeit des Modells. Im Gegensatz zu vielen anderen Clustering-Ansätzen, die bei kleinen Eingriffen stark „springen“, reagiert dieses System kontinuierlich und rückmeldungsfähig. Der Eintragstyp Buchteil könnte beispielhaft eine inhärent variablere semantische Positionierung besitzen, etwa durch seine Funktion als Vorwort, methodischer Einschub oder Randthema. Auch eine Überrepräsentation bestimmter Werke kann potenziell zu Verzerrungen führen. Die gezielte Analyse solcher Subtypen eröffnet Möglichkeiten für weiterführende Fragestellungen: Wie viele Buchteile stammen aus dem gleichen Werk? Welche Achsendimensionen beeinflussen ihre Clusterzuordnung? Und inwieweit führt das gezielte Entfernen einzelner Elemente zu strukturellen Verschiebungen im Modell?
-Eine Veränderung von bspw.  0.001 bei konstantem Stichprobenumfang und stabiler 𝐾-Means-Architektur stellt eine reale, systemisch interpretierbare Verschiebung dar. Das System reagiert feinfühlig, d.h. auf Einzelbeiträge und dokumentiert deren Auswirkungen auf die Gesamtstruktur. Daraus ergeben sich potenzielle Analysepfade zur Erforschung mikrostruktureller Dynamiken innerhalb epistemisch strukturierter Clusterräume. Wie Tabelle 5 darstellt, überlagern sich nicht nur qualitative und quantitative Paradigmen, sondern verzahnen sich strukturell.
+Eine Veränderung von bspw. $0.001$ bei konstantem Stichprobenumfang und stabiler $k$-Means-Architektur stellt eine reale, systemisch interpretierbare Verschiebung dar. Das System reagiert feinfühlig, d.h. auf Einzelbeiträge und dokumentiert deren Auswirkungen auf die Gesamtstruktur. Daraus ergeben sich potenzielle Analysepfade zur Erforschung mikrostruktureller Dynamiken innerhalb epistemisch strukturierter Clusterräume. Wie Tabelle 5 darstellt, überlagern sich nicht nur qualitative und quantitative Paradigmen, sondern verzahnen sich strukturell.
 Tabelle 6: Strukturelle Paradigmen-Überlagerung bei Clusteranalysen
 Quantitativ	Qualitativ
 Silhouette-Score als Gütemaß	Deduktive Kategorienstruktur
 Clusterdichte und Trennschärfe	Theoriegeleitete Semantikachsen
-𝐾-Means als algorithmischer Kern	Vorstrukturierung durch Forschungsperspektiven
-Die Darstellung verdeutlicht, wie sich deduktive, theoriegeleitete Kategorien mit algorithmischen, quantitativ validierbaren Verfahren, etwa dem 𝐾-Means-Algorithmus und dem Silhouette-Score, strukturell verzahnen. Diese methodische Komplementarität ist zentral für die mehrdimensional-analystische Clustervalidierung (mdaCV) und ermöglicht die gleichzeitige Berücksichtigung epistemischer Tiefenstruktur und formaler Trennschärfe.
+$k$-Means als algorithmischer Kern	Vorstrukturierung durch Forschungsperspektiven
+Die Darstellung verdeutlicht, wie sich deduktive, theoriegeleitete Kategorien mit algorithmischen, quantitativ validierbaren Verfahren, etwa dem $k$-Means-Algorithmus und dem Silhouette-Score, strukturell verzahnen. Diese methodische Komplementarität ist zentral für die mehrdimensional-analystische Clustervalidierung (mdaCV) und ermöglicht die gleichzeitige Berücksichtigung epistemischer Tiefenstruktur und formaler Trennschärfe.
 Besonders hervorzuheben ist dabei, dass die methodische Verzahnung nicht nur eine Erweiterung quantitativer Validierungsmaßstäbe bedeutet, sondern auch die Öffnung für neue, integrative Bewertungsdimensionen. Während die klassische Clusterbewertung meist auf einzelne numerische Kennzahlen fokussiert, rückt der mdaCV-Ansatz die Notwendigkeit einer umfassenderen Güteprüfung ins Zentrum, bei der neben der formalen Trennschärfe auch die inhaltliche Erfassungstiefe und Vollständigkeit der Daten eine Rolle spielt. Damit wird der Blick für latente Verlustrisiken geschärft, die rein metrische Metriken bislang ausblenden.
 Epistemische Verlustfunktion als heuristisches Integritätsmaß
 Im Kontext der mehrdimensional-analytischen Clustervalidierung wird üblicherweise der Silhouette-Score als zentrales Maß zur Beurteilung der Clusterdifferenzierung genutzt (i.A.a. Rousseeuw, 1987). Dieser Wert allein erfasst jedoch lediglich die geometrische Separierbarkeit der Cluster im Vektorraum. Was bislang fehlt, ist ein zusammengesetztes Maß, das sowohl die strukturelle Kohärenz (Silhouette) als auch die semantische Vollständigkeit (Datenintegrität) einer Analyse widerspiegelt. Im Rahmen dieser Dissertation wurde daher eine epistemische Verlustfunktion ℇ eingeführt, die beide Dimensionen in einem einzigen heuristischen Indikator vereint. Ziel dieses Verfahrens ist die Modellierung eines skalierbaren Integritätsmaßes, welches sowohl den Grad der Clusterdifferenzierung als auch den Umfang erfasster Quellen berücksichtigt. Die Funktion kann damit als Überwachungsgröße für Datenverarbeitungsläufe herangezogen werden und kritische Abweichungen sichtbar machen, die sich nicht allein über Silhouette- oder Dokumentenzahl abbilden lassen. Die epistemische Verlustfunktion wird von den beiden Größen Clusterdifferenzierungsleistung, gemessen über den Silhouette-Score, und Datenvollständigkeit, gemessen über das Verhältnis zwischen intendierter und tatsächlich verarbeiteter Quellenzahl. Die Epistemische Verlustfunktion ℇ wird wie folgt definiert:
 Formel 1: Definition der Verlustfunktion
-ℇ=(1-S)+(((n_Soll-n_Ist ))/n_Soll )
+
+```{=latex}
+\begin{equation}
+\label{eq:verlust}
+\varepsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
+\end{equation}
+```
 Diese additive Formulierung bringt zwei unterschiedliche Validitätsaspekte auf eine gemeinsame Skala:
     Struktureller Verlust, formuliert als (1-S), wobei S den Silhouette-Score repräsentiert. Diese Größe misst die Abweichung vom optimalen Clusteringwert S=1. Je niedriger der Silhouette-Score, desto größer ist der Verlust an struktureller Trennschärfe und Clusterkohärenz.
     Datenverlust, formuliert als (((n_Soll- n_Ist ))/n_Soll ). Dieser Term beschreibt den relativen Anteil an Quellen, die nicht in die Analyse einflossen. Je höher der Wert, desto größer ist die epistemische Lücke im analysierten Datenkorpus.
 Beide Komponenten sind dimensionslos, additiv kombinierbar und liegen im Werteberich W=[0,2] ]. Die resultierende Funktion ℇ gibt somit eine Gesamtverlustschätzung für die epistemische Integrität eines Analyseverfahrens.
-Angenommen, ein Analyse-Korpus umfasst n_Soll=3585 Einträge, in die Clustervalidierunggingen n_Ist=3583 Quellen ein. Der ermittelte Silhouette-Score beträgt S= 0.9754. Dann ergibt sich:
-ε=(1 - 0,9754)+(2/( 3585))≈0,0246+0,000558≈0,0252
+Angenommen, ein Analyse-Korpus umfasst $n_{\text{Soll}} = 3585$ Einträge, in die Clustervalidierung gingen $n_{\text{Ist}} = 3583$ Quellen ein. Der ermittelte Silhouette-Score beträgt $S = 0{,}9754$. Dann ergibt sich:
+
+```{=latex}
+\begin{equation*}
+\varepsilon = (1 - 0{,}9754) + \frac{2}{3585}
+\approx 0{,}0246 + 0{,}000558
+\approx 0{,}0252
+\end{equation*}
+```
 Die epistemische Verlustfunktion liegt in diesem Fall mit ≈ 0,0252o in einem sehr niedrigen Bereich. Sie zeigt, dass trotz kleiner Datenverluste und nicht perfekter Trennschärfe eine nahezu optimale Integrität erreicht wurde. Damit bietet somit ℇ eine differenzierte Perspektive auf die Validität einer Analyse und eignet sich insbesondere:
     zur Qualitätssicherung von Analysepipelines (z. B. automatische Literaturanalysen, KI-generierte Korpora),
     zum Vergleich unterschiedlicher Datenverarbeitungen (z. B. real vs. manipuliert vs. zufällig) sowie
