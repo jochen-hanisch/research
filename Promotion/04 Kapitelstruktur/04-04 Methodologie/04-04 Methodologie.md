@@ -168,7 +168,7 @@ Vergleich der Kodierergebnisse zwischen Mensch und KI
 
 Ein zentraler Aspekt der qualitativen Clustervalidierung ist der Vergleich zwischen menschlichen Kodierungen und KI-gestützten Inhaltsanalysen. Um die methodische Präzision beider Ansätze zu bewerten, wurden die Silhouette-Scores der jeweiligen Analysen berechnet. Die Ergebnisse zeigen deutliche Unterschiede in der Trennschärfe der Cluster.
 
-#### Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung
+**Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung**
 
 Zur Überprüfung der methodischen Präzision und Trennschärfe von KI-gestützten Analysen im Vergleich zu menschlichen Kodierungen wurde die qualitative Clustervalidierung auf eine klassisch kodierte Studie von Kerman et al. (2024) angewendet. Ziel war es, die Clusterstruktur beider Verfahren zu vergleichen und Unterschiede in der methodischen Konsistenz zu identifizieren.
 Die Analyse ergab, dass die KI-gestützte Analyse einen Silhouette-Score von 0.92 erreichte, während die menschliche Kodierung lediglich 0.62 betrug. Dies verdeutlicht die höhere methodische Präzision und Trennschärfe der KI-gestützten Analyse. Während die manuelle Kodierung stärkere Überschneidungen zwischen Kategorien aufwies, erzeugte die KI-gestützte Analyse klar abgegrenzte Clusterstrukturen mit geringerem inhaltlichem Überlapp.
@@ -191,8 +191,6 @@ Ein abschließender Vergleich erfolgte durch die Anwendung der qualitativen Clus
 **Ergänzung zu ATLAS.ti und $k$-Means**
 
 In der Diskussion zur methodischen Validierung wurde auch die Möglichkeit betrachtet, klassische Inhaltsanalyse-Tools wie ATLAS.ti 9 oder NVivo für die Analyse KI-generierter Kodierungen einzusetzen. Dabei zeigte sich jedoch, dass diese Werkzeuge primär für die Unterstützung menschlicher Kodierungsprozesse konzipiert sind und keine geeignete Methodik zur objektiven Validierung von Clustern bieten. Die qualitative Clustervalidierung verfolgt hingegen einen anderen Ansatz: Sie nutzt Algorithmen wie $k$-Means nicht zur explorativen Clusterbildung, sondern zur quantitativen Prüfung der methodischen Konsistenz bereits vorhandener Kodierungen. Diese Unterscheidung ist zentral, da die qualitative Clustervalidierung nicht als Konkurrenz zu klassischen Inhaltsanalyseverfahren betrachtet werden sollte, sondern als eine ergänzende Methode zur Überprüfung der Trennschärfe und methodischen Stabilität kodierter Daten.
-
-
 
 **Kritische Einordnung bestehender Literatur**
 
@@ -238,7 +236,7 @@ $k$-Means als algorithmischer Kern	Vorstrukturierung durch Forschungsperspektive
 Die Darstellung verdeutlicht, wie sich deduktive, theoriegeleitete Kategorien mit algorithmischen, quantitativ validierbaren Verfahren, etwa dem $k$-Means-Algorithmus und dem Silhouette-Score, strukturell verzahnen. Diese methodische Komplementarität ist zentral für die mehrdimensional-analystische Clustervalidierung (mdaCV) und ermöglicht die gleichzeitige Berücksichtigung epistemischer Tiefenstruktur und formaler Trennschärfe.
 Besonders hervorzuheben ist dabei, dass die methodische Verzahnung nicht nur eine Erweiterung quantitativer Validierungsmaßstäbe bedeutet, sondern auch die Öffnung für neue, integrative Bewertungsdimensionen. Während die klassische Clusterbewertung meist auf einzelne numerische Kennzahlen fokussiert, rückt der mdaCV-Ansatz die Notwendigkeit einer umfassenderen Güteprüfung ins Zentrum, bei der neben der formalen Trennschärfe auch die inhaltliche Erfassungstiefe und Vollständigkeit der Daten eine Rolle spielt. Damit wird der Blick für latente Verlustrisiken geschärft, die rein metrische Metriken bislang ausblenden.
 
-#### 4.3.3.1 Epistemische Verlustfunktion als heuristisches Integritätsmaß
+**Epistemische Verlustfunktion als heuristisches Integritätsmaß**
 
 Im Kontext der mehrdimensional-analytischen Clustervalidierung wird üblicherweise der Silhouette-Score als zentrales Maß zur Beurteilung der Clusterdifferenzierung genutzt (i.A.a. Rousseeuw, 1987). Dieser Wert allein erfasst jedoch lediglich die geometrische Separierbarkeit der Cluster im Vektorraum. Was bislang fehlt, ist ein zusammengesetztes Maß, das sowohl die strukturelle Kohärenz (Silhouette) als auch die semantische Vollständigkeit (Datenintegrität) einer Analyse widerspiegelt. Im Rahmen dieser Dissertation wurde daher eine epistemische Verlustfunktion $\varepsilon$ eingeführt, die beide Dimensionen in einem einzigen heuristischen Indikator vereint. Ziel dieses Verfahrens ist die Modellierung eines skalierbaren Integritätsmaßes, welches sowohl den Grad der Clusterdifferenzierung als auch den Umfang erfasster Quellen berücksichtigt. Die Funktion kann damit als Überwachungsgröße für Datenverarbeitungsläufe herangezogen werden und kritische Abweichungen sichtbar machen, die sich nicht allein über Silhouette- oder Dokumentenzahl abbilden lassen. Die epistemische Verlustfunktion wird von den beiden Größen Clusterdifferenzierungsleistung, gemessen über den Silhouette-Score, und Datenvollständigkeit, gemessen über das Verhältnis zwischen intendierter und tatsächlich verarbeiteter Quellenzahl. Die epistemische Verlustfunktion $\varepsilon$ wird wie folgt definiert:
 
