@@ -53,4 +53,6 @@
 | Videokonferenzen                         | Online-Meetings für Unterrichtseinheiten und Besprechungen.                           |           |
 | Wikis                                    | Kollaborative Webseiten, die von Lernenden gemeinsam bearbeitet werden können.        |           |
 | Wachstum                                 | Hauptwachstumsphase mit signifikanten Steigerungen der Bereitschaft.                  |           |
-
+| Primäranalyse                            | Erste, unmittelbare Auswertung von Quellen bzw. Studien im Hinblick auf eine konkrete Forschungsfrage; dient als Basis für weiterführende Sekundäranalysen und Metaanalysen. |           |
+| Sekundäranalyse                          | Zusammenführende Auswertung mehrerer Primäranalysen zu einer Forschungsunterfrage; Fokus auf Vergleich, Verdichtung und theoriegeleitete Neubewertung der bereits vorliegenden Ergebnisse. |           |
+| Metaanalyse                              | Höherstufige, systematische Aggregation und Synthese von Primär- und Sekundäranalysen, um übergreifende Muster, Effekte oder Modelle abzuleiten; im Projekt als qualitative Metaanalyse/P‑QIA umgesetzt. |           |
