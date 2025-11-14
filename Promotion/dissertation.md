@@ -162,56 +162,6 @@ Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten eine
 
 \newpage
 
-# Einleitung und theoretischer Rahmen
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-01 Einleitung und theoretischer Rahmen/*.md
-     und aus deiner Word-Datei hierher übertragen. -->
-
-\newpage
-
-# Theorieteil
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-02 Theorieteil/* -->
-
-\newpage
-
-# Forschungsgegenstand
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-03 Forschungsgegenstand/* -->
-
-\newpage
-
-# Methodologie
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-04 Methodologie/* -->
-
-\newpage
-
-# Ergebnisse
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-05 Ergebnisse/* -->
-
-\newpage
-
-# Diskussion
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-06 Diskussion/* -->
-
-\newpage
-
-# Conclusio
-
-<!-- Inhalte aus:
-     04 Kapitelstruktur/04-07 Conclusio/* -->
-
-\newpage
-
 # Literatur
 
 <!-- Wenn du mit pandoc + CSL arbeitest, reicht normalerweise:
