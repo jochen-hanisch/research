@@ -1,3 +1,21 @@
+---
+title: "FU1 Prompt Sekundäranalyse"
+fu: FU1
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
+sources_count: 58
+sources_file: "FU1 Primäranalysen (58).md"
+software: tbd
+tags: [mayring, fu/FU1, typ/prompt]
+links:
+  prompt: "FU1 Prompt Sekundäranalyse.md"
+  primary: "FU1 Primäranalysen (58).md"
+  analysis: "FU1 Qualitative Metaanalyse.md"
+  codebook: "FU1 Codiersystem.md"
+---
+
 # Vorarbeiten
 
 Aufgabe:  
@@ -116,22 +134,6 @@ _„Welche der Akzeptanz und Nützlichkeit (Bedeutung) beschreiben Akteure im di
 Bitte gib die Anzahl der analysierten Notizen an.
 
 **Format:** Markdown
----
-title: "FU1 Prompt Sekundäranalyse"
-fu: FU1
-version: tbd
-last_updated: tbd
-status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
-sources_count: 58
-sources_file: "FU1 Primäranalysen (58).md"
-software: tbd
-tags: [mayring, fu/FU1, typ/prompt]
-links:
-  prompt: "FU1 Prompt Sekundäranalyse.md"
-  primary: "FU1 Primäranalysen (58).md"
-  analysis: "FU1 Qualitative Metaanalyse.md"
-  codebook: "FU1 Codiersystem.md"
----
+
 
 Links: [[FU1 Prompt Sekundäranalyse]] · [[FU1 Primäranalysen (58)]] · [[FU1 Qualitative Metaanalyse]] · [[FU1 Codiersystem]]
