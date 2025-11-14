@@ -1,4 +1,22 @@
 
+---
+title: "FU2a Prompt Sekundäranalyse"
+fu: FU2a
+version: tbd
+last_updated: tbd
+status: in_überarbeitung
+procedure: "Probabilistisch‑Qualitative Inhaltsanalyse (P‑QIA) auf Basis der qualitativen Inhaltsanalyse nach Mayring"
+sources_count: 85
+sources_file: "FU2a Primäranalysen (85).md"
+software: tbd
+tags: [mayring, fu/FU2a, typ/prompt]
+links:
+  prompt: "FU2a Prompt Sekundäranalyse.md"
+  primary: "FU2a Primäranalysen (85).md"
+  analysis: "FU2a Qualitative Metaanalyse.md"
+  codebook: "FU2a Codiersystem.md"
+---
+
 # Vorarbeiten
 
 ## Aufgabe:
@@ -111,22 +129,5 @@ _„Welchen Effekt erleben Lernende im digitalen Bildungsraum der Gesundheitsber
 Bitte gib die Anzahl der analysierten Notizen an.
 
 **Format:** Markdown
----
-title: "FU2a Prompt Sekundäranalyse"
-fu: FU2a
-version: tbd
-last_updated: tbd
-status: in_überarbeitung
-procedure: "Qualitative Inhaltsanalyse (Mayring) – Promptrahmen"
-sources_count: 85
-sources_file: "FU2a Primäranalysen (85).md"
-software: tbd
-tags: [mayring, fu/FU2a, typ/prompt]
-links:
-  prompt: "FU2a Prompt Sekundäranalyse.md"
-  primary: "FU2a Primäranalysen (85).md"
-  analysis: "FU2a Qualitative Metaanalyse.md"
-  codebook: "FU2a Codiersystem.md"
----
 
 Links: [[FU2a Prompt Sekundäranalyse]] · [[FU2a Primäranalysen (85)]] · [[FU2a Qualitative Metaanalyse]] · [[FU2a Codiersystem]]
