@@ -115,6 +115,53 @@ header-includes:
 
 \newpage
 
+# Hinweise
+
+Diese Hinweise gewährleisten durch einheitliche und transparente Vorgaben die wissenschaftliche Nachvollziehbarkeit und vermitteln Lesenden ein Verständnis der angewandten Prinzipien. Der gewählte APA-Zitationsstil (7. Ausgabe) ermöglicht eine standardisierte Referenzierung und trägt zur internationalen Anschlussfähigkeit der Arbeit bei. Die Prinzipien der gendergerechten Sprache spiegeln den gesellschaftlichen Wandel wider und fördern die Inklusion in der akademischen Kommunikation. Die kontextbezogene Begriffsdefinition verortet zentrale Konzepte präzise innerhalb des spezifischen Diskussionsrahmens und minimiert Missverständnisse.
+
+Damit wird eine Grundlage für die Struktur und Verständlichkeit der Arbeit geschaffen. Die Darstellung der Zitations- und Sprachstandards sowie der Begriffsverwendung stärkt die methodische Stringenz, die inhaltliche Kohärenz und die wissenschaftliche Qualität.
+
+## Hinweis zum Zitationsstil
+
+Der Zitationsstil dieser Arbeit basiert auf der 7. Ausgabe des APA-Zitationsstils. Zur Verwaltung der Zitate wird die Software Zotero (Version 7.0.8) verwendet, alle Referenzen sind als Zitationen angelegt und in der vorliegenden Fassung von Feldern zu Text umgewandelt worden, um die Verweise eindeutig zu gestalten.
+
+Innerhalb der Zitationen werden diese Regeln angewendet:
+
+- Direkte Zitate: Die Quellenangabe erfolgt unmittelbar nach dem wörtlichen Zitat.
+- Indirekte Zitate innerhalb eines Satzes: Die Quellenangabe bezieht sich auf den gesamten Satz, der durch Satzzeichen abgeschlossen ist.
+- Indirekte Zitate in einem Nebensatz: Die Quellenangabe bezieht sich auf den betreffenden Satzteil.
+- Indirekte Zitate am Ende eines Absatzes: Die Quellenangabe bezieht sich auf den gesamten Absatz.
+- Indirekte Zitate vor einer Aufzählung: Die Quellenangabe bezieht sich auf die gesamte Aufzählung.
+- Mehrere indirekte Zitate: Die Quellenangaben beziehen sich auf die Reihenfolge der Argumentation.
+
+Auslassungen sind durch „(…)“ dargestellt und Ergänzungen innerhalb von Zitaten erscheinen in eckigen Klammern „[…; Anmerkung des Autors]“, während Hervorhebungen durch den Autor mit „[Hervorhebung durch den Autor]“ kenntlich gemacht werden. Übersetzungen, die dem Original wörtlich entsprechen, werden wie direkte Zitate behandelt und mit der Anmerkung „(Übersetzung durch den Autor)“ versehen.
+
+## Hinweis zum Sprachstil
+
+Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von Koehler und Wahl, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ ihren sprachlichen Ausdruck innerhalb der scientific community finden muss [@koehler2021Egd, S. 2].
+
+Hieraus ergeben sich folgende, stilentsprechende Implikationen:
+
+- Inklusion und Diversität: Alle Geschlechter und Identitäten werden sprachlich anerkannt und einbezogen.
+- Gleichstellung: Sprachliche Gleichbehandlung fördert die Gleichstellung der Geschlechter in der Wissenschaft.
+- Wissenschaftliche Relevanz: Gendergerechte Sprache reflektiert den gesellschaftlichen Wandel und wird in der scientific community zunehmend anerkannt.
+- Lesbarkeit und Verständlichkeit: Gendergerechte Sprache erhöht bei bewusster Formulierung die Verständlichkeit.
+- Sensibilisierung: Gendergerechte Sprache sensibilisiert für das Thema der Geschlechtergerechtigkeit in akademischen Texten.
+- Sprachliche Präzision: Geschlechtsneutrale Begriffe und Formulierungen fördern die sprachliche Präzision und vermeiden stereotype Geschlechtszuschreibungen.
+- Rechtliche und institutionelle Anforderungen: Universitäten und Institutionen verlangen oder empfehlen die Anwendung gendergerechter Sprache in akademischen Arbeiten.
+
+Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit einen Beitrag zur Lebendwirklichkeit aller Personen leisten, was sich zudem in der Verwendung des Asterisks beim Gendern ausdrückt. Hierdurch können typografische Verzerrungen im Vorfeld auf ein Minimum reduziert und eine weite Beteiligung aller erreicht werden [@koehler2021Egd, Kapitel 7; @koehler2021Egd, Kapitel 8].
+
+## Hinweis zur Begriffsbestimmung
+
+In dieser Arbeit erfolgen die Definition, Herleitung und Begründung zentraler Begriffe an den Stellen, an denen die jeweilige Terminologie erstmalig eingeführt wird. Diese Vorgehensweise gewährleistet eine Erklärung der Begriffsverwendung im spezifischen Kontext des jeweiligen Bezugsrahmens und verdeutlicht die Relevanz des Begriffs für die jeweilige Diskussion. Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt.
+
+Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind.
+
+Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe (S. VI) eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält. Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
+
+\newpage
+
 # Einleitung und theoretischer Rahmen
 
 <!-- Inhalte aus:
