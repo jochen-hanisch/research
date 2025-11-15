@@ -1,16 +1,16 @@
 \newpage
 
-# 4 Methodologie
+# 4 Methodologie {#sec:4}
 
 Kapitel 4 beschreibt die angewendete Methodik und reflektiert diese entlang der wissenschaftlichen Gütekriterien. Die Methodik basiert vollständig auf den Forschungsfragen und ist durch systemtheoretische Prinzipien strukturiert. Die Kombination aus geplanten Methoden (z.B. Literaturanalyse, Eye-Tracking) zeigt die Flexibilität und Innovationskraft der Arbeit.
 
-## 4.1 Forschungsparadigma
+## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}
 
 Methodenkompetenz in den Human- und Sozialwissenschaften umfasst die Fähigkeit, empirische Studien nicht nur zu lesen und zu interpretieren, sondern diese auch eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung haben sich drei zentrale Forschungsparadigmen etabliert, die sich in ihren erkenntnistheoretischen Grundlagen und methodischen Logiken unterscheiden: (a) das quantitative Paradigma, basierend auf dem kritischen Realismus, (b) das qualitative Paradigma, verankert im Sozialkonstruktivismus, sowie (c) das Mixed-Methods-Paradigma, das im Pragmatismus wurzelt [@doring_empirische_2023, S. 4–5; @doring_wissenschaftstheoretische_2023, S. 32–33].
 
 Während das quantitative Paradigma einen linear-strukturierten Forschungsprozess mit vorab formulierten Hypothesen postuliert [@doring_empirische_2023, Kap. 2.2], bildet das qualitative Paradigma einen zirkulären, offen strukturierten Forschungsprozess mit explorativen Fragestellungen ab [@doring_empirische_2023, Kap. 2.3]. Mixed-Methods-Ansätze [@doring_empirische_2023, Kap. 2.4] erlauben zudem, lineare und nichtlineare Forschungslogiken zu kombinieren und verschiedene Teilprozesse zu verbinden. Die Wahl des Paradigmas hängt dabei nicht primär von der Datenform (z.B. numerisch vs. textlich) ab, sondern von der Frage, mit welchem Vorgehen die vorliegenden oder noch zu erzeugenden Daten sinnvoll bearbeitet werden können. Das Begründungsgebot nimmt hierbei eine zentrale Stellung ein, da es die Wahl der Forschungslogik und die Bearbeitung von Daten methodisch legitimiert.
 
-### 4.1.1 Vorüberlegungen zur Methodologie
+### 4.1.1 Vorüberlegungen zur Methodologie {#sec:4-1-1}
 
 Methodisch herausfordernd in dieser Arbeit ist die Auflösung eines Dilemmas durch Verknüpfung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Quantitative Daten, bspw. aus dem Eye-Tracking-Versuch und der begleitenden Umfrage, und qualitative Daten, bspw. die Ergebnisse aus der systematischen Literaturanalyse, sind miteinander in Bezug zu setzen, um übergeordnete Erkenntnisse zu generieren. Die Verwendung der beiden Paradigmen wird durch die Intention der Hauptforschungsfrage legitimiert, die Wissen um Muster und Regelmäßigkeiten im LMS erzeugen möchte. Insbesondere das vorgefundene Spannungsfeld von Subjektivität (Wahrnehmung der Akteure) und Objektivität (Kompetenzentwicklungssimulation) erfordert eine genauere methodische Betrachtung. Die sonst eher streng zugeordnete Forschungsmethodik, das quantitative Paradigma als deduktiv und das qualitative Paradigma als induktiv, greift hier zu kurz, da diese strikte Trennung die komplexe Wirkung des Forschungsgegenstands nicht abbilden kann [@reinders_uberblick_2022, S. 157].
 
@@ -22,9 +22,9 @@ Das hier beschriebene Forschungsvorhaben erfordert aufgrund seiner zirkulären K
 
 Die Auflösung des vorliegenden forschungsparadigmatischen Dilemmas erfolgt durch den Zugang zum Forschungsgegenstand über die konsequente Ableitung der Methoden aus den Forschungsfragen. Dieses Vorgehen ermöglicht nicht nur eine zielgerichtete Methodenauswahl, sondern auch eine Komplexitätsreduktion, die der Mehrdimensionalität des Forschungsgegenstandes gerecht wird und gleichzeitig die Stärken bestehender Methoden integriert.
 
-### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz
+### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:4-1-2}
 
-Der systemische, forschungsfragengeleitete Ansatz dieser Arbeit fußt vollständig auf den Forschungsfragen FU1 bis FU7 (s. Kapitel 1.2.3), die aus dem Erkenntnisinteresse (s. Kapitel 1.1.1) und dem bestehenden LMS-Produkt (s. Kapitel 3) abgeleitet wurden. Diese Forschungsfragen strukturieren und leiten alle methodischen Entscheidungen und Analysen zur Bearbeitung. Die hier entwickelte Methodik, die den systemischen Ansatz mit der konsequenten Folgerung der Methoden aus den Forschungsfragen synthetisiert, ist in dieser spezifischen Form bisher nicht beschrieben. Damit werden systemtheoretische Prinzipien wie Interdependenz und Emergenz mit der gezielten Integration qualitativer und quantitativer Methoden verknüpft, um der zirkulären Komplexität des Forschungsgegenstandes gerecht zu werden.
+Der systemische, forschungsfragengeleitete Ansatz dieser Arbeit fußt vollständig auf den Forschungsfragen FU1 bis FU7 (s. Kapitel [@sec:1-2-3]), die aus dem Erkenntnisinteresse (s. Kapitel [@sec:1-1-1]) und dem bestehenden LMS-Produkt (s. Kapitel [@sec:3]) abgeleitet wurden. Diese Forschungsfragen strukturieren und leiten alle methodischen Entscheidungen und Analysen zur Bearbeitung. Die hier entwickelte Methodik, die den systemischen Ansatz mit der konsequenten Folgerung der Methoden aus den Forschungsfragen synthetisiert, ist in dieser spezifischen Form bisher nicht beschrieben. Damit werden systemtheoretische Prinzipien wie Interdependenz und Emergenz mit der gezielten Integration qualitativer und quantitativer Methoden verknüpft, um der zirkulären Komplexität des Forschungsgegenstandes gerecht zu werden.
 
 Interdependenz bedeutet für die Methodologie des Forschungsprozesses, dass Forschungsfragen eng miteinander verknüpft sind und Wechselwirkungen zwischen qualitativen und quantitativen Daten erzeugen, wodurch die Mehrdimensionalität des Forschungsgegenstandes erfasst werden kann. Emergenz beschreibt ergänzend die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, S. 16, 103] durch die Verknüpfung von Ergebnissen aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking-Analysen und Befragungen. Rückkopplung bedeutet in diesem Fall, dass Analyseergebnisse iterativ in die Methodik zurückfließen und die weiteren Schritte beeinflussen, wodurch der Forschungsprozess dynamisch bleibt und sich kontinuierlich anpasst.
 
@@ -58,36 +58,45 @@ Methodische Konsequenzen der Forschungsfragen
   - Die Komplexität des digitalen Bildungsraums erforderte eine Methodenkombination, um die Forschungsfragen adäquat zu beantworten.
 
 
-## 4.2 Forschungsdesign und Datenerhebung
+## 4.2 Forschungsdesign und Datenerhebung {#sec:4-2}
 
-### 4.2.1 Systematische Literaturanalyse
+### 4.2.1 Systematische Literaturanalyse {#sec:4-2-1}
 
 Die systematische Literaturanalyse bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
 
 Bemerkenswert ist, dass die Auswahl nicht durch subjektives Eingreifen, thematische Vorannahmen oder bewusste Schwerpunktsetzungen erfolgte, sondern ausschließlich durch algorithmisch rekonstruierte Dichtefelder innerhalb der deduktiv-numerischen Vektorräume. Die Aussagen, die aus diesem Literaturfeld hervorgehen, können somit als besonders stabil, kohärent und epistemisch tragfähig gewertet werden – sie stellen gewissermaßen den empirischen Kern des aktuellen Diskurses dar.
 
-Jahr	$n$	Cluster	Silhouette-Skore
-2010	7	2	1.0000
-2011	29	4	0.9655
-2012	7	3	0.8571
-2013	28	4	1.0000
-2014	24	4	0.9583
-2015	28	3	1.0000
-2016	25	3	1.0000
-2017	98	3	1.0000
-2018	95	4	0.9895
-2019	202	3	1.0000
-2020	303	4	0.9968
-2021	377	4	0.9854
-2022	430	4	0.9916
-2023	899	4	0.9702
-2024	780	4	0.9208
-2025	192	4	0.9696
-Summe			
-
+\begin{table}[H]
+\centering
+\begin{tabular}{l r r r}
+\hline
+\textbf{Jahr} & \textbf{$n$} & \textbf{Cluster} & \textbf{Silhouette-Score} \\
+\hline
+2010 & 7   & 2 & 1.0000 \\
+2011 & 29  & 4 & 0.9655 \\
+2012 & 7   & 3 & 0.8571 \\
+2013 & 28  & 4 & 1.0000 \\
+2014 & 24  & 4 & 0.9583 \\
+2015 & 28  & 3 & 1.0000 \\
+2016 & 25  & 3 & 1.0000 \\
+2017 & 98  & 3 & 1.0000 \\
+2018 & 95  & 4 & 0.9895 \\
+2019 & 202 & 3 & 1.0000 \\
+2020 & 303 & 4 & 0.9968 \\
+2021 & 377 & 4 & 0.9854 \\
+2022 & 430 & 4 & 0.9916 \\
+2023 & 899 & 4 & 0.9702 \\
+2024 & 780 & 4 & 0.9208 \\
+2025 & 192 & 4 & 0.9696 \\
+\hline
+\textbf{Summe} & & & \\
+\hline
+\end{tabular}
+\caption{Jährliche Entwicklung der Clusterbildung und Silhouette-Scores}
+\label{tab:cluster_silhouette}
+\end{table}
 
 <<<Abbildung Zeitreihe einfügen>>>
-
 
 Die Visualisierung zeigt eine Kombination aus zwei zentralen Metriken für deine Analysequalität:
     Silhouette-Scores (blaue Linie, linke Y-Achse): Ein Maß für die Kohärenz und Trennschärfe der Clusterbildung.
@@ -97,17 +106,17 @@ Interpretation der Kurve
 
 1. 
 Allgemeines Muster (2010–2025):
-    Von 2010–2017 zeigen sich trotz geringer Fallzahlen ($n < 100$) durchweg exzellente Silhouette-Scores (≈1.0).
+    Von 2010–2017 zeigen sich trotz geringer Fallzahlen ($n < 100$) durchweg exzellente Silhouette-Scores ($\approx 1.0$).
     2018–2022 bleibt der SC durchgehend über dem Median ($Q_2 \approx 0.9906$), bei gleichzeitig signifikant steigenden Fallzahlen.
     Ab 2023 fällt der Score unter $Q_3$ und erreicht 2024 einen Tiefpunkt von 0.9208, während die Fallzahl mit 780 hoch bleibt.
     2025 zeigt sich eine leichte Erholung des SC (0.9696), jedoch bei stark gesunkenen Fallzahlen.
 
 2. 
 Quartile & Bias-Schwellen:
-    Q1 (≈ 0.9686): Markiert die Schwelle, ab der Werte als „niedrig“ gelten.
+    Q1 ($\approx 0.9686$): Markiert die Schwelle, ab der Werte als „niedrig“ gelten.
     $Q_3 = 1.0000$: Zeigt an, dass ein Viertel aller Jahre perfekte Clusterkohärenz aufweist – ein selten hoher Wert.
     Fatigue Threshold ($0.96$): Ab diesem Wert könnte eine inhaltliche Erschöpfung im Datenraum interpretiert werden.
-    Circadian Optimum & Winsorisierter Median (≈ 0.9906): Dienen als kognitives Optimum bzw. robuste Mittelwerte der Analysequalität.
+    Circadian Optimum & Winsorisierter Median ($\approx 0.9906$): Dienen als kognitives Optimum bzw. robuste Mittelwerte der Analysequalität.
 
 Schlussfolgerungen
     Höchste Qualität (2017–2022):
@@ -137,9 +146,9 @@ Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es,
     wissenschaftliche Aussagen systematisch zu begründen,
     und die methodische Qualität retrospektiv zu validieren.
 
-## 4.3 Datenanalyse
+## 4.3 Datenanalyse {#sec:4-3}
 
-### 4.3.1 Klassische Auswertungsverfahren
+### 4.3.1 Klassische Auswertungsverfahren {#sec:4-3-1}
 
 ### 4.3.2 KI-gestützte Dokumentenanalyse
 
@@ -202,13 +211,13 @@ Die Ergebnisse zeigen, dass die qualitative Clustervalidierung eine objektive Be
 
 Gleichzeitig bleibt zu beachten, dass menschliche Kodierungen theoretische Konzepte und interpretative Nuancen einbeziehen können, die über rein datenbasierte Analysen hinausgehen. Diese Erkenntnisse unterstreichen das Potenzial der qualitativen Clustervalidierung als standardisiertes Verfahren zur Überprüfung methodischer Trennschärfe. Langfristig könnte sie als ergänzende Methode zur Qualitätssicherung klassischer Kodierungsverfahren etabliert werden. In der qualitativen Forschung könnte daher ein hybrider Ansatz sinnvoll sein, bei dem KI-gestützte Analysen zur Strukturierung und Validierung menschlicher Kodierungen eingesetzt werden.
 
-### 4.3.3 Mehrdimensional-analytische Clustervalidierung (mdaCV)
+### 4.3.3 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-3}
 
 Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse, eher zufällig als potenzielle Erweiterung der qualitativen Analyse in Betracht gezogen (Kapitel 4.3.1). Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus erschien als vielversprechender Zugang zur Identifikation verborgener Muster oder nicht explizit abgebildeter Strukturen. Überraschenderweise blieben jedoch neue Erkenntnisse aus, da die Clustervalidierung weitgehend die bestehenden semantischen Erkenntnisse bestätigte. Diese zunächst irritierende Stabilität erwies sich im weiteren Verlauf als methodisch hochbedeutsam. Die Tatsache, dass ein klassisch induktiv genutzter Algorithmus ein deduktiv geschaffenes Ordnungssystem reproduzierte, verweist auf eine inhärente Validierung der Ausgangsstruktur. Erst mit zeitlichem Abstand wurde deutlich, dass sich hier eine neue methodische Perspektive eröffnet, d.h. die Möglichkeit, qualitative Strukturierungslogiken algorithmisch zu überprüfen.
-Aus dieser Beobachtung entwickelte sich schrittweise die mehrdimensional-analytische Clustervalidierung (mdaCV). Ein Verfahren, das qualitative Strukturierung, algorithmische Clusterdetektion und visuelle Repräsentation in einem konsistenten Validierungsprozess verbindet. Dabei wird ein deduktiv formulierter semantischer Raum entlang inhaltlich begründeter Dimensionen (z.B. Kategorien, Forschungsfragen, Schlagworte) aufgespannt. Die Positionierung der Datenpunkte erfolgt entlang dieser Achsen, die Clusterbildung erfolgt mit dem $k$-Means-Algorithmus, die Qualität der Trennung wird über den Silhouette-Score erfasst (vgl. Rousseeuw, 1987). (Hanisch-Johannsen, 2025a)
+Aus dieser Beobachtung entwickelte sich schrittweise die mehrdimensional-analytische Clustervalidierung (mdaCV). Ein Verfahren, das qualitative Strukturierung, algorithmische Clusterdetektion und visuelle Repräsentation in einem konsistenten Validierungsprozess verbindet. Dabei wird ein deduktiv formulierter semantischer Raum entlang inhaltlich begründeter Dimensionen (z.B. Kategorien, Forschungsfragen, Schlagworte) aufgespannt. Die Positionierung der Datenpunkte erfolgt entlang dieser Achsen, die Clusterbildung erfolgt mit dem $k$-Means-Algorithmus, die Qualität der Trennung wird über den Silhouette-Score erfasst ([@rousseeuw_silhouettes_1987]).
 Erst in einem späteren Entwicklungsschritt wurde deutlich, dass diese Vorgehensweise nicht nur für menschlich kodierte, sondern auch für KI-generierte Analysen geeignet ist. Durch die Anwendung auf Testdatensätze – real, manipuliert und zufällig – konnte nachgewiesen werden, dass die mdaCV zwischen kohärenten, rauschhaften und künstlich homogenisierten Datenstrukturen zuverlässig differenziert. Die methodische Implementierung wurde versioniert dokumentiert und ist unter folgender Struktur öffentlich einsehbar (https://git.jochen-hanisch.de/promotion/literaturanalyse). Dort finden sich sowohl der vollständige Datensatz mit Testvarianten (Real-, Zufalls- und manipulierte Daten) als auch die korrespondierenden Python-Skripte (analyse_korrelation.py, analyse_netzwerk.py) sowie ein angepasstes .gitignore, zur Sicherstellung, dass keine personenbezogenen oder bibliographisch geschützten Inhalte öffentlich sichtbar sind.
 Die Methode wurde nicht abstrakt konzipiert, sondern emergierte aus forschungspraktischen Überlegungen, iterativen Rückkopplungen und der Notwendigkeit, große Datenmengen zugleich strukturiert, nachvollziehbar und validierbar zu analysieren. Die theoretische Herleitung basiert u. a. auf Arbeiten zur Stabilität des $k$-Means-Algorithmus (Rakhlin & Caponnetto, o. J., Kapitel 5), zur Struktur von Merkmalsräumen (Mavroeidis & Marchiori, 2011, Kapitel 3) sowie zur algorithmischen Modellierung semantischer Nähe durch Vektorraummodelle (Mikolov et al., 2013, Kapitel 2). Die mdaCV verbindet somit deduktive Theoriegeleitetheit mit datenbasierter Validierungslogik. Ein methodisches Hybridmodell, das qualitative und quantitative Paradigmen nicht nur überbrückt, sondern integrativ zusammenführt.
-Die mdaCV ist ein Verfahren zur Validierung von Kodierungsstrukturen in qualitativ vorstrukturierten Datenräumen. Dieses Verfahren basiert auf einem dreidimensionalen semantischen Raum, in dem Datenpunkte entlang deduktiv definierter Achsen (z.B. Kategorien, Forschungsfragen, Schlagworte) positioniert und anschließend mittels algorithmischer Clustervalidierung überprüft werden. Dabei kombiniert das Verfahren inhaltlich fundierte Dimensionen mit statistischen Bewertungsverfahren wie dem Silhouette-Score (Rousseeuw, 1987, S. 59, 61), um die Trennschärfe und Kohärenz der Clusterbildung zu bewerten.
+Die mdaCV ist ein Verfahren zur Validierung von Kodierungsstrukturen in qualitativ vorstrukturierten Datenräumen. Dieses Verfahren basiert auf einem dreidimensionalen semantischen Raum, in dem Datenpunkte entlang deduktiv definierter Achsen (z.B. Kategorien, Forschungsfragen, Schlagworte) positioniert und anschließend mittels algorithmischer Clustervalidierung überprüft werden. Dabei kombiniert das Verfahren inhaltlich fundierte Dimensionen mit statistischen Bewertungsverfahren wie dem Silhouette-Score ([@rousseeuw_silhouettes_1987 S. 59, 61]), um die Trennschärfe und Kohärenz der Clusterbildung zu bewerten.
 
 Die methodische Herleitung fußt auf drei zentralen Komponenten:
 
@@ -238,7 +247,7 @@ Besonders hervorzuheben ist dabei, dass die methodische Verzahnung nicht nur ein
 
 **Epistemische Verlustfunktion als heuristisches Integritätsmaß**
 
-Im Kontext der mehrdimensional-analytischen Clustervalidierung wird üblicherweise der Silhouette-Score als zentrales Maß zur Beurteilung der Clusterdifferenzierung genutzt (i.A.a. Rousseeuw, 1987). Dieser Wert allein erfasst jedoch lediglich die geometrische Separierbarkeit der Cluster im Vektorraum. Was bislang fehlt, ist ein zusammengesetztes Maß, das sowohl die strukturelle Kohärenz (Silhouette) als auch die semantische Vollständigkeit (Datenintegrität) einer Analyse widerspiegelt. Im Rahmen dieser Dissertation wurde daher eine epistemische Verlustfunktion $\varepsilon$ eingeführt, die beide Dimensionen in einem einzigen heuristischen Indikator vereint. Ziel dieses Verfahrens ist die Modellierung eines skalierbaren Integritätsmaßes, welches sowohl den Grad der Clusterdifferenzierung als auch den Umfang erfasster Quellen berücksichtigt. Die Funktion kann damit als Überwachungsgröße für Datenverarbeitungsläufe herangezogen werden und kritische Abweichungen sichtbar machen, die sich nicht allein über Silhouette- oder Dokumentenzahl abbilden lassen. Die epistemische Verlustfunktion wird von den beiden Größen Clusterdifferenzierungsleistung, gemessen über den Silhouette-Score, und Datenvollständigkeit, gemessen über das Verhältnis zwischen intendierter und tatsächlich verarbeiteter Quellenzahl. Die epistemische Verlustfunktion $\varepsilon$ wird wie folgt definiert:
+Im Kontext der mehrdimensional-analytischen Clustervalidierung wird üblicherweise der Silhouette-Score als zentrales Maß zur Beurteilung der Clusterdifferenzierung genutzt (i.A.a. [@rousseeuw_silhouettes_1987]). Dieser Wert allein erfasst jedoch lediglich die geometrische Separierbarkeit der Cluster im Vektorraum. Was bislang fehlt, ist ein zusammengesetztes Maß, das sowohl die strukturelle Kohärenz (Silhouette) als auch die semantische Vollständigkeit (Datenintegrität) einer Analyse widerspiegelt. Im Rahmen dieser Dissertation wurde daher eine epistemische Verlustfunktion $\varepsilon$ eingeführt, die beide Dimensionen in einem einzigen heuristischen Indikator vereint. Ziel dieses Verfahrens ist die Modellierung eines skalierbaren Integritätsmaßes, welches sowohl den Grad der Clusterdifferenzierung als auch den Umfang erfasster Quellen berücksichtigt. Die Funktion kann damit als Überwachungsgröße für Datenverarbeitungsläufe herangezogen werden und kritische Abweichungen sichtbar machen, die sich nicht allein über Silhouette- oder Dokumentenzahl abbilden lassen. Die epistemische Verlustfunktion wird von den beiden Größen Clusterdifferenzierungsleistung, gemessen über den Silhouette-Score, und Datenvollständigkeit, gemessen über das Verhältnis zwischen intendierter und tatsächlich verarbeiteter Quellenzahl. Die epistemische Verlustfunktion $\varepsilon$ wird wie folgt definiert:
 
 Formel 1: Definition der Verlustfunktion
 
@@ -265,7 +274,7 @@ Angenommen, ein Analyse-Korpus umfasst $n_{\text{Soll}} = 3585$ Einträge, in di
 \end{equation*}
 ```
 
-Die epistemische Verlustfunktion liegt in diesem Fall mit $≈ 0,0252$ in einem sehr niedrigen Bereich. Sie zeigt, dass trotz kleiner Datenverluste und nicht perfekter Trennschärfe eine nahezu optimale Integrität erreicht wurde. Damit bietet somit $\varepsilon$ eine differenzierte Perspektive auf die Validität einer Analyse und eignet sich insbesondere:
+Die epistemische Verlustfunktion liegt in diesem Fall mit $\approx 0{,}0252$ in einem sehr niedrigen Bereich. Sie zeigt, dass trotz kleiner Datenverluste und nicht perfekter Trennschärfe eine nahezu optimale Integrität erreicht wurde. Damit bietet somit $\varepsilon$ eine differenzierte Perspektive auf die Validität einer Analyse und eignet sich insbesondere:
 
 - zur Qualitätssicherung von Analysepipelines (z. B. automatische Literaturanalysen, KI-generierte Korpora),
 - zum Vergleich unterschiedlicher Datenverarbeitungen (z. B. real vs. manipuliert vs. zufällig) sowie
@@ -274,9 +283,9 @@ Die epistemische Verlustfunktion liegt in diesem Fall mit $≈ 0,0252$ in einem 
 Der Nutzen dieses Maßes liegt nicht in seiner absoluten Exaktheit, sondern in der epistemischen Sensibilität. Schon kleinste Abweichungen vom Ideal (Silhouette < 1 oder Datenlücken) werden sichtbar gemacht und können reflektiert werden, woraus eine neue Form der kontinuierlichen Gültigkeitsüberwachung in datenintensiven Forschungsprozessen entsteht. Die hier eingeführte epistemische Verlustfunktion $\varepsilon$ stellt ein heuristisches und gleichzeitig methodisch begründetes Integritätsmaß dar, das den Anspruch der mdaCV auf Verknüpfung qualitativer und quantitativer Güteprinzipien konsequent weiterführt. Sie ist anschlussfähig für weitere Forschungsdesigns, maschinelle Analysen und metawissenschaftliche Validitätsdiskurse.
 
 
-## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung
+## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
 
-## 4.5 Reflexion der Methode
+## 4.5 Reflexion der Methode {#sec:4-5}
 
 Die kritische Methodenreflexion hat den Zweck, die eigene Arbeitsweise transparent, nachvollziehbar und anhand des wissenschaftlichen Qualitätskriteriums „Methodische Strenge“ (Döring, 2023c, S. 89–90) beurteilbar zu machen. Inwiefern diese Arbeit die Anforderungen an eine methodisch saubere, nachvollziehbare und theoriegeleitete Forschung erfüllt, ist in diesem Kapitel zu klären.
 Als Herleitungsgrundlage kann ein systemisch-konstruktivistisches Verständnis von Erkenntnis angesetzt werden, das mit bewährten Evaluationsmodellen (z. B. dem CIPP-Modell nach Stufflebeam in Hanisch (2017, Kapitel 3.1)) sowie analytischen Verfahren wie Korrelations- und deduktiven Clusteranalysen verbunden wird. Diese Kombination ist weder beliebig noch additiv, sondern strukturell aufeinander bezogen und somit theoriekompatibel.  Die Auswahl der Methoden ergibt sich aus der forschungsfragengeleiteten Logik. Sie folgt keiner Paradigmentreue, sondern einem funktionalen Verständnis von Methodeneinsatz und hat zur Folge, dass qualitative und quantitative Verfahren entlang der FU dort eingesetzt werden, wo sie zur Bearbeitung beitragen. Die theoretischen Begriffe (z.B. Kompetenz, Selbstorganisation, Nachhaltigkeit) werden auf konkrete Analyseebenen übertragen, etwa über Prädiktorvariablen (z.B. PV1a–PV3 bei Hanisch (2017, Kapitel 3.4)) oder KI-gestützte Analysen. Sämtliche Analyseprozesse, von der Auswahl der Quellen, über die Generierung und Anwendung der Prompts, bis hin zur Auswertung und Rückführung in die FU, sind dokumentiert, versioniert und theoretisch hergeleitet. Die Struktur folgt einer nachvollziehenden analytischen Logik, die von der FU über die erste KI-gestützte Analyse bis zur Metaebene mit Clusterauswertungen übergeht. Als kuratierende Hilfsmittel unterstützen digitale Werkzeuge, unter deren Verwendung das Literatur und Notizmanagement (Zotero), die Versionierungen (Gitea), sowie die statistischen Berechnungen und Visualisierungen (Python) durchgeführt werden konnten. Diese Kombination von Methoden und Werkzeugen gewährleistet sowohl Reproduzierbarkeit als auch in sich Konsistenz.
@@ -287,11 +296,13 @@ Mein methodisches Vorgehen erfüllt, trotz seiner systemisch-flexiblen Struktur,
 Diese Vorgehensweise ist nicht nur methodisch tragfähig, sondern auch ein konkreter Beitrag zur Weiterentwicklung digital-epistemischer Forschung in Bildungssettings.
 
 Selbstverständlich muss im Sinne der wissenschaftlichen Redlichkeit (Döring, 2023c, S. 130–131), und in Anbetracht der aktuellen kritischen Haltung  gegenüber generativen bzw. künstlichen Intelligenzen das hier gewählte methodische Vorgehen nicht nur dargelegt, sondern im besonderen Maße nachvollziehbar erläutert werden. Als Grund für diese Erklärung kann angeführt werden, dass die wissenschaftliche Eigenleistung infrage gestellt werden kann, wenn die Analysen GPT-basiert durchgeführt werden. Das methodische Vorgehen, d.h. die Durchführung inhaltsanalytischer Einzelanalysen mithilfe von GPT und deren anschließende Zusammenführung durch eine deduktive, auf Forschungsunterfragen ausgerichtete Cluster- und Metaanalyse, stellt eine eigenständige wissenschaftliche Leistung dar. Diese kann durch folgende Begründungslogik belegt werden:
-    Selbständige Definition erkenntnisleitender Kategorien: Die zugrunde liegenden Kategorien und Kodierungen (wie z.B. „Akzeptanz“, „Nützlichkeit“, „Effekt“, „Gestaltung“ u. a.) wurden aus den Forschungsunterfragen eigenständig abgeleitet. Diese Kategorien sind als deduktive Filter anzusehen, welche die Ausrichtung und Vergleichbarkeit der GPT-gestützten Einzelanalysen ermöglichen. Ohne diese Struktur blieben die Ergebnisse der Analysen unsystematisch und nicht aggregierbar.
-    Eigenständige wissenschaftliche Durchführung der Metaanalyse: Die Analysen führen zu keiner Aggregation klassischer Primärforschungsergebnisse, sondern werden zu semantisch strukturierten, vorbereiteten GPT-Einzelanalysen verdichtet. Diese enthalten bereits wissenschaftliche Extrakte, deren Struktur vorgegeben wird. In einem weiteren Schritt wird geprüft, ob die Ergebnisse im Hinblick auf die Forschungsunterfragen widerspruchsfrei, konsistent und saturiert sind. Strukturell entspricht dies einem theoriegeleiteten Validierungsschritt, wobei sowohl die analytischen Kategorien als auch die Aussagekraft der Analysen überprüft werden. 
-    GPT als analytisches Werkzeug, nicht als Urheberschaft: GPT wird ausschließlich als analytisches Instrument eingesetzt, vergleichbar mit etablierten Softwarelösungen wie SPSS oder MaxQDA. Die Verantwortung für Struktur, Steuerung und Auswertung lagen zu jeder Zeit vollständig in der eigenen Hand. Die wissenschaftliche Eigenständigkeit resultiert somit nicht aus der Textgenerierung, sondern aus der theoretischen Fundierung und Auswertung der Ergebnisse.
-    Geschlossenes System analytischer Selbstreferenz: Das Verfahren umfasst einen zyklischen Prozess: vom Theorierahmen über die empirische Anreicherung, die GPT-Analyse erster Ordnung, die Clusterdarstellung bis hin zur Rückbindung an die handlungsleitenden Forschungsunterfragen. Diese Form rekursiver Validierung stellt ein fortgeschrittenes und bislang wenig beschriebenes methodologisches Vorgehen dar.
-    Beitrag zur wissenschaftstheoretischen Innovation: Das Vorgehen erfüllt Kriterien einer strengen Operationalisierung, methodischen Reflexion über Automatisierungsprozesse sowie einer systematischen Steuerung von KI als Analyse- und Verdichtungsinstrument. Damit entsteht ein möglicher methodologischer Prototyp für KI-unterstützte Metaforschung.
+
+- Selbständige Definition erkenntnisleitender Kategorien: Die zugrunde liegenden Kategorien und Kodierungen (wie z.B. „Akzeptanz“, „Nützlichkeit“, „Effekt“, „Gestaltung“ u. a.) wurden aus den Forschungsunterfragen eigenständig abgeleitet. Diese Kategorien sind als deduktive Filter anzusehen, welche die Ausrichtung und Vergleichbarkeit der GPT-gestützten Einzelanalysen ermöglichen. Ohne diese Struktur blieben die Ergebnisse der Analysen unsystematisch und nicht aggregierbar.
+- Eigenständige wissenschaftliche Durchführung der Metaanalyse: Die Analysen führen zu keiner Aggregation klassischer Primärforschungsergebnisse, sondern werden zu semantisch strukturierten, vorbereiteten GPT-Einzelanalysen verdichtet. Diese enthalten bereits wissenschaftliche Extrakte, deren Struktur vorgegeben wird. In einem weiteren Schritt wird geprüft, ob die Ergebnisse im Hinblick auf die Forschungsunterfragen widerspruchsfrei, konsistent und saturiert sind. Strukturell entspricht dies einem theoriegeleiteten Validierungsschritt, wobei sowohl die analytischen Kategorien als auch die Aussagekraft der Analysen überprüft werden. 
+- GPT als analytisches Werkzeug, nicht als Urheberschaft: GPT wird ausschließlich als analytisches Instrument eingesetzt, vergleichbar mit etablierten Softwarelösungen wie SPSS oder MaxQDA. Die Verantwortung für Struktur, Steuerung und Auswertung lagen zu jeder Zeit vollständig in der eigenen Hand. Die wissenschaftliche Eigenständigkeit resultiert somit nicht aus der Textgenerierung, sondern aus der theoretischen Fundierung und Auswertung der Ergebnisse.
+- Geschlossenes System analytischer Selbstreferenz: Das Verfahren umfasst einen zyklischen Prozess: vom Theorierahmen über die empirische Anreicherung, die GPT-Analyse erster Ordnung, die Clusterdarstellung bis hin zur Rückbindung an die handlungsleitenden Forschungsunterfragen. Diese Form rekursiver Validierung stellt ein fortgeschrittenes und bislang wenig beschriebenes methodologisches Vorgehen dar.
+- Beitrag zur wissenschaftstheoretischen Innovation: Das Vorgehen erfüllt Kriterien einer strengen Operationalisierung, methodischen Reflexion über Automatisierungsprozesse sowie einer systematischen Steuerung von KI als Analyse- und Verdichtungsinstrument. Damit entsteht ein möglicher methodologischer Prototyp für KI-unterstützte Metaforschung.
+
 Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist originär, transparent dokumentiert und methodologisch innovativ.
 
 Methodische Stärken
