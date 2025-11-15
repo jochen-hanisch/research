@@ -2,6 +2,8 @@
 geometry: "left=2.5cm, right=2.5cm, top=2.5cm, bottom=1.0cm, includefoot, footskip=1.5cm"
 papersize: a4
 latex_engine: xelatex
+lang: de-DE
+csquotes: true
 bibliography: "08 Metaquellen/Matadaten/Literaturverzeichnis.bib"
 csl: "08 Metaquellen/Matadaten/apa-no-initials.csl"
 header-includes:
@@ -10,7 +12,6 @@ header-includes:
   - \setmainfont{STIX Two Text}
   - \setsansfont{STIX Two Text}
   - \setmathfont{STIX Two Math}
-  - \usepackage[ngerman]{babel}
   - \usepackage{setspace}
   - \onehalfspacing
   - \usepackage{fancyhdr}
@@ -23,6 +24,7 @@ header-includes:
   - \usepackage{titlesec}
   - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
   - \usepackage{hyperref}
+  - \usepackage{csquotes}
   - \addto\captionsngerman{\renewcommand{\contentsname}{Inhaltsverzeichnis}}
   - \addto\captionsngerman{\renewcommand{\listtablename}{Tabellenverzeichnis}}
   - \addto\captionsngerman{\renewcommand{\listfigurename}{Abbildungsverzeichnis}}
@@ -182,6 +184,17 @@ Hieraus ergeben sich folgende, stilentsprechende Implikationen:
 - Rechtliche und institutionelle Anforderungen: Universitäten und Institutionen verlangen oder empfehlen die Anwendung gendergerechter Sprache in akademischen Arbeiten.
 
 Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit einen Beitrag zur Lebendwirklichkeit aller Personen leisten, was sich zudem in der Verwendung des Asterisks beim Gendern ausdrückt. Hierdurch können typografische Verzerrungen im Vorfeld auf ein Minimum reduziert und eine weite Beteiligung aller erreicht werden [@koehler2021Egd, Kapitel 7 und 8].
+
+### Schreibweisen für Literatur- und Abbildungsverweise
+
+Im Fließtext werden die Begriffe "Kapitel", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben (z.B. "wie in Kapitel 2.2 dargestellt", "siehe Tabelle 4"). Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
+
+- S.   = Seite (z.B. "[@doering2023Fue, S. 4–5]")
+- Kap. = Kapitel (z.B. "[@doering2023Fue, Kap. 2.2]")
+- Abb. = Abbildung (z.B. "siehe Abb.~\\ref{fig:...}")
+- Tab. = Tabelle (z.B. "vgl. Tab.~\\ref{tab:methoden_FU}")
+
+Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird nach Möglichkeit die ausgeschriebene Form "zum Beispiel" verwendet; nur in Ausnahmefällen wird "bspw." genutzt.
 
 ## Hinweis zur Begriffsbestimmung
 
