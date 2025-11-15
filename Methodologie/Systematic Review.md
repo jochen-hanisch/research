@@ -1,2 +1,0 @@
-[**Systematic Review: Definition, Beispiel und Anleitung**](https://www.scribbr.de/methodik/systematic-review/)
-[**Beschreibung Systematic Literature Review Methode**](https://www.tu.berlin/wm/bibliothek/forschen-lehren/systematic-literature-reviews/beschreibung-systematic-literature-review-methode)

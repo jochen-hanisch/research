@@ -1,4 +1,0 @@
-
-
-[**APA Abbildungen beschriften + Beispiel**](https://www.1a-studi.de/apa/abbildungen-beschriften)
-[**APA-Richtlinien: Abbildungen und Tabellen zitieren**](https://www.scribbr.de/apa-standard/beispiel/abbildungen-tabellen/)

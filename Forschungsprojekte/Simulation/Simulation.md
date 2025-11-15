@@ -1,1 +1,0 @@
-Gegenüberstellung Trainingszeit, Budgetierung, Wettkampfzeit, von div. Sportarten vs. Medizin
