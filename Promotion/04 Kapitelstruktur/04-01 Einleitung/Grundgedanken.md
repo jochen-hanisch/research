@@ -1,0 +1,21 @@
+#Promotion #Dissertation – Grundgedankennotizen (nur zur internen Planung, kein Bestandteil des Manuskripts)
+
+- Worum geht es denn eigentlich? → zentrale Leitfragen sammeln.
+- Relevanz der Arbeit: Mehrdimensionaler Mehrwert, Hinweis auf Architektur und den realen LMS-Einsatz (mit seinen Defiziten). Architektur aus der Didaktik ableiten; kurz anfüttern mit Hintergründen.
+- Zugrundeliegende Vermutungen:
+  - [ ] Vorüberlegungen und Ausgangspunkt (S. 16)
+  - [ ] Zugrundeliegende Vermutungen (S. 24)
+- Verortung und Absicht:
+  - [ ] Ziel der Forschung (S. 22)
+- Inhaltlicher Vorraum:
+  - Welche Theorien sind relevant und weshalb?
+  - Wie wird die LMS-Architektur beschrieben?
+- Meta-Hinweis aus Kapitel 1: Argumentationskette entlang der Wirkfaktoren (Neugier, persönliche Ereignisse, Kompetenz) logisch aufbauen.
+- Orientierung für die Unterkapitel:
+  - Erkenntnisinteresse: Was soll die Forschung klären und warum?
+  - Problemstellung: Welche Lücke besteht aus wissenschaftlicher/praktischer Sicht?
+  - Thematische Relevanz: Gründe für die Wichtigkeit des Themas (medizinisch/bildungswissenschaftlich), inkl. Einfluss individueller Faktoren auf LMS-Nutzung.
+  - Zugrundeliegende Vermutungen: Fragen zeigen, wie jede Forschungsfrage adressiert wird; Einleitung endet mit präziser Fragestellung.
+  - Ziel der Forschung: Begriffe des Titels definieren (u.a. Wirkgefüge nach Arnold, 2014).
+  - Herleitung Haupt- und Unterforschungsfragen: zusätzliche Teilfragen notieren.
+  - Aufbau (Detailnotiz): Kapitel 2–7 kurz beschreiben (Theorie, Forschungsgegenstand, Methodik, Ergebnisse, Diskussion, Fazit).
