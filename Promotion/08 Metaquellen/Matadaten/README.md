@@ -18,11 +18,16 @@ Dieses Projekt entsteht vollständig in Markdown und wird über Pandoc + XeLaTeX
 
 ## 3. Pandoc-Konvertierung
 
-- Pandoc 3.8.x erzeugt eine LaTeX-Ausgabe und nutzt:
+- Pandoc 3.8.x erzeugt die LaTeX-Ausgabe.
+- YAML-Metadaten in `dissertation.md` steuern globale Optionen:
+  ```yaml
+  numberSections: true
+  sectionsDepth: 2
+  ```
+- Der Build nutzt:
   - `--pdf-engine=xelatex`
-  - `--citeproc` (APA-Style, Quellen aus `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`)
-  - `--filter pandoc-crossref` (optional, aktuell aktiv)
-- Die Abschnittsnummerierung ist mauell gepflegt, um volle Kontrolle zu gewährleisten.
+  - `--citeproc`
+  - `--filter pandoc-crossref`
 
 ## 4. Schrift- und LaTeX-Konfiguration
 
@@ -33,6 +38,7 @@ Dieses Projekt entsteht vollständig in Markdown und wird über Pandoc + XeLaTeX
 \setsansfont{STIX Two Text}
 \setmathfont{STIX Two Math}
 ```
+
 - XeLaTeX setzt Unicode-konform und harmonisiert Text- und Mathefont.
 - `mathastext` steht als Fallback bereit, falls kein dediziertes Math-Font genutzt werden soll.
 
@@ -53,11 +59,35 @@ cd "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Charité - Univers
 
 ## 7. Nummerierung & Kapitelverweise
 
-- Die sichtbaren Kapitelnummern werden weiterhin im Text manuell geführt, um maximale Kontrolle über Syntax (z.B. „1.1“, „1.2.3“) zu behalten.
-- Labels (`{#sec:1-2-3}`) bleiben unabhängig von Änderungen an der Gliederung.
-- Verweise folgen dem vereinbarten Format `(s. Kapitel 1.2.3 / #{1-2-3})`; optional können `[ @sec:1-2-3 ]` eingesetzt werden.
+- Die sichtbaren Ziffern können zusätzlich im Text geführt werden.
+- Verweise folgen dem Format `(s. Kapitel 1.2.3 / #{1-2-3})`; optional `[ @sec:1-2-3 ]`.
 
-## 8. Resultat
+## 8. Abbildungen & Medienstruktur
+- Zentraler Ordner `08 Metaquellen/` mit thematischen Unterordnern. Beispiel:
+
+  ```
+  08-01 Abbildungen/
+  ├── lms/
+  │    └── lms-architektur.png
+  ├── didaktik/
+  │    └── kompetenzstruktur.png
+  ├── prozesse/
+  │    └── entwicklungsprozess.png
+  ├── methodik/
+  │    └── clusteranalyse.png
+  ├── statistik/
+  │    └── silhouette-scores.png
+  └── allgemein/
+       └── schema-allgemein.png
+  ```
+- Vorteile: klare Themenzuordnung, Wiederverwendbarkeit über Kapitel hinweg, stabile Pfade beim Umstrukturieren.
+- Einbindung in Markdown:
+  ```markdown
+  ![Abb. 4.4-01: Heatmap der Blickpfade](Abbildungen/methodik/heatmap.png){#fig:4-4-01}
+  ```
+- Rohdaten, Skripte und zusätzliche Materialien bleiben in `05 Textarbeit`, `06 Transfer` bzw. `07 Archiv`.
+
+## 9. Resultat
 
 - Jede Ausführung des Build-Skripts erzeugt `dissertation.pdf` im Projektordner.
 - Der Workflow ist vollständig reproduzierbar und geeignet für versionierte wissenschaftliche Arbeiten.
