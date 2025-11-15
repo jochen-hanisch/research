@@ -2,7 +2,7 @@
 
 # 5 Ergebnisse {#sec:5}
 
-Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es schlägt die Brücke von der Methodologie (Kapitel 4) zur Interpretation in Kapitel 6 und strukturiert die Ergebnisdarstellung entlang der in `Kapitel 5 Struktur.md` dokumentierten Kernbereiche.
+Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es schlägt die Brücke von der Methodologie \hyperref[sec:4]{Kapitel 4} zur Interpretation in \hyperref[sec:6]{Kapitel 6} und strukturiert die Ergebnisdarstellung entlang der in in diesem Kapüitel dokumentierten Kernbereiche. Die Ergebnisse werden dabei durchgängig auf die in \hyperref[sec:2]{Kapitel 2} entwickelten theoretischen Annahmen und die in \hyperref[sec:3]{Kapitel 3} beschriebene Architektur des Forschungsgegenstandes zurückbezogen.
 
 ## 5.1 Überblick und Einordnung {#sec:5-1}
 

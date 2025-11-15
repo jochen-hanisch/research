@@ -2,7 +2,7 @@
 
 # 4 Methodologie {#sec:4}
 
-Kapitel 4 beschreibt die angewendete Methodik und reflektiert diese entlang der wissenschaftlichen Gütekriterien. Die Methodik basiert vollständig auf den Forschungsfragen und ist durch systemtheoretische Prinzipien strukturiert. Die Kombination aus geplanten Methoden (z.B. Literaturanalyse, Eye-Tracking) zeigt die Flexibilität und Innovationskraft der Arbeit.
+Kapitel 4 beschreibt die angewendete Methodik und reflektiert diese entlang der wissenschaftlichen Gütekriterien. Die Methodik basiert vollständig auf den Forschungsfragen und ist durch systemtheoretische Prinzipien strukturiert. Sie knüpft an die in \hyperref[sec:2]{Kapitel 2} entwickelten theoretischen Grundlagen und die in Kapitel \@ref(sec:3) dargestellte Architektur des Forschungsgegenstandes an und bereitet die Ergebnisdarstellung in \hyperref[sec:5]{Kapitel 5} vor. Die Kombination aus geplanten Methoden (z.B. Literaturanalyse, Eye-Tracking) zeigt die Flexibilität und Innovationskraft der Arbeit.
 
 ## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}
 

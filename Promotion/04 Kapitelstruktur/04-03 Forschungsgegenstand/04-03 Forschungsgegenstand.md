@@ -2,7 +2,7 @@
 
 # 3 Beschreibung des Forschungsgegenstandes {#sec:3}
 
-Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten Learning-Management-Systems. Die nachfolgenden Unterabschnitte dienen als Rahmen zur Einbindung der Detailtexte in diesem Ordner.
+Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten Learning-Management-Systems. Es konkretisiert damit die in \hyperref[sec:2]{Kapitel 2} entwickelten theoretischen Überlegungen für den spezifischen Anwendungsfall und bereitet die spätere Ergebnisdarstellung in \hyperref[sec:5]{Kapitel 5} vor.
 
 Folgerung für die Darstellung
 Konsequenzen klar zweiteilig gliedern:
