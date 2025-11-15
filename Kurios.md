@@ -1,2 +1,0 @@
-
-[**Slava Bobrov auf LinkedIn: #biology #neuroscience #medicine | 33 Kommentare**](https://www.linkedin.com/posts/slava-bobrov_biology-neuroscience-medicine-activity-7035231637969719296-8UKC?utm_source=share&utm_medium=member_ios)
