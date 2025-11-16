@@ -90,14 +90,10 @@ header-includes:
 \renewcommand{\listtablename}{}
 \listoftables
 
-\newpage
-
 # Abbildungsverzeichnis
 
 \renewcommand{\listfigurename}{}
 \listoffigures
-
-\newpage
 
 # Abkürzungsverzeichnis {#sec:abkuerzungsverzeichnis}
 
@@ -114,8 +110,6 @@ header-includes:
 | P-QIA       | Probabilistisch-Qualitative Inhaltsanalyse – hybride Methode zur Quellenkodierung.                   |
 | SC          | Silhouette-Score; Maß für die Trennschärfe von Clustern.                                             |
 
-\newpage
-
 # Symbolverzeichnis {#sec:symbolverzeichnis}
 
 | Symbol | Beschreibung |
@@ -130,8 +124,6 @@ header-includes:
 | $\nu$ | Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. |
 | $S$ | Silhouette-Score als Maß der Clusterdifferenzierung. |
 | $t$ | Zeitvariable der Dynamikmodelle. |
-
-\newpage
 
 # Formelverzeichnis {#sec:formelverzeichnis}
 
@@ -164,7 +156,7 @@ Auslassungen sind durch „(…)“ dargestellt und Ergänzungen innerhalb von Z
 
 ## Hinweis zum Sprachstil
 
-Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von @koehler_empfehlung_2021, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ [@koehler_empfehlung_2021, S. 2] ihren sprachlichen Ausdruck innerhalb der scientific community finden muss.
+Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von @koehler_empfehlung_2021, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ [@koehler_empfehlung_2021, Seite 2] ihren sprachlichen Ausdruck innerhalb der scientific community finden muss.
 
 Hieraus ergeben sich folgende, stilentsprechende Implikationen:
 
@@ -182,8 +174,8 @@ Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit
 
 Im Fließtext werden die Begriffe "Kapitel", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben (z.B. "wie in Kapitel 2.2 dargestellt", "siehe Tabelle 4"). Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
 
-- S.   = Seite (z.B. "[@doring_forschungsmethoden_2023, S. 4–5]")
-- Kap. = Kapitel (z.B. "[@doring_forschungsmethoden_2023, Kap. 2.2]")
+- S.   = Seite (z.B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
+- Kap. = Kapitel (z.B. "[@doring_forschungsmethoden_2023, Kapitel 2.2]")
 - Abb. = Abbildung (z.B. "siehe \hyperref{fig:modell_LMS}{Abbildung LMS-Modell}")
 - Tab. = Tabelle (z.B. "vgl. Tab.~\\ref{tab:methoden_FU}")
 
@@ -192,9 +184,9 @@ Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten 
 ## Hinweis zur Begriffsbestimmung {#sec:Begriffsbestimmung}
 
 In dieser Arbeit erfolgen die Definition, Herleitung und Begründung zentraler Begriffe an den Stellen, an denen die jeweilige Terminologie erstmalig eingeführt wird. Diese Vorgehensweise gewährleistet eine Erklärung der Begriffsverwendung im spezifischen Kontext des jeweiligen Bezugsrahmens und verdeutlicht die Relevanz des Begriffs für die jeweilige Diskussion.
-Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt. Eine weitergehende Unterscheidung unterschiedlicher Definitionstypen (z.B. Nominal‑ vs. Realdefinition) sowie deren formale Analyse wird, in Anlehnung an die einschlägige Methodikliteratur, nicht vertieft, da sie für die empirische Forschungspraxis nachrangig ist. [@doring_forschungsmethoden_2023, S. 226-227]
+Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt. Eine weitergehende Unterscheidung unterschiedlicher Definitionstypen (z.B. Nominal‑ vs. Realdefinition) sowie deren formale Analyse wird, in Anlehnung an die einschlägige Methodikliteratur, nicht vertieft, da sie für die empirische Forschungspraxis nachrangig ist. [@doring_forschungsmethoden_2023, Seite 226-227]
 
-Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doring_forschungsmethoden_2023, S. 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
+Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doring_forschungsmethoden_2023, Seite 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
 
 Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält (vgl. \hyperref[sec:A-1]{Abschnitt A.1}). Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
 
