@@ -156,7 +156,7 @@ Damit wird eine Grundlage für die Struktur und Verständlichkeit der Arbeit ges
 
 ## Hinweis zum Zitationsstil
 
-Der Zitationsstil dieser Arbeit basiert auf der 7. Ausgabe der @americanpsychologicalassociation2024Sgg. Zur Verwaltung der Zitate wird die Software Zotero (Version 7.0.29) verwendet, alle Referenzen sind als BibLaTex-Zitierschlüssel angelegt und in der PDF-Fassung von Referenzen zu Text umgewandelt worden.
+Der Zitationsstil dieser Arbeit basiert auf der 7. Ausgabe der @american_psychological_association_style_2024. Zur Verwaltung der Zitate wird die Software Zotero (Version 7.0.29) verwendet, alle Referenzen sind als BibLaTex-Zitierschlüssel angelegt und in der PDF-Fassung von Referenzen zu Text umgewandelt worden.
 
 Innerhalb der Zitationen werden diese Regeln angewendet:
 
@@ -171,7 +171,7 @@ Auslassungen sind durch „(…)“ dargestellt und Ergänzungen innerhalb von Z
 
 ## Hinweis zum Sprachstil
 
-Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von @koehler2021Egd, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ [@koehler2021Egd, S. 2] ihren sprachlichen Ausdruck innerhalb der scientific community finden muss.
+Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von @koehler_empfehlung_2021, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ [@koehler_empfehlung_2021, S. 2] ihren sprachlichen Ausdruck innerhalb der scientific community finden muss.
 
 Hieraus ergeben sich folgende, stilentsprechende Implikationen:
 
@@ -183,15 +183,15 @@ Hieraus ergeben sich folgende, stilentsprechende Implikationen:
 - Sprachliche Präzision: Geschlechtsneutrale Begriffe und Formulierungen fördern die sprachliche Präzision und vermeiden stereotype Geschlechtszuschreibungen.
 - Rechtliche und institutionelle Anforderungen: Universitäten und Institutionen verlangen oder empfehlen die Anwendung gendergerechter Sprache in akademischen Arbeiten.
 
-Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit einen Beitrag zur Lebendwirklichkeit aller Personen leisten, was sich zudem in der Verwendung des Asterisks beim Gendern ausdrückt. Hierdurch können typografische Verzerrungen im Vorfeld auf ein Minimum reduziert und eine weite Beteiligung aller erreicht werden [@koehler2021Egd, Kapitel 7 und 8].
+Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit einen Beitrag zur Lebendwirklichkeit aller Personen leisten, was sich zudem in der Verwendung des Asterisks beim Gendern ausdrückt. Hierdurch können typografische Verzerrungen im Vorfeld auf ein Minimum reduziert und eine weite Beteiligung aller erreicht werden [@koehler_empfehlung_2021, Kapitel 7 und 8].
 
 ### Schreibweisen für Literatur- und Abbildungsverweise
 
 Im Fließtext werden die Begriffe "Kapitel", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben (z.B. "wie in Kapitel 2.2 dargestellt", "siehe Tabelle 4"). Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
 
-- S.   = Seite (z.B. "[@doering2023Fue, S. 4–5]")
-- Kap. = Kapitel (z.B. "[@doering2023Fue, Kap. 2.2]")
-- Abb. = Abbildung (z.B. "siehe Abb.~\\ref{fig:...}")
+- S.   = Seite (z.B. "[@doring_forschungsmethoden_2023, S. 4–5]")
+- Kap. = Kapitel (z.B. "[@doring_forschungsmethoden_2023, Kap. 2.2]")
+- Abb. = Abbildung (z.B. "siehe \hyperref{fig:modell_LMS}{Abbildung LMS-Modell}")
 - Tab. = Tabelle (z.B. "vgl. Tab.~\\ref{tab:methoden_FU}")
 
 Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird nach Möglichkeit die ausgeschriebene Form "zum Beispiel" verwendet; nur in Ausnahmefällen wird "bspw." genutzt.
@@ -199,9 +199,9 @@ Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten 
 ## Hinweis zur Begriffsbestimmung {#sec:Begriffsbestimmung}
 
 In dieser Arbeit erfolgen die Definition, Herleitung und Begründung zentraler Begriffe an den Stellen, an denen die jeweilige Terminologie erstmalig eingeführt wird. Diese Vorgehensweise gewährleistet eine Erklärung der Begriffsverwendung im spezifischen Kontext des jeweiligen Bezugsrahmens und verdeutlicht die Relevanz des Begriffs für die jeweilige Diskussion.
-Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt. Eine weitergehende Unterscheidung unterschiedlicher Definitionstypen (z.B. Nominal‑ vs. Realdefinition) sowie deren formale Analyse wird, in Anlehnung an die einschlägige Methodikliteratur, nicht vertieft, da sie für die empirische Forschungspraxis nachrangig ist. [@doering2023Fue, S. 226-227]
+Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt. Eine weitergehende Unterscheidung unterschiedlicher Definitionstypen (z.B. Nominal‑ vs. Realdefinition) sowie deren formale Analyse wird, in Anlehnung an die einschlägige Methodikliteratur, nicht vertieft, da sie für die empirische Forschungspraxis nachrangig ist. [@doring_forschungsmethoden_2023, S. 226-227]
 
-Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doering2023Fue, S. 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
+Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doring_forschungsmethoden_2023, S. 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
 
 Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält (vgl. \hyperref[sec:A-1]{Abschnitt A.1}). Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
 

@@ -2,7 +2,9 @@
 
 # 2 Theorieteil {#sec:2}
 
-Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges. Die Kapitel gliedern sich entlang der funktionalen Argumentationsfolge aus `Kapitelstruktur.md`.
+Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges.
+
+Die Kapitel gliedern sich entlang der funktionalen Argumentationsfolge aus `Kapitelstruktur.md`.
 
 ## 2.1 Bildungswissenschaftlich-theoretische Verortung {#sec:2-1}
 
@@ -18,7 +20,7 @@ Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operati
 
 ### 2.1.3 Bildungstechnologie und Digitalität {#sec:2-1-3}
 
-Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. Wiater, 2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen.
+Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen.
 
 ### 2.1.4 Kompetenzentwicklung im digitalen Bildungsraum {#sec:2-1-4}
 Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander?
