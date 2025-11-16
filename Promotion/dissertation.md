@@ -99,52 +99,45 @@ header-includes:
 
 \newpage
 
-# Abkürzungsverzeichnis
+# Abkürzungsverzeichnis {#sec:abkuerzungsverzeichnis}
 
-\begin{longtable}{p{3cm}p{10cm}}
-\textbf{Abkürzung} & \textbf{Bedeutung} \\
-\hline
-LMS & Learning-Management-System; zentrale Plattform zur Bereitstellung und Organisation der Lehrangebote. \\
-FU & Forschungsunterfrage (FU1–FU7) als operationalisierte Teilfragestellungen. \\
-mdaCV & Mehrdimensional-analytische Clustervalidierung zur Prüfung der literaturbasierten Clusterstruktur. \\
-P-QIA & Probabilistisch-Qualitative Inhaltsanalyse – hybride Methode zur Quellenkodierung. \\
-KI & Künstliche Intelligenz; insbesondere generative Verfahren zur Dokumentenanalyse. \\
-LLM & Large Language Model; Sprachmodell zur semantischen Einordnung großer Textkorpora. \\
-SC & Silhouette-Score; Maß für die Trennschärfe von Clustern (Kapitel 4.3.3). \\
-E-Portfolio & Digitales Portfolio zur Dokumentation und Reflexion von Lernleistungen. \\
-MOOC & Massive Open Online Course; frei zugängliches Online-Lernformat. \\
-LXP & Learning Experience Platform; nutzungszentrierte Erweiterung eines LMS. \\
-\end{longtable}
+| Abkürzung   | Bedeutung                                                                                            |
+| ----------- | ---------------------------------------------------------------------------------------------------- |
+| E-Portfolio | Digitales Portfolio zur Dokumentation und Reflexion von Lernleistungen.                              |
+| FU          | Forschungsunterfrage (FU1–FU7) als operationalisierte Teilfragestellungen.                           |
+| KI          | Künstliche Intelligenz; insbesondere generative Verfahren zur Dokumentenanalyse.                     |
+| LMS         | Learning-Management-System; zentrale Plattform zur Bereitstellung und Organisation der Lehrangebote. |
+| LLM         | Large Language Model; Sprachmodell zur semantischen Einordnung großer Textkorpora.                   |
+| LXP         | Learning Experience Platform; nutzungszentrierte Erweiterung eines LMS.                              |
+| mdaCV       | Mehrdimensional-analytische Clustervalidierung zur Prüfung der literaturbasierten Clusterstruktur.   |
+| MOOC        | Massive Open Online Course; frei zugängliches Online-Lernformat.                                     |
+| P-QIA       | Probabilistisch-Qualitative Inhaltsanalyse – hybride Methode zur Quellenkodierung.                   |
+| SC          | Silhouette-Score; Maß für die Trennschärfe von Clustern.                                             |
 
 \newpage
 
-# Symbolverzeichnis
+# Symbolverzeichnis {#sec:symbolverzeichnis}
 
-\begin{longtable}{p{3cm}p{10cm}}
-\textbf{Symbol} & \textbf{Beschreibung} \\
-\hline
-$\varepsilon$ & Epistemische Verlustfunktion zur Bewertung der Integrität der mdaCV (Gl.~\eqref{eq:verlust}). \\
-$S$ & Silhouette-Score als Maß der Clusterdifferenzierung. \\
-$k$ & Anzahl der Cluster im k-Means-Algorithmus. \\
-$\nu$ & Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. \\
-$\iota$ & Bildungswirkindikator; Steigung des Bildungswirkfaktors. \\
-$\Delta K$ & Kognitive Unsicherheit innerhalb der Kompetenzentwicklung. \\
-$\Delta E$ & Emotionale Unsicherheit innerhalb der Kompetenzentwicklung. \\
-$t$ & Zeitvariable der Dynamikmodelle. \\
-\end{longtable}
+| Symbol | Beschreibung |
+| --- | --- |
+| $\beta$ | Standardisierter Regressionskoeffizient. |
+| $\Delta$ | Effekt- bzw. Varianzanteil eines Modellfaktors. |
+| $\Delta E$ | Emotionale Unsicherheit innerhalb der Kompetenzentwicklung. |
+| $\Delta K$ | Kognitive Unsicherheit innerhalb der Kompetenzentwicklung. |
+| $\varepsilon$ | Epistemische Verlustfunktion zur Bewertung der Integrität der mdaCV (Gl.~\eqref{eq:verlust}). |
+| $\iota$ | Bildungswirkindikator; Steigung des Bildungswirkfaktors. |
+| $k$ | Anzahl der Cluster im k-Means-Algorithmus. |
+| $\nu$ | Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. |
+| $S$ | Silhouette-Score als Maß der Clusterdifferenzierung. |
+| $t$ | Zeitvariable der Dynamikmodelle. |
 
 \newpage
 
-# Formelverzeichnis
+# Formelverzeichnis {#sec:formelverzeichnis}
 
-Die nachfolgende Tabelle listet alle im Manuskript aufgeführten Gleichungen mit der jeweils zugehörigen inhaltlichen Beschreibung.
-
-\begin{longtable}{p{4cm}p{10cm}}
-\caption{Formelverzeichnis}\label{tab:formelverzeichnis}\\
-\textbf{Gleichung} & \textbf{Beschreibung} \\
-\hline
-\eqref{eq:verlust} & Epistemische Verlustfunktion zur Bewertung der Integrität der mehrdimensional-analytischen Clustervalidierung (mdaCV). \\
-\end{longtable}
+| Gleichung | Beschreibung |
+| --- | --- |
+| \eqref{eq:verlust} | Epistemische Verlustfunktion zur Bewertung der Integrität der mehrdimensional-analytischen Clustervalidierung (mdaCV). |
 
 \newpage
 
