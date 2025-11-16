@@ -10,6 +10,8 @@ Die aktuellen Novellierungen in der Ausbildung der Gesundheitsberufe zielen dara
 
 ## 1.1	Erkenntnisinteresse, Problemstellung und Relevanz {#sec:1-1}
 
+
+
 ### 1.1.1	Erkenntnisinteresse {#sec:1-1-1}
 
 Das zentrale Erkenntnisinteresse dieser Arbeit besteht darin, zu untersuchen, wie Lern- und Kompetenzentwicklungsprozesse im Gesundheitswesen durch den Einsatz von Learning-Management-Systemen (LMS) beeinflusst werden und welche Rolle dabei sowohl medizinische als auch bildungswissenschaftliche Faktoren spielen. Besonderes Augenmerk liegt auf der Frage, wie bildungswissenschaftliche Konzepte zur Förderung von Kompetenzentwicklung in der medizinischen Aus- und Weiterbildung beitragen können. Darüber hinaus soll erforscht werden, inwiefern transdisziplinäre Ansätze zur Verbesserung von Lernprozessen und der Wissensvermittlung in der medizinischen Praxis beitragen können.
@@ -17,6 +19,8 @@ Das zentrale Erkenntnisinteresse dieser Arbeit besteht darin, zu untersuchen, wi
 Nach der Forderung in der Ausgangsarbeit nach einer zwingend erforderlich erneuten Evaluation unter realen Einsatzbedingungen nachzukommen. Die gefundenen Antworten sind für den weiteren Verlauf der Lehrveranstaltungen wegweisend  und werden große Beachtung finden. Insbesondere die zeitlichen Ressourcen mittels digitaler  Endgeräte besser zu nutzen stellen die ersten Überlegungen dar und führten bereits innerhalb  der Schulleitung zu regen Diskussionen. Trotzdem, dass Struktur nur einen mittleren Einfluss auf  die Nachhaltigkeit nimmt, stellt dieser Faktor auch in der Konzeption des Kollaborationstools  Moodle durch eine Praktikantin der FernUniversität Hagen einen ernstzunehmenden Gedanken  dar. Durch weitere Evaluationen werden diese ersten Erkenntnisse weitergeführt. Seitens der  Lernbegleitungen wird zukünftig verstärkt die Kommunikation der TN angeregt, um die Vernetzung untereinander zu fördern.  Nachhaltigkeit kann nur gewährt werden, wenn eine dauerhafte Evaluation stattfindet. Hieran haben alle an der Lehre beteiligten, gleich welcher Ausprägung, zu arbeiten. Der Erfolg der Teilnehmenden ist eng an die angebotenen Lernarrangements gekoppelt. Damit zukünftig die bestmöglich ausgebildeten Notfallsanitäterinnen und Notfallsanitäter eine hilfreiche Performance am  Nächsten leisten können. [@hanisch_notfallsanitater_2020, S. 19–20]
 
 ### 1.1.2	Problemstellung {#sec:1-1-2}
+
+
 
 ### 1.1.3	Thematische Relevanz {#sec:1-1-3}
 
