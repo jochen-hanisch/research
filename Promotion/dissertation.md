@@ -118,7 +118,7 @@ header-includes:
 | $\Delta$ | Effekt- bzw. Varianzanteil eines Modellfaktors. |
 | $\Delta E$ | Emotionale Unsicherheit innerhalb der Kompetenzentwicklung. |
 | $\Delta K$ | Kognitive Unsicherheit innerhalb der Kompetenzentwicklung. |
-| $\varepsilon$ | Epistemische Verlustfunktion zur Bewertung der Integrität der mdaCV (Gl.~\eqref{eq:verlust}). |
+| $\epsilon$ | Epistemische Verlustfunktion zur Bewertung der Integrität der mdaCV (Gl.~\eqref{eq:verlust}). |
 | $\iota$ | Bildungswirkindikator; Steigung des Bildungswirkfaktors. |
 | $k$ | Anzahl der Cluster im k-Means-Algorithmus. |
 | $\nu$ | Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. |
