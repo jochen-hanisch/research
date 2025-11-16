@@ -14,7 +14,7 @@
 
 ## 7.3 Praktische Implikationen {#sec:7-3}
 
-- Empfehlungen für die Gestaltung und Implementierung von LMS. 
+- Empfehlungen für die Gestaltung und Implementierung von Learning Management System (LMS). 
 - Hinweise für Bildungsinstitutionen und Lehrpraxis.
 
 ## 7.4 Grenzen der Arbeit {#sec:7-4}
