@@ -2,17 +2,24 @@
 
 # 2 Theorieteil {#sec:2}
 
-Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges.
+Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stalle die theoretischen Grundannahmen explizit, die für das Wirkgefüge relevant sind. Im Mittelpunkt stehen die Definitionen von Bildung, Digitalität und Kompetenzentwicklung im systemisch-konstruktivistischen Rahmen. Bildungswissenschaftliche und pädagogisch-psychologische Perspektiven werden dabei enggeführt, um die Komplexität digitaler Bildungsräume abzubilden und klassische Theoriemuster gezielt in den Kontext digitaler Lernarchitekturen zu transferieren.
 
-Die Kapitel gliedern sich entlang der funktionalen Argumentationsfolge aus `Kapitelstruktur.md`.
+\hyperref[sec:2-1]{Abschnitt 2.1] verortet das Forschungsvorhaben in der systemisch-konstruktivistischen Bildungswissenschaft. Die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung werden als sozio-technisches Wirkgefüge gefasst, wobei bildungswissenschaftlich-theoretische und bildungstechnologische Betrachtungen ineinandergreifen. Bildungstechnologische Prozesse – also computergestützte Abläufe und Plattformlogiken – werden nicht isoliert beschrieben, sondern konsequent als Bestandteil didaktischer Konzeptionen gelesen. Entsprechend richtet sich der Blick nicht auf eine erneute Ausbreitung klassischer Bildungsbegriffe, sondern auf ihre Übersetzung in den digitalen Bildungsraum im Hinblick auf das in \hyperref[sec:3]{Kapitel 3} vorgestellte Learning-Management-System.
+
+\hyperref[sec:2-2]{Abschnitt 2.2] legt die pädagogisch-psychologischen Grundannahmen dar, die das Wirkgefüge strukturieren. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen identifiziert, die in der Gestaltung digitaler Lernarchitekturen berücksichtigt werden müssen. Dabei wird erläutert, wie diese psychologischen Konstrukte die Wahrnehmung und Nutzung von Learning-Management-Systemen beeinflussen und welche Implikationen sich daraus für die Gestaltung digitaler Bildungsräume ergeben.
+
+\hyperref[sec:2-3]{Abschnitt 2.3] stellt das eigens entwickelte Modell der systemischen Dynamik des digitalen Bildungswirkgefüges vor. Es verbindet die in den vorangegangenen Abschnitten dargestellten theoretischen Grundlagen mit einer dynamischen Systemperspektive, um die Wechselwirkungen zwischen Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS-Architektur zu analysieren. Dabei werden die Variablen, Kopplungen und Rückkopplungen des Modells erläutert und die Konsequenzen von Systementkopplungen sowie Gestaltungsprinzipien für die Kopplung im digitalen Setting diskutiert.
+
+\hyperref[sec:2-4]{Abschnitt 2.4] reflektiert den Technologiedefizit-Diskurs und diskutiert, warum pädagogische Innovationen häufig hinter technologischen Möglichkeiten zurückbleiben. Es wird analysiert, wie dieses strukturelle Problem die Gestaltung digitaler Bildungsräume beeinflusst und welche Anforderungen sich daraus für die zukünftige Entwicklung von Learning-Management-Systemen ergeben.
+
 
 ## 2.1 Bildungswissenschaftlich-theoretische Verortung {#sec:2-1}
 
-Dieser Abschnitt verortet das Forschungsvorhaben in der systemisch-konstruktivistischen Bildungswissenschaft. Die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung werden als sozio-technisches Wirkgefüge gefasst.
+
 
 ### 2.1.1 Einleitung und Übersicht zur Theorie {#sec:2-1-1}
 
-Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative „MPW“-Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert?
+Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert? Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
 
 ### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:2-1-2}
 
