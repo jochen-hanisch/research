@@ -143,6 +143,9 @@ Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es,
 ## 4.3 Datenanalyse {#sec:4-3}
 
 
+
+### 4.3.1 Von klassischen Auswertungsverfahren zur KI-gestützten Analyse {#sec:4-3-1}
+
 Zur systematischen Literaturauswertung wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die folgende Tabelle zeigt die vollständige Struktur der Suchordner:
 ## Anhang X: Struktur der Suchordner in Zotero nach semantischen Ebenen
 
@@ -187,9 +190,9 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
-### 4.3.1 Klassische Auswertungsverfahren {#sec:4-3-1}
 
-### 4.3.2 KI-gestützte Dokumentenanalyse
+
+
 
 +++++todo+++++
 ja, das, was wir hier machen, kann als eine Form der semantischen Analyse betrachtet werden. Semantische Analyse umfasst die Untersuchung und Interpretation der Bedeutungen von Texten und ihrer Bestandteile sowie der Beziehungen zwischen diesen Bedeutungen. In diesem Kontext analysieren wir die Inhalte wissenschaftlicher Studien, extrahieren zentrale Themen, Argumentationslinien und Ergebnisse und ordnen sie spezifischen Forschungsfragen zu. Dies beinhaltet das Verständnis und die Interpretation der zugrunde liegenden Bedeutungen und Konzepte sowie deren Relevanz und Beziehungen zu den Forschungsfragen des Exposés.
@@ -199,8 +202,11 @@ KI-gestützte Dokumentenanalyse (Primäranalyse, Sekundäranlyse und P-QIA)
 - Systematische Dokumentenanalyse:
 
 
+
 Die systematische Literaturanalyse orientiert sich methodisch an den Prinzipien der Dokumentenanalyse, wie sie beispielsweise von Döring (2023, Kapitel 10.6) dargelegt werden [@doring_forschungsmethoden_2023]. Ziel ist es, relevante wissenschaftliche Arbeiten strukturiert zu identifizieren, auszuwerten und thematisch für die Bearbeitung der sieben Forschungsunterfragen zu kategorisieren. Im Rahmen dieses Vorgehens wird eine KI-gestützte Unterstützung eingesetzt, deren Nutzung bislang in etablierten Methodenwerken nicht explizit behandelt wird - somit handelt es sich um eine methodische Erweiterung.
+
 Entsprechend der Überlegungen von Yu et al. [-@tang_using_2024, Seite 2-3, 6-8], die den Einsatz generativer KI zur Förderung von Reflexions- und Analyseprozessen im Forschungsprozess systematisch analysieren, wird diese methodische Innovation theoretisch fundiert begründet. Der Einsatz von KI in der vorliegenden Arbeit dient dabei nicht der automatisierten Auswertung, sondern fungiert als strukturierendes und reflexives Werkzeug zur Analyse. Qualitative Inhalte aus Literaturquellen werden entlang festgelegter Kategorien den jeweiligen Forschungsunterfragen zugeordnet, überprüft, gewichtet und in einem iterativen Verfahren rückgekoppelt.
+
 Die Verbindung klassischer Dokumentenanalyse mit KI-gestützter Kategorisierung stellt eine innovative methodische Synthese dar, die sowohl die Verarbeitung umfangreicher Literaturbestände erleichtert als auch eine transparente, systematische und theoriegeleitete Rückführung auf den Forschungsprozess ermöglicht. Die im Verlauf entwickelten Kategorien und Schlagworte unterstützen die thematische Verknüpfung zwischen Forschungsfragen, theoretischen Ansätzen und empirischen Ergebnissen und schaffen damit neue Perspektiven für eine komplexitätssensible, erkenntnisorientierte Forschungspraxis.
 
 Keine KI-Analyse Erwähnung bei den herkömmlichen Methodenbüchern -> also eine neue Methode - Grundlage bei Yu et al. [-@tang_using_2024, Seite 2-3, 6-8], da dieser Beitrag explizit die Nutzung von KI zur Unterstützung von Reflexions- und Analyseprozessen behandelt. Ihre Methodik, die systematische Literaturanalyse mit KI-gestützter Kategorisierung und Analyse kombiniert, wird hier unmittelbar untermauert.
@@ -260,6 +266,269 @@ In der aktuellen wissenschaftlichen Debatte über die Nutzung von KI in akademis
 Die Ergebnisse zeigen, dass die qualitative Clustervalidierung eine objektive Bewertung von Kodierungen ermöglicht und methodische Schwächen sichtbar machen kann. Dies legt nahe, dass KI-gestützte Inhaltsanalysen eine präzisere Ergänzung zur klassischen qualitativen Kodierung darstellen können. Insbesondere in groß angelegten Studien mit umfangreichen Textkorpora könnten KI-basierte Verfahren eine erhebliche methodische Verbesserung ermöglichen.
 
 Gleichzeitig bleibt zu beachten, dass menschliche Kodierungen theoretische Konzepte und interpretative Nuancen einbeziehen können, die über rein datenbasierte Analysen hinausgehen. Diese Erkenntnisse unterstreichen das Potenzial der qualitativen Clustervalidierung als standardisiertes Verfahren zur Überprüfung methodischer Trennschärfe. Langfristig könnte sie als ergänzende Methode zur Qualitätssicherung klassischer Kodierungsverfahren etabliert werden. In der qualitativen Forschung könnte daher ein hybrider Ansatz sinnvoll sein, bei dem KI-gestützte Analysen zur Strukturierung und Validierung menschlicher Kodierungen eingesetzt werden.
+
+### 4.3.2 KI-gestützte Dokumentenanalyse (P-QIA) {#sec:4-3-2}
+
+Einordnung und Zielsetzung
+
+Die vorliegende Arbeit knüpft an die Tradition der qualitativen Inhaltsanalyse an, wie sie insbesondere von Mayring ausgearbeitet wurde, und entwickelt diese zu einer probabilistisch‑qualitativen Inhaltsanalyse (P‑QIA) weiter. Ziel der P‑QIA ist es, die regelgeleitete, theoriegeleitete und transparente Kategorienbildung der klassischen qualitativen Inhaltsanalyse mit probabilistischen, vektorraum‑ und clusterbasierten Verfahren zu verbinden, um die Gütekriterien qualitativer Forschung (Nachvollziehbarkeit, Transparenz, Reliabilität) unter den Bedingungen großer, komplexer Textkorpora und KI‑Unterstützung weiterzuentwickeln.
+
+P‑QIA ist damit keine Abkehr von Mayrings Ansatz, sondern eine methodische Fortführung: Die Grundprinzipien (systematisches Vorgehen, Kategorienbildung, Kodierregeln, Ankerbeispiele, Dokumentation der Analyseschritte) bleiben erhalten, werden aber um algorithmische Strukturierungs‑ und Validierungsschritte ergänzt, die in der klassischen, rein menschlichen Inhaltsanalyse nicht verfügbar sind.
+
+Ausgangspunkt: Qualitative Inhaltsanalyse nach Mayring
+
+Grundprinzipien
+
+Die qualitative Inhaltsanalyse nach Mayring ist ein systematisches, regelgeleitetes Verfahren zur Auswertung von Textmaterial, das qualitative Interpretationen mit nachvollziehbaren Analyseschritten verbindet (Mayring, 2015; Mayring & Fenzl, 2019). Zentrale Merkmale sind:
+
+- Festlegung einer klaren Forschungsfrage und Analyseeinheiten
+- theoriegeleitete oder theoriegeleitet‑induktive Kategorienbildung
+- Entwicklung eines Kodiermanuals (Kategorien, Definitionen, Kodierregeln, Ankerbeispiele)
+- schrittweises Kodieren des Materials anhand dieses Manuals
+- Überprüfung und Revision der Kategorien im Verlauf der Analyse
+- transparente Dokumentation der Analyseschritte
+
+Mayring (2015) unterscheidet unterschiedliche Grundformen (zusammenfassende, explizierende, strukturierende Inhaltsanalyse), die auf das jeweilige Erkenntnisinteresse zugeschnitten werden. Die hier zugrunde gelegte Arbeit orientiert sich primär an der strukturierenden und zusammenfassenden Inhaltsanalyse, da für alle Forschungsunterfragen (FU1–FU7) vorhandene Analysen verdichtet, thematisch gebündelt und theoriebezogen interpretiert werden.
+
+Kategorienbildung und Gütekriterien
+
+In der klassischen qualitativen Inhaltsanalyse werden Kategorien iterativ entwickelt und überprüft. Die Qualität der Analyse hängt dabei maßgeblich von:
+
+- der Klarheit der Kategorien und Kodierregeln,
+- der Schulung und Abstimmung der Kodierenden,
+- der Dokumentation des Vorgehens
+
+ab (Kuckartz, 2014; Schreier, 2012). Reliabilität und Validität werden traditionell über Maßnahmen wie Intercoder‑Übereinstimmungen, Reflexion der Forscher*innenrolle und Triangulation abgesichert.
+
+Diese Verfahren stoßen jedoch bei sehr großen Textmengen, komplexen Theoriemodellen und der Notwendigkeit hoher Reproduzierbarkeit an praktische Grenzen. Hier setzt die P‑QIA an.
+
+Übergang zur P‑QIA: probabilistische Erweiterung
+
+Motivation und epistemischer Status
+
+Die P‑QIA geht von der Beobachtung aus, dass große Sprachmodelle (Large Language Models, LLMs) Texte in hochdimensionalen Vektorräumen repräsentieren, in denen semantische Ähnlichkeiten über Distanzmaße berechnet werden können (Bommasani et al., 2021). Diese vektorbasierte Repräsentation ermöglicht:
+
+- die algorithmische Gruppierung ähnlicher Textsegmente (Clusteranalyse),
+- die Berechnung von Kohärenz‑ und Trennschärfemaßen (z. B. Silhouette‑Koeffizienten),
+- die reproduzierbare Ableitung von Kategoriensystemen aus großen Textkorpora.
+
+Damit verschiebt sich der epistemische Status der Kategorienbildung: Neben die interpretative, historisch und kontextuell eingebettete Kategorienbildung der Forscher*in tritt eine probabilistische, vektorbasiert gestützte Strukturierung des Materials. P‑QIA nutzt diese neuen Möglichkeiten nicht, um menschliche Interpretation zu ersetzen, sondern um sie zu unterstützen, zu strukturieren und hinsichtlich Kohärenz und Reproduzierbarkeit besser prüfbar zu machen (Low & Kalender, 2023; Bhullar et al., 2024).
+
+Probabilistische Schritte der P‑QIA
+
+Die in dieser Arbeit verwendete P‑QIA ist in `P-QIA Statistik.md` formal dokumentiert. Für jede Forschungsunterfrage (FU1–FU7) werden identische probabilistische Schritte durchgeführt:
+
+1. **Segmentierung:**  
+   Die jeweiligen Primäranalysen werden in Sinnabschnitte segmentiert (in der Regel 1–3 Sätze, bei FU7 1–2 Sätze).
+2. **Embedding:**  
+   Jedes Segment wird mit einem GPT‑Embedding‑Modell in einen hochdimensionalen Vektorraum überführt.
+3. **Clustering:**  
+   Auf Basis dieser Vektoren wird ein k‑means‑Clustering durchgeführt. Die Wahl von *k* orientiert sich sowohl am erwarteten inhaltlichen Spektrum der Forschungsunterfrage als auch an der Optimierung des Silhouette‑Koeffizienten.
+4. **Silhouette‑Berechnung:**  
+   Für jedes Clustering wird der mittlere Silhouette‑Wert berechnet (Rousseeuw, 1987). Werte ≥ 0.87 werden als Hinweis auf hohe interne Kohärenz und ausreichende Trennschärfe zwischen den Clustern interpretiert.
+5. **Labeling und theoretische Validierung:**  
+   Ein GPT‑basiertes Reasoning‑Modell generiert Vorschläge für Clusterlabel und Kandidatendefinitionen. Diese werden durch die Forscher*in im Abgleich mit theoretischen Modellen (z. B. Technology Acceptance Model, Self‑Determination Theory, TPACK) und den jeweiligen Metaprompts geprüft, angepasst oder verworfen.
+6. **Ableitung des Kodiermanuals:**  
+   Aus den stabilen Clustern werden Kategorien mit Definitionen, Kodierregeln und Ankerbeispielen abgeleitet. Diese Kodiermanuale werden in den jeweiligen Codiersystem‑Dateien zu FU1–FU7 dokumentiert.
+
+Durch diese Schritte wird die klassische Kategorienbildung der qualitativen Inhaltsanalyse um eine probabilistische, vektorbasiert gestützte Strukturierung ergänzt. Die eigentliche Interpretation und Theoriebildung verbleibt jedoch bei der Forscher*in.
+
+Empirische Kennwerte der P‑QIA
+
+Die Datei [[P-QIA Statistik]] dokumentiert die probabilistischen Analysen für alle Forschungsunterfragen (FU1–FU7) in Form einer statistischen Übersicht. Dort sind für jede FU u. a. Segmentierungsregeln, Embedding‑Modell, Clusterverfahren, Wahl von *k*, der mittlere Silhouette‑Koeffizient und inhaltliche Anmerkungen festgehalten.
+
+Die zentrale Tabelle zeigt, dass:
+
+- für alle FUs dieselbe Grundpipeline (Segmentierung → Embedding → k‑means → Silhouette → Labeling → Kodiermanual) verwendet wird,
+- die gewählten *k*‑Werte im Bereich von 8 bis 15 liegen und damit eine differenzierte, aber noch interpretierbare Anzahl von Kategorien abbilden,
+- die Silhouette‑Werte durchgängig zwischen 0.87 und 0.93 sowie im Mittel bei ca. 0.89 liegen.
+
+Wertebasiert ergibt sich folgendes Bild der Clusterqualität:
+
+|FU|k|Silhouette|Interpretation nach Rousseeuw (1987)|
+|---|---|---|---|
+|FU1|8|0.91|sehr starke Clustertrennung, hohe Kohärenz|
+|FU2a|12|0.88|starke Clusterstruktur|
+|FU2b|14|0.89|starke Clusterstruktur|
+|FU3|15|0.87|starke Clusterstruktur (untere Grenze des Zielbereichs)|
+|FU4a|12|0.90|sehr starke Clustertrennung|
+|FU4b|12|0.92|nahezu perfekte Trennung|
+|FU5|14|0.88|starke Clusterstruktur|
+|FU6|12|0.89|starke Clusterstruktur|
+|FU7|10|0.93|nahezu perfekte Trennung|
+
+Rousseeuw (1987) beschreibt Silhouette‑Werte > .70 als Hinweis auf eine starke Clusterstruktur; Werte > .90 deuten auf eine nahezu perfekte Trennung hin. Vor diesem Hintergrund belegen die in [[P-QIA Statistik]] dokumentierten Werte eine hohe interne Kohärenz der vektorbasiert gefundenen Cluster über alle Forschungsunterfragen hinweg. Sie liefern damit eine empirische Grundlage für die Aussage, dass die in der P‑QIA verwendeten Kategorien nicht nur interpretativ, sondern auch statistisch gut gestützt sind.
+
+Die Reproduzierbarkeitsschritte in [[P-QIA Statistik]] (Vorverarbeitung, Embedding, Clustering, Silhouette‑Berechnung, Labeling & Validierung, Ableitung des Kodiermanuals) konkretisieren darüber hinaus die theoretischen Annahmen der P‑QIA:
+
+- Aus der Foundation‑Model‑Forschung ist bekannt, dass LLM‑Embeddings stabile semantische Ähnlichkeiten im hochdimensionalen Vektorraum abbilden können (Bommasani et al., 2021).
+- Silhouette‑Koeffizienten fungieren als etablierte Kennwerte zur Interpretation und Validierung von Clustern (Rousseeuw, 1987).
+- Studien zur KI‑gestützten qualitativen Forschung zeigen, dass KI‑unterstützte thematische Strukturen eine hohe interne Stabilität und Skalierbarkeit erreichen können (Bhullar et al., 2024; [@biswas_chatgpt_2023]).
+- Arbeiten zur Reproduzierbarkeit in der LLM‑Forschung betonen, dass deterministische Pipelines eine Wiederholbarkeit ermöglichen, die in rein manuellen Kodierprozessen schwer zu erreichen ist (Low & Kalender, 2023).
+
+In der Summe bilden diese Kennwerte und Verweise die empirische und methodische Basis der P‑QIA in dieser Arbeit: Die hier entwickelten Kategorien und Metamodellierungen sind sowohl qualitativ‑interpretativ (im Sinne Mayrings) als auch probabilistisch‑statistisch (im Sinne vektorbasiert gestützter Validierung) abgesichert.
+
+Workflow der P‑QIA (in Anlehnung an Mayring)
+
+Der folgende Workflow fasst die in dieser Arbeit verwendete P‑QIA in Anlehnung an die klassische qualitative Inhaltsanalyse nach Mayring zusammen und kann als Grundlage für eine grafische Abbildung dienen:
+
+1. **Forschungsunterfrage und Materialfestlegung (Mayring)**  
+   - Formulierung der jeweiligen Forschungsunterfrage (FU1–FU7).  
+   - Auswahl und Zusammenstellung des relevanten Materials (Primäranalysen, Notizen, Quellen).
+
+2. **Festlegung der Analyseeinheiten (Mayring)**  
+   - Definition der Analyseeinheiten (z. B. Sinnabschnitte, Aussagenebene).  
+   - Festlegung der Einbettungs‑ und Kontextebene.
+
+3. **Segmentierung in Sinnabschnitte (P‑QIA)**  
+   - Automatisierte bzw. halbautomatisierte Zerlegung der Texte in Sinnabschnitte (typischerweise 1–3 Sätze; bei FU7 1–2 Sätze).  
+   - Dokumentation der Segmentierungsregeln.
+
+4. **Embedding und probabilistische Strukturierung (P‑QIA)**  
+   - Umwandlung der Segmente in Vektoren mittels GPT‑Embeddings.  
+   - Durchführung des k‑means‑Clusterings mit FU‑spezifischem *k* (vgl. [[P-QIA Statistik]]).
+
+5. **Qualitätssicherung der Cluster (P‑QIA)**  
+   - Berechnung des Silhouette‑Koeffizienten als Maß für Kohärenz und Trennschärfe.  
+   - Zusammenführung oder Verwerfung instabiler oder inhaltlich nicht plausibler Cluster.
+
+6. **Ableitung und Revision der Kategorien (Mayring + P‑QIA)**  
+   - Generierung von Clusterlabeln und Kategoriendefinitionen (LLM‑gestützt).  
+   - Theoretische Validierung und ggf. Revision im Licht bestehender Modelle (z. B. TAM, SDT, TPACK) und der Metaprompts.  
+   - Erstellung bzw. Überarbeitung des Kodiermanuals (Kategorien, Definitionen, Kodierregeln, Ankerbeispiele).
+
+7. **Kodierung des Materials (Mayring)**  
+   - Anwendung des Kodiermanuals auf das Material.  
+   - Markierung von Grenzfällen, Mehrfachkodierungen und notwendigen Manual‑Revisionen.
+
+8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P‑QIA)**  
+   - Zusammenführung der Kategorien zu thematischen Clustern, Typen oder Metamodellen.  
+   - Rückbindung an die Forschungsunterfragen und theoretischen Rahmen.  
+   - Dokumentation der probabilistischen Kennwerte (z. B. Silhouette) und ihrer Bedeutung für die Interpretation.
+
+Dieser Workflow macht sichtbar, an welchen Stellen die P‑QIA die klassische qualitative Inhaltsanalyse nach Mayring erweitert (Schritte 3–6) und wo die interpretative Verantwortung der Forscher*in unverändert zentral bleibt (insbesondere Schritte 1–2 sowie 6–8).
+
+Mermaid-Workflow (parallele Pfade)
+
+Zur Visualisierung kann der oben beschriebene Ablauf in Obsidian z. B. mit folgendem Mermaid‑Diagramm dargestellt werden. Es zeigt die parallelen Pfade der klassischen Mayring‑Arbeit und der P‑QIA, die gemeinsam in die Kodierung und Synthese einfließen:
+
+```mermaid
+flowchart TD
+    A[Forschungsunterfrage<br/>FU1–FU7] --> B[Materialauswahl<br/>Primäranalysen, Notizen]
+    B --> C[Festlegung der<br/>Analyseeinheiten<br/>Mayring]
+
+    %% Klassischer Mayring-Pfad
+    C --> I[Kodierung des Materials<br/>klassische Kategorienarbeit]
+
+    %% P‑QIA-Pfad (parallel)
+    C --> D[Segmentierung in<br/>Sinnabschnitte<br/>P‑QIA]
+    D --> E[Embedding der Segmente<br/>GPT-Embeddings]
+    E --> F[k-means-Clustering<br/>FU-spezifisches k]
+    F --> G[Silhouette-Berechnung<br/>und Clusterprüfung]
+    G --> H[Ableitung/Revision<br/>der Kategorien und<br/>Kodierregeln P‑QIA]
+    H --> I
+
+    %% Gemeinsame Synthese
+    I --> J[Synthese, Metamodellierung<br/>und Theoriebildung]
+
+    classDef mayring fill:#e0f7fa,stroke:#006064,stroke-width:1px;
+    classDef pqia fill:#f3e5f5,stroke:#4a148c,stroke-width:1px;
+
+    class A,B,C,I,J mayring;
+    class D,E,F,G,H pqia;
+```
+
+Die farbliche Trennung verdeutlicht, welche Schritte aus der klassischen Mayring‑Logik stammen (hellblau) und an welchen Stellen die probabilistische Erweiterung der P‑QIA ansetzt (hellviolett). Der Knoten `I` zeigt, dass klassische Kodierung und P‑QIA‑gestützte Kategorienarbeit nicht sequenziell, sondern als parallele Stränge verstanden werden, deren Ergebnisse gemeinsam in die Synthese und Theoriebildung einfließen.
+
+Methodische Verortung der P‑QIA
+
+Anschluss an Mayring
+
+P‑QIA bleibt in mehrfacher Hinsicht anschlussfähig an Mayring:
+
+- Die Analyse ist weiterhin **fragengesteuert**: Jede FU hat eine klar formulierte Forschungsunterfrage, die die Auswahl, Segmentierung und Interpretation des Materials leitet.
+- Es werden **Kategorien und Kodierregeln** entwickelt, die in einem Kodiermanual festgehalten sind.
+- Es wird auf **Ankerbeispiele** und **Belegstellen** zurückgegriffen, um Kategorien empirisch zu illustrieren.
+- Die Analyseschritte werden **transparent dokumentiert** (vgl. P‑QIA‑Headerprotokolle, Codematrizen, Entscheidungslogs).
+
+Die probabilistischen Schritte ersetzen diese Prinzipien nicht, sondern ergänzen sie. Man kann die P‑QIA daher als eine „probabilistisch fundierte Weiterentwicklung der qualitativen Inhaltsanalyse nach Mayring“ verstehen.
+
+Abgrenzung und Erweiterung
+
+Gleichzeitig geht P‑QIA über die klassische qualitative Inhaltsanalyse hinaus:
+
+- **Vektorraumbasierte Semantik:**  
+  Statt ausschließlich auf menschliche Interpretation zu setzen, werden semantische Ähnlichkeiten zwischen Textsegmenten im Vektorraum quantitativ erfasst (Bommasani et al., 2021).
+- **Clusteranalyse als Strukturierungsschritt:**  
+  Kategoriensysteme werden nicht nur interpretativ entworfen, sondern zunächst probabilistisch durch Clusterbildung vorgeschlagen und anschließend theoriegeleitet validiert (Rousseeuw, 1987).
+- **Statistische Kohärenzmaßstäbe:**  
+  Mit dem Silhouette‑Koeffizienten stehen objektive Maße zur Verfügung, mit denen die interne Kohärenz und Trennschärfe von Kategorien empirisch geprüft werden können.
+- **Reproduzierbarkeit:**  
+  Durch deterministische Einstellungen und dokumentierte Pipelines können die probabilistischen Analysen (Embedding, Clustering, Berechnung der Kennwerte) reproduzierbar ausgeführt werden, was die Nachvollziehbarkeit gegenüber rein manuellen Kodierprozessen verbessert (Low & Kalender, 2023).
+
+Damit verschiebt P‑QIA die Gewichtung der Gütekriterien: Neben kommunikative Validierung und Reflexivität tritt die algorithmische Prüfbarkeit der Kategoriensysteme.
+
+Umsetzung der P‑QIA in dieser Arbeit
+
+Anwendung auf die Forschungsunterfragen (FU1–FU7)
+
+Für alle Forschungsunterfragen wird ein einheitliches P‑QIA‑Vorgehen umgesetzt, das sich in den jeweiligen Prompt‑Rahmen (Sekundäranalyse‑Prompts) und Metaanalysen niederschlägt. Exemplarisch sei FU1 genannt:
+
+- In `FU1 Prompt Sekundäranalyse.md` wird die probabilistisch‑qualitative Inhaltsanalyse als Verfahren benannt und mit der Forschungsunterfrage zur Akzeptanz und Nützlichkeit von Learning‑Management‑Systemen verknüpft.
+- In `FU1 Qualitative Metaanalyse (P‑QIA).md` wird ein P‑QIA‑Headerprotokoll geführt (Material, Segmentierung, Embedding/Clustering‑Parameter, Validierung, Ergebnis‑Kategorien), ergänzt um Codematrizen, Evidenztabellen mit Pfadangaben (Pfad:Zeile) und einen Entscheidungslog.
+- Analog werden für FU2a, FU2b, FU3, FU4a, FU4b, FU5, FU6 und FU7 die probabilistischen Analyseschritte gemäß `P-QIA Statistik.md` ausgeführt und mit den inhaltlichen Kategorien (z. B. didaktische Merkmale, Typen, Möglichkeiten und Grenzen, Kompetenzen, Inputs und Strategien) verschränkt.
+
+Rollenverteilung zwischen KI und Forschenden
+
+Die P‑QIA versteht die KI nicht als autonome Forscherin, sondern als Werkzeug zur:
+
+- Segmentierung und Strukturierung großer Textkorpora,
+- Generierung von Clustervorschlägen und semantischen Verdichtungen,
+- Berechnung von Kohärenz‑Kennwerten,
+- Unterstützung bei der Formulierung von Kategoriendefinitionen.
+
+Die forschende Person übernimmt:
+
+- die Formulierung der Forschungsfragen und Metaprompts,
+- die Auswahl und Vorbereitung des Materials,
+- die kritische Prüfung und Anpassung der Cluster und Kategorien,
+- die theoretische Einbettung und Interpretation der Ergebnisse,
+- die Reflexion von Grenzen und Risiken des probabilistischen Ansatzes.
+
+Dieser Zuschnitt ist zentral, um die interpretative Verantwortung in der qualitativen Forschung zu wahren und zugleich die Vorteile probabilistischer Verfahren zu nutzen.
+
+Reflexion und Grenzen der P‑QIA
+
+Chancen
+
+Die P‑QIA bietet insbesondere:
+
+- **Skalierbarkeit:**  
+  Auch sehr umfangreiche Textkorpora können systematisch strukturiert und ausgewertet werden.
+- **Transparenz und Reproduzierbarkeit:**  
+  Durch dokumentierte Pipelines, Parameter und Kennwerte werden Analyseschritte nachvollziehbarer.
+- **Präzisere Kategorienbildung:**  
+  Vektorraumanalysen und Clusterkennwerte helfen, unscharfe oder redundante Kategorien zu erkennen und zu schärfen.
+- **Theorieintegration:**  
+  Die Koppelung von probabilistischer Strukturierung und theoriegeleiteter Validierung (z. B. TAM, SDT, TPACK) stärkt die wissenschaftliche Fundierung.
+
+Grenzen
+
+Gleichzeitig sind Grenzen zu beachten:
+
+- **Abhängigkeit von Modellen und Parametern:**  
+  Ergebnisse hängen von der Wahl des Embedding‑Modells, der Clusterparameter und der Implementierung ab. Diese Entscheidungen sind zu reflektieren und zu begründen.
+- **Black‑Box‑Charakter der LLMs:**  
+  Die internen Repräsentationen der Modelle sind nur begrenzt interpretierbar; P‑QIA kann diesen Black‑Box‑Charakter nicht vollständig auflösen, aber durch transparente Protokolle abschwächen.
+- **Gefahr der Scheinobjektivität:**  
+  Statistische Kennwerte dürfen nicht als Ersatz für inhaltliche Reflexion und Kontextwissen missverstanden werden. Sie sind Unterstützungs‑, nicht Entscheidungsinstanzen.
+- **Ethische Fragen:**  
+  Der Einsatz von KI in der Forschung wirft Fragen nach Datensouveränität, Verzerrungen (Bias) und Verantwortung auf (z. B. [@biswas_chatgpt_2023]). Diese sind in der methodologischen Reflexion zu berücksichtigen.
+
+Zusammenfassung
+
+Die probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) verbindet die Stärken der qualitativen Inhaltsanalyse nach Mayring mit den Möglichkeiten probabilistischer, vektorbasiert gestützter Textanalyse. Sie wird in dieser Arbeit als methodische Klammer über alle Forschungsunterfragen (FU1–FU7) eingesetzt, um komplexe Materialbestände systematisch, theoriegeleitet und zugleich statistisch validiert auszuwerten. P‑QIA versteht sich dabei als anschlussfähige Weiterentwicklung, nicht als Bruch mit der qualitativen Forschungstradition.
+
 
 ### 4.3.3 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-3}
 
