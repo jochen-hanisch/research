@@ -188,7 +188,7 @@ Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, 
 
 ### 4.3.1 Grundlogik der Datenanalyse: Analysen erster bis dritter Ordnung {#sec:4-3-1}
 
-Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmodell, das deduktive Kategorienbildung mit probabilistischer Validierung verschränkt. Damit bleibt jeder Schritt eng an die Forschungsunterfragen gekoppelt und gleichzeitig anschlussfähig an die dokumentarischen Qualitätsanforderungen nach Döring [@doring_forschungsmethoden_2023].
+Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmodell, das deduktive Kategorienbildung mit probabilistischer Validierung verschränkt. Damit bleibt jeder Schritt eng an die Forschungsunterfragen gekoppelt und gleichzeitig anschlussfähig an die dokumentarischen Qualitätsanforderungen nach Döring [-@doring_forschungsmethoden_2023].
 
 - **Analysen erster Ordnung (Primäranalysen):** Einzelquellen werden entlang vordefinierter Kategorien (Akzeptanz, Nutzen, Grenzen usw.) ausgewertet. Das Ergebnis ist eine strukturierte, FU-spezifische Inhaltsanalyse pro Dokument.
 - **Analysen zweiter Ordnung (Sekundäranalysen):** Die Primäranalysen einer FU werden gespiegelt, verdichtet und theoriebezogen gerankt. Daraus entstehen deduktive Cluster, SWOT-Profile und Korrelationsmatrizen.
@@ -273,7 +273,7 @@ Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Model
 |FU6|12|0.89|starke Clusterstruktur|
 |FU7|10|0.93|nahezu perfekte Trennung|
 
-Rousseeuw [-@rousseeuw_silhouettes_1987] bewertet Werte > 0,70 als stark, > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen Bommasani et al. (2021), Bhullar et al. (2024) sowie Low & Kalender (2023) auf die Reproduzierbarkeit deterministischer Pipelines.
+Rousseeuw [-@rousseeuw_silhouettes_1987] bewertet Werte > 0,70 als stark, > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen Low & Kalender [-@low_data_2023] auf die Reproduzierbarkeit deterministischer Pipelines.
 
 #### Qualitätssicherung und Beispiele
 
@@ -292,7 +292,7 @@ Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung g
 - **Parameter- und Modellvariabilität:** Embedding-Modelle und Clusterparameter beeinflussen die Ergebnisse; Entscheidungen müssen dokumentiert und begründet werden.
 - **Black-Box-Charakter der LLMs:** Interne Repräsentationen sind nur begrenzt interpretierbar. Transparente Protokolle mildern, aber eliminieren das Problem nicht.
 - **Gefahr der Scheinobjektivität:** Statistische Kennwerte ersetzen keine inhaltliche Reflexion. Sie fungieren als Unterstützungs-, nicht als Entscheidungsinstanz.
-- **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung (vgl. [@biswas_chatgpt_2023]) müssen explizit adressiert werden.
+- **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung müssen explizit adressiert werden.
 
 ### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-5}
 
@@ -308,24 +308,23 @@ Im Verlauf der Dissertation wurde die mdaCV als dauerhafte Feedback-Schleife ein
 
 Die mdaCV fungiert damit als seismografisches Instrument: Sie verbindet deduktive Kategorienstrukturen mit quantitativ validierbaren Kennwerten und eröffnet Analysepfade für mikrostrukturelle Dynamiken in semantisch strukturierten Räumen.
 
-### 4.3.6 Epistemische Verlustfunktion (\(\varepsilon\)) als Integritätsmaß {#sec:4-3-6}
+### 4.3.6 Epistemische Verlustfunktion ($\epsilon$) als Integritätsmaß {#sec:4-3-6}
 
-Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion \(\varepsilon\) eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
+Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion $\epsilon$ eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
 
 Formel zur Definition der Verlustfunktion:
 
-```{=latex}
-\begin{equation}
+$$
+\epsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
 \label{eq:verlust}
-\varepsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
-\end{equation}
-```
+$$
 
-Ein Beispiel mit \(S = 0{,}9754\), \(n_{\text{Soll}} = 3585\) und \(n_{\text{Ist}} = 3583\) ergibt \(\varepsilon \approx 0{,}0252\). Der Wert zeigt, dass trotz kleiner Datenlücken eine hohe Integrität erreicht wird. Die Verlustfunktion eignet sich insbesondere als Frühwarnsystem (Verlust von Quellen, unplausible Score-Sprünge) und als zusätzlicher Qualitätsindikator in reproduzierbaren Pipelines.
+Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 3583$ ergibt $\epsilon \approx 0{,}0252$. Der Wert zeigt, dass trotz kleiner Datenlücken eine hohe Integrität erreicht wird. Die Verlustfunktion eignet sich insbesondere als Frühwarnsystem (Verlust von Quellen, unplausible Score-Sprünge) und als zusätzlicher Qualitätsindikator in reproduzierbaren Pipelines.
 
 ### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:4-3-7}
 
-Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen in Kapitel \hyperref[sec:4-4]{4.4}.
+Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen des folgenden Abschnitts.
+
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
 
 ## 4.5 Reflexion der Methode {#sec:4-5}
