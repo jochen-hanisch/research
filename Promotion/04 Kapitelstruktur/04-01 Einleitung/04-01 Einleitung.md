@@ -4,6 +4,11 @@
 
 Die aktuellen Novellierungen in der Ausbildung der Gesundheitsberufe zielen darauf ab, nicht nur die gesetzlichen Rahmenbedingungen für Gesundheitsberufe anzupassen, sondern die Kompetenzanforderungen zu erweitern und zu präzisieren. So wird besonderer Wert auf die Förderung fachspezifischer, sozialer und methodischer Kompetenzen gelegt, die sich an den wachsenden Herausforderungen im Gesundheitswesen orientieren. Dies spiegelt sich sowohl in den neuen Ausbildungsrichtlinien als auch in den erweiterten Kompetenzprofilen der jeweiligen Berufsgruppen wider [@pflegekammer_nrw_weiterbildungsordnung_2023; @bundesrepublik_deutschland_gesetz_2023].
 
+- Erkenntnisinteresse skizzieren (Kapitel 1.1).
+- Forschungsstand und Forschungslücke prägnant benennen.
+- Herleitung der Forschungsfragen vorbereiten.
+
+
 ## 1.1	Erkenntnisinteresse, Problemstellung und Relevanz {#sec:1-1}
 
 Die Ausbildung im Rettungsdienst wurde durch das Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters (NotSanG) zum 01.01.2014 gem. § 5 (1) NotSanG [-@bundesrepublik_deutschland_gesetz_2023] von einer zweijährigen zu einer dreijährigen Qualifikation geändert. Der Gesetzgeber transformierte hierdurch die Tätigkeit weg von einem Assistenzberuf hin zu einer beruflichen Qualifikation, in deren Mittelpunkt das kompetenzorientierte und selbstverantwortliche Handeln nach § 4 NotSanG [-@bundesrepublik_deutschland_gesetz_2023] als Ausbildungsziel definiert wurde. Der Referentenentwurf [-@bundesgesundheitsministerium_referentenentwurf_2012] zum NotSanG verdeutlicht die intendierte Absicht [@bundesgesundheitsministerium_referentenentwurf_2012, Seite 44-45]: Die Auszubildenden sollen insbesondere interdisziplinäre Fachlichkeit erlangen, die zur selbstständigen Lösung aller berufsrelevanter Handlungen sowie deren kritischen und selbstreflektiven Ergebnisbeurteilungen notwendig erscheinen.
