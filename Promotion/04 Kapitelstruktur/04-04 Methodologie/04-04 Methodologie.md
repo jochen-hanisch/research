@@ -57,14 +57,11 @@ Methodische Konsequenzen der Forschungsfragen
 - **Begründung**:
   - Die Komplexität des digitalen Bildungsraums erforderte eine Methodenkombination, um die Forschungsfragen adäquat zu beantworten.
 
+## 4.2 Datenerhebung {#sec:4-2}
 
-## 4.2 Forschungsdesign und Datenerhebung {#sec:4-2}
+### 4.2.1 Systematische Literaturrecherche {#sec:4-2-1}
 
-### 4.2.1 Systematische Literaturanalyse {#sec:4-2-1}
-
-
-
-Die systematische Literaturanalyse bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
+Die systematische Literaturrecherche bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
 
 Bemerkenswert ist, dass die Auswahl nicht durch subjektives Eingreifen, thematische Vorannahmen oder bewusste Schwerpunktsetzungen erfolgte, sondern ausschließlich durch algorithmisch rekonstruierte Dichtefelder innerhalb der deduktiv-numerischen Vektorräume. Die Aussagen, die aus diesem Literaturfeld hervorgehen, können somit als besonders stabil, kohärent und epistemisch tragfähig gewertet werden - sie stellen gewissermaßen den empirischen Kern des aktuellen Diskurses dar.
 
@@ -92,7 +89,7 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores \label{ta
 
 <<<Abbildung Zeitreihe einfügen>>>
 
-Die Visualisierung zeigt eine Kombination aus zwei zentralen Metriken für deine Analysequalität:
+Die Visualisierung zeigt eine Kombination aus zwei zentralen Metriken für die spätere Analysequalität:
     Silhouette-Scores (blaue Linie, linke Y-Achse): Ein Maß für die Kohärenz und Trennschärfe der Clusterbildung.
     Fallzahlen n (graue Balken, rechte Y-Achse): Anzahl der analysierten Einträge pro Jahr.
 
@@ -140,18 +137,15 @@ Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es,
     wissenschaftliche Aussagen systematisch zu begründen,
     und die methodische Qualität retrospektiv zu validieren.
 
-## 4.3 Datenanalyse {#sec:4-3}
+### 4.2.2 Systematisches Literaturmanagement {#sek:4-2-2}
 
+Zur Vorbereitung der Datenanalyse wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die folgende Tabelle zeigt die vollständige Struktur der Suchordner:
 
+Anhang X: Struktur der Suchordner in Zotero nach semantischen Ebenen
 
-### 4.3.1 Von klassischen Auswertungsverfahren zur KI-gestützten Analyse {#sec:4-3-1}
+Die folgende Tabelle dokumentiert die finale Systematik der Zotero-Suchordner. Diese ist entlang primärer, sekundärer und tertiärer Suchbegriffe gegliedert. Jeder Ordner beinhaltet strukturierte Suchen nach Eintragstypen und thematischen Schlagwörtern. Die ID der Ordner (z. B. `S:01`) korrespondiert mit der Ordnerstruktur in Zotero und wurde zur Tag-Kodierung verwendet.
 
-Zur systematischen Literaturauswertung wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die folgende Tabelle zeigt die vollständige Struktur der Suchordner:
-## Anhang X: Struktur der Suchordner in Zotero nach semantischen Ebenen
-
-Die folgende Tabelle dokumentiert die finale Systematik der Zotero-Suchordner. Diese ist entlang **primärer**, **sekundärer** und **tertiärer Suchbegriffe** gegliedert. Jeder Ordner beinhaltet strukturierte Suchen nach Eintragstypen und thematischen Schlagwörtern. Die ID der Ordner (z. B. `S:01`) korrespondiert mit der Ordnerstruktur in Zotero und wurde zur Tag-Kodierung verwendet.
-
-## Primäre Suchbegriffe
+Primäre Suchbegriffe
 
 Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 
@@ -164,7 +158,7 @@ Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 
 Die primären Suchbegriffe adressieren den unmittelbaren Forschungsgegenstand. Sie bündeln alle Kombinationen, in denen das LMS oder der digitale Bildungsraum direkt benannt ist. Für diese Cluster gilt eine hohe Sichtungsquote (mindestens 80 %), weil sie die Kernbefunde zur Wirkweise des eingesetzten Systems liefern und den Ausgangspunkt für die Ableitung der Forschungsunterfragen bilden.
 
-## Sekundäre Suchbegriffe
+Sekundäre Suchbegriffe
 
 Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 
@@ -179,7 +173,7 @@ Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 
 Sekundäre Begriffe erweitern den Blick auf didaktische und organisatorische Kontexte. Sie erfassen hybride Arrangements, mediale Settings und bildungstechnologische Konzepte, die das LMS funktional einbetten. Die Sichtungsquote liegt hier bei 50 %, weil diese Ebene vor allem der Kontextualisierung und der Identifikation flankierender Mechanismen dient.
 
-## Tertiäre Suchbegriffe
+Tertiäre Suchbegriffe
 
 Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
@@ -190,16 +184,29 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
+## 4.3 Datenanalyse {#sec:4-3}
 
+### 4.3.1 Von klassischen Auswertungsverfahren zur KI-gestützten Analyse {#sec:4-3-1}
 
+Analyse 1. Ordnung
 
+### 4.3.2 KI-gestützte Dokumentenanalyse (P‑QIA) {#sec:4-3-2}
 
-+++++todo+++++
-ja, das, was wir hier machen, kann als eine Form der semantischen Analyse betrachtet werden. Semantische Analyse umfasst die Untersuchung und Interpretation der Bedeutungen von Texten und ihrer Bestandteile sowie der Beziehungen zwischen diesen Bedeutungen. In diesem Kontext analysieren wir die Inhalte wissenschaftlicher Studien, extrahieren zentrale Themen, Argumentationslinien und Ergebnisse und ordnen sie spezifischen Forschungsfragen zu. Dies beinhaltet das Verständnis und die Interpretation der zugrunde liegenden Bedeutungen und Konzepte sowie deren Relevanz und Beziehungen zu den Forschungsfragen des Exposés.
+Analyse 2. Ordung
 
-### 4.3.2 KI-gestützte Dokumentenanalyse (P-QIA) {#sec:4-3-2}
+Die hier eingesetzte Vorgehensweise stellt eine spezifische Form semantischer Analyse dar. Unter semantischer Analyse wird die regelgeleitete Erschließung, Verdichtung und relationale Zuordnung bedeutungstragender Einheiten (Konzepte, Argumentationssegmente, theoretische Konstrukte) innerhalb wissenschaftlicher Texte verstanden. Zentral sind dabei (a) die Identifikation thematischer Kerne, (b) die Prüfung ihrer Relevanz für die Forschungsunterfragen und (c) die Ableitung strukturierter, vergleichbarer Interpretationsartefakte.
 
-Die KI-gestützte Dokumentenanalyse erweitert die klassische Dokumentenanalyse nach Döring [@doring_forschungsmethoden_2023] um probabilistische, GPT-basierte Strukturierungen. Während tradierten Methodenhandbüchern ein solcher Ansatz noch fehlt, verweisen aktuelle Hybrid-Intelligence-Studien darauf, dass Large Language Models (LLMs) Reflexions- und Analyseprozesse gezielt vertiefen können [-@tang_using_2024, Seite 2-3, 6-8]. Dieses Verfahren dient daher als methodische Innovation, um die Literaturbasis entlang der Forschungsunterfragen konsistent zu erfassen.
+Die KI-gestützte Dokumentenanalyse erweitert die klassische Dokumentenanalyse nach Döring [@doring_forschungsmethoden_2023] um probabilistische, embedding‑basierte Strukturierungsschritte innerhalb der probabilistisch‑qualitativen Inhaltsanalyse (P‑QIA). Large Language Models (LLMs) fungieren nicht als autonome Erkenntnissubjekte, sondern als instrumentelle Strukturierungsinstanzen zur Segmentierung, semantischen Vektorisierung und Clusterindikation. Aktuelle Hybrid-Intelligence-Studien weisen darauf hin, dass LLMs analytische Reflexionsprozesse vertiefen und kategoriale Kohärenz erhöhen können [-@tang_using_2024, Seite 2-3, 6-8].
+
+Methodische Kernelemente:
+- Deduktive Rahmung durch Forschungsunterfragen (FU1–FU7).
+- Segmentierung der Dokumente in Sinnabschnitte (1–3 Sätze).
+- Transformation der Segmente in hochdimensionale Vektorrepräsentationen (Embeddings).
+- k-means-Clustering zur semantischen Strukturprüfung; Gütebewertung über Silhouette-Koeffizienten.
+- GPT-gestützte Label-Vorschläge; theoretische Validierung und Revision durch die Forschende.
+- Ableitung eines konsistenten Kodiermanuals (Definitionen, Regeln, Ankerbeispiele).
+
+Die Kombination aus deduktiver Fragengelenktheit und probabilistischer Validierung minimiert subjektive Streuung, erhöht Reproduzierbarkeit und unterstützt eine präzise Rückbindung der extrahierten Bedeutungsstrukturen an die Forschungslogik. Damit entsteht ein methodisch kontrollierter Integrationsrahmen für umfangreiche, thematisch heterogene Literaturkorpora. 
 
 Die Auswertung folgt einem dreistufigen Ordnungsmodell, das in der Notationslogik der Arbeit als Analysen 1. bis 3. Ordnung beschrieben wird:
 
@@ -215,25 +222,20 @@ Die KI-gestützte Analyse zeigte sich als zuverlässig bei der Identifikation th
 
 Dieses Beispiel verdeutlicht, wie zuverlässig die KI-gestützte Analyse über eine rein syntaktische Stichwortsuche hinausgeht und in der Lage ist, den inhaltlichen Kontext wissenschaftlicher Arbeiten zu erfassen. Dadurch wird eine gezielte Selektion relevanter Quellen ermöglicht, während zugleich potenziell irreführende Ergebnisse aus der Stichwortsuche systematisch überprüft und ausgeschlossen werden können.
 
-Vergleich der Kodierergebnisse zwischen Mensch und KI
-
-Ein zentraler Aspekt der qualitativen Clustervalidierung ist der Vergleich zwischen menschlichen Kodierungen und KI-gestützten Inhaltsanalysen. Um die methodische Präzision beider Ansätze zu bewerten, wurden die Silhouette-Scores der jeweiligen Analysen berechnet. Die Ergebnisse zeigen deutliche Unterschiede in der Trennschärfe der Cluster.
-
-**Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung**
+**Vergleich der Kodierergebnisse zwischen Mensch und KI**
+(Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung)
 
 Zur Überprüfung der methodischen Präzision und Trennschärfe von KI-gestützten Analysen im Vergleich zu menschlichen Kodierungen wurde die qualitative Clustervalidierung auf eine klassisch kodierte Studie von Kerman et al. [-@kerman_online_2024] angewendet. Ziel war es, die Clusterstruktur beider Verfahren zu vergleichen und Unterschiede in der methodischen Konsistenz zu identifizieren.
 
-Die Analyse ergab, dass die KI-gestützte Analyse einen Silhouette-Score von 0.92 erreichte, während die menschliche Kodierung lediglich 0.62 betrug. Dies verdeutlicht die höhere methodische Präzision und Trennschärfe der KI-gestützten Analyse. Während die manuelle Kodierung stärkere Überschneidungen zwischen Kategorien aufwies, erzeugte die KI-gestützte Analyse klar abgegrenzte Clusterstrukturen mit geringerem inhaltlichem Überlapp.
-Die Ergebnisse zeigen, dass KI-gestützte Inhaltsanalysen eine objektivere und methodisch konsistentere Alternative zur klassischen Kodierung darstellen können. Die qualitative Clustervalidierung bestätigt, dass menschliche Kodierungsprozesse anfällig für subjektive Einflüsse sind und eine systematische Überprüfung erfordern. Die methodische Stabilität der KI-Analyse verdeutlicht die Notwendigkeit, qualitative Inhaltsanalysen durch datenbasierte Validierung zu ergänzen.
+Ein zentraler Aspekt der qualitativen Clustervalidierung ist der Vergleich zwischen menschlichen Kodierungen und KI-gestützten Inhaltsanalysen. Um die methodische Präzision beider Ansätze zu bewerten, wurden die Silhouette-Scores der jeweiligen Analysen berechnet. Die Ergebnisse zeigen deutliche Unterschiede in der Trennschärfe der Cluster.
 
+Die Ergebnisse zeigen, dass KI-gestützte Inhaltsanalysen eine objektivere und methodisch konsistentere Alternative zur klassischen Kodierung darstellen können. Die qualitative Clustervalidierung bestätigt, dass menschliche Kodierungsprozesse anfällig für subjektive Einflüsse sind und eine systematische Überprüfung erfordern. Die methodische Stabilität der KI-Analyse verdeutlicht die Notwendigkeit, qualitative Inhaltsanalysen durch datenbasierte Validierung zu ergänzen.
 
 Um die methodische Präzision und Trennschärfe von KI-gestützten Analysen im Vergleich zu menschlichen Kodierungen zu überprüfen, wurde die qualitative Clustervalidierung erneut auf die Studie von Kerman et al. [-@kerman_online_2024] angewendet. Absicht war der Vergleich der Clusterstruktur zwischen menschlicher Kodierung mit der KI-gestützten Analyse und mögliche Unterschiede in der methodischen Konsistenz zu identifizieren.
 
-Die Analyse ergab, dass die KI-gestützte Analyse einen Silhouette-Score von 0.92 erreichte, während die menschliche Kodierung einen Wert von 0.62 aufwies. Dies zeigt, dass die KI-gestützte Analyse eine deutlich höhere Trennschärfe aufweist und methodisch konsistenter arbeitet. Während die menschlichen Kodierungen inhaltliche Überschneidungen aufwiesen und Kategorien nicht immer klar voneinander abgrenzbar waren, erzeugte die KI-gestützte Analyse präzisere Clusterstrukturen mit geringeren inhaltlichen Überlappungen (vgl. . 
+Die KI-gestützte Analyse erreichte einen Silhouette-Score von $0.92$, während die menschliche Kodierung nur einen Wert von $0.62$ aufwies. Dies bestätigt, dass KI-gestützte Inhaltsanalysen eine höhere methodische Präzision und Trennschärfe aufweisen als klassische manuelle Kodierungen. Die qualitative Clustervalidierung wurde auf eine klassisch kodierte Studie von Kerman et al. angewendet, um deren methodische Trennschärfe systematisch zu überprüfen und mit einer KI-gestützten Analyse zu vergleichen. Dabei zeigte sich, dass die KI-Analyse klarere Clusterstrukturen erzeugte, während die menschliche Kodierung stärkere Überschneidungen zwischen den Kategorien aufwies. Ein hoher Silhouette-Score deutet auf eine starke Gruppierung der Datenpunkte hin, während ein niedrigerer Wert auf Überlappungen zwischen den Kategorien hindeutet.
 
 Dieses Ergebnis bestätigt, dass KI-gestützte Inhaltsanalysen methodisch präziser sein können als menschliche Kodierungen. Die qualitative Clustervalidierung zeigt auf, dass menschliche Kodierungsprozesse eine größere Subjektivität aufweisen und daher eine systematische Überprüfung erforderlich ist. Die methodische Stabilität der KI-Analyse verdeutlicht, dass eine datengestützte Validierung menschlicher Kodierungen notwendig ist, um eine methodisch fundierte qualitative Inhaltsanalyse zu gewährleisten.
-
-Die KI-gestützte Analyse erreichte einen Silhouette-Score von 0.92, während die menschliche Kodierung nur einen Wert von 0.62 aufwies. Dies bestätigt, dass KI-gestützte Inhaltsanalysen eine höhere methodische Präzision und Trennschärfe aufweisen als klassische manuelle Kodierungen. Die qualitative Clustervalidierung wurde auf eine klassisch kodierte Studie von Kerman et al. angewendet, um deren methodische Trennschärfe systematisch zu überprüfen und mit einer KI-gestützten Analyse zu vergleichen. Dabei zeigte sich, dass die KI-Analyse klarere Clusterstrukturen erzeugte, während die menschliche Kodierung stärkere Überschneidungen zwischen den Kategorien aufwies. Ein hoher Silhouette-Score deutet auf eine starke Gruppierung der Datenpunkte hin, während ein niedrigerer Wert auf Überlappungen zwischen den Kategorien hindeutet.
 
 **Testansätze**
 
@@ -259,8 +261,6 @@ Die Ergebnisse zeigen, dass die qualitative Clustervalidierung eine objektive Be
 
 Gleichzeitig bleibt zu beachten, dass menschliche Kodierungen theoretische Konzepte und interpretative Nuancen einbeziehen können, die über rein datenbasierte Analysen hinausgehen. Diese Erkenntnisse unterstreichen das Potenzial der qualitativen Clustervalidierung als standardisiertes Verfahren zur Überprüfung methodischer Trennschärfe. Langfristig könnte sie als ergänzende Methode zur Qualitätssicherung klassischer Kodierungsverfahren etabliert werden. In der qualitativen Forschung könnte daher ein hybrider Ansatz sinnvoll sein, bei dem KI-gestützte Analysen zur Strukturierung und Validierung menschlicher Kodierungen eingesetzt werden.
 
-### 4.3.2 KI-gestützte Dokumentenanalyse (P-QIA) {#sec:4-3-2}
-
 Einordnung und Zielsetzung
 
 Die vorliegende Arbeit knüpft an die Tradition der qualitativen Inhaltsanalyse an, wie sie insbesondere von Mayring ausgearbeitet wurde, und entwickelt diese zu einer probabilistisch‑qualitativen Inhaltsanalyse (P‑QIA) weiter. Ziel der P‑QIA ist es, die regelgeleitete, theoriegeleitete und transparente Kategorienbildung der klassischen qualitativen Inhaltsanalyse mit probabilistischen, vektorraum‑ und clusterbasierten Verfahren zu verbinden, um die Gütekriterien qualitativer Forschung (Nachvollziehbarkeit, Transparenz, Reliabilität) unter den Bedingungen großer, komplexer Textkorpora und KI‑Unterstützung weiterzuentwickeln.
@@ -280,7 +280,7 @@ Die qualitative Inhaltsanalyse nach Mayring ist ein systematisches, regelgeleite
 - Überprüfung und Revision der Kategorien im Verlauf der Analyse
 - transparente Dokumentation der Analyseschritte
 
-Mayring (2015) unterscheidet unterschiedliche Grundformen (zusammenfassende, explizierende, strukturierende Inhaltsanalyse), die auf das jeweilige Erkenntnisinteresse zugeschnitten werden. Die hier zugrunde gelegte Arbeit orientiert sich primär an der strukturierenden und zusammenfassenden Inhaltsanalyse, da für alle Forschungsunterfragen (FU1–FU7) vorhandene Analysen verdichtet, thematisch gebündelt und theoriebezogen interpretiert werden.
+Mayring [-@mayring_qualitative_2010; -@mey_qualitative_2020; -@mayring_qualitative_2022] unterscheidet unterschiedliche Grundformen (zusammenfassende, explizierende, strukturierende Inhaltsanalyse), die auf das jeweilige Erkenntnisinteresse zugeschnitten werden. Die hier zugrunde gelegte Arbeit orientiert sich primär an der strukturierenden und zusammenfassenden Inhaltsanalyse, da für alle Forschungsunterfragen (FU1–FU7) vorhandene Analysen verdichtet, thematisch gebündelt und theoriebezogen interpretiert werden.
 
 Kategorienbildung und Gütekriterien
 
