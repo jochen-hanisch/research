@@ -12,7 +12,7 @@ Während das quantitative Paradigma einen linear-strukturierten Forschungsprozes
 
 ### 4.1.1 Vorüberlegungen zur Methodologie {#sec:4-1-1}
 
-Methodisch herausfordernd in dieser Arbeit ist die Auflösung eines Dilemmas durch Verknüpfung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Quantitative Daten, bspw. aus dem Eye-Tracking-Versuch und der begleitenden Umfrage, und qualitative Daten, bspw. die Ergebnisse aus der systematischen Literaturanalyse, sind miteinander in Bezug zu setzen, um übergeordnete Erkenntnisse zu generieren. Die Verwendung der beiden Paradigmen wird durch die Intention der Hauptforschungsfrage legitimiert, die Wissen um Muster und Regelmäßigkeiten im LMS erzeugen möchte. Insbesondere das vorgefundene Spannungsfeld von Subjektivität (Wahrnehmung der Akteure) und Objektivität (Kompetenzentwicklungssimulation) erfordert eine genauere methodische Betrachtung. Die sonst eher streng zugeordnete Forschungsmethodik, das quantitative Paradigma als deduktiv und das qualitative Paradigma als induktiv, greift hier zu kurz, da diese strikte Trennung die komplexe Wirkung des Forschungsgegenstands nicht abbilden kann [@reinders_uberblick_2022, Seite 157].
+Methodisch herausfordernd in dieser Arbeit ist die Auflösung eines Dilemmas durch Verknüpfung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Quantitative Daten, bspw. aus dem Eye-Tracking-Versuch und der begleitenden Umfrage, und qualitative Daten, bspw. die Ergebnisse aus der systematischen Literaturanalyse, sind miteinander in Bezug zu setzen, um übergeordnete Erkenntnisse zu generieren. Die Verwendung der beiden Paradigmen wird durch die Intention der Hauptforschungsfrage legitimiert, die Wissen um Muster und Regelmäßigkeiten im Learning Management System (LMS) erzeugen möchte. Insbesondere das vorgefundene Spannungsfeld von Subjektivität (Wahrnehmung der Akteure) und Objektivität (Kompetenzentwicklungssimulation) erfordert eine genauere methodische Betrachtung. Die sonst eher streng zugeordnete Forschungsmethodik, das quantitative Paradigma als deduktiv und das qualitative Paradigma als induktiv, greift hier zu kurz, da diese strikte Trennung die komplexe Wirkung des Forschungsgegenstands nicht abbilden kann [@reinders_uberblick_2022, Seite 157].
 
 Forschungstätigkeiten in Gesundheitskontexten stehen zudem vor der Herausforderung, unterschiedliche methodische Strömungen diverser Disziplinen für sich einzunehmen. Insbesondere der Umgang mit tradierten Forschungsparadigmen muss angesichts der Komplexität intradisziplinärer Forschungstätigkeiten beantwortet werden. Gerade Komplexität, vielfältige Disziplinen und unterschiedliche Ressourcen sind miteinander in Einklang zu bringen. Damit dies gelingt, werden in dieser Arbeit die jeweiligen Stärken bestehender Forschungsmethoden in einen neuen, interdisziplinären und generativen Kontext gestellt [@niederberger_qualitative_2021, Seite 4-5].
 
@@ -61,6 +61,8 @@ Methodische Konsequenzen der Forschungsfragen
 ## 4.2 Forschungsdesign und Datenerhebung {#sec:4-2}
 
 ### 4.2.1 Systematische Literaturanalyse {#sec:4-2-1}
+
+
 
 Die systematische Literaturanalyse bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
 
@@ -140,13 +142,59 @@ Die Kombination aus Silhouette-Score und Fallzahlen erlaubt es,
 
 ## 4.3 Datenanalyse {#sec:4-3}
 
+
+Zur systematischen Literaturauswertung wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die folgende Tabelle zeigt die vollständige Struktur der Suchordner:
+## Anhang X: Struktur der Suchordner in Zotero nach semantischen Ebenen
+
+Die folgende Tabelle dokumentiert die finale Systematik der Zotero-Suchordner. Diese ist entlang **primärer**, **sekundärer** und **tertiärer Suchbegriffe** gegliedert. Jeder Ordner beinhaltet strukturierte Suchen nach Eintragstypen und thematischen Schlagwörtern. Die ID der Ordner (z. B. `S:01`) korrespondiert mit der Ordnerstruktur in Zotero und wurde zur Tag-Kodierung verwendet.
+
+## Primäre Suchbegriffe
+
+Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
+
+| **Ordner-ID** | **Begriff**                | **Synonyme / Varianten**                  |
+| ------------- | -------------------------- | ----------------------------------------- |
+| `S:01`        | Learning Management System | LMS, Lernmanagementsystem, Kursplattform  |
+| `S:02`        | Online-Lernplattform       | Lernplattform, Digitale Plattform         |
+| `S:03`        | Online-Lernumgebung        | Virtuelle Lernumgebung, Digitale Umgebung |
+| `S:05`        | E-Learning                 | Elektronisches Lernen, Digitales Lernen   |
+
+Die primären Suchbegriffe adressieren den unmittelbaren Forschungsgegenstand. Sie bündeln alle Kombinationen, in denen das LMS oder der digitale Bildungsraum direkt benannt ist. Für diese Cluster gilt eine hohe Sichtungsquote (mindestens 80 %), weil sie die Kernbefunde zur Wirkweise des eingesetzten Systems liefern und den Ausgangspunkt für die Ableitung der Forschungsunterfragen bilden.
+
+## Sekundäre Suchbegriffe
+
+Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
+
+| **Ordner-ID** | **Begriff**         | **Synonyme / Varianten**                             |
+| ------------- | ------------------- | ---------------------------------------------------- |
+| `S:04`        | MOOC                | Massive Open Online Course                           |
+| `S:06`        | Bildungstechnologie | EdTech, Technologie im Bildungssektor                |
+| `S:07`        | Digitale Medien     | Medienkompetenz, Medientechnologie                   |
+| `S:08`        | Blended Learning    | Integriertes Lernen, Hybridunterricht                |
+| `S:09`        | Digitales Lernen    | Digital Learning (dt.), technologiegestütztes Lernen |
+| `S:12`        | Digital Learning    | Digitales Lernen (engl.), tech-enhanced learning     |
+
+Sekundäre Begriffe erweitern den Blick auf didaktische und organisatorische Kontexte. Sie erfassen hybride Arrangements, mediale Settings und bildungstechnologische Konzepte, die das LMS funktional einbetten. Die Sichtungsquote liegt hier bei 50 %, weil diese Ebene vor allem der Kontextualisierung und der Identifikation flankierender Mechanismen dient.
+
+## Tertiäre Suchbegriffe
+
+Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
+
+| **Ordner-ID** | **Begriff**     | **Synonyme / Varianten**                |
+| ------------- | --------------- | --------------------------------------- |
+| `S:10`        | Online Lernen   | Lernen im Netz, Web-basiertes Lernen    |
+| `S:11`        | Online Learning | Online-based education, remote learning |
+
+Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
+
 ### 4.3.1 Klassische Auswertungsverfahren {#sec:4-3-1}
 
 ### 4.3.2 KI-gestützte Dokumentenanalyse
 
++++++todo+++++
+ja, das, was wir hier machen, kann als eine Form der semantischen Analyse betrachtet werden. Semantische Analyse umfasst die Untersuchung und Interpretation der Bedeutungen von Texten und ihrer Bestandteile sowie der Beziehungen zwischen diesen Bedeutungen. In diesem Kontext analysieren wir die Inhalte wissenschaftlicher Studien, extrahieren zentrale Themen, Argumentationslinien und Ergebnisse und ordnen sie spezifischen Forschungsfragen zu. Dies beinhaltet das Verständnis und die Interpretation der zugrunde liegenden Bedeutungen und Konzepte sowie deren Relevanz und Beziehungen zu den Forschungsfragen des Exposés.
 
-<<<Primäranalyse, Sekundäranlyse und P-QIA einfügen>>>
-
++++++Primäranalyse, Sekundäranlyse und P-QIA einfügen+++++
 KI-gestützte Dokumentenanalyse (Primäranalyse, Sekundäranlyse und P-QIA)
 - Systematische Dokumentenanalyse:
 
@@ -163,9 +211,9 @@ Ein vergleichbarer Ansatz wird von Yu et al. [-@tang_using_2024, Seite 2-3, 6-8]
 
 Die Entwicklung von Kategorien und Schlagworten erfolgt in einem iterativen Prozess, bei dem KI-gestützte Verfahren zur Validierung und Optimierung der Kategorisierung genutzt werden. Während klassische systematische Literaturanalyse-Ansätze auf manueller Kodierung basieren, erlaubt der Einsatz von KI eine dynamische Anpassung der Suchbegriffe, Cluster-Bildung und Korrelationen zwischen verschiedenen Forschungsfragen und Themenfeldern. Yu et al. [-@tang_using_2024] betonen, dass derartige hybride Systeme dazu beitragen können, unentdeckte Zusammenhänge sichtbar zu machen und neue Forschungsperspektiven zu eröffnen. In dieser Arbeit wird dieser Gedanke erweitert, indem nicht nur die Strukturierung, sondern auch die datengetriebene Absicherung von Kategorien durch KI erfolgt, um eine methodisch belastbare Grundlage für die Forschungsergebnisse zu schaffen.
 
-Die KI-gestützte Analyse zeigte sich als zuverlässig bei der Identifikation thematisch unpassender Forschungsarbeiten, selbst wenn die automatisierte Stichwortsuche in Zotero zunächst eine positive Zuordnung ergab und die identifizierten Artikel zunächst in die jeweilig entsprechenden Zotero-Suchordner hinzufügte. Ein anschauliches Beispiel hierfür ist die zur Analyse bereitgestellte Studie von Westlake und Mahan [-@westlake_international_2023], die sich mit BDSM-Praktiken, deren Demografie und Motivationen befasst. Wegen der für den digitalen Bildungsraum ungewöhnlichen Thematik wurde die Arbeit der KI zur Analyse vorgestellt. Da der Forschungsschwerpunkt dieser Arbeit außerhalb des Kontexts digitaler Bildungsräume liegt, weist die KI-Analyse darauf hin, dass sie für die Untersuchung von Learning-Management-Systemen und digitalem Lernen in Gesundheitsberufen nicht relevant ist. Die Analyse führt dies folgendermaßen aus:
+Die KI-gestützte Analyse zeigte sich als zuverlässig bei der Identifikation thematisch unpassender Forschungsarbeiten, selbst wenn die automatisierte Stichwortsuche in Zotero zunächst eine positive Zuordnung ergab und die identifizierten Artikel zunächst in die jeweilig entsprechenden Zotero-Suchordner hinzufügte. Ein anschauliches Beispiel hierfür ist die zur Analyse bereitgestellte Studie von Westlake und Mahan [-@westlake_international_2023], die sich mit BDSM-Praktiken, deren Demografie und Motivationen befasst. Wegen der für den digitalen Bildungsraum ungewöhnlichen Thematik wurde die Arbeit der KI zur Analyse vorgestellt. Da der Forschungsschwerpunkt dieser Arbeit außerhalb des Kontexts digitaler Bildungsräume liegt, weist die KI-Analyse darauf hin, dass sie für die Untersuchung von LMSen und digitalem Lernen in Gesundheitsberufen nicht relevant ist. Die Analyse führt dies folgendermaßen aus:
 
-"Es scheint, dass die hochgeladene Studie von Westlake und Mahan [-@westlake_international_2023] nicht direkt in den Rahmen digitaler Bildungsräume passt. Die Arbeit befasst sich mit BDSM-Praktiken, deren Demografie und Motivationen, während dein Fokus auf Learning-Management-Systemen und digitalem Lernen in Gesundheitsberufen liegt. Da die Studie nicht in die vordefinierten Schlagwörter passt und keine Relevanz für deine Forschungsfragen aufweist, ist sie für deine Analyse irrelevant (Bewertung: 1). Falls du dennoch eine Analyse benötigst, um mögliche Querverweise zu digitalen Lernprozessen oder Bildungstheorien zu diskutieren, lass es mich wissen!"
+"Es scheint, dass die hochgeladene Studie von Westlake und Mahan [-@westlake_international_2023] nicht direkt in den Rahmen digitaler Bildungsräume passt. Die Arbeit befasst sich mit BDSM-Praktiken, deren Demografie und Motivationen, während dein Fokus auf LMS (LMS)en und digitalem Lernen in Gesundheitsberufen liegt. Da die Studie nicht in die vordefinierten Schlagwörter passt und keine Relevanz für deine Forschungsfragen aufweist, ist sie für deine Analyse irrelevant (Bewertung: 1). Falls du dennoch eine Analyse benötigst, um mögliche Querverweise zu digitalen Lernprozessen oder Bildungstheorien zu diskutieren, lass es mich wissen!"
 
 Dieses Beispiel verdeutlicht, wie zuverlässig die KI-gestützte Analyse über eine rein syntaktische Stichwortsuche hinausgeht und in der Lage ist, den inhaltlichen Kontext wissenschaftlicher Arbeiten zu erfassen. Dadurch wird eine gezielte Selektion relevanter Quellen ermöglicht, während zugleich potenziell irreführende Ergebnisse aus der Stichwortsuche systematisch überprüft und ausgeschlossen werden können.
 
