@@ -12,7 +12,7 @@ Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es s
 
 Die detaillierte Verteilung der 797 ausgewerteten Analysen auf die einzelnen Forschungsunterfragen (FU1–FU7) ist in Kapitel 3, Quellenanalyse, dokumentiert. Für die Ergebnisdarstellung werden die Forschungsunterfragen zu vier Kernbereichen gebündelt:
 
-- **Kernarchitektur (FU3, FU4a, FU5)** – mit rund 58 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des LMS).  
+- **Kernarchitektur (FU3, FU4a, FU5)** – mit rund 58 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des Learning Management System (LMS)).  
 - **Nutzungserleben & Gestaltung (FU1, FU2a, FU4b)** – knapp 30 % der Analysen zu Akzeptanz, subjektivem Lernerleben und technisch-gestalterischen Mechanismen.  
 - **Kompetenzorientierung (FU6)** – gut 8 % der Analysen zur Rolle des LMS als Kompetenzerwerbssystem.  
 - **Rollen & Strategien (FU2b, FU7)** – rund 4 % der Analysen, die vertiefende Einsichten in Lehrendensicht und strategische Gestaltungsentscheidungen liefern.
