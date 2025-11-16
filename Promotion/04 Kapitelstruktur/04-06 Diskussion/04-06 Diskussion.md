@@ -16,7 +16,7 @@ Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und
 
 ## 6.3 Praktische und gestalterische Implikationen {#sec:6-3}
 
-- Konsequenzen für die didaktische und operative Gestaltung von LMS.
+- Konsequenzen für die didaktische und operative Gestaltung von LMS. 
 - Hinweise für Lehrpraxis, Kompetenzförderung und technologische Entwicklung.
 
 ## 6.4 Methodische Reflexion und Limitationen {#sec:6-4}
