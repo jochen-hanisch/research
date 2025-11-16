@@ -29,10 +29,9 @@ In den o.a. Ausführungen wird die Notwendigkeit verwiesen, individuelle Ausbild
 Wenn Schule nicht die insgesamte Ausbildungsverantwortung übernimmt, sondern der Ausbildungsträger sich ihrer als Erfüllungsgehilfin bedient, ergibt sich daraus im rechtlichen Sinne eine funktionale Verpflichtung zum Einsatz eines digitalen Koordinations- und Organisationsinstruments. Der Ausbildungsträger bleibt nach obiger Lesart haftungsrechtlich in der Verantwortung und durch den Einsatz des LMS durch die Schule übernimmt diese einen Teil genau dieser Verantwortlichkeit, ohne gleichzeitig selbst in die Trägerrolle zu wechseln. Durch den Einsatz eines digitalen Systems können alle rechtlich geforderten Dokumentations- und Nachweispflichten beispielsweise durch Logfiles, Beitragszeiten in Foren und Berichtsabfragen auch in Echtzeit gewährleistet werden. Hierin unterscheidet sich ein Learning Management System signifikant von anderen analogen oder konventionellen Lösungen.
 Der bisherigen Argumentation folgend ist der Einsatz des hier beschriebenen Learning Management Systems als ausbildungsrechtlich notwendige Infrastruktur zur Erfüllung schulischer Aufgaben zu verstehen. Die gesetzlich übertragene Verantwortung zur Koordination und Organisation der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern lässt sich ohne ein entsprechendes System kaum mehr realisieren, insbesondere unter Berücksichtigung heutiger Möglichkeiten im digitalen Bildungsraum.
 
-
 ### 3.1.2 Didaktisch-strukturelle Verortung {#sec:3-1-2}
 
-Hier weiter mit Argumentation aus Kapitel 2.1 fortführend.
+Hier weiter mit Argumentation aus \hyperref[sec:2-1]{Kapitel 2.1} fortführend.
 
 Didaktische Rahmung
 Schule = nicht nur juristische Instanz, sondern auch didaktisches Konstrukt
