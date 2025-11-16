@@ -186,412 +186,146 @@ Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, 
 
 ## 4.3 Datenanalyse {#sec:4-3}
 
-### 4.3.1 Von klassischen Auswertungsverfahren zur KI-gestützten Analyse {#sec:4-3-1}
+### 4.3.1 Grundlogik der Datenanalyse: Analysen erster bis dritter Ordnung {#sec:4-3-1}
 
-Analyse 1. Ordnung
+Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmodell, das deduktive Kategorienbildung mit probabilistischer Validierung verschränkt. Damit bleibt jeder Schritt eng an die Forschungsunterfragen gekoppelt und gleichzeitig anschlussfähig an die dokumentarischen Qualitätsanforderungen nach Döring [@doring_forschungsmethoden_2023].
 
-### 4.3.2 KI-gestützte Dokumentenanalyse (P‑QIA) {#sec:4-3-2}
+- **Analysen erster Ordnung (Primäranalysen):** Einzelquellen werden entlang vordefinierter Kategorien (Akzeptanz, Nutzen, Grenzen usw.) ausgewertet. Das Ergebnis ist eine strukturierte, FU-spezifische Inhaltsanalyse pro Dokument.
+- **Analysen zweiter Ordnung (Sekundäranalysen):** Die Primäranalysen einer FU werden gespiegelt, verdichtet und theoriebezogen gerankt. Daraus entstehen deduktive Cluster, SWOT-Profile und Korrelationsmatrizen.
+- **Analysen dritter Ordnung (P-QIA):** Die probabilistisch-qualitative Inhaltsanalyse überführt die Ergebnisse der zweiten Ebene in einen Vektorraum, prüft sie über k-means-Clustering und bewertet die Kohärenz mittels Silhouette-Scores.
 
-Analyse 2. Ordung
+Gemeinsam bilden diese Ordnungen einen iterativen Zyklus: Jede Stufe liefert die Grundlage für die nächste und fließt nach erfolgter Validierung wieder in die Forschungsunterfragen zurück.
 
-Die hier eingesetzte Vorgehensweise stellt eine spezifische Form semantischer Analyse dar. Unter semantischer Analyse wird die regelgeleitete Erschließung, Verdichtung und relationale Zuordnung bedeutungstragender Einheiten (Konzepte, Argumentationssegmente, theoretische Konstrukte) innerhalb wissenschaftlicher Texte verstanden. Zentral sind dabei (a) die Identifikation thematischer Kerne, (b) die Prüfung ihrer Relevanz für die Forschungsunterfragen und (c) die Ableitung strukturierter, vergleichbarer Interpretationsartefakte.
+### 4.3.2 Analyse 1. Ordnung: Primäranalysen {#sec:4-3-2}
 
-Die KI-gestützte Dokumentenanalyse erweitert die klassische Dokumentenanalyse nach Döring [@doring_forschungsmethoden_2023] um probabilistische, embedding‑basierte Strukturierungsschritte innerhalb der probabilistisch‑qualitativen Inhaltsanalyse (P‑QIA). Large Language Models (LLMs) fungieren nicht als autonome Erkenntnissubjekte, sondern als instrumentelle Strukturierungsinstanzen zur Segmentierung, semantischen Vektorisierung und Clusterindikation. Aktuelle Hybrid-Intelligence-Studien weisen darauf hin, dass LLMs analytische Reflexionsprozesse vertiefen und kategoriale Kohärenz erhöhen können [-@tang_using_2024, Seite 2-3, 6-8].
+Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
 
-Methodische Kernelemente:
-- Deduktive Rahmung durch Forschungsunterfragen (FU1–FU7).
-- Segmentierung der Dokumente in Sinnabschnitte (1–3 Sätze).
-- Transformation der Segmente in hochdimensionale Vektorrepräsentationen (Embeddings).
-- k-means-Clustering zur semantischen Strukturprüfung; Gütebewertung über Silhouette-Koeffizienten.
-- GPT-gestützte Label-Vorschläge; theoretische Validierung und Revision durch die Forschende.
-- Ableitung eines konsistenten Kodiermanuals (Definitionen, Regeln, Ankerbeispiele).
+1. **Quellenimport und Tagging:** Aus Zotero exportierte Einträge werden über ihre Tags (`Promotion:Literaturanalyse` + Argumentationskategorie) den FUs zugeordnet.
+2. **Promptbasierte Auswertung:** GPT erzeugt strukturierte Markdown-Analysen, die deduktiv definierte Kategorien ausfüllen und mit Originalzitaten aus der Quelle verknüpfen.
+3. **Dokumentation:** Jede Analyse erhält einen Header mit Metadaten (Quelle, Datum, Prompt-Version). Die Ergebnisse liegen versioniert in Obsidian vor und können jederzeit erneut validiert werden.
+4. **Qualitätssicherung:** Quellen, die inhaltlich nicht in den digitalen Bildungsraum passen, werden bereits auf dieser Ebene identifiziert und als „irrelevant" markiert. So bleiben nur überprüfte Texte im weiteren Prozess.
 
-Die Kombination aus deduktiver Fragengelenktheit und probabilistischer Validierung minimiert subjektive Streuung, erhöht Reproduzierbarkeit und unterstützt eine präzise Rückbindung der extrahierten Bedeutungsstrukturen an die Forschungslogik. Damit entsteht ein methodisch kontrollierter Integrationsrahmen für umfangreiche, thematisch heterogene Literaturkorpora. 
+### 4.3.3 Analyse 2. Ordnung: Sekundäranalysen {#sec:4-3-3}
 
-Die Auswertung folgt einem dreistufigen Ordnungsmodell, das in der Notationslogik der Arbeit als Analysen 1. bis 3. Ordnung beschrieben wird:
+Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage. Die entsprechenden Prompts (z.B. `FU1 Prompt Sekundäranalyse.md`) führen mehrere Einzelanalysen zusammen, spiegeln sie an theoretischen Bezugsrahmen und erzeugen daraus erste Metastrukturen:
 
-- **Analysen erster Ordnung (Primäranalysen):** Jede Quelle wird mit einem strukturierten Prompt ausgewertet. Das Ergebnis sind deduktiv geführte Kategorien (z.B. Akzeptanz, Nutzen, Grenzen), die unmittelbar der jeweiligen Forschungsunterfrage zugeordnet werden.
-- **Analysen zweiter Ordnung (Sekundäranalysen):** Die Primäranalysen werden innerhalb einer Forschungsunterfrage gespiegelt, verglichen und theoriebezogen gerankt. Hier entstehen die semantischen Cluster, SWOT-Auswertungen und Korrelationsmatrizen.
-- **Analysen dritter Ordnung (P-QIA):** Die probabilistisch-qualitative Inhaltsanalyse überführt die Ergebnisse der zweiten Ebene in einen Vektorraum, führt k-means-Clusterings durch und bewertet deren Kohärenz mittels Silhouette-Scores. Diese Ebene liefert eine datenbasierte Evidenzschicht für die deduktiv entwickelten Kategorien.
+- **Vergleich und Ranking:** Wiederkehrende Aussagen werden identifiziert, divergierende Befunde kontrastiert und entlang der FU priorisiert.
+- **Theoriebasierte Spiegelung:** Konzepte wie TAM, SDT oder TPACK dienen als Referenz, um die Primäranalysen in bestehende Modelle einzubetten.
+- **Manuelle Clusterlogik:** Vor der probabilistischen Verdichtung entstehen deduktive Cluster (z.B. „Akzeptanzmuster" oder „Risiko-Faktoren"), SWOT-Profile oder Korrelationsmatrizen.
 
-GPT fungiert dabei ausschließlich als strukturierendes Werkzeug; Steuerung, Parametrisierung und Interpretation verbleiben bei der Forschenden. Die hybride Vorgehensweise erlaubt, große Literaturbestände entlang der Forschungsfragen zu ordnen, datengestützte Sättigungsprüfungen vorzunehmen und Ausreißer frühzeitig zu identifizieren. Damit entsteht eine komplexitätssensible, aber formal kontrollierte Rückführung der Literaturarbeit in das Forschungsdesign.
+Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert.
 
-Die KI-gestützte Analyse zeigte sich als zuverlässig bei der Identifikation thematisch unpassender Forschungsarbeiten, selbst wenn die automatisierte Stichwortsuche in Zotero zunächst eine positive Zuordnung ergab und die identifizierten Artikel zunächst in die jeweilig entsprechenden Zotero-Suchordner hinzufügte. Ein anschauliches Beispiel hierfür ist die zur Analyse bereitgestellte Studie von Westlake und Mahan [-@westlake_international_2023], die sich mit BDSM-Praktiken, deren Demografie und Motivationen befasst. Wegen der für den digitalen Bildungsraum ungewöhnlichen Thematik wurde die Arbeit der KI zur Analyse vorgestellt. Da der Forschungsschwerpunkt dieser Arbeit außerhalb des Kontexts digitaler Bildungsräume liegt, weist die KI-Analyse darauf hin, dass sie für die Untersuchung von LMSen und digitalem Lernen in Gesundheitsberufen nicht relevant ist. Die Analyse führt dies folgendermaßen aus:
+### 4.3.4 Analyse 3. Ordnung: Probabilistisch-Qualitative Inhaltsanalyse (P-QIA) {#sec:4-3-4}
 
-"Es scheint, dass die hochgeladene Studie von Westlake und Mahan [-@westlake_international_2023] nicht direkt in den Rahmen digitaler Bildungsräume passt. Die Arbeit befasst sich mit BDSM-Praktiken, deren Demografie und Motivationen, während dein Fokus auf LMS (LMS)en und digitalem Lernen in Gesundheitsberufen liegt. Da die Studie nicht in die vordefinierten Schlagwörter passt und keine Relevanz für deine Forschungsfragen aufweist, ist sie für deine Analyse irrelevant (Bewertung: 1). Falls du dennoch eine Analyse benötigst, um mögliche Querverweise zu digitalen Lernprozessen oder Bildungstheorien zu diskutieren, lass es mich wissen!"
+Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
 
-Dieses Beispiel verdeutlicht, wie zuverlässig die KI-gestützte Analyse über eine rein syntaktische Stichwortsuche hinausgeht und in der Lage ist, den inhaltlichen Kontext wissenschaftlicher Arbeiten zu erfassen. Dadurch wird eine gezielte Selektion relevanter Quellen ermöglicht, während zugleich potenziell irreführende Ergebnisse aus der Stichwortsuche systematisch überprüft und ausgeschlossen werden können.
+#### Konzept und Abgrenzung
 
-**Vergleich der Kodierergebnisse zwischen Mensch und KI**
-(Vergleich der Silhouette-Scores: KI-gestützte Analyse vs. menschliche Kodierung)
+- Deduktive Rahmung durch die Forschungsunterfragen (FU1–FU7).
+- Segmentierung aller Texte in Sinnabschnitte (1–3 Sätze; bei FU7 1–2 Sätze).
+- Transformation der Segmente in hochdimensionale Embeddings.
+- k-means-Clustering und Gütebewertung via Silhouette-Koeffizient.
+- GPT-gestützte Label-Vorschläge, die durch die Forschende überprüft und theoretisch validiert werden.
+- Ableitung konsistenter Kodiermanuale mitsamt Ankerbeispielen.
 
-Zur Überprüfung der methodischen Präzision und Trennschärfe von KI-gestützten Analysen im Vergleich zu menschlichen Kodierungen wurde die qualitative Clustervalidierung auf eine klassisch kodierte Studie von Kerman et al. [-@kerman_online_2024] angewendet. Ziel war es, die Clusterstruktur beider Verfahren zu vergleichen und Unterschiede in der methodischen Konsistenz zu identifizieren.
+Large Language Models fungieren hierbei nicht als autonome Erkenntnissubjekte, sondern als strukturierende Werkzeuge. Steuerung und Interpretation verbleiben vollständig bei der Forschenden.
 
-Ein zentraler Aspekt der qualitativen Clustervalidierung ist der Vergleich zwischen menschlichen Kodierungen und KI-gestützten Inhaltsanalysen. Um die methodische Präzision beider Ansätze zu bewerten, wurden die Silhouette-Scores der jeweiligen Analysen berechnet. Die Ergebnisse zeigen deutliche Unterschiede in der Trennschärfe der Cluster.
+#### Algorithmische Umsetzung
 
-Die Ergebnisse zeigen, dass KI-gestützte Inhaltsanalysen eine objektivere und methodisch konsistentere Alternative zur klassischen Kodierung darstellen können. Die qualitative Clustervalidierung bestätigt, dass menschliche Kodierungsprozesse anfällig für subjektive Einflüsse sind und eine systematische Überprüfung erfordern. Die methodische Stabilität der KI-Analyse verdeutlicht die Notwendigkeit, qualitative Inhaltsanalysen durch datenbasierte Validierung zu ergänzen.
+Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Schritte mit probabilistischen Erweiterungen:
 
-Um die methodische Präzision und Trennschärfe von KI-gestützten Analysen im Vergleich zu menschlichen Kodierungen zu überprüfen, wurde die qualitative Clustervalidierung erneut auf die Studie von Kerman et al. [-@kerman_online_2024] angewendet. Absicht war der Vergleich der Clusterstruktur zwischen menschlicher Kodierung mit der KI-gestützten Analyse und mögliche Unterschiede in der methodischen Konsistenz zu identifizieren.
+1. **Forschungsunterfrage und Materialfestlegung (Mayring)** – Definition der FU und Auswahl des Materials (Primäranalysen, Notizen, Quellen).
+2. **Festlegung der Analyseeinheiten (Mayring)** – Definition von Sinnabschnitten und Kontextebenen.
+3. **Segmentierung (P-QIA)** – Automatische Zerlegung der Texte in 1–3 Sätze (bei FU7 1–2 Sätze) inklusive Dokumentation der Regeln.
+4. **Embedding und probabilistische Strukturierung (P-QIA)** – GPT-Embeddings und k-means-Clustering mit FU-spezifischem *k*.
+5. **Qualitätssicherung der Cluster (P-QIA)** – Berechnung des Silhouette-Koeffizienten und Bereinigung instabiler Cluster.
+6. **Ableitung und Revision der Kategorien (Mayring + P-QIA)** – LLM-gestützte Label, theoretische Validierung, Kodiermanual.
+7. **Kodierung des Materials (Mayring)** – Anwendung des Manuals, Dokumentation von Grenzfällen.
+8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P-QIA)** – Rückbindung an die FU und Dokumentation der Kennwerte.
 
-Die KI-gestützte Analyse erreichte einen Silhouette-Score von $0.92$, während die menschliche Kodierung nur einen Wert von $0.62$ aufwies. Dies bestätigt, dass KI-gestützte Inhaltsanalysen eine höhere methodische Präzision und Trennschärfe aufweisen als klassische manuelle Kodierungen. Die qualitative Clustervalidierung wurde auf eine klassisch kodierte Studie von Kerman et al. angewendet, um deren methodische Trennschärfe systematisch zu überprüfen und mit einer KI-gestützten Analyse zu vergleichen. Dabei zeigte sich, dass die KI-Analyse klarere Clusterstrukturen erzeugte, während die menschliche Kodierung stärkere Überschneidungen zwischen den Kategorien aufwies. Ein hoher Silhouette-Score deutet auf eine starke Gruppierung der Datenpunkte hin, während ein niedrigerer Wert auf Überlappungen zwischen den Kategorien hindeutet.
+```mermaid
+flowchart TD
+    A[Forschungsunterfrage<br/>FU1–FU7] --> B[Materialauswahl<br/>Primäranalysen, Notizen]
+    B --> C[Festlegung der<br/>Analyseeinheiten]
+    C --> I[Kodierung des Materials]
+    C --> D[Segmentierung in<br/>Sinnabschnitte]
+    D --> E[Embedding der Segmente]
+    E --> F[k-means-Clustering]
+    F --> G[Silhouette-Berechnung]
+    G --> H[Ableitung/Revision<br/>der Kategorien]
+    H --> I
+    I --> J[Synthese und Theoriebildung]
+```
 
-Dieses Ergebnis bestätigt, dass KI-gestützte Inhaltsanalysen methodisch präziser sein können als menschliche Kodierungen. Die qualitative Clustervalidierung zeigt auf, dass menschliche Kodierungsprozesse eine größere Subjektivität aufweisen und daher eine systematische Überprüfung erforderlich ist. Die methodische Stabilität der KI-Analyse verdeutlicht, dass eine datengestützte Validierung menschlicher Kodierungen notwendig ist, um eine methodisch fundierte qualitative Inhaltsanalyse zu gewährleisten.
+#### Validierung und empirische Kennwerte
 
-**Testansätze**
-
-Ein wesentlicher Bestandteil der qualitativen Clustervalidierung ist die systematische Überprüfung der Analyseergebnisse anhand definierter Testansätze. Zunächst erfolgt eine automatische Kodierung, bei der untersucht wird, ob die Methode relevante Konzepte aus dem Text extrahiert und korrekt zuordnet. Anschließend wird die extrahierte Struktur mit der ursprünglichen Kodierung in der Studie verglichen, um mögliche Abweichungen oder Übereinstimmungen zu identifizieren.
-
-Ein weiterer Schritt ist die Clusterbildung mit $k$-Means, um zu prüfen, ob sich inhaltlich sinnvolle Cluster innerhalb der Daten ergeben. Diese werden mit den thematischen Schwerpunkten der Studie abgeglichen, um zu evaluieren, inwiefern die identifizierten Cluster mit etablierten Forschungsstrukturen übereinstimmen.
-
-Zur Stabilitätsprüfung der Analyse wird der Silhouette-Score berechnet, wobei die Clustervalidierungmehrfach durchgeführt wird. Dadurch kann überprüft werden, ob sich die ermittelten Cluster über verschiedene Durchläufe hinweg stabil zeigen oder ob signifikante Schwankungen auftreten. Dies dient als Maß für die methodische Konsistenz der Validierung.
-
-Ein abschließender Vergleich erfolgte durch die Anwendung der qualitativen Clustervalidierung auf die klassisch kodierte Studie von Kerman et al. Dabei wurde analysiert, inwiefern die von Menschen kodierten Kategorien eine ähnlich klare Trennung aufweisen wie die KI-generierten Cluster. Die Ergebnisse zeigen, dass die Clustervalidierung eine objektive Bewertung der bestehenden Kodierung ermöglicht und methodische Schwächen in der menschlichen Kategorisierung sichtbar machen kann.
-
-**Ergänzung zu ATLASeite ti und $k$-Means**
-
-In der Diskussion zur methodischen Validierung wurde auch die Möglichkeit betrachtet, klassische Inhaltsanalyse-Tools wie ATLASeite ti 9 oder NVivo für die Analyse KI-generierter Kodierungen einzusetzen. Dabei zeigte sich jedoch, dass diese Werkzeuge primär für die Unterstützung menschlicher Kodierungsprozesse konzipiert sind und keine geeignete Methodik zur objektiven Validierung von Clustern bieten. Die qualitative Clustervalidierung verfolgt hingegen einen anderen Ansatz: Sie nutzt Algorithmen wie $k$-Means nicht zur explorativen Clusterbildung, sondern zur quantitativen Prüfung der methodischen Konsistenz bereits vorhandener Kodierungen. Diese Unterscheidung ist zentral, da die qualitative Clustervalidierung nicht als Konkurrenz zu klassischen Inhaltsanalyseverfahren betrachtet werden sollte, sondern als eine ergänzende Methode zur Überprüfung der Trennschärfe und methodischen Stabilität kodierter Daten.
-
-**Kritische Einordnung bestehender Literatur**
-
-In der aktuellen wissenschaftlichen Debatte über die Nutzung von KI in akademischen Kontexten sind zahlreiche Publikationen zu finden, die vor den potenziellen Risiken von KI-generierten Inhalten warnen. Arbeiten wie die von Biswas [-@biswas_chatgpt_2023], Van Niekerk et al. [-@van_niekerk_addressing_2025], Storey [-@storey_ai_2023] und Parker et al. [-@parker_negotiating_2024] thematisieren ethische Implikationen, wissenschaftliche Integrität und Herausforderungen im Peer-Review-Prozess. Dabei bleibt jedoch ein entscheidender Aspekt unbeachtet: Bislang existiert keine fundierte empirische Methode zur systematischen Überprüfung der Qualität von KI-generierten wissenschaftlichen Inhalten. Die genannten Studien diskutieren Risiken und Problematiken, liefern dabei keine methodische Grundlage für eine objektive Bewertung der wissenschaftlichen Qualität von KI-generierten Texten. Ein zentrales Defizit dieser Arbeiten besteht in der fehlenden empirischen Prüfung von KI-gestützten wissenschaftlichen Texten. Während argumentiert wird, dass KI-generierte Inhalte problematisch seien, fehlen systematische Vergleiche zwischen KI- und menschlich erstellten Texten sowie methodische Verfahren zur Überprüfung der Trennschärfe von KI-gestützten Analysen. Diese Arbeiten verbleiben weitgehend auf der deskriptiven Ebene und bieten keine quantitativen oder qualitativen Metriken zur Messung der methodischen Präzision von KI-generierten Inhalten.
-
-**Bedeutung für die qualitative Forschung**
-
-Die Ergebnisse zeigen, dass die qualitative Clustervalidierung eine objektive Bewertung von Kodierungen ermöglicht und methodische Schwächen sichtbar machen kann. Dies legt nahe, dass KI-gestützte Inhaltsanalysen eine präzisere Ergänzung zur klassischen qualitativen Kodierung darstellen können. Insbesondere in groß angelegten Studien mit umfangreichen Textkorpora könnten KI-basierte Verfahren eine erhebliche methodische Verbesserung ermöglichen.
-
-Gleichzeitig bleibt zu beachten, dass menschliche Kodierungen theoretische Konzepte und interpretative Nuancen einbeziehen können, die über rein datenbasierte Analysen hinausgehen. Diese Erkenntnisse unterstreichen das Potenzial der qualitativen Clustervalidierung als standardisiertes Verfahren zur Überprüfung methodischer Trennschärfe. Langfristig könnte sie als ergänzende Methode zur Qualitätssicherung klassischer Kodierungsverfahren etabliert werden. In der qualitativen Forschung könnte daher ein hybrider Ansatz sinnvoll sein, bei dem KI-gestützte Analysen zur Strukturierung und Validierung menschlicher Kodierungen eingesetzt werden.
-
-Einordnung und Zielsetzung
-
-Die vorliegende Arbeit knüpft an die Tradition der qualitativen Inhaltsanalyse an, wie sie insbesondere von Mayring ausgearbeitet wurde, und entwickelt diese zu einer probabilistisch‑qualitativen Inhaltsanalyse (P‑QIA) weiter. Ziel der P‑QIA ist es, die regelgeleitete, theoriegeleitete und transparente Kategorienbildung der klassischen qualitativen Inhaltsanalyse mit probabilistischen, vektorraum‑ und clusterbasierten Verfahren zu verbinden, um die Gütekriterien qualitativer Forschung (Nachvollziehbarkeit, Transparenz, Reliabilität) unter den Bedingungen großer, komplexer Textkorpora und KI‑Unterstützung weiterzuentwickeln.
-
-P‑QIA ist damit keine Abkehr von Mayrings Ansatz, sondern eine methodische Fortführung: Die Grundprinzipien (systematisches Vorgehen, Kategorienbildung, Kodierregeln, Ankerbeispiele, Dokumentation der Analyseschritte) bleiben erhalten, werden aber um algorithmische Strukturierungs‑ und Validierungsschritte ergänzt, die in der klassischen, rein menschlichen Inhaltsanalyse nicht verfügbar sind.
-
-Ausgangspunkt: Qualitative Inhaltsanalyse nach Mayring
-
-Grundprinzipien
-
-Die qualitative Inhaltsanalyse nach Mayring ist ein systematisches, regelgeleitetes Verfahren zur Auswertung von Textmaterial, das qualitative Interpretationen mit nachvollziehbaren Analyseschritten verbindet (Mayring, 2015; Mayring & Fenzl, 2019). Zentrale Merkmale sind:
-
-- Festlegung einer klaren Forschungsfrage und Analyseeinheiten
-- theoriegeleitete oder theoriegeleitet‑induktive Kategorienbildung
-- Entwicklung eines Kodiermanuals (Kategorien, Definitionen, Kodierregeln, Ankerbeispiele)
-- schrittweises Kodieren des Materials anhand dieses Manuals
-- Überprüfung und Revision der Kategorien im Verlauf der Analyse
-- transparente Dokumentation der Analyseschritte
-
-Mayring [-@mayring_qualitative_2010; -@mey_qualitative_2020; -@mayring_qualitative_2022] unterscheidet unterschiedliche Grundformen (zusammenfassende, explizierende, strukturierende Inhaltsanalyse), die auf das jeweilige Erkenntnisinteresse zugeschnitten werden. Die hier zugrunde gelegte Arbeit orientiert sich primär an der strukturierenden und zusammenfassenden Inhaltsanalyse, da für alle Forschungsunterfragen (FU1–FU7) vorhandene Analysen verdichtet, thematisch gebündelt und theoriebezogen interpretiert werden.
-
-Kategorienbildung und Gütekriterien
-
-In der klassischen qualitativen Inhaltsanalyse werden Kategorien iterativ entwickelt und überprüft. Die Qualität der Analyse hängt dabei maßgeblich von:
-
-- der Klarheit der Kategorien und Kodierregeln,
-- der Schulung und Abstimmung der Kodierenden,
-- der Dokumentation des Vorgehens
-
-ab (Kuckartz, 2014; Schreier, 2012). Reliabilität und Validität werden traditionell über Maßnahmen wie Intercoder‑Übereinstimmungen, Reflexion der Forscher*innenrolle und Triangulation abgesichert.
-
-Diese Verfahren stoßen jedoch bei sehr großen Textmengen, komplexen Theoriemodellen und der Notwendigkeit hoher Reproduzierbarkeit an praktische Grenzen. Hier setzt die P‑QIA an.
-
-Übergang zur P‑QIA: probabilistische Erweiterung
-
-Motivation und epistemischer Status
-
-Die P‑QIA geht von der Beobachtung aus, dass große Sprachmodelle (Large Language Models, LLMs) Texte in hochdimensionalen Vektorräumen repräsentieren, in denen semantische Ähnlichkeiten über Distanzmaße berechnet werden können (Bommasani et al., 2021). Diese vektorbasierte Repräsentation ermöglicht:
-
-- die algorithmische Gruppierung ähnlicher Textsegmente (Clusteranalyse),
-- die Berechnung von Kohärenz‑ und Trennschärfemaßen (z. B. Silhouette‑Koeffizienten),
-- die reproduzierbare Ableitung von Kategoriensystemen aus großen Textkorpora.
-
-Damit verschiebt sich der epistemische Status der Kategorienbildung: Neben die interpretative, historisch und kontextuell eingebettete Kategorienbildung der Forscher*in tritt eine probabilistische, vektorbasiert gestützte Strukturierung des Materials. P‑QIA nutzt diese neuen Möglichkeiten nicht, um menschliche Interpretation zu ersetzen, sondern um sie zu unterstützen, zu strukturieren und hinsichtlich Kohärenz und Reproduzierbarkeit besser prüfbar zu machen (Low & Kalender, 2023; Bhullar et al., 2024).
-
-Probabilistische Schritte der P‑QIA
-
-Die in dieser Arbeit verwendete P‑QIA ist in `P-QIA Statistik.md` formal dokumentiert. Für jede Forschungsunterfrage (FU1–FU7) werden identische probabilistische Schritte durchgeführt:
-
-1. **Segmentierung:**  
-   Die jeweiligen Primäranalysen werden in Sinnabschnitte segmentiert (in der Regel 1–3 Sätze, bei FU7 1–2 Sätze).
-2. **Embedding:**  
-   Jedes Segment wird mit einem GPT‑Embedding‑Modell in einen hochdimensionalen Vektorraum überführt.
-3. **Clustering:**  
-   Auf Basis dieser Vektoren wird ein k‑means‑Clustering durchgeführt. Die Wahl von *k* orientiert sich sowohl am erwarteten inhaltlichen Spektrum der Forschungsunterfrage als auch an der Optimierung des Silhouette‑Koeffizienten.
-4. **Silhouette‑Berechnung:**  
-   Für jedes Clustering wird der mittlere Silhouette‑Wert berechnet (Rousseeuw, 1987). Werte ≥ 0.87 werden als Hinweis auf hohe interne Kohärenz und ausreichende Trennschärfe zwischen den Clustern interpretiert.
-5. **Labeling und theoretische Validierung:**  
-   Ein GPT‑basiertes Reasoning‑Modell generiert Vorschläge für Clusterlabel und Kandidatendefinitionen. Diese werden durch die Forscher*in im Abgleich mit theoretischen Modellen (z. B. Technology Acceptance Model, Self‑Determination Theory, TPACK) und den jeweiligen Metaprompts geprüft, angepasst oder verworfen.
-6. **Ableitung des Kodiermanuals:**  
-   Aus den stabilen Clustern werden Kategorien mit Definitionen, Kodierregeln und Ankerbeispielen abgeleitet. Diese Kodiermanuale werden in den jeweiligen Codiersystem‑Dateien zu FU1–FU7 dokumentiert.
-
-Durch diese Schritte wird die klassische Kategorienbildung der qualitativen Inhaltsanalyse um eine probabilistische, vektorbasiert gestützte Strukturierung ergänzt. Die eigentliche Interpretation und Theoriebildung verbleibt jedoch bei der Forscher*in.
-
-Empirische Kennwerte der P‑QIA
-
-Die Datei [[P-QIA Statistik]] dokumentiert die probabilistischen Analysen für alle Forschungsunterfragen (FU1–FU7) in Form einer statistischen Übersicht. Dort sind für jede FU u. a. Segmentierungsregeln, Embedding‑Modell, Clusterverfahren, Wahl von *k*, der mittlere Silhouette‑Koeffizient und inhaltliche Anmerkungen festgehalten.
-
-Die zentrale Tabelle zeigt, dass:
-
-- für alle FUs dieselbe Grundpipeline (Segmentierung → Embedding → k‑means → Silhouette → Labeling → Kodiermanual) verwendet wird,
-- die gewählten *k*‑Werte im Bereich von 8 bis 15 liegen und damit eine differenzierte, aber noch interpretierbare Anzahl von Kategorien abbilden,
-- die Silhouette‑Werte durchgängig zwischen 0.87 und 0.93 sowie im Mittel bei ca. 0.89 liegen.
-
-Wertebasiert ergibt sich folgendes Bild der Clusterqualität:
+Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
 
 |FU|k|Silhouette|Interpretation nach Rousseeuw (1987)|
 |---|---|---|---|
-|FU1|8|0.91|sehr starke Clustertrennung, hohe Kohärenz|
+|FU1|8|0.91|sehr starke Clustertrennung|
 |FU2a|12|0.88|starke Clusterstruktur|
 |FU2b|14|0.89|starke Clusterstruktur|
-|FU3|15|0.87|starke Clusterstruktur (untere Grenze des Zielbereichs)|
+|FU3|15|0.87|starke Clusterstruktur|
 |FU4a|12|0.90|sehr starke Clustertrennung|
 |FU4b|12|0.92|nahezu perfekte Trennung|
 |FU5|14|0.88|starke Clusterstruktur|
 |FU6|12|0.89|starke Clusterstruktur|
 |FU7|10|0.93|nahezu perfekte Trennung|
 
-Rousseeuw (1987) beschreibt Silhouette‑Werte > .70 als Hinweis auf eine starke Clusterstruktur; Werte > .90 deuten auf eine nahezu perfekte Trennung hin. Vor diesem Hintergrund belegen die in [[P-QIA Statistik]] dokumentierten Werte eine hohe interne Kohärenz der vektorbasiert gefundenen Cluster über alle Forschungsunterfragen hinweg. Sie liefern damit eine empirische Grundlage für die Aussage, dass die in der P‑QIA verwendeten Kategorien nicht nur interpretativ, sondern auch statistisch gut gestützt sind.
+Rousseeuw [-@rousseeuw_silhouettes_1987] bewertet Werte > 0,70 als stark, > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen Bommasani et al. (2021), Bhullar et al. (2024) sowie Low & Kalender (2023) auf die Reproduzierbarkeit deterministischer Pipelines.
 
-Die Reproduzierbarkeitsschritte in [[P-QIA Statistik]] (Vorverarbeitung, Embedding, Clustering, Silhouette‑Berechnung, Labeling & Validierung, Ableitung des Kodiermanuals) konkretisieren darüber hinaus die theoretischen Annahmen der P‑QIA:
+#### Qualitätssicherung und Beispiele
 
-- Aus der Foundation‑Model‑Forschung ist bekannt, dass LLM‑Embeddings stabile semantische Ähnlichkeiten im hochdimensionalen Vektorraum abbilden können (Bommasani et al., 2021).
-- Silhouette‑Koeffizienten fungieren als etablierte Kennwerte zur Interpretation und Validierung von Clustern (Rousseeuw, 1987).
-- Studien zur KI‑gestützten qualitativen Forschung zeigen, dass KI‑unterstützte thematische Strukturen eine hohe interne Stabilität und Skalierbarkeit erreichen können (Bhullar et al., 2024; [@biswas_chatgpt_2023]).
-- Arbeiten zur Reproduzierbarkeit in der LLM‑Forschung betonen, dass deterministische Pipelines eine Wiederholbarkeit ermöglichen, die in rein manuellen Kodierprozessen schwer zu erreichen ist (Low & Kalender, 2023).
+Die KI-gestützte Analyse dient auch der Plausibilitätsprüfung. So wurde der Artikel von Westlake und Mahan [-@westlake_international_2023] – trotz korrekter Schlagwortzuordnung – als thematisch irrelevant markiert, weil er BDSM-Praktiken untersucht und somit keinen Bezug zum digitalen Bildungsraum aufweist. Diese Prüfung geht über eine reine Stichwortsuche hinaus und verhindert, dass fachfremde Texte in die Auswertung gelangen.
 
-In der Summe bilden diese Kennwerte und Verweise die empirische und methodische Basis der P‑QIA in dieser Arbeit: Die hier entwickelten Kategorien und Metamodellierungen sind sowohl qualitativ‑interpretativ (im Sinne Mayrings) als auch probabilistisch‑statistisch (im Sinne vektorbasiert gestützter Validierung) abgesichert.
+Zur Überprüfung der Trennschärfe wurde die P-QIA auf die klassisch kodierte Studie von Kerman et al. [-@kerman_online_2024] angewendet. Die KI-gestützte Analyse erzielte einen Silhouette-Score von 0,92, die menschliche Kodierung lediglich 0,62. Damit wird sichtbar, dass die probabilistische Validierung methodische Schwächen in manuellen Kodierungen offenlegt und als Ergänzung zur klassischen Inhaltsanalyse fungiert.
 
-Workflow der P‑QIA (in Anlehnung an Mayring)
+#### Test- und Diskursbeiträge
 
-Der folgende Workflow fasst die in dieser Arbeit verwendete P‑QIA in Anlehnung an die klassische qualitative Inhaltsanalyse nach Mayring zusammen und kann als Grundlage für eine grafische Abbildung dienen:
+Die Validierung umfasst automatische Kodierungstests, erneute Clusterbildungen mit k-means sowie Mehrfachberechnungen des Silhouette-Scores, um die Stabilität über verschiedene Läufe hinweg zu belegen. Zudem wurde geprüft, ob klassische Tools wie ATLAS.ti oder NVivo die gleichen Prüfungen leisten können. Da diese Werkzeuge primär der Unterstützung menschlicher Kodierung dienen, liefern sie keine belastbaren Kennwerte zur objektiven Clustervalidierung. Die P-QIA adressiert damit eine Lücke in der aktuellen Diskussion (z.B. [@biswas_chatgpt_2023; @van_niekerk_addressing_2025; @storey_ai_2023; @parker_negotiating_2024]), indem sie ein überprüfbares Verfahren zur Qualitätsbewertung KI-gestützter Analysen bereitstellt.
 
-1. **Forschungsunterfrage und Materialfestlegung (Mayring)**  
-   - Formulierung der jeweiligen Forschungsunterfrage (FU1–FU7).  
-   - Auswahl und Zusammenstellung des relevanten Materials (Primäranalysen, Notizen, Quellen).
+#### Rolle des Menschen und Grenzen
 
-2. **Festlegung der Analyseeinheiten (Mayring)**  
-   - Definition der Analyseeinheiten (z. B. Sinnabschnitte, Aussagenebene).  
-   - Festlegung der Einbettungs‑ und Kontextebene.
+Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung grundsätzlich menschlich. Grenzen ergeben sich aus:
 
-3. **Segmentierung in Sinnabschnitte (P‑QIA)**  
-   - Automatisierte bzw. halbautomatisierte Zerlegung der Texte in Sinnabschnitte (typischerweise 1–3 Sätze; bei FU7 1–2 Sätze).  
-   - Dokumentation der Segmentierungsregeln.
+- **Parameter- und Modellvariabilität:** Embedding-Modelle und Clusterparameter beeinflussen die Ergebnisse; Entscheidungen müssen dokumentiert und begründet werden.
+- **Black-Box-Charakter der LLMs:** Interne Repräsentationen sind nur begrenzt interpretierbar. Transparente Protokolle mildern, aber eliminieren das Problem nicht.
+- **Gefahr der Scheinobjektivität:** Statistische Kennwerte ersetzen keine inhaltliche Reflexion. Sie fungieren als Unterstützungs-, nicht als Entscheidungsinstanz.
+- **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung (vgl. [@biswas_chatgpt_2023]) müssen explizit adressiert werden.
 
-4. **Embedding und probabilistische Strukturierung (P‑QIA)**  
-   - Umwandlung der Segmente in Vektoren mittels GPT‑Embeddings.  
-   - Durchführung des k‑means‑Clusterings mit FU‑spezifischem *k* (vgl. [[P-QIA Statistik]]).
+### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-5}
 
-5. **Qualitätssicherung der Cluster (P‑QIA)**  
-   - Berechnung des Silhouette‑Koeffizienten als Maß für Kohärenz und Trennschärfe.  
-   - Zusammenführung oder Verwerfung instabiler oder inhaltlich nicht plausibler Cluster.
+Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse zunächst als Ergänzung zur P-QIA ausprobiert. Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus bestätigte die bestehenden semantischen Erkenntnisse. Diese Stabilität wurde zur Grundlage eines eigenständigen Validierungsverfahrens, der mehrdimensional-analytischen Clustervalidierung (mdaCV). Sie spannt einen semantischen Raum entlang theoretisch begründeter Achsen (Kategorien, Forschungsfragen, Schlagworte) auf, positioniert die Datenpunkte darin und bewertet deren Trennschärfe über Silhouette-Scores [-@rousseeuw_silhouettes_1987].
 
-6. **Ableitung und Revision der Kategorien (Mayring + P‑QIA)**  
-   - Generierung von Clusterlabeln und Kategoriendefinitionen (LLM‑gestützt).  
-   - Theoretische Validierung und ggf. Revision im Licht bestehender Modelle (z. B. TAM, SDT, TPACK) und der Metaprompts.  
-   - Erstellung bzw. Überarbeitung des Kodiermanuals (Kategorien, Definitionen, Kodierregeln, Ankerbeispiele).
+Die Methode wurde iterativ entwickelt, auf reale, manipulierte und zufällige Datensätze angewandt und ist samt Skripten (z.B. `analyse_korrelation.py`, `analyse_netzwerk.py`) unter https://github.com/jochen-hanisch/charite-promotion dokumentiert. Ihre theoretische Herleitung fußt auf drei Komponenten:
 
-7. **Kodierung des Materials (Mayring)**  
-   - Anwendung des Kodiermanuals auf das Material.  
-   - Markierung von Grenzfällen, Mehrfachkodierungen und notwendigen Manual‑Revisionen.
+1. **Deduktive Strukturierung des semantischen Raums:** Theoriegeleitete Dimensionen ([@baur_datenaufbereitung_2022; @baur_qualitative_2022]) definieren die Achsen und ermöglichen eine geordnete Positionierung der Daten.
+2. **Geometrische Modellierung:** Begriffliche Relationen werden in numerische Vektoren überführt. Konzepte wie CBOW/Skip-gram [@mikolov_efficient_2013] zeigen, dass sich so hochdimensionale, semantisch präzise Repräsentationen erzeugen lassen.
+3. **Statistische Validierung:** Die vorstrukturierten Daten werden mittels $k$-Means analysiert. Die Anzahl der Cluster $k$ wird theoriegeleitet festgelegt oder durch Silhouette-Kennwerte feinjustiert [@sud_k-means_2020; @rakhlin_stability_nodate].
 
-8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P‑QIA)**  
-   - Zusammenführung der Kategorien zu thematischen Clustern, Typen oder Metamodellen.  
-   - Rückbindung an die Forschungsunterfragen und theoretischen Rahmen.  
-   - Dokumentation der probabilistischen Kennwerte (z. B. Silhouette) und ihrer Bedeutung für die Interpretation.
+Im Verlauf der Dissertation wurde die mdaCV als dauerhafte Feedback-Schleife eingesetzt. Beispielhaft stieg nach der Bereinigung eines Korpus auf $n = 3502$ Quellen der Silhouette-Score von 0,964 auf 0,9751 – ein Hinweis auf semantische Schärfung. Nach erneuter Einbindung ausgeschlossener Konferenzbände ($n = 3572$) blieb der Score mit 0,9754 stabil. Selbst minimale Änderungen (ein entfernter Buchteil, $n = 3571$) führten zu messbaren Differenzen von 0,001 und machten mikrostrukturelle Effekte sichtbar.
 
-Dieser Workflow macht sichtbar, an welchen Stellen die P‑QIA die klassische qualitative Inhaltsanalyse nach Mayring erweitert (Schritte 3–6) und wo die interpretative Verantwortung der Forscher*in unverändert zentral bleibt (insbesondere Schritte 1–2 sowie 6–8).
+Die mdaCV fungiert damit als seismografisches Instrument: Sie verbindet deduktive Kategorienstrukturen mit quantitativ validierbaren Kennwerten und eröffnet Analysepfade für mikrostrukturelle Dynamiken in semantisch strukturierten Räumen.
 
-Mermaid-Workflow (parallele Pfade)
+### 4.3.6 Epistemische Verlustfunktion (\(\varepsilon\)) als Integritätsmaß {#sec:4-3-6}
 
-Zur Visualisierung kann der oben beschriebene Ablauf in Obsidian z. B. mit folgendem Mermaid‑Diagramm dargestellt werden. Es zeigt die parallelen Pfade der klassischen Mayring‑Arbeit und der P‑QIA, die gemeinsam in die Kodierung und Synthese einfließen:
-
-```mermaid
-flowchart TD
-    A[Forschungsunterfrage<br/>FU1–FU7] --> B[Materialauswahl<br/>Primäranalysen, Notizen]
-    B --> C[Festlegung der<br/>Analyseeinheiten<br/>Mayring]
-
-    %% Klassischer Mayring-Pfad
-    C --> I[Kodierung des Materials<br/>klassische Kategorienarbeit]
-
-    %% P‑QIA-Pfad (parallel)
-    C --> D[Segmentierung in<br/>Sinnabschnitte<br/>P‑QIA]
-    D --> E[Embedding der Segmente<br/>GPT-Embeddings]
-    E --> F[k-means-Clustering<br/>FU-spezifisches k]
-    F --> G[Silhouette-Berechnung<br/>und Clusterprüfung]
-    G --> H[Ableitung/Revision<br/>der Kategorien und<br/>Kodierregeln P‑QIA]
-    H --> I
-
-    %% Gemeinsame Synthese
-    I --> J[Synthese, Metamodellierung<br/>und Theoriebildung]
-
-    classDef mayring fill:#e0f7fa,stroke:#006064,stroke-width:1px;
-    classDef pqia fill:#f3e5f5,stroke:#4a148c,stroke-width:1px;
-
-    class A,B,C,I,J mayring;
-    class D,E,F,G,H pqia;
-```
-
-Die farbliche Trennung verdeutlicht, welche Schritte aus der klassischen Mayring‑Logik stammen (hellblau) und an welchen Stellen die probabilistische Erweiterung der P‑QIA ansetzt (hellviolett). Der Knoten `I` zeigt, dass klassische Kodierung und P‑QIA‑gestützte Kategorienarbeit nicht sequenziell, sondern als parallele Stränge verstanden werden, deren Ergebnisse gemeinsam in die Synthese und Theoriebildung einfließen.
-
-Methodische Verortung der P‑QIA
-
-Anschluss an Mayring
-
-P‑QIA bleibt in mehrfacher Hinsicht anschlussfähig an Mayring:
-
-- Die Analyse ist weiterhin **fragengesteuert**: Jede FU hat eine klar formulierte Forschungsunterfrage, die die Auswahl, Segmentierung und Interpretation des Materials leitet.
-- Es werden **Kategorien und Kodierregeln** entwickelt, die in einem Kodiermanual festgehalten sind.
-- Es wird auf **Ankerbeispiele** und **Belegstellen** zurückgegriffen, um Kategorien empirisch zu illustrieren.
-- Die Analyseschritte werden **transparent dokumentiert** (vgl. P‑QIA‑Headerprotokolle, Codematrizen, Entscheidungslogs).
-
-Die probabilistischen Schritte ersetzen diese Prinzipien nicht, sondern ergänzen sie. Man kann die P‑QIA daher als eine „probabilistisch fundierte Weiterentwicklung der qualitativen Inhaltsanalyse nach Mayring“ verstehen.
-
-Abgrenzung und Erweiterung
-
-Gleichzeitig geht P‑QIA über die klassische qualitative Inhaltsanalyse hinaus:
-
-- **Vektorraumbasierte Semantik:**  
-  Statt ausschließlich auf menschliche Interpretation zu setzen, werden semantische Ähnlichkeiten zwischen Textsegmenten im Vektorraum quantitativ erfasst (Bommasani et al., 2021).
-- **Clusteranalyse als Strukturierungsschritt:**  
-  Kategoriensysteme werden nicht nur interpretativ entworfen, sondern zunächst probabilistisch durch Clusterbildung vorgeschlagen und anschließend theoriegeleitet validiert (Rousseeuw, 1987).
-- **Statistische Kohärenzmaßstäbe:**  
-  Mit dem Silhouette‑Koeffizienten stehen objektive Maße zur Verfügung, mit denen die interne Kohärenz und Trennschärfe von Kategorien empirisch geprüft werden können.
-- **Reproduzierbarkeit:**  
-  Durch deterministische Einstellungen und dokumentierte Pipelines können die probabilistischen Analysen (Embedding, Clustering, Berechnung der Kennwerte) reproduzierbar ausgeführt werden, was die Nachvollziehbarkeit gegenüber rein manuellen Kodierprozessen verbessert (Low & Kalender, 2023).
-
-Damit verschiebt P‑QIA die Gewichtung der Gütekriterien: Neben kommunikative Validierung und Reflexivität tritt die algorithmische Prüfbarkeit der Kategoriensysteme.
-
-Umsetzung der P‑QIA in dieser Arbeit
-
-Anwendung auf die Forschungsunterfragen (FU1–FU7)
-
-Für alle Forschungsunterfragen wird ein einheitliches P‑QIA‑Vorgehen umgesetzt, das sich in den jeweiligen Prompt‑Rahmen (Sekundäranalyse‑Prompts) und Metaanalysen niederschlägt. Exemplarisch sei FU1 genannt:
-
-- In `FU1 Prompt Sekundäranalyse.md` wird die probabilistisch‑qualitative Inhaltsanalyse als Verfahren benannt und mit der Forschungsunterfrage zur Akzeptanz und Nützlichkeit von Learning‑Management‑Systemen verknüpft.
-- In `FU1 Qualitative Metaanalyse (P‑QIA).md` wird ein P‑QIA‑Headerprotokoll geführt (Material, Segmentierung, Embedding/Clustering‑Parameter, Validierung, Ergebnis‑Kategorien), ergänzt um Codematrizen, Evidenztabellen mit Pfadangaben (Pfad:Zeile) und einen Entscheidungslog.
-- Analog werden für FU2a, FU2b, FU3, FU4a, FU4b, FU5, FU6 und FU7 die probabilistischen Analyseschritte gemäß `P-QIA Statistik.md` ausgeführt und mit den inhaltlichen Kategorien (z. B. didaktische Merkmale, Typen, Möglichkeiten und Grenzen, Kompetenzen, Inputs und Strategien) verschränkt.
-
-Rollenverteilung zwischen KI und Forschenden
-
-Die P‑QIA versteht die KI nicht als autonome Forscherin, sondern als Werkzeug zur:
-
-- Segmentierung und Strukturierung großer Textkorpora,
-- Generierung von Clustervorschlägen und semantischen Verdichtungen,
-- Berechnung von Kohärenz‑Kennwerten,
-- Unterstützung bei der Formulierung von Kategoriendefinitionen.
-
-Die forschende Person übernimmt:
-
-- die Formulierung der Forschungsfragen und Metaprompts,
-- die Auswahl und Vorbereitung des Materials,
-- die kritische Prüfung und Anpassung der Cluster und Kategorien,
-- die theoretische Einbettung und Interpretation der Ergebnisse,
-- die Reflexion von Grenzen und Risiken des probabilistischen Ansatzes.
-
-Dieser Zuschnitt ist zentral, um die interpretative Verantwortung in der qualitativen Forschung zu wahren und zugleich die Vorteile probabilistischer Verfahren zu nutzen.
-
-Reflexion und Grenzen der P‑QIA
-
-Chancen
-
-Die P‑QIA bietet insbesondere:
-
-- **Skalierbarkeit:**  
-  Auch sehr umfangreiche Textkorpora können systematisch strukturiert und ausgewertet werden.
-- **Transparenz und Reproduzierbarkeit:**  
-  Durch dokumentierte Pipelines, Parameter und Kennwerte werden Analyseschritte nachvollziehbarer.
-- **Präzisere Kategorienbildung:**  
-  Vektorraumanalysen und Clusterkennwerte helfen, unscharfe oder redundante Kategorien zu erkennen und zu schärfen.
-- **Theorieintegration:**  
-  Die Koppelung von probabilistischer Strukturierung und theoriegeleiteter Validierung (z. B. TAM, SDT, TPACK) stärkt die wissenschaftliche Fundierung.
-
-Grenzen
-
-Gleichzeitig sind Grenzen zu beachten:
-
-- **Abhängigkeit von Modellen und Parametern:**  
-  Ergebnisse hängen von der Wahl des Embedding‑Modells, der Clusterparameter und der Implementierung ab. Diese Entscheidungen sind zu reflektieren und zu begründen.
-- **Black‑Box‑Charakter der LLMs:**  
-  Die internen Repräsentationen der Modelle sind nur begrenzt interpretierbar; P‑QIA kann diesen Black‑Box‑Charakter nicht vollständig auflösen, aber durch transparente Protokolle abschwächen.
-- **Gefahr der Scheinobjektivität:**  
-  Statistische Kennwerte dürfen nicht als Ersatz für inhaltliche Reflexion und Kontextwissen missverstanden werden. Sie sind Unterstützungs‑, nicht Entscheidungsinstanzen.
-- **Ethische Fragen:**  
-  Der Einsatz von KI in der Forschung wirft Fragen nach Datensouveränität, Verzerrungen (Bias) und Verantwortung auf (z. B. [@biswas_chatgpt_2023]). Diese sind in der methodologischen Reflexion zu berücksichtigen.
-
-Zusammenfassung
-
-Die probabilistisch‑qualitative Inhaltsanalyse (P‑QIA) verbindet die Stärken der qualitativen Inhaltsanalyse nach Mayring mit den Möglichkeiten probabilistischer, vektorbasiert gestützter Textanalyse. Sie wird in dieser Arbeit als methodische Klammer über alle Forschungsunterfragen (FU1–FU7) eingesetzt, um komplexe Materialbestände systematisch, theoriegeleitet und zugleich statistisch validiert auszuwerten. P‑QIA versteht sich dabei als anschlussfähige Weiterentwicklung, nicht als Bruch mit der qualitativen Forschungstradition.
-
-
-### 4.3.3 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-3}
-
-Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse, eher zufällig als potenzielle Erweiterung der qualitativen Analyse in Betracht gezogen (Kapitel 4.3.1). Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus erschien als vielversprechender Zugang zur Identifikation verborgener Muster oder nicht explizit abgebildeter Strukturen. Überraschenderweise blieben jedoch neue Erkenntnisse aus, da die Clustervalidierung weitgehend die bestehenden semantischen Erkenntnisse bestätigte. Diese zunächst irritierende Stabilität erwies sich im weiteren Verlauf als methodisch hochbedeutsam. Die Tatsache, dass ein klassisch induktiv genutzter Algorithmus ein deduktiv geschaffenes Ordnungssystem reproduzierte, verweist auf eine inhärente Validierung der Ausgangsstruktur. Erst mit zeitlichem Abstand wurde deutlich, dass sich hier eine neue methodische Perspektive eröffnet, d.h. die Möglichkeit, qualitative Strukturierungslogiken algorithmisch zu überprüfen.
-
-Aus dieser Beobachtung entwickelte sich schrittweise die mehrdimensional-analytische Clustervalidierung (mdaCV). Ein Verfahren, das qualitative Strukturierung, algorithmische Clusterdetektion und visuelle Repräsentation in einem konsistenten Validierungsprozess verbindet. Dabei wird ein deduktiv formulierter semantischer Raum entlang inhaltlich begründeter Dimensionen (z.B. Kategorien, Forschungsfragen, Schlagworte) aufgespannt. Die Positionierung der Datenpunkte erfolgt entlang dieser Achsen, die Clusterbildung erfolgt mit dem $k$-Means-Algorithmus, die Qualität der Trennung wird über den Silhouette-Score erfasst ([@rousseeuw_silhouettes_1987]).
-
-Erst in einem späteren Entwicklungsschritt wurde deutlich, dass diese Vorgehensweise nicht nur für menschlich kodierte, sondern auch für KI-generierte Analysen geeignet ist. Durch die Anwendung auf Testdatensätze, die  swohl real, manipuliert als auch zufällig gestaltet wurden, konnte nachgewiesen werden, dass die mdaCV zwischen kohärenten, rauschhaften und künstlich homogenisierten Datenstrukturen zuverlässig differenziert. Die methodische Implementierung wurde versioniert dokumentiert und ist unter https://github.com/jochen-hanisch/charite-promotion öffentlich einsehbar. Dort finden sich sowohl der vollständige Datensatz mit Testvarianten (Real-, Zufalls- und manipulierte Daten) als auch die korrespondierenden Python-Skripte (`analyse_korrelation.py`, `analyse_netzwerk.py`) sowie ein angepasstes .gitignore, zur Sicherstellung, dass keine personenbezogenen oder bibliographisch geschützten Inhalte öffentlich sichtbar sind.
-
-Die Methode wurde nicht abstrakt konzipiert, sondern emergierte aus forschungspraktischen Überlegungen, iterativen Rückkopplungen und der Notwendigkeit, große Datenmengen zugleich strukturiert, nachvollziehbar und validierbar zu analysieren. Die theoretische Herleitung basiert u. a. auf Arbeiten zur Stabilität des $k$-Means-Algorithmus [@rakhlin_stability_nodate, Kapitel 5], zur Struktur von Merkmalsräumen [@mavroeidis_novel_2011, Kapitel 3] sowie zur algorithmischen Modellierung semantischer Nähe durch Vektorraummodelle [@mikolov_efficient_2013, Kapitel 2]. Die mdaCV verbindet somit deduktive Theoriegeleitetheit mit datenbasierter Validierungslogik. Ein methodisches Hybridmodell, das qualitative und quantitative Paradigmen nicht nur überbrückt, sondern integrativ zusammenführt.
-
-Die mdaCV ist ein Verfahren zur Validierung von Kodierungsstrukturen in qualitativ vorstrukturierten Datenräumen. Dieses Verfahren basiert auf einem dreidimensionalen semantischen Raum, in dem Datenpunkte entlang deduktiv definierter Achsen (z.B. Kategorien, Forschungsfragen, Schlagworte) positioniert und anschließend mittels algorithmischer Clustervalidierung überprüft werden. Dabei kombiniert das Verfahren inhaltlich fundierte Dimensionen mit statistischen Bewertungsverfahren wie dem Silhouette-Score ([@rousseeuw_silhouettes_1987 Seite 59, 61]), um die Trennschärfe und Kohärenz der Clusterbildung zu bewerten.
-
-Die methodische Herleitung fußt auf drei zentralen Komponenten:
-
-1. Deduktive Strukturierung des semantischen Raums : Aufbauend auf theoretisch oder empirisch begründeten Dimensionen erfolgt eine systematische Vorstrukturierung des Datenraums [@baur_datenaufbereitung_2022; @baur_qualitative_2022; @baur_qualitative_2022]. Diese Dimensionen bspw. Kategorien, Disziplinen oder thematische Schlagworte, definieren die Achsen des Raums und ermöglichen die strukturierte Positionierung der Daten.
-2. Um die semantische Struktur der Daten algorithmisch analysierbar zu machen, werden begriffliche Relationen in numerische Vektoren überführt. Die semantische Nähe zwischen Datenpunkten entspricht dabei ihrer geometrischen Nähe im Vektorraum. Diese Transformation bildet die Grundlage für distanzbasierte Verfahren wie die Clustervalidierung. Konzepte wie CBOW und Skip-gram (Mikolov et al., 2013, Kapitel 6) zeigen, dass auch mit vergleichsweise einfachen Modellarchitekturen hochdimensionale, semantisch präzise Repräsentationen berechnet werden können [@mikolov_efficient_2013]. Dies ermöglicht die effiziente Verarbeitung großer Korpora und bildet die konzeptionelle Basis für die Vektorraummodellierung in der mdaCV.
-3. Statistische Validierung mittels $k$-Means-Algorithmus: Die deduktiv vorstrukturierten Daten werden dem $k$-Means-Verfahren unterzogen. Die zentrale mathematische Formulierung basiert auf der Minimierung der quadrierten Distanzen innerhalb der Cluster (Pérez-Ortega et al., 2020, Seite 5) [@sud_k-means_2020, Seite 5]. Die Wahl der Anzahl der Cluster $k$ erfolgt theoriegeleitet oder wird durch Metriken wie den Silhouette-Score empirisch justiert. Die Sensitivität des $k$-Means-Algorithmus gegenüber strukturellen Varianzen wird dabei bewusst genutzt, um die methodische Konsistenz der Vorstrukturierung zu evaluieren [@rakhlin_stability_nodate].
-
-Diese Kombination aus inhaltlicher Fundierung, geometrischer Modellierung und algorithmischer Validierung begründet die mdaCV als eigenständiges methodisches Verfahren. Sie wurde im Verlauf der Dissertation iterativ verfeinert, insbesondere durch Tests mit realen, manipulierten und zufälligen Datensätzen, um ihre Robustheit gegenüber Rauschelementen und ihre Fähigkeit zur Differenzierung inhaltlicher Kohärenz nachzuweisen (vgl. [@sud_k-means_2020, Seite 5, Punkt 4]). Damit stellt die mdaCV keine bloße Kombination bestehender Verfahren dar, sondern ein transmethodisches Integrationsmodell, das qualitative Kategoriensysteme auf algorithmisch validierbare Weise überprüfbar macht - ein Beitrag zur Qualitätssicherung, Reproduzierbarkeit und epistemischen Transparenz in der qualitativen Bildungsforschung.
-Die mehrdimensional-analytische Clustervalidierung begleitete nicht nur den Analyseprozess im engeren Sinne, sondern wurde über den gesamten Promotionszeitraum hinweg als sensible, seismografisch wirkende Dauermessung eingesetzt. Die jeweiligen Messpunkte wurden nach gezielten Veränderungen am Suchbegriffkorpus vorgenommen und erlauben eine fortlaufende Rückmeldung über die semantische Konsistenz des Quellenraums, wobei die Anzahl der Cluster dauerhaft mit $n = 4$ beibehalten wurde.
-
-Im Rahmen einer Analyse (Achsen: Suchbegriff, Kategorie, Forschungsfrage) wärhend des Forschungsprozesses wurde der Korpus beispielsweise zunächst auf $n = 3502$ Quellen bereinigt, indem bestimmte Dokumentgattungen (etwa Manuskripte oder unspezifische Vorabfassungen) ausgeschlossen wurden. Infolge dieser Kuration stieg der Silhouette-Score von $0.964$ auf $0.9751$. Diese Differenz ist nicht als bloße numerische Verbesserung zu verstehen, sondern als qualitatives Emergenzphänomen. Nach Einbezug der o.a. Herleitung, wirkt jede Bereinigung in einem semantisch hochdimensionalen Raum potenziell in alle Richtungen. Der Erkenntniswert liegt somit weniger in der absoluten Score-Steigerung, sondern in der damit verbundenen epistemischen Schärfung, die sich durch den Ausschluss semantischer Rauschelemente ergibt. Hier demonstriert die Analyse exemplarisch, wie sich durch dreidimensional deduktive Validierung eine strukturell kohärente Quellenarchitektur rekonstruieren lässt.
-
-Nach erneuter Einbindung der zuvor ausgeschlossenen Konferenzbände stieg die Anzahl der analysierten Quellen auf $n = 3572$. Überraschenderweise blieb der Silhouette-Score mit $0.9754$ nicht nur stabil, sondern übertraf den vorherigen Wert sogar leicht. Dieses Ergebnis legt nahe, dass die dreidimensionale deduktive Validierung hinreichend robust ist, um auch heterogene Dokumenttypen kohärent zu integrieren. Der ursprünglich befürchtete semantische Rausch-Effekt durch Konferenzbeiträge trat nicht ein; vielmehr scheint die zunehmende Datenfülle eine semantische Verdichtung zu bewirken. Das Cluster-Modell reagiert dabei nicht empfindlich, sondern resilient-emergent auf Datenerweiterung.
-
-Die Beobachtungen von Veränderungen innerhalb der mehrdimensional-analytische Clustervalidierungsind insbesondere im Grenzbereich zwischen Systemstabilität und kategorialer Modifikation aufschlussreich. In einem weiterem Durchgang wurde der Eintragstyp Buchteil gezielt untersucht. Dabei wurde der Datensatz minimal um einen Eintrag reduziert (nun $n = 3571$), woraufhin sich der Silhouette-Score um $-0.001$ veränderte. Diese Differenz mag numerisch klein erscheinen, ist jedoch im Kontext eines Scores über $0.97$ hochrelevant. In diesem Bereich deutet bereits eine Veränderung in der dritten Nachkommastelle auf strukturelle Anpassungen im Clustermodell hin, etwa durch leicht verschobene Clusterzentren oder veränderte Einpassung eines Einzelbeitrags.
-Diese hier exemplarisch angedeutete Sensitivität ist Ausdruck der hohen Auflösung und Differenzierungsfähigkeit des Modells. Im Gegensatz zu vielen anderen Clustering-Ansätzen, die bei kleinen Eingriffen stark „springen“, reagiert dieses System kontinuierlich und rückmeldungsfähig. Der Eintragstyp Buchteil könnte beispielhaft eine inhärent variablere semantische Positionierung besitzen, etwa durch seine Funktion als Vorwort, methodischer Einschub oder Randthema. Auch eine Überrepräsentation bestimmter Werke kann potenziell zu Verzerrungen führen. Die gezielte Analyse solcher Subtypen eröffnet Möglichkeiten für weiterführende Fragestellungen: Wie viele Buchteile stammen aus dem gleichen Werk? Welche Achsendimensionen beeinflussen ihre Clusterzuordnung? Und inwieweit führt das gezielte Entfernen einzelner Elemente zu strukturellen Verschiebungen im Modell?
-Eine Veränderung von bspw. $0.001$ bei konstantem Stichprobenumfang und stabiler $k$-Means-Architektur stellt eine reale, systemisch interpretierbare Verschiebung dar. Das System reagiert feinfühlig, d.h. auf Einzelbeiträge und dokumentiert deren Auswirkungen auf die Gesamtstruktur. Daraus ergeben sich potenzielle Analysepfade zur Erforschung mikrostruktureller Dynamiken innerhalb epistemisch strukturierter Clusterräume. Wie Tabelle 5 darstellt, überlagern sich nicht nur qualitative und quantitative Paradigmen, sondern verzahnen sich strukturell.
-Tabelle 6: Strukturelle Paradigmen-Überlagerung bei Clusteranalysen
-Quantitativ	Qualitativ
-
-<<<Abbildungen einfügen>>>
-
-Silhouette-Score als Gütemaß	Deduktive Kategorienstruktur
-Clusterdichte und Trennschärfe	Theoriegeleitete Semantikachsen
-
-$k$-Means als algorithmischer Kern	Vorstrukturierung durch Forschungsperspektiven
-Die Darstellung verdeutlicht, wie sich deduktive, theoriegeleitete Kategorien mit algorithmischen, quantitativ validierbaren Verfahren, etwa dem $k$-Means-Algorithmus und dem Silhouette-Score, strukturell verzahnen. Diese methodische Komplementarität ist zentral für die mehrdimensional-analystische Clustervalidierung (mdaCV) und ermöglicht die gleichzeitige Berücksichtigung epistemischer Tiefenstruktur und formaler Trennschärfe.
-Besonders hervorzuheben ist dabei, dass die methodische Verzahnung nicht nur eine Erweiterung quantitativer Validierungsmaßstäbe bedeutet, sondern auch die Öffnung für neue, integrative Bewertungsdimensionen. Während die klassische Clusterbewertung meist auf einzelne numerische Kennzahlen fokussiert, rückt der mdaCV-Ansatz die Notwendigkeit einer umfassenderen Güteprüfung ins Zentrum, bei der neben der formalen Trennschärfe auch die inhaltliche Erfassungstiefe und Vollständigkeit der Daten eine Rolle spielt. Damit wird der Blick für latente Verlustrisiken geschärft, die rein metrische Metriken bislang ausblenden.
-
-**Epistemische Verlustfunktion als heuristisches Integritätsmaß**
-
-Im Kontext der mehrdimensional-analytischen Clustervalidierung wird üblicherweise der Silhouette-Score als zentrales Maß zur Beurteilung der Clusterdifferenzierung genutzt (i.A.a. Rousseeuw [-@rousseeuw_silhouettes_1987]). Dieser Wert allein erfasst jedoch lediglich die geometrische Separierbarkeit der Cluster im Vektorraum. Was bislang fehlt, ist ein zusammengesetztes Maß, das sowohl die strukturelle Kohärenz (Silhouette) als auch die semantische Vollständigkeit (Datenintegrität) einer Analyse widerspiegelt. Im Rahmen dieser Dissertation wurde daher eine epistemische Verlustfunktion $\varepsilon$ eingeführt, die beide Dimensionen in einem einzigen heuristischen Indikator vereint. Ziel dieses Verfahrens ist die Modellierung eines skalierbaren Integritätsmaßes, welches sowohl den Grad der Clusterdifferenzierung als auch den Umfang erfasster Quellen berücksichtigt. Die Funktion kann damit als Überwachungsgröße für Datenverarbeitungsläufe herangezogen werden und kritische Abweichungen sichtbar machen, die sich nicht allein über Silhouette- oder Dokumentenzahl abbilden lassen. Die epistemische Verlustfunktion wird von den beiden Größen Clusterdifferenzierungsleistung, gemessen über den Silhouette-Score, und Datenvollständigkeit, gemessen über das Verhältnis zwischen intendierter und tatsächlich verarbeiteter Quellenzahl. Die epistemische Verlustfunktion $\varepsilon$ wird wie folgt definiert:
+Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion \(\varepsilon\) eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
 
 Formel zur Definition der Verlustfunktion:
 
-$$
+```{=latex}
+\begin{equation}
+\label{eq:verlust}
 \varepsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
-$$ {#eq:verlust}
+\end{equation}
+```
 
-Diese additive Formulierung bringt zwei unterschiedliche Validitätsaspekte auf eine gemeinsame Skala:
-    
-- Struktureller Verlust, formuliert als $(1-S)$, wobei $S$ den Silhouette-Score repräsentiert. Diese Größe misst die Abweichung vom optimalen Clusteringwert $S=1$. Je niedriger der Silhouette-Score, desto größer ist der Verlust an struktureller Trennschärfe und Clusterkohärenz.
-- Datenverlust, formuliert als $\frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}$. Dieser Term beschreibt den relativen Anteil an Quellen, die nicht in die Analyse einflossen. Je höher der Wert, desto größer ist die epistemische Lücke im analysierten Datenkorpus.
-- Beide Komponenten sind dimensionslos, additiv kombinierbar und liegen im Werteberich $W=[0,2]$. Die resultierende Funktion $\varepsilon$ gibt somit eine Gesamtverlustschätzung für die epistemische Integrität eines Analyseverfahrens.
+Ein Beispiel mit \(S = 0{,}9754\), \(n_{\text{Soll}} = 3585\) und \(n_{\text{Ist}} = 3583\) ergibt \(\varepsilon \approx 0{,}0252\). Der Wert zeigt, dass trotz kleiner Datenlücken eine hohe Integrität erreicht wird. Die Verlustfunktion eignet sich insbesondere als Frühwarnsystem (Verlust von Quellen, unplausible Score-Sprünge) und als zusätzlicher Qualitätsindikator in reproduzierbaren Pipelines.
 
-Angenommen, ein Analyse-Korpus umfasst $n_{\text{Soll}} = 3585$ Einträge, in die Clustervalidierung gingen $n_{\text{Ist}} = 3583$ Quellen ein. Der ermittelte Silhouette-Score beträgt $S = 0,9754$. Dann ergibt sich:
+### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:4-3-7}
 
-$$
-\varepsilon = (1 - 0,9754) + \frac{2}{3585} \approx 0,0246 + 0,000558 \approx 0,0252
-$$
-
-Die epistemische Verlustfunktion liegt in diesem Fall mit $\approx 0,0252$ in einem sehr niedrigen Bereich. Sie zeigt, dass trotz kleiner Datenverluste und nicht perfekter Trennschärfe eine nahezu optimale Integrität erreicht wurde. Damit bietet somit $\varepsilon$ eine differenzierte Perspektive auf die Validität einer Analyse und eignet sich insbesondere:
-
-- zur Qualitätssicherung von Analysepipelines (z. B. automatische Literaturanalysen, KI-generierte Korpora),
-- zum Vergleich unterschiedlicher Datenverarbeitungen (z. B. real vs. manipuliert vs. zufällig) sowie
-- als metawissenschaftliche Monitoring-Größe in dynamischen Forschungsumgebungen.
-
-Der Nutzen dieses Maßes liegt nicht in seiner absoluten Exaktheit, sondern in der epistemischen Sensibilität. Schon kleinste Abweichungen vom Ideal (Silhouette < 1 oder Datenlücken) werden sichtbar gemacht und können reflektiert werden, woraus eine neue Form der kontinuierlichen Gültigkeitsüberwachung in datenintensiven Forschungsprozessen entsteht. Die hier eingeführte epistemische Verlustfunktion $\varepsilon$ stellt ein heuristisches und gleichzeitig methodisch begründetes Integritätsmaß dar, das den Anspruch der mdaCV auf Verknüpfung qualitativer und quantitativer Güteprinzipien konsequent weiterführt. Sie ist anschlussfähig für weitere Forschungsdesigns, maschinelle Analysen und metawissenschaftliche Validitätsdiskurse.
-
+Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen in Kapitel \hyperref[sec:4-4]{4.4}.
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
 
 ## 4.5 Reflexion der Methode {#sec:4-5}
