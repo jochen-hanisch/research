@@ -338,7 +338,23 @@ Bereits in der Zusammenstellung der Analyseeinheiten werden bewusste Entscheidun
 Ein wesentlicher Bestandteil des methodischen Vorgehens ist die fortlaufende Selbstprüfung und Justierung. Dazu gehören die Prüfung der Wirksamkeit der Prompts, die Diskussion der Silhouette-Werte zur Clustertrennschärfe, aber auch die bewusste Unterscheidung zwischen Analysen 1. Ordnung (einzelne Quelle) und Analysen 2. Ordnung (übergreifende Auswertung, Rückführung auf die FU).
 Mein methodisches Vorgehen erfüllt, trotz seiner systemisch-flexiblen Struktur, zentrale Anforderungen wissenschaftlicher Strenge. Die Methoden sind theoriebasiert, nachvollziehbar, funktional gewählt und systematisch eingesetzt. Zugleich werden klassische Evaluationsverfahren in ein offenes, komplexitätssensibles Design integriert.
 
+
 Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist originär, transparent dokumentiert und methodologisch innovativ.
+
+### 4.5.1 Methodenkritische SWOT-Analyse zum KI-gestützten Vorgehen
+
+Der gezielte Einsatz generativer KI-Tools im Rahmen dieses Forschungsvorhabens eröffnet ein breites Spektrum an Chancen, erfordert zugleich aber eine strukturierte Reflexion der damit verbundenen Herausforderungen. Um diese Ambivalenzen differenziert zu analysieren, wird ergänzend eine SWOT-Analyse vorgenommen, die Stärken, Schwächen, Chancen und Risiken der KI-gestützten Methodik im Kontext einer systemisch-forschungsfragengeleiteten Analyse beleuchtet. Dieses Vorgehen orientiert sich an den methodischen Überlegungen zur SWOT-Analyse als reflexivem Analyseinstrument nach @niederberger_swot-analyse_2015, Seite 35–38 sowie und @hogan_swot-analyse_2009, Seite 258–259:
+
+Table: SWOT-Analyse des KI-gestützten methodischen Vorgehens \label{tab:swot_ki_methodik}
+
+| Kategorie | Inhalt |
+|----------|--------|
+| **Stärken** | Hohe Analysegeschwindigkeit, transparente Dokumentation der Analysepfade, skalierbare Reproduktion der Analysen über versionierte Prompts und Skripte, hohe Trennschärfe der Cluster (Silhouette-Werte), systematische Verbindung qualitativer und quantitativer Auswertungsschritte. **Maßnahme:** Diese Stärken werden gezielt genutzt, indem alle Analyseschritte versioniert, reproduzierbar dokumentiert und konsequent für Sensitivitätsanalysen (z.B. Variation von *k*, erneute Clusterläufe) eingesetzt werden. |
+| **Schwächen** | Interpretationsspielräume der Modelle (Black-Box-Charakter), potenzielle algorithmische Verzerrungen, Risiko, dass statistische Kennwerte inhaltliche Reflexion überlagern, initialer Aufwand für die Konzeption von Kategorien, Prompts und Auswertungspipelines. **Maßnahme:** Begrenzung dieser Schwächen durch transparente Protokollierung aller Parameter, Gegenlesen der Clusterstruktur mit theoriegeleiteten Kategorien, iterative Prompt-Revision sowie das bewusste Voranstellen inhaltlicher Interpretation vor Kennwertdeutung. |
+| **Chancen** | Erweiterung klassischer Analyseverfahren um valide Prüfgrößen (z.B. Silhouette-Scores, mdaCV), methodische Innovation in der Theoriebildung (P-QIA, mehrdimensional-analytische Clustervalidierung), Erschließung großer Literaturkorpora, Förderung kollaborativer und transparent dokumentierter Erkenntnissysteme. **Maßnahme:** Systematische Nutzung dieser Chancen durch Anwendung der Verfahren auf alle relevanten FU, Vergleich unterschiedlicher Modellläufe, Veröffentlichung der Skripte und Dokumentation als Beitrag zu einer anschlussfähigen, datenbasierten Curriculumsforschung. |
+| **Risiken** | Scheinobjektivität der Kennwerte, ethische Implikationen (Delegation von Bewertung, Umgang mit Daten), Abhängigkeit von Modellarchitekturen, Infrastruktur und Promptqualität, mögliche Replikationsprobleme bei Modellwechseln, Gefahr der Unterschätzung manueller Kontextkenntnis. **Maßnahme:** Risikominimierung durch explizite Reflexionspassagen im Methodikteil, Dokumentation der Grenzen, ergänzende manuelle Plausibilitätsprüfungen (z.B. Stichproben-Codierung von Quellen), sorgfältige Auswahl datenschutzkonformer Umgebungen sowie Planung von Replikationsstrategien bei künftigen Modellupdates. |
+
+Die SWOT-Analyse dient einerseits der Validierung des eigenen methodischen Vorgehens, andereseits zur Verdeutlichung der Notwendigkeit eines verantwortungsbewussten und theoriegeleiteten Einsatzes KI-gestützter Werkzeuge innerhalb wissenschaftlicher Analyseprozesse in Anlehung der vorherigen Abschnitte.
 
 Methodische Stärken
 
