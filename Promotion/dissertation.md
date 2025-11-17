@@ -42,6 +42,8 @@ header-includes:
   - \usetikzlibrary{arrows.meta}
   - \usepackage{caption}
   - \captionsetup{font=small, labelfont=bf, skip=10pt}
+  - \usepackage{draftwatermark}
+  - \SetWatermarkText{Arbeitsversion}
 ---
 
 \pagestyle{plain}
