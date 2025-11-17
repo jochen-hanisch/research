@@ -201,7 +201,7 @@ Gemeinsam bilden diese Ordnungen einen iterativen Zyklus: Jede Stufe liefert die
 Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
 
 1. **Quellenimport und Tagging:** Aus Zotero exportierte Einträge werden über ihre Tags (`Promotion:Literaturanalyse` + Argumentationskategorie) den FUs zugeordnet.
-2. **Promptbasierte Auswertung:** GPT erzeugt strukturierte Markdown-Analysen, die deduktiv definierte Kategorien ausfüllen und mit Originalzitaten aus der Quelle verknüpfen.
+2. **Promptbasierte Auswertung:** Ein KI-gestütztes Textanalysewerkzeug erzeugt strukturierte Markdown-Analysen, die deduktiv definierte Kategorien ausfüllen und mit Originalzitaten aus der Quelle verknüpfen.
 3. **Dokumentation:** Jede Analyse erhält einen Header mit Metadaten (Quelle, Datum, Prompt-Version). Die Ergebnisse liegen versioniert in Obsidian vor und können jederzeit erneut validiert werden.
 4. **Qualitätssicherung:** Quellen, die inhaltlich nicht in den digitalen Bildungsraum passen, werden bereits auf dieser Ebene identifiziert und als „irrelevant" markiert. So bleiben nur überprüfte Texte im weiteren Prozess.
 
@@ -225,10 +225,10 @@ Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-b
 - Segmentierung aller Texte in Sinnabschnitte (1–3 Sätze; bei FU7 1–2 Sätze).
 - Transformation der Segmente in hochdimensionale Embeddings.
 - k-means-Clustering und Gütebewertung via Silhouette-Koeffizient.
-- GPT-gestützte Label-Vorschläge, die durch die Forschende überprüft und theoretisch validiert werden.
+- KI-gestützte Label-Vorschläge, die durch die Forschende überprüft und theoretisch validiert werden.
 - Ableitung konsistenter Kodiermanuale mitsamt Ankerbeispielen.
 
-Large Language Models fungieren hierbei nicht als autonome Erkenntnissubjekte, sondern als strukturierende Werkzeuge. Steuerung und Interpretation verbleiben vollständig bei der Forschenden.
+Die eingesetzten KI-basierten Textmodelle fungieren hierbei nicht als autonome Erkenntnissubjekte, sondern als strukturierende Werkzeuge. Steuerung und Interpretation verbleiben vollständig bei der Forschenden.
 
 #### Algorithmische Umsetzung
 
@@ -237,9 +237,9 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 1. **Forschungsunterfrage und Materialfestlegung (Mayring)** – Definition der FU und Auswahl des Materials (Primäranalysen, Notizen, Quellen).
 2. **Festlegung der Analyseeinheiten (Mayring)** – Definition von Sinnabschnitten und Kontextebenen.
 3. **Segmentierung (P-QIA)** – Automatische Zerlegung der Texte in 1–3 Sätze (bei FU7 1–2 Sätze) inklusive Dokumentation der Regeln.
-4. **Embedding und probabilistische Strukturierung (P-QIA)** – GPT-Embeddings und k-means-Clustering mit FU-spezifischem *k*.
+4. **Embedding und probabilistische Strukturierung (P-QIA)** – vektorbasiert berechnete Textrepräsentationen und k-means-Clustering mit FU-spezifischem *k*.
 5. **Qualitätssicherung der Cluster (P-QIA)** – Berechnung des Silhouette-Koeffizienten und Bereinigung instabiler Cluster.
-6. **Ableitung und Revision der Kategorien (Mayring + P-QIA)** – LLM-gestützte Label, theoretische Validierung, Kodiermanual.
+6. **Ableitung und Revision der Kategorien (Mayring + P-QIA)** – KI-gestützte Label, theoretische Validierung, Kodiermanual.
 7. **Kodierung des Materials (Mayring)** – Anwendung des Manuals, Dokumentation von Grenzfällen.
 8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P-QIA)** – Rückbindung an die FU und Dokumentation der Kennwerte.
 
@@ -290,7 +290,7 @@ Die Validierung umfasst automatische Kodierungstests, erneute Clusterbildungen m
 Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung grundsätzlich menschlich. Grenzen ergeben sich aus:
 
 - **Parameter- und Modellvariabilität:** Embedding-Modelle und Clusterparameter beeinflussen die Ergebnisse; Entscheidungen müssen dokumentiert und begründet werden.
-- **Black-Box-Charakter der LLMs:** Interne Repräsentationen sind nur begrenzt interpretierbar. Transparente Protokolle mildern, aber eliminieren das Problem nicht.
+- **Black-Box-Charakter der Modelle:** Interne Repräsentationen sind nur begrenzt interpretierbar. Transparente Protokolle mildern, aber eliminieren das Problem nicht.
 - **Gefahr der Scheinobjektivität:** Statistische Kennwerte ersetzen keine inhaltliche Reflexion. Sie fungieren als Unterstützungs-, nicht als Entscheidungsinstanz.
 - **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung müssen explizit adressiert werden.
 
@@ -336,17 +336,7 @@ Als Herleitungsgrundlage kann ein systemisch-konstruktivistisches Verständnis v
 Bereits in der Zusammenstellung der Analyseeinheiten werden bewusste Entscheidungen getroffen, zum Beispiel zur Nichtberücksichtigung von Masterarbeiten und reiner „grauer Literatur“ in bestimmten Clusteranalysen. Diese werden nicht nur transparent dargestellt, sondern auch theoriebezogen begründet. Dadurch erhöht sich die Validität der Aussagen.
 
 Ein wesentlicher Bestandteil des methodischen Vorgehens ist die fortlaufende Selbstprüfung und Justierung. Dazu gehören die Prüfung der Wirksamkeit der Prompts, die Diskussion der Silhouette-Werte zur Clustertrennschärfe, aber auch die bewusste Unterscheidung zwischen Analysen 1. Ordnung (einzelne Quelle) und Analysen 2. Ordnung (übergreifende Auswertung, Rückführung auf die FU).
-Mein methodisches Vorgehen erfüllt, trotz seiner systemisch-flexiblen Struktur, zentrale Anforderungen wissenschaftlicher Strenge. Die Methoden sind theoriebasiert, nachvollziehbar, funktional gewählt und systematisch eingesetzt. Gleichzeitig erweitere ich die bestehende Methodendiskussion durch den reflektierten Einsatz generativer KI als epistemisches Werkzeug und durch die Integration klassischer Evaluationsverfahren in ein offenes, komplexitätssensibles Design.
-
-Diese Vorgehensweise ist nicht nur methodisch tragfähig, sondern auch ein konkreter Beitrag zur Weiterentwicklung digital-epistemischer Forschung in Bildungssettings.
-
-Selbstverständlich muss im Sinne der wissenschaftlichen Redlichkeit ([@doring_forschungsmethoden_2023, Seite 130-131]) und in Anbetracht der aktuellen kritischen Haltung gegenüber generativen bzw. künstlichen Intelligenzen das hier gewählte methodische Vorgehen nicht nur dargelegt, sondern im besonderen Maße nachvollziehbar erläutert werden. Als Grund für diese Erklärung kann angeführt werden, dass die wissenschaftliche Eigenleistung infrage gestellt werden kann, wenn die Analysen GPT-basiert durchgeführt werden. Das methodische Vorgehen, d. h. die Durchführung inhaltsanalytischer Einzelanalysen mithilfe von GPT und deren anschließende Zusammenführung durch eine deduktive, auf Forschungsunterfragen ausgerichtete Cluster- und Metaanalyse, stellt eine eigenständige wissenschaftliche Leistung dar. Diese kann durch folgende Begründungslogik belegt werden:
-
-- Selbständige Definition erkenntnisleitender Kategorien: Die zugrunde liegenden Kategorien und Kodierungen (wie z.B. „Akzeptanz“, „Nützlichkeit“, „Effekt“, „Gestaltung“) wurden aus den Forschungsunterfragen eigenständig abgeleitet. Diese Kategorien sind als deduktive Filter anzusehen, welche die Ausrichtung und Vergleichbarkeit der GPT-gestützten Einzelanalysen ermöglichen. Ohne diese Struktur blieben die Ergebnisse der Analysen unsystematisch und nicht aggregierbar.
-- Eigenständige wissenschaftliche Durchführung der Metaanalyse: Die Analysen führen zu keiner Aggregation klassischer Primärforschungsergebnisse, sondern werden zu semantisch strukturierten, vorbereiteten GPT-Einzelanalysen verdichtet. Diese enthalten bereits wissenschaftliche Extrakte, deren Struktur vorgegeben wird. In einem weiteren Schritt wird geprüft, ob die Ergebnisse im Hinblick auf die Forschungsunterfragen widerspruchsfrei, konsistent und saturiert sind. Strukturell entspricht dies einem theoriegeleiteten Validierungsschritt, wobei sowohl die analytischen Kategorien als auch die Aussagekraft der Analysen überprüft werden. 
-- GPT als analytisches Werkzeug, nicht als Urheberschaft: GPT wird ausschließlich als analytisches Instrument eingesetzt, vergleichbar mit etablierten Softwarelösungen wie SPSS oder MaxQDA. Die Verantwortung für Struktur, Steuerung und Auswertung lagen zu jeder Zeit vollständig in der eigenen Hand. Die wissenschaftliche Eigenständigkeit resultiert somit nicht aus der Textgenerierung, sondern aus der theoretischen Fundierung und Auswertung der Ergebnisse.
-- Geschlossenes System analytischer Selbstreferenz: Das Verfahren umfasst einen zyklischen Prozess: vom Theorierahmen über die empirische Anreicherung, die GPT-Analyse erster Ordnung, die Clusterdarstellung bis hin zur Rückbindung an die handlungsleitenden Forschungsunterfragen. Diese Form rekursiver Validierung stellt ein fortgeschrittenes und bislang wenig beschriebenes methodologisches Vorgehen dar.
-- Beitrag zur wissenschaftstheoretischen Innovation: Das Vorgehen erfüllt Kriterien einer strengen Operationalisierung, methodischen Reflexion über Automatisierungsprozesse sowie einer systematischen Steuerung von KI als Analyse- und Verdichtungsinstrument. Damit entsteht ein möglicher methodologischer Prototyp für KI-unterstützte Metaforschung.
+Mein methodisches Vorgehen erfüllt, trotz seiner systemisch-flexiblen Struktur, zentrale Anforderungen wissenschaftlicher Strenge. Die Methoden sind theoriebasiert, nachvollziehbar, funktional gewählt und systematisch eingesetzt. Zugleich werden klassische Evaluationsverfahren in ein offenes, komplexitätssensibles Design integriert.
 
 Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist originär, transparent dokumentiert und methodologisch innovativ.
 

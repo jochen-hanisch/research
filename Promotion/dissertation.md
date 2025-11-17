@@ -103,9 +103,8 @@ header-includes:
 | ----------- | ---------------------------------------------------------------------------------------------------- |
 | E-Portfolio | Digitales Portfolio zur Dokumentation und Reflexion von Lernleistungen.                              |
 | FU          | Forschungsunterfrage (FU1–FU7) als operationalisierte Teilfragestellungen.                           |
-| KI          | Künstliche Intelligenz; insbesondere generative Verfahren zur Dokumentenanalyse.                     |
+| KI          | Künstliche Intelligenz; insbesondere datengetriebene Verfahren zur Dokumentenanalyse.               |
 | LMS         | Learning-Management-System; zentrale Plattform zur Bereitstellung und Organisation der Lehrangebote. |
-| LLM         | Large Language Model; Sprachmodell zur semantischen Einordnung großer Textkorpora.                   |
 | LXP         | Learning Experience Platform; nutzungszentrierte Erweiterung eines LMS.                              |
 | mdaCV       | Mehrdimensional-analytische Clustervalidierung zur Prüfung der literaturbasierten Clusterstruktur.   |
 | MOOC        | Massive Open Online Course; frei zugängliches Online-Lernformat.                                     |
