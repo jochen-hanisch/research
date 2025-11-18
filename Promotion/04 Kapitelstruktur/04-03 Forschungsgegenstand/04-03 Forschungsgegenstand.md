@@ -10,7 +10,6 @@ Konsequenzen klar zweiteilig gliedern:
 (b) didaktisch-strukturell
 Learning Management System (LMS) = Schnittstelle zwischen Norm und Didaktik
 
-
 ## 3.1 Kontext des Forschungsgegenstandes {#sec:3-1}
 
 ### 3.1.1 Rechtlich-funktionale Rahmung {#sec:3-1-1}
