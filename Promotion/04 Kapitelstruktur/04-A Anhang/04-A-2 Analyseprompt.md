@@ -1,3 +1,5 @@
+\newpage
+
 # A.2 Prompt zur Analyse einer Quelle {#sec:A-2}
 
 Deine Aufgabe ist, wissenschaftliche Artikel, eine Forschungsarbeiten oder Konferenzbeiträge, der sich mit digitalen Bildungssystemen, deren Entwicklung, Nutzung oder Bewertung befasst, zu analysieren. Der Text sollte Informationen zu Methoden, Theorien, Ergebnissen und Diskussionen enthalten.
