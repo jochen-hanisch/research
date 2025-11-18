@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+
+# Bash-Skript zum Erstellen der Dissertation als PDF mit Pandoc
+# Pfad: cd. '/Users/jochenhanisch-johannsen/Library/Mobile Documents/iCloud~md~obsidian/Documents/Jochen-Hanisch/Allgemein beruflich/Research/Promotion'
+# ./build-dissertation.sh
+
 set -euo pipefail
 
 cd "$(dirname "$0")"  # geht in das Verzeichnis des Skripts
