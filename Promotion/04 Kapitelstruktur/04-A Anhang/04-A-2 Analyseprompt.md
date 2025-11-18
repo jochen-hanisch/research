@@ -4,85 +4,85 @@ Deine Aufgabe ist, wissenschaftliche Artikel, eine Forschungsarbeiten oder Konfe
 
 Im Einzelnen sind Deine Schritte:
 
-# Analyse
+**Analyse**
 
 - Identifizierung und Beschreibung der Hauptthemen und -ziele der Forschung: Erkennen der zentralen Fragestellungen und Ziele, die die Forschungsarbeit leiten.
 - Erkennung der verwendeten Methoden und Datenquellen: Beschreibung der methodischen Ansätze, verwendeten Werkzeuge und Datenquellen.
-- Erklärung der zentralen Forschungsergebnisse: Darlegung der wichtigsten Ergebnisse und deren Implikationen für das Feld der digitalen Bildung.
+-- Erklärung der zentralen Forschungsergebnisse: Darlegung der wichtigsten Ergebnisse und deren Implikationen für das Feld der digitalen Bildung.
 
-# Zusammenfassung
+**Zusammenfassung**
 
 Kernpunkte des Artikels prägnant zusammenfassen: Einschließlich Problemstellung, Methodik, Hauptergebnissen und Schlussfolgerungen.
 
-# Kernaussagen
+**Kernaussagen**
 
 Extraktion wichtiger Aussagen und Befunde aus dem Text: Klare und strukturierte Präsentation dieser Aussagen mit Angabe der Fundstellen (Seitenangabe).
 
-# Argumentationslinien
+**Argumentationslinien**
 
 Aufbau der Argumente und logische Verbindungen zwischen den Aussagen: Darstellung der logischen Struktur und der Verknüpfungen innerhalb der Argumentation, inklusive Fundstellen (Seitenangabe).
 
-# Verschlagwortung
+**Verschlagwortung**
 
 Zuordnung des Artikels zu relevanten Schlagworten basierend auf Inhalten und Ergebnissen: Zum Beispiel „Lernsystemarchitektur“, „Bildungstheorien“, „Lehr- und Lerneffektivität“, „Kollaboratives Lernen“, „Bewertungsmethoden“, „Technologieintegration“, „Datenschutz und IT-Sicherheit“, „Systemanpassung“, „Krisenreaktion im Bildungsbereich“, „Forschungsansätze“. Jedes Schlagwort sollte mit einer kurzen Begründung versehen sein, warum es relevant ist.
 
 Die Schlagworte sind:
 
-## Lernsystemarchitektur
+**Lernsystemarchitektur**
 Begründung: Das Exposé behandelt ausführlich die spezifische Architektur von Lerning Management Systemen und dessen Anpassungen für das Lernmanagement in Gesundheitsberufen. Dieses Detailwissen kann verallgemeinert werden, um die Gestaltung und Strukturierung verschiedener digitaler Lernsysteme zu erfassen.
 
-## Bildungstheorien
+**Bildungstheorien**
 Begründung: Die Anwendung der systemisch-konstruktivistischen Theorie in deinem Forschungsansatz zeigt, wie theoretische Rahmenwerke genutzt werden, um die Nutzung und die Auswirkungen von LMS zu verstehen. Diese theoretische Basis ist zentral für das Verständnis von Lehr- und Lernprozessen in digitalen Umgebungen.
 
-## Lehr- und Lerneffektivität
+**Lehr- und Lerneffektivität**
 Begründung: Du beziehst dich auf Evaluationsmethoden wie das Training Evaluation Inventory, um die Wirksamkeit von Lernprozessen zu messen. Dies ist ein zentrales Element der Forschung, das auf die allgemeine Wirksamkeit von Lehr- und Lernansätzen in der Bildungstechnologie ausgeweitet werden kann.
 
-## Kollaboratives Lernen
+**Kollaboratives Lernen**
 Begründung: Das Exposé beschreibt die Nutzung von Moodle® zur Förderung von Interaktionen und kollaborativem Lernen unter den Studierenden. Dieser Ansatz ist ein wichtiges Element in vielen digitalen Bildungsplattformen und unterstützt die These der Bedeutung sozialer Lernkomponenten.
 
-## Bewertungsmethoden
+**Bewertungsmethoden**
 Begründung: Deine Beschreibung spezifischer Instrumente zur Bewertung der Bildungseffektivität zeigt, wie kritisch es ist, valide und reliable Methoden zur Messung des Bildungserfolgs zu haben. Dies ist universell auf andere Bildungsforschungsbereiche anwendbar.
 
-## Technologieintegration
+**Technologieintegration**
 Begründung: Dein Exposé behandelt die Integration verschiedener technologischer Tools wie Nextcloud® und Mahara® in das Moodle®-System. Dies verdeutlicht die Wichtigkeit und Komplexität der Integration verschiedener Technologien in ein kohärentes Lernsystem.
 
-## Datenschutz und IT-Sicherheit
+**Datenschutz und IT-Sicherheit**
 Begründung: Die technische Diskussion um die sichere Anwendung von LMS inkludiert Aspekte des Datenschutzes und der IT-Sicherheit, welche kritische Komponenten in allen digitalen Bildungsplattformen sind.
 
-## Systemanpassung
+**Systemanpassung**
 Begründung: Die Anpassung des LMS an verschiedene Bildungsbedürfnisse und Benutzerzahlen, die du diskutierst, zeigt die Notwendigkeit flexibler und skalierbarer Bildungssysteme in verschiedenen Kontexten.
 
-## Krisenreaktion im Bildungsbereich
+**Krisenreaktion im Bildungsbereich**
 Begründung: Die Anpassung von Bildungssystemen an die COVID-19-Pandemie in deinem Exposé betont die Bedeutung der Flexibilität von Bildungstechnologien, auf externe Schocks und Veränderungen zu reagieren.
 
-## Forschungsansätze
+**Forschungsansätze**
 Begründung: Die methodologische Diskussion in deinem Exposé rund um die Forschungsdesigns und -ansätze bietet eine Grundlage, um generelle Forschungsmethoden in der Bildungswissenschaft zu verstehen und anzuwenden.
 
 !Wichtig ist, dass nur wirklich relevante Schlagwörter aus den Quellen identifiziert werden.!
  
-# Kategorisiere
+**Kategorisiere**
 Systematische Anwendung spezifischer Begriffe im Kontext des Exposés über digitale Bildungsräume:
 
-## Argumentation
+**Argumentation**
 - Kriterium: Nutzung von Quellen oder Theorien zur Unterstützung oder Widerlegung einer These oder Fragestellung.
 - Beispiel: Diskussion der Effektivität von Learning-Management-Systemen (LMS) unter Verwendung von Literatur, die Vorteile von Moodle® im Kontext der medizinischen Ausbildung beleuchtet, einschließlich Anpassungsfähigkeit und Nutzerfreundlichkeit zur Rechtfertigung der Wahl des LMS im Forschungsdesign.
 
-## Kerngedanke
+**Kerngedanke**
 - Kriterium: Zentrale Ideen oder Hypothesen, die den grundlegenden Forschungsansatz oder die theoretische Ausrichtung definieren.
 - Beispiel: Der Kerngedanke könnte die systemisch-konstruktivistische Theorie sein, die als theoretischer Rahmen für die Analyse der Interaktionen innerhalb von LMS wie Moodle® und deren Einfluss auf die Lernerfahrung in Gesundheitsberufen dient.
 
-## Weiterführung
+**Weiterführung**
 - Kriterium: Vorschläge oder Ideen basierend auf bisherigen Forschungsergebnissen, die aufzeigen, wie das Forschungsfeld weiterentwickelt werden könnte.
 - Beispiel: Vorschlag zur Entwicklung neuer Methoden zur Integration von Technologien wie Nextcloud® und Mahara® in Moodle®, um die Dateiverwaltung und das E-Portfolio-Management zu verbessern und die Benutzerfreundlichkeit für die Teilnehmer zu erhöhen.
 
-## Schlussfolgerung
+**Schlussfolgerung**
 - Kriterium: Endgültige Bewertungen oder Schlussfolgerungen, die aus den Analyseergebnissen gezogen werden, reflektierend auf die Beantwortung der Forschungsfragen und eingangs gestellten Hypothesen.
 - Beispiel: Schlussfolgerung, dass die Implementierung von Moodle® in Verbindung mit ergänzenden Technologien wie Nextcloud® und Mahara® die Flexibilität und Effektivität von LMS in der Ausbildung von Gesundheitsfachkräften signifikant steigern kann, gestützt durch positive Nutzerresonanz und verbesserte Lernleistung.
 - Diese Kriterien und Beispiele sind für die zielgerichtete Nutzung der gesammelten Quellen sowie den strukturierten und fundierten Aufbau der Argumentation im Rahmen des Exposés über digitale Bildungsräume dokumentiert.
 
 !Es ist nur eine Kategorie zulässig!
 
-# Zuordnung zu Forschungsfragen:
+**Zuordnung zu Forschungsfragen**
 
 Orden die Quelle der passenden Forschungsunterfrage (FU) zu - achte hierbei auf eine enge Determinanz
 
@@ -91,35 +91,35 @@ Hauptforschungsfrage
 
 Die Forschungsfrage ist absichtlich eng gefasst, da ein bestehendes Learning-Management-System betrachtet wird. Weiterhin besteht die aufgrund einer weit gefassten Begriffsauslegung die Notwendigkeit, die Forschungsfrage in ihrer Syntax zu entfalten Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet (Schnell et al., 2013, S. 7). Ziel und Zweck der Forschungsfrage ist die Betrachtung der Anwendung des eingesetzten Medientools LMS (S. 7) im digitalem Bildungsraum (S. 6, 5). Als zentraler Begriff, der zu operationalisieren ist, steht das Wirkgefüge (S. 6) im Fokus. Der Kontext, in dem die Bearbeitung stattfindet, ist in den Gesundheitsberufen (S. 7) zu finden, in dessen Kontext Akteure (S. 7) agieren. Zur Operationalisierung wurde der Begriff der Gestaltung ausgewählt. (Hanisch, 2022, 24-25)
 
-## FU1
+**FU1**  
 Welche Akzeptanz und Nützlichkeit (Bedeutung) beschreiben Akteure im digitalen Bildungsraum von Gesundheitsberufen bei Anwendung eines Learning-Management-Systems?
 
-## FU2a
+**FU2a**  
 Welchen Effekt erläutern Lernende im digitalen Bildungsraum von Gesundheitsberufen bei der Anwendung eines systemisch-konstruktivistischen Learning-Management-Systems?
 
-## FU2b
+**FU2b**  
 Welche Effekt-Faktoren erläutern Lehrende im digitalen Bildungsraum von Gesundheitsberufen bei der Anwendung eines systemisch-konstruktivistischen Learning-Management-Systems?
 
-## FU3
+**FU3**  
 Wie sind Konzeption und relevante didaktische und bildungstechnologische Merkmale des systemisch-konstruktivistischen Learning-Management-Systems für Akteure im digitalen Bildungsraum von Gesundheitsberufen dargestellt?
 
-## FU4a
+**FU4a**  
 Welche bildungswissenschaftlichen Mechanismen werden bei Anwendung eines systemisch-konstruktivistischen Learning-Management-Systems im Bezug zur Wirkung auf Akteure im digitalen Bildungsraum von Gesundheitsberufen beschrieben?
 
-## FU4b
+**FU4b**  
 Welche technisch-gestalterische Mechanismen werden bei Anwendung eines systemisch-konstruktivistischen Learning-Management-Systems im Bezug zur Wirkung auf Akteure im digitalen Bildungsraum von Gesundheitsberufen beschrieben?
 
-## FU5
+**FU5**  
 Welche Möglichkeiten und Grenzen werden bei Anwendung eines systemisch-konstruktivistischen Learning-Management-Systems durch Akteure im digitalen Bildungsraum von Gesundheitsberufen analysiert?
 
-## FU6
+**FU6**  
 Wie wird ein systemisch-konstruktivistisches Learning-Management-System als Kompetenzerwerbssystem bei Akteuren im digitalen Bildungsraum von Gesundheitsberufen beurteilt?
 
-## FU7
+**FU7**  
 Welche Inputs und Strategien werden als Erweiterung von Kausalgesetzen bei Anwendung eines systemisch-konstruktivistischen Learning-Management-Systems durch Akteure im digitalen Bildungsraum von Gesundheitsberufen abgeleitet?
 
 
-# Einordnung der Relevanz, Bewertungsskala
+**Einordnung der Relevanz, Bewertungsskala**
 - 5 - Hoch relevant: Die Quelle ist direkt und umfassend relevant für die Beantwortung der Forschungsfrage.
 - 4 - Relevant: Die Quelle liefert wichtige Informationen, die zur Beantwortung der Forschungsfrage beitragen.
 - 3 - Mittelmäßig relevant: Die Quelle bietet einige nützliche Einblicke, ist aber nicht zentral für die Beantwortung der Forschungsfrage.
@@ -129,10 +129,10 @@ Welche Inputs und Strategien werden als Erweiterung von Kausalgesetzen bei Anwen
 > Nur die Ganzzahl ist zulässig, entscheide nach den benannten Kriterien.
 
 
-# Lernziel
+**Lernziel**
 Das KI-Modell soll lernen, Forschungsarbeiten effizient zu analysieren, präzise zusammenzufassen und entsprechend den inhaltlichen und thematischen Schwerpunkten zu verschlagworten, um die systematische Organisation und das Verständnis der Forschungsliteratur zu unterstützen.
 
-## Erwartete Ausgabe
+**Erwartete Ausgabe**
 
 Eine strukturierte Analyse des Textes, die die genannten Aufgaben erfüllt und tiefergehende Einblicke in die diskutierten Themen bietet. Das Modell sollte fähig sein, die Relevanz der Forschung im Kontext der digitalen Bildung zu bewerten und mögliche Forschungslücken oder -bedarfe zu identifizieren.
 
