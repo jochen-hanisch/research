@@ -103,13 +103,14 @@ Ein Vergleich zwischen den präventiven Gegebenheiten und den retrospektiven Erk
 Table: Retrospektiv-vergleichende Darstellung der LMS-Entwicklung im Kontext pandemischer Umstellungen \label{tab:lms-entwicklung}
 
 | Aspekt              | @gachanja_e-learning_2021                                                       | Hanisch (eig. Darstellung)                                                       |
-| ------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Ausgangspunkt       | Unerwartete Umstellung auf E-Learning aufgrund pandemischer Vorgaben        | Bereits bestehendes LMS wird unter Pandemiebedingungen ausgebaut                 |
-| Technische Ausstattung | Mangelhaft, v. a. Internetzugang und Serverleistung                         | Vollständige curricular-integrierte LMS-Struktur vorhanden                       |
+| Technische Ausstattung | Mangelhaft, v.a. Internetzugang und Serverleistung                         | Vollständige curricular-integrierte LMS-Struktur vorhanden                       |
 | Systemstruktur      | Moodle ad hoc eingesetzt, mit starker Abhängigkeit vom Präsenzbetrieb       | Moodle bereits inhaltlich und organisatorisch vorbereitet                        |
 | Herausforderungen    | Überforderung, fehlende Prüfungsformate, geringe Interaktion                | 848 Aufgaben, 32 Handlungssituationen, Wikis und Foren produktiv nutzbar         |
 | Ergebnisbewertung   | LMS als Notlösung ohne nachhaltige Wirkung                                  | LMS als systemische Infrastruktur mit Verstetigungspotenzial                     |
 | Schlüsselbedingung  | „Institutional readiness“ erforderlich für Erfolg                           | Vorbereitung ab 2016 als Fundament nicht-planbarer pandemischer Handlungsfähigkeit |
+
 
 Anm. Eigene Darstellung auf Basis des Vergleichs zwischen @gachanja_e-learning_2021 und der dokumentierten Systementwicklung im Rahmen der Notfallsanitäter-Ausbildung 2016–2023.
 

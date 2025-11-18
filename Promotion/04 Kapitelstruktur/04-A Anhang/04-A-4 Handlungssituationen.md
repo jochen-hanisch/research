@@ -1,8 +1,8 @@
-## Übersicht Berufliche Handlungssituationen \sec{#anhang-handlungssituationen}
+## Übersicht Berufliche Handlungssituationen {#sec:A-4}
 
 In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsraum für die Ausbildung von Notfallsanitäter:innen vorgesehenen beruflichen Handlungssituationen präsentiert. Jede Handlungssituation ist mit ihrer Kursbezeichnung, dem Titel, der Anzahl der zugehörigen Aufgaben sowie der geplanten Bearbeitungsdauer in Tagen aufgeführt.
 
-Tabel: Übersicht Berufliche Handlungssituationen {#tbl:handlungssituationen}
+Table: Übersicht Berufliche Handlungssituationen \label{tab:A-4}
 
 | Kursbezeichnung | Titel                                                                 | $\sum$ Aufgaben | Dauer [d] |
 |-----------------|-----------------------------------------------------------------------|-----------:|----------:|
@@ -38,6 +38,6 @@ Tabel: Übersicht Berufliche Handlungssituationen {#tbl:handlungssituationen}
 | NFS-H-30        | Mit BOS zusammenarbeiten                                              |         13 |         5 |
 | NFS-H-31        | Das eigene Berufsfeld reflektieren                                    |         54 |         5 |
 | NFS-H-32        | Vorbereitung auf die Notfallsanitäterprüfung                          |         60 |        40 |
-| Gesamt          |                                                                       |        848 |       971 |
+| **Gesamt**      |                                                                       |     **848** |    **971** |
 
 Diese tabellarische Darstellung zeigt die Zuordnung der Aufgaben sowie die vorgesehene Bearbeitungsdauer in Tagen für jede Handlungssituation im digitalen Bildungsraum. Sie bildet die empirische Grundlage für die statistische Analyse der curricularen Struktur.
