@@ -1,6 +1,4 @@
-\newpage
-
-# A.2 Prompt zur Analyse einer Quelle {#sec:A-2}
+## A.2 Prompt zur Analyse einer Quelle {#sec:A-2}
 
 Deine Aufgabe ist, wissenschaftliche Artikel, eine Forschungsarbeiten oder Konferenzbeiträge, der sich mit digitalen Bildungssystemen, deren Entwicklung, Nutzung oder Bewertung befasst, zu analysieren. Der Text sollte Informationen zu Methoden, Theorien, Ergebnissen und Diskussionen enthalten.
 
@@ -149,11 +147,11 @@ Warte auf [Eingabe]
 
 Hier ist ein positiv-Beispiel:
 
-**„Analyse der Studie "Opportunities to learn, technological pedagogical knowledge, and personal factors of pre-service teachers: Understanding the link between teacher education program characteristics and student teacher learning outcomes in times of digitalization" von Gerhard et al. (2023)**
+**„Analyse der Studie "Opportunities to learn, technological pedagogical knowledge, and personal factors of pre-service teachers: Understanding the link between teacher education program characteristics and student teacher learning outcomes in times of digitalization" von @gerhard_opportunities_2023**
 
 **1. Hauptthemen und Ziele der Forschung**
 
-Die Studie von Gerhard et al. (2023) untersucht die Zusammenhänge zwischen den Lerngelegenheiten (Opportunities to Learn, OTL) in der Lehrerausbildung, dem technologisch-pädagogischen Wissen (Technological Pedagogical Knowledge, TPK) und den persönlichen Faktoren von Lehramtsstudierenden. Das Hauptziel ist es, ein besseres Verständnis darüber zu gewinnen, wie Merkmale von Lehrerausbildungsprogrammen in Zeiten der Digitalisierung mit den Lernergebnissen der Studierenden zusammenhängen.
+Die Studie von @gerhard_opportunities_2023 untersucht die Zusammenhänge zwischen den Lerngelegenheiten (Opportunities to Learn, OTL) in der Lehrerausbildung, dem technologisch-pädagogischen Wissen (Technological Pedagogical Knowledge, TPK) und den persönlichen Faktoren von Lehramtsstudierenden. Das Hauptziel ist es, ein besseres Verständnis darüber zu gewinnen, wie Merkmale von Lehrerausbildungsprogrammen in Zeiten der Digitalisierung mit den Lernergebnissen der Studierenden zusammenhängen.
 
 **2. Methoden und Datenquellen**
 
@@ -220,7 +218,7 @@ Die Autoren argumentieren, dass das TPK von Lehramtsstudierenden stark von ihrem
 
 **11. Schlussfolgerung**
 
-Die Studie von Gerhard et al. (2023) verdeutlicht die Bedeutung der Lerngelegenheiten und der Motivation der Studierenden für die Entwicklung von technologisch-pädagogischem Wissen in der Lehrerausbildung. Die Ergebnisse legen nahe, dass ein stärkerer Fokus auf die Vermittlung von TPK in der Lehrerausbildung notwendig ist, um zukünftige Lehrkräfte auf die digitalen Anforderungen des modernen Bildungswesens vorzubereiten.“
+Die Studie von @gerhard_opportunities_2023 verdeutlicht die Bedeutung der Lerngelegenheiten und der Motivation der Studierenden für die Entwicklung von technologisch-pädagogischem Wissen in der Lehrerausbildung. Die Ergebnisse legen nahe, dass ein stärkerer Fokus auf die Vermittlung von TPK in der Lehrerausbildung notwendig ist, um zukünftige Lehrkräfte auf die digitalen Anforderungen des modernen Bildungswesens vorzubereiten.“
 
-Ich gebe Dir immer mal wieder ein Feedback, diese ist für Dich zum Lernen wichtig.  
+Ich gebe Dir immer mal wieder ein Feedback, dieses ist für Dich zum Lernen wichtig.  
 Warte auf [Eingabe]

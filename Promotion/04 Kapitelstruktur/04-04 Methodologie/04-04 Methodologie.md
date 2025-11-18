@@ -198,7 +198,7 @@ Gemeinsam bilden diese Ordnungen einen iterativen Zyklus: Jede Stufe liefert die
 
 ### 4.3.2 Analyse 1. Ordnung: Primäranalysen {#sec:4-3-2}
 
-Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
+Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`; siehe Anhang A.2, Prompt zur Analyse einer Quelle, {#sec:A-2}). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
 
 1. **Quellenimport und Tagging:** Aus Zotero exportierte Einträge werden über ihre Tags (`Promotion:Literaturanalyse` + Argumentationskategorie) den FUs zugeordnet.
 2. **Promptbasierte Auswertung:** Ein KI-gestütztes Textanalysewerkzeug erzeugt strukturierte Markdown-Analysen, die deduktiv definierte Kategorien ausfüllen und mit Originalzitaten aus der Quelle verknüpfen.
