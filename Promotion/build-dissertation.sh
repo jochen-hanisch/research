@@ -21,6 +21,7 @@ pandoc \
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A-1 Begriffe.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A-4 Handlungssituationen.md" \
+  "04 Kapitelstruktur/04-A Anhang/04-A-5 Suchordner.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A-2 Analyseprompt.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A-3 P-QIA-Prompt.md" \
   --filter pandoc-crossref \
