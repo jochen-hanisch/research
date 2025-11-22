@@ -2,7 +2,7 @@
 author: Jochen Hanisch-Johannsen
 title: Feedback – Eine systemische und zirkuläre Perspektive
 created: 2024-12-06
-updated: 2024-11-22
+updated: 2024-12-06
 tags:
   - Feedback
   - Systemtheorie
@@ -46,11 +46,11 @@ In der Kommunikationstheorie von **Claude Shannon** und **Warren Weaver** (*Shan
 
 ### Feedback
 
-[[Allgemein beruflich/Research/Systemtheorie/Feedback]] beschreibt den Vorgang, bei dem ein System die Wirkung eines eigenen Outputs als Input zurückführt. In mathematischer Sprache handelt es sich um eine rekursive Abhängigkeit $x_{t+1} = f(x_t)$, wobei $f$ eine Transformationsfunktion darstellt, die sich dynamisch anpasst. In sozialen und psychischen Systemen entspricht Feedback der Beobachtung von Konsequenzen, die aus dem eigenen Handeln resultieren.
+Feedback beschreibt den Vorgang, bei dem ein System die Wirkung eines eigenen Outputs als Input zurückführt. In mathematischer Sprache handelt es sich um eine rekursive Abhängigkeit $x_{t+1} = f(x_t)$, wobei $f$ eine Transformationsfunktion darstellt, die sich dynamisch anpasst. In sozialen und psychischen Systemen entspricht Feedback der Beobachtung von Konsequenzen, die aus dem eigenen Handeln resultieren.
 
 Im Zusammenhang mit der Gleichung
 
-$$
+$$ 
 P(t) = P_{\text{real}}(t) + i \cdot \tan(\beta t) \cdot P_{\text{real}}(t) \tag{3}
 $$
 
@@ -60,18 +60,22 @@ bedeutet Feedback, dass der imaginäre Anteil der [[Wirkungswahrscheinlichkeit]]
 
 Feedback ist ein universeller Mechanismus, der die Selbstregulation, Reflexion und Anpassung in lebenden, psychischen, sozialen und technischen Systemen ermöglicht. Seine Funktion im zirkulären Lernprozess ist zentral, um Unterschiede sichtbar zu machen und Anpassungen vorzunehmen.
 
-# 4 Implikationen
+# 4 Einordnung im Elementaroperations-Zyklus
+
+Feedback ist die auslösende Elementaroperation im Zyklus Feedback → Reflexion → Reentry. Es liefert den Differenzimpuls, der zur Reflexion führt (Inversion) und nachfolgend in der Reentry-Phase integriert wird. Damit ist Feedback nicht nur ein Regelungsmechanismus, sondern der operative Startpunkt für die kleinste nicht weiter teilbare Reflexionsschleife in allen Systemtypen (physikalisch, chemisch, biologisch, lebend, psychisch, sozial). Die spezifische Ausprägung der Reflexion im psychischen System (Günther: Reflexionsidentität, Selbstbruch) ist eine systemtypische Form, bleibt aber durch Feedback operativ angebunden.
+
+# 5 Implikationen
 
 Die Implikationen des Feedback-Konzepts sind vielfältig: 
 - In der Bildung ermöglicht es zielgerichtete Lernprozesse und die Förderung von Selbstregulation.
 - In der Technik sorgt es für stabile und adaptive Systeme.
 - In der Kommunikation verbessert es die Effektivität zwischenmenschlicher und technischer Interaktionen.
 
-# 5 Kritik
+# 6 Kritik
 
 Trotz seiner universellen Bedeutung ist Feedback nicht immer effektiv. Es hängt stark von der Wahrnehmung, den Bedürfnissen und den Emotionen der empfänglichen Systeme ab. Unspezifisches oder übermäßig kritisches Feedback kann zu Widerständen und Fehlinterpretationen führen.
 
-# 6 Zusammenfassung
+# 7 Zusammenfassung
 
 Der Begriff **Feedback** beschreibt einen neutralen Informationsimpuls, der Unterschiede sichtbar macht, Reflexionsprozesse anstößt und systeminterne Anpassungen ermöglicht. Er wird in biologischen, psychischen, sozialen und technischen Systemen angewendet und ist entscheidend für die Selbstorganisation, Stabilität und Weiterentwicklung dieser Systeme.
 
