@@ -146,7 +146,7 @@ Operator-Kette (Elementar‑Operation):
 
 ```mermaid
 flowchart LR
-    U[Impuls u] --> FB[Delta c ATP]
+    U[Impuls] --> FB[ATP-Anstieg]
     FB --> R[PFK-Hemmung]
 ```
 Abbildung: Feedback (ATP-Anstieg) triggert die Transformation (PFK-Hemmung).
@@ -174,8 +174,8 @@ Operator-Kette (Elementar‑Operation):
 
 ```mermaid
 flowchart LR
-    P0[Erstprodukt B] --> FB[Delta c B]
-    FB --> R[Katalyse durch B]
+    P0[Erstprodukt] --> FB[Produktanstieg]
+    FB --> R[Katalyse durch Produkt]
 ```
 Abbildung: Produkt B erzeugt einen Differenzimpuls und wirkt katalytisch zurück (Reflexion).
 
@@ -210,9 +210,9 @@ Operator-Kette (Elementar‑Operation):
 - Reflexion: fördernde/hemmende Teilreaktionen als interne Transformation $f(c)$.
 
 ```mermaid
-flowchart LR
-    S0[Zwischenprodukt Delta c i] --> FB[Impuls]
-    FB --> R[f(c): foerdernd/hemmend]
+flowchart TD
+    S0[Zwischenprodukt] --> FB[Impuls]
+    FB --> R[fördernd/hemmend]
     R --> FB
 ```
 Abbildung: Zwischenprodukt-Impulse werden intern transformiert (fördernd/hemmend) und speisen das nächste Feedback.
@@ -238,7 +238,6 @@ Chemische Systeme besitzen damit eine strukturelle Kopplung zur Elementar‑Oper
 
 Die biologische Perspektive (organismisch und populationsbezogen) zeigt Reflexion als regulatorische Selbstbezüglichkeit: Systeme verarbeiten interne Differenzen, gleichen Abweichungen aus und transformieren Zustände entlang eigener Strukturen. Fokus hier: Variabilität, Regulationsnetzwerke und Oszillation als biologische Grundformen von Reflexionsoperationen.
 
-
 ### 2.3.1 Genetische und phänotypische Variabilität als differenzbasierte Rückkopplung
 
 Komplexe biologische Merkmale wie Körpergröße oder Augenfarbe entstehen durch das Zusammenspiel vieler Gene und Umweltfaktoren. Diese Merkmale variieren kontinuierlich innerhalb einer Population (Sadava et al., 2019, S. 365). Die Variation entsteht durch unterschiedliche Ausprägungen genetischer Aktivität und deren Reaktion auf Umweltbedingungen.
@@ -251,12 +250,80 @@ Biologisch zeigt sich hier:
 
 Damit wird Variabilität nicht als zufällige Streuung verstanden, sondern als Ergebnis systemischer Selbstbezüglichkeit. Gene, Regulationsmechanismen und Umweltfaktoren wirken rekursiv aufeinander ein.
 
+Ein einfaches Modell der Genregulation (Hill-Kinetik):
+
+$$
+\dot{x} = \frac{d^n}{K^n + d^n} - \gamma x
+\tag{4}
+$$
+
 
 ### 2.3.2 Regulationsnetzwerke als biologische Reflexionsoperatoren
 
 Biologische Regulationsnetzwerke sind die zentralen Operatoren, durch die lebende Systeme Differenzen aufnehmen, transformieren und in veränderte Zustände zurückführen. Sie erfüllen damit strukturell exakt jene Funktion, die die Elementar‑Operation Reflexion beschreibt: ein System verarbeitet eine interne oder externe Differenz entlang seiner eigenen Struktur.
 
 Regulationsnetzwerke umfassen Genregulationssysteme, Signaltransduktionskaskaden, Hormonsysteme, neuronale Netzwerke und metabolische Kontrollzyklen. Allen gemeinsam ist eine dreistufige Operation:
+
+Mathematisch lässt sich diese Operation als nichtlineares dynamisches System fassen:
+
+$$
+\dot{x}(t) = f(x(t), u(t))
+\tag{5}
+$$
+
+mit internem Zustand $x(t)$, Impuls $u(t)$ (Feedback) und Transformationsoperator $f$ (Reflexion).
+
+**Feedback-Operator**
+
+$$
+F: X \times U \to D, \qquad F(x,u) = u - h(x)
+\tag{6}
+$$
+
+$h(x)$ repräsentiert interne Referenz/Sollwert/Sensorik; $F$ liefert die Differenz $d$.
+
+**Reflexionsoperator**
+
+$$
+R: D \times X \to X, \qquad R(d, x) = g(d, x)
+\tag{7}
+$$
+
+Allgemein:
+
+$$
+g(d, x) = \sigma(Ax + Bd)
+\tag{8}
+$$
+
+mit Netzwerkstruktur $A$, Eingangssensitivität $B$ und nichtlinearer Aktivierung $\sigma$ (z. B. Hill, sigmoid, Heaviside, Rectifier).
+
+**Reentry / Systemdynamik**
+
+$$
+x(t+\Delta t) = x(t) + R(F(x(t),u(t)), x(t)) \cdot \Delta t
+\tag{9}
+$$
+
+Einsetzen ergibt:
+
+$$
+\dot{x}(t) = R(F(x(t), u(t)), x(t)) = g(u(t) - h(x(t)),\, x(t))
+\tag{10}
+$$
+
+Universale Operatorform:
+
+$$
+\boxed{\dot{x}(t) = g\big(u(t) - h(x(t)),\, x(t)\big)}
+\tag{11}
+$$
+
+Abbildung auf die Elementaroperationen:
+
+- Feedback: $d = u - h(x)$
+- Reflexion: $g(d,x)$
+- Reentry: Dynamik $x(t+\Delta t)$
 
 - **Feedback**: Eine Abweichung wird registriert – Konzentration, Energiezustand, Ligandenbindung, Membranpotenzial oder mechanischer Impuls.
 - **Reflexion**: Die Abweichung wird entlang der Systemstruktur verarbeitet. Dies geschieht etwa durch Transkriptionsfaktoren, second messenger, Kinasenkaskaden oder elektrische Aktivierung.
@@ -265,23 +332,29 @@ Regulationsnetzwerke umfassen Genregulationssysteme, Signaltransduktionskaskaden
 Diese Schleife zeigt sich in allen Regulationsmechanismen:
 
 1. **Genregulationsnetzwerke**  
-   Gene werden nicht linear aktiviert, sondern in Abhängigkeit von internen und externen Differenzen. Eine erhöhte Konzentration eines Proteins kann seine eigene Transkription hemmen (negatives Feedback) oder fördern (positives Feedback). Die Genexpression ist somit ein Reflexionsoperator: Sie verarbeitet Differenzen und verändert die Reaktionslage des Systems.
+   Gene werden nicht linear aktiviert, sondern in Abhängigkeit von internen und externen Differenzen. Eine erhöhte Konzentration eines Proteins kann seine eigene Transkription hemmen (negatives Feedback) oder fördern (positives Feedback). Die Genexpression ist somit ein Reflexionsoperator: Sie verarbeitet Differenzen und verändert die Reaktionslage des Systems (Alon, 2019).
 
 2. **Signaltransduktion**  
-   Rezeptoren erkennen Liganden oder mechanische Impulse. Die Aktivierung löst eine intrazelluläre Kaskade aus, etwa über Kinasen (MAPK, PI3K). Diese Transformation ist die biologische Entsprechung der Reflexionsoperation: Ein Eingangssignal wird innerhalb der Systemstruktur verarbeitet und invertiert, moduliert oder verstärkt.
+   Rezeptoren erkennen Liganden oder mechanische Impulse. Die Aktivierung löst eine intrazelluläre Kaskade aus, etwa über Kinasen (MAPK, PI3K). Diese Transformation ist die biologische Entsprechung der Reflexionsoperation: Ein Eingangssignal wird innerhalb der Systemstruktur verarbeitet und invertiert, moduliert oder verstärkt (Lemmon & Schlessinger, 2010).
 
 3. **Metabolische Kontrollzyklen**  
    Metabolismen reagieren auf Energie- oder Substratdifferenzen, etwa in der Regulation von ATP/AMP‑Quotienten. AMP‑aktivierte Proteinkinase (AMPK) fungiert als sensorischer Reflexionsoperator: Sie erkennt ATP‑Mangel und invertiert den metabolischen Fluss hin zu ATP‑Produktion. Dies ist strukturelle Reflexion in Reinform.
+   
+   $$ 
+   \dot{x} = \sigma\big(\alpha\,\text{AMP/ATP} - \theta\big)
+   \tag{12}
+   $$
+   (Hardie et al., 2012)
 
 4. **Neuronale Netzwerke**  
-   Neurone integrieren kontinuierlich synaptische Eingänge. Die somatische Summation ist eine biophysikalische Reflexionsoperation: Eingänge (Feedback) werden transformiert (Postsynaptisches Potential), und die resultierende neuronale Antwort wirkt zurück in das Netzwerk (Reentry). Die neuronale Plastizität (LTP/LTD) verstärkt diese Rückwirkung.
+   Neurone integrieren kontinuierlich synaptische Eingänge. Die somatische Summation ist eine biophysikalische Reflexionsoperation: Eingänge (Feedback) werden transformiert (Postsynaptisches Potential), und die resultierende neuronale Antwort wirkt zurück in das Netzwerk (Reentry). Die neuronale Plastizität (LTP/LTD) verstärkt diese Rückwirkung (Dayan & Abbott, 2001).
 
 5. **Hormonsysteme**  
-   Hormone werden in Abhängigkeit von systemischen Parametern (z. B. Blutzucker, Stress, Wasserhaushalt) ausgeschüttet. Die hormonelle Antwort verändert die Zielorgane und damit die Systemzustände, die wiederum die Hormonfreisetzung regulieren. Solche endokrinen Rückkopplungen bilden geschlossene Reflexionsschleifen.
+   Hormone werden in Abhängigkeit von systemischen Parametern (z. B. Blutzucker, Stress, Wasserhaushalt) ausgeschüttet. Die hormonelle Antwort verändert die Zielorgane und damit die Systemzustände, die wiederum die Hormonfreisetzung regulieren. Solche endokrinen Rückkopplungen bilden geschlossene Reflexionsschleifen (Guyton & Hall, 2021).
 
 Regulationsnetzwerke erfüllen damit alle strukturellen Merkmale der Elementar‑Operation Reflexion. Sie transformieren Differenzen entlang eigener Systemstrukturen und führen die Ergebnisse in die Systemdynamik zurück. Diese Operation ist universell in der Biologie und bildet die Grundlage aller adaptiven Prozesse lebender Systeme.
 
-Homöostase ist entegegn der erstn Intuition kaum als Reflexion zu verstehen und muss als das beobachtbare Ergebnis solcher Reflexionsketten eingeordnet werden. Feedback und interne Verarbeitung stellen einen Parameter neu ein, die stabile Ausprägung ist der Effekt der zugrunde liegenden Operationen.
+Homeostases ist entgegen der ersten Intuition kaum als Reflexion zu verstehen und muss als das beobachtbare Ergebnis solcher Reflexionsketten eingeordnet werden. Feedback und interne Verarbeitung stellen einen Parameter neu ein, die stabile Ausprägung ist der Effekt der zugrunde liegenden Operationen.
 
 ### 2.3.3 Biologische Oszillation als zyklische Reflexionsschleife
 
@@ -303,30 +376,47 @@ Strukturell:
 - Reflexion: unbewusste heuristische Verarbeitung,
 - Reentry: verhaltensleitende Emotion oder Intuition.
 
+Neurales Integrationsmodell (vereinfachte lineare Form):
+
+$$
+\dot{V} = -\frac{1}{\tau}V + \sum_i w_i u_i
+\tag{13}
+$$
+
 Auch hier zeigt sich: biochemische und neurokognitive Prozesse implementieren die Elementar‑Operation Reflexion vor jeder bewussten Bewertung.
 
-## 2.4 Perspektive: Lebende Systeme
+## 2.4 Naturwissenschaftlicher Sockel → systemtheoretische Abstraktion
+
+Die naturwissenschaftlichen Perspektiven – Physik, Chemie und Biologie – zeigen, dass Reflexion als Elementar‑Operation eine grundlegende, systemübergreifende Struktur besitzt: Ein System empfängt einen Differenzimpuls, verarbeitet ihn entlang seiner eigenen Struktur und führt das transformierte Ergebnis in seine Systemdynamik zurück. Diese Operation ist in allen drei Perspektiven nachweisbar, jedoch jeweils in einer systemtypischen Realisationsform.
+
+Physikalische Grenzflächen (Reflexion von Lichtfeldern), chemische Rückkopplungs‑ und Regulationsdynamiken (Inhibition, Autokatalyse, Oszillation) und biologische Regulationsnetzwerke (Genregulation, Signaltransduktion, neuronale Integration) sind keine voneinander unabhängigen Mechanismen. Sie sind Ausprägungen derselben universalen Operation: Feedback → Reflexion → Reentry. Damit liefern die Naturwissenschaften nicht den „Sockel“ im Sinne eines Fundamentes unterhalb der Operation, sondern die empirisch beobachtbaren Realisationsformen der Operation selbst. Die Elementar‑Operation Reflexion ist das eigentliche Fundament, das in unterschiedlichen Systemtypen je eigene Prozessformen hervorbringt.
+
+Mit dem Übergang zu lebenden Systemen tritt zu den biochemischen Regulationsprozessen eine weitere strukturelle Dimension hinzu: Autopoiesis. Lebende Systeme realisieren die Elementar‑Operation Reflexion nicht nur als Reaktion auf Differenzen, sondern als Bestandteil ihres Selbsterhalts. Sie ziehen Systemgrenzen, regulieren Zustände, erzeugen eigene Impulse und formen damit die operative Grundlage ihrer Umweltbeziehungen. Die systemtheoretische Perspektive beginnt nicht „statt“ der Biologie, sondern als nächsthöhere Abstraktionsebene über biologischen Regulationsprozessen. 
+
+Diese Überleitung bildet die Grundlage für die folgenden Abschnitte: Die Elementar‑Operation Reflexion erscheint in lebenden, psychischen und sozialen Systemen nicht als neue Operation, sondern als systemtypische Prozessform derselben universalen Struktur. Damit schlagen die Naturwissenschaften einen konsistenten Bogen zur Systemtheorie, ohne kategoriale Sprünge zu erzwingen: Alle weiteren Prozessformen (Autopoiesis, Bewusstsein, Kommunikation) bleiben Variationen derselben Operation.
+
+## 2.5 Perspektive: Lebende Systeme
 
 Lebende Systeme als Subklasse biologischer Systeme sind durch metabolische Autonomie, Selbsterhalt und eigenständige Grenzziehung (Autopoiesis) charakterisiert. Reflexion meint hier: ein Organismus reagiert auf eigene Zustände und Umweltimpulse so, dass Organisation und Funktion erhalten und angepasst werden.
 
-### 2.4.1 Autopoiesis und Selbsterhalt
+### 2.5.1 Autopoiesis und Selbsterhalt
 - Feedback: metabolische Flüsse, die Differenzen (Energie, Konzentrationen) anzeigen.
 - Reflexion: interne Regulation (Enzyme, Membrantransporte, Signalwege) zur Stabilisierung.
 - Reentry: angepasster Stoffwechselzustand, der wiederum zukünftige Reaktionen beeinflusst.
 
-### 2.4.2 Sensorische Inversion und Verhalten
+### 2.5.2 Sensorische Inversion und Verhalten
 - Feedback: sensorische Reize (Schmerz, Temperatur, Licht).
 - Reflexion: Inversion in interne Signale, Bewertung und Aktivierung motorischer Programme.
 - Reentry: verändertes Verhalten (Flucht, Regulation, Anpassung) verändert Umweltkopplung.
 
-### 2.4.3 Entwicklung und Plastizität
+### 2.5.3 Entwicklung und Plastizität
 - Feedback: Umwelt- und interne Signale, die Entwicklungspfade modulieren.
 - Reflexion: genetisch-regulatorische Programme reagieren adaptiv (z. B. epigenetische Markierung).
 - Reentry: veränderte Morphologie/Physiologie beeinflusst weitere Entwicklung und Umweltinteraktion.
 
-## 2.5 Perspektive: Psychische Systeme
+## 2.6 Perspektive: Psychische Systeme
 
-### 2.5.1 Teilperspektive Psychologie
+### 2.6.1 Teilperspektive Psychologie
 
 In der Psychologie wird Reflexion vor allem in Bezug auf Metakognition untersucht.  
 - **John Flavell** (1976): Reflexion ist die Fähigkeit, über die eigenen kognitiven Prozesse nachzudenken, sie zu überwachen und zu steuern.  
@@ -334,7 +424,7 @@ In der Psychologie wird Reflexion vor allem in Bezug auf Metakognition untersuch
 
 Diese Perspektive zeigt, wie Reflexion zu einem besseren Verständnis der eigenen Denkprozesse führt und selbstgesteuertes Lernen ermöglicht.
 
-### 2.5.2 Teilperspektive Philosophie
+### 2.6.2 Teilperspektive Philosophie
 
 In der Philosophie wird Reflexion als Prozess des Nachdenkens über die eigenen Gedanken und Handlungen verstanden.  
 - **René Descartes** (1641): Reflexion ist die Grundlage des Selbstbewusstseins und des rationalen Denkens (*cogito ergo sum*).  
@@ -343,13 +433,13 @@ In der Philosophie wird Reflexion als Prozess des Nachdenkens über die eigenen 
 
 Die philosophische Perspektive betont die Rolle von Reflexion als Grundlage für Selbstbewusstsein und Erkenntnisbildung (Kant, 1781).
 
-### 2.5.3 Teilperspektive Kybernetik und transklassische Logik (Gotthard Günther)
+### 2.6.3 Teilperspektive Kybernetik und transklassische Logik (Gotthard Günther)
 
 Eine für psychische Systeme grundlegende Perspektive liefert Gotthard Günther in *Das Bewußtsein der Maschinen* (Günther, 1963/2021). Günther entwickelt eine transklassische, mehrwertige Logik, in deren Zentrum der Reflexionsprozess als Strukturmoment des Bewusstseins steht. Reflexion wird hier nicht als psychologische Fähigkeit verstanden, sondern als ontologische Zweiwertigkeit des Ich, das niemals vollständig mit sich selbst identisch ist. 
 
 Günthers transklassische Logik beantwortet die Frage, wie Reflexion im psychischen System formal möglich wird: durch eine Logik, die Selbstnegation und gebrochene Identität ausdrücken kann. Für die Theorie der Elementaroperationen liefert er damit die systemtypische Prozessform des psychischen Systems, nicht jedoch die universale Operation selbst.
 
-#### 2.5.3.1 Reflexionsidentität und Zweiwertigkeit
+#### 2.6.3.1 Reflexionsidentität und Zweiwertigkeit
 
 Günther beschreibt, dass ein Ich sich nur durch einen inneren Bruch, also durch die Fähigkeit zur Selbstnegation, konstituieren kann:
 
@@ -358,14 +448,14 @@ Günther beschreibt, dass ein Ich sich nur durch einen inneren Bruch, also durch
 
 Hier entsteht eine strukturelle Spannung zwischen Selbstheit und Nicht‑Selbstheit, die Günther als „Reflexionsidentität“ bezeichnet. Entscheidend ist, dass diese Identitätsform erst im psychischen System auftritt, d.h. biologische Systeme besitzen keine Subjekt‑Objekt‑Relation, sondern nur operative Rückkopplungsprozesse.
 
-#### 2.5.3.2 Reflexion 1., 2. und 3. Ordnung
+#### 2.6.3.2 Reflexion 1., 2. und 3. Ordnung
 
 Auf Seite 51 zeigt Günther anhand seiner logischen Tafeln (I–IV), dass Reflexion in verschiedenen Ordnungen auftreten kann. Die dritte Ordnung („Reflexion auf Reflexion“) überschreitet beide einfachen Reflexionsverhältnisse und bildet eine übergreifende, dreiwertige Struktur, die nicht Wahrheit/Falschheit abbildet, sondern Reflexionsdifferenzen:
 
 > „Sie repräsentiert also ein höheres Reflexionsniveau […] Diese vermittelte Reflexion auf die Reflexion aber ist ‚absolut‘.“  
 > (Günther, 1963/2021, Seite 51)
 
-#### 2.5.3.3 Strukturelle Kopplung zur Elementar‑Operation Reflexion
+#### 2.6.3.3 Strukturelle Kopplung zur Elementar‑Operation Reflexion
 
 Im Rahmen der Theorie der Elementar‑Operationen lässt sich Günthers Ansatz wie folgt einordnen: Die Operation **Reflexion** ist eine universelle, systemübergreifende Grundoperation, während Günther die **prozessuale Form** beschreibt, die diese Operation speziell im Systemtyp *psychisches System* annimmt. Reflexion ist damit systemisch gesehen die kleinste nicht weiter teilbare Operation der Bedeutungsbildung; Günthers „Reflexionsidentität“ zeigt die innere Form dieser Operation im Bewusstsein.
 
@@ -376,7 +466,7 @@ Diese Kopplung ermöglicht eine eindeutige Unterscheidung:
 
 Damit erweitert die Elementar‑Operation Reflexion die klassische kybernetische und logiktheoretische Perspektive Günthers, ohne diese zu ersetzen. Sie zeigt, wie Reflexion als Operation entsteht (Feedback → Inversion → Reflexion → Re‑Inversion → Reentry), während Günther die innere logische Struktur dieser Operation liefert.
 
-#### 2.5.3.4 Mathematisch‑logische Beweisführung der strukturellen Kopplung an den Elementaroperator Feedback
+#### 2.6.3.4 Mathematisch‑logische Beweisführung der strukturellen Kopplung an den Elementaroperator Feedback
 
 Die dreiwertige Reflexionslogik Günthers (Tafeln I–IV) lässt sich modelltheoretisch als strukturell abhängig von einem vorgängigen Differenzoperator darstellen, der durch Feedback erzeugt wird. Damit kann gezeigt werden, dass die Reflexionslogik psychischer Systeme auf der Operation Feedback als universaler Differenzquelle beruht.
 
@@ -386,14 +476,14 @@ Sei ein System $S$ mit Zustandsraum $X$ gegeben. Der Feedback‑Operator
 
 $$
 F: X \times U \to X
-\tag{4}
+\tag{14}
 $$
 
 führt zu einer Veränderung des Systemzustands. Entscheidend ist die dadurch induzierte Differenz
 
 $$
 \Delta_F(x, u) := \delta(x, F(x,u)),
-\tag{5}
+\tag{15}
 $$
 
 wobei $\delta$ eine Systemmetrik oder Äquivalenzrelation darstellt. Diese Differenzinformation ist die minimale Voraussetzung für jede Form von Reflexion, denn ohne Differenz gibt es keinen Grund für Inversion, Bewertung oder Reentry.
@@ -410,14 +500,14 @@ Formal lässt sich eine dreiwertige Wahrheitsmenge einführen:
 
 $$
 T = \{+, -, 0\},
-\tag{6}
+\tag{16}
 $$
 
 wobei „0“ den genuin reflexiven Fall der gebrochenen Identität abbildet. Eine Reflexionsdifferenzfunktion
 
 $$
 r: B \times B \to T,
-\tag{7}
+\tag{17}
 $$
 
 mit $B = \{0,1\}$, klassifiziert Differenzen zwischen zwei Bewertungen. Die dreiwertige Logik ist damit Funktion zweier zweiwertiger Perspektiven.
@@ -428,14 +518,14 @@ Um den Übergang von Feedback zu Günthers Reflexionswerten zu modellieren, läs
 
 $$
 \Phi: D \to B \times B
-\tag{8}
+\tag{18}
 $$
 
 definieren, welche die durch Feedback erzeugte Differenz $\Delta_F(x,u)$ in zwei interne Bewertungen überführt. Damit ergibt sich die Komposition:
 
 $$
 R := r \circ \Phi \circ \Delta_F : X \times U \to T.
-\tag{9}
+\tag{19}
 $$
 
 Diese Abbildung liefert genau jene Dreiwertigkeit, die Günther als „Reflexionsdifferenz im Bewusstsein“ beschreibt (Günther, 1963/2021, S. 51). Der Feedback‑Operator fungiert hier als strukturelle Voraussetzung, indem er die Differenz liefert, die durch $r$ klassifiziert wird.
@@ -478,7 +568,7 @@ Disziplinübergreifend zeigt sich damit eine strukturelle Gemeinsamkeit: Reflexi
 Mathematisch schlägt sich Reflexion in der Dynamik des Operators
 
 $$
-e^{-i H t} \tag{10}
+e^{-i H t} \tag{20}
 $$
 
 nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht extern aufgeprägt wird, sondern vom [[Interdependenzoperator]] $H$ abhängt – einem Maß für die interne Kopplungsstruktur des Systems. Die Verwendung von $e^{-iHt}$ dient hier als abstrakte, nicht-physikalische Analogie für interne Zustandsdynamik; sie soll nicht als physikalische Definition von Reflexion verstanden werden. Diese Transformation lässt sich nicht umkehren, ohne Bezug auf die interne Struktur zu nehmen. Reflexion ist somit keine externe Betrachtung, sondern ein struktureller Bestandteil der Wahrscheinlichkeitsdynamik selbst.
@@ -524,11 +614,15 @@ Reflexion beschreibt als Elementaroperation den systemischen Selbstbezug zweiter
 - Ashby, W. R. (1956). *An Introduction to Cybernetics*. Chapman & Hall.
 - Bateson, G. (1972). *Steps to an Ecology of Mind*. Chandler.
 - Brown, G. Spencer. (1969). *Laws of Form*. Allen & Unwin.
+- Dayan, P., & Abbott, L. F. (2001). *Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems*. MIT Press.
 - Dewey, J. (1910). *How We Think*. Boston: D.C. Heath.  
 - Flavell, J. H. (1976). Metacognitive aspects of problem solving. *The Nature of Intelligence*, 12(1), 231–235.
 - Günther, Gotthard. (2021). Das Bewußtsein der Maschinen: Eine Metaphysik der Kybernetik. (2. Aufl. (1963)). Klostermann.
+- Guyton, A. C., & Hall, J. E. (2021). *Textbook of Medical Physiology* (14. Aufl.). Elsevier.
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research*, 77(1), 81–112.  
+- Hardie, D. G., Ross, F. A., & Hawley, S. A. (2012). AMPK: a nutrient and energy sensor that maintains energy homeostasis. *Nature Reviews Molecular Cell Biology*, 13(4), 251–262.
 - Kant, I. (1781). *Kritik der reinen Vernunft*. Berlin: De Gruyter.  
+- Lemmon, M. A., & Schlessinger, J. (2010). Cell signaling by receptor tyrosine kinases. *Cell*, 141(7), 1117–1134.
 - Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel.
 - von Foerster, H. (1984). *Observing Systems*. Intersystems.
 - Shannon, C. E., & Weaver, W. (1949). *The Mathematical Theory of Communication*. University of Illinois Press.
