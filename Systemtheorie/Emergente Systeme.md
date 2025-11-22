@@ -17,7 +17,7 @@ GPT: true
 
 created: 2.11.2024 | [updated](https://git.jochen-hanisch.de/research/systemtheorie): 31.12.2024 | [publishd](https://zenodo.org/records/15826581): 31.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
-**Emergente [[Systeme]]: Eine systemtheoretisch-transdisziplinäre Synthese der Mensch-KI-Interaktion**
+**Emergente Systeme: Eine systemtheoretisch-transdisziplinäre Synthese der Mensch-KI-Interaktion**
 
 # Zusammenfassung
 

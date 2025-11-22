@@ -1,6 +1,6 @@
 ---
 author: Jochen Hanisch
-title: Beobachtung dritter Ordnung
+title: "**Beobachtung dritter Ordnung: Re-Entry als Motor der Selbsttransformation**"
 Repository: https://github.com/jochen-hanisch/research
 created: 2024-10-31
 updated: 2025-11-22

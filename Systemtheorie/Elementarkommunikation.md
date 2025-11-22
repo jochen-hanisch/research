@@ -23,7 +23,7 @@ status: published
 
 created: 19.12.2024 | updated: 20.1.2025 | [publishd](https://www.researchgate.net/publication/387522374_Elementarkommunikation): 30.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
-**Elementarkommunikation: Eine systemtheoretisch-transdisziplinäre Analyse der [[Interdependenz]] von on [[Feedback]], [[Reflexion]] und Re-Entry**
+**Elementarkommunikation: Eine systemtheoretisch-transdisziplinäre Analyse der Interdependenz von on Feedback, Reflexion und Re-Entry**
 
 # Einleitung
 

@@ -23,9 +23,9 @@ GPT: true
 status: draft
 ---
 
-**Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy**
-
 created: 26.1.2025 | updated: 26.1.2025 | published: 26.1.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
+
+**Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy**
 
 # Einleitung
 
