@@ -22,7 +22,7 @@ GPT: true
 
 created: 26.10.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Systemsimulation.md): 7.7.2025 | [published](https://zenodo.org/records/15826463): 7.7.2025 | [[Hinweise]]
 
-**Systemsimulation: Ein Paradigmenwechsel durch Typisierung, Qualifizierung und Modellierung - Systemtheoretische Ansätze zur Simulation lebender, psychischer, sozialer und emergenter [[Systeme]]**
+**Systemsimulation: Ein Paradigmenwechsel durch Typisierung, Qualifizierung und Modellierung - Systemtheoretische Ansätze zur Simulation lebender, psychischer, sozialer und emergenter Systeme**
 
 # Zusammenfassung
 
