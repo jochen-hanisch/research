@@ -54,7 +54,7 @@ Das seit der Antike bekannte Reflexionsgesetz lautet:
 „Einfallswinkel = Ausfallswinkel“ (Rupp, 2022, S. 30f.).
 
 
-Gemessen wird stets relativ zur Flächennormale. Entscheidend ist dabei nicht der mathematische Ausdruck, sondern die strukturelle Tatsache: Ein einfallender Impuls trifft auf eine Systemgrenzfläche, und diese Grenzfläche erzwingt eine gerichtete Rücklenkung.
+Gemessen wird stets relativ zur Flächennormale. Entscheidend ist dabei nicht der mathematische Ausdruck, sondern die strukturelle Tatsache. Ein einfallender Impuls trifft auf eine Systemgrenzfläche, und diese Grenzfläche erzwingt eine gerichtete Rücklenkung.
 
 Die physikalische Rücklenkung lässt sich auch formal fassen. Sei $\mathbf{k}$ der Richtungsvektor des einfallenden Strahls und $\mathbf{n}$ die normierte Flächennormale am Auftreffpunkt. Dann ergibt sich der reflektierte Richtungsvektor aus dem klassischen Reflexionsoperator als:
 
@@ -63,7 +63,7 @@ $$
 \tag{1}
 $$
 
-Diese Gleichung zeigt, dass Reflexion eine strukturelle Transformation darstellt: Der einfallende Impuls wird anhand der Systemstruktur (Flächennormale, Material, Geometrie) invertiert und als neuer Impuls zurückgegeben. Damit ist (1) die formal-physikalische Entsprechung der Elementar‑Operation Reflexion: Ein externer Differenzimpuls (Feedback) wird systemintern prozessiert (Reflexion) und in transformierter Form ausgegeben (Reentry, sofern Rückwirkung auf die Quelle entsteht).
+Diese Gleichung zeigt, dass Reflexion eine strukturelle Transformation darstellt. Der einfallende Impuls wird anhand der Systemstruktur (Flächennormale, Material, Geometrie) invertiert und als neuer Impuls zurückgegeben. Damit ist (1) die formal-physikalische Entsprechung der Elementar‑Operation Reflexion. Ein externer Differenzimpuls (Feedback) wird systemintern prozessiert (Reflexion) und in transformierter Form ausgegeben (Reentry, sofern Rückwirkung auf die Quelle entsteht).
 
 Das Medium führt also eine elementare Operation aus, die einer Inversion ähnelt: Der Strahl wird nicht erzeugt, sondern strukturell umgelenkt.
 
