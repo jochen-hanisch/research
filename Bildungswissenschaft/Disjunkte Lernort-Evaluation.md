@@ -17,7 +17,7 @@ published: 2025-05-11
 GPT: true
 ---
 
-created: 16.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 8.8.2025 | [published](https://zenodo.org/records/15383476) | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 16.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 8.8.2025 | [published](https://zenodo.org/records/15383476) | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 **Disjunkte Lernort-Evaluation: Ein methodischer Ansatz zur Lernort-Bewertung**
 
