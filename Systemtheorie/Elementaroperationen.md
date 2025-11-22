@@ -22,7 +22,7 @@ status: published
 
 createdt: 13.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 19.7.2025 | [publishd](https://zenodo.org/records/16174315): 10.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite/Hinweise]]
 
-**Elementaroperationen: Eine systemtheoretisch-transdisziplinäre Analyse von [[Feedback]], [[Reflexion]] und Re-Entry als universelle Prinzipien dynamischer [[Systeme]]**
+**Elementaroperationen: Eine systemtheoretisch-transdisziplinäre Analyse von Feedback, Reflexion und Re-Entry als universelle Prinzipien dynamischer Systeme**
 
 # Executive Summary
 
