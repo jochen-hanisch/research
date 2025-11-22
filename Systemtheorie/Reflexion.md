@@ -56,7 +56,7 @@ In der Systemtheorie wird Reflexion als Mechanismus beschrieben, durch den Syste
 
 Die systemtheoretische Perspektive erweitert den Begriff auf kollektive und adaptive Prozesse in sozialen und emergenten Systemen.
 
-Disziplinübergreifend zeigt sich damit eine strukturelle Gemeinsamkeit: Reflexion ist stets ein Selbstbezug zweiter Ordnung, unabhängig davon, ob sie philosophisch als Bewusstseinsbedingung, psychologisch als Metakognition oder systemtheoretisch als rekursive Selbstbeschreibung gefasst wird.
+Disziplinübergreifend zeigt sich damit eine strukturelle Gemeinsamkeit: Reflexion ist stets ein Selbstbezug zweiter Ordnung, unabhängig davon, ob sie philosophisch als Bewusstseinsbedingung, psychologisch als Metakognition oder systemtheoretisch als rekursive Selbstbeschreibung gefasst wird. Diese gemeinsame Struktur wird im psychischen System (Bewusstsein) durch Günther formal präzisiert.
 
 ### Reflexion
 
@@ -68,7 +68,7 @@ $$
 e^{-i H t} \tag{4}
 $$
 
-nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht extern aufgeprägt wird, sondern vom [[Interdependenzoperator]] $H$ abhängt – einem Maß für die interne Kopplungsstruktur des Systems. Diese Transformation lässt sich nicht umkehren, ohne Bezug auf die interne Struktur zu nehmen. Reflexion ist somit keine externe Betrachtung, sondern ein struktureller Bestandteil der Wahrscheinlichkeitsdynamik selbst.
+nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht extern aufgeprägt wird, sondern vom [[Interdependenzoperator]] $H$ abhängt – einem Maß für die interne Kopplungsstruktur des Systems. Die Verwendung von $e^{-iHt}$ dient hier als abstrakte, nicht-physikalische Analogie für interne Zustandsdynamik; sie soll nicht als physikalische Definition von Reflexion verstanden werden. Diese Transformation lässt sich nicht umkehren, ohne Bezug auf die interne Struktur zu nehmen. Reflexion ist somit keine externe Betrachtung, sondern ein struktureller Bestandteil der Wahrscheinlichkeitsdynamik selbst.
 
 ## 2.4 Perspektive 4: Kybernetik und transklassische Logik (Gotthard Günther)
 
@@ -92,7 +92,6 @@ Auf Seite 51 zeigt Günther anhand seiner logischen Tafeln (I–IV), dass Reflex
 > „Sie repräsentiert also ein höheres Reflexionsniveau […] Diese vermittelte Reflexion auf die Reflexion aber ist ‚absolut‘.“  
 > (Günther, 1963/2021, Seite 51)
 
-
 ### 2.4.3 Strukturelle Kopplung zur Elementar‑Operation Reflexion
 
 Im Rahmen der Theorie der Elementar‑Operationen lässt sich Günthers Ansatz wie folgt einordnen: Die Operation **Reflexion** ist eine universelle, systemübergreifende Grundoperation, während Günther die **prozessuale Form** beschreibt, die diese Operation speziell im Systemtyp *psychisches System* annimmt. Reflexion ist damit systemisch gesehen die kleinste nicht weiter teilbare Operation der Bedeutungsbildung; Günthers „Reflexionsidentität“ zeigt die innere Form dieser Operation im Bewusstsein.
@@ -114,12 +113,14 @@ Sei ein System $S$ mit Zustandsraum $X$ gegeben. Der Feedback‑Operator
 
 $$
 F: X \times U \to X
+\tag{5}
 $$
 
 führt zu einer Veränderung des Systemzustands. Entscheidend ist die dadurch induzierte Differenz
 
 $$
 \Delta_F(x, u) := \delta(x, F(x,u)),
+\tag{6}
 $$
 
 wobei $\delta$ eine Systemmetrik oder Äquivalenzrelation darstellt. Diese Differenzinformation ist die minimale Voraussetzung für jede Form von Reflexion, denn ohne Differenz gibt es keinen Grund für Inversion, Bewertung oder Reentry.
@@ -136,12 +137,14 @@ Formal lässt sich eine dreiwertige Wahrheitsmenge einführen:
 
 $$
 T = \{+, -, 0\},
+\tag{7}
 $$
 
 wobei „0“ den genuin reflexiven Fall der gebrochenen Identität abbildet. Eine Reflexionsdifferenzfunktion
 
 $$
 r: B \times B \to T,
+\tag{8}
 $$
 
 mit $B = \{0,1\}$, klassifiziert Differenzen zwischen zwei Bewertungen. Die dreiwertige Logik ist damit Funktion zweier zweiwertiger Perspektiven.
@@ -152,12 +155,14 @@ Um den Übergang von Feedback zu Günthers Reflexionswerten zu modellieren, läs
 
 $$
 \Phi: D \to B \times B
+\tag{9}
 $$
 
 definieren, welche die durch Feedback erzeugte Differenz $\Delta_F(x,u)$ in zwei interne Bewertungen überführt. Damit ergibt sich die Komposition:
 
 $$
 R := r \circ \Phi \circ \Delta_F : X \times U \to T.
+\tag{10}
 $$
 
 Diese Abbildung liefert genau jene Dreiwertigkeit, die Günther als „Reflexionsdifferenz im Bewusstsein“ beschreibt (Günther, 1963/2021, S. 51). Der Feedback‑Operator fungiert hier als strukturelle Voraussetzung, indem er die Differenz liefert, die durch $r$ klassifiziert wird.
@@ -165,14 +170,14 @@ Diese Abbildung liefert genau jene Dreiwertigkeit, die Günther als „Reflexion
 #### 4. Proposition (strukturelle Kopplung)
 
 **Proposition:**  
-Für jedes System \(S\) mit einem Feedback‑Operator \(F\) existiert eine Abbildung \(\Phi\), so dass eine Günther‑artige Reflexionslogik \(R\) konstruiert werden kann. Damit ist jede dreiwertige Reflexionsdifferenz logisch auf einen durch Feedback erzeugten Differenzimpuls rückführbar.
+Für jedes System ($S$) mit einem Feedback‑Operator ($F$) existiert eine Abbildung ($\Phi$), so dass eine Günther‑artige Reflexionslogik ($R$) konstruiert werden kann. Damit ist jede dreiwertige Reflexionsdifferenz logisch auf einen durch Feedback erzeugten Differenzimpuls rückführbar.
 
-Diese Beweisführung zeigt:  
-**Günthers Reflexionslogik ist die systemtypische Form der durch Feedback induzierten Differenzverarbeitung im psychischen System.**  
+> [!note] Diese Beweisführung zeigt:
+Günthers Reflexionslogik ist die systemtypische Form der durch Feedback induzierten Differenzverarbeitung im psychischen System.
 Die Elementar‑Operation Feedback liefert die Differenz; die Operation Reflexion realisiert deren interne Verarbeitung; Günther formalisiert die prozessuale Gestalt dieser Verarbeitung im Bewusstsein.
 
 **Hinweis zur Modellierung:**  
-Die Existenz von $\Phi: D \to B \times B$ ist schwach gefordert (jede sinnvolle Zuordnung genügt), daher handelt es sich um eine modelltheoretische Rekonstruktion von Günthers Tafeln, nicht um eine historische Replikation. Für stärkere Beweisansprüche können zusätzliche Bedingungen an $\Phi$ (z. B. Monotonie, Kontexttreue) eingeführt werden.
+Die Existenz von $\Phi: D \to B \times B$ ist schwach gefordert (jede sinnvolle Zuordnung genügt), daher handelt es sich um eine modelltheoretische Rekonstruktion von Günthers Tafeln und absichtlich nicht um eine historische Replikation. Für stärkere Beweisansprüche können zusätzliche Bedingungen an $\Phi$ (z. B. Monotonie, Kontexttreue) eingeführt werden.
 
 | Ebene | Inhalt | Reichweite |
 | --- | --- | --- |
@@ -186,7 +191,7 @@ Die Existenz von $\Phi: D \to B \times B$ ist schwach gefordert (jede sinnvolle 
 - **Chemisch**: Reaktive Rückwirkungen – ein Reaktionsprodukt verändert die weitere Reaktionsgeschwindigkeit (autokatalytische oder inhibierende Effekte).
 - **Biologisch**: Homöostase – hormonelle Regelkreise gleichen Abweichungen durch Rückkopplung aus.
 - **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten.
-- **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form.
+- **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form. Zudem: Eine Person ringt mit widersprüchlichen Selbstzuschreibungen („Ich bin kompetent“ vs. „Ich habe versagt“) und erlebt die Zweiwertigkeit des Selbst als gebrochene Identität (Günther).
 - **Sozial**: Organisation evaluiert eigene Kommunikationsmuster und ändert Entscheidungsprozesse (kommunikative Selbstbeobachtung).
 - **Technisch/KI**: Reinforcement-Learning-Agent passt Policy nach Reward-Feedback an; Reflexion als Anpassung des internen Modells.
 
