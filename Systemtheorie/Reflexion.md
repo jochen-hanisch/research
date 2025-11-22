@@ -53,7 +53,19 @@ Das seit der Antike bekannte Reflexionsgesetz lautet:
 
 „Einfallswinkel = Ausfallswinkel“ (Rupp, 2022, S. 30f.).
 
-Gemessen wird stets relativ zur Flächennormale. Entscheidend ist dabei nicht der mathematische Ausdruck, sondern die strukturelle Tatsache: Ein einfallender Impuls trifft auf eine Systemgrenzfläche, und diese Grenzfläche erzwingt eine gerichtete Rücklenkung. Das Medium führt also eine elementare Operation aus, die einer Inversion ähnelt: Der Strahl wird nicht erzeugt, sondern strukturell umgelenkt.
+
+Gemessen wird stets relativ zur Flächennormale. Entscheidend ist dabei nicht der mathematische Ausdruck, sondern die strukturelle Tatsache: Ein einfallender Impuls trifft auf eine Systemgrenzfläche, und diese Grenzfläche erzwingt eine gerichtete Rücklenkung.
+
+Die physikalische Rücklenkung lässt sich auch formal fassen. Sei $\mathbf{k}$ der Richtungsvektor des einfallenden Strahls und $\mathbf{n}$ die normierte Flächennormale am Auftreffpunkt. Dann ergibt sich der reflektierte Richtungsvektor aus dem klassischen Reflexionsoperator als:
+
+$$
+\mathbf{k}' = \mathbf{k} - 2(\mathbf{k} \cdot \mathbf{n})\,\mathbf{n}
+\tag{1}
+$$
+
+Diese Gleichung zeigt, dass Reflexion eine strukturelle Transformation darstellt: Der einfallende Impuls wird anhand der Systemstruktur (Flächennormale, Material, Geometrie) invertiert und als neuer Impuls zurückgegeben. Damit ist (1) die formal-physikalische Entsprechung der Elementar‑Operation Reflexion: Ein externer Differenzimpuls (Feedback) wird systemintern prozessiert (Reflexion) und in transformierter Form ausgegeben (Reentry, sofern Rückwirkung auf die Quelle entsteht).
+
+Das Medium führt also eine elementare Operation aus, die einer Inversion ähnelt: Der Strahl wird nicht erzeugt, sondern strukturell umgelenkt.
 
 Empirischer Anker: Laser auf Planspiegel, Messung von Einfalls- und Ausfallswinkel mit Goniometer; die Winkeltreue bestätigt, dass die Grenzfläche ihren Zustand (Material/Geometrie) als Operator ausführt.
 
@@ -91,7 +103,7 @@ Diese Bildentstehungen zeigen, dass bereits physikalische Reflexion komplexe Zuo
 Innerhalb der Theorie der Elementar‑Operationen lässt sich physikalische Reflexion präzise verorten:
 
 - **Feedback**: Jeder einfallende Strahl ist ein Differenzimpuls, der das System an seiner Grenzfläche trifft.  
-- **Reflexion**: Das System transformiert diesen Impuls deterministisch gemäß Gleichung (2.2).  
+- **Reflexion**: Das System transformiert diesen Impuls deterministisch gemäß Gleichung (1).  
 - **Reentry**: Tritt nur dann auf, wenn der Strahl zur Quelle zurückgeführt wird (z. B. Katzenauge, Winkelspiegel), wodurch eine echte Rückwirkung entsteht (Harten, 2024, S. 313f.).
 
 Damit zeigt die Physik die unterste Ebene der universalen Operation Reflexion: ein System verarbeitet einen externen Impuls durch geordnete Transformation seiner Richtung. Reflexion entsteht also nicht „aus sich heraus“, sondern immer auf Grundlage eines vorhergehenden Feedbacks. Physikalische Reflexion bestätigt das axiomatische Prinzip der Elementaroperationen: **Ohne Feedback keine Reflexion.**
@@ -128,11 +140,24 @@ Strukturell entspricht dies der Elementar‑Operation Reflexion:
 
 Chemische Inhibition ist damit eine negative Reflexionsform, in der ein System seine eigene Aktivität durch interne Rückwirkung reguliert.
 
+Operator-Kette (Elementar‑Operation):  
+- Feedback: $\Delta c_{\text{ATP}}$ durch $u(t)$  
+- Reflexion: PFK als Transformationsoperator hemmt Fluss $v_{\text{gly}}(t)$.
+
+```mermaid
+flowchart LR
+    U[Impuls u] --> FB[Delta c ATP]
+    FB --> R[PFK-Hemmung]
+```
+Abbildung: Feedback (ATP-Anstieg) triggert die Transformation (PFK-Hemmung).
+
 ### 2.2.2 Positive Rückkopplung: Autokatalyse
 
 Autokatalytische Systeme sind klassische Beispiele positiver Rückkopplung. Ein Produkt fördert seine eigene Entstehung, etwa in Reaktionen des Typs:
 
-*A + B → 2B.*
+$$
+A + B → 2B \tag{2}
+$$
 
 Manfred Eigen beschreibt Autokatalyse als grundlegendes Prinzip der Selbstorganisation chemischer Systeme (Bannwarth et al., 2025). Der Reaktionsverlauf wird verstärkt, indem das System eigene Zwischenprodukte als Impulse nutzt.
 
@@ -142,6 +167,17 @@ Dies bildet eine *positive Reflexionsform* ab:
 - Reentry: verstärkter Reaktionsfluss.
 
 Autokatalyse ist daher die chemische Entsprechung einer selbstverstärkenden Elementar‑Reflexion.
+
+Operator-Kette (Elementar‑Operation):  
+- Feedback: $\Delta c_B > 0$ nach erstem Produkt  
+- Reflexion: katalytische Rückwirkung $B$ auf Reaktionsrate $v$.
+
+```mermaid
+flowchart LR
+    P0[Erstprodukt B] --> FB[Delta c B]
+    FB --> R[Katalyse durch B]
+```
+Abbildung: Produkt B erzeugt einen Differenzimpuls und wirkt katalytisch zurück (Reflexion).
 
 ### 2.2.3 Oszillierende Reaktionen und dissipative Muster
 
@@ -157,9 +193,10 @@ $$
 2\,\mathrm{X} &\to \mathrm{A} + \mathrm{P} \\
 \mathrm{B} + \mathrm{Z} &\to \tfrac{1}{2}\,\mathrm{f}\,\mathrm{Y}
 \end{aligned}
+\tag{3}
 $$
 
-Messpraxis: Die Oszillation lässt sich über periodische Farbwechsel (z. B. blau ↔ farblos bei Stärkezusatz) verfolgen; Zeitreihen der Extinktion oder des Redoxpotenzials (Elektrodenmessung) zeigen die zyklischen Rückkopplungen. Damit ist die Reflexionsschleife experimentell direkt sichtbar.
+Messpraxis: Die Oszillation lässt sich über periodische Farbwechsel (z.B. blau ↔ farblos bei Stärkezusatz) verfolgen; Zeitreihen der Extinktion oder des Redoxpotenzials (Elektrodenmessung) zeigen die zyklischen Rückkopplungen. Damit ist die Reflexionsschleife experimentell direkt sichtbar.
 
 Hier bildet sich eine geschlossene Reflexionsschleife:
 - Ein Zwischenprodukt verändert Reaktionsbedingungen,
@@ -168,19 +205,34 @@ Hier bildet sich eine geschlossene Reflexionsschleife:
 
 Prigogines Theorie dissipativer Strukturen zeigt, dass solche Muster nur durch permanente Energiezufuhr stabil bleiben – chemische Systeme erzeugen Reflexionsdynamik als *Nichtgleichgewichtsphänomen*.
 
+Operator-Kette (Elementar‑Operation):  
+- Feedback: Zwischenprodukt-Konzentrationen $\Delta c_i(t)$  
+- Reflexion: fördernde/hemmende Teilreaktionen als interne Transformation $f(c)$.
+
+```mermaid
+flowchart LR
+    S0[Zwischenprodukt Delta c i] --> FB[Impuls]
+    FB --> R[f(c): foerdernd/hemmend]
+    R --> FB
+```
+Abbildung: Zwischenprodukt-Impulse werden intern transformiert (fördernd/hemmend) und speisen das nächste Feedback.
+
 ### 2.2.4 Chemische Inhibition als Informationsrückwirkung
 
 Als weiteres Beispiel beschreibt Krois (2017) die enzymatische Inhibition in der quantitativen Analyse (IC₅₀‑Bestimmung): Ein inhibierender Stoff blockiert die Weiterleitung eines Signals (z.B. TRPM5‑Blockade durch Chinin). Das entstehende Produkt verändert die Signalweiterleitung und damit die Bewertung des initialen chemischen Impulses. Das System moduliert die eigene Reaktionsantwort anhand seiner Produkte – eine typische Reflexionsstruktur.
 
 ### 2.2.5 Anschluss an die Elementar‑Operation Reflexion
 
-Chemische Systeme erfüllen alle Merkmale der Elementar‑Operation Reflexion:
+Damit ist Reflexion auch in chemischen Systemen empirisch beobachtbar und lässt sich als universale Rückbezüglichkeit interpretieren, die nicht an Bewusstsein oder Leben gebunden ist. Entscheidend ist jedoch die strukturelle Kopplung: Chemische Systeme führen dieselbe Operation (Reflexion) aus wie physikalische, biologische und psychische Systeme, jedoch in systemtypischer Form.
 
-- **Feedback:** Reaktionsprodukte erzeugen Differenzimpulse (Konzentrationsänderungen, Inhibition, Autokatalyse).
-- **Reflexion:** Das System verarbeitet diese Differenzen entlang interner Strukturen (Katalysatoren, Enzyme, Energieniveaus).
-- **Reentry:** Die veränderten Bedingungen wirken auf den weiteren Verlauf der Reaktion zurück.
+Die Kopplung lässt sich präzise fassen:
 
-Damit ist Reflexion auch in chemischen Systemen empirisch beobachtbar und lässt sich als *universale Rückbezüglichkeit* interpretieren, die nicht an Bewusstsein oder Leben gebunden ist. Reflexion erscheint als fundamentale Operation, durch die chemische Systeme ihre eigene Dynamik modifizieren.
+- **Strukturträger**: In chemischen Systemen übernehmen Enzyme, Energielandschaften, Katalysatoren und Reaktionsnetzwerke dieselbe Rolle wie Grenzflächen in der Physik oder logische Strukturen im psychischen System.  
+- **Impulsgenerator**: Konzentrationsänderungen, Zwischenprodukte oder energetische Gradienten erzeugen Differenzimpulse, die funktional identisch zu physikalischen Einfallsimpulsen oder psychischen Wahrnehmungsimpulsen sind.  
+- **Transformationsoperator**: Die Reaktionswege, Aktivierungsenergien oder regulatorischen Hemm- bzw. Verstärkungsmechanismen funktionieren als chemische Operatoren, die den Impuls intern verarbeiten.  
+- **Reentry**: Jede Veränderung der Reaktionsbedingungen wirkt unmittelbar auf Folgereaktionen zurück und erzeugt damit eine geschlossene Reflexionsschleife.
+
+Chemische Systeme besitzen damit eine strukturelle Kopplung zur Elementar‑Operation Reflexion und nutzen somit eigene Systemstrukturen, um externe oder interne Differenzen aufzunehmen, zu transformieren und in den weiteren Verlauf der Systemdynamik zurückzuführen. Diese operative Gleichform macht die chemische Perspektive zu einem essenziellen Baustein für die universale Theorie der Elementar‑Operationen.
 
 ## 2.3 Perspektive: Biologie
 
@@ -248,14 +300,14 @@ Sei ein System $S$ mit Zustandsraum $X$ gegeben. Der Feedback‑Operator
 
 $$
 F: X \times U \to X
-\tag{1}
+\tag{4}
 $$
 
 führt zu einer Veränderung des Systemzustands. Entscheidend ist die dadurch induzierte Differenz
 
 $$
 \Delta_F(x, u) := \delta(x, F(x,u)),
-\tag{2}
+\tag{5}
 $$
 
 wobei $\delta$ eine Systemmetrik oder Äquivalenzrelation darstellt. Diese Differenzinformation ist die minimale Voraussetzung für jede Form von Reflexion, denn ohne Differenz gibt es keinen Grund für Inversion, Bewertung oder Reentry.
@@ -272,14 +324,14 @@ Formal lässt sich eine dreiwertige Wahrheitsmenge einführen:
 
 $$
 T = \{+, -, 0\},
-\tag{3}
+\tag{6}
 $$
 
 wobei „0“ den genuin reflexiven Fall der gebrochenen Identität abbildet. Eine Reflexionsdifferenzfunktion
 
 $$
 r: B \times B \to T,
-\tag{4}
+\tag{7}
 $$
 
 mit $B = \{0,1\}$, klassifiziert Differenzen zwischen zwei Bewertungen. Die dreiwertige Logik ist damit Funktion zweier zweiwertiger Perspektiven.
@@ -290,14 +342,14 @@ Um den Übergang von Feedback zu Günthers Reflexionswerten zu modellieren, läs
 
 $$
 \Phi: D \to B \times B
-\tag{5}
+\tag{8}
 $$
 
 definieren, welche die durch Feedback erzeugte Differenz $\Delta_F(x,u)$ in zwei interne Bewertungen überführt. Damit ergibt sich die Komposition:
 
 $$
 R := r \circ \Phi \circ \Delta_F : X \times U \to T.
-\tag{6}
+\tag{9}
 $$
 
 Diese Abbildung liefert genau jene Dreiwertigkeit, die Günther als „Reflexionsdifferenz im Bewusstsein“ beschreibt (Günther, 1963/2021, S. 51). Der Feedback‑Operator fungiert hier als strukturelle Voraussetzung, indem er die Differenz liefert, die durch $r$ klassifiziert wird.
@@ -340,7 +392,7 @@ Disziplinübergreifend zeigt sich damit eine strukturelle Gemeinsamkeit: Reflexi
 Mathematisch schlägt sich Reflexion in der Dynamik des Operators
 
 $$
-e^{-i H t} \tag{7}
+e^{-i H t} \tag{10}
 $$
 
 nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht extern aufgeprägt wird, sondern vom [[Interdependenzoperator]] $H$ abhängt – einem Maß für die interne Kopplungsstruktur des Systems. Die Verwendung von $e^{-iHt}$ dient hier als abstrakte, nicht-physikalische Analogie für interne Zustandsdynamik; sie soll nicht als physikalische Definition von Reflexion verstanden werden. Diese Transformation lässt sich nicht umkehren, ohne Bezug auf die interne Struktur zu nehmen. Reflexion ist somit keine externe Betrachtung, sondern ein struktureller Bestandteil der Wahrscheinlichkeitsdynamik selbst.
