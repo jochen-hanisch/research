@@ -12,6 +12,11 @@ from datetime import date
 from scipy.stats.mstats import winsorize
 from scipy.stats import iqr
 import subprocess
+import pandas as pd
+import bibtexparser
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
 
 def _ensure_ci_template_path():
     """Sucht das lokale CI-Paket und hängt es an sys.path."""
@@ -54,7 +59,8 @@ from config_deskriptive_literaturauswahl import (
     export_fig_png,
     export_fig_silhouette_plot,
     export_path_html,
-    export_path_png
+    export_path_png,
+    bib_filename
 )
 
 # --- Initialisierung ---
@@ -63,19 +69,191 @@ set_theme(theme, preserve_effects=True)
 colors = get_colors()
 current_date = date.today().isoformat()
 
-# --- Datenbasis ---
-years = np.array([
-    2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017,
-    2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025
-])
-sc_values = np.array([
-    1.0000, 0.9655, 0.8571, 1.0000, 0.9583, 1.0000, 1.0000, 1.0000,
-    0.9895, 1.0000, 0.9968, 0.9854, 0.9916, 0.9702, 0.9208, 0.9696
-])
-n_values = np.array([
-    7, 29, 7, 28, 24, 28, 25, 98,
-    95, 202, 303, 377, 430, 899, 780, 192
-])
+# --- Datenbasis aus der gewählten Bib-Datei ---
+BASE_DIR = Path(__file__).resolve().parent
+BIB_PATH = BASE_DIR / "Bibliothek" / bib_filename
+
+if not BIB_PATH.exists():
+    print(f"❌ Bib-Datei nicht gefunden: {BIB_PATH}")
+    sys.exit(1)
+
+tags_to_search = [
+    '#0:Zeitschriftenartikel:digital:learning',
+    '#0:Buch:digital:learning',
+    '#0:Buchteil:digital:learning',
+    '#0:Konferenz-Paper:digital:learning',
+    '#1:Zeitschriftenartikel:learning:management:system',
+    '#1:Buch:learning:management:system',
+    '#1:Buchteil:learning:management:system',
+    '#1:Konferenz-Paper:learning:management:system',
+    '#2:Zeitschriftenartikel:online:Lernplattform',
+    '#2:Buch:online:Lernplattform',
+    '#2:Buchteil:online:Lernplattform',
+    '#2:Konferenz-Paper:online:Lernplattform',
+    '#3:Zeitschriftenartikel:online:Lernumgebung',
+    '#3:Buch:online:Lernumgebung',
+    '#3:Buchteil:online:Lernumgebung',
+    '#3:Konferenz-Paper:online:Lernumgebung',
+    '#4:Zeitschriftenartikel:MOOC',
+    '#4:Buch:MOOC',
+    '#4:Buchteil:MOOC',
+    '#4:Konferenz-Paper:MOOC',
+    '#5:Zeitschriftenartikel:e-learning',
+    '#5:Buch:e-learning',
+    '#5:Buchteil:e-learning',
+    '#5:Konferenz-Paper:e-learning',
+    '#6:Zeitschriftenartikel:Bildung:Technologie',
+    '#6:Buch:Bildung:Technologie',
+    '#6:Buchteil:Bildung:Technologie',
+    '#6:Konferenz-Paper:Bildung:Technologie',
+    '#7:Zeitschriftenartikel:digital:Medien',
+    '#7:Buch:digital:Medien',
+    '#7:Buchteil:digital:Medien',
+    '#7:Konferenz-Paper:digital:Medien',
+    '#8:Zeitschriftenartikel:blended:learning',
+    '#8:Buch:blended:learning',
+    '#8:Buchteil:blended:learning',
+    '#8:Konferenz-Paper:blended:learning',
+    '#9:Zeitschriftenartikel:digital:lernen',
+    '#9:Buch:digital:lernen',
+    '#9:Buchteil:digital:lernen',
+    '#9:Konferenz-Paper:digital:lernen',
+    '#a:Zeitschriftenartikel:online:lernen',
+    '#a:Buch:online:lernen',
+    '#a:Buchteil:online:lernen',
+    '#a:Konferenz-Paper:online:lernen',
+    '#b:Zeitschriftenartikel:online:learning',
+    '#b:Buch:online:learning',
+    '#b:Buchteil:online:learning',
+    '#b:Konferenz-Paper:online:learning'
+]
+tags_to_search_processed = [tag.lower().replace('\\#', '#').strip() for tag in tags_to_search]
+
+index_terms = [
+    'Lernsystemarchitektur',
+    'Bildungstheorien',
+    'Lehr- und Lerneffektivität',
+    'Kollaboratives Lernen',
+    'Bewertungsmethoden',
+    'Technologieintegration',
+    'Datenschutz und IT-Sicherheit',
+    'Systemanpassung',
+    'Krisenreaktion im Bildungsbereich',
+    'Forschungsansätze'
+]
+index_terms_processed = [term.lower().strip() for term in index_terms]
+
+research_questions = {
+    'promotion:fu1': 'Akzeptanz und Nützlichkeit (FU1)',
+    'promotion:fu2a': 'Effekt für Lernende (FU2a)',
+    'promotion:fu2b': 'Effekt-Faktoren für Lehrende (FU2b)',
+    'promotion:fu3': 'Konzeption und Merkmale (FU3)',
+    'promotion:fu4a': 'Bildungswissenschaftliche Mechanismen (FU4a)',
+    'promotion:fu4b': 'Technisch-gestalterische Mechanismen (FU4b)',
+    'promotion:fu5': 'Möglichkeiten und Grenzen (FU5)',
+    'promotion:fu6': 'Beurteilung als Kompetenzerwerbssystem (FU6)',
+    'promotion:fu7': 'Inputs und Strategien (FU7)'
+}
+research_questions_processed = list(research_questions.keys())
+
+categories = {
+    'promotion:argumentation': 'Argumentation',
+    'promotion:kerngedanke': 'Kerngedanke',
+    'promotion:weiterführung': 'Weiterführung',
+    'promotion:schlussfolgerung': 'Schlussfolgerung'
+}
+categories_processed = list(categories.keys())
+
+feature_columns = (
+    tags_to_search_processed
+    + index_terms_processed
+    + research_questions_processed
+    + categories_processed
+)
+
+
+def load_entries():
+    with open(BIB_PATH, encoding="utf-8") as bibtex_file:
+        bib_database = bibtexparser.load(bibtex_file)
+    rows = []
+    for entry in bib_database.entries:
+        keywords_raw = entry.get("keywords")
+        year_raw = entry.get("year")
+        if not keywords_raw or not year_raw:
+            continue
+        try:
+            year = int(str(year_raw)[:4])
+        except ValueError:
+            continue
+        entry_keywords = set(
+            map(str.lower, map(str.strip, keywords_raw.replace("\\#", "#").split(",")))
+        )
+        row = {"year": year}
+        row.update({tag: int(tag in entry_keywords) for tag in tags_to_search_processed})
+        row.update({index: int(index in entry_keywords) for index in index_terms_processed})
+        row.update({rq: int(rq in entry_keywords) for rq in research_questions_processed})
+        row.update({cat: int(cat in entry_keywords) for cat in categories_processed})
+        rows.append(row)
+    df = pd.DataFrame(rows)
+    if df.empty:
+        print(f"⚠️ Keine gültigen Einträge mit Jahr/Keywords in {bib_filename} gefunden.")
+    return df
+
+
+def compute_silhouette_per_year(df_features):
+    years = []
+    sc_values = []
+    n_values = []
+    for year, group in df_features.groupby("year"):
+        n = len(group)
+        n_values.append(n)
+        years.append(year)
+        if n < 2:
+            sc_values.append(np.nan)
+            continue
+        X = group[feature_columns]
+        if X.nunique().sum() == 0:
+            sc_values.append(np.nan)
+            continue
+        try:
+            scaler = StandardScaler()
+            scaled = scaler.fit_transform(X)
+            k = min(4, n)
+            if k < 2:
+                sc_values.append(np.nan)
+                continue
+            kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
+            labels = kmeans.fit_predict(scaled)
+            if len(set(labels)) < 2:
+                sc_values.append(np.nan)
+                continue
+            score = silhouette_score(scaled, labels)
+            sc_values.append(score)
+        except Exception as e:
+            print(f"⚠️ Silhouette für Jahr {year} übersprungen ({e})")
+            sc_values.append(np.nan)
+    years_arr = np.array(years, dtype=int)
+    sc_arr = np.array(sc_values, dtype=float)
+    n_arr = np.array(n_values, dtype=int)
+    sort_idx = np.argsort(years_arr)
+    return years_arr[sort_idx], sc_arr[sort_idx], n_arr[sort_idx]
+
+
+df_features = load_entries()
+if df_features.empty:
+    sys.exit(0)
+
+years, sc_values, n_values = compute_silhouette_per_year(df_features)
+
+# Nur Jahre mit gültigen Silhouette-Scores verwenden
+valid_mask = ~np.isnan(sc_values)
+years = years[valid_mask]
+sc_values = sc_values[valid_mask]
+n_values = n_values[valid_mask]
+
+if len(years) == 0:
+    print("⚠️ Keine ausreichenden Daten für Silhouette-Scores vorhanden.")
+    sys.exit(0)
 
 # --- Berechnung der euklidischen Distanz zwischen SC und n ---
 distances = np.sqrt((sc_values - sc_values.mean())**2 + (n_values - n_values.mean())**2)
@@ -103,7 +281,8 @@ circadian_optimum = q3  # oder np.percentile(sc_values, 90)
 
 # Neue Berechnung von delta_raw und delta_z
 delta_raw = sc_values - (n_values / np.max(n_values))
-delta_z = (delta_raw - np.mean(delta_raw)) / np.std(delta_raw)
+delta_std = np.std(delta_raw)
+delta_z = (delta_raw - np.mean(delta_raw)) / delta_std if delta_std > 0 else np.zeros_like(delta_raw)
 
 # --- Quartilsbasierte Schwellenwerte für delta_raw ---
 q1_delta = np.percentile(delta_raw, 25)
