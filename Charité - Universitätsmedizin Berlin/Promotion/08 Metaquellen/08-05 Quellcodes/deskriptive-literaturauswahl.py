@@ -58,6 +58,7 @@ from config_deskriptive_literaturauswahl import (
     export_fig_visual,
     export_fig_png,
     export_fig_silhouette_plot,
+    export_fig_delta_plot,
     export_path_html,
     export_path_png,
     bib_filename
@@ -290,75 +291,40 @@ q2_delta = np.median(delta_raw)
 q3_delta = np.percentile(delta_raw, 75)
 
 # --- Visualisierung ---
-fig = go.Figure()
-
 from ci_template.plotly_template import get_plot_styles
 styles = get_plot_styles()
 
-fig.add_trace(go.Scatter(
+fig_sc = go.Figure()
+
+fig_sc.add_trace(go.Scatter(
     x=years,
     y=n_values,
     name='Fallzahlen (n)',
     yaxis='y2',
     mode='lines+markers',
-    line=dict(color=colors["primaryLine"], width=1),
-    marker=dict(size=16, color=colors["primaryLine"], symbol="square"),
+    line=dict(color=colors["secondaryLine"], width=1),
+    marker=dict(size=12, color=colors["secondaryLine"], symbol="square"),
     showlegend=True
 ))
 
-# Quartile & Bezugslinien
-fig.add_trace(go.Scatter(x=years, y=[q1]*len(years), mode='lines', name='SC Q1',
-                         line=dict(dash='dot', color=colors["brightArea"]), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='SC Q2',
-                         line=dict(dash='dot', color=colors["depthArea"]), yaxis='y1'))
-fig.add_trace(go.Scatter(x=years, y=[q3]*len(years), mode='lines', name='SC Q3',
-                         line=dict(dash='dot', color=colors["accent"]), yaxis='y1'))
-fig.add_trace(go.Scatter(
-    x=years,
-    y=[min_value]*len(years),
-    mode='lines',
-    name='SC Min',
-    line=dict(dash='dash', color=colors["negativeHighlight"]),
-    yaxis='y1'
-))
-fig.add_trace(go.Scatter(
-    x=years,
-    y=[max_value]*len(years),
-    mode='lines',
-    name='SC Max',
-    line=dict(dash='dash', color=colors["positiveHighlight"]),
-    yaxis='y1'
-))
-
-fig.add_trace(go.Scatter(
+fig_sc.add_trace(go.Scatter(
     x=years,
     y=sc_values,
     name='Silhouette-Scores',
     yaxis='y1',
     mode='lines+markers',
-    line=dict(color=colors["primaryLine"], width=1),
-    marker=dict(size=16, color=colors["primaryLine"], symbol="circle"),
+    line=dict(color=colors["primaryLine"], width=2),
+    marker=dict(size=12, color=colors["primaryLine"], symbol="circle"),
     showlegend=True
 ))
 
-
-# 3. Abweichung ΔSCₙ – farbcodiert
-fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
-    line=dict(color=colors["positiveHighlight"], width=5),
-    name='ΔSCₙ: Optimal'
-))
-fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
-    line=dict(color=colors["secondaryLine"], width=5),
-    name='ΔSCₙ: Q2+ Bereich'
-))
-fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
-    line=dict(color=colors["text"], width=5),
-    name='ΔSCₙ: Ambivalent'
-))
-fig.add_trace(go.Scatter(x=[None], y=[None], mode='lines',
-    line=dict(color=colors["negativeHighlight"], width=5),
-    name='ΔSCₙ: Kritisch'
-))
+# Quartile & Bezugslinien
+fig_sc.add_trace(go.Scatter(x=years, y=[q1]*len(years), mode='lines', name='SC Q1',
+                         line=dict(dash='dot', color=colors["brightArea"]), yaxis='y1'))
+fig_sc.add_trace(go.Scatter(x=years, y=[q2]*len(years), mode='lines', name='SC Q2',
+                         line=dict(dash='dot', color=colors["depthArea"]), yaxis='y1'))
+fig_sc.add_trace(go.Scatter(x=years, y=[q3]*len(years), mode='lines', name='SC Q3',
+                         line=dict(dash='dot', color=colors["accent"]), yaxis='y1'))
 
 # Berechne Quartile für SC und n
 sc_q2 = np.percentile(sc_values, 50)
@@ -387,20 +353,10 @@ for year, sc, n in zip(years, sc_values, n_values):
     else:
         line_width = 5
 
-    fig.add_trace(go.Scatter(
-        x=[year, year],
-        y=[0, delta],
-        mode='lines',
-        line=dict(color=color, width=line_width),
-        hoverinfo='text',
-        text=[f"Jahr: {year}, ΔSCₙ: {delta:.4f}, {label}"]*2,
-        yaxis='y3',
-        showlegend=False
-    ))
+    # Delta-Bars kommen in separate Grafik
     print(f"Jahr: {year}, SC: {sc:.4f}, n: {n}, Kategorie: {label}")
 
-# Layout
-layout = get_standard_layout(
+layout_sc = get_standard_layout(
     title="Silhouette-Scores und Fallzahlen pro Jahr",
     x_title='Jahr',
     y_title='Silhouette-Score',
@@ -410,13 +366,13 @@ layout = get_standard_layout(
         title_standoff=20
     )
 )
-layout["font"] = {"size": 14, "color": colors['text']}
-layout["title"] = dict(text="Silhouette-Scores und Fallzahlen pro Jahr", font=dict(color=colors["text"]))
-layout["margin"] = dict(b=80, t=120, l=60, r=100)
-layout["xaxis"] = layout.get("xaxis", {})
-layout["xaxis"]["automargin"] = True
-layout["autosize"] = True
-layout["legend"] = dict(
+layout_sc["font"] = {"size": 14, "color": colors['text']}
+layout_sc["title"] = dict(text="Silhouette-Scores und Fallzahlen pro Jahr", font=dict(color=colors["text"]))
+layout_sc["margin"] = dict(b=80, t=120, l=60, r=120)
+layout_sc["xaxis"] = layout_sc.get("xaxis", {})
+layout_sc["xaxis"]["automargin"] = True
+layout_sc["autosize"] = True
+layout_sc["legend"] = dict(
     x=1.1,
     y=1.0,
     xanchor="left",
@@ -426,19 +382,7 @@ layout["legend"] = dict(
     itemclick="toggleothers",
     itemdoubleclick="toggle"
 )
-layout["yaxis3"] = dict(
-    title=dict(text="Abweichung (ΔSCₙ)", font=dict(color=colors["text"])),
-    overlaying="y",
-    side="right",
-    showgrid=False,
-    zeroline=True,
-    zerolinewidth=2,
-    zerolinecolor='grey',
-    tickfont=dict(color=colors["text"]),
-    anchor="free",
-    position=1.0
-)
-fig.update_layout(**layout)
+fig_sc.update_layout(**layout_sc)
 
 # --- Export-Funktion ---
 def export_figure(fig, name, export_flag_html, export_flag_png):
@@ -463,7 +407,31 @@ def export_figure(fig, name, export_flag_html, export_flag_png):
         except Exception as e:
             print("❌ Fehler beim PNG-Export:", str(e))
 
-# --- Export ---
-export_figure(fig, "silhouette_scores_und_fallzahlen", export_fig_silhouette_plot, export_fig_png)
+# --- Delta-Visualisierung ---
+fig_delta = go.Figure()
+fig_delta.add_trace(go.Bar(
+    x=years,
+    y=delta_raw,
+    marker_color=np.where(delta_raw >= q2_delta, colors["secondaryLine"], colors["negativeHighlight"]),
+    name="ΔSCₙ",
+    hoverinfo='x+y',
+))
+fig_delta.add_hline(y=q2_delta, line=dict(color=colors["depthArea"], dash="dot"), annotation_text="Median ΔSCₙ", annotation_position="top left")
+fig_delta.add_hline(y=0, line=dict(color=colors["text"], dash="dash"), annotation_text="0-Linie", annotation_position="bottom left")
+fig_delta.update_layout(
+    get_standard_layout(
+        title="Abweichung ΔSCₙ pro Jahr",
+        x_title="Jahr",
+        y_title="ΔSCₙ (SC - n/max(n))"
+    ),
+    bargap=0.2,
+    autosize=True,
+    margin=dict(b=80, t=100, l=60, r=40)
+)
 
-fig.show()
+# --- Export ---
+export_figure(fig_sc, "silhouette_scores_und_fallzahlen", export_fig_silhouette_plot, export_fig_png)
+export_figure(fig_delta, "delta_sc_n_pro_jahr", export_fig_delta_plot, export_fig_png)
+
+fig_sc.show()
+fig_delta.show()
