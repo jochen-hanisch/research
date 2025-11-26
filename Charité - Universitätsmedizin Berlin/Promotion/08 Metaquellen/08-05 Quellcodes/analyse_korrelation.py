@@ -29,6 +29,7 @@ def export_figure(fig, name, export_flag_html, export_flag_png):
             print(e.stderr)
 
     if export_flag_png:
+        os.makedirs(export_path_png, exist_ok=True)
         export_path_png_full = os.path.join(export_path_png, f"{safe_filename}.png")
         try:
             fig.write_image(export_path_png_full, width=1200, height=800, scale=2)
@@ -771,6 +772,7 @@ def plot_average_correlation_plotly(summary_df):
     from config_korrelation import export_path_png
     from config_korrelation import bib_filename as global_bib_filename
     from slugify import slugify
+    os.makedirs(export_path_png, exist_ok=True)
     fig = px.bar(
         summary_df,
         x="Korrelationstyp",

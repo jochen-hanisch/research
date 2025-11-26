@@ -400,6 +400,7 @@ def export_figure(fig, name, export_flag_html, export_flag_png):
             print("❌ Fehler beim HTML-Übertragen:")
             print(e.stderr)
     if export_flag_png:
+        os.makedirs(export_path_png, exist_ok=True)
         png_path = os.path.join(export_path_png, f"{safe_name}.png")
         try:
             fig.write_image(png_path, scale=2)
