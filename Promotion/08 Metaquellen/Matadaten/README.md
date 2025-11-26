@@ -104,6 +104,7 @@ cd "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Charité - Univers
 - Abbildungen/Tabellen: `![Titel](pfad.png){#fig:xyz width=80%}` und Referenz `Abb.~\@ref(fig:xyz)` bzw. `Tab.~\@ref(tab:xyz)`.
 - Gleichungen: `$$ E = mc^2 \label{eq:mass} $$` und Verweis `\eqref{eq:mass}`.
 - Literaturnachweise: `[@quelle_2024, Seite 4–5]`; `citeproc` rendert gemäß CSL.
+- Döring-Verweise mit Kapitelangaben: `[@doring_forschungsmethoden_2023, Kapitel 10.6]`.
 
 ## 12. Typische Stolperfallen
 
