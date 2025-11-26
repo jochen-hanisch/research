@@ -142,20 +142,11 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
-Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht. Das folgende Mermaid-Diagramm hält den Workflow in textueller Form fest.
+Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht. Die Abbildung visualisiert den Pfad, das anschließende Mermaid-Diagramm hält denselben Workflow textuell fest.
 
-```mermaid
-flowchart TD
-    A[Suchbegriff wählen<br/>(primär / sekundär / tertiär)] --> B[Datenbanken abfragen]
-    B --> C{Trefferliste}
-    C --> D[Sichtung nach Quote<br/>(80 / 50 / 15 %)]
-    D --> E[Tagging in Zotero<br/>Promotion:Literaturanalyse<br/>+ Argumentkategorie]
-    E --> F{Quote erreicht?}
-    F -->|nein| B
-    F -->|ja| G[Analyse (z.B. P-QIA<br/>und Cluster)]
-```
+![Bool’sche Logik der Suchordner und Quotensteuerung.](08 Metaquellen/08-01 Abbildungen/methodik/Boolsche-Logik Suchordner.png){#fig:bool-logik width=85%}
 
-Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine konsistente Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
+Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanagementprogramms. Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine beispielhafte Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
 
