@@ -142,7 +142,7 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
-Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht. Die Abbildung visualisiert den Pfad, das anschließende Mermaid-Diagramm hält denselben Workflow textuell fest.
+Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht.
 
 ![Bool’sche Logik der Suchordner und Quotensteuerung.](08 Metaquellen/08-01 Abbildungen/methodik/Boolsche-Logik Suchordner.png){#fig:bool-logik width=85%}
 
