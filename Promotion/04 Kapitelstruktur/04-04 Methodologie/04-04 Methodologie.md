@@ -352,6 +352,50 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 ![Deduktive k-means-Clusteranalyse des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/clusteranalyse-kmeans-deduktiv-02-01-suchergebnisse.png){#fig:clusteranalyse-kmeans width=90%}
 
+Die Abbildung zeigt die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) auf Basis des $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der insgesamt hohe Silhouette-Score ($S = 0{,}9884$) weist auf eine nahezu perfekte Trennschärfe hin, was sowohl die deduktive Vorstrukturierung als auch die semantische Stabilität der Cluster bestätigt.
+
+Analyse der Achsendimensionen
+
+Die drei Achsen bilden die theoretischen Dimensionen ab, die zuvor in Kapitel 4.2.3 und 4.3.1 bis 4.3.4 hergeleitet wurden:
+
+- Suchbegriffe beschreiben die diskursiven Zugriffspunkte (z.B. „digital learning“, „online learning“, „learning management system“).
+- Kategorien repräsentieren die deduktiv erstellten Inhaltsfelder (z.B. technologische Integration, Lehr- und Lerneffektivität, bildungswissenschaftliche Mechanismen).
+- Forschungsfragen (FU1–FU7) bilden die oberste Deduktionsschicht, aus der die weiteren Analyseschritte abgeleitet wurden.
+
+Durch diese Kombination entsteht ein semantischer, dreidimensionaler Raum, der die Struktur des Literaturkorpus entlang der zentralen Analyseachsen darstellt und eine geometrische Überprüfung der deduktiven Logik ermöglicht.
+
+Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden somit logisch konsistente Themenräume:
+
+1. Cluster 1 (hellblau): Schwerpunkt im Schnittfeld digitale Medien, Buchtitel, Lernumgebung. Hoher Bezug zu FU3 (didaktische und technologische Merkmale).
+2. Cluster 2 (dunkelblau): Fokus auf Online-Learning, Learning Analytics, bildwissenschaftlichen Theorien. Dominante Bezugspunkte zu FU4a und FU6.
+3. Cluster 3 (grau): Bereich der technologiegestützten Lehr-Lern-Effektivität, oft verknüpft mit FU2a/b. Enthält Quellen, die empirische Wirkmechanismen, Vergleichsstudien und Evaluationsdesigns behandeln.
+4. Cluster 4 (braun): Theoretische Kernliteratur (Kerngedanke der Promotion), mit starker Anbindung an Technologieintegration, Forschungsansätze und FU7. Auffällige Dichte an Basismodellen (TPACK, SDT, Systemtheorie).
+
+TODO: TPACK, SDT, Systemtheorie erklären bzw. referenzieren
+
+Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen tatsächlich diskriminierende Kraft besitzen und die Literatur nicht durch zufällige Muster gruppiert wird, sondern strukturelle Kohärenzen im Diskurs sichtbar machen.
+
+Methodologische Einordnung
+
+Die Visualisierung erfüllt mehrere Funktionen innerhalb der mdaCV:
+
+- Validierung der Deduktionslogik: Die drei Achsen sind nicht rein empirisch berechnet, sondern theoriebasiert definiert. Ihre Trennung im Raum zeigt, wie sich inhaltliche und methodische Ebenen der Literatur konsistent verhalten.
+- Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning → FU4a/FU6 vs. technologische Integration → FU3/FU7).
+- Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
+ 
+Epistemische Funktion im Forschungsdesign:
+
+Die hohe Trennschärfe bestätigt, dass das Literaturfeld strukturell differenziert ist. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden.
+
+Bedeutung für die Gesamtanalyse
+
+Die 3D-Clusteranalyse wirkt als abschließende seismografische Validierungsstufe der vorangegangenen P-QIA und der mdaCV:
+- Sie macht sichtbar, dass die Literaturbasis nicht nur volumetrisch, sondern auch semantisch ausgewogen ist.
+- Sie zeigt, welche Themenräume dicht besetzt sind und welche die deduktiven Kategorien besonders stark stützen.
+- Sie unterstreicht die Robustheit der Gesamtmethodik, indem sie die getrennten Analyseebenen (Suchbegriffe, Kategorien, FU) in einem kohärenten geometrischen Modell zusammenführt.
+
+Damit bestätigt die 3D-Clusteranalyse die theoretisch-probabilistische Struktur des Forschungsdesigns und bietet einen visuell-analytischen Beleg dafür, dass die deduktive Kodierung, die P-QIA und die mdaCV konsistent ineinandergreifen. Zudem kann sie als Koherenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. Damit gelingt erstmalig eine umfassende, methodisch stringent abgesicherte Kartierung des Forschungsfeldes und infolgedessen der Lückenschluss zwischen deduktiver Theoriearbeit und datenbasierter Validierung.
+
 ![Korrelationsmatrix der Forschungsunterfragen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-02-01-suchergebnisse.png){#fig:kor-fu width=90%}
 
 ![Korrelationsmatrix zwischen Forschungsunterfragen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-kategorien-02-01-suchergebnisse.png){#fig:kor-fu-kategorien width=90%}
