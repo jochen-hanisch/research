@@ -148,9 +148,31 @@ Anfangs stand weniger ein fertiges Konzept als vielmehr die Idee eines Weges, de
 In dieser Form ist das Learning Management System nicht nur ein digitales Abbild der Ausbildung, sondern die konkrete Umsetzung eines pädagogischen Weges, der systemisch gedacht, curricular verankert und lernprozessbezogen gestaltet ist. Auf Grundlage der in \hyperref[sec:2-1]{Abschnitt 2.1} dargestellten didaktischen Paradigmen wurden zunächst die im Lehrplan als „erwünschte Wirkung“ bezeichneten Kompetenzbeschreibungen in das Kompetenzraster des Learning Management Systems übertragen. Darauf aufbauend erfolgte die systematische Zuordnung der in \hyperref[sec:3-2-2]{Abschnitt 3.2.2} erwähnten handlungsleitenden Aufgaben, die bereits im Lehrplan mediendidaktisch formuliert vorlagen, zu den jeweiligen Handlungssituationen innerhalb der Kursstruktur. Auf diese Weise entstand eine digitale Architektur, die curriculare Kompetenzziele mit konkreten Lernhandlungen verbindet – strukturiert, adressierbar und systematisch verknüpft mit den drei Lernorten Schule, Lehrrettungswache und Krankenhaus.
 Das didaktisch-digitale Fundament des hier skizzierten Learning Management Systems bilden 32 Kurse, die, wie Abbildung 2 verdeutlicht, als „Handlungssituationen im Gesundheitswesen“ die gesamten inhaltlichen Dimensionen der Lernfelder des Rahmenlehrplans NRW abbilden. Ergänzend wird pro Ausbildungskurs eine kursinterne Umgebung zur Verfügung gestellt, in der die individuellen Erkenntnisse und Arbeitsergebnisse der jeweiligen Kohorte gesichert und dokumentiert werden können. Besonders an dieser Organisationsform ist die bewusste Trennung zwischen inhaltlicher Struktur und organisatorischer Kurslogik, wodurch eine hohe Flexibilität entsteht, innerhalb derer Lernende bei der Absolvierung oder Wiederholung einzelner Ausbildungsabschnitte gezielt an ihre individuellen fachlich-inhaltlichen Lernstände anknüpfen können, ohne die Kohärenz der Gesamtstruktur zu verlieren.
 
-Abbildung 2: Organisationsarchitektur LMS (eig. Darstellung)
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=1.4cm and 2.0cm,
+  process/.style={rectangle, rounded corners, draw, align=center, minimum width=3.4cm, minimum height=1.1cm, fill=gray!10},
+  flow/.style={-Stealth, thick}
+]
+\node[process] (curriculum) {Handlungssituationen\\(32 curriculare Einheiten)};
+\node[process, right=of curriculum, xshift=1.4cm] (lms) {LMS-Kern\\Kurse, Ressourcen, Aufgaben, Feedback};
+\node[process, right=of lms, xshift=1.4cm] (cohort) {Ausbildungskurse\\(3 Kohortenräume)};
+\node[process, above=of lms] (content) {Content\\Fachliteratur, Medien};
+\node[process, below=of lms] (lernorte) {Lernorte\\Schule, Lehrrettungswache, Krankenhaus};
 
-+++++ Abbildung 2 hier einfügen +++++
+\draw[flow] (curriculum) -- node[above, align=center]{curriculare Struktur} (lms);
+\draw[flow] (lms) -- node[above, align=center]{Umsetzung \& Steuerung} (cohort);
+\draw[flow, bend left=18] (cohort) to node[above]{Erkenntnisse, Feedback} (curriculum);
+\draw[flow, bend left=18] (curriculum) to node[below]{Aufgaben, Standards} (cohort);
+\draw[flow] (content) -- node[right]{Materialien} (lms);
+\draw[flow] (lernorte) -- node[right]{Praxisimpulse} (lms);
+\draw[flow, dashed] (lernorte) -- node[below, align=center]{Koordination} (cohort);
+\draw[flow, dashed] (lernorte) -- node[below, align=center]{Anforderungen} (curriculum);
+\end{tikzpicture}
+\caption{Systemisches Modell des eingesetzten Learning Management Systems mit Rückkopplung zwischen curricularen Handlungssituationen, LMS-Kern und kohortenspezifischen Ausbildungskursen.}
+\label{fig:modell_LMS}
+\end{figure}
 
 Die Struktur trennt curricular-inhaltliche Handlungssituationen (n = 32) von kohortenspezifischen Ausbildungskursen (n = 3). Diese Trennung ermöglicht eine flexible, aber kohärente Lernumgebung, in der individuelle Erkenntnisse aus kursinternen Prozessen systematisch in die übergeordnete Handlungsebene zurückgeführt werden können.
 
