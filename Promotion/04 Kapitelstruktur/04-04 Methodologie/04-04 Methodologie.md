@@ -148,6 +148,8 @@ Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von de
 
 Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanagementprogramms. Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine beispielhafte Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
 
+TODO: Suchordnerstrategie weiter ausführen und anpassen
+
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
 
 Die folgenden Abbildungen dokumentieren die Zusammensetzung und Relevanzbewertungen des analysierten Suchkorpus. Sie bilden die visuelle Grundlage für die in Abschnitt \hyperref[sec:4-3]{Abschnitt 4.3} beschriebene Datenanalyse.
