@@ -106,11 +106,11 @@ Ab 2023 sinkt der Score trotz weiterhin sehr hoher Fallzahlen. Der Tiefpunkt ($0
 
 ![Delta von Silhouette-Scores und Fallzahlen pro Jahr als ergänzende Sensitivitätsanzeige zur Stabilität der Clusterkohärenz.](08 Metaquellen/08-01 Abbildungen/methodik/delta-sc-n-pro-jahr.png){#fig:delta-silhouette width=90%}
 
-Die ergänzende Darstellung der Abweichung ΔSCₙ führt eine Sensitivitätsperspektive auf die Clusterkohärenz ein. Während der Silhouette-Score die geometrische Trennschärfe der Cluster bewertet, zeigt ΔSCₙ, wie stark die relative Kohärenz eines Jahres unter Berücksichtigung des jeweiligen Volumens (n/max(n)) vom stabilen Erwartungswert abweicht. Positive Werte verweisen auf Jahre, in denen die semantische Kohärenz überproportional höher ausfällt, als es die Fallzahl erwarten ließe – typischerweise Verdichtungsphasen mit klaren thematischen Zentren. Die Jahre 2010–2017 zeigen hierfür charakteristische Ausschläge: geringe n, aber überdurchschnittlich kohärente semantische Felder, was die zuvor beschriebenen stabilen Kernbereiche der Literatur bestätigt.
+Die ergänzende Darstellung der Abweichung $\Delta SC_n$ führt eine Sensitivitätsperspektive auf die Clusterkohärenz ein. Während der Silhouette-Score die geometrische Trennschärfe der Cluster bewertet, zeigt $\Delta SC_n$, wie stark die relative Kohärenz eines Jahres unter Berücksichtigung des jeweiligen Volumens ($n/\max(n)$) vom stabilen Erwartungswert abweicht. Positive Werte verweisen auf Jahre, in denen die semantische Kohärenz überproportional höher ausfällt, als es die Fallzahl erwarten ließe – typischerweise Verdichtungsphasen mit klaren thematischen Zentren. Die Jahre 2010–2017 zeigen hierfür charakteristische Ausschläge: geringe n, aber überdurchschnittlich kohärente semantische Felder, was die zuvor beschriebenen stabilen Kernbereiche der Literatur bestätigt.
 
-Ab 2018 pendelt ΔSCₙ um den Median, was eine weitgehend proportionale Entwicklung von Korpusgröße und thematischer Konsistenz signalisiert. Auffällig sind die negativen Ausschläge der Jahre 2023–2025. Sie markieren nicht Qualitätsverluste, sondern Konstellationen, in denen hohe Publikationsvolumina mit einer strukturellen Reorganisation der thematischen Landschaft einhergehen. Die starke negative Abweichung 2024 (ΔSCₙ < –0,8) verdeutlicht diese Drift besonders klar: Die semantische Dichte kann mit dem Wachstum des Feldes nicht im gleichen Maße Schritt halten. Methodisch weist dies auf Übergangszonen hin, in denen bestehende Clusterzentren an Stabilität verlieren und neue semantische Schwerpunkte entstehen.
+Ab 2018 pendelt $\Delta SC_n$ um den Median, was eine weitgehend proportionale Entwicklung von Korpusgröße und thematischer Konsistenz signalisiert. Auffällig sind die negativen Ausschläge der Jahre 2023–2025. Sie markieren nicht Qualitätsverluste, sondern Konstellationen, in denen hohe Publikationsvolumina mit einer strukturellen Reorganisation der thematischen Landschaft einhergehen. Die starke negative Abweichung 2024 ($\Delta SC_n < -0{,}8$) verdeutlicht diese Drift besonders klar: Die semantische Dichte kann mit dem Wachstum des Feldes nicht im gleichen Maße Schritt halten. Methodisch weist dies auf Übergangszonen hin, in denen bestehende Clusterzentren an Stabilität verlieren und neue semantische Schwerpunkte entstehen.
 
-Als Sensitivitätsmaß ergänzt ΔSCₙ den Silhouette-Score um eine volumengewichtete Perspektive und dient damit der retrospektiven Bewertung der Robustheit einzelner Jahrgänge. Die Kennwerte machen sichtbar, in welchen Phasen die Daten kohärent strukturiert sind und in welchen die semantische Landschaft in Bewegung gerät. Für die Literaturauswahl bedeutet dies, dass Jahre mit hohen negativen ΔSCₙ-Werten keinesfalls ausgeschlossen, sondern kontextsensitiv interpretiert werden müssen: Sie geben Hinweise auf thematische Umbrüche, nicht auf Instabilität des Verfahrens.
+Als Sensitivitätsmaß ergänzt $\Delta SC_n$ den Silhouette-Score um eine volumengewichtete Perspektive und dient damit der retrospektiven Bewertung der Robustheit einzelner Jahrgänge. Die Kennwerte machen sichtbar, in welchen Phasen die Daten kohärent strukturiert sind und in welchen die semantische Landschaft in Bewegung gerät. Für die Literaturauswahl bedeutet dies, dass Jahre mit hohen negativen $\Delta SC_n$-Werten keinesfalls ausgeschlossen, sondern kontextsensitiv interpretiert werden müssen: Sie geben Hinweise auf thematische Umbrüche, nicht auf Instabilität des Verfahrens.
 
 ### 4.2.2 Systematisches Literaturmanagement {#sek:4-2-2}
 
@@ -169,7 +169,7 @@ TODO: Suchordnerstrategie weiter ausführen und anpassen
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
 
-Die folgenden Abbildungen dokumentieren die Zusammensetzung und Relevanzbewertungen des analysierten Suchkorpus. Sie bilden die visuelle Grundlage für die in Abschnitt \hyperref[sec:4-3]{Abschnitt 4.3} beschriebene Datenanalyse.
+Die folgenden Abbildungen sind entlang der Auswertungsschritte gruppiert: Überblick, Korpusstruktur, FU-Mapping/Relevanz, Status/Autoren, Sprachen, anschließend Pfad‑/Sankey‑ und Netzwerksichten. Sie bilden die visuelle Grundlage für die in Abschnitt \hyperref[sec:4-3]{Abschnitt 4.3} beschriebene Datenanalyse.
 
 ![Gesamtüberblick der Suchergebnisse mit verdichteten Kenngrößen zu Relevanz, Sprachen, Quellenarten und Tags.](08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png){#fig:summary-suchergebnisse width=90%}
 
@@ -274,6 +274,8 @@ flowchart TD
     I --> J[Synthese und Theoriebildung]
 ```
 
+TODO: Mermaid Diagramm durch LaTeX Grafik ersetzen
+
 #### Validierung und empirische Kennwerte
 
 Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
@@ -290,13 +292,13 @@ Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Model
 |FU6|12|0.89|starke Clusterstruktur|
 |FU7|10|0.93|nahezu perfekte Trennung|
 
-Rousseeuw [-@rousseeuw_silhouettes_1987] bewertet Werte > 0,70 als stark, > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen Low & Kalender [-@low_data_2023] auf die Reproduzierbarkeit deterministischer Pipelines.
+@rousseeuw_silhouettes_1987 bewertet Werte > 0,70 als stark und > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Pipelines.
 
 #### Qualitätssicherung und Beispiele
 
-Die KI-gestützte Analyse dient auch der Plausibilitätsprüfung. So wurde der Artikel von Westlake und Mahan [-@westlake_international_2023] – trotz korrekter Schlagwortzuordnung – als thematisch irrelevant markiert, weil er BDSM-Praktiken untersucht und somit keinen Bezug zum digitalen Bildungsraum aufweist. Diese Prüfung geht über eine reine Stichwortsuche hinaus und verhindert, dass fachfremde Texte in die Auswertung gelangen.
+Die KI-gestützte Analyse dient auch der Plausibilitätsprüfung. So wurde der Artikel von @westlake_international_2023 – trotz korrekter Schlagwortzuordnung – als thematisch irrelevant markiert, weil er BDSM-Praktiken untersucht und somit keinen Bezug zum digitalen Bildungsraum aufweist. Diese Prüfung geht über eine reine Stichwortsuche hinaus und verhindert, dass fachfremde Texte in die Auswertung gelangen.
 
-Zur Überprüfung der Trennschärfe wurde die P-QIA auf die klassisch kodierte Studie von Kerman et al. [-@kerman_online_2024] angewendet. Die KI-gestützte Analyse erzielte einen Silhouette-Score von 0,92, die menschliche Kodierung lediglich 0,62. Damit wird sichtbar, dass die probabilistische Validierung methodische Schwächen in manuellen Kodierungen offenlegt und als Ergänzung zur klassischen Inhaltsanalyse fungiert.
+Zur Überprüfung der Trennschärfe wurde die P-QIA auf die klassisch kodierte Studie von @kerman_online_2024 angewendet. Die KI-gestützte Analyse erzielte einen Silhouette-Score von 0,92, die menschliche Kodierung lediglich 0,62. Damit wird sichtbar, dass die probabilistische Validierung methodische Schwächen in manuellen Kodierungen offenlegt und als Ergänzung zur klassischen Inhaltsanalyse fungiert.
 
 #### Test- und Diskursbeiträge
 
@@ -346,7 +348,7 @@ Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV 
 
 ### 4.3.8 Visualisierte Korrelations- und Clusteranalysen {#sec:4-3-8}
 
-Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- und Clusterauswertungen visualisiert. Sie zeigen, wie Forschungsunterfragen, Kategorien, Suchbegriffe und Indizes miteinander verknüpft sind.
+Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- und Clusterauswertungen in der Reihenfolge der Pipeline visualisiert: erst k-means, danach die FU-basierten Matrizen, anschließend Index- und Kategorienebene.
 
 ![Deduktive k-means-Clusteranalyse des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/clusteranalyse-kmeans-deduktiv-02-01-suchergebnisse.png){#fig:clusteranalyse-kmeans width=90%}
 
