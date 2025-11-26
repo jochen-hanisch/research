@@ -87,7 +87,13 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores \label{ta
 | 2025 | 192 | 4 | 0.9696 |
 | **Summe** | 3523 | — | — |
 
-<<<Abbildung Zeitreihe einfügen>>>
+![Silhouette-Scores und Fallzahlen pro Jahr; linke Achse zeigt die Clustertrennschärfe, rechte Achse die Fallzahlen.](08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png){#fig:silhouette-scores width=90%}
+
+Trotz geringer Fallzahlen liefern die Jahre 2010–2016 nahezu perfekte Silhouette-Scores (≈1.0) und markieren eine hohe semantische Kohärenz des Korpus. Der Zeitraum 2018–2022 kombiniert steigende Fallzahlen mit Scores über dem Median ($Q_2 \approx 0{,}99$) und bildet damit das robuste Rückgrat der Literaturanalyse. Ab 2023 sinkt der Score bei weiterhin hohen n-Werten (Tiefpunkt 0,9208 in 2024), was auf eine inhaltliche Drift oder erhöhte Heterogenität hindeutet; 2025 erholt sich der Score moderat. Die zugehörige ΔSCₙ-Kurve (Abb.~\@ref(fig:delta-silhouette)) spiegelt diese Dynamik, mit Frühphasen und punktuellen Peaks bei sehr kleinen n, einer stabilen Verdichtung zwischen 2018 und 2022 und einer deutlichen Negativdrift ab 2023 trotz hoher Publikationszahlen. Das macht sichtbar, dass die Menge der Beiträge stabil bleibt, während die semantische Kohärenz erodiert, was auf thematische Reorganisation und fragmentierte Diskursstrukturen im Korpus hinweist.
+
+![Delta von Silhouette-Scores und Fallzahlen pro Jahr als ergänzende Sensitivitätsanzeige zur Stabilität der Clusterkohärenz.](08 Metaquellen/08-01 Abbildungen/methodik/delta-sc-n-pro-jahr.png){#fig:delta-silhouette width=90%}
+
+![Zeitreihe der Publikationszahlen im Korpus; Grundlage für die Auswahl und Gewichtung der Jahrgänge in der Analyse.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_time_series_02-01_suchergebnisse.png){#fig:time-series width=90%}
 
 Die Visualisierung zeigt eine Kombination aus zwei zentralen Metriken für die spätere Analysequalität:
     Silhouette-Scores (blaue Linie, linke Y-Achse): Ein Maß für die Kohärenz und Trennschärfe der Clusterbildung.
@@ -183,6 +189,40 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 | `S:11`        | Online Learning | Online-based education, remote learning |
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
+
+### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
+
+Die folgenden Abbildungen dokumentieren die Zusammensetzung und Relevanzbewertungen des analysierten Suchkorpus. Sie bilden die visuelle Grundlage für die in Abschnitt \hyperref[sec:4-3]{Abschnitt 4.3} beschriebene Datenanalyse.
+
+![Gesamtüberblick der Suchergebnisse mit verdichteten Kenngrößen zu Relevanz, Sprachen, Quellenarten und Tags.](08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png){#fig:summary-suchergebnisse width=90%}
+
+![Verteilung der Kategorien innerhalb des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png){#fig:categories-suchergebnisse width=90%}
+
+![Verteilung zentraler Indizes im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_index_02-01_suchergebnisse.png){#fig:index-suchergebnisse width=90%}
+
+![Tag-Struktur der verarbeiteten Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_tags_02-01_suchergebnisse.png){#fig:tags-suchergebnisse width=90%}
+
+![Zuordnung der Quellen zu den Forschungsunterfragen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_research_questions_02-01_suchergebnisse.png){#fig:research-questions-suchergebnisse width=90%}
+
+![Relevanzverteilung je Forschungsunterfrage.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_fu_02-01_suchergebnisse.png){#fig:relevance-fu width=90%}
+
+![Relevanzverteilung je Kategorie.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_categories_02-01_suchergebnisse.png){#fig:relevance-categories width=90%}
+
+![Relevanzverteilung je Suchbegriff.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_search_terms_02-01_suchergebnisse.png){#fig:relevance-search width=90%}
+
+![Statusübersicht der Quellen (z. B. akzeptiert, ausgeschlossen, in Prüfung).](08 Metaquellen/08-01 Abbildungen/methodik/visualize_sources_status_02-01_suchergebnisse.png){#fig:sources-status width=90%}
+
+![Top-Autor*innen nach Häufigkeit im Korpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_top_authors_02-01_suchergebnisse.png){#fig:top-authors width=90%}
+
+![Sprachenverteilung der Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_languages_02-01_suchergebnisse.png){#fig:languages width=90%}
+
+![Sprachenverteilung nach Dokumententyp.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_language_entrytypes_02-01_suchergebnisse.png){#fig:language-entrytypes width=90%}
+
+![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png){#fig:path-diagram width=90%}
+
+![Sankey-Diagramm zur Visualisierung der Verteilung nach Suchbegriffen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/create_sankey_diagram_02-01_suchergebnisse.png){#fig:sankey-diagram width=90%}
+
+![Netzwerkdarstellung der Beziehungen zwischen Suchbegriffen, Tags und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png){#fig:network-suchergebnisse width=90%}
 
 ## 4.3 Datenanalyse {#sec:4-3}
 
@@ -304,7 +344,9 @@ Die Methode wurde iterativ entwickelt, auf reale, manipulierte und zufällige Da
 2. **Geometrische Modellierung:** Begriffliche Relationen werden in numerische Vektoren überführt. Konzepte wie CBOW/Skip-gram [@mikolov_efficient_2013] zeigen, dass sich so hochdimensionale, semantisch präzise Repräsentationen erzeugen lassen.
 3. **Statistische Validierung:** Die vorstrukturierten Daten werden mittels $k$-Means analysiert. Die Anzahl der Cluster $k$ wird theoriegeleitet festgelegt oder durch Silhouette-Kennwerte feinjustiert [@sud_k-means_2020; @rakhlin_stability_nodate].
 
-Im Verlauf der Dissertation wurde die mdaCV als dauerhafte Feedback-Schleife eingesetzt. Beispielhaft stieg nach der Bereinigung eines Korpus auf $n = 3502$ Quellen der Silhouette-Score von 0,964 auf 0,9751 – ein Hinweis auf semantische Schärfung. Nach erneuter Einbindung ausgeschlossener Konferenzbände ($n = 3572$) blieb der Score mit 0,9754 stabil. Selbst minimale Änderungen (ein entfernter Buchteil, $n = 3571$) führten zu messbaren Differenzen von 0,001 und machten mikrostrukturelle Effekte sichtbar.
+Im Verlauf der Dissertation wurde die mdaCV als dauerhafte Feedback-Schleife eingesetzt. Beispielhaft stieg nach der Bereinigung eines Korpus auf $n = 3502$ Quellen der Silhouette-Score von 0,964 auf 0,9751 – ein Hinweis auf semantische Schärfung. Ein ergänzender methodischer Hinweis betrifft die Interpretation der ab 2023 sichtbar werdenden semantischen Drift im Literaturkorpus. Die Kombination aus steigenden Publikationszahlen bei gleichzeitig sinkenden Silhouette-Scores weist auf eine strukturelle Reorganisation der thematischen Landschaft hin. Dieses Muster ist in datenintensiven Diskursfeldern nicht ungewöhnlich und gilt als typischer Indikator dafür, dass sich die Begriffs- und Themenräume eines Forschungsfeldes verändern, ohne dass dies zwingend mit einer qualitativen Abwertung einhergeht. Vielmehr entstehen in solchen Phasen neue semantische Ankerpunkte, die die bisherigen Strukturzentren überlagern oder ergänzen.
+
+Für die methodische Einordnung bedeutet dies, dass der Rückgang der Clusterkohärenz nicht als Ausdruck einer defizitären Datenlage zu verstehen ist, sondern als Hinweis auf die Verschiebung epistemischer Schwerpunkte. Insbesondere in Feldern, die durch technologische Innovationen geprägt sind – wie die Einführung generativer KI, die breitere Etablierung von Learning Analytics oder der Einsatz automatisierter Analyseverfahren – kann es zu kurzfristigen Fragmentierungen kommen, die sich in den Kennwerten der mdaCV und der Silhouette-Analyse abbilden. Diese Dynamik ist als Teil eines temporären Reorganisationsprozesses zu interpretieren, in dem alte Strukturkerne an Stabilität verlieren, während neue Cluster herausgebildet werden. Die methodische Konsequenz liegt darin, solche Übergänge nicht vorschnell als methodische Unschärfe zu deuten, sondern im Sinne eines systemisch-epistemischen Verständnisses als Beobachtungsgegenstand eigener Art zu behandeln. Die Drift verweist auf eine erhöhte Variabilität im Diskurs und macht sichtbar, dass die semantische Struktur des Feldes erweitert oder neu justiert wird. Dies ergänzt die klassische empirische Bewertung der Clusterkohärenz um eine interpretative Dimension, die die Veränderungsdynamik innerhalb des Korpus berücksichtigt und somit eine präzisere Einordnung der Kennwerte erlaubt. Nach erneuter Einbindung ausgeschlossener Konferenzbände ($n = 3572$) blieb der Score mit 0,9754 stabil. Selbst minimale Änderungen (ein entfernter Buchteil, $n = 3571$) führten zu messbaren Differenzen von 0,001 und machten mikrostrukturelle Effekte sichtbar.
 
 Die mdaCV fungiert damit als seismografisches Instrument: Sie verbindet deduktive Kategorienstrukturen mit quantitativ validierbaren Kennwerten und eröffnet Analysepfade für mikrostrukturelle Dynamiken in semantisch strukturierten Räumen.
 
@@ -324,6 +366,32 @@ Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 
 ### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:4-3-7}
 
 Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen des folgenden Abschnitts.
+
+### 4.3.8 Visualisierte Korrelations- und Clusteranalysen {#sec:4-3-8}
+
+Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- und Clusterauswertungen visualisiert. Sie zeigen, wie Forschungsunterfragen, Kategorien, Suchbegriffe und Indizes miteinander verknüpft sind.
+
+![Deduktive k-means-Clusteranalyse des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/clusteranalyse-kmeans-deduktiv-02-01-suchergebnisse.png){#fig:clusteranalyse-kmeans width=90%}
+
+![Korrelationsmatrix der Forschungsunterfragen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-02-01-suchergebnisse.png){#fig:kor-fu width=90%}
+
+![Korrelationsmatrix zwischen Forschungsunterfragen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-kategorien-02-01-suchergebnisse.png){#fig:kor-fu-kategorien width=90%}
+
+![Korrelationsmatrix zwischen Forschungsunterfragen und Suchbegriffen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-fu-suchbegriffe width=90%}
+
+![Korrelationsmatrix zwischen Forschungsunterfragen und Indizes.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-indizes-02-01-suchergebnisse.png){#fig:kor-fu-indizes width=90%}
+
+![Korrelationsmatrix der Indizes.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-02-01-suchergebnisse.png){#fig:kor-indizes width=90%}
+
+![Korrelationsmatrix zwischen Indizes und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-und-kategorien-02-01-suchergebnisse.png){#fig:kor-indizes-kategorien width=90%}
+
+![Korrelationsmatrix zwischen Indizes und Suchbegriffen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-und-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-indizes-suchbegriffe width=90%}
+
+![Korrelationsmatrix der Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-kategorien-02-01-suchergebnisse.png){#fig:kor-kategorien width=90%}
+
+![Korrelationsmatrix der Suchbegriffe.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-suchbegriffe width=90%}
+
+![Korrelationsmatrix zwischen Suchbegriffen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-suchbegriffen-und-kategorien-02-01-suchergebnisse.png){#fig:kor-suchbegriffe-kategorien width=90%}
 
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
 
