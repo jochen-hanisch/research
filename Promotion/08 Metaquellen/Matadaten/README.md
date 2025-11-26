@@ -91,3 +91,23 @@ cd "/Users/jochenhanisch-johannsen/Documents/scripte/Research/Charité - Univers
 
 - Jede Ausführung des Build-Skripts erzeugt `dissertation.pdf` im Projektordner.
 - Der Workflow ist vollständig reproduzierbar und geeignet für versionierte wissenschaftliche Arbeiten.
+
+## 10. Obsidian + Pandoc: bewährte Einstellungen
+
+- Obsidian: „Strict line breaks“ aus, damit Pandoc Absätze korrekt erkennt. Live-Preview zeigt LaTeX meist korrekt; einige Raw-LaTeX-Elemente (z.B. `\hyperref`) rendern erst im PDF.
+- Frontmatter bleibt in `dissertation.md`; Einzelkapitel starten ohne eigenes YAML.
+- UTF-8 nutzen; Pfade im Markdown immer relativ zum Projektroot halten.
+
+## 11. Crossrefs und Hyperlinks
+
+- Sections: `# 4.3 Datenanalyse {#sec:4-3}` und im Text `\@ref(sec:4-3)` oder als Raw-LaTeX `\hyperref[sec:4-3]{Abschnitt 4.3}`.
+- Abbildungen/Tabellen: `![Titel](pfad.png){#fig:xyz width=80%}` und Referenz `Abb.~\@ref(fig:xyz)` bzw. `Tab.~\@ref(tab:xyz)`.
+- Gleichungen: `$$ E = mc^2 \label{eq:mass} $$` und Verweis `\eqref{eq:mass}`.
+- Literaturnachweise: `[@quelle_2024, Seite 4–5]`; `citeproc` rendert gemäß CSL.
+
+## 12. Typische Stolperfallen
+
+- Fehlende Dateien brechen Pandoc ab (`withBinaryFile: does not exist`). Pfad prüfen oder Platzhalter (z.B. `literaturverzeichnis.md`) anlegen.
+- Abbildungen mit Leerzeichen funktionieren, besser jedoch konsistente Ordner- und Dateinamen wie `08 Metaquellen/08-01 Abbildungen/...`.
+- `\@hyperref(...)` ist kein Pandoc-Crossref. Entweder `\@ref(label)` (pandoc-crossref) oder klassisch `\hyperref[label]{Text}`.
+- Bei Raw-LaTeX-Blöcken eigene Zeilen verwenden, um Parser-Konflikte zu vermeiden.
