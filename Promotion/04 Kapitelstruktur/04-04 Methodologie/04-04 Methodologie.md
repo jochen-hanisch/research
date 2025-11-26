@@ -93,10 +93,9 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores \label{ta
 | 2023 | 899 | 4 | 0.9702 |
 | 2024 | 780 | 4 | 0.9208 |
 | 2025 | 192 | 4 | 0.9696 |
-| **Summe** | 3523 | — | — |
+| **Summe** | 3524 | — | — |
 
-
-TODO: Tabelle anpassen an finale Werte, beschreiben und interpretieren
+Die Summenzeile dokumentiert die 3 524 für die Kohärenzberechnung herangezogenen Dokumente. Bis 2016 bleiben die Fallzahlen niedrig, die Silhouette-Scores liegen aber durchgängig bei $≈1{,}0$ und weisen auf hochgradig fokussierte Cluster hin. In den Jahren 2018–2022 steigt das Volumen stark an, während die Scores auf hohem Niveau bleiben (≥ 0,985); diese Phase bildet den stabilen epistemischen Kern des Korpus. Der Einbruch auf $0,9208$ im Jahr 2024 markiert die stärkste semantische Drift durch die rasche Ausweitung neuer Themen (z. B. KI-basierte Lernmodelle), bevor 2025 eine moderate Rezentrierung der Cluster sichtbar wird. Insgesamt zeigt die Tabelle, dass hohe Fallzahlen nicht automatisch Kohärenzverlust bedeuten, Wachstumsphasen aber interpretativ besonders sorgfältig eingeordnet werden müssen.
 
 ![Silhouette-Scores und Fallzahlen pro Jahr; linke Achse zeigt die Clustertrennschärfe, rechte Achse die Fallzahlen.](08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png){#fig:silhouette-scores width=90%}
 
@@ -165,41 +164,73 @@ Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von de
 
 Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanagementprogramms. Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine beispielhafte Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
 
-TODO: Suchordnerstrategie weiter ausführen und anpassen
+#todo Suchordnerstrategie weiter ausführen und anpassen
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
 
 Die folgenden Abbildungen sind entlang der Auswertungsschritte gruppiert: Überblick, Korpusstruktur, FU-Mapping/Relevanz, Status/Autoren, Sprachen, anschließend Pfad‑/Sankey‑ und Netzwerksichten. Sie bilden die visuelle Grundlage für die in Abschnitt \hyperref[sec:4-3]{Abschnitt 4.3} beschriebene Datenanalyse.
 
+Inhaltlich gehören hier die Relevanz- und Zuordnungsplots (Kategorien, Forschungsunterfragen, Suchbegriffe) sowie die Sprach- und Kategoriedistributionen. Die reine Fortschrittsübersicht nach Suchordnern ist Arbeitsdokumentation und sollte in den Anhang, nicht in Kapitel 4.
+
 ![Gesamtüberblick der Suchergebnisse mit verdichteten Kenngrößen zu Relevanz, Sprachen, Quellenarten und Tags.](08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png){#fig:summary-suchergebnisse width=90%}
+
+Der Überblick bündelt den Korpus (≈3,5k Quellen): hohe Relevanzstufen dominieren, Deutsch/Englisch tragen den Hauptanteil, Artikel und Bücher sind die wichtigsten Dokumententypen. Damit ist die Datengrundlage formal solide, sprachlich fokussiert und nur gering durch Randsprachen oder Grauliteratur verzerrt.
 
 ![Verteilung der Kategorien innerhalb des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png){#fig:categories-suchergebnisse width=90%}
 
+Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 2025-11-26) zeigt eine deutliche Konzentration auf „Kerngedanke“ (457) und „Argumentation“ (454). Weiterführungen (160) und Schlussfolgerungen (38) sind deutlich seltener. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet das, dass Schlussfolgerungen gezielt ergänzt werden müssen, um die breite Argumentationsbasis konsistent zu bündeln.
+
 ![Verteilung zentraler Indizes im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_index_02-01_suchergebnisse.png){#fig:index-suchergebnisse width=90%}
+
+Die Indexverteilung (n = 4 102, Stand: 2025-11-26) fokussiert klar auf „Technologieintegration“ (945) und „Lehr- und Lerneffektivität“ (918). „Forschungsansätze“ (491) und „Systemanpassung“ (487) bilden den methodischen Unterbau. Bewertungsmethoden (291) und Bildungstheorien (277) liefern die theoretische Rahmung, während kollaboratives Lernen (274), Krisenreaktion (157), Lernsystemarchitektur (155) sowie Datenschutz/IT-Sicherheit (107) nachgelagert sind. Die Verteilung zeigt einen starken Wirkungs- und Implementierungsfokus; Governance- und Sicherheitsaspekte bleiben randständig und sollten in der Diskussion gezielt gewichtet werden.
 
 ![Tag-Struktur der verarbeiteten Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_tags_02-01_suchergebnisse.png){#fig:tags-suchergebnisse width=90%}
 
+Die Tag-Verteilung konzentriert sich auf wenige Kernbegriffe (LMS, digital learning, blended learning) mit langen, dünnen Rändern. Das bestätigt die enge Such- und Tagging-Strategie: zentrale Tags erschließen den Großteil des Korpus, Spezialtags decken nur kleine Segmente ab.
+
 ![Zuordnung der Quellen zu den Forschungsunterfragen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_research_questions_02-01_suchergebnisse.png){#fig:research-questions-suchergebnisse width=90%}
+
+Schwerpunkte liegen bei FU4a (bildungswissenschaftliche Mechanismen), FU3 (Konzeption/Merkmale) und FU5 (Möglichkeiten/Grenzen). FU1, FU2b und FU7 sind deutlich dünner besetzt. Damit stützen die dichtesten Segmente die Kernmechanismen, während Akzeptanz- und Lehrenden-Perspektiven gezielt ergänzt werden sollten.
 
 ![Relevanzverteilung je Forschungsunterfrage.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_fu_02-01_suchergebnisse.png){#fig:relevance-fu width=90%}
 
+Die gestapelten Balken zeigen, dass hohe Relevanzstufen (4/5) den Großteil der Nennungen für FU4a, FU3 und FU5 ausmachen; niedrige Stufen (2/3) sind randständig. Das unterstreicht die solide Basis der Kernfragen und markiert zugleich Ergänzungsbedarf bei schmal besetzten FUs.
+
 ![Relevanzverteilung je Kategorie.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_categories_02-01_suchergebnisse.png){#fig:relevance-categories width=90%}
+
+Kerngedanke und Argumentation tragen die meisten hochrelevanten Nennungen; Weiterführung und Schlussfolgerung sind dünner und enthalten teils niedrigere Stufen. Schlussfolgerungen sollten daher gezielt verdichtet werden, um die starke Argumentationsbasis sauber abzuschließen.
 
 ![Relevanzverteilung je Suchbegriff.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_search_terms_02-01_suchergebnisse.png){#fig:relevance-search width=90%}
 
+„Digital learning“ und „learning management system“ liefern die meisten hochrelevanten Treffer; „blended learning“ und „digital media“ folgen. Periphere Begriffe (online learning/lernen) steuern nur wenige Quellen bei. Die Kernbegriffe erschließen damit den relevanten Korpus, Randbegriffe dienen als Ergänzung.
+
 ![Statusübersicht der Quellen (z. B. akzeptiert, ausgeschlossen, in Prüfung).](08 Metaquellen/08-01 Abbildungen/methodik/visualize_sources_status_02-01_suchergebnisse.png){#fig:sources-status width=90%}
+
+Die Statusübersicht zeigt, dass der Großteil der Quellen nach Screening, Qualitäts- und Relevanzprüfung übernommen wurde; nur ein kleiner Anteil ist ausgeschlossen oder in Prüfung. Die Arbeitsbasis ist damit weitgehend gesichert.
 
 ![Top-Autor*innen nach Häufigkeit im Korpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_top_authors_02-01_suchergebnisse.png){#fig:top-authors width=90%}
 
+Die Top-25-Autor*innen liegen dicht beieinander (ca. 7–13 Werke; Spitze Kerres, Ebner, Tudor, Iken-Allen). Kein Name dominiert, der Diskurs ist breit und multiperspektivisch.
+
 ![Sprachenverteilung der Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_languages_02-01_suchergebnisse.png){#fig:languages width=90%}
+
+Die Sprachverteilung (n = 3 533, Stand: 2025-11-26) ist zweipolig: Deutsch dominiert mit de-DE (2 326) und de-A (5), gefolgt von Englisch (en-GB 1 191; en-US 6). Einzelne Beiträge stammen aus indonesischen (id-id 3), malaysischen (ms-my 1) und spanischen (es 1) Quellen. Damit prägen deutsch- und englischsprachige Texte den Diskurs; Beiträge anderer Sprachen sind marginal und vor allem als Kontext- oder Fallstudienimpulse zu interpretieren.
 
 ![Sprachenverteilung nach Dokumententyp.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_language_entrytypes_02-01_suchergebnisse.png){#fig:language-entrytypes width=90%}
 
+Die Verteilung nach Dokumententyp pro Sprache (n = 3 533) unterstreicht die Quellenbasis: Deutsch (de-DE) vereint die meisten artikel- und buchbasierten Einträge (insgesamt 1 571) plus kleinere Anteile grauer Literatur; Englisch (en-GB) folgt mit 845 artikelbasierten und 299 buchbasierten Quellen sowie wenig grauer Literatur. Andere Sprachen treten nur in sehr kleinen, artikelbasierten Kontingenten auf. Damit liegen die Hauptbefunde auf begutachteten Artikeln in Deutsch und Englisch, während Buchanteile vor allem den deutschsprachigen Teil theoretisch vertiefen.
+
 ![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png){#fig:path-diagram width=90%}
+
+Das Pfaddiagramm zeigt die Hauptströme von FU3/FU4a in Kerngedanke/Argumentation und weiter zu Technologieintegration sowie Lehr-/Lerneffektivität, dominiert von Artikeln. Randströme (z.B. Datenschutz, Krisenreaktion) bleiben schmal und markieren Ergänzungsfelder.
 
 ![Sankey-Diagramm zur Visualisierung der Verteilung nach Suchbegriffen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/create_sankey_diagram_02-01_suchergebnisse.png){#fig:sankey-diagram width=90%}
 
+Der Suchbegriff-Sankey bestätigt die Fokussierung: Digital learning, LMS und blended learning speisen vor allem Kerngedanke und Argumentation; periphere Begriffe liefern geringe Zuflüsse. Die Suchstrategie lenkt damit zielgerichtet in die zentralen Analysekategorien.
+
 ![Netzwerkdarstellung der Beziehungen zwischen Suchbegriffen, Tags und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png){#fig:network-suchergebnisse width=90%}
+
+Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf. Primärbegriffe wie „learning:management:system“, „digital:learning“ und „digital:lernen“ liegen zentral und verbinden technische mit didaktischen Dimensionen. Sekundärbegriffe (z.B. „mooc“, „blended:learning“, „digital:medien“) verdichten den pädagogischen Pol und zeigen Anschluss an Formate und Inhalte. Tertiärbegriffe („online:lernen“, „online:learning“) sind randständig und öffnen den Suchraum, ohne die Kernstruktur zu verschieben. Die Knotengröße spiegelt die Suchgewichtung, die Kanten die semantische Nähe. Insgesamt bestätigt das Netz eine doppelte Zentrierung: technologiegetriebene Kernbegriffe halten den Raum zusammen, didaktische und periphere Online-Begriffe erweitern ihn kontrolliert.
 
 ## 4.3 Datenanalyse {#sec:4-3}
 
@@ -274,7 +305,7 @@ flowchart TD
     I --> J[Synthese und Theoriebildung]
 ```
 
-TODO: Mermaid Diagramm durch LaTeX Grafik ersetzen
+#todo Mermaid Diagramm durch LaTeX Grafik ersetzen
 
 #### Validierung und empirische Kennwerte
 
@@ -302,7 +333,7 @@ Zur Überprüfung der Trennschärfe wurde die P-QIA auf die klassisch kodierte S
 
 #### Test- und Diskursbeiträge
 
-Die Validierung umfasst automatische Kodierungstests, erneute Clusterbildungen mit k-means sowie Mehrfachberechnungen des Silhouette-Scores, um die Stabilität über verschiedene Läufe hinweg zu belegen. Zudem wurde geprüft, ob klassische Tools wie ATLAS.ti oder NVivo die gleichen Prüfungen leisten können. Da diese Werkzeuge primär der Unterstützung menschlicher Kodierung dienen, liefern sie keine belastbaren Kennwerte zur objektiven Clustervalidierung. Die P-QIA adressiert damit eine Lücke in der aktuellen Diskussion (z.B. [@biswas_chatgpt_2023; @van_niekerk_addressing_2025; @storey_ai_2023; @parker_negotiating_2024]), indem sie ein überprüfbares Verfahren zur Qualitätsbewertung KI-gestützter Analysen bereitstellt.
+Die Validierung umfasst automatische Kodierungstests, erneute Clusterbildungen mit $k$-means sowie Mehrfachberechnungen des Silhouette-Scores, um die Stabilität über verschiedene Läufe hinweg zu belegen. Zudem wurde geprüft, ob klassische Tools wie ATLAS.ti oder NVivo die gleichen Prüfungen leisten können. Da diese Werkzeuge primär der Unterstützung menschlicher Kodierung dienen, liefern sie keine belastbaren Kennwerte zur objektiven Clustervalidierung. Die P-QIA adressiert damit eine Lücke in der aktuellen Diskussion (z.B. [@biswas_chatgpt_2023; @van_niekerk_addressing_2025; @storey_ai_2023; @parker_negotiating_2024]), indem sie ein überprüfbares Verfahren zur Qualitätsbewertung KI-gestützter Analysen bereitstellt.
 
 #### Rolle des Menschen und Grenzen
 
@@ -371,7 +402,7 @@ Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden
 3. Cluster 3 (grau): Bereich der technologiegestützten Lehr-Lern-Effektivität, oft verknüpft mit FU2a/b. Enthält Quellen, die empirische Wirkmechanismen, Vergleichsstudien und Evaluationsdesigns behandeln.
 4. Cluster 4 (braun): Theoretische Kernliteratur (Kerngedanke der Promotion), mit starker Anbindung an Technologieintegration, Forschungsansätze und FU7. Auffällige Dichte an Basismodellen (TPACK, SDT, Systemtheorie).
 
-TODO: TPACK, SDT, Systemtheorie erklären bzw. referenzieren
+#todo TPACK, SDT, Systemtheorie erklären bzw. referenzieren
 
 Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen tatsächlich diskriminierende Kraft besitzen und die Literatur nicht durch zufällige Muster gruppiert wird, sondern strukturelle Kohärenzen im Diskurs sichtbar machen.
 
@@ -383,7 +414,7 @@ Die Visualisierung erfüllt mehrere Funktionen innerhalb der mdaCV:
 - Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning → FU4a/FU6 vs. technologische Integration → FU3/FU7).
 - Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
  
-Epistemische Funktion im Forschungsdesign:
+Epistemische Funktion im Forschungsdesign
 
 Die hohe Trennschärfe bestätigt, dass das Literaturfeld strukturell differenziert ist. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden.
 
