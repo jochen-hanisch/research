@@ -390,31 +390,114 @@ Die hohe Trennschärfe bestätigt, dass das Literaturfeld strukturell differenzi
 Bedeutung für die Gesamtanalyse
 
 Die 3D-Clusteranalyse wirkt als abschließende seismografische Validierungsstufe der vorangegangenen P-QIA und der mdaCV:
+
 - Sie macht sichtbar, dass die Literaturbasis nicht nur volumetrisch, sondern auch semantisch ausgewogen ist.
 - Sie zeigt, welche Themenräume dicht besetzt sind und welche die deduktiven Kategorien besonders stark stützen.
 - Sie unterstreicht die Robustheit der Gesamtmethodik, indem sie die getrennten Analyseebenen (Suchbegriffe, Kategorien, FU) in einem kohärenten geometrischen Modell zusammenführt.
 
 Damit bestätigt die 3D-Clusteranalyse die theoretisch-probabilistische Struktur des Forschungsdesigns und bietet einen visuell-analytischen Beleg dafür, dass die deduktive Kodierung, die P-QIA und die mdaCV konsistent ineinandergreifen. Zudem kann sie als Koherenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. Damit gelingt erstmalig eine umfassende, methodisch stringent abgesicherte Kartierung des Forschungsfeldes und infolgedessen der Lückenschluss zwischen deduktiver Theoriearbeit und datenbasierter Validierung.
 
+Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU1–FU7), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Statt auf hohe absolute Korrelationswerte abzuzielen, liegt der Schwerpunkt auf Mustererkennung, semantischen Relationen und der Validierung der deduktiven Struktur.
+
+**Forschungsunterfragen × Forschungsunterfragen**
+
+Abbildung \ref{fig:kor-fu} zeigt die Korrelationsstruktur zwischen den Forschungsunterfragen. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
 ![Korrelationsmatrix der Forschungsunterfragen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-02-01-suchergebnisse.png){#fig:kor-fu width=90%}
 
-![Korrelationsmatrix zwischen Forschungsunterfragen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-kategorien-02-01-suchergebnisse.png){#fig:kor-fu-kategorien width=90%}
+Analyse: Werte bleiben fast durchgängig im schwach negativen Bereich; punktuell leichte positive Ausreißer (z.B. FU4a/FU3). Es gibt keine dominanten Achsen, sondern ein fein gestreutes Muster mit einzelnen Verdichtungen bei FU4a.
+
+Interpretation: Die FU sind inhaltlich sauber getrennt; die geringe Koppelung zeigt, dass die deduktive Struktur trägt und keine unbeabsichtigten Überschneidungen entstehen. Die wenigen positiven Paare markieren Anschlussstellen (z.B. FU4a ↔ FU3) und bleiben methodisch tolerabel.
+
+**Forschungsunterfragen × Suchbegriffe**
+
+Abbildung \ref{fig:kor-fu-suchbegriffe} zeigt die Korrelationsstruktur zwischen Forschungsunterfragen und Suchbegriffen. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
 
 ![Korrelationsmatrix zwischen Forschungsunterfragen und Suchbegriffen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-fu-suchbegriffe width=90%}
 
+Analyse: Positiv verdichtet bei FU4a/FU4b in Kombination mit digital learning/medien und E‑Learning; geringe, vereinzelt negative Bezüge bei FU1/FU7 auf klassische Lernplattform-Begriffe. Werte bleiben insgesamt moderat.
+
+Interpretation: Die Suchbegriffe spiegeln die thematische Fokussierung der FU wider (insb. FU4a/b), ohne Querbezüge zu dominieren. Das stützt die semantische Passung der Suchstring-Logik zu den FU-Schwerpunkten.
+
+**Forschungsunterfragen × Kategorien**
+
+Abbildung \ref{fig:kor-fu-kategorien} zeigt die Korrelationsstruktur zwischen Forschungsunterfragen und Kategorien. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
+![Korrelationsmatrix zwischen Forschungsunterfragen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-kategorien-02-01-suchergebnisse.png){#fig:kor-fu-kategorien width=90%}
+
+Analyse: Schwerpunkte liegen bei „kerngedanke“ und „weiterführung“, jeweils mit moderaten positiven Bezügen zu FU4a, FU4b und FU5. „Argumentation“ koppelt erwartungsgemäß leicht an FU3/FU4a. Negative Werte bleiben marginal.
+
+Interpretation: Die Kategorien greifen an den inhaltlich zugehörigen FU an und bleiben ansonsten entkoppelt. Die moderate Stärke stützt die deduktive Zuordnung und zeigt, dass Kategorien eher als Linsen denn als harte Cluster wirken.
+
+**Forschungsunterfragen × Indizes**
+
+Abbildung \ref{fig:kor-fu-indizes} zeigt die Korrelationsstruktur zwischen Forschungsunterfragen und Indizes. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
 ![Korrelationsmatrix zwischen Forschungsunterfragen und Indizes.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-und-indizes-02-01-suchergebnisse.png){#fig:kor-fu-indizes width=90%}
 
-![Korrelationsmatrix der Indizes.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-02-01-suchergebnisse.png){#fig:kor-indizes width=90%}
+Analyse: Stärkere positive Kopplungen bei technologische Integration, kollaboratives Lernen und Lehr-/Lerneffektivität, vor allem mit FU4a/b und FU6. Schwache oder neutrale Werte bei FU1/FU7; negative Ausreißer fehlen praktisch.
 
-![Korrelationsmatrix zwischen Indizes und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-und-kategorien-02-01-suchergebnisse.png){#fig:kor-indizes-kategorien width=90%}
+Interpretation: Die Index-Logik greift dort, wo die FU inhaltlich tief in Technologie- und Didaktikfragen eintauchen. Die gleichmäßige Verteilung ohne starke Negative zeigt, dass die Indizes die FU-Struktur stützen, nicht überlagern.
 
-![Korrelationsmatrix zwischen Indizes und Suchbegriffen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-und-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-indizes-suchbegriffe width=90%}
+**Suchbegriffe × Suchbegriffe**
 
-![Korrelationsmatrix der Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-kategorien-02-01-suchergebnisse.png){#fig:kor-kategorien width=90%}
+Abbildung \ref{fig:kor-suchbegriffe} zeigt die Korrelationsstruktur der Suchbegriffe. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
 
 ![Korrelationsmatrix der Suchbegriffe.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-suchbegriffe width=90%}
 
+Analyse: Schwach negative, punktuell positive Knoten entlang digital/blended learning; keine dominanten Hauptachsen. Querbezüge bleiben gering und verteilen sich auf wenige Suchwortpaare.
+
+Interpretation: Die Suchbegriffe sind hinreichend fein granuliert, um Überschneidungen zu vermeiden. Das unterstreicht die Selektivität der Suchordner und verhindert semantische Überlappungen.
+
+**Suchbegriffe × Kategorien**
+
+Abbildung \ref{fig:kor-suchbegriffe-kategorien} zeigt die Korrelationsstruktur zwischen Suchbegriffen und Kategorien. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
 ![Korrelationsmatrix zwischen Suchbegriffen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-suchbegriffen-und-kategorien-02-01-suchergebnisse.png){#fig:kor-suchbegriffe-kategorien width=90%}
+
+Analyse: Deutliche positive Bezüge zwischen digital/blended learning und den Kategorien „kerngedanke“/„weiterführung“; punktuell negative Werte bei einzelnen Medientiteln. Insgesamt bleibt das Niveau moderat.
+
+Interpretation: Die Kategorien ziehen die Suchbegriffe an, die inhaltlich am Forschungsgegenstand anliegen; periphere Begriffe bleiben schwach oder negativ korreliert. Das bestätigt die Stringenz der dreistufigen Suchordner-Logik.
+
+**Kategorien × Kategorien**
+
+Abbildung \ref{fig:kor-kategorien} zeigt die Korrelationsstruktur der Kategorien. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
+![Korrelationsmatrix der Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-kategorien-02-01-suchergebnisse.png){#fig:kor-kategorien width=90%}
+
+Analyse: Vereinzelte, schwach positive Beziehungen zwischen „argumentation“/„kerngedanke“ und „weiterführung“; ansonsten überwiegend neutrale Felder und nur minimale Negativa.
+
+Interpretation: Die Kategorien sind weitgehend orthogonal. Das stützt die Annahme, dass sie unterschiedliche argumentative Rollen adressieren und nicht kollabieren.
+
+**Indizes × Indizes**
+
+Abbildung \ref{fig:kor-indizes} zeigt die Korrelationsstruktur der Indizes. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
+![Korrelationsmatrix der Indizes.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-02-01-suchergebnisse.png){#fig:kor-indizes width=90%}
+
+Analyse: Deutliche positive Cluster bei technologische Integration, Datenschutz/IT-Sicherheit, kollaboratives Lernen und Lehr-/Lerneffektivität. Kaum negative Werte; neutrale Felder dominieren am Rand.
+
+Interpretation: Die Indizes bilden ein konsistentes, technologie- und didaktikzentriertes Rückgrat. Die hohen Positiva zeigen, dass die deduktiven Achsen auch in der Index-Ebene kohärent wirken und sich gegenseitig verstärken.
+
+**Indizes × Kategorien**
+
+Abbildung \ref{fig:kor-indizes-kategorien} zeigt die Korrelationsstruktur zwischen Indizes und Kategorien. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
+![Korrelationsmatrix zwischen Indizes und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-und-kategorien-02-01-suchergebnisse.png){#fig:kor-indizes-kategorien width=90%}
+
+Analyse: Positive Schwerpunkte zwischen „kerngedanke“/„weiterführung“ und Indizes zu technologische Integration, kollaboratives Lernen und Datenschutz/IT-Sicherheit; „argumentation“ koppelt moderat an Lehr-/Lerneffektivität. Negative Werte fehlen praktisch.
+
+Interpretation: Kategorien greifen erwartungsgemäß an den technologie- und didaktiknahen Indizes an. Das Muster zeigt, dass die inhaltlichen Kategorien nicht diffundieren, sondern entlang der deduktiv gesetzten Indexachsen andocken.
+
+**Indizes × Suchbegriffe**
+
+Abbildung \ref{fig:kor-indizes-suchbegriffe} zeigt die Korrelationsstruktur zwischen Indizes und Suchbegriffen. Sie dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge.
+
+![Korrelationsmatrix zwischen Indizes und Suchbegriffen.](08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-indizes-und-suchbegriffen-02-01-suchergebnisse.png){#fig:kor-indizes-suchbegriffe width=90%}
+
+Analyse: Klar positive Paare bei technologische Integration, Bewertungsmethoden und kollaboratives Lernen mit Suchbegriffen zu digital learning, E‑Learning und blended learning. Negative Werte tauchen v.a. bei spezifischen Medientiteln auf, bleiben aber schwach.
+
+Interpretation: Die Suchbegriffe folgen den indexbasierten Schwerpunkten und differenzieren sauber zwischen technologie-/didaktiknahen und peripheren Termfeldern. Das bestätigt die semantische Passung der Suchstrings zur Indexlogik.
 
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
 
