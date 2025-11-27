@@ -95,11 +95,11 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores \label{ta
 | 2025 | 192 | 4 | 0.9696 |
 | **Summe** | 3524 | — | — |
 
-Die Summenzeile dokumentiert die 3 524 für die Kohärenzberechnung herangezogenen Dokumente. Bis 2016 bleiben die Fallzahlen niedrig, die Silhouette-Scores liegen aber durchgängig bei $≈1{,}0$ und weisen auf hochgradig fokussierte Cluster hin. In den Jahren 2018–2022 steigt das Volumen stark an, während die Scores auf hohem Niveau bleiben (≥ 0,985); diese Phase bildet den stabilen epistemischen Kern des Korpus. Der Einbruch auf $0,9208$ im Jahr 2024 markiert die stärkste semantische Drift durch die rasche Ausweitung neuer Themen (z. B. KI-basierte Lernmodelle), bevor 2025 eine moderate Rezentrierung der Cluster sichtbar wird. Insgesamt zeigt die Tabelle, dass hohe Fallzahlen nicht automatisch Kohärenzverlust bedeuten, Wachstumsphasen aber interpretativ besonders sorgfältig eingeordnet werden müssen.
+Die Summenzeile dokumentiert die 3 524 für die Kohärenzberechnung herangezogenen Dokumente. Bis 2016 bleiben die Fallzahlen niedrig, die Silhouette-Scores liegen aber durchgängig bei $\approx 1{,}0$ und weisen auf hochgradig fokussierte Cluster hin. In den Jahren 2018–2022 steigt das Volumen stark an, während die Scores auf hohem Niveau bleiben ($\geq 0{,}985$); diese Phase bildet den stabilen epistemischen Kern des Korpus. Der Einbruch auf $0{,}9208$ im Jahr 2024 markiert die stärkste semantische Drift durch die rasche Ausweitung neuer Themen (z. B. KI-basierte Lernmodelle), bevor 2025 eine moderate Rezentrierung der Cluster sichtbar wird. Insgesamt zeigt die Tabelle, dass hohe Fallzahlen nicht automatisch Kohärenzverlust bedeuten, Wachstumsphasen aber interpretativ besonders sorgfältig eingeordnet werden müssen.
 
 ![Silhouette-Scores und Fallzahlen pro Jahr; linke Achse zeigt die Clustertrennschärfe, rechte Achse die Fallzahlen.](08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png){#fig:silhouette-scores width=90%}
 
-Die Abbildung zeigt die gemeinsame Entwicklung von Silhouette-Scores und Fallzahlen und verdeutlicht damit die semantische Stabilität des recherchierten Literaturfeldes über die Zeit. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen nahezu perfekte Silhouette-Scores vor ($≈ 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur so eng gefasst ist, dass jedes zusätzliche Dokument inhaltlich nahezu identisch anschließt. Der Zeitraum 2018–2022 kombiniert dann hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden das robuste epistemische Fundament des Korpus d.h. hohe Dichte, hohe Trennschärfe und deutliche Clusterzentren.
+Die Abbildung zeigt die gemeinsame Entwicklung von Silhouette-Scores und Fallzahlen und verdeutlicht damit die semantische Stabilität des recherchierten Literaturfeldes über die Zeit. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen nahezu perfekte Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur so eng gefasst ist, dass jedes zusätzliche Dokument inhaltlich nahezu identisch anschließt. Der Zeitraum 2018–2022 kombiniert dann hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden das robuste epistemische Fundament des Korpus d.h. hohe Dichte, hohe Trennschärfe und deutliche Clusterzentren.
 
 Ab 2023 sinkt der Score trotz weiterhin sehr hoher Fallzahlen. Der Tiefpunkt ($0,9208$ im Jahr 2024) zeigt eine semantische Drift, das heißt eine zunehmende Heterogenität des Feldes, ohne dass die Relevanz oder Qualität des Korpus abnimmt. Vielmehr reorganisieren sich die thematischen Schwerpunkte in einem dynamischen Diskursfeld (z. B. Learning Analytics, KI-basierte Lernsysteme, generative Modelle). Die moderate Erholung 2025 verweist auf eine mögliche Neuordnung der semantischen Zentren. Die quartilsbasierten Referenzlinien ($Q_1 \approx 0{,}9686$, $Q_3 = 1{,}0000$) und die Fatigue-Schwelle von $0,96$ markieren die Übergänge zwischen kohärenten Verdichtungsphasen und beginnender Fragmentierung. Damit lässt sich die Aussagekraft einzelner Jahrgänge systematisch gewichten, belastbare Kohärenzphasen identifizieren und die Qualität der algorithmischen Clusterbildung retrospektiv validieren.
 
@@ -168,13 +168,24 @@ Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanag
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
 
-Die folgenden Abbildungen sind entlang der Auswertungsschritte gruppiert: Überblick, Korpusstruktur, FU-Mapping/Relevanz, Status/Autoren, Sprachen, anschließend Pfad‑/Sankey‑ und Netzwerksichten. Sie bilden die visuelle Grundlage für die in Abschnitt \hyperref[sec:4-3]{Abschnitt 4.3} beschriebene Datenanalyse.
+Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt die Visualisierungen entlang eines konsistenten analytischen Aufbaus. Die Abbildungen bilden die visuelle Grundlage der in Abschnitt \hyperref[sec:4-3]{4.3} beschriebenen Datenanalyse und ordnen den Quellenkorpus systematisch entlang zentraler Dimensionen: Überblick, Korpusstruktur, FU‑Mapping und Relevanz, Qualitäts- und Statusinformationen, Autor:innenverteilung, Sprachmuster sowie Pfad‑/Sankey‑ und Netzwerksichten. Sie dienen damit der transparenten Rekonstruktion der Datenbasis und der Vorbereitung der späteren Cluster- und Korrelationsanalysen.
 
-Inhaltlich gehören hier die Relevanz- und Zuordnungsplots (Kategorien, Forschungsunterfragen, Suchbegriffe) sowie die Sprach- und Kategoriedistributionen. Die reine Fortschrittsübersicht nach Suchordnern ist Arbeitsdokumentation und sollte in den Anhang, nicht in Kapitel 4.
+Inhaltlich gehören in diesen Abschnitt alle Visualisierungen, die die Relevanz, Struktur und thematische Zuordnung des Korpus abbilden (z. B. Kategorien-, FU‑ und Suchbegriffzuordnungen) sowie Sprach‑ und Kategoriedistributionen. Nicht enthalten sind reine Fortschrittsübersichten der Suchordner; diese gehören als Arbeitsdokumentation in den Anhang.
+
+#todo Fortschrittsübersichten in den Anhang setzen
+
+Aufbau der Visualisierungen:
+
+- Überblick: Gesamtplot mit Kernkennzahlen (Relevanz, Sprachen, Typen).
+- Korpusstruktur: Verteilungen der Kategorien und Indizes.
+- FU‑Mapping/Relevanz: Zuordnung zu Forschungsunterfragen sowie Relevanz je FU, Kategorie und Suchbegriff.
+- Qualität/Status/Autoren: Status der Quellen und Verteilung der Top‑Autor:innen.
+- Sprachen: Gesamtverteilung und Differenzierung nach Dokumententypen.
+- Flüsse/Netze: Pfaddiagramm, Suchbegriff‑Sankey‑Darstellung und das semantische Netzwerk.
 
 ![Gesamtüberblick der Suchergebnisse mit verdichteten Kenngrößen zu Relevanz, Sprachen, Quellenarten und Tags.](08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png){#fig:summary-suchergebnisse width=90%}
 
-Der Überblick bündelt den Korpus (≈3,5k Quellen): hohe Relevanzstufen dominieren, Deutsch/Englisch tragen den Hauptanteil, Artikel und Bücher sind die wichtigsten Dokumententypen. Damit ist die Datengrundlage formal solide, sprachlich fokussiert und nur gering durch Randsprachen oder Grauliteratur verzerrt.
+Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relevanzstufen dominieren, Deutsch/Englisch tragen den Hauptanteil, Artikel und Bücher sind die wichtigsten Dokumententypen. Damit ist die Datengrundlage formal solide, sprachlich fokussiert und nur gering durch Randsprachen oder Grauliteratur verzerrt.
 
 ![Verteilung der Kategorien innerhalb des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png){#fig:categories-suchergebnisse width=90%}
 
@@ -411,7 +422,7 @@ Methodologische Einordnung
 Die Visualisierung erfüllt mehrere Funktionen innerhalb der mdaCV:
 
 - Validierung der Deduktionslogik: Die drei Achsen sind nicht rein empirisch berechnet, sondern theoriebasiert definiert. Ihre Trennung im Raum zeigt, wie sich inhaltliche und methodische Ebenen der Literatur konsistent verhalten.
-- Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning → FU4a/FU6 vs. technologische Integration → FU3/FU7).
+- Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU4a/FU6 vs. technologische Integration $\to$ FU3/FU7).
 - Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
  
 Epistemische Funktion im Forschungsdesign
@@ -438,7 +449,7 @@ Abbildung \ref{fig:kor-fu} zeigt die Korrelationsstruktur zwischen den Forschung
 
 Analyse: Werte bleiben fast durchgängig im schwach negativen Bereich; punktuell leichte positive Ausreißer (z.B. FU4a/FU3). Es gibt keine dominanten Achsen, sondern ein fein gestreutes Muster mit einzelnen Verdichtungen bei FU4a.
 
-Interpretation: Die FU sind inhaltlich sauber getrennt; die geringe Koppelung zeigt, dass die deduktive Struktur trägt und keine unbeabsichtigten Überschneidungen entstehen. Die wenigen positiven Paare markieren Anschlussstellen (z.B. FU4a ↔ FU3) und bleiben methodisch tolerabel.
+Interpretation: Die FU sind inhaltlich sauber getrennt; die geringe Koppelung zeigt, dass die deduktive Struktur trägt und keine unbeabsichtigten Überschneidungen entstehen. Die wenigen positiven Paare markieren Anschlussstellen (z.B. FU4a $\leftrightarrow$ FU3) und bleiben methodisch tolerabel.
 
 **Forschungsunterfragen × Suchbegriffe**
 
