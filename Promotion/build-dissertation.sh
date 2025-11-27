@@ -21,6 +21,7 @@ pandoc \
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" \
+  "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md" \
