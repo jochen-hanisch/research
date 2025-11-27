@@ -244,6 +244,7 @@ Der Suchbegriff-Sankey bestätigt die Fokussierung: Digital learning, LMS und bl
 Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf. Primärbegriffe wie „learning:management:system“, „digital:learning“ und „digital:lernen“ liegen zentral und verbinden technische mit didaktischen Dimensionen. Sekundärbegriffe (z.B. „mooc“, „blended:learning“, „digital:medien“) verdichten den pädagogischen Pol und zeigen Anschluss an Formate und Inhalte. Tertiärbegriffe („online:lernen“, „online:learning“) sind randständig und öffnen den Suchraum, ohne die Kernstruktur zu verschieben. Die Knotengröße spiegelt die Suchgewichtung, die Kanten die semantische Nähe. Insgesamt bestätigt das Netz eine doppelte Zentrierung: technologiegetriebene Kernbegriffe halten den Raum zusammen, didaktische und periphere Online-Begriffe erweitern ihn kontrolliert.
 
 ### 4.2.4 Eye-Tracking-Studie: Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
+#todo Eye-Tracking weiter ausführen und anpassen
 
 Die Eye-Tracking-Erhebung ergänzt die Literatur- und Befragungsdaten um objektive Aufmerksamkeits- und Navigationsmuster. Sie ist den Forschungsunterfragen FU2a (Effekte auf Lernende) und FU4b (technisch-gestalterische Mechanismen) zugeordnet und liefert empirische Evidenz für die Rezeption der LMS-Oberflächen.
 
@@ -260,6 +261,7 @@ Methodologisch folgt die Studie einem kontrollierten Labordesign, das Störeinfl
 Die Auswertung ist in den iterativen Analysezyklus eingebunden: Heatmaps und Scanpaths liefern Primärbefunde, AOI-Vergleiche und Sequenzmuster bilden die Sekundärebene, und die Kombination mit LMS-Nutzungsdaten sowie Befragungsergebnissen schärft die Interpretation auf der dritten Ebene. Damit entsteht eine Triangulation, die subjektive Bewertungen (Umfrage), beobachtbares Verhalten (Eye-Tracking) und theoretische Modellannahmen miteinander verschränkt.
 
 ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
+#todo Umfrage weiter ausführen und anpassen
 
 Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen. Sie stützt primär FU1 (Akzeptanz und Nützlichkeit) sowie FU2a/FU2b.
 
@@ -270,7 +272,7 @@ Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden u
 - **Auswertung:** Deskriptive Kennzahlen pro Dimension, gewichtetes Gesamtmaß gemäß Synopse, Vergleich nach Subgruppen (z.B. Nutzungshäufigkeit, Rolle); fehlende Werte per Listewise/Pairwise je Analyse; Rückbindung an FU1/FU2 und Abgleich mit Eye-Tracking-Befunden.
 - **Gütekriterien/Reflexion:** Reliabilität über interne Konsistenz geprüft; Validität über Experten-Review und Pretest; mögliche Bias (Selbstselektion, soziale Erwünschtheit) werden in der Diskussion transparent gemacht.
 
-Die Konstruktion des Instruments folgt dem Prinzip der Forschungsfragengeleitetheit: Jede Itemgruppe ist einem FU zugeordnet, was eine direkte Rückbindung der Ergebnisse ermöglicht. Die Gewichtungen sind vorab festgelegt, um Skalierungsentscheidungen nachvollziehbar zu machen und Sensitivitätsanalysen (mit/ohne Gewichtung) zu ermöglichen. Pretests und Experten-Review stellen sicher, dass die Items verständlich und inhaltlich valide sind.
+Die Konstruktion des Instruments folgt dem Prinzip der Forschungsfragengeleitetheit. Jede Itemgruppe ist einem FU zugeordnet, was eine direkte Rückbindung der Ergebnisse ermöglicht. Die Gewichtungen sind vorab festgelegt, um Skalierungsentscheidungen nachvollziehbar zu machen und Sensitivitätsanalysen (mit/ohne Gewichtung) zu ermöglichen. Pretests und Experten-Review stellen sicher, dass die Items verständlich und inhaltlich valide sind.
 
 Analytisch werden die Umfrageergebnisse mit den Eye-Tracking-Befunden verschränkt: Divergenzen zwischen berichteter Nützlichkeit und beobachteter Nutzung werden als Hinweis auf Interface- oder Erwartungsinkonsistenzen interpretiert, Kongruenzen stützen die Modellannahmen zur Wirksamkeit. Subgruppenanalysen (z.B. Lehrende vs. Lernende, hohe vs. niedrige Nutzung) liefern Kontext für differenzierte Handlungsempfehlungen.
 
@@ -455,6 +457,16 @@ Die Visualisierung erfüllt mehrere Funktionen innerhalb der mdaCV:
 - Validierung der Deduktionslogik: Die drei Achsen sind nicht rein empirisch berechnet, sondern theoriebasiert definiert. Ihre Trennung im Raum zeigt, wie sich inhaltliche und methodische Ebenen der Literatur konsistent verhalten.
 - Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU4a/FU6 vs. technologische Integration $\to$ FU3/FU7).
 - Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
+
+### 4.3.9 Auswertung: Eye-Tracking und Umfrage im Vergleich {#sec:4-3-9}
+
+Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Umfrage, um Wahrnehmung und tatsächliche Aufmerksamkeit auf UI-Elemente zusammenzuführen. Grundlage sind die dokumentierten Analysen pro Stimulus (`Analysen Eye Tracking/F2–F14.md`), die Stichprobenabdeckung (`Prozentuale Verteilung und Konfidenzintervalle.md`) sowie die gewichteten Umfrageitems (`Synopse der Gewichtungen ...md`).
+
+- **Stichprobe/Repräsentativität (Eye-Tracking):** Kurs 21-NFS-09: 80 % (95 %-KI: 56,15–103,85 %), Kurs 22-NFS-09: 72,73 % (49,73–95,73 %), Kurs 23-NFS-09: 33,33 % (17,77–48,89 %), Gesamt: 53,33 % (44,51–62,15 %). Identische TN-Zahl je Jahrgang ermöglicht vergleichbare AOI-Analysen; breite KIs in kleinen Kursen werden in der Interpretation berücksichtigt.
+- **Eye-Tracking-Befunde (Beispiele):** Heatmaps/Scanpaths pro Stimulus (F2–F14) zeigen Blickzentrierung auf Navigationselemente und Aufgabenbeschreibungen; AOI-Hits und Dwell Times dienen als primäre Kennzahlen. Auffällige Sequenzen werden mit den angenommenen UI-Wirkmechanismen (FU4b) gespiegelt.
+- **Umfrage-Befunde (Struktur):** Gewichtet ausgewertete Dimensionen zu Akzeptanz/Nutzen/Hemmnissen; deskriptive Kennzahlen pro Subgruppe (Lehrende/Lernende; Nutzungshäufigkeit) und Gesamtmaß.
+- **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Erwartungsbrüche und fließen in die Diskussion ein.
+- **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
  
 Epistemische Funktion im Forschungsdesign
 
