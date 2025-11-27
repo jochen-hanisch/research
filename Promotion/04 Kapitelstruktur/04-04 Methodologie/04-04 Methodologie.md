@@ -243,6 +243,37 @@ Der Suchbegriff-Sankey bestätigt die Fokussierung: Digital learning, LMS und bl
 
 Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf. Primärbegriffe wie „learning:management:system“, „digital:learning“ und „digital:lernen“ liegen zentral und verbinden technische mit didaktischen Dimensionen. Sekundärbegriffe (z.B. „mooc“, „blended:learning“, „digital:medien“) verdichten den pädagogischen Pol und zeigen Anschluss an Formate und Inhalte. Tertiärbegriffe („online:lernen“, „online:learning“) sind randständig und öffnen den Suchraum, ohne die Kernstruktur zu verschieben. Die Knotengröße spiegelt die Suchgewichtung, die Kanten die semantische Nähe. Insgesamt bestätigt das Netz eine doppelte Zentrierung: technologiegetriebene Kernbegriffe halten den Raum zusammen, didaktische und periphere Online-Begriffe erweitern ihn kontrolliert.
 
+### 4.2.4 Eye-Tracking-Studie: Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
+
+Die Eye-Tracking-Erhebung ergänzt die Literatur- und Befragungsdaten um objektive Aufmerksamkeits- und Navigationsmuster. Sie ist den Forschungsunterfragen FU2a (Effekte auf Lernende) und FU4b (technisch-gestalterische Mechanismen) zugeordnet und liefert empirische Evidenz für die Rezeption der LMS-Oberflächen.
+
+- **Stichprobe und Setting:** Proband:innen-Rekrutierung mit Einwilligung, Kalibrierung vor jeder Sitzung; Labor-Setting mit kontrolliertem Stimulus-Workflow. Ausschluss bei hoher Trackloss-Rate oder unzureichender Kalibrierung.
+- **Hardware/Software:** Tobii-System (vgl. `00 Projektstruktur/00-03 Theorieansatz/Umfragen und Versuche/Tobii`), dokumentierte Softwareversionen; standardisierte Sitzordnung und Bildschirmdistanz.
+- **Stimuli und Ablauf:** Sequenziertes Stimulus-Set (vgl. `.../Eye-Tracking Versuch/Versuchsstimuli.md`) mit Instruktionen vorab (`Informationen für die Teilnehmenden.md`), Trial-Reihenfolge fixiert, Abschlussprotokoll geführt.
+- **Messgrößen:** Fixationen, Sakkaden, Dwell Time, AOI-Hits, Scanpaths; Ableitung von Heatmaps und Sequenzmustern pro Stimulus (Analysen F2–F14).
+- **Preprocessing und Ausschlussregeln:** Entfernung von Blinks und Trackloss, Glättung kurzer Sakkaden, Ausschluss ganzer Trials bei fehlender Validierung; Dokumentation der Ausschlüsse in `Prozentuale Verteilung und Konfidenzintervalle.md`.
+- **Auswertung:** AOI-Vergleiche zwischen Stimuli, Sequenzmuster über Scanpaths, Konfidenzintervalle für dwell/visit-Metriken; Rückbindung an FU2a/FU4b und die theoretische Modellierung der UI-Elemente.
+- **Reflexion/Gütekriterien:** Interne Validität durch kontrolliertes Setting, ökologische Validität begrenzt; Reaktivität (Hawthorne-Effekt) adressiert über Instruktionen und Vertrautmachung mit der Oberfläche; Geräte-/Software-Bias durch Versionsdokumentation minimiert; Datenschutz durch pseudonymisierte IDs.
+
+Methodologisch folgt die Studie einem kontrollierten Labordesign, das Störeinflüsse minimiert und klare Vergleichbarkeit zwischen Stimuli sicherstellt. Die Kopplung von Eye-Tracking mit den Forschungsunterfragen erlaubt es, hypothesenprüfend zu analysieren, ob bestimmte UI-Elemente Aufmerksamkeit binden oder übersehen werden und wie dies mit wahrgenommenem Nutzen korrespondiert. Die definierten Ausschlusskriterien sichern die interne Validität, während die Reflexion der ökologischen Validität transparent macht, welche Transfergrenzen zum realen Nutzungskontext bestehen.
+
+Die Auswertung ist in den iterativen Analysezyklus eingebunden: Heatmaps und Scanpaths liefern Primärbefunde, AOI-Vergleiche und Sequenzmuster bilden die Sekundärebene, und die Kombination mit LMS-Nutzungsdaten sowie Befragungsergebnissen schärft die Interpretation auf der dritten Ebene. Damit entsteht eine Triangulation, die subjektive Bewertungen (Umfrage), beobachtbares Verhalten (Eye-Tracking) und theoretische Modellannahmen miteinander verschränkt.
+
+### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
+
+Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen. Sie stützt primär FU1 (Akzeptanz und Nützlichkeit) sowie FU2a/FU2b.
+
+- **Ziel und Konstruktion:** Ableitung der Items aus den Forschungsunterfragen; Kombination aus Akzeptanz-, Nutzungs- und Wirkungsdimensionen; Pretest dokumentiert (`Einleitung zur Umfrage 1.md`).
+- **Instrument:** Strukturierter Fragebogen mit Informationsblatt und Einwilligung (`Informationen für die Teilnehmenden.md`, `Informationen zur Umfrage.md`), abgestützte Gewichtungen der Dimensionen (`Synopse der Gewichtungen ...md`).
+- **Stichprobe:** Rekrutierung über das LMS-Umfeld; Ein- und Ausschlusskriterien dokumentiert; Dropouts ausgewiesen.
+- **Durchführung:** Online-Erhebung über das LMS; identische Instruktionen; pseudonymisierte IDs; technische Checks vor Freigabe.
+- **Auswertung:** Deskriptive Kennzahlen pro Dimension, gewichtetes Gesamtmaß gemäß Synopse, Vergleich nach Subgruppen (z.B. Nutzungshäufigkeit, Rolle); fehlende Werte per Listewise/Pairwise je Analyse; Rückbindung an FU1/FU2 und Abgleich mit Eye-Tracking-Befunden.
+- **Gütekriterien/Reflexion:** Reliabilität über interne Konsistenz geprüft; Validität über Experten-Review und Pretest; mögliche Bias (Selbstselektion, soziale Erwünschtheit) werden in der Diskussion transparent gemacht.
+
+Die Konstruktion des Instruments folgt dem Prinzip der Forschungsfragengeleitetheit: Jede Itemgruppe ist einem FU zugeordnet, was eine direkte Rückbindung der Ergebnisse ermöglicht. Die Gewichtungen sind vorab festgelegt, um Skalierungsentscheidungen nachvollziehbar zu machen und Sensitivitätsanalysen (mit/ohne Gewichtung) zu ermöglichen. Pretests und Experten-Review stellen sicher, dass die Items verständlich und inhaltlich valide sind.
+
+Analytisch werden die Umfrageergebnisse mit den Eye-Tracking-Befunden verschränkt: Divergenzen zwischen berichteter Nützlichkeit und beobachteter Nutzung werden als Hinweis auf Interface- oder Erwartungsinkonsistenzen interpretiert, Kongruenzen stützen die Modellannahmen zur Wirksamkeit. Subgruppenanalysen (z.B. Lehrende vs. Lernende, hohe vs. niedrige Nutzung) liefern Kontext für differenzierte Handlungsempfehlungen.
+
 ## 4.3 Datenanalyse {#sec:4-3}
 
 ### 4.3.1 Grundlogik der Datenanalyse: Analysen erster bis dritter Ordnung {#sec:4-3-1}
