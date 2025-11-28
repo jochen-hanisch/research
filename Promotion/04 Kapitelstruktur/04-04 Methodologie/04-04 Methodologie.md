@@ -464,16 +464,6 @@ Die Visualisierung erfüllt mehrere Funktionen innerhalb der mdaCV:
 - Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU4a/FU6 vs. technologische Integration $\to$ FU3/FU7).
 - Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
 
-### 4.3.9 Auswertung: Eye-Tracking und Umfrage im Vergleich {#sec:4-3-9}
-
-Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Umfrage, um Wahrnehmung und tatsächliche Aufmerksamkeit auf UI-Elemente zusammenzuführen. Grundlage sind die Stimulus-Analysen, die Stichprobenabdeckung und die vorab gewichteten Umfrageitems.
-
-- **Stichprobe/Repräsentativität (Eye-Tracking):** Kurs 21-NFS-09: $80\,\%$ ($95\,\%$-KI: $56{,}15$–$103{,}85\,\%$), Kurs 22-NFS-09: $72{,}73\,\%$ ($49{,}73$–$95{,}73\,\%$), Kurs 23-NFS-09: $33{,}33\,\%$ ($17{,}77$–$48{,}89\,\%$), Gesamt: $53{,}33\,\%$ ($44{,}51$–$62{,}15\,\%$). Identische TN-Zahl je Jahrgang ermöglicht vergleichbare AOI-Analysen; breite KIs in kleinen Kursen werden in der Interpretation berücksichtigt.
-- **Eye-Tracking-Befunde (Beispiele):** Heatmaps/Scanpaths pro Stimulus zeigen Blickzentrierung auf Navigationselemente und Aufgabenbeschreibungen; AOI-Hits und Dwell Times dienen als primäre Kennzahlen. Auffällige Sequenzen werden mit den angenommenen UI-Wirkmechanismen (FU4b) gespiegelt.
-- **Umfrage-Befunde (Struktur):** Gewichtet ausgewertete Dimensionen zu Akzeptanz/Nutzen/Hemmnissen; deskriptive Kennzahlen pro Subgruppe (Lehrende/Lernende; Nutzungshäufigkeit) und Gesamtmaß.
-- **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Erwartungsbrüche und fließen in die Diskussion ein.
-- **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
- 
 Epistemische Funktion im Forschungsdesign
 
 Die hohe Trennschärfe bestätigt, dass das Literaturfeld strukturell differenziert ist. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden.
@@ -589,6 +579,18 @@ Abbildung \ref{fig:kor-indizes-suchbegriffe} zeigt die Korrelationsstruktur zwis
 Analyse: Klar positive Paare bei technologische Integration, Bewertungsmethoden und kollaboratives Lernen mit Suchbegriffen zu digital learning, E‑Learning und blended learning. Negative Werte tauchen v.a. bei spezifischen Medientiteln auf, bleiben aber schwach.
 
 Interpretation: Die Suchbegriffe folgen den indexbasierten Schwerpunkten und differenzieren sauber zwischen technologie-/didaktiknahen und peripheren Termfeldern. Das bestätigt die semantische Passung der Suchstrings zur Indexlogik.
+
+### 4.3.9 Auswertung: Eye-Tracking und Umfrage im Vergleich {#sec:4-3-9}
+
+Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Umfrage, um Wahrnehmung und tatsächliche Aufmerksamkeit auf UI-Elemente zusammenzuführen.
+
+- **Stichprobe/Repräsentativität (Eye-Tracking):** Kurs 21-NFS-09: $80\,\%$ ($95\,\%$-KI: $56{,}15$–$103{,}85\,\%$), Kurs 22-NFS-09: $72{,}73\,\%$ ($49{,}73$–$95{,}73\,\%$), Kurs 23-NFS-09: $33{,}33\,\%$ ($17{,}77$–$48{,}89\,\%$), Gesamt: $53{,}33\,\%$ ($44{,}51$–$62{,}15\,\%$). Identische Teilnehmendenzahl je Jahrgang ermöglicht vergleichbare AOI-Analysen; breite KIs in kleinen Kursen werden in der Interpretation berücksichtigt.
+- **Eye-Tracking-Befunde (Beispiele):** Heatmaps/Scanpaths pro Stimulus zeigen Blickzentrierung auf Navigationselemente und Aufgabenbeschreibungen; AOI-Hits und Dwell Times dienen als primäre Kennzahlen. Auffällige Sequenzen werden mit den angenommenen UI-Wirkmechanismen (FU4b) gespiegelt.
+- **Umfrage-Befunde (Struktur):** Gewichtet ausgewertete Dimensionen zu Akzeptanz/Nutzen/Hemmnissen; deskriptive Kennzahlen pro Subgruppe (Lehrende/Lernende; Nutzungshäufigkeit) und Gesamtmaß.
+- **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Erwartungsbrüche und fließen in die Diskussion ein.
+- **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
+
+Eine systematische Reflexion der Eye-Tracking-Daten erfolgt im Rahmen der methodenkritischen SWOT-Analyse (vgl. Abschnitt 4.5.1), um Potenziale und Limitationen der empirischen Erhebung im Zusammenspiel mit generativer KI zu analysieren.
 
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
 
