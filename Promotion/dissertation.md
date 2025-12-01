@@ -103,6 +103,8 @@ header-includes:
 
 | Abkürzung   | Bedeutung                                                                                            |
 | ----------- | ---------------------------------------------------------------------------------------------------- |
+| AOI         | Area of Interest; vordefinierter Bildschirmbereich für Blickauswertung.                              |
+| ET          | Eye-Tracking; hier webcam-basiert (RealEye) mit bildbasierter Auswertung.                            |
 | E-Portfolio | Digitales Portfolio zur Dokumentation und Reflexion von Lernleistungen.                              |
 | FU          | Forschungsunterfrage (FU1–FU7) als operationalisierte Teilfragestellungen.                           |
 | KI          | Künstliche Intelligenz; insbesondere datengetriebene Verfahren zur Dokumentenanalyse.               |
