@@ -387,21 +387,37 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 7. **Kodierung des Materials (Mayring)** – Anwendung des Manuals, Dokumentation von Grenzfällen.
 8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P-QIA)** – Rückbindung an die FU und Dokumentation der Kennwerte.
 
-```mermaid
-flowchart TD
-    A[Forschungsunterfrage<br/>FU1–FU7] --> B[Materialauswahl<br/>Primäranalysen, Notizen]
-    B --> C[Festlegung der<br/>Analyseeinheiten]
-    C --> I[Kodierung des Materials]
-    C --> D[Segmentierung in<br/>Sinnabschnitte]
-    D --> E[Embedding der Segmente]
-    E --> F[k-means-Clustering]
-    F --> G[Silhouette-Berechnung]
-    G --> H[Ableitung/Revision<br/>der Kategorien]
-    H --> I
-    I --> J[Synthese und Theoriebildung]
-```
+```{=latex}
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}[node distance=1.5cm and 3.0cm, block/.style={rectangle, draw, rounded corners, align=center, text width=4cm}, >=latex]
+        \node[block] (A) {Forschungsunterfrage\\FU1--FU7};
+        \node[block, below=of A] (B) {Materialauswahl\\Primäranalysen, Notizen};
+        \node[block, below=of B] (C) {Festlegung der\\Analyseeinheiten};
+        \node[block, below=of C] (I) {Kodierung des Materials};
+        \node[block, below=of I] (J) {Synthese und\\Theoriebildung};
 
-#todo Mermaid Diagramm durch LaTeX Grafik ersetzen
+        \node[block, right=of C] (D) {Segmentierung in\\Sinnabschnitte};
+        \node[block, below=of D] (E) {Embedding der Segmente};
+        \node[block, below=of E] (F) {k-means-Clustering};
+        \node[block, below=of F] (G) {Silhouette-Berechnung};
+        \node[block, below=of G] (H) {Ableitung/Revision\\der Kategorien};
+
+        \draw[->] (A) -- (B);
+        \draw[->] (B) -- (C);
+        \draw[->] (C) -- (I);
+        \draw[->] (I) -- (J);
+        \draw[->] (C) -- (D);
+        \draw[->] (D) -- (E);
+        \draw[->] (E) -- (F);
+        \draw[->] (F) -- (G);
+        \draw[->] (G) -- (H);
+        \draw[->] (H) -- (I);
+    \end{tikzpicture}
+    \caption{Ablauf der P-QIA-gestützten Inhaltsanalyse.}
+    \label{fig:p-qia-flow}
+\end{figure}
+```
 
 #### Validierung und empirische Kennwerte
 
