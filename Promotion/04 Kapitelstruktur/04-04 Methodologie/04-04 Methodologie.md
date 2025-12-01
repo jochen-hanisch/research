@@ -243,24 +243,38 @@ Der Suchbegriff-Sankey bestätigt die Fokussierung: Digital learning, LMS und bl
 
 Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf. Primärbegriffe wie „learning:management:system“, „digital:learning“ und „digital:lernen“ liegen zentral und verbinden technische mit didaktischen Dimensionen. Sekundärbegriffe (z.B. „mooc“, „blended:learning“, „digital:medien“) verdichten den pädagogischen Pol und zeigen Anschluss an Formate und Inhalte. Tertiärbegriffe („online:lernen“, „online:learning“) sind randständig und öffnen den Suchraum, ohne die Kernstruktur zu verschieben. Die Knotengröße spiegelt die Suchgewichtung, die Kanten die semantische Nähe. Insgesamt bestätigt das Netz eine doppelte Zentrierung: technologiegetriebene Kernbegriffe halten den Raum zusammen, didaktische und periphere Online-Begriffe erweitern ihn kontrolliert.
 
-### 4.2.4 Eye-Tracking-Studie: Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
-#todo Eye-Tracking weiter ausführen und anpassen
+### 4.2.4 Eye-Tracking (Realeye): Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
 
-Die Eye-Tracking-Erhebung ergänzt die Literatur- und Befragungsdaten um objektive Aufmerksamkeits- und Navigationsmuster. Sie ist den Forschungsunterfragen FU2a (Effekte auf Lernende) und FU4b (technisch-gestalterische Mechanismen) zugeordnet und liefert empirische Evidenz für die Rezeption der LMS-Oberflächen.
+Die Eye-Tracking-Erhebung ergänzt die Literatur- und Befragungsdaten um objektive Aufmerksamkeits- und Navigationsmuster (zugeordnet zu FU2a/FU4b). Sie wurde mit Realeye (webcam-basiertes Remote-Tracking) durchgeführt und orientiert sich an den Realeye-Guidelines („How to get accurate results“, „Accuracy“) [@realeye_sp_z_o_o_how_2024-1; @realeye_sp_z_o_o_realeye_2024].
 
-Eye-Tracking erfasst Stellung und Bewegung der Augen über hochauflösende Kameras und visualisiert Blickpfade als statische oder dynamische Abbildungen (Heatmaps, Scanpaths). Das Verfahren ist etabliert für Leseforschung, visuelle Informationsaufnahme und Usability-Fragen (z.B. Platzierung von Menüleisten) und erlaubt Rückschlüsse auf Wiedererkennung und Aufmerksamkeitslenkung [@doring_forschungsmethoden_2023, Kapitel Eye-Tracking].
+Setup
 
-- **Stichprobe und Setting:** Proband:innen-Rekrutierung mit Einwilligung, Kalibrierung vor jeder Sitzung; Labor-Setting mit kontrolliertem Stimulus-Workflow. Ausschluss bei hoher Trackloss-Rate oder unzureichender Kalibrierung.
-- **Hardware/Software:** Tobii-System, dokumentierte Softwareversionen; standardisierte Sitzordnung und Bildschirmdistanz. Die Datenaufbereitung folgt einem offenen Workflow mit GlassesViewer [@niehorster_glassesviewer_2020], inklusive Synchronisierung von Szenen- und Augenvideo sowie Pupillen- und Bewegungsdaten.
-- **Stimuli und Ablauf:** Sequenziertes Stimulus-Set mit vorab kommunizierten Instruktionen; Trial-Reihenfolge fixiert, Abschlussprotokoll geführt.
-- **Messgrößen:** Fixationen, Sakkaden, Dwell Time, AOI-Hits, Scanpaths; Ableitung von Heatmaps und Sequenzmustern pro Stimulus (Analysen F2–F14).
-- **Preprocessing und Ausschlussregeln:** Entfernung von Blinks und Trackloss, Glättung kurzer Sakkaden, Ausschluss ganzer Trials bei fehlender Validierung; Ausschlüsse werden fortlaufend dokumentiert.
-- **Auswertung:** AOI-Vergleiche zwischen Stimuli, Sequenzmuster über Scanpaths, Konfidenzintervalle für dwell/visit-Metriken; Rückbindung an FU2a/FU4b und die theoretische Modellierung der UI-Elemente.
-- **Reflexion/Gütekriterien:** Interne Validität durch kontrolliertes Setting, ökologische Validität begrenzt; Reaktivität (Hawthorne-Effekt) adressiert über Instruktionen und Vertrautmachung mit der Oberfläche; Geräte-/Software-Bias durch Versionsdokumentation minimiert; Datenschutz durch pseudonymisierte IDs.
+- Remote-Studie mit Desktop/Laptop und Frontkamera; statischer Stimulus (LMS-Ansicht) pro Session.
+- 9-Punkt-Kalibrierung vor Start; Realeye-Validierung unmittelbar danach. Sessions mit Warn-/Fail-Status oder fehlendem Blicksignal werden ausgeschlossen.
 
-Methodologisch folgt die Studie einem kontrollierten Labordesign, das Störeinflüsse minimiert und Vergleichbarkeit zwischen Stimuli sicherstellt. Die Kopplung von Eye-Tracking mit den Forschungsunterfragen erlaubt es, hypothesenprüfend zu analysieren, ob bestimmte UI-Elemente Aufmerksamkeit binden oder übersehen werden und wie dies mit wahrgenommenem Nutzen korrespondiert. Die definierten Ausschlusskriterien sichern die interne Validität, während die Reflexion der ökologischen Validität transparent macht, welche Transfergrenzen zum realen Nutzungskontext bestehen.
+Kalibrierung und Qualitätssicherung
 
-Die Auswertung ist in den iterativen Analysezyklus eingebunden: Heatmaps und Scanpaths liefern Primärbefunde, AOI-Vergleiche und Sequenzmuster bilden die Sekundärebene, und die Kombination mit LMS-Nutzungsdaten sowie Befragungsergebnissen schärft die Interpretation auf der dritten Ebene. Damit entsteht eine Triangulation, die subjektive Bewertungen (Umfrage), beobachtbares Verhalten (Eye-Tracking) und theoretische Modellannahmen miteinander verschränkt. Heatmaps werden gemäß RealEye-Guidelines interpretiert (Outlier-Filter, Ausschluss der ersten 0{,}5 s zur Reduktion des zentralen Fixationsbias, AOI-Metriken für Dwell/Visits) [@lewandowska_realeye_2020].
+- Rahmenbedingungen: frontale Sitzposition, stabile Kopfhaltung, gleichmäßiges Licht, keine starken Reflektionen auf Brille/Display; Kameraauflösung vor Start geprüft.
+- Validierung: Kalibrierung erst akzeptieren, wenn Realeye-Grünstatus erreicht ist; bei Warn/Fail Wiederholung, sonst Ausschluss. Kurzer Testblick auf die Stimulusmitte zur Kontrolle des Offsets.
+- Umgebung: fester Abstand (Armlänge) zur Kamera, kein starkes Gegenlicht; Instruktion, während der Kalibrierung den Punkten zu folgen.
+
+Stimulus und AOI-Definition
+
+- Rechteckige AOIs für „Nutzerkonto“, „Portfolios“, „Blogs“, „Verschiedenes“; konsistente Koordinaten über alle Sessions.
+- Exportierte Screenshots/Heatmaps in identischer Auflösung, um AOI-Mapping beizubehalten.
+- Abbildungsselektion: Für die Dokumentation nur je Stimulus die drei Gesamt-Visualisierungen (Heatmap, Viewmap, Fog-View) nutzen; Kurs-/Geschlechtsvarianten verbleiben als Arbeitsmaterial in `08 Metaquellen/08-01 Abbildungen/eye-traking`, damit die Abbildungsanzahl schlank bleibt.
+
+Metriken und Verarbeitung
+
+- Export: Fixations-CSV und Heatmap-Bilder aus Realeye; Aggregation je AOI (Fixationen, Verweildauer).
+- Heatmaps werden serverseitig erzeugt; AOI-Metriken (Fixationen/Dwell) stammen direkt aus dem CSV-Export.
+- Normalisierung: Kennzahlen pro Person auf Sitzungsdauer skaliert (Fixationen/Minute, Dwell-Anteil je AOI), um unterschiedlich lange Sessions vergleichbar zu halten.
+- Ausschlusskriterien: fehlgeschlagene Kalibrierung, fehlende Blickdaten oder starke Trackloss-Phasen; verbleibende Sessions dokumentiert.
+
+Einschränkungen und Bias
+
+- Webcam-Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung, suboptimalem Licht oder reflektierenden Brillen.
+- Interpretationen basieren auf relativen Mustern (AOI-Anteile, Verteilungen), nicht auf punktgenauer Blickposition.
 
 ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
 #todo Umfrage weiter ausführen und anpassen
