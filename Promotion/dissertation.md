@@ -40,6 +40,7 @@ header-includes:
   - \makeglossaries
   - \usepackage{tikz}
   - \usetikzlibrary{positioning}
+  - \usetikzlibrary{positioning}
   - \usetikzlibrary{arrows.meta}
   - \usepackage{caption}
   - \captionsetup{font=small, labelfont=bf, skip=10pt}
