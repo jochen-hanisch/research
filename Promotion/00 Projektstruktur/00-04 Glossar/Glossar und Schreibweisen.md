@@ -42,6 +42,7 @@
 | Quizze                                   | Interaktive Tests zur Wissensüberprüfung.                                             |           |
 | Savgol-Filter                            | Glättungsfilter zur Ermittlung von Kurvenverläufen.                                   |           |
 | Steigung                                 | Veränderungsrate einer Variablen in Bezug auf eine andere.                            |           |
+| Systemisch-forschungsfragengeleitetes Paradigma | Eigenständiger Ansatz, der qualitative, quantitative und simulationsbasierte Verfahren strikt an den Forschungsunterfragen koppelt und über Interdependenz, Emergenz und Rückkopplung verbindet; bildet den erkenntnistheoretischen Rahmen der Methodologie. |           |
 | Terminplaner                             | Werkzeuge zur Organisation und Verwaltung von Terminen.                               |           |
 | Tests                                    | Prüfungen zur Bewertung von Lernfortschritt und Kompetenzen.                          |           |
 | Text- und Medienfeld                     | Seiten mit eingebetteten Texten und Medieninhalten.                                   |           |
@@ -53,4 +54,3 @@
 | Videokonferenzen                         | Online-Meetings für Unterrichtseinheiten und Besprechungen.                           |           |
 | Wikis                                    | Kollaborative Webseiten, die von Lernenden gemeinsam bearbeitet werden können.        |           |
 | Wachstum                                 | Hauptwachstumsphase mit signifikanten Steigerungen der Bereitschaft.                  |           |
-
