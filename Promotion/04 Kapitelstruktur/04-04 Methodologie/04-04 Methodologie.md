@@ -266,10 +266,14 @@ Stimulus und AOI-Definition
 
 Metriken und Verarbeitung
 
-- Export: Fixations-CSV und Heatmap-Bilder aus Realeye; Aggregation je AOI (Fixationen, Verweildauer).
-- Heatmaps werden serverseitig erzeugt; AOI-Metriken (Fixationen/Dwell) stammen direkt aus dem CSV-Export.
-- Normalisierung: Kennzahlen pro Person auf Sitzungsdauer skaliert (Fixationen/Minute, Dwell-Anteil je AOI), um unterschiedlich lange Sessions vergleichbar zu halten.
-- Ausschlusskriterien: fehlgeschlagene Kalibrierung, fehlende Blickdaten oder starke Trackloss-Phasen; verbleibende Sessions dokumentiert.
+- Export: Heatmap-/Viewmap-/Fog-View-Bilder aus Realeye (serverseitig generiert); kein CSV-Export verfügbar.
+- AOI-Ebene: visuelle Interpretation der aggregierten Karten (Hotspots, Pfade, ignorierte Zonen); keine numerischen AOI-Zählungen/Fixationsdwell.
+- Normalisierung: nicht erforderlich, da keine personenspezifischen Zeitreihen vorliegen; Interpretationen bleiben relativ (Anteile, Muster).
+- Ausschluss: fehlgeschlagene Kalibrierung, fehlendes Blicksignal oder ausgeprägte Trackloss-Phasen; verbleibende Sessions protokolliert.
+- Einschränkung: Realeye-Studierendenlizenz (Kostenlimit) erlaubt nur Bildexporte; Rohdaten/CSV standen nicht zur Verfügung und werden transparent benannt.
+- Reliabilität: Die Bewertung erfolgt als generative Bildauswertung nach dem Prinzip visueller Befundung (analoge Praxis aus Radiologie/Pathologie); Hotspots/Pfade sind robust ablesbar, absolute Kennwerte fehlen bewusst.
+- Plausibilisierung: Die Vorgehensweise folgt etablierten Mustern der bildbasierten Qualitätsbeurteilung in der Radiologie (automatisierte Bildqualitäts- und Präferenzentscheidungen in der MRT) sowie der generativen Aufbereitung zur Befundbarkeit (Kontrast-/Signalsteigerung) [@schuppert_automated_2023; @siracusano_effective_2023]. Die Analogie stützt die Aussage, dass visuelle Hotspot-/Pfad-Muster methodisch verwertbar sind, auch wenn Rohdaten fehlen.
+- Einordnung/Stichprobe: Ergebnisse sind qualitativ-indikativ (keine Inferenz, keine absoluten AOI-Kennzahlen); Stichprobengröße wird benannt, Breite der Konfidenzintervalle (vgl. Abschnitt 4.3.9) fließt in die Interpretation ein; Triangulation mit Umfrage- und Literaturbefunden dient der Plausibilisierung.
 
 Auswertungsvorgehen (FU-geleitet)
 
@@ -282,6 +286,9 @@ Die Auswertung folgt einem siebenstufigen, FU-gekoppelten Raster, das auf der vi
 5. technisch-gestalterische Wirkmechanismen ableiten (Gestaltgesetze, Salienz, Navigierbarkeit);
 6. gezielt mit der passenden FU verknüpfen (z.B. FU1/FU2a: Akzeptanz/Nützlichkeit; FU3: didaktisch-technische Merkmale; FU4a: lernpsychologische Muster; FU4b: technisch-gestalterische Mechanismen; FU6: Kompetenzerwerb/Reflexionsunterstützung; FU9: Lernfortschritt/Feedback-Nutzung);
 7. eine knappe Wirkungsdiagnose je Stimulus formulieren (methodische Verdichtung ohne Ergebnisbericht).
+
+#todo Stichprobengröße und Konfidenzintervalle (Eye-Tracking) aus Abschnitt 4.3.9 hier knapp referenzieren.
+#todo Stimulus-/Abbildungszuordnung je FU (z.B. F10-S3, F11-S3, F14-S3) mit Verweis auf die Gesamt-Visualisierungen ergänzen.
 
 Einschränkungen und Bias
 
@@ -615,6 +622,8 @@ Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Um
 - **Umfrage-Befunde (Struktur):** Gewichtet ausgewertete Dimensionen zu Akzeptanz/Nutzen/Hemmnissen; deskriptive Kennzahlen pro Subgruppe (Lehrende/Lernende; Nutzungshäufigkeit) und Gesamtmaß.
 - **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Erwartungsbrüche und fließen in die Diskussion ein.
 - **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
+
+#todo Eye-Tracking-Stichprobe und Stimulusreferenzen (F10-S3, F11-S3, F14-S3, Gesamt-Visuals) hier knapp einfügen; Triangulation mit Umfragezahlen benennen.
 
 Eine systematische Reflexion der Eye-Tracking-Daten erfolgt im Rahmen der methodenkritischen SWOT-Analyse (vgl. Abschnitt 4.5.1), um Potenziale und Limitationen der empirischen Erhebung im Zusammenspiel mit generativer KI zu analysieren.
 
