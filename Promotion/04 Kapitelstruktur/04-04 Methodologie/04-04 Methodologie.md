@@ -1,34 +1,43 @@
-\newpage
 
 # 4 Methodologie {#sec:4}
 
-Kapitel 4 führt die angewendete Methodik aus und spiegelt sie an den wissenschaftlichen Gütekriterien. Die Methodik folgt konsequent den Forschungsfragen, orientiert sich an systemtheoretischen Prinzipien, bindet die in \hyperref[sec:2]{Kapitel 2} entwickelte Theorie sowie die in Kapitel \@ref(sec:3) beschriebene Architektur des Forschungsgegenstandes ein und bereitet die Ergebnisdarstellung in \hyperref[sec:5]{Kapitel 5} vor. Die Kombination aus geplanten Methoden, etwa Literaturanalyse und Eye-Tracking, unterstreicht die Flexibilität und den innovativen Anspruch der Arbeit.
+Kapitel 4 stellt die in dieser Arbeit entwickelte, eigenständige Methodologie dar und spiegelt sie an den wissenschaftlichen Gütekriterien. Das methodische Vorgehen folgt nicht einem klassischen Mixed‑Methods‑Design, sondern einem selbst entwickelten, systemisch‑forschungsfragengeleiteten Paradigma. Dieses Paradigma orientiert sich an systemtheoretischen Prinzipien, koppelt qualitative, quantitative und simulationsbasierte Verfahren über die Forschungsunterfragen und bindet sowohl die in \hyperref[sec:2]{Kapitel 2} entwickelte Theorie als auch die in Kapitel \@ref(sec:3) dargestellte Architektur des digitalen Bildungsraums ein. Ziel ist es, die zirkuläre Komplexität des Forschungsgegenstandes abzubilden und methodisch zu strukturieren. Die Auswahl der Verfahren – darunter Literaturanalysen, Eye‑Tracking, simulationsgestützte Modellierungen und quantitative Evaluationsansätze – folgt ausschließlich der Logik der Forschungsunterfragen und dient nicht der Umsetzung eines etablierten Methodendesigns, sondern der Realisierung eines kohärenten, interdependenten und emergenzsensiblen Forschungsansatzes.
 
 ## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}
 
-Methodenkompetenz in den Human- und Sozialwissenschaften meint die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung stehen drei Paradigmen mit unterschiedlichen erkenntnistheoretischen Grundlagen und Logiken: (a) das quantitative Paradigma im kritischen Realismus, (b) das qualitative Paradigma im Sozialkonstruktivismus und (c) das im Pragmatismus verankerte Mixed-Methods-Paradigma [@doring_forschungsmethoden_2023, Seite 4-5; @doring_forschungsmethoden_2023, Seite 32-33].
 
-Das quantitative Paradigma folgt einem linear-strukturierten Forschungsprozess mit vorab formulierten Hypothesen [@doring_forschungsmethoden_2023, Kapitel 2.2], das qualitative Paradigma bildet einen zirkulären, offen strukturierten Prozess mit explorativen Fragestellungen ab [@doring_forschungsmethoden_2023, Kapitel 2.3]. Mixed-Methods-Ansätze [@doring_forschungsmethoden_2023, Kapitel 2.4] kombinieren lineare und nichtlineare Logiken und verknüpfen Teilprozesse. Ausschlaggebend ist weniger die Datenform (numerisch oder textlich) als die Frage, mit welchem Vorgehen die vorliegenden oder noch zu erzeugenden Daten angemessen bearbeitet werden können. Das Begründungsgebot legitimiert die Wahl der Forschungslogik und die Bearbeitung der Daten.
+Methodenkompetenz in den Human- und Sozialwissenschaften meint die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung werden traditionell drei methodologische Paradigmen unterschieden: (a) quantitative Ansätze im kritischen Realismus, (b) qualitative Ansätze im Sozialkonstruktivismus und (c) pragmatische Integrationsansätze, die beide Logiken situativ verbinden [@doring_forschungsmethoden_2023, Seite 4–5; Seite 32–33]. Für das vorliegende Forschungsvorhaben wird jedoch kein dieser Paradigmen übernommen. Stattdessen wird ein eigenständiger, systemisch‑forschungsfragengeleiteter Ansatz entwickelt, der nicht im Mixed‑Methods‑Paradigma verortet ist, sondern eine eigene Logik entfaltet.
+
+Das quantitative Paradigma folgt einem linear‑strukturierten Forschungsprozess mit vorab formulierten Hypothesen [@doring_forschungsmethoden_2023, Kapitel 2.2], während das qualitative Paradigma einen zirkulären, offen strukturierten Prozess mit explorativen Fragestellungen abbildet [@doring_forschungsmethoden_2023, Kapitel 2.3]. Ausschlaggebend ist weniger die Datenform als die Frage, welches Vorgehen die Forschungsfragen angemessen bearbeitet. Dieses Begründungsgebot strukturiert auch den hier entwickelten systemischen Ansatz.
+
+Der Übergang zur methodologischen Konkretisierung erfolgt entlang der Frage, wie das entwickelte Paradigma praktisch umgesetzt wird. Während Abschnitt 4.1 den erkenntnistheoretischen Rahmen beschreibt, entfaltet Abschnitt 4.1.1 die methodischen Vorüberlegungen und zeigt, wie die Forschungsfragen die Auswahl und Kombination der Verfahren steuern. Abschnitt 4.1.2 konkretisiert diese Logik anschließend systemisch und bildet die Grundlage für die in 4.2 beschriebenen Datenerhebungsverfahren.
 
 ### 4.1.1 Vorüberlegungen zur Methodologie {#sec:4-1-1}
 
-Methodisch herausfordernd ist die Verbindung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Quantitative Daten aus Eye-Tracking und begleitender Umfrage und qualitative Daten aus der systematischen Literaturanalyse werden zusammengeführt, um übergeordnete Erkenntnisse zu erzeugen. Die Hauptforschungsfrage legitimiert den Einsatz beider Paradigmen, da sie Muster und Regelmäßigkeiten im Learning Management System (LMS) sichtbar machen soll. Das Spannungsfeld zwischen Subjektivität (Wahrnehmung der Akteur*innen) und Objektivität (Kompetenzentwicklungssimulation) verlangt eine präzise methodische Betrachtung. Die strikt getrennte Zuschreibung „quantitativ = deduktiv“ und „qualitativ = induktiv“ greift dabei zu kurz, weil sie die Komplexität des Gegenstands nicht abbildet [@reinders_uberblick_2022, Seite 157].
+Methodisch herausfordernd ist die Verbindung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Die unterschiedlichen Datenformen – aus Eye‑Tracking, Umfrage, systematischer Literaturarbeit und simulationsgestützten Modellierungen – werden nicht im Sinne eines Mixed‑Methods‑Designs zusammengeführt, sondern entlang der Forschungsfragen koordiniert. Die Integration folgt keinem etablierten Kombinationsschema, sondern dem eigenen Paradigma der Forschungsfragengeleitetheit. Die Hauptforschungsfrage legitimiert den Einsatz beider Paradigmen, da sie Muster und Regelmäßigkeiten im Learning Management System (LMS) sichtbar machen soll. Das Spannungsfeld zwischen Subjektivität (Wahrnehmung der Akteur*innen) und Objektivität (Kompetenzentwicklungssimulation) verlangt eine präzise methodische Betrachtung. Die strikt getrennte Zuschreibung „quantitativ = deduktiv“ und „qualitativ = induktiv“ greift dabei zu kurz, weil sie die Komplexität des Gegenstands nicht abbildet [@reinders_uberblick_2022, Seite 157].
 
 Forschung in Gesundheitskontexten muss divergierende methodische Strömungen mehrerer Disziplinen integrieren. Komplexität, Vielfalt der Disziplinen und unterschiedliche Ressourcen sind auszubalancieren; deshalb werden hier die Stärken bestehender Methoden in einen neuen, interdisziplinären und generativen Kontext gestellt [@niederberger_qualitative_2021, Seite 4-5].
 
-Mixed-Methods verbindet die Ansätze, steht aber in der Kritik, epistemologisch fragil zu bleiben (Inkommensurabilitäts- und Komplementaritäts-These) und wird oft pragmatisch genutzt, wodurch Verfahren unreflektiert nebeneinander stehen. Die rigide Trennung von deduktivem quantitativen und induktivem qualitativen Vorgehen verhindert zudem die Integration von Regelmäßigkeiten und subjektiven Kontexten [@doring_forschungsmethoden_2023, Kapitel 2].
+
+Der hier entwickelte Ansatz verzichtet bewusst auf die Einordnung in Mixed‑Methods‑Traditionen. Stattdessen werden qualitative, quantitative und simulationsbasierte Verfahren so gekoppelt, dass sie die zirkuläre Komplexität des Forschungsgegenstandes systemisch abbilden. Die Methoden stehen nicht nebeneinander, sondern werden über Interdependenz, Emergenz und Rückkopplung verbunden.
 
 Das Forschungsvorhaben verlangt aufgrund seiner zirkulären Komplexität einen mehrdimensionalen Ansatz, der die Ebenen systematisch koppelt. Wie Rosenthal und Witte ausführen, stützt sich die Methodik auf die Anerkennung unterschiedlicher Zugänge zur Erforschung sozialer Phänomene und auf die grundlagentheoretische Differenzierung zwischen quantitativen und qualitativen bzw. interpretativen Ansätzen [@mays_quanti_2020, Seite 198-199]. Die Arbeit positioniert sich als abstrakt-theoretische Grundlagenforschung und will methodische Vielfalt anerkennen sowie systematisch integrieren.
 
+
 Das forschungsparadigmatische Spannungsfeld wird aufgelöst, indem die Methoden konsequent aus den Forschungsfragen abgeleitet werden. Dadurch entsteht eine zielgerichtete Auswahl, die Komplexität reduziert, der Mehrdimensionalität gerecht wird und die Stärken etablierter Methoden bündelt.
+
+Die dargestellten Vorüberlegungen verdeutlichen, dass die Methodologie nicht durch bestehende Designs vorstrukturiert ist, sondern ihre Logik unmittelbar aus den Forschungsunterfragen ableitet. Darauf aufbauend entwickelt Abschnitt 4.1.2 die systemische Ausgestaltung dieses Ansatzes und präzisiert die operative Verbindung zwischen Paradigma, Forschungslogik und Methodenwahl.
 
 ### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:4-1-2}
 
-Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU1 bis FU7 (Kapitel [@sec:1-2-3]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:1-1-1]) und LMS-Produkt (Kapitel [@sec:3]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Die hier entwickelte Methodik verbindet den systemischen Ansatz mit der konsequenten Ableitung der Methoden aus den Forschungsfragen und ist in dieser Form bislang nicht beschrieben. Interdependenz und Emergenz werden mit einer gezielten Integration qualitativer und quantitativer Methoden verknüpft, um die zirkuläre Komplexität des Gegenstandes abzubilden.
+Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU1 bis FU7 (Kapitel [@sec:1-2-3]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:1-1-1]) und LMS-Produkt (Kapitel [@sec:3]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik integriert qualitative, quantitative und simulationsbasierte Zugänge, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
 
 Interdependenz meint die enge Verknüpfung der Forschungsfragen und die Wechselwirkungen zwischen qualitativen und quantitativen Daten, die die Mehrdimensionalität erfassen. Emergenz beschreibt die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, Seite 16, 103], wenn Ergebnisse aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking und Befragungen verbunden werden. Rückkopplung heißt, dass Analyseergebnisse iterativ in die Methodik zurückfließen und weitere Schritte steuern, sodass der Prozess dynamisch bleibt.
 
+
 Konkret werden Methoden aus den Forschungsfragen abgeleitet; jede Frage bestimmt die Auswahl. Qualitative Literaturanalysen werden mit Eye-Tracking-Analysen (z.B. Heatmaps) und quantitativen Befragungen kombiniert, um subjektive Wahrnehmungen und objektive Muster zugleich abzubilden. Die passgenaue Methodenkombination reduziert Komplexität auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu verlieren. Iterative Rückkopplung und systemische Verknüpfung erzeugen Einsichten, die isoliert verborgen blieben, und erweitern bestehende Ansätze um einen Rahmen, der Offenheit und strukturelle Präzision verbindet.
+
+Auf dieser Grundlage beschreibt Abschnitt 4.2 die konkrete Umsetzung der Datenerhebungsverfahren. Die dort erläuterten Schritte – von der systematischen Literaturrecherche über das Eye-Tracking bis zur LMS‑Umfrage – sind direkt aus der hier beschriebenen Paradigma‑Logik abgeleitet und folgen der systemischen Kopplung der Forschungsunterfragen.
 
 Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:methoden_FU}
 
@@ -245,70 +254,72 @@ Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf
 
 \FloatBarrier
 
-### 4.2.4 Eye-Tracking (Realeye): Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
+### 4.2.4 Eye-Tracking (RealEye): Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
 
-Die Entscheidung für ein webcam-basiertes Eye-Tracking mit RealEye folgt unmittelbar aus der Forschungsunterfrage FU4b, die die technisch-gestalterischen Mechanismen des LMS als Wirkfaktoren untersucht. Für diese Fragestellung sind primär großflächige Aufmerksamkeitszonen, visuelle Hierarchien und Navigationseffekte relevant. Diese Parameter lassen sich mit webcam-basierten Verfahren zuverlässig erfassen, ohne dass hochfrequente, millimetergenaue Rohdaten erforderlich wären.
+Die Entscheidung für ein webcam-basiertes Eye-Tracking mit RealEye folgt unmittelbar aus der Forschungsunterfrage FU4b, die die technisch‑gestalterischen Wirkmechanismen des LMS untersucht. Für diese Fragestellung sind primär großflächige Aufmerksamkeitszonen, visuelle Hierarchien, Blickpfade und Navigationseffekte relevant. Diese Parameter lassen sich mit webcam‑basierten Verfahren zuverlässig erfassen, ohne dass millimetergenaue Rohdaten oder hochfrequente Sakkadenanalysen erforderlich wären.
 
-Aktuelle Validierungsstudien belegen, dass moderne webcam-basierte Verfahren trotz geringerer räumlicher Präzision für AOI-basierte Analysen, Interface-Evaluationen und explorative Aufmerksamkeitstests vollumfänglich geeignet sind.  @yang_webcam-based_2021 zeigen, dass WebGazer-basierte Verfahren selbst bei reduzierten Samplingraten robuste Fixationsmuster erzeugen und verhaltenswissenschaftliche Laborbefunde zuverlässig replizieren können. @kaduk_webcam_2023 bestätigen in einer direkten Vergleichsstudie, dass die Genauigkeit moderner Webcam-Tracker (ca. 1–1,5°) nahe an kommerzielle Laborgeräte heranreicht und die fixationsbezogenen Kernmetriken stabil reproduziert werden. Auch @wisiecka_comparison_2022 weisen nach, dass RealEye bei experimentellen Standardaufgaben (Point Detection Task, Visual Search) konsistente, theorieadäquate Befunde liefert und insbesondere bei großen Interface-Elementen eine valide AOI-Zuweisung ermöglicht.
+Aktuelle Validierungsstudien belegen, dass moderne webcam‑basierte Eye‑Tracking‑Systeme für AOI‑basierte Analysen, UI‑Evaluationen und explorative Aufmerksamkeitstests ausreichend präzise sind. @kaduk_webcam_2023 zeigen, dass die Genauigkeit moderner Webcam‑Tracker (ca. 1–1,5°) nahe an kommerzielle Laborgeräte heranreicht und fixationsorientierte Kernmetriken stabil reproduziert werden. @yang_webcambased_2021 demonstrieren, dass auch WebGazer‑basierte Systeme bei reduzierten Samplingraten robuste Fixationsmuster erzeugen und verhaltenswissenschaftliche Laborbefunde zuverlässig replizieren. @wisiecka_comparison_2022 bestätigen für RealEye konsistente Ergebnisse bei Standardaufgaben wie Point‑Detection‑ und Visual‑Search‑Tasks. Die technische Dokumentation von @imotions_imotions_2023 unterstreicht ergänzend die Eignung webcam‑basierter Systeme für explorative Studien, Remote‑Settings und UI‑Analysen, bei denen relative Fixationsverteilungen über definierte AOIs im Fokus stehen.
 
-Zusätzlich unterstreicht die technische Dokumentation von @imotions_imotions_2023 die Angemessenheit webcam-basierter Erhebungen für explorative Studien, UI-Analysen und remote-basierte Probandensettings. Entscheidend ist dabei nicht eine millimetergenaue Einzelblickerfassung, sondern die zuverlässige Identifikation der relativen Verteilung von Fixationen über definierte AOIs hinweg. (@imotions_imotions_2023)
+Die Limitationen webcam‑basierter Verfahren – geringere räumliche Präzision, sensitivere Reaktion auf Kopfbewegungen, fehlende Pupillometrie und das Fehlen von Rohdatenexporten – sind für die Beantwortung von FU4b methodisch unproblematisch. Für FU4b steht die Rekonstruktion technisch‑gestalterischer Muster im Vordergrund: Blickanfangszonen, visuelle Orientierung, Pfadtypik, Hot‑ und Coldspots sowie systematisch ignorierte UI‑Zonen. Solche Muster sind gegenüber Samplingratenschwankungen robust. @rodziewicz-cybulska_measuring_2022 zeigen zudem, dass selbst komplexere Fixationsmaße unter geeigneten Bedingungen stabil erfasst werden können, was den Validitätsrahmen für standardisierte Blickbewegungsanalysen stützt.
 
-Die Limitationen webcam-basierter Verfahren (z.B. geringere Präzision bei Pupillometrie, Kopfbewegungssensitivität) sind für dieses Forschungsvorhaben methodisch unproblematisch. Für FU4b steht weniger die Pupillendynamik oder Sakkadenamplituden im Vordergrund der Betrachtung, sondern die Mustererkennung auf Ebene der Oberflächengestaltung, wie Blickanfangszonen, visuelle Orientierung, Pfadtypik oder systematisch ignorierte UI-Bereiche. Solche Muster sind robust gegenüber geringeren Samplingraten und werden in den genannten Studien als stabil wiederholt. @rodziewicz-cybulska_measuring_2022 zeigen zudem, dass selbst komplexere Fixationsmaße (z.B. mikrofixationale Aktivitäten) unter geeigneten Bedingungen zuverlässig erfassbar bleiben, was den grundlegenden Validitätsrahmen für standardisierte Blickbewegungsanalysen untermauert.
+Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Viewmaps und Fog‑Views wissenschaftlich konsistent und methodisch angemessen. Die Visualisierungen erlauben eine systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Bereiche. Wie in der einschlägigen UX‑ und Eye‑Tracking‑Forschung üblich, werden die Muster relativ interpretiert: als Verteilung über AOIs, nicht als absolute metrische Werte. Durch die Kopplung mit Umfragebefunden (FU1/FU2) sowie mit den deduktiv entwickelten Kategorien entsteht eine theoriegeleitete, triangulierte Sicht auf die Wirkmechanismen des LMS.
 
-Damit ist die qualitative, bildbasierte Auswertung der fixationsaggregierten Heatmaps, Fog-Views und Gaze-Plots nicht nur pragmatisch begründet, sondern wissenschaftlich konsistent. Die Visualisierungen erlauben die systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Zonen, was in dieser Arbeit den Kern der technisch-gestalterischen Wirkungsanalyse bildet. Die Ergebnisse sind, wie in der einschlägigen UX- und Eye-Tracking-Forschung üblich, relativ zu interpretieren und weniger  als absolute metrische Werte anzunehmen. Durch die Kopplung mit der Umfrage und den FU-basierten Kategorien entsteht ein trianguliertes, theoriegeleitetes Bild der LMS-Wirkmechanismen.
+#### Ergänzende methodische Absicherung
 
+**A) Begründung der bildbasierten Auswertung**  
+Die Auswertung ist bewusst bildbasiert, da die verwendete RealEye‑Lizenz ausschließlich aggregierte Visualisierungen (Heatmap, Viewmap, Fog‑View) bereitstellt. Qualitative Fixationsmuster gelten als valide Indikatoren für Aufmerksamkeit, Orientierung und Salienz: @yang_webcambased_2021 belegen robuste Fixationsdaten, @kaduk_webcam_2023 dokumentieren hohe Genauigkeit, und @wisiecka_comparison_2022 bestätigen RealEye für AOI‑Zuweisungen. Heatmaps identifizieren Fixationszentren, Viewmaps zeigen sequentielle Blickpfade und Orientierungswechsel, Fog‑Views markieren systematisch ignorierte UI‑Zonen. Die Dreifachbetrachtung entspricht gängigen UI-/UX‑Empfehlungen auch für Remote‑Erhebungen (@imotions_imotions_2023).
 
-Die Eye-Tracking-Erhebung ergänzt die Literatur- und Befragungsdaten um objektive Aufmerksamkeits- und Navigationsmuster (zugeordnet zu FU2a/FU4b). Sie wurde mit Realeye (webcam-basiertes Remote-Tracking) durchgeführt und orientiert sich an den Realeye-Guidelines („How to get accurate results“, „Accuracy“) [@realeye_sp_z_o_o_how_2024-1; @realeye_sp_z_o_o_realeye_2024].
+**B) Grenzen, Bias und Validierungsstrategie**  
+Webcam‑Tracking weist geringere Präzision, potenzielle Drift bei Kopfbewegungen und variierende Lichtempfindlichkeit auf. RealEye liefert keine Rohdaten, sondern serverseitig erzeugte Visualisierungen. Diese Bias werden systematisch abgefedert durch:
+- doppelte Kalibrierung mit RealEye‑Validierungsstatus (Grün = akzeptiert),
+- Ausschluss suboptimaler Sessions (Warn/Fail),
+- konsistente Stimulusauflösungen,
+- identische AOI‑Definitionen über alle Sessions,
+- FU‑geleitete Auswertung (keine explorative Clusterbildung).
 
-Setup
+Fixationsmuster werden ausschließlich relativ interpretiert: als Verteilung innerhalb definierter AOIs. Inferenzen über absolute Sakkadenparameter oder Zeitreihen werden nicht vorgenommen. Die Vorgehensweise folgt etablierten Standards der visuellen Befundung, wie sie auch in radiologischen und pathologischen Kontexten genutzt werden, in denen Kontrast‑ und Mustererkennung aus aggregierten Bildern erfolgt.
 
-- Remote-Studie mit Desktop/Laptop und Frontkamera; statischer Stimulus (LMS-Ansicht) pro Session.
-- 9-Punkt-Kalibrierung vor Start; Realeye-Validierung unmittelbar danach. Sessions mit Warn-/Fail-Status oder fehlendem Blicksignal werden ausgeschlossen.
+**C) Triangulation und Rückbindung an FU4b**  
+Die Aussagekraft der Eye‑Tracking‑Auswertung wird durch konvergente Triangulation gestützt:
+1. Literaturbefunde zu UI‑, Navigations- und Salienzwirkungen (FU3/FU4a),
+2. Eye‑Tracking‑Visualisierungen (FU4b),
+3. Umfragebefunde zu Struktur/Nützlichkeit (FU1/FU2).
 
-Kalibrierung und Qualitätssicherung
+Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen) stützen die Modellannahmen. Divergenzen werden systematisch analysiert. Damit ermöglicht die Eye‑Tracking‑Methodik eine theoriegestützte Rekonstruktion der technisch‑gestalterischen Wirkmechanismen des LMS.
 
-- Rahmenbedingungen: frontale Sitzposition, stabile Kopfhaltung, gleichmäßiges Licht, keine starken Reflektionen auf Brille/Display; Kameraauflösung vor Start geprüft.
-- Validierung: Kalibrierung erst akzeptieren, wenn Realeye-Grünstatus erreicht ist; bei Warn/Fail Wiederholung, sonst Ausschluss. Kurzer Testblick auf die Stimulusmitte zur Kontrolle des Offsets.
-- Umgebung: fester Abstand (Armlänge) zur Kamera, kein starkes Gegenlicht; Instruktion, während der Kalibrierung den Punkten zu folgen.
+#### Setup und Durchführung
 
-Stimulus und AOI-Definition
+- Remote‑Studie mit Desktop/Laptop und Frontkamera.  
+- 9‑Punkt‑Kalibrierung; RealEye‑Validierung unmittelbar vor dem Stimulus.  
+- Ausschluss von Sessions mit Warn‑ oder Fehlstatus.  
+- Standardisierte Sitzposition, Lichtbedingungen und Displayabstände.  
+- Stimulus: statische LMS‑Ansichten; identische Auflösung und AOI‑Koordinaten.
 
-- Rechteckige AOIs für „Nutzerkonto“, „Portfolios“, „Blogs“, „Verschiedenes“; konsistente Koordinaten über alle Sessions.
-- Exportierte Screenshots/Heatmaps in identischer Auflösung, um AOI-Mapping beizubehalten.
-- Abbildungsselektion: Für die Dokumentation nur je Stimulus die drei Gesamt-Visualisierungen (Heatmap, Viewmap, Fog-View) nutzen; Kurs-/Geschlechtsvarianten verbleiben als Arbeitsmaterial in `08 Metaquellen/08-01 Abbildungen/eye-traking`, damit die Abbildungsanzahl schlank bleibt.
+#### Metriken und Verarbeitung
 
-Metriken und Verarbeitung
+- Export ausschließlich als Heatmap, Viewmap und Fog‑View (keine CSV/Rohdaten).  
+- AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
+- Keine absoluten Fixationskennzahlen; relative Muster stehen im Mittelpunkt.  
+- Ausschluss von Sessions mit Trackloss oder instabiler Kalibrierung.
 
-- Export: Heatmap-/Viewmap-/Fog-View-Bilder aus Realeye (serverseitig generiert); kein CSV-Export verfügbar.
-- AOI-Ebene: visuelle Interpretation der aggregierten Karten (Hotspots, Pfade, ignorierte Zonen); keine numerischen AOI-Zählungen/Fixationsdwell.
-- Normalisierung: nicht erforderlich, da keine personenspezifischen Zeitreihen vorliegen; Interpretationen bleiben relativ (Anteile, Muster).
-- Ausschluss: fehlgeschlagene Kalibrierung, fehlendes Blicksignal oder ausgeprägte Trackloss-Phasen; verbleibende Sessions protokolliert.
-- Einschränkung: Realeye-Studierendenlizenz (Kostenlimit) erlaubt nur Bildexporte; Rohdaten/CSV standen nicht zur Verfügung und werden transparent benannt.
-- Reliabilität: Die Bewertung erfolgt als generative Bildauswertung nach dem Prinzip visueller Befundung (analoge Praxis aus Radiologie/Pathologie); Hotspots/Pfade sind robust ablesbar, absolute Kennwerte fehlen bewusst.
-- Plausibilisierung: Die Vorgehensweise folgt etablierten Mustern der bildbasierten Qualitätsbeurteilung in der Radiologie (automatisierte Bildqualitäts- und Präferenzentscheidungen in der MRT) sowie der generativen Aufbereitung zur Befundbarkeit (Kontrast-/Signalsteigerung) [@schuppert_automated_2023; @siracusano_effective_2023]. Die Analogie stützt die Aussage, dass visuelle Hotspot-/Pfad-Muster methodisch verwertbar sind, auch wenn Rohdaten fehlen.
-- Einordnung/Stichprobe: Ergebnisse sind qualitativ-indikativ (keine Inferenz, keine absoluten AOI-Kennzahlen); Stichprobengröße wird benannt, Breite der Konfidenzintervalle (vgl. Abschnitt 4.3.9) fließt in die Interpretation ein; Triangulation mit Umfrage- und Literaturbefunden dient der Plausibilisierung.
+#### Auswertungsvorgehen (FU‑geführt)
 
-Auswertungsvorgehen (FU-geleitet)
+1. Verortung des Stimulus im LMS‑Kontext.  
+2. Heatmap‑Analyse (Salienz, Aufmerksamkeitszentren).  
+3. Viewmap‑Analyse (Pfadtypik, Orientierungswechsel).  
+4. Fog‑View‑Analyse (ignorierte Zonen).  
+5. Ableitung technisch‑gestalterischer Wirkmechanismen (Gestaltgesetze, Salienz, Navigierbarkeit).  
+6. Verknüpfung mit FU4b sowie, je nach Stimulus, FU1/FU2a/FU3/FU4a/FU6.  
+7. Formulierung einer kurzen, FU‑spezifischen Wirkungsdiagnose je Stimulus.
 
-Die Auswertung folgt einem siebenstufigen, FU-gekoppelten Raster, das auf der visuellen Inhaltsanalyse (Heatmap/Viewmap/Fog-View) und der strukturierenden Inhaltsanalyse aufsetzt [@realeye_sp_z_o_o_how_2024-1; @realeye_sp_z_o_o_realeye_2024]:
+#### Einschränkungen und Bias
 
-1. Stimulus im LMS-Kontext kurz verorten;
-2. Heatmap lesen (Hotspots/Coldspots, erste Lenkungshinweise);
-3. Viewmap heranziehen (Pfadtypik, Rekursionen, Orientierungswechsel);
-4. Fog-View interpretieren (systematisch ignorierte Bereiche);
-5. technisch-gestalterische Wirkmechanismen ableiten (Gestaltgesetze, Salienz, Navigierbarkeit);
-6. gezielt mit der passenden FU verknüpfen (z.B. FU1/FU2a: Akzeptanz/Nützlichkeit; FU3: didaktisch-technische Merkmale; FU4a: lernpsychologische Muster; FU4b: technisch-gestalterische Mechanismen; FU6: Kompetenzerwerb/Reflexionsunterstützung; FU9: Lernfortschritt/Feedback-Nutzung);
-7. eine knappe Wirkungsdiagnose je Stimulus formulieren (methodische Verdichtung ohne Ergebnisbericht).
+- Webcam‑Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung oder suboptimalen Lichtverhältnissen.  
+- Interpretationen basieren auf relativen Mustern, nicht auf punktgenauen Blickpositionen.  
+- Fehlende Rohdaten limitieren inferenzstatistische Analysen; qualitative Befundung bleibt jedoch belastbar.  
+- Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
 
-#todo Stichprobengröße und Konfidenzintervalle (Eye-Tracking) aus Abschnitt 4.3.9 hier knapp referenzieren.
-#todo Stimulus-/Abbildungszuordnung je FU (z.B. F10-S3, F11-S3, F14-S3) mit Verweis auf die Gesamt-Visualisierungen ergänzen.
-
-Einschränkungen und Bias
-
-- Webcam-Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung, suboptimalem Licht oder reflektierenden Brillen.
-- Interpretationen basieren auf relativen Mustern (AOI-Anteile, Verteilungen), nicht auf punktgenauer Blickposition.
-
-### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
+# ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
 #todo Umfrage weiter ausführen und anpassen
 
 Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen. Sie stützt primär FU1 (Akzeptanz und Nützlichkeit) sowie FU2a/FU2b.
