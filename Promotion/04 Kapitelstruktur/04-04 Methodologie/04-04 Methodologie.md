@@ -5,7 +5,6 @@ Kapitel 4 stellt die in dieser Arbeit entwickelte, eigenständige Methodologie 
 
 ## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}
 
-
 Methodenkompetenz in den Human- und Sozialwissenschaften meint die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung werden traditionell drei methodologische Paradigmen unterschieden: (a) quantitative Ansätze im kritischen Realismus, (b) qualitative Ansätze im Sozialkonstruktivismus und (c) pragmatische Integrationsansätze, die beide Logiken situativ verbinden [@doring_forschungsmethoden_2023, Seite 4–5; Seite 32–33]. Für das vorliegende Forschungsvorhaben wird jedoch kein dieser Paradigmen übernommen. Stattdessen wird ein eigenständiger, systemisch‑forschungsfragengeleiteter Ansatz entwickelt, der nicht im Mixed‑Methods‑Paradigma verortet ist, sondern eine eigene Logik entfaltet.
 
 Das quantitative Paradigma folgt einem linear‑strukturierten Forschungsprozess mit vorab formulierten Hypothesen [@doring_forschungsmethoden_2023, Kapitel 2.2], während das qualitative Paradigma einen zirkulären, offen strukturierten Prozess mit explorativen Fragestellungen abbildet [@doring_forschungsmethoden_2023, Kapitel 2.3]. Ausschlaggebend ist weniger die Datenform als die Frage, welches Vorgehen die Forschungsfragen angemessen bearbeitet. Dieses Begründungsgebot strukturiert auch den hier entwickelten systemischen Ansatz.
@@ -341,6 +340,7 @@ Hinweis: Die vollständige Auswertung der Eye‑Tracking‑Stimuli erfolgt in Ab
 - KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
 # ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
+
 #todo Umfrage weiter ausführen und anpassen
 
 Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen. Sie stützt primär FU1 (Akzeptanz und Nützlichkeit) sowie FU2a/FU2b.
@@ -702,7 +702,6 @@ Ein wesentlicher Bestandteil des methodischen Vorgehens ist die fortlaufende Sel
 Mein methodisches Vorgehen erfüllt, trotz seiner systemisch-flexiblen Struktur, zentrale Anforderungen wissenschaftlicher Strenge. Die Methoden sind theoriebasiert, nachvollziehbar, funktional gewählt und systematisch eingesetzt. Zugleich werden klassische Evaluationsverfahren in ein offenes, komplexitätssensibles Design integriert.
 
 Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist originär, transparent dokumentiert und methodologisch innovativ.
-
 
 ### 4.5.1 Methodenkritische SWOT-Analyse zum KI-gestützten Vorgehen
 
