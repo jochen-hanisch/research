@@ -30,12 +30,12 @@ Die dargestellten Vorüberlegungen verdeutlichen, dass die Methodologie nicht du
 
 ### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:4-1-2}
 
-Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU1 bis FU7 (Kapitel [@sec:1-2-3]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:1-1-1]) und LMS-Produkt (Kapitel [@sec:3]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik integriert qualitative, quantitative und simulationsbasierte Zugänge, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
+Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU1 bis FU7 (Kapitel [@sec:1-2-3]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:1-1-1]) und LMS-Produkt (Kapitel [@sec:3]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
 
 Interdependenz meint die enge Verknüpfung der Forschungsfragen und die Wechselwirkungen zwischen qualitativen und quantitativen Daten, die die Mehrdimensionalität erfassen. Emergenz beschreibt die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, Seite 16, 103], wenn Ergebnisse aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking und Befragungen verbunden werden. Rückkopplung heißt, dass Analyseergebnisse iterativ in die Methodik zurückfließen und weitere Schritte steuern, sodass der Prozess dynamisch bleibt.
 
 
-Konkret werden Methoden aus den Forschungsfragen abgeleitet; jede Frage bestimmt die Auswahl. Qualitative Literaturanalysen werden mit Eye-Tracking-Analysen (z.B. Heatmaps) und quantitativen Befragungen kombiniert, um subjektive Wahrnehmungen und objektive Muster zugleich abzubilden. Die passgenaue Methodenkombination reduziert Komplexität auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu verlieren. Iterative Rückkopplung und systemische Verknüpfung erzeugen Einsichten, die isoliert verborgen blieben, und erweitern bestehende Ansätze um einen Rahmen, der Offenheit und strukturelle Präzision verbindet.
+Konkret werden Methoden aus den Forschungsfragen abgeleitet; jede Frage bestimmt die Auswahl. Qualitative Literaturanalysen werden mit Eye-Tracking-Analysen (z.B. Heatmaps) und quantitativen Befragungen systematisch in Beziehung gesetzt, um subjektive Wahrnehmungen und objektive Muster zugleich abzubilden. Die passgenaue Methodenkombination reduziert Komplexität auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu verlieren. Iterative Rückkopplung und systemische Verknüpfung erzeugen Einsichten, die isoliert verborgen blieben, und erweitern bestehende Ansätze um einen Rahmen, der Offenheit und strukturelle Präzision verbindet.
 
 Auf dieser Grundlage beschreibt Abschnitt 4.2 die konkrete Umsetzung der Datenerhebungsverfahren. Die dort erläuterten Schritte – von der systematischen Literaturrecherche über das Eye-Tracking bis zur LMS‑Umfrage – sind direkt aus der hier beschriebenen Paradigma‑Logik abgeleitet und folgen der systemischen Kopplung der Forschungsunterfragen.
 
@@ -294,6 +294,8 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - Ausschluss von Sessions mit Warn‑ oder Fehlstatus.  
 - Standardisierte Sitzposition, Lichtbedingungen und Displayabstände.  
 - Stimulus: statische LMS‑Ansichten; identische Auflösung und AOI‑Koordinaten.
+- Sequenzprotokoll: Kalibrierung/Validierung → Stimulusfolge (z.B. F2‑S2, F3‑S3, F10‑S3, F11‑S3, F14‑S3; feste Anzeigezeit ca. 8–12 s, #todo exakte Dauer ergänzen) → Export der Visualisierungen; kein Reload, Einzel‑Durchlauf pro Person.
+- Stichprobe: #todo n gestartet; #todo n nach Kalibrierung akzeptiert; #todo n final analysiert (Grünstatus, Blicksignal vorhanden).
 
 #### Metriken und Verarbeitung
 
@@ -301,6 +303,14 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
 - Keine absoluten Fixationskennzahlen; relative Muster stehen im Mittelpunkt.  
 - Ausschluss von Sessions mit Trackloss oder instabiler Kalibrierung.
+- Technische Angaben: RealEye (Version #todo) im Browser (Desktop/Laptop); Export als PNG/JPG, keine CSV‑Rohdaten oder AOI‑Metriken verfügbar.
+- Nicht genutzte Metriken: keine Pupillometrie, keine millisekundengenaue Sakkadenanalyse, keine Time‑to‑First‑Fixation/TTFF, kein Fixation Count/Dwell‑Time pro AOI (nicht geliefert); ausschließlich Fixationsaggregation aus den Visualisierungen.
+
+Visualisierungstypen und Funktionen
+
+- Heatmap: Kernel‑Dichte‑basierte Fixationsdichtekarte; zeigt Hotspots/Coldspots und relative Aufmerksamkeitsverteilung.
+- Viewmap/Gaze‑Plot: Sequenzielle Darstellung von Fixationen (Kreise proportional zur Fixationsdauer) und Pfaden; macht Pfadtypik, Orientierungswechsel und Rekursionen sichtbar.
+- Fog‑View: Invertierte Fixationsdarstellung; markiert systematisch ignorierte UI‑Zonen (Nebel über nicht fixierten Bereichen).
 
 #### Auswertungsvorgehen (FU‑geführt)
 
@@ -312,12 +322,23 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 6. Verknüpfung mit FU4b sowie, je nach Stimulus, FU1/FU2a/FU3/FU4a/FU6.  
 7. Formulierung einer kurzen, FU‑spezifischen Wirkungsdiagnose je Stimulus.
 
+Dokumentierte Stimuli und FU‑Zuordnung (Auswahl)
+
+- F2‑S2: Navigation/Struktur; FU4b/FU3 (Salienz der Hauptnavigation, F‑Pattern).
+- F3‑S3: Aufgabenbereich; FU4b/FU1 (Orientierung, Informationshierarchie).
+- F10‑S3: Lernplan/Kompetenzen; FU4b/FU6/FU1 (Kompetenzdarstellung, Verständlichkeit).
+- F11‑S3: Weiterführende Quellen; FU4b/FU2a (Ressourcenzugriff, Auffindbarkeit).
+- F14‑S3: Lernmaterial/Sicherheit; FU4b/FU6 (Salienz sicherheitsrelevanter Inhalte).
+
+Hinweis: Die vollständige Auswertung der Eye‑Tracking‑Stimuli erfolgt in Abschnitt 4.3.9.
+
 #### Einschränkungen und Bias
 
 - Webcam‑Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung oder suboptimalen Lichtverhältnissen.  
 - Interpretationen basieren auf relativen Mustern, nicht auf punktgenauen Blickpositionen.  
 - Fehlende Rohdaten limitieren inferenzstatistische Analysen; qualitative Befundung bleibt jedoch belastbar.  
 - Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
+- KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
 # ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
 #todo Umfrage weiter ausführen und anpassen
@@ -343,7 +364,7 @@ Analytisch werden die Umfrageergebnisse mit den Eye-Tracking-Befunden verschrän
 
 ### 4.3.1 Grundlogik der Datenanalyse: Analysen erster bis dritter Ordnung {#sec:4-3-1}
 
-Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmodell, das deduktive Kategorienbildung mit probabilistischer Validierung verschränkt. Damit bleibt jeder Schritt eng an die Forschungsunterfragen gekoppelt und gleichzeitig anschlussfähig an die dokumentarischen Qualitätsanforderungen nach Döring [-@doring_forschungsmethoden_2023].
+Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmodell, das deduktive Kategorienbildung mit probabilistischer Validierung systemisch ordnet. Damit bleibt jeder Schritt eng an die Forschungsunterfragen gekoppelt und gleichzeitig anschlussfähig an die dokumentarischen Qualitätsanforderungen nach Döring [-@doring_forschungsmethoden_2023].
 
 - **Analysen erster Ordnung (Primäranalysen):** Einzelquellen werden entlang vordefinierter Kategorien (Akzeptanz, Nutzen, Grenzen usw.) ausgewertet. Das Ergebnis ist eine strukturierte, FU-spezifische Inhaltsanalyse pro Dokument.
 - **Analysen zweiter Ordnung (Sekundäranalysen):** Die Primäranalysen einer FU werden gespiegelt, verdichtet und theoriebezogen gerankt. Daraus entstehen deduktive Cluster, SWOT-Profile und Korrelationsmatrizen.
