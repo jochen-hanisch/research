@@ -20,7 +20,7 @@ tags:
 published: 2025-08-16
 ---
 
-created: 13.8.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.8.2025 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 13.8.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Bildungswissenschaft/Beherrschen.md)): 16.8.2025 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung**
 
