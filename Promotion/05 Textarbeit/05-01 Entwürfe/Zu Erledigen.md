@@ -1,0 +1,5 @@
+- [ ] Fortsetzung der systematischen Literaturrecherche.
+- [ ] Fertigstellung und Verfeinerung der Simulation.
+- [ ] Durchführung der ersten explorativen Datensammlung und -analyse.
+- [ ] Entwicklung initialer theoretischer Modelle und Hypothesen basierend auf den ersten Date
+- [ ] https://promotion.charite.de/promotionsverfahren/promotionsordnung_2017/beratung_ueber_die_anwendung_einer_qualitativen_oder_quantitativen_methodik/
