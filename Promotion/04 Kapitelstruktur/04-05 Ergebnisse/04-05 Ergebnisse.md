@@ -31,11 +31,19 @@ Die Darstellung folgt der in Abschnitt 5.2 beschriebenen Gewichtung der Kernbere
 
 ### 5.3.4 FU1: Akzeptanz und Nützlichkeit {#sec:5-3-4}
 
+#todo Eye-Tracking-Befunde (z.B. F10-S3/F11-S3 Gesamt-Visuals) hier knapp einbinden und mit Umfrage-Ergebnissen spiegeln.
+
 ### 5.3.5 FU2a: Effekt auf Lernende {#sec:5-3-5}
+
+#todo Eye-Tracking-Befunde (F10-S3/F11-S3) zur Nutzung/Orientierung aufnehmen und gegen subjektive Angaben stellen.
 
 ### 5.3.6 FU4b: Technisch-gestalterische Mechanismen {#sec:5-3-6}
 
+#todo Eye-Tracking-Stimuli (F10-S3, F11-S3, F14-S3, Gesamt-Heatmap/Viewmap/Fog-View) auswerten und FU4b zuordnen.
+
 ### 5.3.7 FU6: LMS als Kompetenzerwerbssystem {#sec:5-3-7}
+
+#todo Eye-Tracking-Befunde zu Selbstbewertung/Lernfortschritt (F10-S3, F14-S3) triangulieren.
 
 ### 5.3.8 FU2b: Effekt auf Lehrende {#sec:5-3-8}
 

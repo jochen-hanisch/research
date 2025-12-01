@@ -24,6 +24,8 @@ Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und
 - Bewertung der eingesetzten Methoden (Kapitel 4) und ihrer Grenzen.
 - Diskurs über Validität, Reliabilität und Generalisierbarkeit der Befunde.
 
+#todo Eye-Tracking reflektieren: Bildexport-only, Webcam-Präzision, Stichprobe/KIs, Radiologie-Analogie, Triangulation mit Umfrage/Literatur.
+
 ## 6.5 Ausblick und Forschungsperspektiven {#sec:6-5}
 
 - Ableitung zukünftiger Forschungsfragen.
