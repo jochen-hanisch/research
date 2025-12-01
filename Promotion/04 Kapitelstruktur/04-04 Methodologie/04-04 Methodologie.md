@@ -271,6 +271,18 @@ Metriken und Verarbeitung
 - Normalisierung: Kennzahlen pro Person auf Sitzungsdauer skaliert (Fixationen/Minute, Dwell-Anteil je AOI), um unterschiedlich lange Sessions vergleichbar zu halten.
 - Ausschlusskriterien: fehlgeschlagene Kalibrierung, fehlende Blickdaten oder starke Trackloss-Phasen; verbleibende Sessions dokumentiert.
 
+Auswertungsvorgehen (FU-geleitet)
+
+Die Auswertung folgt einem siebenstufigen, FU-gekoppelten Raster, das auf der visuellen Inhaltsanalyse (Heatmap/Viewmap/Fog-View) und der strukturierenden Inhaltsanalyse aufsetzt [@realeye_sp_z_o_o_how_2024-1; @realeye_sp_z_o_o_realeye_2024]:
+
+1. Stimulus im LMS-Kontext kurz verorten;
+2. Heatmap lesen (Hotspots/Coldspots, erste Lenkungshinweise);
+3. Viewmap heranziehen (Pfadtypik, Rekursionen, Orientierungswechsel);
+4. Fog-View interpretieren (systematisch ignorierte Bereiche);
+5. technisch-gestalterische Wirkmechanismen ableiten (Gestaltgesetze, Salienz, Navigierbarkeit);
+6. gezielt mit der passenden FU verknüpfen (z.B. FU1/FU2a: Akzeptanz/Nützlichkeit; FU3: didaktisch-technische Merkmale; FU4a: lernpsychologische Muster; FU4b: technisch-gestalterische Mechanismen; FU6: Kompetenzerwerb/Reflexionsunterstützung; FU9: Lernfortschritt/Feedback-Nutzung);
+7. eine knappe Wirkungsdiagnose je Stimulus formulieren (methodische Verdichtung ohne Ergebnisbericht).
+
 Einschränkungen und Bias
 
 - Webcam-Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung, suboptimalem Licht oder reflektierenden Brillen.
