@@ -30,6 +30,7 @@ header-includes:
   - \addto\captionsngerman{\renewcommand{\listfigurename}{Abbildungsverzeichnis}}
   - \usepackage{graphicx}
   - \usepackage{float}
+  - \usepackage{placeins}
   - \usepackage{longtable}
   - \usepackage{tocloft}
   - \usepackage{tabularx}
