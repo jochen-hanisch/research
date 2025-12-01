@@ -12,6 +12,8 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 
 \hyperref[sec:2-4]{Abschnitt 2.4} reflektiert den Technologiedefizit-Diskurs und diskutiert, warum pädagogische Innovationen häufig hinter technologischen Möglichkeiten zurückbleiben. Es wird analysiert, wie dieses strukturelle Problem die Gestaltung digitaler Bildungsräume beeinflusst und welche Anforderungen sich daraus für die zukünftige Entwicklung von LMSen ergeben.
 
+#todo Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
+
 ## 2.1 Bildungswissenschaftlich-theoretische Verortung {#sec:2-1}
 
 

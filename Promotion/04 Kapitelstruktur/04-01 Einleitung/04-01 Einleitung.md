@@ -66,6 +66,8 @@ Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7) zu den eingeset
 +++++VERWEIS+++++
 (Forschungsdesign und Datenerhebung) dargestellt.
 
+#todo Kurzhinweis auf Eye-Tracking-Design (Remote, Bildexport-only, FU-gekoppeltes 7-Schritte-Raster) einfügen, Verweis auf Abschnitt 4.2.4.
+
 ## 1.3 Stand der Forschung und Forschungslücke {#sec:1-3}
 
 - [ ] Überblick über die bisherigen Studien und relevante Literatur zum Thema.
