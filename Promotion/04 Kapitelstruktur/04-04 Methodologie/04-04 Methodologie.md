@@ -528,9 +528,11 @@ Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 
 
 ### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:4-3-7}
 
+#todo: ist das hier an der richtigen Stelle? Prüfen, $k$-meas n ggf. in 4.3.5 integrieren
+
 Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen des folgenden Abschnitts.
 
-**k-means-Verfahren (Kurzüberblick):** Für die Clusterbildung wird das klassische k-means genutzt (Euklidische Distanz, Lloyd-Iteration), mit k aus Silhouette/Elbow und theoriegeleiteter Justierung; Initialisierung per mehrfachem Random Start zur Vermeidung lokaler Minima [@litzel_was_2018; @sud_k-means_2020]. Stabilität und Feature-Selektion werden über Wiederholungen/Stability-Checks reflektiert [@mavroeidis_novel_2011; @rakhlin_stability_nodate]; bekannte Limitationen (Sensitivität auf Ausreißer, sphärische Clusterannahme) werden berücksichtigt [@noauthor_drawbacks_2023; @noauthor_what_2024]. Die Zielfunktion lautet:
+**k-means-Verfahren (Kurzüberblick):** Für die Clusterbildung wird das klassische $k$-means genutzt (Euklidische Distanz, Lloyd-Iteration), mit $k$ aus Silhouette/Elbow und theoriegeleiteter Justierung sowie Initialisierung per mehrfachem Random Start zur Vermeidung lokaler Minima [@litzel_was_2018; @sud_k-means_2020]. Stabilität und Feature-Selektion werden über Wiederholungen/Stability-Checks reflektiert [@mavroeidis_novel_2011; @rakhlin_stability_nodate], die beschriebenen Limitationen (Sensitivität auf Ausreißer, sphärische Clusterannahme) werden berücksichtigt [@noauthor_drawbacks_2023; @noauthor_what_2024]. Die Zielfunktion lautet:
 
 $$
 \arg\min_{\{\mu_j\}, \{C_j\}} \sum_{j=1}^{k} \sum_{x_i \in C_j} \lVert x_i - \mu_j \rVert_2^2
