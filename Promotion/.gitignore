@@ -1,0 +1,44 @@
+# Ignore everything by default
+*
+
+# Keep repo plumbing and main manuscript sources
+!.gitignore
+!dissertation.md
+!dissertation.pdf
+!literaturverzeichnis.md
+!build-dissertation.sh
+
+# Keep chapters (nur Hauptdateien) und Anhänge
+!04 Kapitelstruktur/
+04 Kapitelstruktur/**
+!04 Kapitelstruktur/04-01 Einleitung/
+!04 Kapitelstruktur/04-01 Einleitung/04-01 Einleitung.md
+!04 Kapitelstruktur/04-02 Theorieteil/
+!04 Kapitelstruktur/04-02 Theorieteil/04-02 Theorieteil.md
+!04 Kapitelstruktur/04-03 Forschungsgegenstand/
+!04 Kapitelstruktur/04-03 Forschungsgegenstand/04-03 Forschungsgegenstand.md
+!04 Kapitelstruktur/04-04 Methodologie/
+!04 Kapitelstruktur/04-04 Methodologie/04-04 Methodologie.md
+!04 Kapitelstruktur/04-05 Ergebnisse/
+!04 Kapitelstruktur/04-05 Ergebnisse/04-05 Ergebnisse.md
+!04 Kapitelstruktur/04-06 Diskussion/
+!04 Kapitelstruktur/04-06 Diskussion/04-06 Diskussion.md
+!04 Kapitelstruktur/04-07 Conclusio/
+!04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md
+!04 Kapitelstruktur/04-A Anhang/
+!04 Kapitelstruktur/04-A Anhang/**
+
+# Keep figures
+!08 Metaquellen/08-01 Abbildungen/
+!08 Metaquellen/08-01 Abbildungen/**
+
+# Keep bibliography/style metadata that Pandoc may need
+!08 Metaquellen/Matadaten/
+!08 Metaquellen/Matadaten/*.bib
+!08 Metaquellen/Matadaten/*.csl
+!08 Metaquellen/Matadaten/README.md
+!08 Metaquellen/Matadaten/CONTRIBUTING.md
+
+# Re-ignore common local artefacts
+.DS_Store
+*/.DS_Store
