@@ -266,6 +266,8 @@ Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Vi
 
 **Ergänzende methodische Absicherung**
 
+#todo: Fleißtextüberführung ergänzen
+
 A) Begründung der bildbasierten Auswertung
 
 Die Auswertung ist bewusst bildbasiert, da die verwendete RealEye‑Lizenz ausschließlich aggregierte Visualisierungen (Heatmap, Viewmap, Fog‑View) bereitstellt. Qualitative Fixationsmuster gelten als valide Indikatoren für Aufmerksamkeit, Orientierung und Salienz: @yang_webcam-based_2021 belegen robuste Fixationsdaten, @kaduk_webcam_2023 dokumentieren hohe Genauigkeit, und @wisiecka_comparison_2022 bestätigen RealEye für AOI‑Zuweisungen. Heatmaps identifizieren Fixationszentren, Viewmaps zeigen sequentielle Blickpfade und Orientierungswechsel, Fog‑Views markieren systematisch ignorierte UI‑Zonen. Die Dreifachbetrachtung entspricht gängigen UI-/UX‑Empfehlungen auch für Remote‑Erhebungen (@imotions_imotions_2023).
@@ -294,6 +296,8 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 
 **Setup und Durchführung**
 
+#todo: Flussdiagramm ergänzen
+
 - Remote‑Studie mit Desktop/Laptop und Frontkamera.  
 - 9‑Punkt‑Kalibrierung; RealEye‑Validierung unmittelbar vor dem Stimulus.  
 - Ausschluss von Sessions mit Warn‑ oder Fehlstatus.  
@@ -303,6 +307,8 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - Stichprobe: #todo n gestartet; #todo n nach Kalibrierung akzeptiert; #todo n final analysiert (Grünstatus, Blicksignal vorhanden).
 
 **Metriken und Verarbeitung**
+
+#todo: Fließtextüberführung ergänzen
 
 - Export ausschließlich als Heatmap, Viewmap und Fog‑View (keine CSV/Rohdaten).  
 - AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
@@ -314,9 +320,23 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 
 **Visualisierungstypen und Funktionen**
 
+#todo: Fließtextüberführung ergänzen
+
 - Heatmap: Kernel‑Dichte‑basierte Fixationsdichtekarte; zeigt Hotspots/Coldspots und relative Aufmerksamkeitsverteilung.
 - Viewmap/Gaze‑Plot: Sequenzielle Darstellung von Fixationen (Kreise proportional zur Fixationsdauer) und Pfaden; macht Pfadtypik, Orientierungswechsel und Rekursionen sichtbar.
 - Fog‑View: Invertierte Fixationsdarstellung; markiert systematisch ignorierte UI‑Zonen (Nebel über nicht fixierten Bereichen).
+
+Table: Stimulusauswahl \label{tab:stimulus-auswahl}
+
+| Stimulus | Inhalt (kurz)              | FU (primär)  | Fokus (kurz)                |
+|:--------:|:---------------------------|:------------:|:----------------------------|
+| F2‑S2    | Navigation, Interaktion    | FU4b/FU3     | Salienz Navigation          |
+| F3‑S3    | Aufgabenbereich            | FU4b/FU1     | Info-Hierarchie/Blickführung|
+| F10‑S3   | Lernplan, Kompetenzen      | FU4b/FU6/FU1 | Verständlichkeit            |
+| F11‑S3   | Weiterführende Quellen     | FU4b/FU2a    | Auffindbarkeit/Link-Salienz |
+| F14‑S3   | Lernmaterial, Sicherheit   | FU4b/FU6     | Salienz Sicherheit          |
+
+(Kurzbeschreibung; Auswertung in Abschnitt \hyperref[sec:4-3-9]{4.3.9})
 
 Auswertungsvorgehen (FU‑geführt)
 
@@ -328,17 +348,9 @@ Auswertungsvorgehen (FU‑geführt)
 6. Verknüpfung mit FU4b sowie, je nach Stimulus, FU1/FU2a/FU3/FU4a/FU6.  
 7. Formulierung einer kurzen, FU‑spezifischen Wirkungsdiagnose je Stimulus.
 
-Dokumentierte Stimuli und FU‑Zuordnung (Auswahl)
-
-- F2‑S2: Navigation/Struktur; FU4b/FU3 (Salienz der Hauptnavigation, F‑Pattern).
-- F3‑S3: Aufgabenbereich; FU4b/FU1 (Orientierung, Informationshierarchie).
-- F10‑S3: Lernplan/Kompetenzen; FU4b/FU6/FU1 (Kompetenzdarstellung, Verständlichkeit).
-- F11‑S3: Weiterführende Quellen; FU4b/FU2a (Ressourcenzugriff, Auffindbarkeit).
-- F14‑S3: Lernmaterial/Sicherheit; FU4b/FU6 (Salienz sicherheitsrelevanter Inhalte).
-
-Hinweis: Die vollständige Auswertung der Eye‑Tracking‑Stimuli erfolgt in Abschnitt 4.3.9.
-
 **Einschränkungen und Bias**
+
+#todo: Flussdiagramm ergänzen
 
 - Webcam‑Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung oder suboptimalen Lichtverhältnissen.  
 - Interpretationen basieren auf relativen Mustern, nicht auf punktgenauen Blickpositionen.  
