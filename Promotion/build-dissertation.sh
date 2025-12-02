@@ -8,6 +8,18 @@ set -euo pipefail
 
 cd "$(dirname "$0")"  # geht in das Verzeichnis des Skripts
 
+# einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
+spinner() {
+  local pid=$1
+  local frames='|/-\'
+  local i=0
+  while kill -0 "$pid" 2>/dev/null; do
+    printf "\rBaue PDF … %s" "${frames:i++%${#frames}:1}"
+    sleep 0.2
+  done
+  printf "\rBaue PDF … erledigt\n"
+}
+
 pandoc \
   dissertation.md \
   "04 Kapitelstruktur/04-01 Einleitung/04-01 Einleitung.md" \
@@ -26,9 +38,14 @@ pandoc \
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" \
+  "04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md" \
   --filter pandoc-crossref \
   -o dissertation.pdf \
   --pdf-engine=xelatex \
-  --citeproc
+  --citeproc &
+
+pandoc_pid=$!
+spinner "$pandoc_pid"
+wait "$pandoc_pid"
 
 echo "Fertig: $(pwd)/dissertation.pdf"
