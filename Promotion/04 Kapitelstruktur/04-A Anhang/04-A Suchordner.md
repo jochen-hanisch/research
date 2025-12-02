@@ -1,6 +1,6 @@
 ## Struktur der Suchordner {#sec:A-6}
 
-Die in dem verwendetem Literaturmanagementsystem angelegten Suchordner wurden thematisch gegliedert und hierarchisch sortiert. Die folgende Übersicht dokumentiert die finale Struktur. Die ID (z.B. S:01) findet sich als Suchordnername in Zotero wieder und dient zur systematischen Tag-Kodierung der Literatur. Diese Struktur bildet die Grundlage für die Reproduzierbarkeit der Suchstrategie und deren analytische Weiterverarbeitung (Kapitel **Fehler! Verweisquelle konnte nicht gefunden werden.**).
+Die in dem verwendetem Literaturmanagementsystem angelegten Suchordner wurden thematisch gegliedert und hierarchisch sortiert. Die folgende Übersicht dokumentiert die finale Struktur. Die ID (z.B. S:01) findet sich als Suchordnername in Zotero wieder und dient zur systematischen Tag-Kodierung der Literatur. Diese Struktur bildet die Grundlage für die Reproduzierbarkeit der Suchstrategie und deren analytische Weiterverarbeitung (\hyperref[sec:4-2-1]{4.2.1}).
 
 Table: Semantisch-hierarchische Struktur der angelegten Suchordner \label{tab:A-6}
 
