@@ -1,4 +1,3 @@
-
 ## Prompt zur systemisch-forschungsfragengeleiteten Auswertung der Eye-Tracking-Visualisierungen {#sec:A-4}
 
 
@@ -6,7 +5,7 @@ Dieser Prompt dient der reproduzierbaren, theorie- und forschungsfragengeleitete
 
 **Eingabe je Analysefall**  
 - Stimulus-ID und kurze Kontextangabe (UI-Ausschnitt, Ziel-FUs, z.B. FU4b/FU1/FU6).  
-- LMS-Screenshot (Kontext), Heatmap, Viewmap/Gaze-Plot (Kreise ∝ Fixationsdauer + Pfade), Fog-View (invertierte Fixationsdichte, ignorierte Zonen).  
+- LMS-Screenshot (Kontext), Heatmap, Viewmap/Gaze-Plot (Kreise proportional zur Fixationsdauer + Pfade), Fog-View (invertierte Fixationsdichte, ignorierte Zonen).  
 - Optional: AOI-Beschreibung (rechteckige AOIs, identische Auflösung).
 
 ## Zweck des Prompts  
@@ -25,7 +24,7 @@ Für jede Analyse werden folgende Visualisierungstypen bereitgestellt:
 1. **Heatmap**  
    - zeigt Fixationsdichte (Hotspots/Warmspots/Coldspots).
 2. **Viewmap / Scanpath / Fixation Plot**  
-   - zeigt Blickpfade, Fixationsabfolgen und relative Fixationsdauer (Kreise ∝ Dauer + Linienverbindungen; keine nummerierte Reihenfolge).
+   - zeigt Blickpfade, Fixationsabfolgen und relative Fixationsdauer (Kreise proportional zur Dauer + Linienverbindungen; keine nummerierte Reihenfolge).
 3. **Fog-View**  
    - zeigt nicht beachtete Bereiche (invertierte Fixationsdichte, ignorierte Zonen).
 4. **Stimulus-Screenshot**  
