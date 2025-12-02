@@ -1,3 +1,4 @@
+\newpage
 
 # 4 Methodologie {#sec:4}
 
@@ -127,7 +128,7 @@ Anhang X: Struktur der Suchordner in Zotero nach semantischen Ebenen
 
 Die folgende Tabelle dokumentiert die finale Systematik der Zotero-Suchordner. Diese ist entlang primärer, sekundärer und tertiärer Suchbegriffe gegliedert. Jeder Ordner beinhaltet strukturierte Suchen nach Eintragstypen und thematischen Schlagwörtern. Die ID der Ordner (z. B. `S:01`) korrespondiert mit der Ordnerstruktur in Zotero und wurde zur Tag-Kodierung verwendet.
 
-Primäre Suchbegriffe
+**Primäre Suchbegriffe**
 
 Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 
@@ -140,7 +141,7 @@ Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 
 Die primären Suchbegriffe adressieren den unmittelbaren Forschungsgegenstand. Sie bündeln alle Kombinationen, in denen das LMS oder der digitale Bildungsraum direkt benannt ist. Für diese Cluster gilt eine hohe Sichtungsquote (mindestens 80 %), weil sie die Kernbefunde zur Wirkweise des eingesetzten Systems liefern und den Ausgangspunkt für die Ableitung der Forschungsunterfragen bilden.
 
-Sekundäre Suchbegriffe
+**Sekundäre Suchbegriffe**
 
 Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 
@@ -155,7 +156,7 @@ Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 
 Sekundäre Begriffe erweitern den Blick auf didaktische und organisatorische Kontexte. Sie erfassen hybride Arrangements, mediale Settings und bildungstechnologische Konzepte, die das LMS funktional einbetten. Die Sichtungsquote liegt hier bei 50 %, weil diese Ebene vor allem der Kontextualisierung und der Identifikation flankierender Mechanismen dient.
 
-Tertiäre Suchbegriffe
+**Tertiäre Suchbegriffe**
 
 Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
@@ -257,19 +258,22 @@ Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf
 
 Die Entscheidung für ein webcam-basiertes Eye-Tracking mit RealEye folgt unmittelbar aus der Forschungsunterfrage FU4b, die die technisch‑gestalterischen Wirkmechanismen des LMS untersucht. Für diese Fragestellung sind primär großflächige Aufmerksamkeitszonen, visuelle Hierarchien, Blickpfade und Navigationseffekte relevant. Diese Parameter lassen sich mit webcam‑basierten Verfahren zuverlässig erfassen, ohne dass millimetergenaue Rohdaten oder hochfrequente Sakkadenanalysen erforderlich wären.
 
-Aktuelle Validierungsstudien belegen, dass moderne webcam‑basierte Eye‑Tracking‑Systeme für AOI‑basierte Analysen, UI‑Evaluationen und explorative Aufmerksamkeitstests ausreichend präzise sind. @kaduk_webcam_2023 zeigen, dass die Genauigkeit moderner Webcam‑Tracker (ca. 1–1,5°) nahe an kommerzielle Laborgeräte heranreicht und fixationsorientierte Kernmetriken stabil reproduziert werden. @yang_webcambased_2021 demonstrieren, dass auch WebGazer‑basierte Systeme bei reduzierten Samplingraten robuste Fixationsmuster erzeugen und verhaltenswissenschaftliche Laborbefunde zuverlässig replizieren. @wisiecka_comparison_2022 bestätigen für RealEye konsistente Ergebnisse bei Standardaufgaben wie Point‑Detection‑ und Visual‑Search‑Tasks. Die technische Dokumentation von @imotions_imotions_2023 unterstreicht ergänzend die Eignung webcam‑basierter Systeme für explorative Studien, Remote‑Settings und UI‑Analysen, bei denen relative Fixationsverteilungen über definierte AOIs im Fokus stehen.
+Aktuelle Validierungsstudien belegen, dass moderne webcam‑basierte Eye‑Tracking‑Systeme für AOI‑basierte Analysen, UI‑Evaluationen und explorative Aufmerksamkeitstests ausreichend präzise sind. @kaduk_webcam_2023 zeigen, dass die Genauigkeit moderner Webcam‑Tracker (ca. 1–1,5°) nahe an kommerzielle Laborgeräte heranreicht und fixationsorientierte Kernmetriken stabil reproduziert werden. @yang_webcam-based_2021 demonstrieren, dass auch WebGazer‑basierte Systeme bei reduzierten Samplingraten robuste Fixationsmuster erzeugen und verhaltenswissenschaftliche Laborbefunde zuverlässig replizieren. @wisiecka_comparison_2022 bestätigen für RealEye konsistente Ergebnisse bei Standardaufgaben wie Point‑Detection‑ und Visual‑Search‑Tasks. Die technische Dokumentation von @imotions_imotions_2023 unterstreicht ergänzend die Eignung webcam‑basierter Systeme für explorative Studien, Remote‑Settings und UI‑Analysen, bei denen relative Fixationsverteilungen über definierte AOIs im Fokus stehen.
 
 Die Limitationen webcam‑basierter Verfahren – geringere räumliche Präzision, sensitivere Reaktion auf Kopfbewegungen, fehlende Pupillometrie und das Fehlen von Rohdatenexporten – sind für die Beantwortung von FU4b methodisch unproblematisch. Für FU4b steht die Rekonstruktion technisch‑gestalterischer Muster im Vordergrund: Blickanfangszonen, visuelle Orientierung, Pfadtypik, Hot‑ und Coldspots sowie systematisch ignorierte UI‑Zonen. Solche Muster sind gegenüber Samplingratenschwankungen robust. @rodziewicz-cybulska_measuring_2022 zeigen zudem, dass selbst komplexere Fixationsmaße unter geeigneten Bedingungen stabil erfasst werden können, was den Validitätsrahmen für standardisierte Blickbewegungsanalysen stützt.
 
 Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Viewmaps und Fog‑Views wissenschaftlich konsistent und methodisch angemessen. Die Visualisierungen erlauben eine systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Bereiche. Wie in der einschlägigen UX‑ und Eye‑Tracking‑Forschung üblich, werden die Muster relativ interpretiert: als Verteilung über AOIs, nicht als absolute metrische Werte. Durch die Kopplung mit Umfragebefunden (FU1/FU2) sowie mit den deduktiv entwickelten Kategorien entsteht eine theoriegeleitete, triangulierte Sicht auf die Wirkmechanismen des LMS.
 
-#### Ergänzende methodische Absicherung
+**Ergänzende methodische Absicherung**
 
-**A) Begründung der bildbasierten Auswertung**  
-Die Auswertung ist bewusst bildbasiert, da die verwendete RealEye‑Lizenz ausschließlich aggregierte Visualisierungen (Heatmap, Viewmap, Fog‑View) bereitstellt. Qualitative Fixationsmuster gelten als valide Indikatoren für Aufmerksamkeit, Orientierung und Salienz: @yang_webcambased_2021 belegen robuste Fixationsdaten, @kaduk_webcam_2023 dokumentieren hohe Genauigkeit, und @wisiecka_comparison_2022 bestätigen RealEye für AOI‑Zuweisungen. Heatmaps identifizieren Fixationszentren, Viewmaps zeigen sequentielle Blickpfade und Orientierungswechsel, Fog‑Views markieren systematisch ignorierte UI‑Zonen. Die Dreifachbetrachtung entspricht gängigen UI-/UX‑Empfehlungen auch für Remote‑Erhebungen (@imotions_imotions_2023).
+A) Begründung der bildbasierten Auswertung
 
-**B) Grenzen, Bias und Validierungsstrategie**  
+Die Auswertung ist bewusst bildbasiert, da die verwendete RealEye‑Lizenz ausschließlich aggregierte Visualisierungen (Heatmap, Viewmap, Fog‑View) bereitstellt. Qualitative Fixationsmuster gelten als valide Indikatoren für Aufmerksamkeit, Orientierung und Salienz: @yang_webcam-based_2021 belegen robuste Fixationsdaten, @kaduk_webcam_2023 dokumentieren hohe Genauigkeit, und @wisiecka_comparison_2022 bestätigen RealEye für AOI‑Zuweisungen. Heatmaps identifizieren Fixationszentren, Viewmaps zeigen sequentielle Blickpfade und Orientierungswechsel, Fog‑Views markieren systematisch ignorierte UI‑Zonen. Die Dreifachbetrachtung entspricht gängigen UI-/UX‑Empfehlungen auch für Remote‑Erhebungen (@imotions_imotions_2023).
+
+B) Grenzen, Bias und Validierungsstrategie
+
 Webcam‑Tracking weist geringere Präzision, potenzielle Drift bei Kopfbewegungen und variierende Lichtempfindlichkeit auf. RealEye liefert keine Rohdaten, sondern serverseitig erzeugte Visualisierungen. Diese Bias werden systematisch abgefedert durch:
+
 - doppelte Kalibrierung mit RealEye‑Validierungsstatus (Grün = akzeptiert),
 - Ausschluss suboptimaler Sessions (Warn/Fail),
 - konsistente Stimulusauflösungen,
@@ -278,25 +282,27 @@ Webcam‑Tracking weist geringere Präzision, potenzielle Drift bei Kopfbewegung
 
 Fixationsmuster werden ausschließlich relativ interpretiert: als Verteilung innerhalb definierter AOIs. Inferenzen über absolute Sakkadenparameter oder Zeitreihen werden nicht vorgenommen. Die Vorgehensweise folgt etablierten Standards der visuellen Befundung, wie sie auch in radiologischen und pathologischen Kontexten genutzt werden, in denen Kontrast‑ und Mustererkennung aus aggregierten Bildern erfolgt.
 
-**C) Triangulation und Rückbindung an FU4b**  
+C) Triangulation und Rückbindung an FU4b
+
 Die Aussagekraft der Eye‑Tracking‑Auswertung wird durch konvergente Triangulation gestützt:
+
 1. Literaturbefunde zu UI‑, Navigations- und Salienzwirkungen (FU3/FU4a),
 2. Eye‑Tracking‑Visualisierungen (FU4b),
 3. Umfragebefunde zu Struktur/Nützlichkeit (FU1/FU2).
 
 Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen) stützen die Modellannahmen. Divergenzen werden systematisch analysiert. Damit ermöglicht die Eye‑Tracking‑Methodik eine theoriegestützte Rekonstruktion der technisch‑gestalterischen Wirkmechanismen des LMS.
 
-#### Setup und Durchführung
+**Setup und Durchführung**
 
 - Remote‑Studie mit Desktop/Laptop und Frontkamera.  
 - 9‑Punkt‑Kalibrierung; RealEye‑Validierung unmittelbar vor dem Stimulus.  
 - Ausschluss von Sessions mit Warn‑ oder Fehlstatus.  
 - Standardisierte Sitzposition, Lichtbedingungen und Displayabstände.  
 - Stimulus: statische LMS‑Ansichten; identische Auflösung und AOI‑Koordinaten.
-- Sequenzprotokoll: Kalibrierung/Validierung → Stimulusfolge (z.B. F2‑S2, F3‑S3, F10‑S3, F11‑S3, F14‑S3; feste Anzeigezeit ca. 8–12 s, #todo exakte Dauer ergänzen) → Export der Visualisierungen; kein Reload, Einzel‑Durchlauf pro Person.
+- Sequenzprotokoll: Kalibrierung/Validierung -> Stimulusfolge (z.B. F2‑S2, F3‑S3, F10‑S3, F11‑S3, F14‑S3; feste Anzeigezeit ca. 8–12 s, #todo exakte Dauer ergänzen) -> Export der Visualisierungen; kein Reload, Einzel‑Durchlauf pro Person.
 - Stichprobe: #todo n gestartet; #todo n nach Kalibrierung akzeptiert; #todo n final analysiert (Grünstatus, Blicksignal vorhanden).
 
-#### Metriken und Verarbeitung
+**Metriken und Verarbeitung**
 
 - Export ausschließlich als Heatmap, Viewmap und Fog‑View (keine CSV/Rohdaten).  
 - AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
@@ -306,13 +312,13 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - Nicht genutzte Metriken: keine Pupillometrie, keine millisekundengenaue Sakkadenanalyse, keine Time‑to‑First‑Fixation/TTFF, kein Fixation Count/Dwell‑Time pro AOI (nicht geliefert); ausschließlich Fixationsaggregation aus den Visualisierungen.
 - RealEye-Hinweise: Heatmap-Farben kodieren Intensität, nicht Dauer; Viewmap/Fog‑View zeigen Verteilung ohne nummerierte Reihenfolge; central fixation bias (erste ~0,5 s) bei Bedarf ausblenden; Zeitfenster verschieben/verkürzen bei Sequenzfragen; Filter (Qualität/Tags/AOI) nur zur visuellen Sichtung, keine CSV-Downloads.
 
-Visualisierungstypen und Funktionen
+**Visualisierungstypen und Funktionen**
 
 - Heatmap: Kernel‑Dichte‑basierte Fixationsdichtekarte; zeigt Hotspots/Coldspots und relative Aufmerksamkeitsverteilung.
 - Viewmap/Gaze‑Plot: Sequenzielle Darstellung von Fixationen (Kreise proportional zur Fixationsdauer) und Pfaden; macht Pfadtypik, Orientierungswechsel und Rekursionen sichtbar.
 - Fog‑View: Invertierte Fixationsdarstellung; markiert systematisch ignorierte UI‑Zonen (Nebel über nicht fixierten Bereichen).
 
-#### Auswertungsvorgehen (FU‑geführt)
+Auswertungsvorgehen (FU‑geführt)
 
 1. Verortung des Stimulus im LMS‑Kontext.  
 2. Heatmap‑Analyse (Salienz, Aufmerksamkeitszentren).  
@@ -332,7 +338,7 @@ Dokumentierte Stimuli und FU‑Zuordnung (Auswahl)
 
 Hinweis: Die vollständige Auswertung der Eye‑Tracking‑Stimuli erfolgt in Abschnitt 4.3.9.
 
-#### Einschränkungen und Bias
+**Einschränkungen und Bias**
 
 - Webcam‑Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung oder suboptimalen Lichtverhältnissen.  
 - Interpretationen basieren auf relativen Mustern, nicht auf punktgenauen Blickpositionen.  
@@ -340,7 +346,7 @@ Hinweis: Die vollständige Auswertung der Eye‑Tracking‑Stimuli erfolgt in Ab
 - Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
 - KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
-# ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
+### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
 
 #todo Umfrage weiter ausführen und anpassen
 
@@ -350,6 +356,7 @@ Die Erhebung ist vollständig anonymisiert, freiwillig und unabhängig vom Eye-T
 
 - **Struktur/Item-Gruppen:** Klarheit/Struktur der Informationen, Diskussion/Austausch, Kollaboration, Flexibilität, Ressourcenzugang, Integration externer Materialien, Lernfortschritt, Rolle multimedialer Inhalte, Anpassung/Personalisierung. Zuordnung und Gewichtungen sind vorab festgelegt (vor/nach Anpassung je Frage).
 - **Gewichtung der Dimensionen:** Nach Vortest wurden zentrale Knoten des Wirkungsgefüges höher gewichtet: Klarheit/Struktur stieg auf $0{,}8$, Diskussion/Austausch auf $0{,}6$, Kollaboration auf $0{,}7$, Flexibilität auf $0{,}7$, Ressourcenzugang und Integration externer Materialien auf $0{,}6$. Lernfortschritt wurde auf $0{,}5$ festgesetzt, multimediale Inhalte auf $0{,}5$, Anpassung auf $0{,}6$ und Personalisierung auf $0{,}5$. Damit rücken Verständlichkeit, Interaktion und Kollaboration in den Fokus, ohne periphere Dimensionen auszublenden.
+
 - **Ziel und Konstruktion:** Ableitung der Items aus den Forschungsunterfragen; Kombination aus Akzeptanz-, Nutzungs- und Wirkungsdimensionen; Pretest dokumentiert.
 - **Instrument:** Strukturierter Fragebogen mit Informationsblatt und Einwilligung; abgestützte Gewichtungen der Dimensionen.
 - **Stichprobe:** Rekrutierung über das LMS-Umfeld; Ein- und Ausschlusskriterien dokumentiert; Dropouts ausgewiesen.
@@ -396,7 +403,7 @@ Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilist
 
 Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
 
-#### Konzept und Abgrenzung
+**Konzept und Abgrenzung**
 
 - Deduktive Rahmung durch die Forschungsunterfragen (FU1–FU7).
 - Segmentierung aller Texte in Sinnabschnitte (1–3 Sätze; bei FU7 1–2 Sätze).
@@ -407,7 +414,7 @@ Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-b
 
 Die eingesetzten KI-basierten Textmodelle wirken als strukturierende Werkzeuge; Steuerung und Interpretation liegen vollständig bei der Forschenden.
 
-#### Algorithmische Umsetzung
+**Algorithmische Umsetzung**
 
 Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Schritte mit probabilistischen Erweiterungen:
 
@@ -452,7 +459,7 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 \end{figure}
 ```
 
-#### Validierung und empirische Kennwerte
+**Validierung und empirische Kennwerte**
 
 Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
 
@@ -470,17 +477,17 @@ Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Model
 
 @rousseeuw_silhouettes_1987 bewertet Werte > 0,70 als stark und > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Pipelines.
 
-#### Qualitätssicherung und Beispiele
+**Qualitätssicherung und Beispiele**
 
 Die KI-gestützte Analyse dient auch der Plausibilitätsprüfung. So wurde der Artikel von @westlake_international_2023 – trotz korrekter Schlagwortzuordnung – als thematisch irrelevant markiert, weil er BDSM-Praktiken untersucht und somit keinen Bezug zum digitalen Bildungsraum aufweist. Diese Prüfung geht über eine reine Stichwortsuche hinaus und verhindert, dass fachfremde Texte in die Auswertung gelangen.
 
 Zur Überprüfung der Trennschärfe wurde die P-QIA auf die klassisch kodierte Studie von @kerman_online_2024 angewendet. Die KI-gestützte Analyse erzielte einen Silhouette-Score von 0,92, die menschliche Kodierung lediglich 0,62. Damit wird sichtbar, dass die probabilistische Validierung methodische Schwächen in manuellen Kodierungen offenlegt und als Ergänzung zur klassischen Inhaltsanalyse fungiert.
 
-#### Test- und Diskursbeiträge
+**Test- und Diskursbeiträge**
 
 Die Validierung umfasst automatische Kodierungstests, erneute Clusterbildungen mit $k$-means sowie Mehrfachberechnungen des Silhouette-Scores, um die Stabilität über verschiedene Läufe hinweg zu belegen. Zudem wurde geprüft, ob klassische Tools wie ATLAS.ti oder NVivo die gleichen Prüfungen leisten können. Da diese Werkzeuge primär der Unterstützung menschlicher Kodierung dienen, liefern sie keine belastbaren Kennwerte zur objektiven Clustervalidierung. Die P-QIA adressiert damit eine Lücke in der aktuellen Diskussion (z.B. [@biswas_chatgpt_2023; @van_niekerk_addressing_2025; @storey_ai_2023; @parker_negotiating_2024]), indem sie ein überprüfbares Verfahren zur Qualitätsbewertung KI-gestützter Analysen bereitstellt.
 
-#### Rolle des Menschen und Grenzen
+**Rolle des Menschen und Grenzen**
 
 Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung grundsätzlich menschlich. Grenzen ergeben sich aus:
 
@@ -509,12 +516,11 @@ Die mdaCV fungiert damit als seismografisches Instrument: Sie verbindet deduktiv
 
 Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion $\epsilon$ eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
 
-Formel zur Definition der Verlustfunktion:
+**Formel zur Definition der Verlustfunktion:**
 
 $$
 \epsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
-\label{eq:verlust}
-$$
+$$ {#eq:verlust}
 
 Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 3583$ ergibt $\epsilon \approx 0{,}0252$. Der Wert zeigt, dass trotz kleiner Datenlücken eine hohe Integrität erreicht wird. Die Verlustfunktion eignet sich insbesondere als Frühwarnsystem (Verlust von Quellen, unplausible Score-Sprünge) und als zusätzlicher Qualitätsindikator in reproduzierbaren Pipelines.
 
@@ -530,7 +536,7 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 Die Abbildung zeigt die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) auf Basis des $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der insgesamt hohe Silhouette-Score ($S = 0{,}9884$) weist auf eine nahezu perfekte Trennschärfe hin, was sowohl die deduktive Vorstrukturierung als auch die semantische Stabilität der Cluster bestätigt.
 
-Analyse der Achsendimensionen
+**Analyse der Achsendimensionen**
 
 Die drei Achsen bilden die theoretischen Dimensionen ab, die zuvor in Kapitel 4.2.3 und 4.3.1 bis 4.3.4 hergeleitet wurden:
 
