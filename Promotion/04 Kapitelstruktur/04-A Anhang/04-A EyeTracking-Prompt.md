@@ -4,6 +4,11 @@
 
 Dieser Prompt dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der im Forschungsdesign verwendeten Eye-Tracking-Daten (Heatmaps, Viewmaps, Fog-Views). Er folgt den methodischen Grundlagen des systemisch-forschungsfragengeleiteten Paradigmas der Arbeit (Kapitel 4.1–4.2) und operationalisiert die qualitative Bildauswertung gemäß Abschnitt 4.2.4 (Eye-Tracking).
 
+**Eingabe je Analysefall**  
+- Stimulus-ID und kurze Kontextangabe (UI-Ausschnitt, Ziel-FUs, z.B. FU4b/FU1/FU6).  
+- LMS-Screenshot (Kontext), Heatmap, Viewmap/Gaze-Plot (Kreise ∝ Fixationsdauer + Pfade), Fog-View (invertierte Fixationsdichte, ignorierte Zonen).  
+- Optional: AOI-Beschreibung (rechteckige AOIs, identische Auflösung).
+
 ## Zweck des Prompts  
 Der Prompt ermöglicht eine konsistente, FU4b-zentrierte Analyse der Eye-Tracking-Visualisierungen. Er stellt sicher, dass die Auswertung:
 
@@ -20,11 +25,12 @@ Für jede Analyse werden folgende Visualisierungstypen bereitgestellt:
 1. **Heatmap**  
    - zeigt Fixationsdichte (Hotspots/Warmspots/Coldspots).
 2. **Viewmap / Scanpath / Fixation Plot**  
-   - zeigt Blickpfade, Fixationsabfolgen und relative Fixationsdauer.
+   - zeigt Blickpfade, Fixationsabfolgen und relative Fixationsdauer (Kreise ∝ Dauer + Linienverbindungen; keine nummerierte Reihenfolge).
 3. **Fog-View**  
-   - zeigt nicht beachtete Bereiche (Inversion des Fixationsraums).
+   - zeigt nicht beachtete Bereiche (invertierte Fixationsdichte, ignorierte Zonen).
 4. **Stimulus-Screenshot**  
    - Kontextualisierung der Bildstruktur des LMS.
+- **Stimulusreihe** = Stimulus + die drei Visualisierungstypen (Heatmap, Viewmap/Gaze-Plot, Fog-View). Die referenzierten Stimuli sind im Bildarchiv (`08 Metaquellen/08-01 Abbildungen/eye-traking`) hinterlegt.
 
 ## Ziel der Analyse  
 Die Auswertung beantwortet die Leitfrage von **FU4b**:
@@ -79,11 +85,24 @@ Erstelle eine prägnante Zusammenfassung:
 - Welche systemischen Muster sind relevant?  
 - Welche Hypothesen ergeben sich für Kapitel 5?
 
+## Ausgabeformat (empfohlen)
+- Heatmap: …  
+- Viewmap/Gaze-Plot: …  
+- Fog-View: …  
+- Mechanismen (FU4b): …  
+- Kurzdiagnose FU4b: … (Bezug zu FU und Stimulus-ID nennen)
+
 ## Wichtige Hinweise zur Nutzung
 1. Der Prompt dient der **strukturierenden Unterstützung**, nicht der automatischen Interpretation.  
 2. Alle KI-generierten Beschreibungen sind durch die forschende Person zu prüfen.  
 3. Die Auswertung erfolgt **relativ**, nicht metrisch.  
 4. Die Interpretation muss an FU4b und die theoretischen Grundlagen rückgebunden werden.
+5. Artefakte/Ausreißer (Off-Center, Trackloss) benennen und nicht überinterpretieren.  
+6. Detailauswertung erfolgt in Abschnitt 4.3.9; Befunde fließen narrativ in Kapitel 5.
+7. RealEye-Hinweise: Heatmap-Farben kodieren Intensität, nicht Dauer; Viewmap/Fog-View zeigen Verteilung ohne nummerierte Reihenfolge. Zentralfixations-Bias zu Beginn ggf. berücksichtigen; Ausreißer/Teilnehmende mit schlechter Qualität aussortieren.
+8. Zeitfenster: Bei Bedarf die ersten ~0,5 s (central fixation bias) ausblenden; Zeitintervall verschieben/verkürzen, wenn Sequenzdetails relevant sind.
+9. Filter: Teilnehmerqualität/Tags/AOI-Fokus in RealEye prüfen; keine automatischen CSVs genutzt, daher Filter nur zur visuellen Sichtung.
+#todo Stimulusreihe-Hinweis anpassen/streichen, wenn die Abbildungen komplett im Haupttext eingebettet sind.
 
 ## Abschlussbemerkung
 

@@ -304,6 +304,7 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - Ausschluss von Sessions mit Trackloss oder instabiler Kalibrierung.
 - Technische Angaben: RealEye (Version #todo) im Browser (Desktop/Laptop); Export als PNG/JPG, keine CSV‑Rohdaten oder AOI‑Metriken verfügbar.
 - Nicht genutzte Metriken: keine Pupillometrie, keine millisekundengenaue Sakkadenanalyse, keine Time‑to‑First‑Fixation/TTFF, kein Fixation Count/Dwell‑Time pro AOI (nicht geliefert); ausschließlich Fixationsaggregation aus den Visualisierungen.
+- RealEye-Hinweise: Heatmap-Farben kodieren Intensität, nicht Dauer; Viewmap/Fog‑View zeigen Verteilung ohne nummerierte Reihenfolge; central fixation bias (erste ~0,5 s) bei Bedarf ausblenden; Zeitfenster verschieben/verkürzen bei Sequenzfragen; Filter (Qualität/Tags/AOI) nur zur visuellen Sichtung, keine CSV-Downloads.
 
 Visualisierungstypen und Funktionen
 
