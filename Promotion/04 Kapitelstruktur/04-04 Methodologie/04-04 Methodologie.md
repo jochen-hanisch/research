@@ -328,13 +328,13 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 
 Table: Stimulusauswahl \label{tab:stimulus-auswahl}
 
-| Stimulus | Inhalt (kurz)              | FU (primär)  | Fokus (kurz)                |
-|:--------:|:---------------------------|:------------:|:----------------------------|
-| F2‑S2    | Navigation, Interaktion    | FU4b/FU3     | Salienz Navigation          |
-| F3‑S3    | Aufgabenbereich            | FU4b/FU1     | Info-Hierarchie/Blickführung|
-| F10‑S3   | Lernplan, Kompetenzen      | FU4b/FU6/FU1 | Verständlichkeit            |
-| F11‑S3   | Weiterführende Quellen     | FU4b/FU2a    | Auffindbarkeit/Link-Salienz |
-| F14‑S3   | Lernmaterial, Sicherheit   | FU4b/FU6     | Salienz Sicherheit          |
+| Stimulus | Inhalt (kurz)            | FU (primär)  | Fokus (kurz)                 |
+| :------: | :----------------------- | :----------: | :--------------------------- |
+|  F2‑S2   | Navigation, Interaktion  |   FU4b/FU3   | Salienz Navigation           |
+|  F3‑S3   | Aufgabenbereich          |   FU4b/FU1   | Info-Hierarchie/Blickführung |
+|  F10‑S3  | Lernplan, Kompetenzen    | FU4b/FU6/FU1 | Verständlichkeit             |
+|  F11‑S3  | Weiterführende Quellen   |  FU4b/FU2a   | Auffindbarkeit/Link-Salienz  |
+|  F14‑S3  | Lernmaterial, Sicherheit |   FU4b/FU6   | Salienz Sicherheit           |
 
 (Kurzbeschreibung; Auswertung in Abschnitt \hyperref[sec:4-3-9]{4.3.9})
 
