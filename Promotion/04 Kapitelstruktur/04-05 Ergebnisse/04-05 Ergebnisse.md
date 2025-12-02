@@ -22,6 +22,7 @@ Diese Bündelung dient als Strukturierungsrahmen für die Präsentation der Erge
 ## 5.3 Beantwortung der Forschungsfragen {#sec:5-3}
 
 Die Darstellung folgt der in Abschnitt 5.2 beschriebenen Gewichtung der Kernbereiche. Zunächst werden die Forschungsfragen zur Kernarchitektur behandelt, anschließend Nutzungserleben & Gestaltung, danach die Kompetenzorientierung und zum Schluss Rollen & Strategien.
+#todo Eye-Tracking: exemplarische Abbildungen je Stimulus (Heatmaps) einbinden und Verweis auf Anhang A.7 für komplette Bildreihen ergänzen.
 
 ### 5.3.1 FU3: Didaktische und technologische Merkmale {#sec:5-3-1}
 
