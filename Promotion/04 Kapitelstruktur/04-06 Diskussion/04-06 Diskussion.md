@@ -6,13 +6,13 @@ Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und
 
 ## 6.1 Rückbindung an die Forschungsfragen {#sec:6-1}
 
-- Interpretation der Befunde entlang der Kernbereiche aus Kapitel 5.
+- Interpretation der Befunde entlang der Kernbereiche aus \hyperref[sec:5]{5}.
 - Einordnung, inwieweit jede Forschungsunterfrage beantwortet wurde.
 
 ## 6.2 Theoretische Implikationen {#sec:6-2}
 
 - Beitrag zur bildungswissenschaftlichen Theorieentwicklung (z.B. systemisch-konstruktivistische Perspektive, digitale Bildung).
-- Rückbindung an Kapitel 2 (Theorie) und Kapitel 3 (Forschungsgegenstand).
+- Rückbindung an \hyperref[sec:2]{2} (Theorie) und \hyperref[sec:3]{3} (Forschungsgegenstand).
 
 ## 6.3 Praktische und gestalterische Implikationen {#sec:6-3}
 
@@ -22,7 +22,7 @@ Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und
 
 ## 6.4 Methodische Reflexion und Limitationen {#sec:6-4}
 
-- Bewertung der eingesetzten Methoden (Kapitel 4) und ihrer Grenzen.
+- Bewertung der eingesetzten Methoden (\hyperref[sec:4]{4}) und ihrer Grenzen.
 - Diskurs über Validität, Reliabilität und Generalisierbarkeit der Befunde.
 
 - Die Eye-Tracking-Daten unterliegen spezifischen methodischen Einschränkungen. Die Nutzung eines webcam-basierten Systems (RealEye) impliziert eine geringere räumliche Präzision und eine sensitivere Reaktion auf Kopfbewegungen als laborbasierte Eye-Tracker. Zudem standen ausschließlich aggregierte Bildexporte (Heatmap, Viewmap, Fog-View) zur Verfügung, was die Berechnung klassischer AOI-Metriken (z. B. Dwell Time, Time to First Fixation) ausschließt. Die Analyse basiert daher auf einer qualitativen, visuell interpretierten Fixationsverteilung, deren Validität durch aktuelle Forschung zu webcam-basiertem Tracking gestützt wird. Die Stichprobe ist begrenzt und repräsentiert primär Ausbildungsrealitäten aus einem spezifischen Kompetenzbereich, was die Übertragbarkeit moderiert. Gleichwohl ergibt sich eine hohe interne Validität durch die Triangulation mit Literaturbefunden und den Ergebnissen der begleitenden Umfrage. Die Analogie zur radiologischen Befundung unterstützt die methodische Einordnung, da auch dort interpretationsgeleitete Bildmuster genutzt werden. Insgesamt bleibt festzuhalten, dass die Eye-Tracking-Ergebnisse keine metrische Präzision beanspruchen, jedoch eine robuste, qualitativ belastbare Evidenz für Wahrnehmungs- und Orientierungsmuster bereitstellen.
