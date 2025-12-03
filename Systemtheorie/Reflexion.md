@@ -1,8 +1,8 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Reflexion - Ein universelles Grundelement des Lernens
-created: 2024-12-06
-updated: 2024-12-06
+created: 2025-07-31
+updated: 2025-12-03
 tags:
   - Lernen
   - Feedback
@@ -13,9 +13,7 @@ type:
   - Wissenschaftliche Notiz
 ---
 
-
-createdt: 13.12.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Elementaroperationen.md): 19.7.2025 | [publishd](https://zenodo.org/records/16174315): 10.1.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) |  [[Hinweise]]
-
+createdt: 13.12.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Reflexion.md): | [publishd](https://zenodo.org/records/16174315): 10.1.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) |  [[Hinweise]]
 
 # Einleitung
 
@@ -404,16 +402,19 @@ Diese Überleitung bildet die Grundlage für die folgenden Abschnitte: Die Eleme
 Lebende Systeme als Subklasse biologischer Systeme sind durch metabolische Autonomie, Selbsterhalt und eigenständige Grenzziehung (Autopoiesis) charakterisiert. Reflexion meint hier: ein Organismus reagiert auf eigene Zustände und Umweltimpulse so, dass Organisation und Funktion erhalten und angepasst werden.
 
 ### 2.5.1 Autopoiesis und Selbsterhalt
+
 - Feedback: metabolische Flüsse, die Differenzen (Energie, Konzentrationen) anzeigen.
 - Reflexion: interne Regulation (Enzyme, Membrantransporte, Signalwege) zur Stabilisierung.
 - Reentry: angepasster Stoffwechselzustand, der wiederum zukünftige Reaktionen beeinflusst.
 
 ### 2.5.2 Sensorische Inversion und Verhalten
+
 - Feedback: sensorische Reize (Schmerz, Temperatur, Licht).
 - Reflexion: Inversion in interne Signale, Bewertung und Aktivierung motorischer Programme.
 - Reentry: verändertes Verhalten (Flucht, Regulation, Anpassung) verändert Umweltkopplung.
 
 ### 2.5.3 Entwicklung und Plastizität
+
 - Feedback: Umwelt- und interne Signale, die Entwicklungspfade modulieren.
 - Reflexion: genetisch-regulatorische Programme reagieren adaptiv (z. B. epigenetische Markierung).
 - Reentry: veränderte Morphologie/Physiologie beeinflusst weitere Entwicklung und Umweltinteraktion.
@@ -437,7 +438,8 @@ In der Philosophie wird Reflexion als Prozess des Nachdenkens über die eigenen 
 
 Die philosophische Perspektive betont die Rolle von Reflexion als Grundlage für Selbstbewusstsein und Erkenntnisbildung (Kant, 1781).
 
-### 2.6.3 Teilperspektive Kybernetik und transklassische Logik (Gotthard Günther)
+### 2.6.3 Teilperspektive Kybernetik und transklassische Logik
+(Gotthard Günther)
 
 Eine für psychische Systeme grundlegende Perspektive liefert Gotthard Günther in *Das Bewußtsein der Maschinen* (Günther, 1963/2021). Günther entwickelt eine transklassische, mehrwertige Logik, in deren Zentrum der Reflexionsprozess als Strukturmoment des Bewusstseins steht. Reflexion wird hier nicht als psychologische Fähigkeit verstanden, sondern als ontologische Zweiwertigkeit des Ich, das niemals vollständig mit sich selbst identisch ist. 
 
@@ -461,7 +463,7 @@ Auf Seite 51 zeigt Günther anhand seiner logischen Tafeln (I–IV), dass Reflex
 
 #### 2.6.3.3 Strukturelle Kopplung zur Elementar‑Operation Reflexion
 
-Im Rahmen der Theorie der Elementar‑Operationen lässt sich Günthers Ansatz wie folgt einordnen: Die Operation **Reflexion** ist eine universelle, systemübergreifende Grundoperation, während Günther die **prozessuale Form** beschreibt, die diese Operation speziell im Systemtyp *psychisches System* annimmt. Reflexion ist damit systemisch gesehen die kleinste nicht weiter teilbare Operation der Bedeutungsbildung; Günthers „Reflexionsidentität“ zeigt die innere Form dieser Operation im Bewusstsein.
+Im Rahmen der Theorie der Elementar‑Operationen lässt sich Günthers Ansatz wie folgt einordnen: Die Operation Reflexion ist eine universelle, systemübergreifende Grundoperation, während Günther die prozessuale Form beschreibt, die diese Operation speziell im Systemtyp *psychisches System* annimmt. Reflexion ist damit systemisch gesehen die kleinste nicht weiter teilbare Operation der Bedeutungsbildung; Günthers „Reflexionsidentität“ zeigt die innere Form dieser Operation im Bewusstsein.
 
 Diese Kopplung ermöglicht eine eindeutige Unterscheidung:
 
@@ -567,7 +569,7 @@ Disziplinübergreifend zeigt sich damit eine strukturelle Gemeinsamkeit: Reflexi
 
 ### Reflexion
 
-[[Reflexion]] bezeichnet eine Form zweiter Ordnung: Ein System bezieht sich nicht nur auf Wirkungen, sondern auf die eigene Beobachtung dieser Wirkungen. Dies impliziert eine interne Differenzierung: Das System entwickelt eine Struktur, die zwischen Operation und Selbstbezug unterscheidet. In Luhmanns Theorie ist Reflexion die Voraussetzung für Selbstbeschreibung.
+Reflexion bezeichnet eine Form zweiter Ordnung: Ein System bezieht sich nicht nur auf Wirkungen, sondern auf die eigene Beobachtung dieser Wirkungen. Dies impliziert eine interne Differenzierung: Das System entwickelt eine Struktur, die zwischen Operation und Selbstbezug unterscheidet. In Luhmanns Theorie ist Reflexion die Voraussetzung für Selbstbeschreibung.
 
 Mathematisch schlägt sich Reflexion in der Dynamik des Operators
 
