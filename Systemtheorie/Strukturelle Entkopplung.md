@@ -42,8 +42,6 @@ In wissenschaftlichen Kontexten wird die strukturelle Entkopplung als eine Ergä
 
 # 2 Herleitung
 
-In diesem Kapitel wird die Herleitung des Begriffs der strukturellen Entkopplung dargestellt. Es # 2 Herleitung
-
 In diesem Kapitel wird die Herleitung des Begriffs der strukturellen Entkopplung dargestellt. Die theoretischen Grundlagen leiten sich aus der Systemtheorie ab, insbesondere aus den Arbeiten von Luhmann und Meyer & Rowan, die die Dynamik und die strukturellen Anpassungsmechanismen in sozialen und organisatorischen Systemen untersuchen. Die strukturelle Entkopplung wird als notwendige Ergänzung zur strukturellen Kopplung betrachtet, um das volle Spektrum der Dynamik und Flexibilität von Systemen abzubilden (Meyer & Rowan, 1977; Luhmann, 1995). 
 
 Die strukturelle Entkopplung beschreibt den bewussten Prozess, bei dem [[Systeme]] bestehende Kopplungen lösen, um sich an neue Umwelten und Anforderungen anzupassen. Während die strukturelle Kopplung darauf abzielt, [[Systeme]] durch stabile und funktionale Verbindungen zu integrieren, erweitert die strukturelle Entkopplung das Modell, indem sie die bewusste Loslösung von Verbindungen als notwendigen Schritt für die Autonomie und Weiterentwicklung von Systemen darstellt (Orton & Weick, 1990). Diese Entkopplung ermöglicht es Systemen, flexibel auf Veränderungen in ihrem Umfeld zu reagieren, ohne ihre strukturelle Integrität zu gefährden (Boxenbaum & Jonsson, 2017).
