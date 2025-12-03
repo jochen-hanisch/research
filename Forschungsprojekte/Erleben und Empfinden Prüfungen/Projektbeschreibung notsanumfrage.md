@@ -3,8 +3,8 @@ author: Jochen Hanisch
 title: Projektbeschreibung notsanumfrage
 created: 2025-01-04
 updated: 2025-01-04
-publish: false
-publishd: 
+publish: true
+publishd:
 tags:
   - notsanumfrage
   - Forschungsbericht
