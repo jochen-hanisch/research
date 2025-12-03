@@ -44,7 +44,7 @@ Das webcam-basierte Eye-Tracking zeigt klare Mechanismen: (1) Orientierung geht 
 
 ### 5.3.7 FU6: LMS als Kompetenzerwerbssystem {#sec:5-3-7}
 
-Der digitale Bildungsraum wirkt als erste professionelle Handlungssituation. Die invariante Aufgabenarchitektur zwingt Lernende zu Orientierung, Musterbildung und operativer Auswahl – exakt den Operationen, die § 4 NotSanG/Anlage 1 verlangt. Eye-Tracking belegt, dass diese Operationen schon im Interface sichtbar sind (Orientierung → Stabilität → Handlung). Die Umfrage zeigt parallele Jahrgangsgradienten (unsicher → stabil → souverän) und hohe Relevanz der Struktur. Damit generiert das LMS den Kompetenzerwerb nicht ergänzend, sondern konstitutiv. Detaillierung: 04 Kapitelstruktur/04-05 Ergebnisse/LMS als Kompetenzerwerbsystem.md; Visualisierungen: \hyperref[sec:A-7]{Anhang A-7}.
+Der digitale Bildungsraum wirkt als erste professionelle Handlungssituation. Die invariante Aufgabenarchitektur zwingt Lernende zu Orientierung, Musterbildung und operativer Auswahl – exakt den Operationen, die § 4 NotSanG/Anlage 1 verlangt. Eye-Tracking belegt, dass diese Operationen schon im Interface sichtbar sind (Orientierung → Stabilität → Handlung). Die Umfrage zeigt parallele Jahrgangsgradienten (unsicher → stabil → souverän) und hohe Relevanz der Struktur. Die in \hyperref[tab:lms-konsequenzen]{Tabelle \ref{tab:lms-konsequenzen}} abgeleiteten rechtlich-funktionalen Anforderungen bilden dabei den normativen Rahmen, in dem diese Ergebnisse verortet werden. Damit generiert das LMS den Kompetenzerwerb nicht ergänzend, sondern konstitutiv. Detaillierung: 04 Kapitelstruktur/04-05 Ergebnisse/LMS als Kompetenzerwerbsystem.md; Visualisierungen: \hyperref[sec:A-7]{Anhang A-7}.
 
 ### 5.3.8 FU2b: Effekt auf Lehrende {#sec:5-3-8}
 
@@ -52,4 +52,4 @@ Der digitale Bildungsraum wirkt als erste professionelle Handlungssituation. Die
 
 ## 5.4 Zusammenfassung der Ergebnisse {#sec:5-4}
 
-*(Kurze Verdichtung der wichtigsten Befunde als Brücke zur Diskussion in Kapitel 6.)*
+#todo Kurze Verdichtung der wichtigsten Befunde als Brücke zur Diskussion in Kapitel 6.
