@@ -29,6 +29,10 @@ Der Begriff **Reflexion** bezieht sich auf den systemischen Prozess, durch den F
 
 **Reflexion als Elementaroperation (Operation vs. Prozess):** In der Theorie der Elementaroperationen bezeichnet Reflexion die kleinste nicht weiter zerlegbare Operation, in der ein System auf eigene Zustände zurückwirkt (Feedback → Inversion → Reflexion → Re-Inversion → Reentry). Diese Operation liefert die operative Genese von Selbstbezug. Davon zu unterscheiden ist die prozessuale Form der Reflexion in psychischen Systemen (Günther), die beschreibt, wie diese Operation dort strukturell erscheint (Reflexionsidentität, Zweiwertigkeit, Selbstbruch). Der kleinste gemeinsame Nenner bleibt: ein System bezieht sich auf eigene Operationen und transformiert sie.
 
+**Kleinster gemeinsamer Nenner (KGN) Reflexion:** interne Verarbeitung eines Differenzimpulses ([[Feedback]]) als Selbstbezug zweiter Ordnung; das System transformiert eigene Zustände/Operationen entlang seiner Struktur. Vgl. [[Elementaroperationen]], [[Elementarkommunikation]].
+
+**Größter gemeinsamer Teiler (GGT) Reflexion:** (1) basiert auf einem Differenzimpuls ([[Feedback]]), (2) wird intern invertiert/bewertet/transformiert entlang systemeigener Struktur ([[Reflexion]]), (3) wirkt in laufende Operationen/Struktur zurück (Re-entry). Diese Dreigliederung bleibt systemunabhängig (Luhmann, 1984; Schön, 1983).
+
 # 2. Herleitung
 
 Der Begriff Reflexion hat eine lange Geschichte und wird in verschiedenen Disziplinen unterschiedlich definiert. Diese Herleitung zeigt die historische und interdisziplinäre Entwicklung des Begriffs.
@@ -438,8 +442,7 @@ In der Philosophie wird Reflexion als Prozess des Nachdenkens über die eigenen 
 
 Die philosophische Perspektive betont die Rolle von Reflexion als Grundlage für Selbstbewusstsein und Erkenntnisbildung (Kant, 1781).
 
-### 2.6.3 Teilperspektive Kybernetik und transklassische Logik
-(Gotthard Günther)
+### 2.6.3 Teilperspektive Günther (transklassische Logik)
 
 Eine für psychische Systeme grundlegende Perspektive liefert Gotthard Günther in *Das Bewußtsein der Maschinen* (Günther, 1963/2021). Günther entwickelt eine transklassische, mehrwertige Logik, in deren Zentrum der Reflexionsprozess als Strukturmoment des Bewusstseins steht. Reflexion wird hier nicht als psychologische Fähigkeit verstanden, sondern als ontologische Zweiwertigkeit des Ich, das niemals vollständig mit sich selbst identisch ist. 
 
@@ -554,14 +557,43 @@ Die Existenz von $\Phi: D \to B \times B$ ist schwach gefordert (jede sinnvolle 
 | Prozessform (Günther) | Reflexionsidentität, Zweiwertigkeit, gebrochene Identität | psychische Systeme |
 | Systemvergleich | unterschiedliche Prozessformen derselben Operation | optische Reflexion, reaktive Rückwirkung, autopoietische Schleife, regulativer Selbstbezug, Reflexionsidentität, kommunikative Selbstbeobachtung |
 
-## 2.6 Perspektive: Soziale Systeme
+
+### 2.6.4 Teilperspektive Kybernetik
+
+Die Kybernetik liefert die ersten systematischen Beschreibungen reflexiver Operationen im Sinne von Selbstbezüglichkeit und Rückkopplung. Dabei wird Reflexion nicht als psychologischer Prozess verstanden, sondern als strukturelle Operation eines Systems auf eigene Zustände oder eigene Beobachtung.
+
+#### 2.6.4.1 Norbert Wiener – Rückkopplung als Grundform reflexiver Systeme
+
+Wiener (1948) beschreibt Rückkopplung („feedback“) als die grundlegende Operation, durch die Maschinen und Organismen ihr Verhalten anhand eigener Outputs modifizieren. Obwohl der Begriff Reflexion nicht explizit verwendet wird, stellt Rückkopplung die erste formal beschreibbare Form der Selbstbezüglichkeit dar, die später zur Reflexion zweiter Ordnung weitergeführt wird. Die systemische Logik lautet: Ein System reagiert auf die Wirkung seiner eigenen Aktionen und erzeugt so eine regulierte Veränderung.
+
+#### 2.6.4.2 W. Ross Ashby – Reflexion als Stabilitätsoperator
+
+Ashby (1956) entwickelt das Konzept selbstregulierender Systeme, in denen eine Rückwirkung auf eigene Zustände erfolgt. Er unterscheidet negative und positive Rückkopplung und zeigt, dass jedes stabile System operative Selbstbezüglichkeit benötigt. Reflexion erscheint hier als Transformation eigener Zustände entlang interner Strukturen – eine frühe explizite Form systemischer Reflexion.
+
+#### 2.6.4.3 Heinz von Foerster – Reflexion zweiter Ordnung
+
+Von Foerster (1974, 1981) führt den Begriff „reflexive Systeme“ explizit ein. Reflexion bedeutet hier: Ein System beobachtet sich selbst beim Beobachten. Diese Beobachtung zweiter Ordnung ist der erste präzise kybernetische Reflexionsbegriff. Reflexion wird als Operation verstanden, die die eigene Operation zum Gegenstand macht („self-observing systems“). Die Unterscheidung zwischen Beobachtung erster und zweiter Ordnung macht Reflexion als eigene Systemoperation sichtbar.
+
+#### 2.6.4.4 George Spencer Brown – Re-entry als formalisierte Reflexion
+
+In „Laws of Form“ (1969) beschreibt Spencer Brown die Operation des Re-entry: Eine Form wird in dieselbe Unterscheidung wieder eingeführt, die sie hervorbringt. Re-entry ist formal eine Reflexionsoperation: die Rückführung einer Unterscheidung auf sich selbst. Dies ist die erste logische Formalisierung reflexiver Selbstbezüglichkeit, die später bei Luhmann aufgegriffen wird.
+
+#### 2.6.4.5 Maturana & Varela – Reflexion als autopoietische Selbstbezüglichkeit
+
+In der Autopoiesis-Theorie (1972–1984) beschreiben Maturana und Varela lebende Systeme als operativ geschlossene Einheiten, die ihre eigenen Elemente produzieren. Reflexion erscheint als strukturelle Kopplung innerer Prozesse: Das System verändert sich aufgrund eigener Operationen. Reflexion ist hier keine mentale Fähigkeit, sondern ein systemischer Mechanismus der Selbsterhaltung.
+
+#### 2.6.4.6 Systematische Bedeutung für die Elementar‑Operation Reflexion
+
+Die kybernetische Perspektive zeigt, dass Reflexion als Operation nicht erst im psychischen System entsteht. Kybernetische Modelle liefern die ersten expliziten Beschreibungen reflexiver Selbstbezüglichkeit, die später von Günther formal und von Luhmann soziologisch ausdifferenziert werden. Die Kybernetik bildet damit die historische und konzeptionelle Brücke zwischen naturwissenschaftlichen Rückkopplungsoperationen und bewusstseins‑ bzw. kommunikationstheoretischen Reflexionsprozessen.
 
 
-### 2.6.1 Teilperspektive Systemtheorie
+### 2.6.5 Teilperspektive Systemtheorie
 
 In der Systemtheorie wird Reflexion als Mechanismus beschrieben, durch den Systeme Feedback verarbeiten.  
 - **Niklas Luhmann** (1984): Reflexion ermöglicht es sozialen Systemen, ihre Umwelt zu beobachten und sich selbst daran anzupassen.  
 - Reflexion ist hier ein zirkulärer Prozess, der Bedeutungen konstruiert und die Systemstruktur weiterentwickelt.  
+
+Systemtheoretisch ist Reflexion die systemtypische Prozessform der Elementar‑Operationen: Feedback liefert die Differenz, Reflexion verarbeitet sie rekursiv im System, Re‑entry integriert das Ergebnis in die laufende Kommunikation. In sozialen Systemen ist das genau der Übergang von Beobachtung (Feedback) zu Selbstbeobachtung (Reflexion) und weiter zur Strukturänderung (Re‑entry).
 
 Die systemtheoretische Perspektive erweitert den Begriff auf kollektive und adaptive Prozesse in sozialen und emergenten Systemen.
 
@@ -583,7 +615,7 @@ nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht ex
 
 - **Physikalisch**: Optische Reflexion – Licht trifft auf eine Oberfläche und wird an diese zurückgeworfen; die Operation ist eine unmittelbare Rückführung des Outputs auf das System.
 - **Chemisch**: Reaktive Rückwirkungen – ein Reaktionsprodukt verändert die weitere Reaktionsgeschwindigkeit (autokatalytische oder inhibierende Effekte).
-- **Biologisch**: Homöostase – hormonelle Regelkreise gleichen Abweichungen durch Rückkopplung aus.
+- **Biologisch**: Hormonelle Regelkreise (z. B. Hypothalamus‑Hypophysen‑Achse) als Reflexionsvorgang; Homöostase ist der resultierende Effekt.
 - **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten.
 - **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form. Zudem: Eine Person ringt mit widersprüchlichen Selbstzuschreibungen („Ich bin kompetent“ vs. „Ich habe versagt“) und erlebt die Zweiwertigkeit des Selbst als gebrochene Identität (Günther).
 - **Sozial**: Organisation evaluiert eigene Kommunikationsmuster und ändert Entscheidungsprozesse (kommunikative Selbstbeobachtung).
@@ -631,6 +663,7 @@ Reflexion beschreibt als Elementaroperation den systemischen Selbstbezug zweiter
 - Lemmon, M. A., & Schlessinger, J. (2010). Cell signaling by receptor tyrosine kinases. *Cell*, 141(7), 1117–1134.
 - Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel.
 - von Foerster, H. (1984). *Observing Systems*. Intersystems.
+von Foerster, H. (1974). *Cybernetics of Cybernetics*. University of Illinois / Biological Computer Laboratory.
 - Shannon, C. E., & Weaver, W. (1949). *The Mathematical Theory of Communication*. University of Illinois Press.
 - Luhmann, N. (1984). *Soziale Systeme: Grundriss einer allgemeinen Theorie*. Frankfurt am Main: Suhrkamp.  
 - Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
