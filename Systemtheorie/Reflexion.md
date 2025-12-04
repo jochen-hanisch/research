@@ -9,8 +9,6 @@ tags:
   - Systemtheorie
   - Metakognition
 project: Systemlernen
-type:
-  - Wissenschaftliche Notiz
 ---
 
 createdt: 13.12.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Reflexion.md): | [publishd](https://zenodo.org/records/16174315): 10.1.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) |  [[Hinweise]]
