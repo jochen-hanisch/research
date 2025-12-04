@@ -32,14 +32,14 @@ Der Begriff Reflexion bezieht sich auf den systemischen Prozess, durch den Feedb
 **Größter gemeinsamer Teiler (GGT) Reflexion:** selbstreferenzieller Transformationszyklus zweiter Ordnung mit fünf invarianten Merkmalen, die alle Perspektiven teilen:
 
 1. Differenzimpuls ([[Feedback]]) als Auslöser.
-2. Interne Inversion/Bewertung entlang systemeigener Struktur ([[Reflexion]]).
-3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation (Re-entry).
+2. Interne Inversion/Bewertung entlang systemeigener Struktur (Reflexion).
+3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation ([[Re-entry]]).
 4. Strukturkopplung: Zugriff auf eigene Struktur und Möglichkeit ihrer Modifikation (Luhmann, 1984; Günther, 1963/2021).
 5. Persistenz: Das System verhält sich danach anders (Lernen/Anpassung).
 
 Damit ist GGT > KGN: Er fordert die vollständige Schleife, expliziten Selbstbezug und bleibende Strukturwirkung (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
 
-**Kongruenz/Abgrenzung:** KGN benennt den minimalen Kern (Differenzimpuls + interne Transformation). GGT ergänzt die nötigen Anschlussbedingungen, damit Reflexion empirisch als Lernen/Anpassung nachweisbar wird (Re-entry, Strukturkopplung, Persistenz). Beide sind konsistent: Jeder GGT-Fall enthält den KGN, aber nicht jeder KGN-Fall erfüllt die erweiterten GGT-Bedingungen (z. B. fehlende Persistenz).
+**Kongruenz/Abgrenzung:** KGN benennt den minimalen Kern (Differenzimpuls + interne Transformation). GGT ergänzt die nötigen Anschlussbedingungen, damit Reflexion empirisch als Lernen/Anpassung nachweisbar wird ([[Re-entry]], Strukturkopplung, Persistenz). Beide sind konsistent, d.h. jeder GGT-Fall enthält den KGN, aber nicht jeder KGN-Fall erfüllt die erweiterten GGT-Bedingungen (z.B. fehlende Persistenz).
 
 # 2 Herleitung
 
@@ -78,7 +78,7 @@ $$
 
 Diese Gleichung zeigt, dass Reflexion eine strukturelle Transformation darstellt. Der einfallende Impuls wird anhand der Systemstruktur (Flächennormale, Material, Geometrie) invertiert und als neuer Impuls zurückgegeben. Damit ist (1) die formal-physikalische Entsprechung der Elementar‑Operation Reflexion. Ein externer Differenzimpuls (Feedback) wird systemintern prozessiert (Reflexion) und in transformierter Form ausgegeben (Reentry, sofern Rückwirkung auf die Quelle entsteht).
 
-Das Medium führt also eine elementare Operation aus, die einer Inversion ähnelt: Der Strahl wird nicht erzeugt, sondern strukturell umgelenkt.
+Das Medium führt also eine elementare Operation aus, die einer Inversion ähnelt. Der Strahl wird nicht erzeugt, sondern strukturell umgelenkt.
 
 Empirischer Anker: Laser auf Planspiegel, Messung von Einfalls- und Ausfallswinkel mit Goniometer; die Winkeltreue bestätigt, dass die Grenzfläche ihren Zustand (Material/Geometrie) als Operator ausführt.
 
@@ -88,7 +88,7 @@ Für die Theorie der Elementar‑Operationen bedeutet das:
 - Der einfallende Strahl fungiert als Feedback‑Impuls.
 - Die Rücklenkung ist die Ausführung der Operation Reflexion in ihrer basalsten Form.
 
-Physikalische Reflexion ist damit weniger eine mathematische Abbildung als vielmehr eine systemische Struktur: Ein System reagiert auf einen externen Impuls, indem es diesen entlang seiner eigenen Struktur anders zurückgibt. Diese Strukturhaftigkeit – nicht die Geometrie an sich – ist der Anschluss an die universale Elementar‑Operation Reflexion.
+Physikalische Reflexion ist damit weniger eine mathematische Abbildung als vielmehr eine systemische Struktur: Ein System reagiert auf einen externen Impuls, indem es diesen entlang seiner eigenen Struktur anders zurückgibt. Diese Strukturhaftigkeit, und nicht die Geometrie an sich, ist der Anschluss an die universale Elementar‑Operation Reflexion.
 
 ### 2.1.3 Reguläre, diffuse und strukturierte Reflexion
 
@@ -98,7 +98,7 @@ Harten (2024) unterscheidet drei grundlegende Ausprägungen physikalischer Refle
 2. **Reguläre Reflexion**: glänzende Flächen erzeugen eine klare, winkeltreue Rücklenkung des Strahls; Grenzfall ist der ideale Spiegel (Harten, 2024, S. 313).  
 3. **Strukturierte Reflexion**: Lenkung durch Krümmung, z. B. konvexe oder konkave Spiegel, die Öffnungswinkel erweitern oder fokussieren (Harten, 2024, S. 314f.).
 
-Alle diese Formen sind Varianten derselben Operation: ein ausbreitender Impuls trifft auf eine strukturierte Systemgrenzfläche und wird entsprechend ihrer Geometrie transformiert.
+Alle diese Formen sind Varianten derselben Operation, also ein ausbreitender Impuls trifft auf eine strukturierte Systemgrenzfläche und wird entsprechend ihrer Geometrie transformiert.
 
 ### 2.1.4 Bildentstehung: Virtuell und reell
 
@@ -583,6 +583,7 @@ Von Foerster (1974, 1981) führt den Begriff „reflexive Systeme“ explizit ei
 #### 2.6.4.4 George Spencer Brown – Re-entry als formalisierte Reflexion
 
 In „Laws of Form“ (1969) beschreibt Spencer Brown die Operation des Re-entry: Eine Form wird in dieselbe Unterscheidung wieder eingeführt, die sie hervorbringt. Re-entry ist formal eine Reflexionsoperation: die Rückführung einer Unterscheidung auf sich selbst. Dies ist die erste logische Formalisierung reflexiver Selbstbezüglichkeit, die später bei Luhmann aufgegriffen wird.
+Re-entry ist damit eine spezielle Form der Reflexion – zugleich die konzeptionelle Basis der eigenen Elementar‑Operation Re‑entry, die über die rein reflexive Rückführung hinaus die erneute Integration in die laufende Operation bezeichnet.
 
 #### 2.6.4.5 Maturana & Varela – Reflexion als autopoietische Selbstbezüglichkeit
 
@@ -593,13 +594,13 @@ In der Autopoiesis-Theorie (1972–1984) beschreiben Maturana und Varela lebende
 Die kybernetische Perspektive zeigt, dass Reflexion als Operation nicht erst im psychischen System entsteht. Kybernetische Modelle liefern die ersten expliziten Beschreibungen reflexiver Selbstbezüglichkeit, die später von Günther formal und von Luhmann soziologisch ausdifferenziert werden. Die Kybernetik bildet damit die historische und konzeptionelle Brücke zwischen naturwissenschaftlichen Rückkopplungsoperationen und bewusstseins‑ bzw. kommunikationstheoretischen Reflexionsprozessen.
 
 
-### 2.6.5 Teilperspektive Systemtheorie
+## 2.7 Perspektive: Systemtheorie
 
 In der Systemtheorie wird Reflexion als Mechanismus beschrieben, durch den Systeme Feedback verarbeiten.  
-- **Niklas Luhmann** (1984): Reflexion ermöglicht es sozialen Systemen, ihre Umwelt zu beobachten und sich selbst daran anzupassen.  
+- Niklas Luhmann (1984): Reflexion ermöglicht es sozialen Systemen, ihre Umwelt zu beobachten und sich selbst daran anzupassen.  
 - Reflexion ist hier ein zirkulärer Prozess, der Bedeutungen konstruiert und die Systemstruktur weiterentwickelt.  
 
-Systemtheoretisch ist Reflexion die systemtypische Prozessform der Elementar‑Operationen: Feedback liefert die Differenz, Reflexion verarbeitet sie rekursiv im System, Re‑entry integriert das Ergebnis in die laufende Kommunikation. In sozialen Systemen ist das genau der Übergang von Beobachtung (Feedback) zu Selbstbeobachtung (Reflexion) und weiter zur Strukturänderung (Re‑entry).
+Systemtheoretisch ist Reflexion die systemtypische Prozessform der Elementar‑Operationen: Feedback liefert die Differenz, Reflexion verarbeitet sie rekursiv im System, Re‑entry integriert das Ergebnis in die laufende Kommunikation. In sozialen Systemen ist das genau der Übergang von Beobachtung ([[Allgemein beruflich/Research/Systemtheorie/Feedback|Feedback]]) zu Selbstbeobachtung (Reflexion) und weiter zur Strukturänderung (Re‑entry).
 
 Die systemtheoretische Perspektive erweitert den Begriff auf kollektive und adaptive Prozesse in sozialen und emergenten Systemen.
 
@@ -616,13 +617,14 @@ e^{-i H t} \tag{20}
 $$
 
 nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht extern aufgeprägt wird, sondern vom [[Interdependenzoperator]] $H$ abhängt – einem Maß für die interne Kopplungsstruktur des Systems. Die Verwendung von $e^{-iHt}$ dient hier als abstrakte, nicht-physikalische Analogie für interne Zustandsdynamik; sie soll nicht als physikalische Definition von Reflexion verstanden werden. Diese Transformation lässt sich nicht umkehren, ohne Bezug auf die interne Struktur zu nehmen. Reflexion ist somit keine externe Betrachtung, sondern ein struktureller Bestandteil der Wahrscheinlichkeitsdynamik selbst.
+Der Operator ist Teil der modelltheoretischen Analogie, nicht der naturwissenschaftlichen Herleitung der Reflexion.
 
-## 2.7 Beispiele
+## 2.8 Beispiele
 
 - **Physikalisch**: Optische Reflexion – Licht trifft auf eine Oberfläche und wird an diese zurückgeworfen; die Operation ist eine unmittelbare Rückführung des Outputs auf das System.
 - **Chemisch**: Reaktive Rückwirkungen – ein Reaktionsprodukt verändert die weitere Reaktionsgeschwindigkeit (autokatalytische oder inhibierende Effekte).
 - **Biologisch**: Hormonelle Regelkreise (z. B. Hypothalamus‑Hypophysen‑Achse) als Reflexionsvorgang; Homöostase ist der resultierende Effekt.
-- **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten.
+- **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten; Re-entry zeigt sich als nachhaltige Anpassung von Schwellen, Routinen oder Morphologie (z. B. Schmerzvermeidung, Gewöhnung, Plastizität).
 - **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form. Zudem: Eine Person ringt mit widersprüchlichen Selbstzuschreibungen („Ich bin kompetent“ vs. „Ich habe versagt“) und erlebt die Zweiwertigkeit des Selbst als gebrochene Identität (Günther).
 - **Sozial**: Organisation evaluiert eigene Kommunikationsmuster und ändert Entscheidungsprozesse (kommunikative Selbstbeobachtung).
 - **Technisch/KI**: Reinforcement-Learning-Agent passt Policy nach Reward-Feedback an; Reflexion als Anpassung des internen Modells.
