@@ -29,7 +29,17 @@ Der Begriff Reflexion bezieht sich auf den systemischen Prozess, durch den Feedb
 
 **Kleinster gemeinsamer Nenner (KGN) Reflexion:** interne Verarbeitung eines Differenzimpulses ([[Feedback]]) als Selbstbezug zweiter Ordnung; das System transformiert eigene Zustände/Operationen entlang seiner Struktur. Vgl. [[Elementaroperationen]], [[Elementarkommunikation]].
 
-**Größter gemeinsamer Teiler (GGT) Reflexion:** (1) basiert auf einem Differenzimpuls ([[Feedback]]), (2) wird intern invertiert/bewertet/transformiert entlang systemeigener Struktur ([[Reflexion]]), (3) wirkt in laufende Operationen/Struktur zurück (Re-entry). Diese Dreigliederung bleibt systemunabhängig (Luhmann, 1984; Schön, 1983).
+**Größter gemeinsamer Teiler (GGT) Reflexion:** selbstreferenzieller Transformationszyklus zweiter Ordnung mit fünf invarianten Merkmalen, die alle Perspektiven teilen:
+
+1. Differenzimpuls ([[Feedback]]) als Auslöser.
+2. Interne Inversion/Bewertung entlang systemeigener Struktur ([[Reflexion]]).
+3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation (Re-entry).
+4. Strukturkopplung: Zugriff auf eigene Struktur und Möglichkeit ihrer Modifikation (Luhmann, 1984; Günther, 1963/2021).
+5. Persistenz: Das System verhält sich danach anders (Lernen/Anpassung).
+
+Damit ist GGT > KGN: Er fordert die vollständige Schleife, expliziten Selbstbezug und bleibende Strukturwirkung (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
+
+**Kongruenz/Abgrenzung:** KGN benennt den minimalen Kern (Differenzimpuls + interne Transformation). GGT ergänzt die nötigen Anschlussbedingungen, damit Reflexion empirisch als Lernen/Anpassung nachweisbar wird (Re-entry, Strukturkopplung, Persistenz). Beide sind konsistent: Jeder GGT-Fall enthält den KGN, aber nicht jeder KGN-Fall erfüllt die erweiterten GGT-Bedingungen (z. B. fehlende Persistenz).
 
 # 2 Herleitung
 
@@ -616,6 +626,8 @@ nieder. Der Ausdruck beschreibt eine zeitabhängige Transformation, die nicht ex
 - **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form. Zudem: Eine Person ringt mit widersprüchlichen Selbstzuschreibungen („Ich bin kompetent“ vs. „Ich habe versagt“) und erlebt die Zweiwertigkeit des Selbst als gebrochene Identität (Günther).
 - **Sozial**: Organisation evaluiert eigene Kommunikationsmuster und ändert Entscheidungsprozesse (kommunikative Selbstbeobachtung).
 - **Technisch/KI**: Reinforcement-Learning-Agent passt Policy nach Reward-Feedback an; Reflexion als Anpassung des internen Modells.
+
+Alle Beispiele erfüllen den KGN (Differenzimpuls + interne Transformation). Der GGT ist erfüllt, wenn Re-entry/Strukturkopplung/Persistenz belegbar ist: physikalisch nur im Rückführungsfall (Katzenauge), chemisch/biologisch/lebend durch regulatorische Setpoints, psychisch durch veränderte Selbst-/Handlungsprogramme, sozial durch beschlossene Strukturänderungen, technisch durch persistente Policy-Updates.
 
 # 3 Folgerungen
 
