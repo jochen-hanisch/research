@@ -23,23 +23,20 @@ Reflexion ist zugleich Teil des Dreier-Modells der Elementaroperationen (Feedbac
 
 # 1 Definition
 
-Der Begriff Reflexion bezieht sich auf den systemischen Prozess, durch den Feedback interpretiert, bewertet und in Bedeutungen umgewandelt wird (Schön, 1983). Er ist durch die Merkmale der Bewusstheit, Multidimensionalität und Transformation gekennzeichnet. Reflexion wird in Kontexten wie Bildung, Psychologie und Systemtheorie verwendet und trägt zu nachhaltigem Lernen, Anpassungsfähigkeit und der Entwicklung von Systemen bei (Hattie & Timperley, 2007).
+**Reflexion** ist die kleinste nicht weiter zerlegbare Operation, in der ein System auf eine zuvor erzeugte Differenz in seinen eigenen Zuständen zurückwirkt und sie intern transformiert. Sie bildet die operative Genese von Selbstbezug, indem sie eine systemeigene Inversion des Differenzimpulses hervorbringt.
 
-**Reflexion als Elementaroperation (Operation vs. Prozess):** In der Theorie der Elementaroperationen bezeichnet Reflexion die kleinste nicht weiter zerlegbare Operation, in der ein System auf eigene Zustände zurückwirkt (Feedback → Inversion → Reflexion → Re-Inversion → Reentry). Diese Operation liefert die operative Genese von Selbstbezug. Davon zu unterscheiden ist die prozessuale Form der Reflexion in psychischen Systemen (Günther), die beschreibt, wie diese Operation dort strukturell erscheint (Reflexionsidentität, Zweiwertigkeit, Selbstbruch). Der kleinste gemeinsame Nenner bleibt: ein System bezieht sich auf eigene Operationen und transformiert sie.
+## 1.1 Einordnung und Struktur
 
-**Kleinster gemeinsamer Nenner (KGN) Reflexion:** interne Verarbeitung eines Differenzimpulses ([[Feedback]]) als Selbstbezug zweiter Ordnung; das System transformiert eigene Zustände/Operationen entlang seiner Struktur. Vgl. [[Elementaroperationen]], [[Elementarkommunikation]].
+**Kleinster gemeinsamer Nenner (KGN):** interne Verarbeitung eines Differenzimpulses ([[Feedback]]) als Selbstbezug zweiter Ordnung; das System transformiert eigene Zustände/Operationen entlang seiner Struktur (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
 
-**Größter gemeinsamer Teiler (GGT) Reflexion:** selbstreferenzieller Transformationszyklus zweiter Ordnung mit fünf invarianten Merkmalen, die alle Perspektiven teilen:
-
-1. Differenzimpuls ([[Feedback]]) als Auslöser.
-2. Interne Inversion/Bewertung entlang systemeigener Struktur (Reflexion).
-3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation ([[Re-entry]]).
-4. Strukturkopplung: Zugriff auf eigene Struktur und Möglichkeit ihrer Modifikation (Luhmann, 1984; Günther, 1963/2021).
+**Größter gemeinsamer Teiler (GGT):** selbstreferenzieller Transformationszyklus zweiter Ordnung mit fünf invarianten Merkmalen:
+1. Differenzimpuls ([[Feedback]]) als Auslöser.  
+2. Interne Inversion/Bewertung entlang systemeigener Struktur ([[Reflexion]]).  
+3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation ([[Re-entry]]).  
+4. Strukturkopplung: Zugriff auf eigene Struktur und Möglichkeit ihrer Modifikation.  
 5. Persistenz: Das System verhält sich danach anders (Lernen/Anpassung).
 
-Damit ist GGT > KGN: Er fordert die vollständige Schleife, expliziten Selbstbezug und bleibende Strukturwirkung (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
-
-**Kongruenz/Abgrenzung:** KGN benennt den minimalen Kern (Differenzimpuls + interne Transformation). GGT ergänzt die nötigen Anschlussbedingungen, damit Reflexion empirisch als Lernen/Anpassung nachweisbar wird ([[Re-entry]], Strukturkopplung, Persistenz). Beide sind konsistent, d.h. jeder GGT-Fall enthält den KGN, aber nicht jeder KGN-Fall erfüllt die erweiterten GGT-Bedingungen (z.B. fehlende Persistenz).
+KGN benennt den minimalen Kern (Differenzimpuls + interne Transformation). GGT ergänzt die Anschlussbedingungen, damit Reflexion empirisch als Lernen/Anpassung nachweisbar wird (Re-entry, Strukturkopplung, Persistenz). Jeder GGT-Fall enthält den KGN, aber nicht jeder KGN-Fall erfüllt die erweiterten GGT-Bedingungen.
 
 # 2 Herleitung
 
