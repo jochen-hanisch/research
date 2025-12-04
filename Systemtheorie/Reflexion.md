@@ -491,14 +491,14 @@ Die dreiwertige Reflexionslogik Günthers (Tafeln I–IV) lässt sich modelltheo
 Sei ein System $S$ mit Zustandsraum $X$ gegeben. Der Feedback‑Operator
 
 $$
-F: X \times U \to X
+G: X \times U \to X
 \tag{14}
 $$
 
 führt zu einer Veränderung des Systemzustands. Entscheidend ist die dadurch induzierte Differenz
 
 $$
-\Delta_F(x, u) := \delta(x, F(x,u)),
+\Delta_G(x, u) := \delta(x, G(x,u)),
 \tag{15}
 $$
 
@@ -537,10 +537,10 @@ $$
 \tag{18}
 $$
 
-definieren, welche die durch Feedback erzeugte Differenz $\Delta_F(x,u)$ in zwei interne Bewertungen überführt. Damit ergibt sich die Komposition:
+definieren, welche die durch Feedback erzeugte Differenz $\Delta_G(x,u)$ in zwei interne Bewertungen überführt. $\Phi$ fungiert damit als interner Bewertungsoperator, der Differenzen in duale Perspektiven überführt; es handelt sich um eine modelltheoretische Rekonstruktion, keine exakte Replikation der Tafeln. Damit ergibt sich die Komposition:
 
 $$
-R := r \circ \Phi \circ \Delta_F : X \times U \to T.
+R := r \circ \Phi \circ \Delta_G : X \times U \to T.
 \tag{19}
 $$
 
@@ -548,7 +548,7 @@ Diese Abbildung liefert genau jene Dreiwertigkeit, die Günther als „Reflexion
 
 **Proposition (strukturelle Kopplung)**
 
-Für jedes System ($S$) mit einem Feedback‑Operator ($F$) existiert eine Abbildung ($\Phi$), so dass eine Günther‑artige Reflexionslogik ($R$) konstruiert werden kann. Damit ist jede dreiwertige Reflexionsdifferenz logisch auf einen durch Feedback erzeugten Differenzimpuls rückführbar.
+Für jedes System ($S$) mit einem Feedback‑Operator ($G$) existiert eine Abbildung ($\Phi$), so dass eine Günther‑artige Reflexionslogik ($R$) konstruiert werden kann. Damit ist jede dreiwertige Reflexionsdifferenz logisch auf einen durch Feedback erzeugten Differenzimpuls rückführbar.
 
 > [!note] Diese Beweisführung zeigt:
 Günthers Reflexionslogik ist die systemtypische Form der durch Feedback induzierten Differenzverarbeitung im psychischen System.
@@ -582,8 +582,9 @@ Von Foerster (1974, 1981) führt den Begriff „reflexive Systeme“ explizit ei
 
 #### 2.6.4.4 George Spencer Brown – Re-entry als formalisierte Reflexion
 
-In „Laws of Form“ (1969) beschreibt Spencer Brown die Operation des Re-entry: Eine Form wird in dieselbe Unterscheidung wieder eingeführt, die sie hervorbringt. Re-entry ist formal eine Reflexionsoperation: die Rückführung einer Unterscheidung auf sich selbst. Dies ist die erste logische Formalisierung reflexiver Selbstbezüglichkeit, die später bei Luhmann aufgegriffen wird.
-Re-entry ist damit eine spezielle Form der Reflexion – zugleich die konzeptionelle Basis der eigenen Elementar‑Operation Re‑entry, die über die rein reflexive Rückführung hinaus die erneute Integration in die laufende Operation bezeichnet.
+In „Laws of Form“ (1969) beschreibt Spencer Brown die Operation des Re-entry: Eine Form wird in dieselbe Unterscheidung wieder eingeführt, die sie hervorbringt. [[Re-entry]] ist formal eine Reflexionsoperation: die Rückführung einer Unterscheidung auf sich selbst. Dies ist die erste logische Formalisierung reflexiver Selbstbezüglichkeit, die später bei Luhmann aufgegriffen wird.
+Re-entry bleibt damit nicht identisch mit der Elementar‑Operation Reflexion, sondern ist eine spezifische, in die laufende Unterscheidung rückführende Form, die zugleich die Grundlage der Elementar‑Operation [[Re-entry]] bildet.
+[[Re-entry]] ist damit eine spezielle Form der Reflexion – zugleich die konzeptionelle Basis der eigenen Elementar‑Operation Re‑entry, die über die rein reflexive Rückführung hinaus die erneute Integration in die laufende Operation bezeichnet.
 
 #### 2.6.4.5 Maturana & Varela – Reflexion als autopoietische Selbstbezüglichkeit
 
@@ -624,25 +625,40 @@ Der Operator ist Teil der modelltheoretischen Analogie, nicht der naturwissensch
 - **Physikalisch**: Optische Reflexion – Licht trifft auf eine Oberfläche und wird an diese zurückgeworfen; die Operation ist eine unmittelbare Rückführung des Outputs auf das System.
 - **Chemisch**: Reaktive Rückwirkungen – ein Reaktionsprodukt verändert die weitere Reaktionsgeschwindigkeit (autokatalytische oder inhibierende Effekte).
 - **Biologisch**: Hormonelle Regelkreise (z. B. Hypothalamus‑Hypophysen‑Achse) als Reflexionsvorgang; Homöostase ist der resultierende Effekt.
-- **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten; Re-entry zeigt sich als nachhaltige Anpassung von Schwellen, Routinen oder Morphologie (z. B. Schmerzvermeidung, Gewöhnung, Plastizität).
+- **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten; [[Re-entry]] zeigt sich als nachhaltige Anpassung von Schwellen, Routinen oder Morphologie (z. B. Schmerzvermeidung, Gewöhnung, Plastizität).
 - **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form. Zudem: Eine Person ringt mit widersprüchlichen Selbstzuschreibungen („Ich bin kompetent“ vs. „Ich habe versagt“) und erlebt die Zweiwertigkeit des Selbst als gebrochene Identität (Günther).
 - **Sozial**: Organisation evaluiert eigene Kommunikationsmuster und ändert Entscheidungsprozesse (kommunikative Selbstbeobachtung).
 - **Technisch/KI**: Reinforcement-Learning-Agent passt Policy nach Reward-Feedback an; Reflexion als Anpassung des internen Modells.
 
 Alle Beispiele erfüllen den KGN (Differenzimpuls + interne Transformation). Der GGT ist erfüllt, wenn Re-entry/Strukturkopplung/Persistenz belegbar ist: physikalisch nur im Rückführungsfall (Katzenauge), chemisch/biologisch/lebend durch regulatorische Setpoints, psychisch durch veränderte Selbst-/Handlungsprogramme, sozial durch beschlossene Strukturänderungen, technisch durch persistente Policy-Updates.
 
-## 2.9 Abstrakte Grundgleichung der Reflexion
+## 2.9 Grundgleichung der Reflexion (Beweis)
 
-Aus der Elementaroperations-Schleife lässt sich eine modelltheoretische Grundgleichung formulieren, ohne physikalischen Anspruch, aber mit universeller Struktur:
+Herleitung aus den vorangegangenen Kapiteln und Formeln (KGN/GGT, 2.6.3.4):
+
+- KGN liefert die Minimalkette: Differenzimpuls ([[Feedback]]) → interne Transformation (Reflexion) → (optional) Integration ([[Re-entry]]).
+- GGT ergänzt Strukturkopplung und Persistenz.
+- Bausteine aus 2.6.3.4: $\Delta_G : X \times U \to D$ (Differenzoperator), $\Phi : D \to B \times B$ (interne Zuordnung), $r : B \times B \to T$ (Reflexionsklassifikator).
+
+**Behauptung:** Der Reflexionsoperator $R := r \circ \Phi \circ \Delta_G : X \times U \to T$ ist wohldefiniert und liefert für jedes $(x_t,u_t)$ eine reflexive Klassifikation in $T$.
+
+**Beweis:**
+
+(1) Für jedes $(x_t,u_t)$ ist $\Delta_G(x_t,u_t) \in D$ definiert.  
+(2) $\Phi(\Delta_G(x_t,u_t)) \in B \times B$ ist definiert, da $\Phi$ auf $D$ wirkt.  
+(3) $r(\Phi(\Delta_G(x_t,u_t))) \in T$ ist definiert, da $r$ auf $B \times B$ wirkt.  
+(4) Damit ist $R = r \circ \Phi \circ \Delta_G$ für alle $(x_t,u_t)$ wohldefiniert. Q.e.d.
+
+Korollar (optionale Zustandsintegration): Wird der Output von $R$ in eine Zustandsaktualisierung integriert, so ergibt sich die modelltheoretische Struktur:
 
 $$
-x_{t+1} = E\!\big(R(F(x_t, u_t))\big)
+x_{t+1} = E\!\big(R(x_t, u_t)\big)
 \tag{21}
 $$
 
 - $u_t$: Differenzimpuls/Feedback;  
-- $F$: Feedback-Operator erzeugt Differenz $\Delta$ aus Zustand und Impuls;  
-- $R$: Reflexionsoperator transformiert/invertiert/bewertet $\Delta$ entlang systemeigener Struktur;  
+- $G$: Feedback-Operator erzeugt Differenz $\Delta_G$ aus Zustand und Impuls;  
+- $R$: Reflexionsoperator $r \circ \Phi \circ \Delta_G$ transformiert/invertiert/bewertet die Differenz entlang systemeigener Struktur;  
 - $E$ (Re-entry): integriert das Ergebnis in die laufende Operation/Struktur.
 
 In kontinuierlicher Form lässt sich eine Zustandsdynamik mit Reflexionsglied schreiben als
@@ -652,37 +668,37 @@ $$
 \tag{22}
 $$
 
-wobei $h(x)$ die interne Beobachtung liefert (Differenz), $g$ die reflexive Transformation darstellt und der Summand $g$ über Re-entry in $f$ zurückwirkt. Beide Formen (21) und (22) sind abstrakte Strukturmodelle, keine naturwissenschaftlichen Gesetze der Reflexion. Sie zeigen aber, dass jede Perspektive auf Reflexion als Komposition aus Differenz, interner Transformation und Reintegration modellierbar ist (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
+wobei $h(x)$ die interne Beobachtung liefert (Differenz), $g$ die reflexive Transformation darstellt und der Summand $g$ über [[Re-entry]] in $f$ zurückwirkt. Beide Formen (21) und (22) sind abstrakte Strukturmodelle und zeigen dass jede Perspektive auf Reflexion als Komposition aus Differenz, interner Transformation und Reintegration modellierbar ist ([[Elementaroperationen]], [[Elementarkommunikation]]).
 
 # 3 Folgerungen
 
-Die Folgerungen ergeben sich direkt aus der Elementaroperations-Schleife ([[Feedback]] → [[Reflexion]] → [[Re-entry]]): Ohne Differenzimpuls keine interne Verarbeitung, ohne Reflexion keine Bewertung, ohne Re-entry keine Integration. In der Bildung zeigt sich das als metakognitive Lernschleife: Lernende erhalten Rückmeldung, reflektieren sie bewusst (Schön, 1983; Hattie & Timperley, 2007) und führen sie als angepasstes Handeln wieder ein. Damit erklärt die Theorie, warum reine Rückmeldung ohne Reflexion nur kurzfristig wirkt und warum Reflexion ohne Re-entry verpufft – erst die Kombination stabilisiert Lernen ([[Elementaroperationen]], [[Elementarkommunikation]]).
+Die Folgerungen ergeben sich direkt aus der Elementaroperations-Schleife ([[Feedback]] → Reflexion → [[Re-entry]]): Ohne Differenzimpuls keine interne Verarbeitung, ohne Reflexion keine Bewertung, ohne [[Re-entry]] keine Integration. In der Bildung zeigt sich das als metakognitive Lernschleife: Lernende erhalten Rückmeldung, reflektieren sie bewusst (Schön, 1983; Hattie & Timperley, 2007) und führen sie als angepasstes Handeln wieder ein. Damit erklärt die Theorie, warum reine Rückmeldung ohne Reflexion nur kurzfristig wirkt und warum Reflexion ohne [[Re-entry]] verpufft – erst die Kombination stabilisiert Lernen ([[Elementaroperationen]], [[Elementarkommunikation]]).
 
-Soziale Systeme reproduzieren Sinn über Kommunikation und Selbstbeobachtung. Reflexion bezeichnet hier die Beobachtung der eigenen Beobachtung (Luhmann, 1984) und ist auf fortlaufendes Feedback aus Umwelt und internen Kommunikationen angewiesen. Re-entry beschreibt die Wiedereinführung reflexiver Unterscheidungen in laufende Kommunikation; ohne diesen Schritt bleiben Einsichten folgenlos. Damit wird verständlich, warum Organisationen nur dann adaptiv bleiben, wenn Feedback institutionalisiert, Reflexion kollektiv ermöglicht und Re-entry strukturell gesichert ist (z. B. Qualitätszirkel, Reviews; vgl. [[Beobachtung dritter Ordnung]], [[Professionalisierung]]).
+Soziale Systeme reproduzieren Sinn über Kommunikation und Selbstbeobachtung. Reflexion bezeichnet hier die Beobachtung der eigenen Beobachtung (Luhmann, 1984) und ist auf fortlaufendes Feedback aus Umwelt und internen Kommunikationen angewiesen. [[Re-entry]] beschreibt die Wiedereinführung reflexiver Unterscheidungen in laufende Kommunikation; ohne diesen Schritt bleiben Einsichten folgenlos. Damit wird verständlich, warum Organisationen nur dann adaptiv bleiben, wenn Feedback institutionalisiert, Reflexion kollektiv ermöglicht und [[Re-entry]] strukturell gesichert ist (z.B. Qualitätszirkel, Reviews; [[Beobachtung dritter Ordnung]], [[Professionalisierung]]).
 
-Für technische/KI-Systeme ist die Schleife formal abbildbar: In Reinforcement Learning fungiert Reward als Feedback, das Modellupdate als Reflexion und die neue Policy als Re-entry in die Umweltinteraktion (Dayan & Abbott, 2001). Dieselbe Struktur gilt für dynamische Regelungen oder adaptive Simulationen ([[Systemsimulation]]): Ohne explizite Reflexionsschicht bleiben Modelle statisch, ohne Re-entry wirken Updates nicht auf das Verhalten.
+Für technische/KI-Systeme ist die Schleife formal abbildbar: In Reinforcement Learning fungiert Reward als Feedback, das Modellupdate als Reflexion und die neue Policy als [[Re-entry]] in die Umweltinteraktion (Dayan & Abbott, 2001). Dieselbe Struktur gilt für dynamische Regelungen oder adaptive Simulationen ([[Systemsimulation]]): Ohne explizite Reflexionsschicht bleiben Modelle statisch, ohne [[Re-entry]] wirken Updates nicht auf das Verhalten.
 
 Elementaroperations-Architektur: Die Theorie begründet, warum Reflexion immer eingebettet ist und nicht als isolierte Fähigkeit existiert. Der kleinste gemeinsame Nenner bleibt: System verarbeitet eigenen Differenzimpuls (Feedback), transformiert ihn (Reflexion) und führt das Ergebnis in die eigene Operation zurück (Re-entry). Der größte gemeinsame Teiler konkretisiert dies als minimale dreigliedrige Lern- und Änderungs-Schleife, die systemtypisch ausdifferenziert wird (psychisch: metakognitiv; sozial: kommunikativ; technisch: algorithmisch). Damit ist Reflexion zugleich notwendige Bedingung für nachhaltige Anpassung und hinreichende Erklärung für beobachtbare Stabilitätsgewinne in unterschiedlichen Systemtypen.
 
 # 4 Implikationen
 
-Die Implikationen der Elementaroperations-Schleife ([[Feedback]] → [[Reflexion]] → [[Re-entry]]) erstrecken sich auf mehrere Praxisfelder. In der Bildung lässt sich die Wirksamkeit von Feedback nur dann entfalten, wenn es metakognitiv verarbeitet und in Handlung übersetzt wird (Hattie & Timperley, 2007; Schön, 1983; Flavell, 1976). Reflexion fungiert dabei als bewusste Inversion des Differenzimpulses, Re-entry als erneute Einführung der Einsicht in das eigene Lernen. Curricula und Unterrichtsdesigns, die diese Schleife systematisch vorsehen, erhöhen Transfer und Selbststeuerung ([[Elementaroperationen]], [[Elementarkommunikation]]).
+Die Implikationen der Elementaroperations-Schleife ([[Feedback]] → Reflexion → [[Re-entry]]) erstrecken sich auf mehrere Praxisfelder. In der Bildung lässt sich die Wirksamkeit von Feedback nur dann entfalten, wenn es metakognitiv verarbeitet und in Handlung übersetzt wird (Hattie & Timperley, 2007; Schön, 1983; Flavell, 1976). Reflexion fungiert dabei als bewusste Inversion des Differenzimpulses, [[Re-entry]] als erneute Einführung der Einsicht in das eigene Lernen. Curricula und Unterrichtsdesigns, die diese Schleife systematisch vorsehen, erhöhen Transfer und Selbststeuerung ([[Elementaroperationen]], [[Elementarkommunikation]]).
 
-In sozialen Systemen und Organisationen markiert Reflexion den Übergang von Beobachtung erster zu zweiter Ordnung (Luhmann, 1984). Nur wenn Rückmeldungen strukturell verankert, reflexiv ausgewertet und über Re-entry in Entscheidungsprozesse zurückgeführt werden, entstehen belastbare Anpassungsleistungen (z. B. Qualitätszirkel, Retrospektiven; vgl. [[Beobachtung dritter Ordnung]], [[Professionalisierung]]). Ohne diesen Zyklus bleiben Feedbacks folgenlos oder erzeugen nur lokale Korrekturen ohne Strukturwirkung.
+In sozialen Systemen und Organisationen markiert Reflexion den Übergang von Beobachtung erster zu zweiter Ordnung (Luhmann, 1984). Nur wenn Rückmeldungen strukturell verankert, reflexiv ausgewertet und über [[Re-entry]] in Entscheidungsprozesse zurückgeführt werden, entstehen belastbare Anpassungsleistungen (z. B. Qualitätszirkel, Retrospektiven; vgl. [[Beobachtung dritter Ordnung]], [[Professionalisierung]]). Ohne diesen Zyklus bleiben Feedbacks folgenlos oder erzeugen nur lokale Korrekturen ohne Strukturwirkung.
 
-Technische und KI-Systeme benötigen dieselbe Schleifenlogik: In Reinforcement Learning liefert der Reward das Feedback, das Modellupdate bildet die Reflexion, und die angepasste Policy wirkt als Re-entry auf das Verhalten in der Umwelt (Dayan & Abbott, 2001). In adaptiven Simulationen oder Regelungen ([[Systemsimulation]]) gilt analog: Ohne explizite Reflexionsschicht stagnieren Modelle; ohne Re-entry erreichen Updates keine operative Ebene. Die Theorie erklärt damit, warum kontinuierliche Optimierung technisch nur gelingt, wenn alle drei Operationen explizit modelliert und gekoppelt sind.
+Technische und KI-Systeme benötigen dieselbe Schleifenlogik: In Reinforcement Learning liefert der Reward das Feedback, das Modellupdate bildet die Reflexion, und die angepasste Policy wirkt als [[Re-entry]] auf das Verhalten in der Umwelt (Dayan & Abbott, 2001). In adaptiven Simulationen oder Regelungen ([[Systemsimulation]]) gilt analog: Ohne explizite Reflexionsschicht stagnieren Modelle; ohne [[Re-entry]] erreichen Updates keine operative Ebene. Die Theorie erklärt damit, warum kontinuierliche Optimierung technisch nur gelingt, wenn alle drei Operationen explizit modelliert und gekoppelt sind.
 
 # 5 Kritik
 
-Die Theorie adressiert Reflexion als universale Operation, birgt aber Grenzen und offene Flanken. Erstens ist Reflexion ressourcenintensiv: Zeit, Aufmerksamkeit und kognitive Kapazität sind begrenzt (Moon, 1999). Ohne strukturelle Entlastung (z. B. Phasen, Werkzeuge) bleibt die Schleife [[Feedback]] → [[Reflexion]] → [[Re-entry]] oft unvollständig. Zweitens kann Überreflexion zu Entscheidungsparalyse führen (Dewey, 1910), wenn Bewertungszyklen länger dauern als die Handlungsspielräume erlauben; das gilt besonders in Organisationen, die hoher Umweltkomplexität ausgesetzt sind ([[Beobachtung dritter Ordnung]]).
+Die Theorie adressiert Reflexion als universale Operation, birgt aber Grenzen und offene Flanken. Erstens ist Reflexion ressourcenintensiv: Zeit, Aufmerksamkeit und kognitive Kapazität sind begrenzt (Moon, 1999). Ohne strukturelle Entlastung (z. B. Phasen, Werkzeuge) bleibt die Schleife [[Feedback]] → Reflexion → [[Re-entry]] oft unvollständig. Zweitens kann Überreflexion zu Entscheidungsparalyse führen (Dewey, 1910), wenn Bewertungszyklen länger dauern als die Handlungsspielräume erlauben; das gilt besonders in Organisationen, die hoher Umweltkomplexität ausgesetzt sind ([[Beobachtung dritter Ordnung]]).
 
-Drittens bestehen systemtypische Grenzen: In sozialen Systemen hängt der Erfolg reflexiver Programme von Anschlusskommunikation ab (Luhmann, 1984); ohne Re-entry bleiben Einsichten folgenlos. In technischen Kontexten wird Reflexion oft in Optimierungspipelines gepresst, wobei die semantische Tiefe auf Parameterupdate schrumpft; hier fehlt die Breite intentionaler Bewertung (vgl. [[Systemsimulation]]). Viertens: Philosophische Modelle (Kant, Hegel, Husserl) liefern starke Bewusstseins- und Dialektikbegriffe, aber keine operative Genese; Günther fokussiert die Prozessform im psychischen System. Die universale Operation bleibt damit erklärungsbedürftig – [[Elementaroperationen]] und [[Elementarkommunikation]] beanspruchen diese Lücke zu schließen, müssen jedoch empirisch weiter geprüft werden (Falsifizierbarkeit: Nachweis von Systemen ohne Feedback/Reflexion/Re-entry steht aus).
+Drittens bestehen systemtypische Grenzen: In sozialen Systemen hängt der Erfolg reflexiver Programme von Anschlusskommunikation ab (Luhmann, 1984); ohne [[Re-entry]] bleiben Einsichten folgenlos. In technischen Kontexten wird Reflexion oft in Optimierungspipelines gepresst, wobei die semantische Tiefe auf Parameterupdate schrumpft; hier fehlt die Breite intentionaler Bewertung (vgl. [[Systemsimulation]]). Viertens: Philosophische Modelle (Kant, Hegel, Husserl) liefern starke Bewusstseins- und Dialektikbegriffe, aber keine operative Genese; Günther fokussiert die Prozessform im psychischen System. Die universale Operation bleibt damit erklärungsbedürftig – [[Elementaroperationen]] und [[Elementarkommunikation]] beanspruchen diese Lücke zu schließen, müssen jedoch empirisch weiter geprüft werden (Falsifizierbarkeit: Nachweis von Systemen ohne Feedback/Reflexion/[[Re-entry]] steht aus).
 
 Schließlich ist die Balance von Minimalität und Spezifizität heikel: Der kleinste gemeinsame Nenner darf die Operation nicht trivialisieren; der größte gemeinsame Teiler darf sie nicht überdehnen. Die hier gewählte Dreigliederung (Differenzimpuls, interne Transformation, Reintegration) braucht weitere Validierung in unterschiedlichen Domänen (Labor, Feld, Simulation) und über Systemtypen hinweg (physikalisch, biologisch, psychisch, sozial, technisch). Ohne solche Prüfungen bleibt die Universalitätsbehauptung programmatisch.
 
 # 6 Zusammenfassung
 
-Reflexion ist die mittlere Operation der Elementaroperations-Schleife ([[Feedback]] → [[Reflexion]] → [[Re-entry]]) und beschreibt den systemischen Selbstbezug zweiter Ordnung: Ein System verarbeitet Differenzimpulse entlang eigener Struktur und führt das transformierte Ergebnis in die eigene Operation zurück. Der kleinste gemeinsame Nenner ist damit: interne Transformation eines eigenen Differenzimpulses; der größte gemeinsame Teiler präzisiert drei Schritte – Differenz, Inversion/Bewertung, Reintegration ([[Elementaroperationen]], [[Elementarkommunikation]]).
+Reflexion ist die mittlere Operation der Elementaroperations-Schleife ([[Feedback]] → Reflexion → [[Re-entry]]) und beschreibt den systemischen Selbstbezug zweiter Ordnung: Ein System verarbeitet Differenzimpulse entlang eigener Struktur und führt das transformierte Ergebnis in die eigene Operation zurück. Der kleinste gemeinsame Nenner ist damit: interne Transformation eines eigenen Differenzimpulses; der größte gemeinsame Teiler präzisiert drei Schritte – Differenz, Inversion/Bewertung, Reintegration ([[Elementaroperationen]], [[Elementarkommunikation]]).
 
 Die universale Operation nimmt systemtypische Prozessformen an: physikalisch als Grenzflächeninversion, biologisch als Regulation, lebend als autopoietische Schleife, psychisch als Reflexionsidentität (Günther, 1963/2021), sozial als kommunikative Selbstbeobachtung (Luhmann, 1984), technisch als modellbasiertes Update (Dayan & Abbott, 2001). Diese Differenzierung verbindet Genese (Operation) und Form (Prozess) und erklärt, warum Reflexion sowohl empirisch beobachtbar als auch formal anschlussfähig bleibt. Ihre Relevanz liegt darin, Lernen, Anpassung und Selbstbeschreibung in allen Systemtypen minimal zu begründen und zugleich disziplinspezifisch auszuprägen.
 
