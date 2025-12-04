@@ -40,6 +40,8 @@ Die strukturelle Entkopplung ist dabei als notwendiger Bestandteil der systemisc
 
 In wissenschaftlichen Kontexten wird die strukturelle Entkopplung als eine Ergänzung zur strukturellen Kopplung verstanden, da sie das dynamische Gleichgewicht innerhalb und zwischen Systemen beschreibt. Die Fähigkeit eines Systems, sich zu entkoppeln und neu zu orientieren, ist ein entscheidender Aspekt für seine Autonomie und langfristige Stabilität (Schmidt et al., 2023).
 
+Elementaroperations-Anschluss: Entscheidungen zur Entkopplung folgen der Schleife [[Feedback]] → [[Reflexion]] → [[Re-entry]] ([[Reflexion]]). KGN: ein Differenzimpuls (z. B. Umweltanforderung) wird intern bewertet und führt zu Strukturänderung. GGT: explizite Rekonfiguration (Entkopplung/Kopplung), strukturelle Modifikation und persistente neue Anschlusslogik.
+
 # 2 Herleitung
 
 In diesem Kapitel wird die Herleitung des Begriffs der strukturellen Entkopplung dargestellt. Die theoretischen Grundlagen leiten sich aus der Systemtheorie ab, insbesondere aus den Arbeiten von Luhmann und Meyer & Rowan, die die Dynamik und die strukturellen Anpassungsmechanismen in sozialen und organisatorischen Systemen untersuchen. Die strukturelle Entkopplung wird als notwendige Ergänzung zur strukturellen Kopplung betrachtet, um das volle Spektrum der Dynamik und Flexibilität von Systemen abzubilden (Meyer & Rowan, 1977; Luhmann, 1995). 
@@ -96,6 +98,7 @@ Strukturelle Entkopplung setzt einen bewussten Einsatz von Kommunikation voraus,
 ### 2.3.3 Kommunikation als Brücke zwischen Kopplung und Entkopplung
 
 Die strukturelle Entkopplung kann als dynamisches Spiel zwischen Stabilität und Veränderung verstanden werden, das durch Kommunikation orchestriert wird. [[Systeme]] nutzen Kommunikation , um Sinnprozesse zu lenken und ihre Positionen innerhalb ihrer Umwelt aktiv zu verändern (Meyer & Rowan, 1977). Im Prozess der Entkopplung ist Kommunikation also nicht nur ein Mittel zur Auflösung bestehender Strukturen, sondern auch ein Instrument, um neue Verbindungen zu schaffen, die flexibler und besser auf neue Anforderungen abgestimmt sind. Kommunikation ermöglicht es, das bestehende Netzwerk von Bedeutungen zu reorganisieren und so den Übergang von einer gekoppelten zu einer entkoppelten Struktur zu vollziehen.
+Reflexion fungiert hier als Bewertungsinstanz der Rückmeldungen (Feedback) und begründet die Entscheidung zur Entkopplung oder Rekopplung; Re-entry ist die Umsetzung dieser Entscheidung in neue Strukturen ([[Reflexion]], [[Feedback]], [[Re-entry]]).
 
 ### 2.3.4 Empirische Perspektiven auf Kommunikation in der Entkopplung
 
@@ -170,6 +173,7 @@ Ein wesentlicher Kritikpunkt betrifft die theoretische Konsistenz und Verankerun
 ### 5.2 Fehlen empirischer Fundierung und Operationalisierung
 
 Da die strukturelle Entkopplung bisher nicht in der wissenschaftlichen Literatur umfassend empirisch belegt ist, gibt es erhebliche Unsicherheiten bezüglich ihrer Messbarkeit und Anwendung. Aktuelle Studien zur strukturellen Kopplung bieten ein detailliertes Framework, um diese zu messen und zu bewerten, jedoch fehlen vergleichbare Modelle für die strukturelle Entkopplung. Es stellt sich daher die Frage, ob und wie diese Prozesse quantifiziert werden können, um ihre Wirksamkeit und Funktionalität in verschiedenen Kontexten zu evaluieren. Dieser Mangel an empirischer Fundierung führt zu methodischen Herausforderungen, insbesondere in Bezug auf die Operationalisierung des Konzepts.
+Eine mögliche Operationalisierung läge in der Beobachtung und Quantifizierung von Strukturänderungen vor/nach Entkopplungsentscheidungen (z. B. Kommunikationsmuster, Kopplungsdichte) entlang der Schleife [[Feedback]] → [[Reflexion]] → [[Re-entry]].
 
 ### 5.3 Risiko der Überinterpretation und praktische Anwendbarkeit
 
