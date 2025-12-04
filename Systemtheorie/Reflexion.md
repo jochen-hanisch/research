@@ -631,6 +631,29 @@ Der Operator ist Teil der modelltheoretischen Analogie, nicht der naturwissensch
 
 Alle Beispiele erfüllen den KGN (Differenzimpuls + interne Transformation). Der GGT ist erfüllt, wenn Re-entry/Strukturkopplung/Persistenz belegbar ist: physikalisch nur im Rückführungsfall (Katzenauge), chemisch/biologisch/lebend durch regulatorische Setpoints, psychisch durch veränderte Selbst-/Handlungsprogramme, sozial durch beschlossene Strukturänderungen, technisch durch persistente Policy-Updates.
 
+## 2.9 Abstrakte Grundgleichung der Reflexion
+
+Aus der Elementaroperations-Schleife lässt sich eine modelltheoretische Grundgleichung formulieren, ohne physikalischen Anspruch, aber mit universeller Struktur:
+
+$$
+x_{t+1} = E\!\big(R(F(x_t, u_t))\big)
+\tag{21}
+$$
+
+- $u_t$: Differenzimpuls/Feedback;  
+- $F$: Feedback-Operator erzeugt Differenz $\Delta$ aus Zustand und Impuls;  
+- $R$: Reflexionsoperator transformiert/invertiert/bewertet $\Delta$ entlang systemeigener Struktur;  
+- $E$ (Re-entry): integriert das Ergebnis in die laufende Operation/Struktur.
+
+In kontinuierlicher Form lässt sich eine Zustandsdynamik mit Reflexionsglied schreiben als
+
+$$
+\dot{x} = f(x, u) + g\big(x, u, h(x)\big),
+\tag{22}
+$$
+
+wobei $h(x)$ die interne Beobachtung liefert (Differenz), $g$ die reflexive Transformation darstellt und der Summand $g$ über Re-entry in $f$ zurückwirkt. Beide Formen (21) und (22) sind abstrakte Strukturmodelle, keine naturwissenschaftlichen Gesetze der Reflexion. Sie zeigen aber, dass jede Perspektive auf Reflexion als Komposition aus Differenz, interner Transformation und Reintegration modellierbar ist (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
+
 # 3 Folgerungen
 
 Die Folgerungen ergeben sich direkt aus der Elementaroperations-Schleife ([[Feedback]] → [[Reflexion]] → [[Re-entry]]): Ohne Differenzimpuls keine interne Verarbeitung, ohne Reflexion keine Bewertung, ohne Re-entry keine Integration. In der Bildung zeigt sich das als metakognitive Lernschleife: Lernende erhalten Rückmeldung, reflektieren sie bewusst (Schön, 1983; Hattie & Timperley, 2007) und führen sie als angepasstes Handeln wieder ein. Damit erklärt die Theorie, warum reine Rückmeldung ohne Reflexion nur kurzfristig wirkt und warum Reflexion ohne Re-entry verpufft – erst die Kombination stabilisiert Lernen ([[Elementaroperationen]], [[Elementarkommunikation]]).
