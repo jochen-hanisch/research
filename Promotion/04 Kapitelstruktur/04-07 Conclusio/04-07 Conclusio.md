@@ -6,6 +6,9 @@
 
 Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:6-3-1]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum nicht als Zielzustand, sondern als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
+**Grundarchitektur der Wirkdimensionen (als Basis für alle Thesen)**  
+Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in Kapiteln 2–5 herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Sichtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
+
 **Prämissen des Manifests**
 
 - Interdependenz: Der digitale Bildungsraum besteht aus gekoppelten positiven und negativen Wirkungswahrscheinlichkeiten; keine ist für sich allein tragfähig.
