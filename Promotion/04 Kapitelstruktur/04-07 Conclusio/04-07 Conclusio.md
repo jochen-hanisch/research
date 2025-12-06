@@ -7,7 +7,8 @@
 Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:6-3-1]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum nicht als Zielzustand, sondern als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
 **Grundarchitektur der Wirkdimensionen (als Basis für alle Thesen)**  
-Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in Kapiteln 2–5 herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Sichtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
+Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in Kapiteln 2–5 herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Beobachtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
+Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrscheinlichkeit kann isoliert betrachtet werden; das Wirkgefüge entfaltet sich erst aus ihrer Kopplung.
 
 **Prämissen des Manifests**
 
@@ -20,7 +21,7 @@ Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in Kapi
 
 1. Sichtbarkeit/Transparenz  
    - (+) Sichtbarkeit erzeugt Orientierung und Anschlussfähigkeit.  
-   - (–) Übertransparenz erzeugt Überwachung und Selbstdressur.  
+   - (–) Hypertransparenz erzeugt Überwachung und Selbstdisziplinierung.  
    - Interdependenz: Orientierung existiert nur via Sichtbarkeit; Sichtbarkeit erzeugt Selektionsmacht und Kontrollpotenzial.
 
 2. Strukturierung/Entlastung  
@@ -35,7 +36,7 @@ Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in Kapi
 
 4. Steuerung/Agency  
    - (+) Adaptive Steuerung richtet Ressourcen auf Ziele aus.  
-   - (–) Steuerung kann zu Heteronomie und strategischem Verhalten führen.  
+   - (–) Steuerung kann zu Heteronomie und instrumentellem Verhalten führen.  
    - Interdependenz: Zielgerichtetheit benötigt Steuerung; Steuerung begrenzt Autonomie.
 
 5. Reflexivität/Handlungskopplung  
@@ -57,6 +58,7 @@ Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. 
 - Kurzformat (10–12 Thesen): Jede These folgt der Struktur „Dimension – positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Interdependenzsatz – Gestaltungsimpuls“.
 - Langformat (Abschnittsweise Ausarbeitung): Jede Dimension erhält einen kurzen Absatz mit empirischer Verankerung (Kap. 5), theoretischer Rahmung (Kap. 2/3) und Designhinweis (Kap. 6.3).
 - Scharnier zum Ausblick: Die Manifestthesen fungieren als programmatischer Orientierungsrahmen für Forschung und Praxis; der Ausblick (7.5) kann auf Forschungsdesiderate pro Dimension verweisen.
+#todo Kurzformat mit 10–12 Interdependenz-Thesen aus den genannten Dimensionen ausformulieren (Positiv/Negativ/Kopplung/Gestaltungsimpuls).
 
 Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
