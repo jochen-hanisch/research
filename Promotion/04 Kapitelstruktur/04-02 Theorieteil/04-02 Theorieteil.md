@@ -24,7 +24,8 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:6-3-1]{Kapi
 
 Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert? Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
 
-### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:2-1-2}\label{term:systemisch-konstruktivistische-theorie}\label{sec:2-1-2}
+### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:2-1-2}\label{term:systemisch-konstruktivistische-theorie}
+\label{sec:2-1-2}
 
 Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
 
@@ -35,7 +36,8 @@ Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verar
 ### 2.1.4 Kompetenzentwicklung im digitalen Bildungsraum {#sec:2-1-4}
 Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander?
 
-## 2.2 Pädagogisch-psychologische Grundannahmen {#sec:2-2}\label{term:traegervariablen}
+## 2.2 Pädagogisch-psychologische Grundannahmen {#sec:2-2}
+\label{term:traegervariablen}
 
 Die pädagogisch-psychologischen Grundlagen erklären, warum Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale als Trägervariablen des Wirkgefüges fungieren.
 
@@ -77,6 +79,7 @@ Was passiert, wenn einzelne Subsysteme (z.B. Kompetenzmessung vs. Lernaktivität
 ### 2.3.4 Gestaltungsprinzipien zur Kopplung im digitalen Setting {#sec:2-3-4}
 Aus den vorangegangenen Modellüberlegungen werden Prinzipien abgeleitet, die die Kopplung von Bedürfnissen, Architektur und Kompetenzzielen sicherstellen (z.B. Transparenz, Feedback, adaptive Pfade).
 
-## 2.4 Exkurs: Technologiedefizit {#sec:2-4}\label{term:technologiedefizit}\label{sec:2-4}
+## 2.4 Exkurs: Technologiedefizit {#sec:2-4}\label{term:technologiedefizit}
+\label{sec:2-4}
 
 Der Exkurs reflektiert, warum pädagogische Innovationen häufig hinter technologischen Möglichkeiten zurückbleiben. Er diskutiert das Technologiedefizit als strukturelles Problem und verknüpft es mit den Anforderungen an die Gestaltung digitaler Bildungsräume.
