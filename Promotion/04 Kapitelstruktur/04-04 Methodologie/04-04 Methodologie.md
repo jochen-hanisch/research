@@ -1,12 +1,14 @@
 \newpage
 
-# 4 Methodologie {#sec:4}
+# 4 Methodologie {#sec:Methodologie}
 
-Kapitel 4 stellt die in dieser Arbeit entwickelte, eigenständige Methodologie dar und spiegelt sie an den wissenschaftlichen Gütekriterien. Das methodische Vorgehen folgt nicht einem klassischen Mixed‑Methods‑Design, sondern einem selbst entwickelten, systemisch‑forschungsfragengeleiteten Paradigma. Dieses Paradigma orientiert sich an systemtheoretischen Prinzipien, koppelt qualitative, quantitative und simulationsbasierte Verfahren über die Forschungsunterfragen und bindet sowohl die in \hyperref[sec:2]{Kapitel 2} entwickelte Theorie als auch die in Kapitel \@ref(sec:3) dargestellte Architektur des digitalen Bildungsraums ein. Ziel ist es, die zirkuläre Komplexität des Forschungsgegenstandes abzubilden und methodisch zu strukturieren. Die Auswahl der Verfahren – darunter Literaturanalysen, Eye‑Tracking\label{term:eye-tracking}, simulationsgestützte Modellierungen und quantitative Evaluationsansätze – folgt ausschließlich der Logik der Forschungsunterfragen und dient nicht der Umsetzung eines etablierten Methodendesigns, sondern der Realisierung eines kohärenten, interdependenten und emergenzsensiblen Forschungsansatzes.
+Kapitel 4 stellt die in dieser Arbeit entwickelte, eigenständige Methodologie dar und spiegelt sie an den wissenschaftlichen Gütekriterien. Das methodische Vorgehen folgt nicht einem klassischen Mixed‑Methods‑Design, sondern einem selbst entwickelten, systemisch‑forschungsfragengeleiteten Paradigma. Dieses Paradigma orientiert sich an systemtheoretischen Prinzipien, koppelt qualitative, quantitative und simulationsbasierte Verfahren über die Forschungsunterfragen und bindet sowohl die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelte Theorie als auch die in Kapitel \@ref(sec:Forschungsgegenstand) dargestellte Architektur des digitalen Bildungsraums ein. Ziel ist es, die zirkuläre Komplexität des Forschungsgegenstandes abzubilden und methodisch zu strukturieren. Die Auswahl der Verfahren – darunter Literaturanalysen, Eye‑Tracking\label{term:eye-tracking}, simulationsgestützte Modellierungen und quantitative Evaluationsansätze – folgt ausschließlich der Logik der Forschungsunterfragen und dient nicht der Umsetzung eines etablierten Methodendesigns, sondern der Realisierung eines kohärenten, interdependenten und emergenzsensiblen Forschungsansatzes.
 
-Die methodische Kopplung liefert die empirische Basis für die interdependente Argumentation in \hyperref[sec:6-3-1]{Kapitel 6.3.1} und die manifestartige Zuspitzung in \hyperref[sec:7-0]{Kapitel 7}.
+Die methodische Kopplung liefert die empirische Basis für die interdependente Argumentation in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} und die manifestartige Zuspitzung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
-## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}\label{term:systemisch-forschungsfragengeleitet}
+## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:Forschungsparadigma}
+
+\label{term:systemisch-forschungsfragengeleitet}
 
 Methodenkompetenz in den Human- und Sozialwissenschaften meint die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung werden traditionell drei methodologische Paradigmen unterschieden: (a) quantitative Ansätze im kritischen Realismus, (b) qualitative Ansätze im Sozialkonstruktivismus und (c) pragmatische Integrationsansätze, die beide Logiken situativ verbinden [@doring_forschungsmethoden_2023, Seite 4–5; Seite 32–33]. Für das vorliegende Forschungsvorhaben wird jedoch kein dieser Paradigmen übernommen. Stattdessen wird ein eigenständiger, systemisch‑forschungsfragengeleiteter Ansatz entwickelt, der nicht im Mixed‑Methods‑Paradigma verortet ist, sondern eine eigene Logik entfaltet.
 
@@ -14,7 +16,7 @@ Das quantitative Paradigma folgt einem linear‑strukturierten Forschungsprozess
 
 Der Übergang zur methodologischen Konkretisierung erfolgt entlang der Frage, wie das entwickelte Paradigma praktisch umgesetzt wird. Während Abschnitt 4.1 den erkenntnistheoretischen Rahmen beschreibt, entfaltet Abschnitt 4.1.1 die methodischen Vorüberlegungen und zeigt, wie die Forschungsfragen die Auswahl und Kombination der Verfahren steuern. Abschnitt 4.1.2 konkretisiert diese Logik anschließend systemisch und bildet die Grundlage für die in 4.2 beschriebenen Datenerhebungsverfahren.
 
-### 4.1.1 Vorüberlegungen zur Methodologie {#sec:4-1-1}
+### 4.1.1 Vorüberlegungen zur Methodologie {#sec:Voruberlegungen-Methodologie}
 
 Methodisch herausfordernd ist die Verbindung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Die unterschiedlichen Datenformen – aus Eye‑Tracking, Umfrage, systematischer Literaturarbeit und simulationsgestützten Modellierungen – werden nicht im Sinne eines Mixed‑Methods‑Designs zusammengeführt, sondern entlang der Forschungsfragen koordiniert. Die Integration folgt keinem etablierten Kombinationsschema, sondern dem eigenen Paradigma der Forschungsfragengeleitetheit. Die Hauptforschungsfrage legitimiert den Einsatz beider Paradigmen, da sie Muster und Regelmäßigkeiten im Learning Management System (LMS) sichtbar machen soll. Das Spannungsfeld zwischen Subjektivität (Wahrnehmung der Akteur*innen) und Objektivität (Kompetenzentwicklungssimulation) verlangt eine präzise methodische Betrachtung. Die strikt getrennte Zuschreibung „quantitativ = deduktiv“ und „qualitativ = induktiv“ greift dabei zu kurz, weil sie die Komplexität des Gegenstands nicht abbildet [@reinders_uberblick_2022, Seite 157].
 
@@ -30,9 +32,9 @@ Das forschungsparadigmatische Spannungsfeld wird aufgelöst, indem die Methoden 
 
 Die dargestellten Vorüberlegungen verdeutlichen, dass die Methodologie nicht durch bestehende Designs vorstrukturiert ist, sondern ihre Logik unmittelbar aus den Forschungsunterfragen ableitet. Darauf aufbauend entwickelt Abschnitt 4.1.2 die systemische Ausgestaltung dieses Ansatzes und präzisiert die operative Verbindung zwischen Paradigma, Forschungslogik und Methodenwahl.
 
-### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:4-1-2}
+### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:Systemisch-Forschungsfragengeleitet}
 
-Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU1 bis FU7 (Kapitel [@sec:1-2-3]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:1-1-1]) und LMS-Produkt (Kapitel [@sec:3]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
+Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU1 bis FU7 (Kapitel [@sec:FU-Herleitung]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:Erkenntnisinteresse]) und LMS-Produkt (Kapitel [@sec:Forschungsgegenstand]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
 
 Interdependenz meint die enge Verknüpfung der Forschungsfragen und die Wechselwirkungen zwischen qualitativen und quantitativen Daten, die die Mehrdimensionalität erfassen. Emergenz beschreibt die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, Seite 16, 103], wenn Ergebnisse aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking und Befragungen verbunden werden. Rückkopplung heißt, dass Analyseergebnisse iterativ in die Methodik zurückfließen und weitere Schritte steuern, sodass der Prozess dynamisch bleibt.
 
@@ -66,9 +68,9 @@ Methodische Konsequenzen der Forschungsfragen
 - **Begründung**:
   - Die Komplexität des digitalen Bildungsraums erforderte eine Methodenkombination, um die Forschungsfragen adäquat zu beantworten.
 
-## 4.2 Datenerhebung {#sec:4-2}
+## 4.2 Datenerhebung {#sec:Datenerhebung}
 
-### 4.2.1 Systematische Literaturrecherche {#sec:4-2-1}
+### 4.2.1 Systematische Literaturrecherche {#sec:Systematische-Literaturrecherche}
 
 Die systematische Literaturrecherche bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
 
@@ -122,7 +124,7 @@ Ab 2018 pendelt $\Delta SC_n$ um den Median, was eine weitgehend proportionale E
 
 Als Sensitivitätsmaß ergänzt $\Delta SC_n$ den Silhouette-Score um eine volumengewichtete Perspektive und dient damit der retrospektiven Bewertung der Robustheit einzelner Jahrgänge. Die Kennwerte machen sichtbar, in welchen Phasen die Daten kohärent strukturiert sind und in welchen die semantische Landschaft in Bewegung gerät. Für die Literaturauswahl bedeutet dies, dass Jahre mit hohen negativen $\Delta SC_n$-Werten keinesfalls ausgeschlossen, sondern kontextsensitiv interpretiert werden müssen: Sie geben Hinweise auf thematische Umbrüche, nicht auf Instabilität des Verfahrens.
 
-### 4.2.2 Systematisches Literaturmanagement {#sek:4-2-2}
+### 4.2.2 Systematisches Literaturmanagement {#sec:Systematisches-Literaturmanagement}
 
 Zur Vorbereitung der Datenanalyse wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die folgende Tabelle zeigt die vollständige Struktur der Suchordner:
 
@@ -177,9 +179,9 @@ Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanag
 
 #todo Suchordnerstrategie weiter ausführen und anpassen
 
-### 4.2.3 Visualisierungen der Literaturbasis {#sec:4-2-3}
+### 4.2.3 Visualisierungen der Literaturbasis {#sec:Visualisierungen-Literaturbasis}
 
-Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt die Visualisierungen entlang eines konsistenten analytischen Aufbaus. Die Abbildungen bilden die visuelle Grundlage der in Abschnitt \hyperref[sec:4-3]{4.3} beschriebenen Datenanalyse und ordnen den Quellenkorpus systematisch entlang zentraler Dimensionen: Überblick, Korpusstruktur, FU‑Mapping und Relevanz, Qualitäts- und Statusinformationen, Autor:innenverteilung, Sprachmuster sowie Pfad‑/Sankey‑ und Netzwerksichten. Sie dienen damit der transparenten Rekonstruktion der Datenbasis und der Vorbereitung der späteren Cluster- und Korrelationsanalysen.
+Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt die Visualisierungen entlang eines konsistenten analytischen Aufbaus. Die Abbildungen bilden die visuelle Grundlage der in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschriebenen Datenanalyse und ordnen den Quellenkorpus systematisch entlang zentraler Dimensionen: Überblick, Korpusstruktur, FU‑Mapping und Relevanz, Qualitäts- und Statusinformationen, Autor:innenverteilung, Sprachmuster sowie Pfad‑/Sankey‑ und Netzwerksichten. Sie dienen damit der transparenten Rekonstruktion der Datenbasis und der Vorbereitung der späteren Cluster- und Korrelationsanalysen.
 
 Inhaltlich gehören in diesen Abschnitt alle Visualisierungen, die die Relevanz, Struktur und thematische Zuordnung des Korpus abbilden (z. B. Kategorien-, FU‑ und Suchbegriffzuordnungen) sowie Sprach‑ und Kategoriedistributionen. Nicht enthalten sind reine Fortschrittsübersichten der Suchordner; diese gehören als Arbeitsdokumentation in den Anhang.
 
@@ -200,7 +202,7 @@ Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relev
 
 ![Verteilung der Kategorien innerhalb des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png){#fig:categories-suchergebnisse width=90%}
 
-### 4.2.4 Webcam-basiertes Eye-Tracking und KI-gestützte Codierung {#sec:4-2-4}
+### 4.2.4 Webcam-basiertes Eye-Tracking und KI-gestützte Codierung {#sec:EyeTracking}
 
 Das Eye-Tracking wurde webbasiert mit RealEye\label{term:realeye} durchgeführt [@lewandowska_realeye_2020]. Die Wahl fiel aus Kostengründen auf ein Webcam-System, dessen Präzision (ca. 110 px) für AOI-Ebene\label{term:aoi} und Layoutanalyse hinreichend ist, jedoch keine millisekundengenaue Fixationsmetriken zulässt; aktuelle Vergleichsstudien stützen den AOI-Einsatz von Webcam-Tracking [@kaduk_webcam_2023; @wisiecka_comparison_2022]. Die Datenbasis umfasst aggregierte Visualisierungen (Heatmaps\label{term:heatmap}, Fog-Views\label{term:fog-view}, Scanpaths); Videorohdaten stehen nicht zur Verfügung. Damit wird das Verfahren ausdrücklich als explorativ-qualitative Methode deklariert, die Wahrnehmungs- und Orientierungsprozesse sichtbar macht, ohne inferenzstatistische Ansprüche zu erheben. Dieser Zugriff ist für FU4b angemessen, da großflächige Interface-Zonen (Navigation, Inhalt, Interaktion, Störflächen) im Fokus stehen.
 
@@ -266,7 +268,7 @@ Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf
 
 \FloatBarrier
 
-#### Eye-Tracking (RealEye): Design, Durchführung und Qualitätssicherung {#sec:4-2-4-design}
+#### Eye-Tracking (RealEye): Design, Durchführung und Qualitätssicherung {#sec:EyeTracking-Design}
 
 Die Entscheidung für ein webcam-basiertes Eye-Tracking mit RealEye folgt unmittelbar aus der Forschungsunterfrage FU4b, die die technisch‑gestalterischen Wirkmechanismen des LMS untersucht. Für diese Fragestellung sind primär großflächige Aufmerksamkeitszonen, visuelle Hierarchien, Blickpfade und Navigationseffekte relevant. Diese Parameter lassen sich mit webcam‑basierten Verfahren zuverlässig erfassen, ohne dass millimetergenaue Rohdaten oder hochfrequente Sakkadenanalysen erforderlich wären.
 
@@ -276,7 +278,7 @@ Die Limitationen webcam‑basierter Verfahren – geringere räumliche Präzisio
 
 Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Viewmaps und Fog‑Views wissenschaftlich konsistent und methodisch angemessen. Die Visualisierungen erlauben eine systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Bereiche. Wie in der einschlägigen UX‑ und Eye‑Tracking‑Forschung üblich, werden die Muster relativ interpretiert: als Verteilung über AOIs, nicht als absolute metrische Werte. Durch die Kopplung mit Umfragebefunden (FU1/FU2) sowie mit den deduktiv entwickelten Kategorien entsteht eine theoriegeleitete, triangulierte Sicht auf die Wirkmechanismen des LMS.
 
-##### Ergänzende methodische Absicherung {#sec:4-2-4-1}
+##### Ergänzende methodische Absicherung {#sec:EyeTracking-Absicherung}
 
 #todo: Fleißtextüberführung ergänzen
 
@@ -348,7 +350,7 @@ Table: Stimulusauswahl \label{tab:stimulus-auswahl}
 |  F11‑S3  | Weiterführende Quellen   |  FU4b/FU2a   | Auffindbarkeit/Link-Salienz  |
 |  F14‑S3  | Lernmaterial, Sicherheit |   FU4b/FU6   | Salienz Sicherheit           |
 
-(Kurzbeschreibung; Auswertung in Abschnitt \hyperref[sec:4-3-9]{4.3.9})
+(Kurzbeschreibung; Auswertung in Abschnitt \hyperref[sec:EyeTracking-Umfrage-Vergleich]{4.3.9})
 
 Auswertungsvorgehen (FU‑geführt)
 
@@ -370,7 +372,7 @@ Auswertungsvorgehen (FU‑geführt)
 - Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
 - KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
-### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:4-2-5}
+### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:Umfrage-LMS}
 
 #todo Umfrage weiter ausführen und anpassen
 
@@ -392,9 +394,9 @@ Die Konstruktion des Instruments folgt dem Prinzip der Forschungsfragengeleiteth
 
 Analytisch werden die Umfrageergebnisse mit den Eye-Tracking-Befunden verschränkt: Divergenzen zwischen berichteter Nützlichkeit und beobachteter Nutzung werden als Hinweis auf Interface- oder Erwartungsinkonsistenzen interpretiert, Kongruenzen stützen die Modellannahmen zur Wirksamkeit. Subgruppenanalysen (z.B. Lehrende vs. Lernende, hohe vs. niedrige Nutzung) liefern Kontext für differenzierte Handlungsempfehlungen.
 
-## 4.3 Datenanalyse {#sec:4-3}
+## 4.3 Datenanalyse {#sec:Datenanalyse}
 
-### 4.3.1 Grundlogik der Datenanalyse: Analysen erster bis dritter Ordnung {#sec:4-3-1}
+### 4.3.1 Grundlogik der Datenanalyse: Analysen erster bis dritter Ordnung {#sec:Datenanalyse-Grundlogik}
 
 Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmodell, das deduktive Kategorienbildung mit probabilistischer Validierung systemisch ordnet. Damit bleibt jeder Schritt eng an die Forschungsunterfragen gekoppelt und gleichzeitig anschlussfähig an die dokumentarischen Qualitätsanforderungen nach Döring [-@doring_forschungsmethoden_2023].
 
@@ -404,7 +406,7 @@ Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmode
 
 Gemeinsam bilden diese Ordnungen einen iterativen Zyklus: Jede Stufe liefert die Grundlage für die nächste und fließt nach erfolgter Validierung wieder in die Forschungsunterfragen zurück.
 
-### 4.3.2 Analyse 1. Ordnung: Primäranalysen {#sec:4-3-2}
+### 4.3.2 Analyse 1. Ordnung: Primäranalysen {#sec:Primaranalysen}
 
 Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`; siehe Anhang A.2, Prompt zur Analyse einer Quelle, {#sec:A-2}). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
 
@@ -413,7 +415,7 @@ Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissen
 3. **Dokumentation:** Jede Analyse erhält einen Header mit Metadaten (Quelle, Datum, Prompt-Version). Die Ergebnisse liegen versioniert in Obsidian vor und können jederzeit erneut validiert werden.
 4. **Qualitätssicherung:** Quellen, die inhaltlich nicht in den digitalen Bildungsraum passen, werden bereits auf dieser Ebene identifiziert und als „irrelevant" markiert. So bleiben nur überprüfte Texte im weiteren Prozess.
 
-### 4.3.3 Analyse 2. Ordnung: Sekundäranalysen {#sec:4-3-3}
+### 4.3.3 Analyse 2. Ordnung: Sekundäranalysen {#sec:Sekundaranalysen}
 
 Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage. Die entsprechenden Prompts (z.B. `FU1 Prompt Sekundäranalyse.md`) führen mehrere Einzelanalysen zusammen, spiegeln sie an theoretischen Bezugsrahmen und erzeugen daraus erste Metastrukturen:
 
@@ -423,7 +425,7 @@ Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage
 
 Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert.
 
-### 4.3.4 Analyse 3. Ordnung: Probabilistisch-Qualitative Inhaltsanalyse (P-QIA) {#sec:4-3-4}\label{term:p-qia}
+### 4.3.4 Analyse 3. Ordnung: Probabilistisch-Qualitative Inhaltsanalyse (P-QIA) {#sec:P-QIA}\label{term:p-qia}
 
 Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
 
@@ -520,7 +522,7 @@ Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung g
 - **Gefahr der Scheinobjektivität:** Statistische Kennwerte ersetzen keine inhaltliche Reflexion. Sie fungieren als Unterstützungs-, nicht als Entscheidungsinstanz.
 - **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung müssen explizit adressiert werden.
 
-### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-5}\label{term:mdacv}
+### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:mdaCV}\label{term:mdacv}
 
 Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse zunächst als Ergänzung zur P-QIA ausprobiert. Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus bestätigte die bestehenden semantischen Erkenntnisse. Diese Stabilität wurde zur Grundlage eines eigenständigen Validierungsverfahrens, der mehrdimensional-analytischen Clustervalidierung (mdaCV). Sie spannt einen semantischen Raum entlang theoretisch begründeter Achsen (Kategorien, Forschungsfragen, Schlagworte) auf, positioniert die Datenpunkte darin und bewertet deren Trennschärfe über Silhouette-Scores [-@rousseeuw_silhouettes_1987].
 
@@ -530,7 +532,7 @@ Die Methode wird mit zwei modularen Skripten umgesetzt: `analyse_netzwerk.py` er
 2. **Geometrische Modellierung:** Begriffliche Relationen werden in numerische Vektoren überführt. Konzepte wie CBOW/Skip-gram [@mikolov_efficient_2013] zeigen, dass sich so hochdimensionale, semantisch präzise Repräsentationen erzeugen lassen.
 3. **Statistische Validierung:** Die vorstrukturierten Daten werden mittels $k$-Means analysiert. Die Anzahl der Cluster $k$ wird theoriegeleitet festgelegt oder durch Silhouette-Kennwerte feinjustiert [@sud_k-means_2020; @rakhlin_stability_nodate].
 
-Die Pipeline (analyse_netzwerk/analyse_korrelation) überführt die Dimensionen (Forschungsfragen, Kategorien, Suchbegriffe) in Vektoren, berechnet k-means mit Random Starts und liefert Silhouette-Scores sowie Korrelationsmatrizen; dieselben Parameter ($k = 4$, Euklidische Distanz, Lloyd-Iteration) liegen den Visualisierungen in Abschnitt \ref{sec:4-3-8}, zugrunde.
+Die Pipeline (analyse_netzwerk/analyse_korrelation) überführt die Dimensionen (Forschungsfragen, Kategorien, Suchbegriffe) in Vektoren, berechnet k-means mit Random Starts und liefert Silhouette-Scores sowie Korrelationsmatrizen; dieselben Parameter ($k = 4$, Euklidische Distanz, Lloyd-Iteration) liegen den Visualisierungen in Abschnitt \ref{sec:Korrelations-Cluster}, zugrunde.
 
 Im Verlauf der Dissertation wurde die mdaCV als dauerhafte Feedback-Schleife eingesetzt. Beispielhaft stieg nach der Bereinigung eines Korpus auf $n = 3502$ Quellen der Silhouette-Score von $0,964$ auf $0,9751$, was als Hinweis auf semantische Schärfung bewertet werden kann. Ein ergänzender methodischer Hinweis betrifft die Interpretation der ab 2023 sichtbar werdenden semantischen Drift im Literaturkorpus. Die Kombination aus steigenden Publikationszahlen bei gleichzeitig sinkenden Silhouette-Scores weist auf eine strukturelle Reorganisation der thematischen Landschaft hin. Dieses Muster ist in datenintensiven Diskursfeldern nicht ungewöhnlich und gilt als typischer Indikator dafür, dass sich die Begriffs- und Themenräume eines Forschungsfeldes verändern, ohne dass dies zwingend mit einer qualitativen Abwertung einhergeht. Vielmehr entstehen in solchen Phasen neue semantische Ankerpunkte, die die bisherigen Strukturzentren überlagern oder ergänzen.
 
@@ -538,7 +540,7 @@ Für die methodische Einordnung signalisiert der Rückgang der Clusterkohärenz 
 
 Die mdaCV fungiert damit als seismografisches Instrument: Sie verbindet deduktive Kategorienstrukturen mit quantitativ validierbaren Kennwerten und eröffnet Analysepfade für mikrostrukturelle Dynamiken in semantisch strukturierten Räumen.
 
-### 4.3.6 Epistemische Verlustfunktion ($\epsilon$) als Integritätsmaß {#sec:4-3-6}
+### 4.3.6 Epistemische Verlustfunktion ($\epsilon$) als Integritätsmaß {#sec:Epistemische-Verlustfunktion}
 
 Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion $\epsilon$ eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
 
@@ -550,7 +552,7 @@ $$ {#eq:verlust}
 
 Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 3583$ ergibt $\epsilon \approx 0{,}0252$. Der Wert zeigt, dass trotz kleiner Datenlücken eine hohe Integrität erreicht wird. Die Verlustfunktion eignet sich insbesondere als Frühwarnsystem (Verlust von Quellen, unplausible Score-Sprünge) und als zusätzlicher Qualitätsindikator in reproduzierbaren Pipelines.
 
-### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:4-3-7}
+### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:Datenanalyse-Synthese}
 
 #todo: ist das hier an der richtigen Stelle? Prüfen, $k$-meas n ggf. in 4.3.5 integrieren
 
@@ -564,7 +566,7 @@ $$ {#eq:kmeans}
 
 Beispielhaft wurde für den Literaturkorpus ($n = 3733$) k = 4 gewählt, mit 20 Random Starts und Standard-Lloyd-Iteration (Konvergenz < 30 Iterationen); der Silhouette-Score lag bei $S \approx 0{,}9884$.
 
-### 4.3.8 Visualisierte Korrelations- und Clusteranalysen {#sec:4-3-8}
+### 4.3.8 Visualisierte Korrelations- und Clusteranalysen {#sec:Korrelations-Cluster}
 
 Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- und Clusterauswertungen in der Reihenfolge der Pipeline visualisiert: erst k-means, danach die FU-basierten Matrizen, anschließend Index- und Kategorienebene.
 
@@ -717,7 +719,7 @@ Analyse: Klar positive Paare bei technologische Integration, Bewertungsmethoden 
 
 Interpretation: Die Suchbegriffe folgen den indexbasierten Schwerpunkten und differenzieren sauber zwischen technologie-/didaktiknahen und peripheren Termfeldern. Das bestätigt die semantische Passung der Suchstrings zur Indexlogik.
 
-### 4.3.9 Auswertung: Eye-Tracking und Umfrage im Vergleich {#sec:4-3-9}
+### 4.3.9 Auswertung: Eye-Tracking und Umfrage im Vergleich {#sec:EyeTracking-Umfrage-Vergleich}
 
 Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Umfrage, um Wahrnehmung und tatsächliche Aufmerksamkeit auf UI-Elemente zusammenzuführen.
 
@@ -731,9 +733,9 @@ Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Um
 
 Eine systematische Reflexion der Eye-Tracking-Daten erfolgt im Rahmen der methodenkritischen SWOT-Analyse (vgl. Abschnitt 4.5.1), um Potenziale und Limitationen der empirischen Erhebung im Zusammenspiel mit generativer KI zu analysieren.
 
-## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:4-4}
+## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:Simulation-Kompetenzentwicklung}
 
-## 4.5 Reflexion der Methode {#sec:4-5}
+## 4.5 Reflexion der Methode {#sec:Methoden-Reflexion}
 
 Die kritische Methodenreflexion hat den Zweck, die eigene Arbeitsweise transparent, nachvollziehbar und anhand des wissenschaftlichen Qualitätskriteriums „Methodische Strenge“ [@doring_forschungsmethoden_2023, Seite 89-90] beurteilbar zu machen. Inwiefern diese Arbeit die Anforderungen an eine methodisch saubere, nachvollziehbare und theoriegeleitete Forschung erfüllt, ist in diesem Kapitel zu klären.
 
