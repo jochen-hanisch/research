@@ -629,7 +629,7 @@ Der Operator ist Teil der modelltheoretischen Analogie, nicht der naturwissensch
 
 Alle Beispiele erfüllen den KGN (Differenzimpuls + interne Transformation). Der GGT ist erfüllt, wenn Re-entry/Strukturkopplung/Persistenz belegbar ist: physikalisch nur im Rückführungsfall (Katzenauge), chemisch/biologisch/lebend durch regulatorische Setpoints, psychisch durch veränderte Selbst-/Handlungsprogramme, sozial durch beschlossene Strukturänderungen, technisch durch persistente Policy-Updates.
 
-## 2.9 Grundgleichung der Reflexion (Beweis)
+## 2.9 Grundgleichung der Reflexion
 
 Herleitung aus den vorangegangenen Kapiteln und Formeln (KGN/GGT, 2.6.3.4):
 
@@ -665,7 +665,7 @@ $$
 \tag{22}
 $$
 
-wobei $h(x)$ die interne Beobachtung liefert (Differenz), $g$ die reflexive Transformation darstellt und der Summand $g$ über [[Re-entry]] in $f$ zurückwirkt. Beide Formen (21) und (22) sind abstrakte Strukturmodelle und zeigen dass jede Perspektive auf Reflexion als Komposition aus Differenz, interner Transformation und Reintegration modellierbar ist ([[Elementaroperationen]], [[Elementarkommunikation]]).
+wobei $h(x)$ die interne Beobachtung liefert (Differenz), $g$ die reflexive Transformation darstellt und der Summand $g$ über [[Re-entry]] in $f$ zurückwirkt. Beide Formen (21) und (22) sind abstrakte Strukturmodelle und zeigen, dass jede Perspektive auf Reflexion als Komposition aus Differenz, interner Transformation und Reintegration modellierbar ist ([[Elementaroperationen]], [[Elementarkommunikation]]).
 
 # 3 Folgerungen
 
