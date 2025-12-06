@@ -9,7 +9,7 @@ set -euo pipefail
 cd "$(dirname "$0")"  # geht in das Verzeichnis des Skripts
 
 # Build-Modus bestimmen (full | fast)
-MODE="fast"
+MODE="full"
 if [[ "${1:-}" == "fast" ]]; then
   MODE="fast"
 fi
@@ -37,9 +37,11 @@ FILES=(
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md"
 )
 
-# Eye-Tracking-Datei nur im FULL-Modus einbinden
+# Eye-Tracking-Datei abhängig vom Modus einbinden
 if [[ "$MODE" == "full" ]]; then
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md")
+else
+  FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking_stub.md")
 fi
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
