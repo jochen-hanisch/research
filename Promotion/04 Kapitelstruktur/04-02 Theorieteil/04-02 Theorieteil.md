@@ -24,7 +24,7 @@ Text
 
 Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert? Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
 
-### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}\label{term:systemisch-konstruktivistische-theorie}
+### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}\label{term:systemisch-konstruktivistische-theorie}\label{sec:Systemisch-konstruktivistische-Theorie}
 
 Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
 
@@ -81,6 +81,6 @@ Was passiert, wenn einzelne Subsysteme (z.B. Kompetenzmessung vs. Lernaktivität
 
 Aus den vorangegangenen Modellüberlegungen werden Prinzipien abgeleitet, die die Kopplung von Bedürfnissen, Architektur und Kompetenzzielen sicherstellen (z.B. Transparenz, Feedback, adaptive Pfade).
 
-## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}\label{term:technologiedefizit}
+## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}\label{term:technologiedefizit}\label{sec:Technologiedefizit}
 
 Der Exkurs reflektiert, warum pädagogische Innovationen häufig hinter technologischen Möglichkeiten zurückbleiben. Er diskutiert das Technologiedefizit als strukturelles Problem und verknüpft es mit den Anforderungen an die Gestaltung digitaler Bildungsräume.
