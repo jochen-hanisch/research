@@ -1,10 +1,10 @@
 \newpage
 
-# 3 Beschreibung des Forschungsgegenstandes {#sec:3}
+# 3 Beschreibung des Forschungsgegenstandes {#sec:Forschungsgegenstand}
 
-Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten LMSs. Es konkretisiert damit die in \hyperref[sec:2]{Kapitel 2} entwickelten theoretischen Überlegungen für den spezifischen Anwendungsfall und bereitet die spätere Ergebnisdarstellung in \hyperref[sec:5]{Kapitel 5} vor.
+Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten LMSs. Es konkretisiert damit die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten theoretischen Überlegungen für den spezifischen Anwendungsfall und bereitet die spätere Ergebnisdarstellung in \hyperref[sec:Ergebnisse]{Kapitel 5} vor.
 
-Die hier dargestellte Architektur und ihre rechtlich-didaktische Verortung werden in \hyperref[sec:6-3-1]{Kapitel 6.3.1} in den Interdependenzrahmen eingeordnet und bilden eine der empirischen Grundlagen für die manifestartige Verdichtung in \hyperref[sec:7-0]{Kapitel 7}.
+Die hier dargestellte Architektur und ihre rechtlich-didaktische Verortung werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} in den Interdependenzrahmen eingeordnet und bilden eine der empirischen Grundlagen für die manifestartige Verdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
 Folgerung für die Darstellung
 Konsequenzen klar zweiteilig gliedern:
@@ -12,9 +12,9 @@ Konsequenzen klar zweiteilig gliedern:
 (b) didaktisch-strukturell
 Learning Management System (LMS) = Schnittstelle zwischen Norm und Didaktik
 
-## 3.1 Kontext des Forschungsgegenstandes {#sec:3-1}
+## 3.1 Kontext des Forschungsgegenstandes {#sec:Kontext-FG}
 
-### 3.1.1 Rechtlich-funktionale Rahmung {#sec:3-1-1}
+### 3.1.1 Rechtlich-funktionale Rahmung {#sec:RechtlicheRahmung}
 
 Das hier zu beschreibende LMS (LMS) wird im Rahmen in der Lehre der durch die europäische Richtlinie 2005/36/EG reglementierten Gesundheitsberufe, insbesondere in der Ausbildung und Prüfung von Notfallsanitäterinnen und Notfallsanitätern, eingesetzt. Der Begriff der Gesundheitsberufe ist nicht definiert und fasst alle Berufe zusammen, deren Tätigkeitsfeld im Wesentlichen im Gesundheitssektor angesiedelt ist. Für einen Teil dieser Berufe sind Ausbildung und Prüfung gesetzlich geregelt; diese Berufe stehen im Mittelpunkt der hier angestellten Betrachtungen und werden den reglementierten Berufen, und damit der Gesetzgebungskompetenz des Bundes zugeordnet. Die reglementierten Heilberufe fassen Berufe zusammen, deren Tätigkeiten insbesondere heilende und medizinisch-assistierende Anteile als charakteristisches Merkmal aufweisen. Aus der staatlichen Zuordnung folgt, dass die Führung der Berufsbezeichnung entweder durch eine Approbation oder durch eine behördliche Erlaubnis auf Antrag erworben werden kann. [@bundesgesundheitsministerium_gesundheitsberufe_2025]
 
@@ -30,9 +30,9 @@ In den o.a. Ausführungen wird die Notwendigkeit verwiesen, individuelle Ausbild
 Wenn Schule nicht die insgesamte Ausbildungsverantwortung übernimmt, sondern der Ausbildungsträger\label{term:ausbildungstraeger} sich ihrer als Erfüllungsgehilfin bedient, ergibt sich daraus im rechtlichen Sinne eine funktionale Verpflichtung zum Einsatz eines digitalen Koordinations- und Organisationsinstruments. Der Ausbildungsträger bleibt nach obiger Lesart haftungsrechtlich in der Verantwortung und durch den Einsatz des LMS durch die Schule übernimmt diese einen Teil genau dieser Verantwortlichkeit, ohne gleichzeitig selbst in die Trägerrolle zu wechseln. Durch den Einsatz eines digitalen Systems können alle rechtlich geforderten Dokumentations- und Nachweispflichten beispielsweise durch Logfiles, Beitragszeiten in Foren und Berichtsabfragen auch in Echtzeit gewährleistet werden. Hierin unterscheidet sich ein LMS signifikant von anderen analogen oder konventionellen Lösungen.
 Der bisherigen Argumentation folgend ist der Einsatz des hier beschriebenen LMS als ausbildungsrechtlich notwendige Infrastruktur zur Erfüllung schulischer Aufgaben zu verstehen. Die gesetzlich übertragene Verantwortung zur Koordination und Organisation der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern lässt sich ohne ein entsprechendes System kaum mehr realisieren, insbesondere unter Berücksichtigung heutiger Möglichkeiten im digitalen Bildungsraum.
 
-### 3.1.2 Didaktisch-strukturelle Verortung {#sec:3-1-2}
+### 3.1.2 Didaktisch-strukturelle Verortung {#sec:DidaktischeVerortung}
 
-Hier weiter mit Argumentation aus \hyperref[sec:2-1]{Kapitel 2.1} fortführend.
+Hier weiter mit Argumentation aus \hyperref[sec:Bildungswiss-Verortung]{Kapitel 2.1} fortführend.
 
 Didaktische Rahmung
 Schule = nicht nur juristische Instanz, sondern auch didaktisches Konstrukt
@@ -59,17 +59,17 @@ Weiter mit HRT
 
 
 
-## 3.2 Entwicklung und Einbettung des LMS {#sec:3-2}
+## 3.2 Entwicklung und Einbettung des LMS {#sec:Entwicklung-Einbettung}
 
 Die Entwicklung und Einbettung des hier untersuchten Learning Management Systems erfolgte nicht als Reaktion auf äußere Anforderungen, sondern als systematische Auseinandersetzung mit den Herausforderungen einer digital gestützten Ausbildung im Gesundheitswesen. Die Konzeption entstand aus der Verbindung theoretischer Überlegungen, eigener empirischer Arbeiten sowie konkreter institutioneller Anforderungen im Rahmen der Einführung der dreijährigen Ausbildung von Notfallsanitäter*innen.
 Die folgenden Abschnitte zeigen, wie sich das System von den ersten konzeptionellen Gedanken (3.2.1) über die schulische Implementierung (3.2.2) und dynamische Weiterentwicklung (3.2.3) bis zur empirischen Evaluation (3.2.4) konstituierte.
 
-### 3.2.1 Entstehungskontext und konzeptionelle Grundlagen {#sec:3-2-1}
+### 3.2.1 Entstehungskontext und konzeptionelle Grundlagen {#sec:Entstehung-Konzept}
 
 +++++ Redundanz vermeiden! Nur auf eigene Arbeiten beziehen, die in Kapitel 2 nicht behandelt wurden. +++++
 
 Zentrale wissenschaftliche und konzeptionelle Grundlagen des hier untersuchten Learning Management Systems sind Ergebnisse aus eigenen Untersuchungen, inwiefern Einflussfaktoren Zeit, Struktur und Interaktion Effekte auf nachhaltiges Wissensmanagement durch Kollaborationstools haben, die anhand von selbstorganisierten Gruppenarbeitsergebnissen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern evaluiert wurden [@hanisch_nachhaltiges_2017].
-In den eigenen Untersuchungen wurden drei Hypothesen geprüft, die sich auf die Effekte der Einflussfaktoren Zeit, Struktur und Interaktion auf nachhaltiges Wissensmanagement durch Kollaborationstools beziehen. Grundannahme war, dass Lernen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern autopoietisch und selbstorganisiert verläuft (s. \hyperref[sec:2-1-2]{Kapitel 2.1.2}), und dass insbesondere die zeitliche Verfügbarkeit von Lernergebnissen entscheidend für deren nachhaltige Aneignung ist [@hanisch_nachhaltiges_2017, Kapitel 3.4, Abbildung 2]:
+In den eigenen Untersuchungen wurden drei Hypothesen geprüft, die sich auf die Effekte der Einflussfaktoren Zeit, Struktur und Interaktion auf nachhaltiges Wissensmanagement durch Kollaborationstools beziehen. Grundannahme war, dass Lernen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern autopoietisch und selbstorganisiert verläuft (s. \hyperref[sec:Systemisch-konstruktivistische-Theorie]{Kapitel 2.1.2}), und dass insbesondere die zeitliche Verfügbarkeit von Lernergebnissen entscheidend für deren nachhaltige Aneignung ist [@hanisch_nachhaltiges_2017, Kapitel 3.4, Abbildung 2]:
 
 -	RH1, die zeitliche Erfassung und Verfügbarkeit betreffend, konnte deutlich bestätigt werden. Der höchste Effekt wurde für die Variable PV1b (Verfügbarkeit) mit einem Regressionskoeffizienten von β = -1,213 nachgewiesen.
 -	RH2 zur Struktur zeigte eine sehr hohe Korrelation (r = .942), der Einfluss auf das nachhaltige Wissensmanagement erwies sich jedoch als statistisch unplausibel hoch (β = 2,372) und wurde daher verworfen.
@@ -83,7 +83,7 @@ Für die Rahmung dieser Ergebnisse muss berücksichtigt werden, dass die zugrund
 
 Die Ergebnisse machen damit deutlich, dass die untersuchten Wirkfaktoren nicht methodisch irrelevant, sondern strukturell untererfüllt waren. Für die Konzeption und Konstruktion des hier untersuchten Learning-Management-Systems war es daher zentral, die identifizierten Kritikpunkte systematisch in die Weiterentwicklung einzubeziehen.
 
-### 3.2.2 Implementierung in der schulseitigen Praxis {#sec:3-2-2}
+### 3.2.2 Implementierung in der schulseitigen Praxis {#sec:Implementierung-Schule}
 
 Die konkrete Implementierung des hier untersuchten Learning Management Systems erfolgte ab dem Jahr 2016 im Zuge der Einführung der dreijährigen Ausbildung zur Notfallsanitäterin bzw. zum Notfallsanitäter an einer Rettungsdienstschule in Nordrhein-Westfalen. Im Unterschied zur vorherigen Rettungsassistentenausbildung bot sich hier erstmals die Möglichkeit, die Durchführung der Ausbildung auch digital zu gestalten. Zur Umsetzung gehörten einerseits die Abbildung der geltenden Lehrpläne, andererseits die systematische Nutzung von Wikis zur Sicherung von Gruppenarbeitsergebnissen, gerade vor dem Hintergrund der zuvor beschriebenen Untersuchungsergebnisse. Entscheidend für die Einführung eines Learning Management Systems war dabei nicht allein das Ziel, einen systematischen digitalen Zugang zu schaffen, sondern auch die persönlichen didaktischen Erfahrungen, die den Einsatz solcher Systeme im Sinne einer nachhaltigen Kompetenzentwicklung als sinnvoll erscheinen ließen. Die Rahmenbedingungen erwiesen sich insofern als günstig, als nicht nur eine hohe institutionelle Offenheit für digitale Lernprozesse, sondern auch ein spürbares persönliches Engagement seitens der Lehrkräfte und der Schulleitung gegeben war.
 
@@ -91,11 +91,11 @@ Initiativ in der Umsetzung war unter anderem die Verbindung eigener Studienleist
 
 Als besonders hilfreich erwiesen sich die in den Jahren 2016 und 2017 regelmäßig durchgeführten sechswöchigen Vorbereitungskurse auf die staatliche Prüfung. Diese zeichneten sich durch eine hohe Zahl an Teilnehmenden und eine dadurch bedingte intensive Belastungssituation aus, in der das System auf seine technische und didaktische Belastbarkeit hin überprüft werden konnte. Die Erfahrungen aus diesen Kursen flossen unmittelbar in die Weiterentwicklung ein und ermöglichten somit eine erste fundierte Rückmeldung zur Frage, inwieweit digitale Systeme zur Begleitung, Strukturierung und Auswertung von Lernprozessen in hochverdichteten Ausbildungskontexten beitragen können.
 
-### 3.2.3 Weiterentwicklung durch externe Anforderungen {#sec:3-2-3}
+### 3.2.3 Weiterentwicklung durch externe Anforderungen {#sec:Weiterentwicklung-extern}
 
 Mit Beginn der pandemischen Lage im Frühjahr 2020 wurden auch für die Ausbildung in den Gesundheitsfachberufen einschneidende Maßnahmen erlassen. Der Erlass des Ministeriums für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen sah eine Einstellung des regulären Unterrichtsbetriebs an Rettungsdienstschulen vor und empfahl zugleich die Entwicklung und Umsetzung digitaler Lehrformate zur Sicherung der Ausbildungskapazität [@schnabelin_masnahmen_2020]. Die bundesweite Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen (EpiGesAusbSichV\label{term:epigesausbsichv}) konkretisierte wenig später, dass digitale Formate sowohl für den theoretischen als auch den praktischen Unterricht zulässig seien und entsprechend von den Schulen umgesetzt werden sollten [@bmg_verordnung_2020, § 2].
 
-Die durch die Covid-19-Pandemie ausgelöste Umstellung auf digitalen Unterricht stellte auch für die hier untersuchte Schule eine Zäsur dar. Vor diesem Hintergrund wurde das bereits bestehende Learning Management System kurzfristig zur zentralen digitalen Infrastruktur weiterentwickelt. Wie @huber_covid-19_2020 im Rahmen des Schul-Barometers zeigen, waren insbesondere fehlende digitale Kompetenzen, unzureichende technische Ausstattung und mangelnde systemische Koordination zentrale Herausforderungen für viele Bildungseinrichtungen im deutschsprachigen Raum [@huber_covid-19_2020, Seite 30]. Im Gegensatz dazu konnte an der hier untersuchten Bildungseinrichtung auf eine bereits zuvor begonnene Systemstruktur zurückgegriffen werden (vgl. \hyperref[sec:3-2-2]{Kapitel 3.2.2}). Die pandemiebedingte Anforderung beschleunigte dabei nicht nur die Nutzung, sondern erforderte eine konkrete Systemanpassung. Innerhalb kürzester Zeit wurden u.a. 848 Aufgaben in 32 Handlungssituationen digital strukturiert, veröffentlicht und zugewiesen. Dies war insofern nur möglich, da die Entwicklung des Curriculums der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern bereits durch die im vorherigen Kapitel beschriebenen Grundgedanken als digitale Realisierung mitgedacht wurde.
+Die durch die Covid-19-Pandemie ausgelöste Umstellung auf digitalen Unterricht stellte auch für die hier untersuchte Schule eine Zäsur dar. Vor diesem Hintergrund wurde das bereits bestehende Learning Management System kurzfristig zur zentralen digitalen Infrastruktur weiterentwickelt. Wie @huber_covid-19_2020 im Rahmen des Schul-Barometers zeigen, waren insbesondere fehlende digitale Kompetenzen, unzureichende technische Ausstattung und mangelnde systemische Koordination zentrale Herausforderungen für viele Bildungseinrichtungen im deutschsprachigen Raum [@huber_covid-19_2020, Seite 30]. Im Gegensatz dazu konnte an der hier untersuchten Bildungseinrichtung auf eine bereits zuvor begonnene Systemstruktur zurückgegriffen werden (vgl. \hyperref[sec:Implementierung-Schule]{Kapitel 3.2.2}). Die pandemiebedingte Anforderung beschleunigte dabei nicht nur die Nutzung, sondern erforderte eine konkrete Systemanpassung. Innerhalb kürzester Zeit wurden u.a. 848 Aufgaben in 32 Handlungssituationen digital strukturiert, veröffentlicht und zugewiesen. Dies war insofern nur möglich, da die Entwicklung des Curriculums der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern bereits durch die im vorherigen Kapitel beschriebenen Grundgedanken als digitale Realisierung mitgedacht wurde.
 
 Rückblickend kann abgeleitet werden, dass die pandemiebedingten Einschränkungen nicht Auslöser, sondern vielmehr Katalysator für die vollständige Entfaltung des zuvor konzipierten Geflechts aus studentischen Leistungen, Curriculumsentwicklung sowie der Anlage des Learning Management Systems waren. Während viele Bildungseinrichtungen vor der Herausforderung standen, kurzfristig digitale Übergangslösungen zu implementieren @huber_covid-19_2020, konnte auf eine bereits didaktisch durchdachte und technisch vorbereitete Infrastruktur zurückgegriffen werden [@huber_covid-19_2020, Seite 34]. Demnach zeigte die im Kontext der Pandemie entstandene Notwendigkeit, sämtliche Lernprozesse digital zu strukturieren, sich damit nicht als Störung, sondern als Gelegenheit, in der das volle Potenzial des bereits vorhandenen Learning Management Systems sichtbar wurde. Die zuvor entwickelten Konzepte, Funktionen und strukturellen Entscheidungen konnten unter Realbedingungen erprobt, ausgeweitet und im laufenden Betrieb angepasst werden. Dieser Prozess ließ bereits erste Elemente einer systemischen Verstetigung erkennen.
 
@@ -120,7 +120,7 @@ Während das bei @gachanja_e-learning_2021 untersuchte E-Learning-Modell unter B
 
 Damit die hier geschilderte Nutzung auch außerhalb von Krisensituationen ihr Potenzial dauerhaft entfalten kann, wurden im hier beschriebenen Learning Management System turnusmäßig Evaluations- und Reflexionsschleifen eingeführt. Ziel dieser Maßnahme war diejenigen Verbesserungspotenziale zu identifizieren, die bereits durch kleinste Anpassungen wirksam werden konnten.
 
-### 3.2.4 Evaluation und Reflexion {#sec:3-2-4}
+### 3.2.4 Evaluation und Reflexion {#sec:Evaluation-Reflexion}
 
 Bereits in der hier mehrfach zitierten studentischen Ausgangsuntersuchung wurde der Versuch unternommen, die Wirkung des eingesetzten Learning Management Systems mithilfe des Evaluating Training Programs nach @kirkpatrick_evaluating_1998 zu evaluieren [@kirkpatrick_evaluating_1998]. Das vierstufige Modell mit den Ebenen Zufriedenheit, Lernen, Verhalten und Ergebnisse kann als Standardrahmen zur Bewertung von Trainingsmaßnahmen betrachtet und grundsätzlich auch auf Bildungsmaßnahmen in Heilberufen übertragen werden [@hanisch_nachhaltiges_2017, Seite 13]. Kirkpatrick\label{term:kirkpatrick-modell}s Modell wurde auf die Evaluation digital gestützter Gruppenarbeitsprozesse angewendet. Die Ergebnisse zeigten jedoch, dass die dort untersuchten Einflussfaktoren, insbesondere Zeit, Struktur und Interaktion, nicht trennscharf den vier Stufen zugeordnet werden konnten. Die Untersuchung wurde daher von einer stufenbasierten Lernbewertung weg, hin zu einer inhaltsbezogenen Wirkungsperspektive verlagert, bei der die nachhaltige Sicherung von Lernergebnissen im Mittelpunkt stand [@hanisch_nachhaltiges_2017, Seite 13–14, 20].
 
@@ -132,9 +132,9 @@ Der vielleicht stärkste Vorteil liegt in der Organisations- und Teilnehmendenfr
 
 Mit der theoretischen Fundierung, empirischen Absicherung und praxisorientierten Anwendbarkeit stellt das TEI ein wissenschaftlich tragfähiges Instrument für die Evaluation in gesundheitsberuflichen Ausbildungsgängen dar. Insgesamt soll die regelmäßige Anwendung des TEI hier als strukturierte Reflexionsinstanz im digitalen Bildungsraum verstanden werden, die die Sicherung einer hohen lernprozessbegleitend Qualität, Optimierung der notwendigen und hilfreichen didaktische Maßnahmen gezielt und zugleich empirisch belastbare Rückschlüsse auf die Wirkung einzelner Handlungssituationen zu ziehen. Das Learning Management System wird dadurch nicht nur als rechtliches, inhaltliches oder technisches Steuerungsinstrument verwendet, sondern auch als Evaluationsträger und didaktisches Analysewerkzeug wirksam und trägt zugleich den besonderen Anforderungen der Ausbildung in den Heilberufen Rechnung. 
 
-## 3.3 Didaktische Architektur als Learning-Environment {#sec:3-3}
+## 3.3 Didaktische Architektur als Learning-Environment {#sec:DidaktischeArchitektur}
 
-Aufbauend auf den in \hyperref[sec:3-1]{Abschnitt 3.1} beschriebenen Entstehungskontext sowie den in \hyperref[sec:3-2]{Abschnitt 3.2} weitergeführten Entwicklungsschritten wird im Folgenden die didaktische Architektur des Learning-Management-Systems vorgestellt. Diese Konzeption beabsichtigte eine digitale Struktur zu schaffen, die nicht nur rechtliche Anforderungen der Ausbildung abbildet, sondern auch die didaktischen Prinzipien systemisch fundierter Kompetenzentwicklung integriert. In dieser Phase entstand auch die in Abbildung 1 gezeigte Skizze zur didaktischen Systemstruktur, die den Anspruch veranschaulicht, aus ersten Überlegungen zur digitalen Unterstützung eine funktionsfähige und kohärente Lernumgebung zu entwickeln.
+Aufbauend auf den in \hyperref[sec:Kontext-FG]{Abschnitt 3.1} beschriebenen Entstehungskontext sowie den in \hyperref[sec:Entwicklung-Einbettung]{Abschnitt 3.2} weitergeführten Entwicklungsschritten wird im Folgenden die didaktische Architektur des Learning-Management-Systems vorgestellt. Diese Konzeption beabsichtigte eine digitale Struktur zu schaffen, die nicht nur rechtliche Anforderungen der Ausbildung abbildet, sondern auch die didaktischen Prinzipien systemisch fundierter Kompetenzentwicklung integriert. In dieser Phase entstand auch die in Abbildung 1 gezeigte Skizze zur didaktischen Systemstruktur, die den Anspruch veranschaulicht, aus ersten Überlegungen zur digitalen Unterstützung eine funktionsfähige und kohärente Lernumgebung zu entwickeln.
  
 Abbildung 1: Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 2016)
 
@@ -144,10 +144,10 @@ Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learni
 
 Die Skizze bildete das konzeptionelle Fundament der ersten Entwicklungsphase und visualisiert die Idee, innerhalb eines digitalen Bildungsraums Handlungssituationen, Lernorte und Kursorganisation so miteinander zu verbinden, dass eine strukturierte und individuelle Kompetenzentwicklung möglich wird. Besonders herauszustellen ist dabei die Trennung zwischen inhaltlicher Struktur und organisatorischer Kurslogik, wodurch eine hohe Flexibilität bei gleichzeitiger Kohärenz erreicht werden sollte. Die frühe Berücksichtigung aller drei Lernorte sowie die intendierte Rückführung kursinterner Erkenntnisse in die übergeordneten Lerneinheiten legen den systemischen Anspruch dieser Struktur offen [@hanisch_wirkgefuge_2022, Abschnitt 2.3].
 
-### 3.3.1 Konzeptionelle Grundkonstruktion {#sec:3-3-1}
+### 3.3.1 Konzeptionelle Grundkonstruktion {#sec:Grundkonstruktion}
 
-Anfangs stand weniger ein fertiges Konzept als vielmehr die Idee eines Weges, der, inspiriert von der Vorstellung, eine Ausbildung zu entwickeln, die mit Haltung, Struktur und kontinuierlicher Entfaltung nicht nur Inhalte vermittelt, sondern berufliche Identität formt (i.A.a. [@miyamoto_buch_2005, Seite 64–69]). Diese Idee eines strukturierten und durchlässigen Pfads wurde zur Grundlage der didaktischen Systemstruktur und damit zur Ausgangsbasis für die Architektur des Learning Management Systems. Die Konzeption der Handlungssituationen als Kurseinheiten im LMS orientiert sich inhaltlich und strukturell am Rahmenlehrplan NRW\label{term:rahmenlehrplan-nrw} zur Ausbildung von Notfallsanitäter*innen, insbesondere an dessen systematischer Gliederung in insgesamt 10 Lernfelder [@mgpa_nrw_rahmenlehrplan_2016, Seite 3]. Diese Lernfelder beschreiben konkrete berufliche Anforderungen und bilden den Kern einer kompetenzorientierten Ausbildung, die durch die hier entwickelte, digitale Struktur diese Logik in ein modular aufgebautes, sequenziell organisiertes Kurssystem überträgt. So entstehen Handlungssituationen, die, ähnlich wie Etappen auf einem Weg, den Lernprozess begleiten, strukturieren und situativ adaptierbar machen Diese Vorstellung wird in Abbildung X („Trajektorie“) simuliert und visuell aufgegriffen (vgl. \hyperref[sec:2-1-2]{Abschnitt 2.1.2}).
-In dieser Form ist das Learning Management System nicht nur ein digitales Abbild der Ausbildung, sondern die konkrete Umsetzung eines pädagogischen Weges, der systemisch gedacht, curricular verankert und lernprozessbezogen gestaltet ist. Auf Grundlage der in \hyperref[sec:2-1]{Abschnitt 2.1} dargestellten didaktischen Paradigmen wurden zunächst die im Lehrplan als „erwünschte Wirkung“ bezeichneten Kompetenzbeschreibungen in das Kompetenzraster des Learning Management Systems übertragen. Darauf aufbauend erfolgte die systematische Zuordnung der in \hyperref[sec:3-2-2]{Abschnitt 3.2.2} erwähnten handlungsleitenden Aufgaben, die bereits im Lehrplan mediendidaktisch formuliert vorlagen, zu den jeweiligen Handlungssituationen innerhalb der Kursstruktur. Auf diese Weise entstand eine digitale Architektur, die curriculare Kompetenzziele mit konkreten Lernhandlungen verbindet – strukturiert, adressierbar und systematisch verknüpft mit den drei Lernorten Schule, Lehrrettungswache und Krankenhaus.
+Anfangs stand weniger ein fertiges Konzept als vielmehr die Idee eines Weges, der, inspiriert von der Vorstellung, eine Ausbildung zu entwickeln, die mit Haltung, Struktur und kontinuierlicher Entfaltung nicht nur Inhalte vermittelt, sondern berufliche Identität formt (i.A.a. [@miyamoto_buch_2005, Seite 64–69]). Diese Idee eines strukturierten und durchlässigen Pfads wurde zur Grundlage der didaktischen Systemstruktur und damit zur Ausgangsbasis für die Architektur des Learning Management Systems. Die Konzeption der Handlungssituationen als Kurseinheiten im LMS orientiert sich inhaltlich und strukturell am Rahmenlehrplan NRW\label{term:rahmenlehrplan-nrw} zur Ausbildung von Notfallsanitäter*innen, insbesondere an dessen systematischer Gliederung in insgesamt 10 Lernfelder [@mgpa_nrw_rahmenlehrplan_2016, Seite 3]. Diese Lernfelder beschreiben konkrete berufliche Anforderungen und bilden den Kern einer kompetenzorientierten Ausbildung, die durch die hier entwickelte, digitale Struktur diese Logik in ein modular aufgebautes, sequenziell organisiertes Kurssystem überträgt. So entstehen Handlungssituationen, die, ähnlich wie Etappen auf einem Weg, den Lernprozess begleiten, strukturieren und situativ adaptierbar machen Diese Vorstellung wird in Abbildung X („Trajektorie“) simuliert und visuell aufgegriffen (vgl. \hyperref[sec:Systemisch-konstruktivistische-Theorie]{Abschnitt 2.1.2}).
+In dieser Form ist das Learning Management System nicht nur ein digitales Abbild der Ausbildung, sondern die konkrete Umsetzung eines pädagogischen Weges, der systemisch gedacht, curricular verankert und lernprozessbezogen gestaltet ist. Auf Grundlage der in \hyperref[sec:Bildungswiss-Verortung]{Abschnitt 2.1} dargestellten didaktischen Paradigmen wurden zunächst die im Lehrplan als „erwünschte Wirkung“ bezeichneten Kompetenzbeschreibungen in das Kompetenzraster des Learning Management Systems übertragen. Darauf aufbauend erfolgte die systematische Zuordnung der in \hyperref[sec:Implementierung-Schule]{Abschnitt 3.2.2} erwähnten handlungsleitenden Aufgaben, die bereits im Lehrplan mediendidaktisch formuliert vorlagen, zu den jeweiligen Handlungssituationen innerhalb der Kursstruktur. Auf diese Weise entstand eine digitale Architektur, die curriculare Kompetenzziele mit konkreten Lernhandlungen verbindet – strukturiert, adressierbar und systematisch verknüpft mit den drei Lernorten Schule, Lehrrettungswache und Krankenhaus.
 Das didaktisch-digitale Fundament des hier skizzierten Learning Management Systems bilden 32 Kurse, die, wie Abbildung 2 verdeutlicht, als „Handlungssituationen im Gesundheitswesen“ die gesamten inhaltlichen Dimensionen der Lernfelder des Rahmenlehrplans NRW abbilden. Ergänzend wird pro Ausbildungskurs eine kursinterne Umgebung zur Verfügung gestellt, in der die individuellen Erkenntnisse und Arbeitsergebnisse der jeweiligen Kohorte gesichert und dokumentiert werden können. Besonders an dieser Organisationsform ist die bewusste Trennung zwischen inhaltlicher Struktur und organisatorischer Kurslogik, wodurch eine hohe Flexibilität entsteht, innerhalb derer Lernende bei der Absolvierung oder Wiederholung einzelner Ausbildungsabschnitte gezielt an ihre individuellen fachlich-inhaltlichen Lernstände anknüpfen können, ohne die Kohärenz der Gesamtstruktur zu verlieren.
 
 \begin{figure}[H]
@@ -199,7 +199,7 @@ Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den B
 
 Sichtbar werden die strukturierten Inhaltsbereiche, die für alle Kurse einheitlich implementiert wurden und den Rahmen für lernprozessbegleitende Navigation, Dokumentation und Kommunikation bilden.
 
-### 3.3.2 Didaktisch-architektonische Umsetzung {#sec:3-3-2}
+### 3.3.2 Didaktisch-architektonische Umsetzung {#sec:DidaktischeUmsetzung}
 
 Die didaktische Umsetzung innerhalb des Learning Management Systems erfolgt auf Basis einer modularen Containerstruktur, die in sämtlichen Handlungssituationen identisch aufgebaut ist und sowohl Orientierung als auch didaktische Kohärenz gewährleisten soll. Diese Struktur basiert auf sieben wiederkehrenden Inhaltsbereichen, die den curricularen Anforderungen der Ausbildung entsprechen und zugleich eine lernlogische Sequenz abbilden. Im Folgenden werden diese zentralen Container exemplarisch dargestellt.
 Einführung
@@ -207,7 +207,7 @@ Die Einführung dient der strukturellen Rahmung jeder Handlungssituation. Hier w
 
 Abbildung 5: LMS Kurs Einführung (eig. Darstellung)
 
-+++++ Abbildung notwendig? +++++
+#todo: Abbildung einfügen prüfen
 
 Die Abbildung zeigt die strukturelle Umsetzung des Containers „Einführung“, der grundlegende Informationen zur Kursleitung, Zielstellung und Orientierung innerhalb des Ausbildungsgangs bereitstellt.
 
@@ -217,18 +217,18 @@ Der Container in Abbildung 6 stellt zentrale Materialien zur Verfügung, die fü
 
 Abbildung 6: LMS Kurs Ressourcen (eig. Darstellung)
 
-+++++ Abbildung notwendig? +++++
+#todo: Abbildung einfügen prüfen
 
 Die Abbildung zeigt die Bereitstellung zentraler Lernmaterialien in strukturierter Form. Die Materialien orientieren sich an curricularen Kompetenzanforderungen und bilden die inhaltliche Grundlage für die Bearbeitung der Aufgaben innerhalb der jeweiligen Handlungssituation.
 
-Aus didaktischer Perspektive erfüllen die Ressourcen zwei Funktionen. Einerseits stehen sie als inhaltlicher Ausgangspunkt für die selbstständige Aufgabenbearbeitung, andererseits ermöglichen sie eine inhaltlich fundierte Auseinandersetzung mit den relevanten berufspraktischen Themen. Insofern korrespondieren die Ressourcen in direkter Linie zur Prüfungsvorbereitung und markieren den Bereich, in dem aus curricularer Tiefe prüfungsrelevante Breite wird. Die Relevanz dieser Materialien ergibt sich insbesondere aus der in \hyperref[sec:3-3-3]{Abschnitt 3.3.3} beschriebenen Konzeption der Aufgabenformate, die sich wiederum an dem in \hyperref[sec:3-1-1]{Abschnitt 3.1.1} dargestellte Ausbildungsziel orientiert. Demzufolge trägt die geplante Bereitstellung dieser Ressourcen dazu bei, sowohl Transparenz über zu erwerbende Kompetenzen herzustellen als auch die strukturelle Prüfungsrelevanz für die Auszubildenden nachvollziehbar zu gestalten.
+Aus didaktischer Perspektive erfüllen die Ressourcen zwei Funktionen. Einerseits stehen sie als inhaltlicher Ausgangspunkt für die selbstständige Aufgabenbearbeitung, andererseits ermöglichen sie eine inhaltlich fundierte Auseinandersetzung mit den relevanten berufspraktischen Themen. Insofern korrespondieren die Ressourcen in direkter Linie zur Prüfungsvorbereitung und markieren den Bereich, in dem aus curricularer Tiefe prüfungsrelevante Breite wird. Die Relevanz dieser Materialien ergibt sich insbesondere aus der in \hyperref[sec:Pruefungsarchitektur]{Abschnitt 3.3.3} beschriebenen Konzeption der Aufgabenformate, die sich wiederum an dem in \hyperref[sec:RechtlicheRahmung]{Abschnitt 3.1.1} dargestellte Ausbildungsziel orientiert. Demzufolge trägt die geplante Bereitstellung dieser Ressourcen dazu bei, sowohl Transparenz über zu erwerbende Kompetenzen herzustellen als auch die strukturelle Prüfungsrelevanz für die Auszubildenden nachvollziehbar zu gestalten.
 Aufgaben
-Als didaktisches Kernstück jeder Handlungssituation im Learning Management System bauen die Aufgaben stets auf den rechtlich vorgegebenen Ausbildungsinhalten auf und werden aus diesen grundsätzlich abgeleitet. Sie sind handlungsorientiert formuliert, werden durch die Nutzung der Einsatzberichte (vgl. \hyperref[sec:3-5]{Abschnitt 3.5}) auf konkrete berufliche Problemstellungen bezogen und greifen die Struktur der jeweiligen Lernsituation auf, wie sie durch die curricularen Vorgaben der Ausbildungs- und Prüfungsverordnung sowie den Rahmenlehrplan definiert ist. Infolgedessen ermöglichen die Aufgaben eine direkte Verknüpfung zwischen beruflicher Handlungspraxis und digitaler Aufgabenbearbeitung; ein zentraler Aspekt, der im Bereich des Feedbacks durch die eigene Evaluation (vgl. \hyperref[sec:3-2-4]{Abschnitt 3.2.4}) aufgegriffen wird.
+Als didaktisches Kernstück jeder Handlungssituation im Learning Management System bauen die Aufgaben stets auf den rechtlich vorgegebenen Ausbildungsinhalten auf und werden aus diesen grundsätzlich abgeleitet. Sie sind handlungsorientiert formuliert, werden durch die Nutzung der Einsatzberichte (vgl. \hyperref[sec:E-Portfolio]{Abschnitt 3.5}) auf konkrete berufliche Problemstellungen bezogen und greifen die Struktur der jeweiligen Lernsituation auf, wie sie durch die curricularen Vorgaben der Ausbildungs- und Prüfungsverordnung sowie den Rahmenlehrplan definiert ist. Infolgedessen ermöglichen die Aufgaben eine direkte Verknüpfung zwischen beruflicher Handlungspraxis und digitaler Aufgabenbearbeitung; ein zentraler Aspekt, der im Bereich des Feedbacks durch die eigene Evaluation (vgl. \hyperref[sec:Evaluation-Reflexion]{Abschnitt 3.2.4}) aufgegriffen wird.
 Die Aufgabenstellungen werden durch didaktisch begründete Operatoren formuliert, die eine transparente und kompetenzorientierte Anforderungsstruktur gewährleisten und sich an der Kompetenzstufung orientieren. Die Aufgaben, wie sie in Abbildung 7 präsentiert werden, sind so gestaltet, dass sie sowohl die eigenständige Auseinandersetzung mit fachlichen Inhalten als auch kooperative Bearbeitungsformen der Akteure ermöglichen. Zudem wird dieser Abschnitt durch ein Bearbeitungsforum ergänzt, das den Austausch von Ideen fördert und Reflexionsprozesse anregt.
 
 Abbildung 7: LMS Kurs Aufgaben (eig. Darstellung)
 
-+++++ Abbildung notwendig? +++++
+#todo: Abbildung einfügen prüfen
 
 Die Abbildung zeigt beispielhafte Aufgabenformate zur Bearbeitung beruflicher Handlungssituationen. Operatoren und strukturierte Aufgabenbereiche ermöglichen eine kompetenzorientierte Formulierung und eine praxisnahe Umsetzung curricularer Anforderungen.
 Die lernleitenden Aufgaben sind inhaltlich eng mit den bereitgestellten Ressourcen verknüpft, was in der Regel durch die Quellenangaben bei der Aufgabendarlegung gewährleistet wird. Eine beispielhafte Aufgabenstellung lautet bspw. in der beruflichen Handlungssituation 1: Einführung in die Berufsausbildung Notfallsanitäter (Hanisch-Johannsen [@hanisch-johannsen_nfs-h-01_2025]):
@@ -240,7 +240,7 @@ Die Ergebnissicherung ist der didaktisch-strukturelle Abschluss jeder Handlungss
 
 Abbildung 8: LMS Kurs Ergebnissicherung (eig. Darstellung)
 
-+++++ Abbildung notwendig? +++++
+#todo: Abbildung einfügen prüfen
 
 Die Darstellung zeigt die zentralen Elemente der Ergebnissicherung in einem Handlungssituationskurs: ein Wiki und ein Glossar dienen der kollaborativen Dokumentation und Strukturierung von Lernergebnissen. Beide Aktivitäten stehen exemplarisch für die systematische Umsetzung der in Abschnitt 3.2 empirisch begründeten Forderung nach zeitnaher, zugänglicher und formativ nutzbarer Ergebnissicherung im digitalen Bildungsraum.
 
@@ -250,9 +250,11 @@ Weiterführende Quellen
 
 Dieser Container bietet zusätzliche Materialien, die das Verständnis vertiefen, den Kontext erweitern oder das Wissen ergänzen. Er zielt darauf ab, die Lernsituation über den unmittelbaren Aufgabenhorizont hinaus zu öffnen. Die weiterführenden Quellen sind bislang jedoch noch unzureichend ausgearbeitet und müssen in Funktion sowie didaktischer Ausrichtung systematisch neu organisiert werden. Wie in Abbildung 9 aufgezeigt, soll jene Aktivitäten und Materialien sammeln, die über die curricular angebundenen Ressourcen hinausgehen. Während die Ressourcen auf verpflichtende, direkt zugeordnete Inhalte fokussieren, enthalten die weiterführenden Quellen kontextualisierende, aktualisierende oder reflexionsfördernde Inhalte, die eigenständige Wissensprozesse anregen und vertiefen. Damit wird sichergestellt, dass einerseits aktuelle, wissenschaftlich begründete Literatur zur Verfügung steht und andererseits Transferleistungen möglich werden, die im Sinne der NotSan-APrV  den Anforderungen in besonderem Maß entsprechen (§ 8 NotSan-APrV, 2023). Diese Verankerung ist insbesondere mit Blick auf prüfungsrelevante Anforderungen von Bedeutung. Die Bereitstellung aktueller, evidenzbasierter und interdisziplinärer Quellen eröffnet Lernenden die Möglichkeit, über den Pflichtstoff hinausgehende Leistungen zu erbringen, d.h. als ein zentrales Kriterium für die Erreichung der Bestnote. Gleichzeitig adressiert dieser Bereich Anforderungen an Transferkompetenz und wissenschaftliches Arbeiten, die explizit als „allgemein“ anerkannter Stand „rettungsdienstlicher, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse“ (§ 2 NotSan-APrV, 2023) gefordert werden.
 
+#todo: die neue Entwicklung einführen, d.h. das Forum etc.
+
 Abbildung 9: LMS Kurs Weiterführende Quellen (eig. Darstellung)
 
-+++++ Abbildung notwendig? +++++
+#todo: Abbildung einfügen prüfen
 
 Der Container „Weiterführende Quellen“ enthält eine strukturierte Sammlung ergänzender Literatur, Datenbanken und wissenschaftlicher Ressourcen zur Vertiefung und Kontextualisierung der Lerninhalte. Die Auswahl umfasst fachliche Leitlinien, Verzeichnisse medizinischer Fachgesellschaften, Plattformen für wissenschaftliches Arbeiten sowie kuratierte Blogs und evidenzbasierte Onlineportale. Die Liste ist dynamisch angelegt und kann im Sinne einer lernenden Organisation durch die Lernenden fortlaufend erweitert werden. Ziel ist die Förderung wissenschaftsorientierter Transferleistungen im Sinne einer prüfungsrelevanten Vertiefung gemäß § 8 NotSan-APrV.
 
@@ -260,14 +262,16 @@ Einschränkend muss derzeit konstatiert werden, dass bislang noch kein schlüssi
 Der Container weiterführende Quellen trägt somit zur Erweiterung des individuellen Lernhorizonts bei und bewirkt zugleich eine strukturelle Voraussetzung für eine differenzierte Leistungsbewertung im Sinne evidenzbasierten Handelns.
 
 Lounge
-Als digitaler Kommunikationsraum stellt die Lounge einen informellen Austauschbereich dar, in dem Fragen, Hinweise, aber auch erfahrungsbasierte Reflexionen unter den Lernenden und Lehrenden geteilt werden können. Die Lounge ist als niedrigschwelliger Einstiegspunkt in kooperatives Lernen gedacht. Hier das prägnante Beispile, weshalb die Ahrl von Begriffen bedeutsam erscheint: Lounge erzeugt Assoziationen, die in dder Wahrnemungspsychologie ableitbare Wirkungen erzeugt (vgl. \hyperref[sec:2-2]{Abschnitt 2.2}).
+Als digitaler Kommunikationsraum stellt die Lounge einen informellen Austauschbereich dar, in dem Fragen, Hinweise, aber auch erfahrungsbasierte Reflexionen unter den Lernenden und Lehrenden geteilt werden können. Die Lounge ist als niedrigschwelliger Einstiegspunkt in kooperatives Lernen gedacht. Hier das prägnante Beispile, weshalb die Ahrl von Begriffen bedeutsam erscheint: Lounge erzeugt Assoziationen, die in dder Wahrnemungspsychologie ableitbare Wirkungen erzeugt (vgl. \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.2}).
 Feedback und Evaluation
 Dieser Bereich unterstützt bei der formativen Rückmeldung. Hier wird das Training Evaluation Inventory (TEI)\label{term:tei} kursbegleitend eingesetzt, um sowohl die didaktische Gestaltung als auch die wahrgenommenen Trainingseffekte strukturiert zu evaluieren. Der Feedbackbereich ermöglicht zudem offene Rückmeldungen zur jeweiligen Handlungssituation.
 Alle hier dargestellten Elemente sind zudem mit dem Kompetenzraster verbunden, welches 
 
-### 3.3.3 Prüfungsarchitektur {#sec:3-3-3}
+### 3.3.3 Prüfungsarchitektur {#sec:Pruefungsarchitektur}
 
-### 3.3.4 Statistische Analyse curriculare Struktur {#sec:3-3-4}
+Text
+
+### 3.3.4 Statistische Analyse curriculare Struktur {#sec:CurriculareAnalyse}
 
 Dieser Abschnitt ist als empirischer Kurzbeitrag im Stil wissenschaftlicher Studien angelegt und analysiert die curriculare Struktur des digitalen Bildungsraums „NFS-H“ mit dem Ziel, die empirische Nachvollziehbarkeit, interne Konsistenz und regulatorische Anschlussfähigkeit des Kursplans quantitativ zu überprüfen. Damit wird gezeigt, dass der zugrunde liegende Lehrplan nicht nur konzeptionell schlüssig, sondern auch datenbasiert strukturiert ist. Die vorliegende Analyse orientiert sich eng an zentralen Prinzipien der Curriculumsforschung. Sie greift das Konzept des Curriculum Alignment\label{term:curriculum-alignment} (Biggs, 1996, S. 360–361) auf, das die Passung zwischen Lernzielen, Prüfungsanforderungen und curricularer Struktur thematisiert. Darüber hinaus folgt sie dem Ansatz des Programmatic Assessment\label{term:programmatic-assessment} (Van Der Vleuten et al., 2012, Abschnitt Principles of assessment), der die Konsistenz über multiple curriculare Elemente hinweg betont. Schließlich wird durch die systematische Quantifizierung didaktischer Strukturen ein Beitrag zur datenbasierten Modellierung von Bildungsarchitekturen geleistet. Die methodische Umsetzung über algorithmische Kürzelzuordnung, statistische Auswertung und Visualisierung stellt einen innovativen Zugang dar, um curriculare Kohärenz empirisch zu fundieren, was insbesondere im Kontext digitaler Bildungsräume im Gesundheitswesen bedeutsam erscheint.
 
@@ -308,37 +312,37 @@ Auch die Verteilung der Kompetenzbereiche (vgl. Abbildung 9) wurde rekonstruiert
 
 Abbildung 10: Anteil der Themenbereiche nach APrV (eig. Darstellung)
 
-+++++ Abbildung einfügen +++++
+#todo: Abbildung einfügen
 
 Die Abbildung  visualisiert die prozentuale Verteilung der inhaltlichen Themenbereiche gemäß Anlage 1 der Ausbildungs- und Prüfungsverordnung für Notfallsanitäter*innen (NotSan-APrV). Diese drei Themenbereiche – medizinisch (27 %), rettungsdienstlich (47 %) und bezugswissenschaftlich (26 %) – bilden die normative Grundlage des theoretischen und praktischen Unterrichts über 1.920 Stunden (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44, 47). Der größte Anteil entfällt auf rettungsdienstliche Inhalte, was den praktischen Handlungsschwerpunkt des Berufsbildes reflektiert. Der medizinische Bereich steht für die Anwendung pathophysiologischer und diagnostischer Kenntnisse, während bezugswissenschaftliche Inhalte (z. B. Psychologie, Kommunikation, Recht) die theoretische Fundierung ergänzen. Die Darstellung dient als Referenzwert für den Abgleich mit der empirischen Struktur des digitalen Curriculums.
 
 Abbildung 11: Anteil der Kompetenzbereiche nach APrV (eig. Darstellung)
 
-+++++ Abbildung einfügen +++++
+#todo: Abbildung einfügen
 
 Die Abbildung  zeigt, bezogen auf den Gesamtumfang der Ausbildung, die in der NotSan-APrV verankerte Kompetenzgewichtung. Die vier Kompetenzbereiche – fachlich (24 %), sozial (15 %), personal (11 %) und methodisch (50 %) – definieren die Zielstruktur beruflicher Handlungskompetenz im Rettungsdienst (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 47). Der besonders hohe Anteil methodischer Kompetenzen spiegelt die Bedeutung strukturierter Vorgehensweisen, Entscheidungsalgorithmen und standardisierter Handlungsroutinen im beruflichen Alltag wider. Fachliche, soziale und personale Anteile ergänzen diesen Schwerpunkt um domänenspezifisches Wissen, Interaktionsfähigkeit und individuelle Reflexionsfähigkeit. Die Darstellung dient als normativer Referenzrahmen zur Bewertung des digital abgebildeten Curriculums im Hinblick auf seine kompetenzorientierte Ausrichtung.
 
 Abbildung 12: Vergleich Themengewichtung APrV-Schätzung vs. NFS-H-Lehrplan (eig. Darstellung)
 
-+++++ Abbildung einfügen +++++
+#todo: Abbildung einfügen
 
 Die Balkengrafik  kontrastiert die normativ vorgegebene Verteilung der Themenbereiche gemäß NotSan-APrV mit der empirisch erhobenen Verteilung im digitalen Curriculum „NFS-H“. Während die APrV eine Gewichtung von 47 % rettungsdienstlich, 27 % medizinisch und 26 % bezugswissenschaftlich vorgibt (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44, 47), zeigt die Umsetzung im Curriculum eine nahezu deckungsgleiche Relation (Ø Kursdauer: 57,0 / 27,2 / 21,3 Tage). Die hohe Übereinstimmung verdeutlicht, dass die digitale Bildungsarchitektur nicht nur formal regelkonform ist, sondern auch inhaltlich anschlussfähig zur gesetzlichen Grundlage gestaltet wurde. Damit wird eine zentrale Voraussetzung für die curriculare Validität erfüllt.
 
 Abbildung 13: Kompetenzgewichtung APrV-Schätzung vs. NFS-H-Lehrplan (eig. Darstellung)
 
-+++++ Abbildung einfügen +++++
+#todo: Abbildung einfügen
 
 Die Abbildung  vergleicht die vier Kompetenzbereiche fachlich, sozial, personal und methodisch hinsichtlich ihres relativen Anteils an der curricularen Kursdauer. Die normativen Vorgaben der NotSan-APrV (z. B. 50 % methodisch, 24 % fachlich) werden den empirisch ermittelten Anteilen im Curriculum gegenübergestellt. Die Daten zeigen, dass die Gewichtung der Kompetenzbereiche im digitalen Lehrplan des „NFS-H“ weitgehend der gesetzlich intendierten Verteilung (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 47) entspricht. Die methodische Dominanz in beiden Perspektiven legt nahe, dass die Ausbildung nicht nur auf inhaltliche Vermittlung, sondern auch auf handlungsbezogene Umsetzung im Sinne einer professionellen Handlungskompetenz zielt. Die Parallelität unterstützt somit die Annahme einer curriculären Implementierung.
 
 Abbildung 14: Verteilung der Aufgaben pro Themenbereich (eig. Darstellung)
 
-+++++ Abbildung einfügen +++++
+#todo: Abbildung einfügen
 
 Die Boxplot-Darstellung  zeigt die Anzahl der Aufgaben in den 32 Kursen, gruppiert nach den Bezugskategorien (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44–45) medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung. Erkennbar ist, dass die rettungsdienstlichen Kurse mit einem Median von über 30 Aufgaben eine deutlich höhere Aufgabenlast aufweisen als die anderen Bereiche. Die bezugswissenschaftlichen Module liegen im unteren Bereich, während medizinische Kurse ein mittleres Aufgabenvolumen abbilden. Die geringe Streuung innerhalb der Themenbereiche und die ausgeprägte Differenzierung zwischen ihnen weisen auf eine strukturierte und differenzierte didaktische Konzeption hin.
 
 Abbildung 15: Verteilung der Kursdauer pro Themenbereich (eig. Darstellung)
 
-+++++ Abbildung einfügen +++++
+#todo: Abbildung einfügen
 
 Die Boxplot-Darstellung  visualisiert die Dauer der 32 Kurse in Tagen, differenziert nach den vier Bezugskategorien (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44–45). Auffällig ist der signifikant höhere Medianwert der rettungsdienstlichen Kurse (Ø 57 Tage), was den inhaltlich-praktischen Anforderungen dieses Bereichs entspricht. Medizinische und bezugswissenschaftliche Kurse weisen deutlich kürzere und zugleich eng beieinanderliegende Dauerverteilungen auf. Die Einführung und Prüfung bilden als Sonderkategorie zwei randständige Ausreißer mit jeweils kurzer Laufzeit. Insgesamt belegt die Verteilung eine hohe curriculare Abstimmung hinsichtlich zeitlicher Allokation und thematischer Komplexität.
 
@@ -360,7 +364,7 @@ Ausblick
 
 Diese Analyse verdeutlicht exemplarisch, wie digitale Curricula im Gesundheitswesen systematisch und datenbasiert analysieren werden können. Die Verbindung zwischen regulatorischer Struktur (NotSan-APrV), inhaltlicher Codierung und quantitativer Auswertung liefert ein konsistentes Argument für die Validität digitaler Bildungsräume und deren Anschlussfähigkeit an curriculare Standards. Die Analyse ist ein methodischer Beitrag zur curricularen Forschung und belegt empirisch die Anschlussfähigkeit des digitalen Curriculums an die gesetzliche Struktur der NotSan-APrV. Die normative Fundierung wird mittels dieser Analyse statistisch nachgewiesen.
 
-## 3.4 Operative Architektur als Arbeits- und Lernumgebung {#sec:3-4}
+## 3.4 Operative Architektur als Arbeits- und Lernumgebung {#sec:OperativeArchitektur}
 
 Die bestehende didaktische Architektur des Learning Management Systems kann zur Berücksichtigung des operativen Bereichs um die lernprozessbezogene Struktur erweitert werden. Einerseits basiert der Aufbau bereits auf einer Organisationsstruktur, die in der Lehre aktiv genutzt wird und daher unmittelbar anschlussfähig ist. Andererseits ermöglicht die komplementäre Benutzung durch Lehrkräfte im operativen Alltag, das System nicht nur als didaktisches Werkzeug, sondern auch als erlebbares Arbeitsmittel zu nutzen. So können Lehrkräfte die Vorteile und Begrenzungen des Systems direkt erfahren. Zur kontextuellen Einordnung dieser operativen Architektur des hier beschriebenen Learning Management Systems können weiterhin zwei Aufsätze als Referenzrahmen dienen. Beide Studien zeigen, dass digitale Systeme nicht nur für Lehr-Lern-Prozesse, sondern auch für administrative, organisatorische und arbeitsplatzbezogene Zwecke eingesetzt werden können. Gleichzeitig verdeutlichen die Arbeiten die Grenzen bestehender Ansätze, die sich hauptsächlich in ihrer strukturellen Tiefe und curricularen Integration unterscheiden.
 
@@ -374,8 +378,8 @@ Im Vergleich dazu ist der hier betrachtete Anteil des Learning Management System
 
 Bereits in der didaktischen Architektur finden organisatorische Elemente ihren Raum. Neben der in Abschnitt 3.3 beschriebenen Containerstruktur existieren weitere Funktionen, die den operativen Betrieb unterstützen. Dazu zählen u.a. die Kursadministration, die Nutzerverwaltung, die Terminplanung und die Kommunikationswerkzeuge. Diese Funktionen sind integraler Bestandteil des Systems und ermöglichen eine nahtlose Verbindung zwischen Lernprozessen und organisatorischen Abläufen. So können Lehrende beispielsweise Kursmaterialien bereitstellen, Aufgaben verwalten und Feedback geben, während gleichzeitig administrative Aufgaben wie Teilnehmermanagement, Fortschrittsüberwachung und Berichterstattung durchgeführt werden können. Diese duale Funktionalität trägt dazu bei, dass das Learning Management System nicht nur als didaktisches Werkzeug, sondern auch als operatives Arbeitsmittel genutzt wird.
 
-## 3.5 E-Portfolio als Reflexions- und Transferinstrument {#sec:3-5}
+## 3.5 E-Portfolio als Reflexions- und Transferinstrument {#sec:E-Portfolio}
 
-## 3.6 Technische Rahmenbedingungen {#sec:3-6}
+## 3.6 Technische Rahmenbedingungen {#sec:TechnischeRahmen}
 
 @dyrna_methoden_2021 als technische Klassifizierung

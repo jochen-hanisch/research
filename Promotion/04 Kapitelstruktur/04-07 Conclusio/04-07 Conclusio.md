@@ -1,13 +1,13 @@
 \newpage
 
-# 7 Conclusio und Ausblick {#sec:7}
+# 7 Conclusio und Ausblick {#sec:Conclusio}
 
-## 7.0 Manifestartiger Abschluss: Interdependenz als Grundform des digitalen Bildungsraums {#sec:7-0}
+## 7.0 Manifestartiger Abschluss: Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
-Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:6-3-1]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum nicht als Zielzustand, sondern als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:2]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:3]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:4]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:5]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
+Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum nicht als Zielzustand, sondern als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
 **Grundarchitektur der Wirkdimensionen (als Basis für alle Thesen)**  
-Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in \hyperref[sec:2]{Kapitel 2}, \hyperref[sec:3]{Kapitel 3}, \hyperref[sec:4]{Kapitel 4} und \hyperref[sec:5]{Kapitel 5} herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Beobachtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
+Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in \hyperref[sec:Theorieteil]{Kapitel 2}, \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, \hyperref[sec:Methodologie]{Kapitel 4} und \hyperref[sec:Ergebnisse]{Kapitel 5} herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Beobachtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
 Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrscheinlichkeit kann isoliert betrachtet werden; das Wirkgefüge entfaltet sich erst aus ihrer Kopplung.
 
 **Prämissen des Manifests**
@@ -62,26 +62,26 @@ Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. 
 
 Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
-## 7.1 Zusammenfassung der zentralen Ergebnisse {#sec:7-1}
+## 7.1 Zusammenfassung der zentralen Ergebnisse {#sec:Conclusio-Zusammenfassung}
 
 - Verdichtung der wichtigsten Befunde aus Kapitel 5.
 - Rückbindung an die Zielsetzung aus Kapitel 1.
 
-## 7.2 Theoretische Schlussfolgerungen {#sec:7-2}
+## 7.2 Theoretische Schlussfolgerungen {#sec:Conclusio-Theorie}
 
 - Beitrag zum Verständnis des digitalen Bildungswirkgefüges.
 - Konsequenzen für zukünftige Theorieentwicklung.
 
-## 7.3 Praktische Implikationen {#sec:7-3}
+## 7.3 Praktische Implikationen {#sec:Conclusio-Praxis}
 
 - Empfehlungen für die Gestaltung und Implementierung von Learning Management System (LMS). 
 - Hinweise für Bildungsinstitutionen und Lehrpraxis.
 
-## 7.4 Grenzen der Arbeit {#sec:7-4}
+## 7.4 Grenzen der Arbeit {#sec:Conclusio-Grenzen}
 
 - Reflexion der größten Limitierungen und ihrer Auswirkungen.
 
-## 7.5 Ausblick {#sec:7-5}
+## 7.5 Ausblick {#sec:Conclusio-Ausblick}
 
 - Perspektiven für weiterführende Forschung.
 - Skizzierung möglicher Entwicklungs- und Transferpfade.
