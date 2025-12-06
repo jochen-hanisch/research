@@ -6,7 +6,7 @@ In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsrau
 
 Table: Übersicht Berufliche Handlungssituationen \label{tab:A-5}
 
-| Kursbezeichnung | Titel                                                                 | $\sum$ Aufgaben | Dauer [d] |
+| Kurs            | Titel                                                                 | $\sum$ Aufgaben | Dauer [d] |
 |-----------------|-----------------------------------------------------------------------|-----------:|----------:|
 | NFS-H-01        | Einführung in die berufliche Ausbildung                               |          6 |         7 |
 | NFS-H-02        | Das eigene Berufsfeld erkunden und berufliches Selbstverständnis entwickeln |         16 |        32 |
