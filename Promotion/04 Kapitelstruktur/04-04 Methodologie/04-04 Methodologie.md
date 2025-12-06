@@ -6,7 +6,7 @@ Kapitel 4 stellt die in dieser Arbeit entwickelte, eigenständige Methodologie 
 
 Die methodische Kopplung liefert die empirische Basis für die interdependente Argumentation in \hyperref[sec:6-3-1]{Kapitel 6.3.1} und die manifestartige Zuspitzung in \hyperref[sec:7-0]{Kapitel 7}.
 
-## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}
+## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:4-1}\label{term:systemisch-forschungsfragengeleitet}
 
 Methodenkompetenz in den Human- und Sozialwissenschaften meint die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung werden traditionell drei methodologische Paradigmen unterschieden: (a) quantitative Ansätze im kritischen Realismus, (b) qualitative Ansätze im Sozialkonstruktivismus und (c) pragmatische Integrationsansätze, die beide Logiken situativ verbinden [@doring_forschungsmethoden_2023, Seite 4–5; Seite 32–33]. Für das vorliegende Forschungsvorhaben wird jedoch kein dieser Paradigmen übernommen. Stattdessen wird ein eigenständiger, systemisch‑forschungsfragengeleiteter Ansatz entwickelt, der nicht im Mixed‑Methods‑Paradigma verortet ist, sondern eine eigene Logik entfaltet.
 
@@ -266,7 +266,7 @@ Das Suchbegriffsnetz spannt eine technologische und eine pädagogische Achse auf
 
 \FloatBarrier
 
-### 4.2.4 Eye-Tracking (RealEye): Design, Durchführung und Qualitätssicherung {#sec:4-2-4}
+#### Eye-Tracking (RealEye): Design, Durchführung und Qualitätssicherung {#sec:4-2-4-design}
 
 Die Entscheidung für ein webcam-basiertes Eye-Tracking mit RealEye folgt unmittelbar aus der Forschungsunterfrage FU4b, die die technisch‑gestalterischen Wirkmechanismen des LMS untersucht. Für diese Fragestellung sind primär großflächige Aufmerksamkeitszonen, visuelle Hierarchien, Blickpfade und Navigationseffekte relevant. Diese Parameter lassen sich mit webcam‑basierten Verfahren zuverlässig erfassen, ohne dass millimetergenaue Rohdaten oder hochfrequente Sakkadenanalysen erforderlich wären.
 
@@ -276,7 +276,7 @@ Die Limitationen webcam‑basierter Verfahren – geringere räumliche Präzisio
 
 Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Viewmaps und Fog‑Views wissenschaftlich konsistent und methodisch angemessen. Die Visualisierungen erlauben eine systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Bereiche. Wie in der einschlägigen UX‑ und Eye‑Tracking‑Forschung üblich, werden die Muster relativ interpretiert: als Verteilung über AOIs, nicht als absolute metrische Werte. Durch die Kopplung mit Umfragebefunden (FU1/FU2) sowie mit den deduktiv entwickelten Kategorien entsteht eine theoriegeleitete, triangulierte Sicht auf die Wirkmechanismen des LMS.
 
-**Ergänzende methodische Absicherung**
+##### Ergänzende methodische Absicherung {#sec:4-2-4-1}
 
 #todo: Fleißtextüberführung ergänzen
 
@@ -423,7 +423,7 @@ Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage
 
 Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert.
 
-### 4.3.4 Analyse 3. Ordnung: Probabilistisch-Qualitative Inhaltsanalyse (P-QIA) {#sec:4-3-4}
+### 4.3.4 Analyse 3. Ordnung: Probabilistisch-Qualitative Inhaltsanalyse (P-QIA) {#sec:4-3-4}\label{term:p-qia}
 
 Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
 
@@ -520,7 +520,7 @@ Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung g
 - **Gefahr der Scheinobjektivität:** Statistische Kennwerte ersetzen keine inhaltliche Reflexion. Sie fungieren als Unterstützungs-, nicht als Entscheidungsinstanz.
 - **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung müssen explizit adressiert werden.
 
-### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-5}
+### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:4-3-5}\label{term:mdacv}
 
 Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse zunächst als Ergänzung zur P-QIA ausprobiert. Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus bestätigte die bestehenden semantischen Erkenntnisse. Diese Stabilität wurde zur Grundlage eines eigenständigen Validierungsverfahrens, der mehrdimensional-analytischen Clustervalidierung (mdaCV). Sie spannt einen semantischen Raum entlang theoretisch begründeter Achsen (Kategorien, Forschungsfragen, Schlagworte) auf, positioniert die Datenpunkte darin und bewertet deren Trennschärfe über Silhouette-Scores [-@rousseeuw_silhouettes_1987].
 
