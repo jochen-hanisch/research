@@ -32,7 +32,7 @@ Die Darstellung folgt der in Abschnitt 5.2 beschriebenen Gewichtung der Kernbere
 
 ### 5.3.4 FU1: Akzeptanz und Nützlichkeit {#sec:5-3-4}
 
-#todo Eye-Tracking-Befunde (z.B. F10-S3/F11-S3 Gesamt-Visuals) hier knapp einbinden und mit Umfrage-Ergebnissen spiegeln.
+#todo Eye-Tracking-Befunde (z.B. F10-S3/F11-S3 Gesamt-Visuals) hier knapp einbinden und mit Umfrage-Ergebnissen spiegeln. Triangulation\label{term:triangulation} mit Umfragewerten ergänzen.
 
 ### 5.3.5 FU2a: Effekt auf Lernende {#sec:5-3-5}
 
