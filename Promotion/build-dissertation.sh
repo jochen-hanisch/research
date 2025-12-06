@@ -9,7 +9,7 @@ set -euo pipefail
 cd "$(dirname "$0")"  # geht in das Verzeichnis des Skripts
 
 # Build-Modus bestimmen (full | fast)
-MODE="full"
+MODE="fast"
 if [[ "${1:-}" == "fast" ]]; then
   MODE="fast"
 fi
