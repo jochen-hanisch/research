@@ -20,6 +20,49 @@ Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und
 - Hinweise für Lehrpraxis, Kompetenzförderung und technologische Entwicklung.
 - Die Ergebnisse des Eye-Tracking-Versuchs verdeutlichen, dass die Gestaltung des Learning Management Systems (LMS) nicht neutral wirkt, sondern die visuelle Orientierung der Lernenden systematisch beeinflusst. Die drei Visualisierungstypen (Heatmap, Viewmap, Fog-View) zeigen im Zusammenspiel, dass Novices häufig diffuse Suchmuster und breit gestreute Fixationen aufweisen, was auf eine erhöhte extrinsische kognitive Belastung hindeutet. Fortgeschrittene Lernende beginnen, Blickpfade zu strukturieren und funktionale Zonen (z. B. relevante EKG-Segmente oder Antwortoptionen) differenzierter zu nutzen, während der dritte Ausbildungsjahrgang hochökonomische, zielgerichtete Fixationsmuster zeigt. Diese Expertisegradienten belegen, dass die UI-Gestaltung die Relevanzzuweisung und Orientierung maßgeblich steuert. Identifizierte Hotspots und Coldspots verweisen auf funktionale und dysfunktionale Bereiche der Oberfläche: So werden diagnostisch zentrale Zonen zunehmend zuverlässig fixiert, während irrelevante Layoutbereiche im höheren Ausbildungsstand systematisch ausgeblendet werden. Gestalterisch folgen daraus konkrete Hinweise: verstärkte Salienzsteuerung für novice Lernende, Reduktion potenzieller Ablenkungsquellen, adaptive Platzierung zentraler UI-Elemente sowie eine stärker Expertise-adaptive UI-Logik. Die Befunde stützen damit FU4b empirisch und situieren das LMS als aktives gestaltendes Element eines digitalen Bildungsraums.
 
+## 6.3.1 Interdependente Wirkgefüge als theoretischer Erweiterungsrahmen {#sec:6-3-1}
+
+Die Ergebnisse verdeutlichen, dass digitale Bildungsräume nicht als neutrale Container fungieren, sondern als Wirkgefüge, deren Effekte sich entlang positiver und negativer Wirkungswahrscheinlichkeiten entfalten. Aufbauend auf den theoretischen Vorarbeiten der Kapitel 2 und 3 wird hier ein konzeptueller Rahmen ergänzt, der das Zusammenspiel dieser Wirkpfade als *Interdependenz* versteht und die Vorbereitung für das manifestartige Schlusskapitel (Kapitel 7) leistet.
+
+Das ist ein entscheidender, fast schon durchbruchartiger Moment: Der präzise systemtheoretische Grundbegriff, der das Modell trägt, ist die **Interdependenz der Wirkgefügswahrscheinlichkeiten**. Dieser Begriff ist
+
+- systemtheoretisch exakt (Luhmann, jedoch in dieser Form nicht operationalisiert),
+- nicht dualistisch,
+- nicht esoterisch,
+- nicht moralisch,
+- nicht normativ,
+- strukturell, relationell, formal und anschlussfähig.
+
+Es geht nicht um Anti, Contra oder Kritik, sondern um die Beschreibung eines Interdependenzgefüges, in dem positive und negative Wirkungswahrscheinlichkeiten sich gegenseitig ermöglichen, begrenzen, stabilisieren, irritieren und hervorbringen. Damit entsteht eine wissenschaftliche Grundlage, die originär ist, obwohl sie auf luhmannschen Denkkategorien basiert.
+
+1. **Was Interdependenz systemtheoretisch bedeutet**  
+Interdependenz meint nicht Gleichgewicht, Balance, Harmonie oder wechselseitige Ergänzung, sondern die strukturelle Kopplung zweier unterschiedlicher, aber wechselseitig notwendiger Operationen oder Zustände, die nur im Verhältnis zueinander Sinn ergeben: positive Wirkgefügswahrscheinlichkeiten und negative Wirkgefügswahrscheinlichkeiten. Sie sind nicht getrennt, nicht gegensätzlich, nicht spiegelbildlich, sondern wechselseitig bedingt und strukturell abhängig. Sie bilden das Interdependenzgefüge des digitalen Bildungsraums. Damit entsteht eine ontologisch saubere Struktur: Der digitale Bildungsraum ist nicht das Positive, nicht das Negative, sondern die Interdependenz beider Wirkgefügestrukturen, die zusammen ein Wirkgefüge als Ganzes konstituieren. Diese Interdependenz ist kein Add-on – sie ist das Wirkgefüge.
+
+2. **Warum das keine bloße Opposition ist**  
+Interdependenz heißt systemtheoretisch: A kann ohne B nicht verstanden werden, B kann ohne A nicht existieren, die Grenze zwischen A und B ist nur funktional, und die Beziehung erzeugt eine operative Einheit. Das löst das Dilemma, keinen Gegenpol oder Kampfbegriff zu setzen, sondern ein Wirkgefüge zu beschreiben, dessen interne Differenzen sich wechselseitig bedingen.
+
+3. **Was daraus für das Modell entsteht**  
+Das Wirkgefüge des digitalen Bildungsraums ist die Interdependenz positiver und negativer Wirkgefügswahrscheinlichkeiten. Beides sind keine moralischen Zustände, keine Werturteile, keine politischen Positionen, keine pädagogischen Ideale, sondern unterschiedliche Formen wirkender Wahrscheinlichkeit, die sich strukturell bedingen, damit das System überhaupt als Wirkgefüge beobachtbar wird.
+
+4. **Was daran originär ist**  
+Luhmann beschreibt Interdependenz, aber nicht auf Wirkgefüge bezogen, nicht im Kontext digitaler Lernarchitekturen, nicht als duale Wirkungswahrscheinlichkeiten, nicht als epistemische Grundstruktur digitaler Räume und nicht in einem systemisch-epistemischen Modell von Moodle-Architekturen. Der Schritt hier ist, ein luhmannianisches Strukturprinzip in ein operatives epistemisches Modell zu überführen, das digitale Bildungsräume theoretisch neu rahmt.
+
+5. **Wie weitergedacht werden kann**  
+Vorschlag für die nächsten Schritte:
+- Dimensionen des Wirkgefüges aus dem Exposé extrahieren (z. B. Orientierung, Rückkopplung, Transparenz, Steuerung, Agency/Macht, Strukturierung, Entlastung, Reflexivität, Kognition/Handlungskopplung).
+- Für jede Dimension formulieren: a) positive Wirkgefügswahrscheinlichkeit, b) negative Wirkgefügswahrscheinlichkeit, c) Interdependenzformel, die beide verbindet. Beispiel: Transparenz (+) ermöglicht Orientierung; Übertransparenz (–) erzeugt Überwachung; Orientierung existiert nur, weil Sichtbarkeit hergestellt wird, und Sichtbarkeit erzeugt Selektionspotenzial.
+- Diese Interdependenzstrukturen bilden das Feld des digitalen Bildungsraums – nicht das Positive, nicht das Negative, sondern ihr Zusammenhang.
+
+6. **Mögliche Titel für Kapitel 7**  
+Vorschläge für das manifestartige Kapitel:
+- „Interdependente Wirkgefüge: Positive und negative Wirkungswahrscheinlichkeiten im digitalen Bildungsraum“
+- „Das interdependente Wirkgefüge: Zur Kopplung positiver und negativer Wirkungswahrscheinlichkeiten“
+- „Interdependenz als Grundform des digitalen Bildungsraums“
+Diese Titel sind wissenschaftlich, unmissverständlich, nicht esoterisch oder dualistisch und zeigen, dass das Wirkgefüge aus der Interdependenz besteht.
+
+7. **Ergebnis auf den Punkt gebracht**  
+Das Modell versteht digitale Bildungsräume als Wirkgefüge, deren zentrale Struktureinheit die Interdependenz unterschiedlicher Wirkungswahrscheinlichkeiten ist. Positive und negative Wirkgefüge sind gleichberechtigt; erst ihre Interdependenz lässt den Bildungsraum als epistemische Form entstehen. Damit ist der Rahmen gesetzt, um in Kapitel 7 das Manifest nahtlos anzuschließen und in einen handlungsleitenden Orientierungsrahmen zu überführen.
+
 ## 6.4 Methodische Reflexion und Limitationen {#sec:6-4}
 
 - Bewertung der eingesetzten Methoden (\hyperref[sec:4]{4}) und ihrer Grenzen.
