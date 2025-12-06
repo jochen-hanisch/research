@@ -58,13 +58,62 @@ Wissenschaftliche und praxisorientierte Erkenntnisinteressen.
 
 **Herleitung**
 
-Wie beschrieben, fehlt eine Untersuchung der Wirkfaktoren, weshalb die bisherigen Ergebnisse unter Einsatz des LMS erzielt werden konnten. Diese Wirkfaktoren können als Herleitung und Begründung des Forschungsvorhabens dienen. Die zugrundeliegende Vermutung ist, dass die konsequente Anwendung des systemisch-konstruktivistischen Theoriegebäudes nicht nur bei der curricularen Konzeption oder bei der Durchführung von Lehrveranstaltungen, sondern gerade auch bei der Entwicklung einer (LMS)-Architektur die beobachtbare Wirkung nicht nur erklärt, sondern darüber hinaus, Prognosen von zukünftigen gewünschten Wirkungen ermöglicht. Die Vermutung ist weiterhin, dass alle notwendigen Theorien und Erklärungen bereits in den unterschiedlichsten Wissenschaftsdisziplinen vorhanden sind. Aus den hier genannten Vermutungen lassen sich seriös kaum Forschungshypothesen ableiten, die definitionsgemäß auf bestehende Theorien aufbauen [@doring_forschungsmethoden_2023, Seite 146]. Die handlungsleitende Hauptforschungsfrage (FH) kann demnach wie folgt gestellt werden:
+Die bisherigen LMS-Erfahrungen erklären das beobachtete Wirkungspotenzial, nicht jedoch die dahinterliegenden Mechanismen. Gerade weil Gesundheitsberufe einer engen Regulierung unterliegen und digitale Bildungsräume für High Responsibility Teams besondere Anforderungen stellen, braucht es eine systemische Analyse, die technologische, didaktische und soziale Faktoren als Wirkgefüge fasst. Leitend ist die Annahme, dass das systemisch-konstruktivistische Theoriegebäude nicht nur curriculare Entscheidungen, sondern ebenso die Architektur und den Betrieb eines LMS begründet – und damit Prognosen künftiger Wirkungen ermöglicht. Aus dieser Annahme lassen sich keine klassischen, theorieabgeleiteten Hypothesen formulieren [@doring_forschungsmethoden_2023, Seite 146]; stattdessen wird eine forschungsfragengeleitete Struktur entwickelt.
+
+Die handlungsleitende Hauptforschungsfrage (FH) lautet:
 
 „Wie ist das Wirkgefüge des angewendeten LMS auf Akteure im digitalem Bildungsraum von Gesundheitsberufen gestaltet?“ \label{fh}
 
-Die Forschungsfrage ist absichtlich eng gefasst, da ein bestehendes LMS betrachtet wird. Weiterhin besteht die aufgrund einer weit gefassten Begriffsauslegung die Notwendigkeit, die Forschungsfrage in ihrer Syntax zu entfalten Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet [@schnell_methoden_2013, Seite 7]. Ziel und Zweck der Forschungsfrage ist die Betrachtung der Anwendung des eingesetzten Medientools-LMS (Seite 7) im digitalem Bildungsraum (Seite 6, 5). Als zentraler Begriff, der zu operationalisieren ist, steht das Wirkgefüge (Seite 6) im Fokus. Der Kontext, in dem die Bearbeitung stattfindet, ist in den Gesundheitsberufen (Seite 7) zu finden, in dessen Kontext Akteure (Seite 7) agieren. Zur Operationalisierung wurde der Begriff der Gestaltung ausgewählt.
+Die Forschungsfrage ist bewusst eng gefasst, weil ein bestehendes LMS im realen Betrieb untersucht wird. Ihre Syntax wird entlang der zentralen Begriffe operationalisiert: Das Medientool (LMS) wirkt im digitalen Bildungsraum auf Akteurinnen, die in Gesundheitsberufen handeln; zu analysieren ist das Wirkgefüge und dessen Gestaltung [@schnell_methoden_2013, Seite 7].
 
-Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7)\label{term:forschungsunterfrage} zu den eingesetzten Methoden sowie den jeweiligen Erfüllungskriterien ist in Kapitel 4.2 (Forschungsdesign und Datenerhebung) dargestellt. Die theoretisch fundierte Interdependenz-Argumentation wird in \hyperref[sec:6-3-1]{Kapitel 6.3.1} entfaltet und in \hyperref[sec:7-0]{Kapitel 7} manifestartig zugespitzt.
+Aus der FH werden sieben Forschungsunterfragen (FU1–FU7)\label{term:forschungsunterfrage} abgeleitet, die das Wirkgefüge in adressierbare Teilaspekte zerlegen und zugleich die Methodenwahl strukturieren (\hyperref[tab:methoden_FU]{Tabelle 4}):
+
+- FU1: Akzeptanz und Nützlichkeit des LMS aus Sicht der Nutzenden (Metaanalyse, Umfrage).
+- FU2a/FU2b: Wirkung auf Lernende bzw. Lehrende (Evaluation nach Kirkpatrick, Gruppeninterviews).
+- FU3: Didaktische und technologische Merkmale des Systems (theoretische Rekonstruktion der Architektur).
+- FU4a/FU4b: Bildungswissenschaftliche und technisch-gestalterische Wirkmechanismen (Inhaltsanalyse, Eye-Tracking, Simulation).
+- FU5: Möglichkeiten und Grenzen des angewandten Modells (Qualitative Inhaltsanalyse, SWOT).
+- FU6: LMS als Kompetenzerwerbssystem (systemische Kopplung von Kompetenzmodellen und LMS-Struktur).
+- FU7: Erweiterung von Kausalgesetzen im digitalen Bildungsraum (Grounded-Theory-gestützte Theorieentwicklung).
+
+Die Abfolge der Unterforschungsfragen folgt der in Abbildung \ref{fig:fu-sequenz} skizzierten Logik: Von der Bedeutung (FU1) über beobachtete Effekte (FU2a/FU2b) und deren Effektfaktoren zur Konzeption (FU3), flankiert von Möglichkeiten und Mechanismen (FU4a/FU4b), bis hin zu Kompetenzen und Kausalgesetzen (FU6/FU7), die schließlich das Wirkgefüge der Hauptfrage adressieren. Damit ist die Sequenz zugleich thematische Landkarte und methodische Prozessführung.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[every node/.style={rectangle, draw, rounded corners, align=center, minimum width=3.4cm, minimum height=1.1cm}, node distance=2.2cm]
+  \node (bedeutung) at (0,2.2) {Bedeutung\\(FU1)};
+  \node (effekte) at (0,0) {Effekte\\(FU2a/FU2b)};
+  \node (faktoren) at (0,-2.2) {Effektfaktoren};
+
+  \node (moglichkeiten) at (4.4,2.2) {Möglichkeiten\\(FU5)};
+  \node (mechanismen) at (4.4,0) {Mechanismen\\(FU4a/FU4b)};
+  \node (konzeption) at (4.4,-2.2) {Konzeption\\(FU3)};
+
+  \node (kompetenzen) at (8.8,2.2) {Kompetenzen\\(FU6)};
+  \node (kausal) at (8.8,0) {Kausalgesetze\\(FU7)};
+  \node (wirkgefuge) at (8.8,-2.2) {Wirkgefüge};
+
+  \draw[->, thick] (bedeutung) -- (effekte);
+  \draw[->, thick] (effekte) -- (faktoren);
+  \draw[->, thick] (moglichkeiten) -- (mechanismen);
+  \draw[->, thick] (mechanismen) -- (konzeption);
+  \draw[->, thick] (kompetenzen) -- (kausal);
+  \draw[->, thick] (kausal) -- (wirkgefuge);
+
+  \draw[->, thick] (bedeutung) -- (moglichkeiten);
+  \draw[->, thick] (effekte) -- (mechanismen);
+  \draw[->, thick] (faktoren) -- (konzeption);
+  \draw[->, thick] (moglichkeiten) -- (kompetenzen);
+  \draw[->, thick] (mechanismen) -- (kausal);
+  \draw[->, thick] (konzeption) -- (wirkgefuge);
+\end{tikzpicture}
+\caption{Abfolge der Forschungsunterfragen: von Bedeutung und Effekten über Mechanismen und Konzeption hin zu Kompetenzen, Kausalgesetzen und Wirkgefüge.}
+\label{fig:fu-sequenz}
+\end{figure}
+
+Der hier skizzierte Entwicklungspfad folgt einer deduktiv gestützten Progression von Akzeptanz über Effekte und Mechanismen hin zu Kompetenz- und Kausalannahmen. FU1 knüpft an Akzeptanz- und Nutzungsrahmen an [@doring_forschungsmethoden_2023, Kapitel 6.1] und legitimiert die Frage nach Bedeutung und Nützlichkeit im Anwendungsfeld. FU2a/FU2b greifen die Wirkung auf Lernende und Lehrende auf, angelehnt an Evaluationslogiken nach Kirkpatrick und TEI [@kirkpatrick_evaluating_1998; @ritzmann_tei_2020], und bieten dadurch die Möglichkeit einer belastbaren Evaluation. FU3–FU4b werden durch systematische Inhaltsanalyse und UI-/Eye-Tracking-Ansätze abgeleitet, die Mechanismen und gestalterische Faktoren sichtbar machen [@mey_qualitative_2010; @mayring_neuere_2008; @lewandowska_realeye_2020; @kaduk_webcam_2023] und Rückschlüsse auf die Erkenntnisse der vorangegangenen Evaluation zulassen. FU5 adressiert Möglichkeiten und Grenzen, gestützt durch literaturbasierte SWOT-Analysen [@niederberger_swot-analyse_2015]; in der Folge kann die Einordnung der Bedeutsamkeit im Kontext der bisherigen Ergebnisse überhaupt erst vorgenommen und damit der Rahmen beschrieben werden. Der abschließende Schritt ist die systemtheoretische Einordnung über Kausalitätsbeziehungen, um Ziele zu beschreiben und das Wirkgefüge zu begründen [@glaserfeld_radikaler_2008, Seite 127-129; @reich_systemisch-konstruktivistische_2010, Seite 118-119; @siebert_padagogischer_2003, Seite 74-78; @baraldi_operationbeobachtung_2019, Seite 125].
+
+Die detaillierte Zuordnung dieser Unterfragen zu den Datenerhebungen und Erfüllungskriterien erfolgt in Kapitel 4.2; die interdependente Argumentation wird in \hyperref[sec:6-3-1]{Kapitel 6.3.1} aufgegriffen und in \hyperref[sec:7-0]{Kapitel 7} manifestartig verdichtet.
 
 #todo Kurzhinweis auf Eye-Tracking-Design (Remote, Bildexport-only, FU-gekoppeltes 7-Schritte-Raster) einfügen, Verweis auf Abschnitt 4.2.4.
 
