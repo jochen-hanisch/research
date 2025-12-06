@@ -522,7 +522,9 @@ Trotz der probabilistischen Komponente bleibt die interpretative Verantwortung g
 - **Gefahr der Scheinobjektivität:** Statistische Kennwerte ersetzen keine inhaltliche Reflexion. Sie fungieren als Unterstützungs-, nicht als Entscheidungsinstanz.
 - **Ethik und Bias:** Fragen nach Datensouveränität, Verzerrungen und Verantwortung müssen explizit adressiert werden.
 
-### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:mdaCV}\label{term:mdacv}
+### 4.3.5 Mehrdimensional-analytische Clustervalidierung (mdaCV) {#sec:mdaCV}
+
+\label{term:mdacv}
 
 Im Zuge der systematischen Literaturarbeit wurde die statistische Clusteranalyse zunächst als Ergänzung zur P-QIA ausprobiert. Die Anwendung des $k$-Means-Algorithmus auf einen bereits deduktiv strukturierten Quellenkorpus bestätigte die bestehenden semantischen Erkenntnisse. Diese Stabilität wurde zur Grundlage eines eigenständigen Validierungsverfahrens, der mehrdimensional-analytischen Clustervalidierung (mdaCV). Sie spannt einen semantischen Raum entlang theoretisch begründeter Achsen (Kategorien, Forschungsfragen, Schlagworte) auf, positioniert die Datenpunkte darin und bewertet deren Trennschärfe über Silhouette-Scores [-@rousseeuw_silhouettes_1987].
 
