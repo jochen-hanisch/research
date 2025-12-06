@@ -61,10 +61,7 @@ Wie beschrieben, fehlt eine Untersuchung der Wirkfaktoren, weshalb die bisherige
 
 Die Forschungsfrage ist absichtlich eng gefasst, da ein bestehendes LMS betrachtet wird. Weiterhin besteht die aufgrund einer weit gefassten Begriffsauslegung die Notwendigkeit, die Forschungsfrage in ihrer Syntax zu entfalten Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet [@schnell_methoden_2013, Seite 7]. Ziel und Zweck der Forschungsfrage ist die Betrachtung der Anwendung des eingesetzten Medientools-LMS (Seite 7) im digitalem Bildungsraum (Seite 6, 5). Als zentraler Begriff, der zu operationalisieren ist, steht das Wirkgefüge (Seite 6) im Fokus. Der Kontext, in dem die Bearbeitung stattfindet, ist in den Gesundheitsberufen (Seite 7) zu finden, in dessen Kontext Akteure (Seite 7) agieren. Zur Operationalisierung wurde der Begriff der Gestaltung ausgewählt.
 
-Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7) zu den eingesetzten Methoden sowie den jeweiligen Erfüllungskriterien ist in Kapitel 4.2 
-
-+++++VERWEIS+++++
-(Forschungsdesign und Datenerhebung) dargestellt.
+Die detaillierte Zuordnung der Forschungsunterfragen (FU1–FU7) zu den eingesetzten Methoden sowie den jeweiligen Erfüllungskriterien ist in Kapitel 4.2 (Forschungsdesign und Datenerhebung) dargestellt. Die theoretisch fundierte Interdependenz-Argumentation wird in \hyperref[sec:6-3-1]{Kapitel 6.3.1} entfaltet und in \hyperref[sec:7-0]{Kapitel 7} manifestartig zugespitzt.
 
 #todo Kurzhinweis auf Eye-Tracking-Design (Remote, Bildexport-only, FU-gekoppeltes 7-Schritte-Raster) einfügen, Verweis auf Abschnitt 4.2.4.
 

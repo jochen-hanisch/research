@@ -4,6 +4,8 @@
 
 Kapitel 3 beschreibt Entstehung, Kontext und Architektur des untersuchten LMSs. Es konkretisiert damit die in \hyperref[sec:2]{Kapitel 2} entwickelten theoretischen Überlegungen für den spezifischen Anwendungsfall und bereitet die spätere Ergebnisdarstellung in \hyperref[sec:5]{Kapitel 5} vor.
 
+Die hier dargestellte Architektur und ihre rechtlich-didaktische Verortung werden in \hyperref[sec:6-3-1]{Kapitel 6.3.1} in den Interdependenzrahmen eingeordnet und bilden eine der empirischen Grundlagen für die manifestartige Verdichtung in \hyperref[sec:7-0]{Kapitel 7}.
+
 Folgerung für die Darstellung
 Konsequenzen klar zweiteilig gliedern:
 (a) rechtlich-funktional,

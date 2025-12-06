@@ -53,3 +53,4 @@ Der digitale Bildungsraum wirkt als erste professionelle Handlungssituation. Die
 ## 5.4 Zusammenfassung der Ergebnisse {#sec:5-4}
 
 #todo Kurze Verdichtung der wichtigsten Befunde als Brücke zur Diskussion in Kapitel 6.
+Diese Ergebnisbündelung fungiert als direkte Brücke in die interdependente Diskussion (\hyperref[sec:6-3-1]{Kapitel 6.3.1}) und liefert die empirische Grundlage für die manifestartige Verdichtung in \hyperref[sec:7-0]{Kapitel 7}.
