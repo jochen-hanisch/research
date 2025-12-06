@@ -101,19 +101,27 @@ header-includes:
 
 # Abkürzungsverzeichnis {#sec:abkuerzungsverzeichnis}
 
-| Abkürzung   | Bedeutung                                                                                            |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
-| AOI         | Area of Interest; vordefinierter Bildschirmbereich für Blickauswertung.                              |
-| ET          | Eye-Tracking; hier webcam-basiert (RealEye) mit bildbasierter Auswertung.                            |
-| E-Portfolio | Digitales Portfolio zur Dokumentation und Reflexion von Lernleistungen.                              |
-| FU          | Forschungsunterfrage (FU1–FU7) als operationalisierte Teilfragestellungen.                           |
-| KI          | Künstliche Intelligenz; insbesondere datengetriebene Verfahren zur Dokumentenanalyse.               |
-| LMS         | Learning-Management-System; zentrale Plattform zur Bereitstellung und Organisation der Lehrangebote. |
-| LXP         | Learning Experience Platform; nutzungszentrierte Erweiterung eines LMS.                              |
-| mdaCV       | Mehrdimensional-analytische Clustervalidierung zur Prüfung der literaturbasierten Clusterstruktur.   |
-| MOOC        | Massive Open Online Course; frei zugängliches Online-Lernformat.                                     |
-| P-QIA       | Probabilistisch-Qualitative Inhaltsanalyse – hybride Methode zur Quellenkodierung.                   |
-| SC          | Silhouette-Score; Maß für die Trennschärfe von Clustern.                                             |
+| Abkürzung   | Bedeutung                                         |
+| ----------- | ------------------------------------------------- |
+| AOI         | Area of Interest                                  |
+| ET          | Eye-Tracking                                      |
+| E-Portfolio | Digitales Portfolio                               |
+| FU          | Forschungsunterfrage (FU1–FU7)                    |
+| KI          | Künstliche Intelligenz                            |
+| LMS         | Learning-Management-System                       |
+| LXP         | Learning Experience Platform                      |
+| mdaCV       | Mehrdimensional-analytische Clustervalidierung    |
+| MOOC        | Massive Open Online Course                        |
+| HRT         | High Responsibility Teams                         |
+| NotSan-APrV | Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen |
+| NotSanG     | Notfallsanitätergesetz                            |
+| NotSan / NFS | Notfallsanitäter:in                             |
+| EpiGesAusbSichV | Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen |
+| TEI         | Training Evaluation Inventory                     |
+| P-QIA       | Probabilistisch-Qualitative Inhaltsanalyse        |
+| SC          | Silhouette-Score                                  |
+
+Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis zentraler Begriffe} im Anhang.
 
 # Symbolverzeichnis {#sec:symbolverzeichnis}
 
