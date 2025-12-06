@@ -1,3 +1,5 @@
+\newpage
+
 ## Fortschrittsübersichten
 
 Die Fortschrittsübersichten dokumentieren den Arbeitsstand der Sichtung, Qualitäts- und Relevanzprüfung und liegen hier im Anhang, um den Methodikteil schlank zu halten.
