@@ -1,6 +1,6 @@
 \newpage
 
-# Prompt zur systemisch-forschungsfragengeleiteten Auswertung der Eye-Tracking-Visualisierungen {sec:A-4}
+## Prompt zur systemisch-forschungsfragengeleiteten Auswertung der Eye-Tracking-Visualisierungen {#sec:A-4}
 
 Dieser Prompt dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der im Forschungsdesign verwendeten Eye-Tracking-Daten (Heatmaps, Viewmaps, Fog-Views). Er folgt den methodischen Grundlagen des systemisch-forschungsfragengeleiteten Paradigmas der Arbeit (Kapitel 4.1–4.2) und operationalisiert die qualitative Bildauswertung gemäß Abschnitt 4.2.4 (Eye-Tracking).
 
