@@ -1,3 +1,5 @@
+\newpage
+
 ## Prompt zur probabilistisch-qualitativen Inhaltsanalyse (P‑QIA) {#sec:A-3}
 
 Dieser Prompt beschreibt exemplarisch, wie die in \hyperref[sec:A-2]{Anhang A.2} erzeugten Primäranalysen mittels probabilistisch-qualitativer Inhaltsanalyse (P‑QIA) zu einer Metaanalyse zusammengeführt werden. Er richtet sich an ein KI-Modell, das eine Datei mit bereits strukturierten Quellenanalysen (z.B. `FU1 Primäranalysen (58).md`) verarbeitet. Die hier beschriebene P‑QIA bildet damit die konkrete Operationalisierung der aus den Forschungsunterfragen abgeleiteten Analysekategorien auf der Ebene textbasierter Segmente (siehe auch \hyperref[sec:A-2]{Anhang A.2}).
