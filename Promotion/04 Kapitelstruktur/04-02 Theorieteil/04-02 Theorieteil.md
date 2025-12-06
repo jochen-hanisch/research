@@ -2,9 +2,9 @@
 
 # 2 Theorieteil {#sec:2}
 
-Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stalle die theoretischen Grundannahmen explizit, die für das Wirkgefüge relevant sind. Im Mittelpunkt stehen die Definitionen von Bildung, Digitalität und Kompetenzentwicklung im systemisch-konstruktivistischen Rahmen. Bildungswissenschaftliche und pädagogisch-psychologische Perspektiven werden dabei enggeführt, um die Komplexität digitaler Bildungsräume abzubilden und klassische Theoriemuster gezielt in den Kontext digitaler Lernarchitekturen zu transferieren.
+Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt bildungswissenschaftliche Grundlagen, psychologische Funktionslogiken sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges\label{term:digitales-bildungswirkgefuge}. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stalle die theoretischen Grundannahmen explizit, die für das Wirkgefüge relevant sind. Im Mittelpunkt stehen die Definitionen von Bildung\label{term:bildung}, Digitalität\label{term:digitalitaet} und Kompetenzentwicklung\label{term:kompetenzentwicklung} im systemisch-konstruktivistischen Rahmen. Bildungswissenschaftliche und pädagogisch-psychologische Perspektiven werden dabei enggeführt, um die Komplexität digitaler Bildungsräume abzubilden und klassische Theoriemuster gezielt in den Kontext digitaler Lernarchitekturen zu transferieren.
 
-\hyperref[sec:2-1]{Abschnitt 2.1} verortet das Forschungsvorhaben in der systemisch-konstruktivistischen Bildungswissenschaft. Die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung werden als sozio-technisches Wirkgefüge gefasst, wobei bildungswissenschaftlich-theoretische und bildungstechnologische Betrachtungen ineinandergreifen. Bildungstechnologische Prozesse – also computergestützte Abläufe und Plattformlogiken – werden nicht isoliert beschrieben, sondern konsequent als Bestandteil didaktischer Konzeptionen gelesen. Entsprechend richtet sich der Blick nicht auf eine erneute Ausbreitung klassischer Bildungsbegriffe, sondern auf ihre Übersetzung in den digitalen Bildungsraum im Hinblick auf das in \hyperref[sec:3]{Kapitel 3} vorgestellte Learning Management System (LMS).
+\hyperref[sec:2-1]{Abschnitt 2.1} verortet das Forschungsvorhaben in der systemisch-konstruktivistischen Bildungswissenschaft. Die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung werden als sozio-technisches Wirkgefüge\label{term:sozio-technisches-wirkgefuge} gefasst, wobei bildungswissenschaftlich-theoretische und bildungstechnologische Betrachtungen ineinandergreifen. Bildungstechnologische Prozesse – also computergestützte Abläufe und Plattformlogiken – werden nicht isoliert beschrieben, sondern konsequent als Bestandteil didaktischer Konzeptionen gelesen. Entsprechend richtet sich der Blick nicht auf eine erneute Ausbreitung klassischer Bildungsbegriffe, sondern auf ihre Übersetzung in den digitalen Bildungsraum im Hinblick auf das in \hyperref[sec:3]{Kapitel 3} vorgestellte Learning Management System (LMS).
 
 \hyperref[sec:2-2]{Abschnitt 2.2} legt die pädagogisch-psychologischen Grundannahmen dar, die das Wirkgefüge strukturieren. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen identifiziert, die in der Gestaltung digitaler Lernarchitekturen berücksichtigt werden müssen. Dabei wird erläutert, wie diese psychologischen Konstrukte die Wahrnehmung und Nutzung von LMS (LMS)en beeinflussen und welche Implikationen sich daraus für die Gestaltung digitaler Bildungsräume ergeben.
 
@@ -24,7 +24,7 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:6-3-1]{Kapi
 
 Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert? Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
 
-### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:2-1-2}
+### 2.1.2 Systemisch-konstruktivistische Theorie {#sec:2-1-2}\label{term:systemisch-konstruktivistische-theorie}
 
 Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
 
@@ -70,13 +70,13 @@ Vorstellung der Variablen, Kopplungen und Rückkopplungen des Modells. Hier wird
 
 Der Abschnitt beschreibt, wie Lernprozesse auf Störungen reagieren (z.B. Prüfungsdruck, technische Ausfälle) und wie das LMS Regenerationspfade bereitstellt. Wirkungskurven visualisieren, wann Interventionen stabilisierend oder destabilisierend wirken.
 
-### 2.3.3 Konsequenzen aus Systementkopplungen {#sec:2-3-3}
+### 2.3.3 Konsequenzen aus Systementkopplungen {#sec:2-3-3}\label{term:systementkopplung}
 
 Was passiert, wenn einzelne Subsysteme (z.B. Kompetenzmessung vs. Lernaktivität) entkoppelt werden? Hier wird analysiert, wie Fehlanpassungen entstehen und welche Risiken sich daraus ergeben.
 
 ### 2.3.4 Gestaltungsprinzipien zur Kopplung im digitalen Setting {#sec:2-3-4}
 Aus den vorangegangenen Modellüberlegungen werden Prinzipien abgeleitet, die die Kopplung von Bedürfnissen, Architektur und Kompetenzzielen sicherstellen (z.B. Transparenz, Feedback, adaptive Pfade).
 
-## 2.4 Exkurs: Technologiedefizit {#sec:2-4}
+## 2.4 Exkurs: Technologiedefizit {#sec:2-4}\label{term:technologiedefizit}
 
 Der Exkurs reflektiert, warum pädagogische Innovationen häufig hinter technologischen Möglichkeiten zurückbleiben. Er diskutiert das Technologiedefizit als strukturelles Problem und verknüpft es mit den Anforderungen an die Gestaltung digitaler Bildungsräume.

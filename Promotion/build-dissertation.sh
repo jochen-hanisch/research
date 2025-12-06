@@ -38,7 +38,7 @@ pandoc \
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" \
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" \
-  "04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md" \
+#  "04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md" \
   --filter pandoc-crossref \
   -o dissertation.pdf \
   --pdf-engine=xelatex \
