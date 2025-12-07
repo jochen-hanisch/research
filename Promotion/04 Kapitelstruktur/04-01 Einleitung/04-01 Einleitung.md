@@ -2,6 +2,16 @@
 
 # 1	Einleitung und theoretischer Rahmen {#sec:Einleitung}
 
+Bildungsräume sind dynamische Konstrukte, die sich in Abhängigkeit gesellschaftlicher, technologischer und organisatorischer Entwicklungen stetig verändern. Während in traditionellen Bildungssettings räumliche und zeitliche Strukturen maßgeblich für die Gestaltung von Lernprozessen waren, eröffnen digitale Systeme neue Möglichkeiten der Interaktion, des Wissenszugangs und der Kollaboration.
+
+Mit der zunehmenden Digitalisierung von Bildungsprozessen entstehen nicht nur neue Lehr- und Lernformate, sondern auch strukturelle Veränderungen in der Organisation und Steuerung von Bildungsräumen. Digitale Systeme ermöglichen eine orts- und zeitunabhängige Kommunikation, automatisierte Rückkopplungen und eine systematische Verarbeitung von Wissensbeständen. Dadurch entsteht ein Wirkgefüge, das über die reine Bereitstellung von Inhalten hinausgeht und die Art der Wissensvermittlung sowie die Interaktion zwischen Akteuren aktiv mitgestaltet.
+
+Diese Arbeit beginnt zudem mit einer Rückkopplung. Sie entfaltet sich als ein zyklischer Prozess, in dem jeder Abschnitt nicht nur Erkenntnisse liefert, sondern diese zugleich auf das Gesamtsystem der Untersuchung rückführt. Der digitale Bildungsraum, den diese Dissertation untersucht, ist nicht nur Gegenstand der Analyse, sondern auch eine Struktur, die sich durch Feedback, Reflexion und Reentry formt – Mechanismen, die zugleich die methodische und theoretische Grundlage dieser Arbeit bilden.
+
+Bildung ist immer in Räume eingebettet. Diese Räume sind nicht statisch, sondern entwickeln sich durch die Akteure, Technologien und Strukturen, die in ihnen interagieren. Im digitalen Bildungsraum entsteht eine neue Form der Verbindlichkeit: Wissen wird nicht nur vermittelt, sondern durch digitale Prozesse strukturiert, zurückgekoppelt und in Echtzeit verarbeitet. Dies verändert die Bedingungen des Lernens grundlegend – nicht nur auf einer didaktischen Ebene, sondern in den fundamentalen Mechanismen, die Lernen ermöglichen.
+
+Ein entscheidender Aspekt dieser Arbeit ist daher die Frage: Wie wirkt ein digitaler Bildungsraum? Diese Frage ist nicht isoliert zu betrachten, sondern als Teil eines rekursiven Systems zu verstehen. In diesem System sind es nicht einzelne Inhalte oder Methoden, die das Lernen bestimmen, sondern die Wechselwirkungen zwischen Struktur, Akteuren und Prozessen. Zentral sind dabei systemtheoretische Elementar-Operationen wie Feedback, Reflexion und Reentry, die bestimmen, wie Wissen aufgenommen, verarbeitet und zurückgespiegelt wird.
+
 Die aktuellen Novellierungen in der Ausbildung der Gesundheitsberufe\label{term:gesundheitsberufe} zielen darauf ab, nicht nur die gesetzlichen Rahmenbedingungen für Gesundheitsberufe anzupassen, sondern die Kompetenzanforderungen zu erweitern und zu präzisieren. So wird besonderer Wert auf die Förderung fachspezifischer, sozialer und methodischer Kompetenzen gelegt, die sich an den wachsenden Herausforderungen im Gesundheitswesen orientieren. Dies spiegelt sich sowohl in den neuen Ausbildungsrichtlinien als auch in den erweiterten Kompetenzprofilen der jeweiligen Berufsgruppen wider [@pflegekammer_nrw_weiterbildungsordnung_2023; @bundesrepublik_deutschland_gesetz_2023].
 
 - Erkenntnisinteresse skizzieren (Kapitel 1.1).
