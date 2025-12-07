@@ -6,6 +6,7 @@ lang: de-DE
 csquotes: true
 bibliography: "08 Metaquellen/Matadaten/Literaturverzeichnis.bib"
 csl: "08 Metaquellen/Matadaten/apa-no-initials.csl"
+table-placement: [htbp]
 header-includes:
   - \usepackage{fontspec}
   - \usepackage{unicode-math}
