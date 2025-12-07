@@ -77,6 +77,71 @@ Die systematische Literatursuche orientiert sich an den Qualitätskriterien von 
 
 Die Suchanfragen werden entlang der sechs Schritte Festlegung von Suchbegriffen, Auswahl einschlägiger Datenbanken (u.a. Fachdatenbanken der Bildungswissenschaft und Medizin), Durchführung der Suchstrings, Sichtung und Strukturierung der Treffer, Dokumentation aller Entscheidungen sowie Analyse und Synthese der ausgewählten Literatur abgearbeitet. Jeder Schritt wird in Zotero als Memo protokolliert, sodass der Bezug zu den Gütekriterien Validität, Reliabilität und Transparenz jederzeit nachvollziehbar bleibt [@doring_forschungsmethoden_2023].
 
+Table: Datenbankrecherche BASE \label{tab:dbrecherche_base}
+
+| Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
+| --- | --- | --- |
+| „medizinische Ausbildung“ $\land$ | „Digitalisierung“ | 4 Treffer in 271.703.238 Dokumenten |
+| „medizinische Ausbildung“ $\land$ | „E-Learning“ | 561 Treffer in 271.703.238 Dokumenten |
+| „medizinische Ausbildung“ $\land$ | „Learning-Management-System“ | 2 Treffer in 271.703.238 Dokumenten |
+| „Wirkung“ $\land$ | „Digitalisierung“ | 230 Treffer in 271.803.586 Dokumenten |
+| „Wirkung“ $\land$ | „E-Learning“ | 79 Treffer in 271.803.586 Dokumenten |
+| „Wirkung“ $\land$ | „Learning-Management-System“ | 2 Treffer in 271.803.586 Dokumenten |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | 5 Treffer in 272.828.873 Dokumenten |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | Keine zu Ihrer Anfrage passenden Dokumente gefunden |
+
+Table: Datenbankrecherche Google Scholar \label{tab:dbrecherche_scholar}
+
+| Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
+| --- | --- | --- |
+| „medizinische Ausbildung“ $\land$ | „Digitalisierung“ | Ungefähr 17.400 Ergebnisse (0,07 Sek.) |
+| „medizinische Ausbildung“ $\land$ | „E-Learning“ | Ungefähr 6.920 Ergebnisse (0,06 Sek.) |
+| „medizinische Ausbildung“ $\land$ | „Learning-Management-System“ | Ungefähr 47 Ergebnisse (0,04 Sek.) |
+| „Wirkung“ $\land$ | „Digitalisierung“ | Ungefähr 12.200 Ergebnisse (0,06 Sek.) |
+| „Wirkung“ $\land$ | „E-Learning“ | Ungefähr 1.170 Ergebnisse (0,06 Sek.) |
+| „Wirkung“ $\land$ | „Learning-Management-System“ | 12 Ergebnisse (0,04 Sek.) |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | Ungefähr 7.950 Ergebnisse (0,06 Sek.) |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | Ungefähr 75 Ergebnisse (0,05 Sek.) |
+
+Table: Datenbankrecherche LearnTechLib \label{tab:dbrecherche_learntechlib}
+
+| Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
+| --- | --- | --- |
+| „medizinische Ausbildung“ $\land$ | „Digitalisierung“ | 54 Treffer (0,831 Sek.) – digitization medical education<br>43 Treffer (0,933 Sek.) – digitization medical training |
+| „medizinische Ausbildung“ $\land$ | „E-Learning“ | 5.021 Treffer (0,193 Sek.) – digitization medical education<br>3.455 Treffer (0,276 Sek.) – digitization medical training |
+| „medizinische Ausbildung“ $\land$ | „Learning-Management-System“ | 1 Treffer (0,300 Sek.) – learning-management-system medical education<br>2.202 Treffer (0,411 Sek.) – learning-management-system medical training |
+| „Wirkung“ $\land$ | „Digitalisierung“ | 159 Treffer (0,339 Sek.) – digitization works |
+| „Wirkung“ $\land$ | „E-Learning“ | 13.361 Treffer (0,213 Sek.) – e-learning works |
+| „Wirkung“ $\land$ | „Learning-Management-System“ | 7.333 Treffer (0,449 Sek.) – learning-management-system works |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | 12.645 Treffer (1,015 Sek.) – technology works e-learning |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | 7.101 Treffer (0,690 Sek.) – technology works learning-management-system |
+
+Table: Datenbankrecherche National Library of Medicine (PubMed) \label{tab:dbrecherche_pubmed}
+
+| Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
+| --- | --- | --- |
+| „medizinische Ausbildung“ $\land$ | „Digitalisierung“ | 1 Treffer – Digitalisierung medizinische Ausbildung<br>5.559 Treffer – digitization medical education<br>8.569 Treffer – digitization medical training |
+| „medizinische Ausbildung“ $\land$ | „E-Learning“ | 1.826 Treffer – e-learning medical education<br>1.944 Treffer – e-learning medical training |
+| „medizinische Ausbildung“ $\land$ | „Learning-Management-System“ | 118 Treffer – learning-management-system medical education<br>127 Treffer – learning-management-system medical training |
+| „Wirkung“ $\land$ | „Digitalisierung“ | 17.421 Treffer – digitization works |
+| „Wirkung“ $\land$ | „E-Learning“ | 753 Treffer – e-learning works |
+| „Wirkung“ $\land$ | „Learning-Management-System“ | 57 Treffer – learning-management-system works |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | 222 Treffer – technology works e-learning |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | 23 Treffer – technology works learning-management-system |
+
+Table: Datenbankrecherche Zeitschrift Gesundheitsberufe \label{tab:dbrecherche_zg}
+
+| Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
+| --- | --- | --- |
+| „medizinische Ausbildung“ $\land$ | „Digitalisierung“ | Suchergebnis: 19 Fundstellen |
+| „medizinische Ausbildung“ $\land$ | „E-Learning“ | Suchergebnis: 14 Fundstellen |
+| „medizinische Ausbildung“ $\land$ | „Learning-Management-System“ | Keine Treffer |
+| „Wirkung“ $\land$ | „Digitalisierung“ | Suchergebnis: 16 Fundstellen |
+| „Wirkung“ $\land$ | „E-Learning“ | Suchergebnis: 18 Fundstellen |
+| „Wirkung“ $\land$ | „Learning-Management-System“ | Keine Treffer |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | Suchergebnis: 10 Fundstellen |
+| „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | Suchergebnis: 2 Fundstellen |
+
 Konkrete Abfragen koppeln die Suchbegriffe mit Eintragstypen. Für „Learning Management System“ (Zeitschriftenartikel) liegen 68 Einträge vor, „Online Lernplattform“ liefert drei Einträge und „Digital Learning“ 289. Kleine Trefferlisten werden vollständig bearbeitet; bei umfangreichen Ergebnisräumen greift die oben beschriebene Quotierung. Die Bearbeitungstiefe wird über Tag-Kombinationen gesteuert: Jede ausgewertete Quelle erhält `Promotion:Literaturanalyse` plus genau eine argumentative Kategorie (`Promotion:Argumentation`, `Promotion:Kerngedanke`, `Promotion:Schlussfolgerung` oder `Promotion:Weiterführung`). Erst wenn die erforderliche Quote in einer Suchkombination mit entsprechenden Tags vermerkt ist, gilt der Suchraum als saturiert. Auf diese Weise lässt sich jederzeit nachverfolgen, welche Quelle bereits bewertet ist und wie sie in das Argumentationsgefüge der Arbeit einfließt.
 
 Die Auswahlkriterien sind projektspezifisch operationalisiert und in den Arbeitsunterlagen hinterlegt:
@@ -95,12 +160,42 @@ Die beschriebenen Schritte – Suchnetzwerk, prozentuale Gewichtung, Tag-basiert
 
 ### 1.3.3 Identifikation der Forschungslücke {#sec:Forschungslucke}
 
+#### Diskursive Einordnung
+
 Eine der dem Untersuchungsgegenstand am nächsten kommenden Studien stammt von Fonseca et al. [-@fonseca_collaborative_2024]. Diese Untersuchung zeigt, dass digitale Communities of Practice (CoPs) eine zentrale Rolle für den Erfolg kollaborativer Lernökosysteme spielen. Erfolgreiche Collaborative Learning Ecosystems (CESs) zeichnen sich durch klare Kommunikationsstrukturen, dynamische soziale Interaktionen sowie flexible Lerntechnologien aus. Die Studie liefert konkrete Designprinzipien, die zur Entwicklung nachhaltiger digitaler Lernräume genutzt werden können. Auf dieser Grundlage wird ein neues Modell für digitale Lernökosysteme entwickelt, das kollaborative Lernprozesse mit technologischen und sozialen Aspekten verbindet. (@fonseca_collaborative_2024, Seite 130, 134, 137)
 
 Während die genannte Untersuchung wertvolle Erkenntnisse über die Bedeutung von Communities of Practice (CoPs) und Collaborative Learning Ecosystems (CESs) liefert, fehlt in der bisherigen Forschung eine systemische Erklärung der Wirkmechanismen digitaler Bildungsräume. Die bisherigen Studien konzentrieren sich primär auf die empirische Analyse einzelner Erfolgsfaktoren und Designprinzipien, ohne die kausalen Interdependenzen zwischen den beteiligten Elementen umfassend zu modellieren.
+
+#### Datenbasis der Recherche
+
+
+Die Tabellen \ref{tab:dbrecherche_base}–\ref{tab:dbrecherche_zg} dokumentieren ausschließlich die quantitativ erhobenen Trefferzahlen der einzelnen Suchkombinationen in den ausgewählten Datenbanken. Die Darstellung erfolgt ohne interpretative Bewertung; die Tabellen dienen der deskriptiven Abbildung des recherchierten Quellenraums sowie der Nachvollziehbarkeit der Suchstrategie. Eine inhaltliche Analyse oder theoretische Einordnung dieser Ergebnisse erfolgt ausschließlich im folgenden Abschnitt 1.3.3.
+
 Die vorliegende Forschungsarbeit schließt diese Lücke, indem sie das Wirkgefüge eines LMS in der medizinischen Lehre systemisch analysiert. Im Gegensatz zu bestehenden Studien, die digitale Lernräume als Sammlung von Einzelfaktoren betrachten, wird in dieser Untersuchung ein holistisches Modell entwickelt, das nicht nur beschreibt, was funktioniert, sondern wie die verschiedenen Elemente eines digitalen Bildungsraumes interagieren und sich wechselseitig beeinflussen. Ein entscheidender Unterschied zur bisherigen Forschung ist der systemtheoretische Ansatz, der die Identifikation emergenter Strukturen und autopoietischer Stabilisierungseffekte innerhalb digitaler Lernumgebungen ermöglicht. Während empirische Studien bereits Hinweise auf erfolgreiche kollaborative Lernmodelle liefern, fehlt eine tiefgehende Analyse der zugrunde liegenden Kausalketten, die diese Erfolgsfaktoren miteinander verbinden.
 
-Diese Arbeit setzt an dieser Stelle an, indem sie ein systemisches Modell des digitalen Bildungsraums entwickelt und untersucht, welche strukturellen Bedingungen die nachhaltige Wirksamkeit eines LMS beeinflussen. Durch diese systemische Perspektive wird nicht nur die bestehende Forschung ergänzt, sondern auch eine theoretische Grundlage geschaffen, um digitale Bildungsräume nicht nur retrospektiv zu bewerten, sondern auch prospektiv zu gestalten. Dies erlaubt eine Ableitung fundierter Gestaltungsrichtlinien für zukünftige Bildungsumgebungen, die auf einer systemisch erklärbaren Wechselwirkung zwischen technologischen, sozialen und didaktischen Faktoren basieren.
+#### Bibliometrische und zeitliche Evidenz
+
+Die im Methodikkapitel dokumentierte Zeitreihe „visualize\_time\_series\_02-01\_suchergebnisse“ bietet einen zentralen Hinweis auf die strukturelle Beschaffenheit des Forschungsfeldes, in dem sich diese Arbeit verortet. Die Jahreswerte der Publikationshäufigkeit (n = 3728; Stand: 2025‑11‑26) zeigen über den nahezu fünf Jahrzehnte umfassenden Zeitraum hinweg ein hochgradig asymmetrisches Entwicklungsprofil. Dieses Profil ist nicht als bloßer Verlauf einer bibliometrischen Zählung zu interpretieren, sondern markiert eine wissenschaftshistorische Dynamik, die für die Begründung der Forschungslücke konstitutiv ist.
+
+Zwischen 1978 und etwa 2000 verbleiben die jährlichen Veröffentlichungszahlen im einstelligen Bereich. Diese Phase kann als „prä‑diskursive Zone“ bezeichnet werden: Zwar existieren vereinzelte Publikationen, doch lassen sie weder auf einen thematischen Zusammenhang noch auf eine erkennbare Forschungsrichtung schließen. In dieser Phase ist der Diskurs weder terminologisch gefasst noch konzeptionell ausgebildet. Die Null‑ bzw. Beinahe‑Null‑Linie ist damit kein Hinweis auf Forschungsarmut, sondern auf das Fehlen eines identifizierbaren, kohärenten Diskursraumes.
+
+Erst ab etwa 2004 erscheinen erste punktuelle Anhebungen – noch immer in sehr geringer Höhe –, die allerdings eher als thematische Fragmentierungen denn als konsistente Forschungsbewegung zu interpretieren sind. Diese punktuellen Ausschläge markieren die beginnende Sichtbarkeit digitaler und bildungstechnologischer Themen, ohne dass sie bereits zu einem systematischen medizin‑ oder bildungswissenschaftlichen Diskurs zusammengeführt würden. Die in den Tabellen \ref{tab:dbrecherche_base}–\ref{tab:dbrecherche_zg} dokumentierten Suchergebnisse bestätigen diese Diagnose: Selbst in großen multidisziplinären Datenbanken wie BASE oder Google Scholar bleiben spezifische Kombinationen wie „Learning‑Management‑System ∧ medizinische Ausbildung“ über Jahrzehnte hinweg marginal.
+
+Ein struktureller Übergang lässt sich erst ab 2016/2017 erkennen. In dieser Phase steigt die jährliche Publikationszahl erstmals kontinuierlich an und überschreitet die bisherige Nulllinie deutlich. Diese Entwicklung ist nicht isoliert zu betrachten, sondern korreliert mit mehreren Feldern: der zunehmenden Digitalisierung in Aus‑ und Weiterbildungsprozessen, der Verbreitung offener Lernplattformen (u. a. Moodle), der Kompetenzorientierung in Gesundheitsberufen und der pandemiebedingten Ausweitung hybrider Lehrformate. Der sichtbare Anstieg ist somit als Indikator dafür zu verstehen, dass das Forschungsfeld sich aus seiner prä‑diskursiven Phase herauslöst und in eine Phase emergenter wissenschaftlicher Konsolidierung eintritt.
+
+Der eigentliche Diskursaufbau vollzieht sich jedoch in einem sehr engen Zeitfenster. Zwischen 2018 und 2022 zeigt die Zeitreihe eine exponentielle Steigung, die 2023 in einem Höchstwert von etwa 900 Veröffentlichungen kulminiert. Diese Dynamik verweist auf eine starke Verdichtung wissenschaftlicher Attention. Gleichwohl belegt die parallele Analyse der Datenbanken: Während generische Digitalisierungsbegriffe in allen Quellen hohe Trefferzahlen erzeugen, bleiben LMS‑spezifische Kombinationen weiterhin auffällig niedrig – auch in hoch kuratierten medizinischen Datenbanken wie PubMed. Der Diskurs ist somit zwar wachsend, aber inhaltlich unscharf und strukturell noch nicht vollständig ausgebildet.
+
+Der Rückgang der Veröffentlichungszahlen in den Jahren 2024 und 2025 ist differenziert zu interpretieren. Er wäre als Forschungsphänomen nur dann bedeutsam, wenn er auf eine inhaltliche Sättigung oder Diskursverschiebung hindeuten würde. Die Analyse der Datenbasis zeigt jedoch, dass es sich hierbei um ein typisches Indexierungsartefakt handelt, das am Übergang zwischen Kalender‑ und Erfassungsjahren auftritt. Datenbanken wie BASE und Google Scholar aktualisieren Einträge oft erst verzögert; insbesondere bei Publikationen in Open‑Access‑Kontexten (z. B. Preprints, Tagungsbände, Repository‑Releases) entstehen zeitliche Verschiebungen zwischen Veröffentlichungsdatum und Indexierung. Der Rückgang ist daher nicht als inhaltlicher Trend, sondern als technisches Artefakt zu bewerten.
+
+#### Systemische Forschungslücke
+
+In der Zusammenschau ergibt die Zeitreihe damit drei zentrale Befunde:
+
+1. Das Forschungsfeld verfügt bis etwa 2016 über keine identifizierbare, systematische Entwicklungslinie. Dies begründet die historische Jugend des Diskurses und die damit verbundene Abwesenheit komplexer theoretischer Modelle.
+2. Der starke Anstieg ab 2018 markiert einen „aufsteigenden Ast“, der auf eine rasch expandierende, aber zugleich noch nicht stabilisierte Forschungsgemeinschaft verweist. In dieser Phase entstehen viele Einzelstudien, jedoch keine konsolidierten Wirkgefüge‑Modelle.
+3. Die anhaltend geringen Trefferzahlen LMS‑spezifischer Suchkombinationen über alle Datenbanken hinweg – trotz insgesamt steigender Publikationsmengen – weisen auf eine strukturelle Unterrepräsentation systemischer Analysen digitaler Lernumgebungen in den Gesundheitsberufen hin.
+
+Diese drei Befunde bilden gemeinsam die empirisch‑quantitative Basis für die Begründung der Forschungslücke. Die Lücke entsteht nicht primär dadurch, dass Inhalte fehlen, sondern dadurch, dass der Diskurs strukturell zu jung, zu fragmentiert und zu begriffsunscharf ist, um bereits systemisch‑theoretische Wirkgefüge abbilden zu können. Die vorliegende Arbeit setzt genau an dieser Stelle an: Sie schließt nicht eine Lücke innerhalb eines etablierten Forschungsfeldes, sondern trägt zur Grundstrukturierung eines erst entstehenden Feldes bei, indem ein theoretisch, systemisch und empirisch fundiertes Modell des digitalen Bildungsraums entwickelt wird.
 
 ## 1.4 Herleitung Haupt- und Unterforschungsfragen {#sec:FU-Herleitung}
 
