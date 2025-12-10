@@ -9,7 +9,7 @@ published:
 tags:
 ---
 
-created: 10.12.2025 | [updated](): 10.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 10.12.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Interventionen/Lernprosesscodon.md): 10.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
