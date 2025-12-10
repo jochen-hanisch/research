@@ -1,27 +1,26 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Der GPT "Kompetenzziel-Generator"
 Repository: 
 created: 2025-01-20
 updated: 2025-01-20
 publish: true
-tags:
-  - "#Bildung"
-  - "#Lernprozess"
-  - "#Didaktik"
-  - "#Humanismus"
-  - "#Konstruktivismus"
-  - "#Reflexion"
-  - "#EBA-Zyklus"
-  - "#Kompetenzentwicklung"
-  - "#Bildungswissenschaft"
-  - "#Forschung"
-  - "#Didaktik"
 published: 2025-01-20
-project: []
+tags:
+  - Bildung
+  - Lernprozess
+  - Didaktik
+  - Humanismus
+  - Konstruktivismus
+  - Reflexion
+  - EBA-Zyklus
+  - Kompetenzentwicklung
+  - Bildungswissenschaft
+  - Forschung
+  - Didaktik
 ---
 
-created: 20.1.2025 | updated: 20.1.2025 | [publishd](https://www.researchgate.net/publication/388195316_Der_GPT_Kompetenzziel-Generator): 20.1.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 20.1.2025 | updated: 20.1.2025 (https://github.com/jochen-hanisch/research/blob/main/Interventionen/Kompetenzziel-Generator.md)| [publishd](https://www.researchgate.net/publication/388195316_Der_GPT_Kompetenzziel-Generator): 20.1.2025 | [[Hinweise]]
 
 **Der GPT "Kompetenzziel-Generator"**
 
