@@ -1,17 +1,26 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Reflexion - Ein universelles Grundelement des Lernens
+title: Reflexion als interne Inversionsoperation
+Repository: https://github.com/jochen-hanisch/research/
 created: 2025-07-31
-updated: 2025-12-03
+updated: 2025-1209
+publish: true
+published: 2025-01-10
 tags:
+  - Reflexion
   - Lernen
   - Feedback
   - Systemtheorie
   - Metakognition
-project: Systemlernen
+  - Emergenz
+  - Ontogenese
+  - Kybernetik
+  - Elementaroperationen
 ---
 
-createdt: 13.12.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Reflexion.md): | [publishd](https://zenodo.org/records/):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 31.7.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Reflexion.md): 9.12.2025 | [publishd](https://zenodo.org/records/17873058): 9.12.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
+**Reflexion als interne Inversionsoperation**
 
 # Einleitung
 
@@ -728,3 +737,7 @@ von Foerster, H. (1974). *Cybernetics of Cybernetics*. University of Illinois / 
 - Sadava, D., Hillis, D. M., Heller, H. C., & Hacker, S. D. (2019). *Purves Biologie* (J. Markl, Hrsg.). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-58172-8  
 - Voland, E. (2013). *Soziobiologie*. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-34541-8
    Die regelmäßige Gültigkeit des Reflexionsgesetzes („Einfallswinkel = Ausfallswinkel“) zeigt, dass Reflexion eine stabile Systemoperation ist, die auf der internen Ordnung der Grenzfläche beruht. Sie tritt unter denselben Bedingungen jederzeit wieder auf – ein starkes empirisches Kriterium für eine in diesem Rahmen als universale Elementar‑Operation gedeutete Struktur.
+
+---
+
+#Reflexion #Lernen #Feedback #Systemtheorie #Metakognition #Emergenz #Ontogenese #Kybernetik #Elementaroperationen
