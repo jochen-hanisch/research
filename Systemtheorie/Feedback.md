@@ -98,6 +98,58 @@ $$
 
 beschrieben werden. Heisenberg (1927), von Neumann (1932) sowie Wheeler und Zurek (1983) diskutieren diesen Zustandswechsel und seine mathematische Fassung im Rahmen der Theorie. Die Differenz selbst ist kein Ausdruck einer Bewertung oder einer funktionalen Reaktion, sondern die formale Darstellung zweier verschiedener Systemzustände.
 
+## 2.2 Perspektike: Chemie
+
+Die chemische Perspektive beschreibt Systeme über Unterschiede in Konzentrationen, energetischen Zuständen und räumlichen Verteilungen von Stoffen. Diese Unterschiede treten als Gradienten, Potentiale oder Konfigurationsvariationen auf. Sie markieren verschiedene Zustände eines chemischen Systems, ohne dass daraus bereits eine Reaktion, Gleichgewichtsverschiebung oder funktionale Bedeutung folgt. Die folgenden Bereiche stellen chemische Erscheinungsformen solcher Differenzen dar, die der Elementaroperation Feedback entsprechen: die Realisierung eines Unterschieds.
+
+2.2.1 Konzentrationsdifferenzen
+
+Chemische Systeme weisen häufig räumlich getrennte Konzentrationen auf. Eine Konzentrationsdifferenz zwischen zwei Punkten bezeichnet ausschließlich den Unterschied zweier Stoffmengen pro Volumen:
+
+\Delta c = c(\mathbf{x}_2) - c(\mathbf{x}_1).
+\tag{7}
+
+Diese Differenz beschreibt zwei Zustände eines Stoffverteilungsfeldes. Sie enthält keine Implikation über Diffusion oder Reaktionsdynamik. Erst spätere Prozesse nutzen oder verändern diese Differenz; die Differenz selbst bleibt ein struktureller Unterschied.
+
+2.2.2 Chemisches Potential
+
+Das chemische Potential \mu beschreibt den energetischen Zustand eines Stoffes. Eine Potentialdifferenz ist eine der grundlegendsten Formen chemischer Unterschiede:
+
+\Delta \mu = \mu_2 - \mu_1.
+\tag{8}
+
+In Gibbs’ Arbeiten zur Thermodynamik heterogener Systeme (1875–1878) wird \mu als Maß energetischer Zustände eingeführt. Die Differenz zweier Potentiale bezeichnet ausschließlich unterschiedliche energetische Situationen; sie ist noch keine Reaktionsgröße und keine Flussvorschrift.
+
+2.2.3 pH-Differenzen
+
+Der pH-Wert beschreibt die Aktivität von Protonen in Lösung. Unterschiede zwischen zwei Bereichen einer Lösung lassen sich formulieren als:
+
+\Delta \text{pH} = \text{pH}_2 - \text{pH}_1.
+\tag{9}
+
+Diese Differenz markiert zwei Zustände der Protonenaktivität ohne Aussage darüber, ob Säure-Base-Reaktionen stattfinden oder welche Richtung Gleichgewichte einnehmen. Die Differenz ist strukturell, nicht funktional.
+
+2.2.4 Redox-Potentiale und Elektronendichte
+
+Elektrochemische Systeme lassen sich durch Elektronendichten oder Redox-Potentiale charakterisieren. Eine Potentialdifferenz beschreibt den Unterschied zweier elektrochemischer Zustände:
+
+\Delta E = E_2 - E_1.
+\tag{10}
+
+Die Nernst-Gleichung (1889) stellt einen Zusammenhang zwischen E und Konzentrationen her, doch bleibt die Potentialdifferenz zunächst eine reine Zustandsangabe. Sie sagt nichts über Stromfluss, Reaktionsrichtung oder kinetische Vorgänge aus.
+
+2.2.5 Chemische Zustandskonfigurationen
+
+Chemische Systeme können als Konfigurationen in einem Zustandsraum beschrieben werden, etwa über Energieniveaus, Bindungswinkel oder Elektronenverteilungen. Zwei Zustände unterscheiden sich formal durch:
+
+\Delta Z = Z_2 - Z_1.
+\tag{11}
+
+Diese Differenz ist die abstrakteste Form eines chemischen Unterschieds. Sie impliziert weder eine Transformation noch eine Reaktionsbereitschaft, sondern lediglich die Unterscheidbarkeit zweier Zustände.
+
+
+
+
 ---
 
 Die fünf dargestellten Bereiche zeigen physikalische Realisierungen von Differenzstrukturen, die ohne Bedeutungszuschreibung oder Bewertung auftreten. Damit entsprechen sie der elementaren Form der Operation, die hier als Feedback bezeichnet wird: die Markierung eines Unterschieds zwischen zwei Zuständen.
