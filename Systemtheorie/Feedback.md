@@ -148,8 +148,6 @@ Chemische Systeme können als Konfigurationen in einem Zustandsraum beschrieben 
 Diese Differenz ist die abstrakteste Form eines chemischen Unterschieds. Sie impliziert weder eine Transformation noch eine Reaktionsbereitschaft, sondern lediglich die Unterscheidbarkeit zweier Zustände.
 
 
-
-
 ---
 
 Die fünf dargestellten Bereiche zeigen physikalische Realisierungen von Differenzstrukturen, die ohne Bedeutungszuschreibung oder Bewertung auftreten. Damit entsprechen sie der elementaren Form der Operation, die hier als Feedback bezeichnet wird: die Markierung eines Unterschieds zwischen zwei Zuständen.
