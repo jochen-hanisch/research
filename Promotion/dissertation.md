@@ -43,6 +43,8 @@ header-includes:
   - \usetikzlibrary{positioning}
   - \usetikzlibrary{positioning}
   - \usetikzlibrary{arrows.meta}
+  - \usetikzlibrary{shapes.geometric}
+  - \usetikzlibrary{fit}
   - \usepackage{caption}
   - \captionsetup{font=small, labelfont=bf, skip=10pt}
   - \usepackage{draftwatermark}
