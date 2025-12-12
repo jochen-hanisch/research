@@ -1,0 +1,112 @@
+\begin{tikzpicture}[
+  font=\scriptsize,
+  node distance=4mm and 10mm,
+  >=Latex,
+  every node/.style={align=center},
+  startstop/.style={draw, thick, shape=ellipse, fill=gray!10, inner sep=3pt},
+  process/.style={rectangle, draw, thick, fill=blue!5, rounded corners=1pt, inner sep=3pt},
+  decision/.style={diamond, draw, thick, aspect=2, fill=orange!8, inner sep=1.5pt},
+  smallprocess/.style={rectangle, draw, thick, fill=green!8, rounded corners=1pt, inner sep=2pt, font=\scriptsize},
+  line/.style={->, thick}
+]
+
+% Start
+\node[startstop] (start) {Beginn};
+
+% Quellenzufuhr
+\node[process, below left=of start] (alert) {Google-Alert};
+\node[process, below right=of start] (random) {Zufällige\\Quelle};
+\node[process, below=6mm of start] (single) {Einzelne Quelle\\(Literaturmanagement)};
+
+\draw[line] (start) -- (alert);
+\draw[line] (start) -- (random);
+\draw[line] (alert) -- (single);
+\draw[line] (random) -- (single);
+
+% Verfügbarkeit
+\node[decision, below=of single] (avail) {Verfügbar?};
+\draw[line] (single) -- (avail);
+
+\node[smallprocess, left=22mm of avail] (impulse) {Impuls für\\Suchbegriffe};
+\draw[line] (avail.west) -- node[above, sloped]{Nein} (impulse);
+
+% Suchbegriffe ableitbar / Erweiterung
+\node[decision, below=of avail] (terms) {Suchbegriffe?};
+\draw[line] (avail) -- node[right]{Ja} (terms);
+
+\node[smallprocess, right=22mm of terms] (extend) {Erweiterung\\Suchvokabular};
+\draw[line] (terms.east) -- node[above, sloped]{Ja} (extend);
+
+% Zusammenführung zur Suchcluster-Ebene
+\node[process, below=8mm of terms] (clusterentry) {Suchcluster /\\Suchpfade};
+\draw[line] (impulse.south) |- (clusterentry.west);
+\draw[line] (terms) -- node[right]{Nein} (clusterentry);
+\draw[line] (extend.south) |- (clusterentry.east);
+
+% Suchcluster (12 Begriffe, abstrahiert)
+\node[smallprocess, below=of clusterentry, xshift=-35mm] (s1) {\#1\\LMS};
+\node[smallprocess, right=of s1] (s2) {\#2\\Online\\Lernplattform};
+\node[smallprocess, right=of s2] (s3) {\#3\\Online\\Lernumgebung};
+\node[smallprocess, right=of s3] (s4) {\#4\\MOOCs};
+\node[smallprocess, below=of s1] (s5) {\#5\\E-Learning};
+\node[smallprocess, right=of s5] (s6) {\#6\\Bildung};
+\node[smallprocess, right=of s6] (s7) {\#7\\Digitale\\Medien};
+\node[smallprocess, right=of s7] (s8) {\#8\\Blended\\Learning};
+\node[smallprocess, below=of s5] (s9) {\#9\\Digitales\\Lernen};
+\node[smallprocess, right=of s9] (s10) {\#10\\Online\\Lernen};
+\node[smallprocess, right=of s10] (s11) {\#11\\Online\\Learning};
+\node[smallprocess, right=of s11] (s12) {\#12\\Digital\\Learning};
+
+\draw[line] (clusterentry) -- (s1.north);
+\draw[line] (clusterentry) -- (s2.north);
+\draw[line] (clusterentry) -- (s3.north);
+\draw[line] (clusterentry) -- (s4.north);
+
+% Rahmen um Suchcluster
+\node[draw, dashed, rounded corners, fit=(s1)(s2)(s3)(s4)(s5)(s6)(s7)(s8)(s9)(s10)(s11)(s12),
+      inner sep=3pt, label=above:{Datenbanksuchen und Suchcluster}] (clusterbox) {};
+
+% Screening-Kette
+\node[process, below=10mm of s9] (title) {Titel-Suche};
+\node[process, below=of title] (abstract) {Abstract-Suche};
+\node[process, below=of abstract] (content) {Inhalts-Suche};
+
+\draw[line] (s9.south) -- (title.north);
+\draw[line] (s10.south) -- (title.north);
+\draw[line] (s11.south) -- (title.north);
+\draw[line] (s12.south) -- (title.north);
+
+\node[process, left=26mm of abstract] (exclude) {Ausschluss};
+\draw[line] (title.west) -- node[above, sloped]{nicht passend} (exclude.north);
+\draw[line] (abstract.west) -- node[above, sloped]{nicht passend} (exclude);
+\draw[line] (content.west) -- node[above, sloped]{nicht passend} (exclude.south);
+
+\draw[line] (title) -- node[right]{passend} (abstract);
+\draw[line] (abstract) -- node[right]{passend} (content);
+
+% Analyse-Einstieg
+\node[process, below=of content] (analysis) {Analyse};
+\draw[line] (content) -- node[right]{passend} (analysis);
+
+% 1. Tagging
+\node[process, below=of analysis] (tag1) {1.~Tagging\\(Suchpfad, Typ,\\Thema, FU-Vorzuordnung)};
+\draw[line] (analysis) -- (tag1);
+
+% GPT-gestützte Inhaltsanalyse
+\node[process, below=of tag1] (gpt) {GPT-gestützte Inhaltsanalyse:\\Zusammenfassung, Kernaussagen,\\Argumentation, Indexierung,\\Kategorisierung, Zuordnung (FU),\\Relevanzbewertung};
+\draw[line] (tag1) -- (gpt);
+
+% 2. Tagging
+\node[process, below=of gpt] (tag2) {2.~Tagging\\(Konsolidierung von\\Kategorien, FU, Relevanz)};
+\draw[line] (gpt) -- (tag2);
+
+% Export und Netzwerk-/Pfadanalysen
+\node[process, below=of tag2] (export) {Export der\\kodierten Daten};
+\node[process, below=of export] (net) {Netzwerk- und\\Pfadanalysen};
+\node[startstop, below=of net] (end) {Abschluss /\\Synthese};
+
+\draw[line] (tag2) -- (export);
+\draw[line] (export) -- (net);
+\draw[line] (net) -- (end);
+
+\end{tikzpicture}
