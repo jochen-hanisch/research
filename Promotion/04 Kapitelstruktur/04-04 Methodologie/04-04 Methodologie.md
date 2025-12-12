@@ -72,7 +72,7 @@ Methodische Konsequenzen der Forschungsfragen
 
 ### 4.2.1 Systematische Literaturrecherche {#sec:Systematische-Literaturrecherche}
 
-Die systematische Literaturrecherche bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 2.650 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden.
+Die systematische Literaturrecherche bildet die Grundlage für die Beantwortung der Forschungsfragen FU1, FU3, FU4a und FU6. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Die Analyse umfasst insgesamt 3 733 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden (Datenstand: 13.12.2025).
 
 Die systematische Literaturrecherche folgt einem klar definierten, mehrstufigen Workflow (vgl. Abbildung X). Ausgangspunkt sind zwei kontinuierliche Zuführungen von Quellen: (1) automatisierte Google-Alerts, die einschlägige Veröffentlichungen zu vordefinierten Stichworten melden, und (2) zufällige Quellenfunde, die im Rahmen der laufenden Forschungs- und Praxistätigkeit auftreten. Beide Zuführungen werden zunächst als „Einzelne Quelle“ in das Literaturmanagementsystem überführt und mit den notwendigen Metadaten (Titel, Autor*in, Jahr, Publikationstyp) versehen.
 
@@ -225,7 +225,7 @@ Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relev
 
 ![Verteilung der Kategorien innerhalb des Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png){#fig:categories-suchergebnisse width=90%}
 
-Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 2025-11-26) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (vgl. Abb.~\ref{fig:categories-suchergebnisse}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
+Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (vgl. Abb.~\ref{fig:categories-suchergebnisse}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
 
 ### 4.2.4 Webcam-basiertes Eye-Tracking und KI-gestützte Codierung {#sec:EyeTracking}
 
@@ -237,11 +237,11 @@ KI dient als Codierhilfe, nicht als Messinstrument: Heatmaps und Fog-Views wurde
 
 Limitationen: geringere räumliche Präzision als Laborsysteme; Sensitivität für Kopfhaltung und Licht; keine Berechnung klassischer Fixationsmetriken; geringe Stichprobe. Die gewählte Granularität und die triangulative Einbindung (Eye-Tracking × Umfrage × Theorie) sichern dennoch eine robuste, kontextangemessene Evidenzbasis. Die vollständigen Bildreihen (Heatmap/Viewmap/Fog-View je Stimulus und Jahrgang) sind in \hyperref[sec:A-7]{Anhang A-7} dokumentiert.
 
-Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 2025-11-26) zeigt eine deutliche Konzentration auf „Kerngedanke“ (457) und „Argumentation“ (454). Weiterführungen (160) und Schlussfolgerungen (38) sind deutlich seltener. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet das, dass Schlussfolgerungen gezielt ergänzt werden müssen, um die breite Argumentationsbasis konsistent zu bündeln.
+Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ (457) und „Argumentation“ (454). Weiterführungen (160) und Schlussfolgerungen (38) sind deutlich seltener. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet das, dass Schlussfolgerungen gezielt ergänzt werden müssen, um die breite Argumentationsbasis konsistent zu bündeln.
 
 ![Verteilung zentraler Indizes im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_index_02-01_suchergebnisse.png){#fig:index-suchergebnisse width=90%}
 
-Die Indexverteilung (n = 4 102, Stand: 2025-11-26) fokussiert klar auf „Technologieintegration“ (945) und „Lehr- und Lerneffektivität“ (918). „Forschungsansätze“ (491) und „Systemanpassung“ (487) bilden den methodischen Unterbau. Bewertungsmethoden (291) und Bildungstheorien (277) liefern die theoretische Rahmung, während kollaboratives Lernen (274), Krisenreaktion (157), Lernsystemarchitektur (155) sowie Datenschutz/IT-Sicherheit (107) nachgelagert sind. Die Verteilung zeigt einen starken Wirkungs- und Implementierungsfokus; Governance- und Sicherheitsaspekte bleiben randständig und sollten in der Diskussion gezielt gewichtet werden.
+Die Indexverteilung (n = 4 102, Stand: 13.12.2025) fokussiert klar auf „Technologieintegration“ (945) und „Lehr- und Lerneffektivität“ (918). „Forschungsansätze“ (491) und „Systemanpassung“ (487) bilden den methodischen Unterbau. Bewertungsmethoden (291) und Bildungstheorien (277) liefern die theoretische Rahmung, während kollaboratives Lernen (274), Krisenreaktion (157), Lernsystemarchitektur (155) sowie Datenschutz/IT-Sicherheit (107) nachgelagert sind. Die Verteilung zeigt einen starken Wirkungs- und Implementierungsfokus; Governance- und Sicherheitsaspekte bleiben randständig und sollten in der Diskussion gezielt gewichtet werden.
 
 ![Tag-Struktur der verarbeiteten Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_tags_02-01_suchergebnisse.png){#fig:tags-suchergebnisse width=90%}
 
@@ -273,7 +273,7 @@ Die Top-25-Autor*innen liegen dicht beieinander (ca. 7–13 Werke; Spitze Kerres
 
 ![Sprachenverteilung der Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_languages_02-01_suchergebnisse.png){#fig:languages width=90%}
 
-Die Sprachverteilung (n = 3 533, Stand: 2025-11-26) ist zweipolig: Deutsch dominiert mit de-DE (2 326) und de-A (5), gefolgt von Englisch (en-GB 1 191; en-US 6). Einzelne Beiträge stammen aus indonesischen (id-id 3), malaysischen (ms-my 1) und spanischen (es 1) Quellen. Damit prägen deutsch- und englischsprachige Texte den Diskurs; Beiträge anderer Sprachen sind marginal und vor allem als Kontext- oder Fallstudienimpulse zu interpretieren.
+Die Sprachverteilung (n = 3 533, Stand: 13.12.2025) ist zweipolig: Deutsch dominiert mit de-DE (2 326) und de-A (5), gefolgt von Englisch (en-GB 1 191; en-US 6). Einzelne Beiträge stammen aus indonesischen (id-id 3), malaysischen (ms-my 1) und spanischen (es 1) Quellen. Damit prägen deutsch- und englischsprachige Texte den Diskurs; Beiträge anderer Sprachen sind marginal und vor allem als Kontext- oder Fallstudienimpulse zu interpretieren.
 
 ![Sprachenverteilung nach Dokumententyp.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_language_entrytypes_02-01_suchergebnisse.png){#fig:language-entrytypes width=90%}
 
