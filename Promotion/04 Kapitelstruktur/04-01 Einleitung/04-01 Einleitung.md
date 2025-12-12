@@ -39,6 +39,8 @@ Im Rahmen dieses Forschungsansatzes wird infolgedessen davon ausgegangen, dass d
 
 Dieser Arbeit liegt damit ein doppelt gerichtetes Erkenntnisinteresse zugrunde. Einerseits sollen die beobachtbaren Wirkmechanismen systematisch identifiziert und theoretisch erklärbar gemacht, andererseits sollen daraus prospektive Einsichten gewonnen werden, die eine gezielte Gestaltung zukünftiger Bildungsräume ermöglichen. In diesem Sinne betrachtet diese Arbeit zu den retrospektiven Analysen bestehender Effekte und erweitert diese um die Entwicklung einer theoretisch fundierten Grundlage für prognostische Aussagen zu gewünschten Wirkungen.
 
+Zur Beantwortung der Forschungsfragen wurde ein mehrstufiger, systematischer Literaturprozess implementiert, der kontinuierliche Google-Alerts und zufällige Quellenfunde mit strukturierten Schlagwortsuchen, einem dreistufigen Screening (Titel-, Abstract- und Inhaltsprüfung), zweifachem Tagging, einer KI-gestützten Inhaltsanalyse sowie anschließenden Netzwerk- und Pfadanalysen verbindet. Auf diese Weise entstand ein rekonstruiertes Literaturfeld, in dem nicht nur einzelne Studien, sondern die strukturellen Wirkgefüge des Diskurses sichtbar werden (vgl. \hyperref[sec:Systematische-Literaturrecherche]{Abschnitt 4.2.1}).
+
 ### 1.1.2 Problemstellung {#sec:Problemstellung}
 
 Text
