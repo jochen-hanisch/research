@@ -170,6 +170,8 @@ Innerhalb der Zitationen werden diese Regeln angewendet:
 
 Auslassungen sind durch „(…)“ dargestellt und Ergänzungen innerhalb von Zitaten erscheinen in eckigen Klammern „[…; Anmerkung des Autors]“, während Hervorhebungen durch den Autor mit „[Hervorhebung durch den Autor]“ kenntlich gemacht werden. Übersetzungen, die dem Original wörtlich entsprechen, werden wie direkte Zitate behandelt und mit der Anmerkung „(Übersetzung durch den Autor)“ versehen.
 
+Sofern in den Abbildungsunterschriften nichts anderes angegeben ist, stammen alle Abbildungen aus eigener Darstellung und basieren auf den in dieser Arbeit erhobenen, ausgewerteten oder rekonstruierten Daten.
+
 ## Hinweis zum Sprachstil
 
 Die Arbeit folgt den Prinzipien einer gendergerechten Sprache. Orientierung bietet der Vorschlag von @koehler_empfehlung_2021, dass „die Gleichstellung aller Geschlechter und die Anerkennung aller Identitätsgeschlechter“ [@koehler_empfehlung_2021, Seite 2] ihren sprachlichen Ausdruck innerhalb der scientific community finden muss.
