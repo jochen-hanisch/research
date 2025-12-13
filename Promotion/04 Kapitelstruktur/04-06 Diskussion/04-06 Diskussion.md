@@ -4,6 +4,15 @@
 
 Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und der Forschungsfragen. Struktur gemäß den Arbeitsnotizen:
 
+Für die innere Konsistenz der Diskussion wird ein evaluatives Raster zugrunde gelegt, das die in den Kapiteln 2–5 rekonstruierten Wirkdimensionen des digitalen Bildungsraums entlang tragfähiger Stärken, sichtbarer Begrenzungen, daraus erwachsender Gestaltungsoptionen und vulnerabler Zonen betrachtet. Dieses Raster nimmt zur schematischen Anwendung klassischer SWOT-Modelle weiterführend deren analytische Logik der Spannungsverhältnisse auf und überführt sie in eine forschungsfragengeleitete, systemisch angelegte Betrachtung des Wirkgefüges (i.A.a. [@niederberger_swot-analyse_2015; @hogan_swot-analyse_2009; @hanisch_nachhaltiges_2017]). Kapitel 6 entfaltet die Forschungsunterfragen vor diesem Hintergrund als beschreibende Interdependenzfelder:
+
+- was trägt,
+- was begrenzt,
+- was lässt sich gestalten und
+- wo werden Risiken beziehungsweise Verletzlichkeiten
+
+des digitalen Bildungsraums sichtbar.
+
 ## 6.1 Rückbindung an die Forschungsfragen {#sec:Diskussion-Forschungsfragen}
 
 - Interpretation der Befunde entlang der Kernbereiche aus \hyperref[sec:Ergebnisse]{Kapitel 5}.
@@ -13,6 +22,8 @@ Das Kapitel diskutiert die Ergebnisse im Lichte der theoretischen Grundlagen und
 
 - Beitrag zur bildungswissenschaftlichen Theorieentwicklung (z.B. systemisch-konstruktivistische Perspektive, digitale Bildung).
 - Rückbindung an \hyperref[sec:Theorieteil]{2} (Theorie) und \hyperref[sec:Forschungsgegenstand]{3} (Forschungsgegenstand).
+
+#todo Abschnitt ergänzen, der den Beitrag der Arbeit zur Strukturierung des Forschungsfeldes (Zeitreihe, Cluster-/Netzwerkanalysen, systemische Forschungslücke) als theoretisch-methodische Leistung bündelt.
 
 ## 6.3 Praktische und gestalterische Implikationen {#sec:Diskussion-Praxis}
 
@@ -75,7 +86,9 @@ Das Modell versteht digitale Bildungsräume als Wirkgefüge, deren zentrale Stru
 - Bewertung der eingesetzten Methoden (\hyperref[sec:Methodologie]{Kapitel 4}) und ihrer Grenzen.
 - Diskurs über Validität, Reliabilität und Generalisierbarkeit der Befunde.
 
-- Die Eye-Tracking-Daten unterliegen spezifischen methodischen Einschränkungen. Die Nutzung eines webcam-basierten Systems (RealEye) impliziert eine geringere räumliche Präzision und eine sensitivere Reaktion auf Kopfbewegungen als laborbasierte Eye-Tracker. Zudem standen ausschließlich aggregierte Bildexporte (Heatmap, Viewmap, Fog-View) zur Verfügung, was die Berechnung klassischer AOI-Metriken (z. B. Dwell Time, Time to First Fixation) ausschließt. Die Analyse basiert daher auf einer qualitativen, visuell interpretierten Fixationsverteilung, deren Validität durch aktuelle Forschung zu webcam-basiertem Tracking gestützt wird. Die Stichprobe ist begrenzt und repräsentiert primär Ausbildungsrealitäten aus einem spezifischen Kompetenzbereich, was die Übertragbarkeit moderiert. Gleichwohl ergibt sich eine hohe interne Validität durch die Triangulation mit Literaturbefunden und den Ergebnissen der begleitenden Umfrage. Die Analogie zur radiologischen Befundung unterstützt die methodische Einordnung, da auch dort interpretationsgeleitete Bildmuster genutzt werden. Insgesamt bleibt festzuhalten, dass die Eye-Tracking-Ergebnisse keine metrische Präzision beanspruchen, jedoch eine robuste, qualitativ belastbare Evidenz für Wahrnehmungs- und Orientierungsmuster bereitstellen.
+#todo In einem Unterabschnitt explizit den methodischen Mehrwert der entwickelten Literaturpipeline (systematische Suche, Tagging, KI-Unterstützung, mdaCV) gegenüber klassischen Reviews herausarbeiten und als eigenständigen Beitrag der Dissertation markieren.
+
+Die Eye-Tracking-Daten markieren innerhalb des Methodenensembles eine bewusst ambivalente Position. Sie sind stark in ihrer visuellen Anschauungskraft, und gleichzeitig schwach in metrischer Präzision und Generalisierbarkeit. Die Nutzung eines webcam-basierten Systems (RealEye) und die Beschränkung auf aggregierte Bildexporte (Heatmap, Viewmap, Fog-View) begrenzen die Auflösung klassischer AOI-Kennwerte und verankern die Analyse auf der Ebene qualitativ interpretierter Fixationsmuster. Diese Begrenzung ist FU-geleitet. Primär stützt das Eye-Tracking FU4b, indem es technisch-gestalterische Mechanismen des LMS im digitalen Bildungsraum sichtbar macht; sekundär verschränkt es FU1 und FU2, indem subjektive Einschätzungen zu Struktur, Nützlichkeit und Interaktionsmöglichkeiten mit den beobachteten Aufmerksamkeitsverteilungen gespiegelt werden. Mit jeweils acht Teilnehmenden pro Ausbildungsjahr $n_\text{gesamt} = 24$ bleibt die Stichprobe klein, macht jedoch die Expertisegradienten zwischen den Jahrgängen hinreichend sichtbar. Die in \hyperref[fig:eyetracking-verteilung]{Abbildung \ref{fig:eyetracking-verteilung}} dokumentierte Relation zur Grundgesamtheit verdeutlicht diese Konstellation: ausreichend breit, um typische Muster entlang der FU zu rekonstruieren, bewusst zu schmal für inferenzstatistische Hypothesentests. In der Triangulation mit Literaturbefunden und Umfrageergebnissen entsteht daraus ein methodischer Zwischenraum, in dem die Eye-Tracking-Daten als qualitative, visuell verdichtete Spur fungieren, die die forschungsfragengeleitete Argumentation stützt, ohne ihren Geltungsanspruch zu überdehnen.
 
 ## 6.5 Ausblick und Forschungsperspektiven {#sec:Diskussion-Ausblick}
 
