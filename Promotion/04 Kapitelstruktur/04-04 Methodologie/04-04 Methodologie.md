@@ -237,6 +237,14 @@ KI dient als Codierhilfe, nicht als Messinstrument: Heatmaps und Fog-Views wurde
 
 Limitationen: geringere räumliche Präzision als Laborsysteme; Sensitivität für Kopfhaltung und Licht; keine Berechnung klassischer Fixationsmetriken; geringe Stichprobe. Die gewählte Granularität und die triangulative Einbindung (Eye-Tracking × Umfrage × Theorie) sichern dennoch eine robuste, kontextangemessene Evidenzbasis. Die vollständigen Bildreihen (Heatmap/Viewmap/Fog-View je Stimulus und Jahrgang) sind in \hyperref[sec:A-7]{Anhang A-7} dokumentiert.
 
+![Stichprobenverteilung der Eye-Tracking-Teilnehmenden nach Ausbildungsjahr mit 95 %-Konfidenzintervallen im Vergleich zur Grundgesamtheit.](08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_verteilung_konfidenz.png){#fig:eyetracking-verteilung width=90%}
+
+Die Stichprobenverteilung (vgl. Abb.~\ref{fig:eyetracking-verteilung}) zeigt, dass in jedem Ausbildungsjahrgang acht Personen in die Eye-Tracking-Analyse einbezogen wurden ($n_\text{pro Jahrgang} = 8$) und damit jeweils ein Drittel der Kohorte im ersten Jahr (N = 24) sowie einen substantiellen Anteil in den kleineren Jahrgängen (zweites Jahr N = 11, drittes Jahr N = 10) abbilden. Die 95 %-Konfidenzintervalle verdeutlichen die erwarteten Unsicherheiten bei kleinen Grundgesamtheiten, bestätigen aber zugleich, dass die Stichprobe im Rahmen der vorhandenen Kohortengrößen breit gestreut ist. Für die qualitativen, bildbasierten Analysen genügt diese Verteilung, um typische Muster pro Jahrgang sichtbar zu machen, ohne einen Anspruch auf inferenzstatistische Repräsentativität zu erheben.
+
+![Kumulative Zahl der potenziell generierten Eye-Tracking-Bilder (Heatmaps, Viewmaps, Fog-Views und Recording-Screenshots) über Stimuli, Jahrgänge und Visualisierungstypen.](08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_bildanzahl.png){#fig:eyetracking-bildanzahl width=90%}
+
+Die kumulative Bildanzahl (Abb.~\ref{fig:eyetracking-bildanzahl}) illustriert den Umfang der generierten Visualisierungen: Pro Jahrgang entstehen aus den elf Stimuli und drei Visualisierungstypen (Heatmap, Viewmap, Fog-View) bereits mehrere Hundert potenzielle Bilder; hochgerechnet auf alle Jahrgänge ergibt sich ein vierstelliger Bildkorpus. Vor diesem Hintergrund wird die Entscheidung für eine selektive, qualitativ-interpretative Auswertung nachvollziehbar: Statt alle Visualisierungen metrisch auszuwerten, werden zentrale Stimuli und Jahrgänge exemplarisch vertieft analysiert und mit den Umfragebefunden trianguliert. Die Kosten-Nutzen-Abwägung fällt damit zugunsten eines theoriegeleiteten, fokussierten Vorgehens aus, das die bildbasierte Stärke des Materials nutzt, ohne in eine unbegründete Quantifizierung zu kippen.
+
 Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ (457) und „Argumentation“ (454). Weiterführungen (160) und Schlussfolgerungen (38) sind deutlich seltener. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet das, dass Schlussfolgerungen gezielt ergänzt werden müssen, um die breite Argumentationsbasis konsistent zu bündeln.
 
 ![Verteilung zentraler Indizes im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_index_02-01_suchergebnisse.png){#fig:index-suchergebnisse width=90%}
@@ -342,8 +350,8 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - Ausschluss von Sessions mit Warn‑ oder Fehlstatus.  
 - Standardisierte Sitzposition, Lichtbedingungen und Displayabstände.  
 - Stimulus: statische LMS‑Ansichten; identische Auflösung und AOI‑Koordinaten.
-- Sequenzprotokoll: Kalibrierung/Validierung -> Stimulusfolge (z.B. F2‑S2, F3‑S3, F10‑S3, F11‑S3, F14‑S3; feste Anzeigezeit ca. 8–12 s, #todo exakte Dauer ergänzen) -> Export der Visualisierungen; kein Reload, Einzel‑Durchlauf pro Person.
-- Stichprobe: #todo n gestartet; #todo n nach Kalibrierung akzeptiert; #todo n final analysiert (Grünstatus, Blicksignal vorhanden).
+- Sequenzprotokoll: Kalibrierung/Validierung -> Stimulusfolge (F2‑S2, F3‑S3, F10‑S3, F11‑S3, F14‑S3; feste Anzeigezeit von ca. 8–12 s je Stimulus) -> Export der Visualisierungen; kein Reload, Einzel‑Durchlauf pro Person.
+- Stichprobe: 24 vollständige Eye‑Tracking‑Datensätze (je 8 Teilnehmende aus dem 1., 2. und 3. Ausbildungsjahr; Grundgesamtheit N\textsubscript{1. Jahr} = 24, N\textsubscript{2. Jahr} = 11, N\textsubscript{3. Jahr} = 10).
 
 **Metriken und Verarbeitung**
 
@@ -353,7 +361,7 @@ Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen)
 - AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
 - Keine absoluten Fixationskennzahlen; relative Muster stehen im Mittelpunkt.  
 - Ausschluss von Sessions mit Trackloss oder instabiler Kalibrierung.
-- Technische Angaben: RealEye (Version #todo) im Browser (Desktop/Laptop); Export als PNG/JPG, keine CSV‑Rohdaten oder AOI‑Metriken verfügbar.
+- Technische Angaben: RealEye (Webcam‑Tracker im Browser, Desktop/Laptop); Export als PNG/JPG, keine CSV‑Rohdaten oder AOI‑Metriken verfügbar.
 - Nicht genutzte Metriken: keine Pupillometrie, keine millisekundengenaue Sakkadenanalyse, keine Time‑to‑First‑Fixation/TTFF, kein Fixation Count/Dwell‑Time pro AOI (nicht geliefert); ausschließlich Fixationsaggregation aus den Visualisierungen.
 - RealEye-Hinweise: Heatmap-Farben kodieren Intensität, nicht Dauer; Viewmap/Fog‑View zeigen Verteilung ohne nummerierte Reihenfolge; central fixation bias (erste ~0,5 s) bei Bedarf ausblenden; Zeitfenster verschieben/verkürzen bei Sequenzfragen; Filter (Qualität/Tags/AOI) nur zur visuellen Sichtung, keine CSV-Downloads.
 
@@ -638,6 +646,8 @@ Die hohe Trennschärfe bestätigt, dass das Literaturfeld strukturell differenzi
 Bedeutung für die Gesamtanalyse
 
 Die 3D-Clusteranalyse wirkt als abschließende seismografische Validierungsstufe der vorangegangenen P-QIA und der mdaCV:
+
+#todo Kurzabschnitt ergänzen, der die systematische Literaturpipeline (Suchcluster, Tagging, GPT-Unterstützung, Netzwerk-/Pfadanalysen) und die mdaCV explizit als eigenständigen methodischen Beitrag der Arbeit einordnet und mit klassischen Literaturreviews vergleicht.
 
 - Sie macht sichtbar, dass die Literaturbasis nicht nur volumetrisch, sondern auch semantisch ausgewogen ist.
 - Sie zeigt, welche Themenräume dicht besetzt sind und welche die deduktiven Kategorien besonders stark stützen.
