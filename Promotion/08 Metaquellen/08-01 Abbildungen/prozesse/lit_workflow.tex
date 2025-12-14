@@ -100,12 +100,14 @@
 \node[process, below=of gpt] (tag2) {2.~Tagging\\(Konsolidierung von\\Kategorien, FU, Relevanz)};
 \draw[line] (gpt) -- (tag2);
 
-% Export und Netzwerk-/Pfadanalysen
-\node[process, below=of tag2] (export) {Export der\\kodierten Daten};
+% Zotero-Export und Netzwerk-/Pfadanalysen
+\node[process, below=of tag2] (zotero) {Zotero-Export inkl.~Notizen\\(Literaturverzeichnis.bib mit\\FU-Tags und \texttt{annote})};
+\draw[line] (tag2) -- (zotero);
+
+\node[process, below=of zotero] (export) {Export der\\kodierten Daten};
 \node[process, below=of export] (net) {Netzwerk- und\\Pfadanalysen};
 \node[startstop, below=of net] (end) {Abschluss /\\Synthese};
 
-\draw[line] (tag2) -- (export);
 \draw[line] (export) -- (net);
 \draw[line] (net) -- (end);
 

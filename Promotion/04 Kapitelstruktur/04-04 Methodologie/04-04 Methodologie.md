@@ -439,18 +439,27 @@ Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmode
 - **Analysen zweiter Ordnung (Sekundäranalysen):** Die Primäranalysen einer FU werden gespiegelt, verdichtet und theoriebezogen gerankt. Daraus entstehen deduktive Cluster, SWOT-Profile und Korrelationsmatrizen.
 - **Analysen dritter Ordnung (P-QIA):** Die probabilistisch-qualitative Inhaltsanalyse überführt die Ergebnisse der zweiten Ebene in einen Vektorraum, prüft sie über k-means-Clustering und bewertet die Kohärenz mittels Silhouette-Scores.
 
-Gemeinsam bilden diese Ordnungen einen iterativen Zyklus: Jede Stufe liefert die Grundlage für die nächste und fließt nach erfolgter Validierung wieder in die Forschungsunterfragen zurück.
+Gemeinsam bilden diese Ordnungen einen iterativen Zyklus. Jede Stufe liefert die Grundlage für die nächste und fließt nach erfolgter Validierung wieder in die Forschungsunterfragen zurück.
 
-### 4.3.2 Analyse 1. Ordnung: Primäranalysen {#sec:Primaranalysen}
+Systemtheoretisch folgt die Dreiteilung der Idee von Beobachtungen erster, zweiter und dritter Ordnung: Analysen erster Ordnung beobachten die Quellen direkt und beschreiben, was Akteure über Akzeptanz, Nutzen oder Grenzen des LMS aussagen; Analysen zweiter Ordnung beobachten diese Beobachtungen, identifizieren Muster und Metastrukturen auf FU-Ebene; Analysen dritter Ordnung beobachten schließlich die daraus entstehenden Strukturen im semantischen Raum und prüfen ihre Stabilität und Kohärenz [@luhmann_zwischen_1982; @arnold_rolf_luhmann_2015]. Damit wird das luhmannsche Beobachtungskonzept operativ auf die mehrstufige Literatur- und Datenanalyse übertragen und in eine reproduzierbare Pipeline überführt.
+
+### 4.3.2 Primäranalysen: Analyse 1. Ordnung {#sec:Primaranalysen}
 
 Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`; siehe Anhang A.2, Prompt zur Analyse einer Quelle, {#sec:A-2}). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
 
-1. **Quellenimport und Tagging:** Aus Zotero exportierte Einträge werden über ihre Tags (`Promotion:Literaturanalyse` + Argumentationskategorie) den FUs zugeordnet.
+1. **Quellenimport und Tagging:** Aus Zotero exportierte Einträge werden über ihre Tags den FUs zugeordnet.
 2. **Promptbasierte Auswertung:** Ein KI-gestütztes Textanalysewerkzeug erzeugt strukturierte Markdown-Analysen, die deduktiv definierte Kategorien ausfüllen und mit Originalzitaten aus der Quelle verknüpfen.
 3. **Dokumentation:** Jede Analyse erhält einen Header mit Metadaten (Quelle, Datum, Prompt-Version). Die Ergebnisse liegen versioniert in Obsidian vor und können jederzeit erneut validiert werden.
 4. **Qualitätssicherung:** Quellen, die inhaltlich nicht in den digitalen Bildungsraum passen, werden bereits auf dieser Ebene identifiziert und als „irrelevant" markiert. So bleiben nur überprüfte Texte im weiteren Prozess.
+5. **Zotero-Export inkl. Notizen:** Die Primäranalysen werden über einen laufend aktualisierten Export aus Zotero in das Literaturverzeichnis der Arbeit überführt und bilden so die maschinenlesbare Grundlage für die anschließenden Netzwerk-, Cluster- und Pfadanalysen.
 
-### 4.3.3 Analyse 2. Ordnung: Sekundäranalysen {#sec:Sekundaranalysen}
+Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU4a und FU5 (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU3 und den nutzungsbezogenen FU2a/FU4b. FU1 und FU6 liegen im mittleren einstelligen Prozentbereich, FU2b und FU7 bilden kleinere, aber inhaltlich zentrale Vertiefungsfelder. Abbildung \ref{fig:primaranalysen-verteilung} visualisiert diese Gewichtung.
+
+```{=latex}
+\input{08 Metaquellen/08-01 Abbildungen/statistik/primaranalysen-verteilung.tex}
+```
+
+### 4.3.3 Sekundäranalysen: Analyse 2. Ordnung {#sec:Sekundaranalysen}
 
 Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage. Die entsprechenden Prompts (z.B. `FU1 Prompt Sekundäranalyse.md`) führen mehrere Einzelanalysen zusammen, spiegeln sie an theoretischen Bezugsrahmen und erzeugen daraus erste Metastrukturen:
 
@@ -460,7 +469,7 @@ Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage
 
 Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert.
 
-### 4.3.4 Analyse 3. Ordnung: Probabilistisch-Qualitative Inhaltsanalyse (P-QIA) {#sec:P-QIA}
+### 4.3.4 Probabilistisch-Qualitative Inhaltsanalyse (P-QIA): Analyse 3. Ordnung {#sec:P-QIA}
 \label{term:p-qia}
 
 Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
@@ -490,42 +499,14 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P-QIA)** – Rückbindung an die FU und Dokumentation der Kennwerte.
 
 ```{=latex}
-\begin{figure}[H]
-    \centering
-    \begin{tikzpicture}[node distance=1.5cm and 3.0cm, block/.style={rectangle, draw, rounded corners, align=center, text width=4cm}, >=latex]
-        \node[block] (A) {Forschungsunterfrage\\FU1--FU7};
-        \node[block, below=of A] (B) {Materialauswahl\\Primäranalysen, Notizen};
-        \node[block, below=of B] (C) {Festlegung der\\Analyseeinheiten};
-        \node[block, below=of C] (I) {Kodierung des Materials};
-        \node[block, below=of I] (J) {Synthese und\\Theoriebildung};
-
-        \node[block, right=of C] (D) {Segmentierung in\\Sinnabschnitte};
-        \node[block, below=of D] (E) {Embedding der Segmente};
-        \node[block, below=of E] (F) {k-means-Clustering};
-        \node[block, below=of F] (G) {Silhouette-Berechnung};
-        \node[block, below=of G] (H) {Ableitung/Revision\\der Kategorien};
-
-        \draw[->] (A) -- (B);
-        \draw[->] (B) -- (C);
-        \draw[->] (C) -- (I);
-        \draw[->] (I) -- (J);
-        \draw[->] (C) -- (D);
-        \draw[->] (D) -- (E);
-        \draw[->] (E) -- (F);
-        \draw[->] (F) -- (G);
-        \draw[->] (G) -- (H);
-        \draw[->] (H) -- (I);
-    \end{tikzpicture}
-    \caption{Ablauf der P-QIA-gestützten Inhaltsanalyse.}
-    \label{fig:p-qia-flow}
-\end{figure}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/p-qia-flow.tex}
 ```
 
 **Validierung und empirische Kennwerte**
 
 Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
 
-|FU|k|Silhouette|Interpretation nach Rousseeuw (1987)|
+|FU|k|Silhouette|Interpretation nach @rousseeuw_silhouettes_1987|
 |---|---|---|---|
 |FU1|8|0.91|sehr starke Clustertrennung|
 |FU2a|12|0.88|starke Clusterstruktur|
