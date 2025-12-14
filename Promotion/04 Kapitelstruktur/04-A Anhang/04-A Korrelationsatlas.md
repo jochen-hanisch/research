@@ -30,8 +30,4 @@ Der Korrelationsatlas bündelt die vollständigen Korrelationsmatrizen des Liter
 
 ### A.4.3 Strukturelle Übersichten der Relationen
 
-![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png){#fig:A-path-diagram width=100%}
-
-![Sankey-Diagramm zur Verteilung nach Suchbegriffen und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/create_sankey_diagram_02-01_suchergebnisse.png){#fig:A-sankey-diagram width=100%}
-
-![Netzwerkdarstellung der Beziehungen zwischen Suchbegriffen, Tags und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png){#fig:A-network-suchergebnisse width=100%}
+Die strukturellen Übersichten des Literaturkorpus – insbesondere das Pfaddiagramm der Datenflüsse und Kategorien sowie das Suchbegriffsnetz – werden im Methodik-Kapitel ausführlich visualisiert und erläutert (vgl. Abb.~\ref{fig:path-diagram} und Abb.~\ref{fig:network-suchergebnisse} in Abschnitt 4.2/4.3). Um Redundanzen und zusätzliche Dateilasten zu vermeiden, sind diese Abbildungen im Korrelationsatlas nicht erneut eingebunden.
