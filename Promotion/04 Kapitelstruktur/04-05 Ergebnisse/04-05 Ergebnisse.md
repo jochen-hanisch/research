@@ -6,7 +6,7 @@ Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es s
 
 ## 5.1 Überblick und Einordnung {#sec:Ergebnisse-Ueberblick}
 
-*(Kurz einordnen, was in diesem Kapitel passiert und wie es zu den Forschungsfragen und der Methodologie (Kapitel 4) passt.)*
+#todo Kurzüberblick der wichtigsten Ergebnislinien ergänzen (pro Kernbereich 1–2 Sätze als Hinführung zu Abschnitt 5.2 und 5.3).
 
 ## 5.2 Verteilung der Analysen nach Kernbereichen {#sec:Ergebnisse-Verteilung}
 
