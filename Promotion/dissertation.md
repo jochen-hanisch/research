@@ -35,6 +35,7 @@ header-includes:
   - \usepackage{longtable}
   - \usepackage{tocloft}
   - \usepackage{tabularx}
+  - \usepackage{pdflscape}
   - \usepackage{imakeidx}
   - \makeindex
   - \usepackage{glossaries}

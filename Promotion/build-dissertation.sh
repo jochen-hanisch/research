@@ -37,6 +37,13 @@ FILES=(
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md"
 )
 
+# Korrelationsatlas abhängig vom Modus einbinden
+if [[ "$MODE" == "full" ]]; then
+  FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas.md")
+else
+  FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas_stub.md")
+fi
+
 # Eye-Tracking-Datei abhängig vom Modus einbinden
 if [[ "$MODE" == "full" ]]; then
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md")
