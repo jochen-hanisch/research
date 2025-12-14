@@ -95,7 +95,7 @@ Text
 
 ### 1.3.2 Literaturrecherche {#sec:Literaturrecherche}
 
-Der dokumentierte und bildet die Ausgangsbasis der bibliometrischen Analyse.
+#todo Formulierung dieses Eingangssatzes glätten (fehlendes Verb ergänzen, z.B. „Der dokumentierte Literaturprozess bildet die Ausgangsbasis der bibliometrischen Analyse.“).
 
 Die systematische Literatursuche zum 23. April 2022 orientiert sich an den Qualitätskriterien von Döring [@doring_forschungsmethoden_2023] und kombiniert das Suchnetzwerk nach @vom_brocke_standing_2015 mit einem mehrstufigen Dokumentationsprozess in Zotero und Obsidian. Ausgehend von den im Exposé [@hanisch_wirkgefuge_2022] abgeleiteten Suchclustern werden primäre Begriffe (z.B. „Learning Management System“, „digitaler Bildungsraum“, „Kompetenzentwicklung“) genutzt, um Quellen zu identifizieren, die unmittelbar den Forschungsgegenstand adressieren. Sekundäre Begriffe (z.B. „digital“, „blended“, „hybride Lernarrangements“) dienen der Kontextualisierung über didaktische und organisatorische Fragen der Lernraumgestaltung hinaus. Tertiäre Begriffe (z.B. „E-Learning“, „Online-Plattform“, „EdTech-Infrastruktur“, „Open-Source-Lernplattformen“) erschließen angrenzende technologische Rahmungen und Innovationspfade. Die Cluster werden mit 35 % (primär), 40 % (sekundär) bzw. 25 % (tertiär) gewichtet. Die prozentuale Gewichtung bestimmt zugleich die Mindestquote der zu sichtenden Trefferlisten: Primäre Kombinationen werden zu 80 % vollständig analysiert, sekundäre zu 50 %, tertiäre zu 15 %. Damit lässt sich das Spannungsfeld aus Vollständigkeit und Praktikabilität transparent steuern.
 
