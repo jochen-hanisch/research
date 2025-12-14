@@ -29,12 +29,9 @@ FILES=(
   literaturverzeichnis.md
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md"
   "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md"
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md"
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md"
+  "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md"
 )
 
 # Korrelationsatlas abhängig vom Modus einbinden
@@ -50,6 +47,13 @@ if [[ "$MODE" == "full" ]]; then
 else
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking_stub.md")
 fi
+
+# Prompt-Anhänge (methodische Werkzeuge)
+FILES+=(
+  "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md"
+  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md"
+  "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md"
+)
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
 spinner() {
