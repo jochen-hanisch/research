@@ -37,7 +37,7 @@ Die Ergebnisse verdeutlichen, dass digitale Bildungsräume nicht als neutrale Co
 
 Dieser interdependente Zugriff ergänzt die Betrachtung des digitalen Bildungsraums um eine strukturelle Tiefendimension: Das LMS wirkt nicht einseitig, sondern eröffnet einen systemischen Möglichkeitsraum, in dem konstruktive und dysfunktionale Effekte untrennbar miteinander verschränkt sind. Das Wirkgefüge entsteht erst durch diese Differenzform – nicht durch die Dominanz eines der beiden Pole. 
 
-Das ist ein entscheidender, fast schon durchbruchartiger Moment: Der präzise systemtheoretische Grundbegriff, der das Modell trägt, ist die **Interdependenz der Wirkgefügswahrscheinlichkeiten**. Dieser Begriff ist
+Ein zentraler begrifflicher Schritt besteht darin, den systemtheoretischen Grundbegriff der **Interdependenz der Wirkgefügswahrscheinlichkeiten** in den Mittelpunkt zu stellen. Dieser Begriff ist
 
 - systemtheoretisch exakt (Luhmann, jedoch in dieser Form nicht operationalisiert),
 - nicht dualistisch,
@@ -46,7 +46,7 @@ Das ist ein entscheidender, fast schon durchbruchartiger Moment: Der präzise sy
 - nicht normativ,
 - strukturell, relationell, formal und anschlussfähig.
 
-Es geht nicht um Anti, Contra oder Kritik, sondern um die Beschreibung eines Interdependenzgefüges, in dem positive und negative Wirkungswahrscheinlichkeiten sich gegenseitig ermöglichen, begrenzen, stabilisieren, irritieren und hervorbringen. Damit entsteht eine wissenschaftliche Grundlage, die originär ist, obwohl sie auf luhmannschen Denkkategorien basiert.
+Es geht nicht um Anti, Contra oder Kritik, sondern um die Beschreibung eines Interdependenzgefüges, in dem positive und negative Wirkungswahrscheinlichkeiten sich gegenseitig ermöglichen, begrenzen, stabilisieren, irritieren und hervorbringen. Damit entsteht eine wissenschaftliche Grundlage, die an luhmannschen Denkkategorien anschließt und für den Kontext digitaler Bildungsräume weiterentwickelt wird.
 
 **Grundarchitektur der Wirkdimensionen (Startpunkt für die Interdependenz)**  
 Die Interdependenz-Thesen bauen auf wiederkehrenden Wirkdimensionen, die in den Kapiteln 2–5 empirisch und theoretisch belegt sind: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Sichtbarkeit. Diese Dimensionen sind die Basiselemente, aus denen positive und negative Wirkungswahrscheinlichkeiten abgeleitet und verschränkt werden.
@@ -60,8 +60,8 @@ Interdependenz heißt systemtheoretisch: A kann ohne B nicht verstanden werden, 
 3. **Was daraus für das Modell entsteht**  
 Das Wirkgefüge des digitalen Bildungsraums ist die Interdependenz positiver und negativer Wirkgefügswahrscheinlichkeiten. Beides sind keine moralischen Zustände, keine Werturteile, keine politischen Positionen, keine pädagogischen Ideale, sondern unterschiedliche Formen wirkender Wahrscheinlichkeit, die sich strukturell bedingen, damit das System überhaupt als Wirkgefüge beobachtbar wird.
 
-4. **Was daran originär ist**  
-Luhmann beschreibt Interdependenz, aber nicht auf Wirkgefüge bezogen, nicht im Kontext digitaler Lernarchitekturen, nicht als duale Wirkungswahrscheinlichkeiten, nicht als epistemische Grundstruktur digitaler Räume und nicht in einem systemisch-epistemischen Modell von Moodle-Architekturen. Der Schritt hier ist, ein luhmannianisches Strukturprinzip in ein operatives epistemisches Modell zu überführen, das digitale Bildungsräume theoretisch neu rahmt und für deren Analyse originär ist.
+4. **Wie sich der Ansatz verortet**  
+Luhmann beschreibt Interdependenz, aber nicht auf Wirkgefüge bezogen, nicht im Kontext digitaler Lernarchitekturen, nicht als duale Wirkungswahrscheinlichkeiten, nicht als epistemische Grundstruktur digitaler Räume und nicht in einem systemisch-epistemischen Modell von Moodle-Architekturen. Der Schritt hier besteht darin, ein luhmannianisches Strukturprinzip in ein operatives epistemisches Modell zu überführen, das für die Analyse digitaler Bildungsräume im vorliegenden Kontext anschlussfähig und spezifisch ausbuchstabiert wird.
 
 5. **Wie weitergedacht werden kann**  
 Vorschlag für die nächsten Schritte:
