@@ -251,6 +251,8 @@ Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025
 
 Die Indexverteilung (n = 4 102, Stand: 13.12.2025) fokussiert klar auf „Technologieintegration“ (945) und „Lehr- und Lerneffektivität“ (918). „Forschungsansätze“ (491) und „Systemanpassung“ (487) bilden den methodischen Unterbau. Bewertungsmethoden (291) und Bildungstheorien (277) liefern die theoretische Rahmung, während kollaboratives Lernen (274), Krisenreaktion (157), Lernsystemarchitektur (155) sowie Datenschutz/IT-Sicherheit (107) nachgelagert sind. Die Verteilung zeigt einen starken Wirkungs- und Implementierungsfokus; Governance- und Sicherheitsaspekte bleiben randständig und sollten in der Diskussion gezielt gewichtet werden.
 
+#todo Kurzabschnitt zur Entstehung, theoretischen Fundierung und möglichen Blindstellen des Schlagwort- und Indexsystems (z.B. Technologieintegration, Bildungstheorien, Lehr-/Lerneffektivität) ergänzen und explizit im Theorieteil sowie in 4.3 verankern.
+
 ![Tag-Struktur der verarbeiteten Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_tags_02-01_suchergebnisse.png){#fig:tags-suchergebnisse width=90%}
 
 Die Tag-Verteilung konzentriert sich auf wenige Kernbegriffe (LMS, digital learning, blended learning) mit langen, dünnen Rändern. Das bestätigt die enge Such- und Tagging-Strategie: zentrale Tags erschließen den Großteil des Korpus, Spezialtags decken nur kleine Segmente ab.
