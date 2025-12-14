@@ -90,6 +90,8 @@ Im Anschluss werden die kodierten Daten exportiert und in einer statistischen un
 
 Der gesamte Prozess – von Beginn (Google-Alert beziehungsweise zufällige Quelle) über Screening, doppeltes Tagging und KI-Unterstützung bis hin zu Netzwerk- und Pfadanalysen – ist damit als zirkulärer, transparent dokumentierter Recherche- und Analysepfad angelegt. Er stellt sicher, dass die in dieser Arbeit entwickelten Aussagen zu digitalen Bildungsräumen nicht auf Einzelstudien, sondern auf einem systematisch erschlossenen und strukturell ausgewerteten Literaturfeld beruhen.
 
+Die folgende Abbildung fasst diesen Workflow schematisch zusammen und dient als Referenzrahmen für die in Abschnitt 4.3 beschriebenen Auswertungen; für das Verständnis der weiteren Darstellung sind vor allem die Übergänge zwischen Suche, Tagging und Export relevant.
+
 \begin{figure}[ht]
   \centering
   \input{08 Metaquellen/08-01 Abbildungen/prozesse/lit_workflow.tex}
@@ -289,9 +291,13 @@ Die Sprachverteilung (n = 3 533, Stand: 13.12.2025) ist zweipolig: Deutsch dom
 
 Die Verteilung nach Dokumententyp pro Sprache (n = 3 533) unterstreicht die Quellenbasis: Deutsch (de-DE) vereint die meisten artikel- und buchbasierten Einträge (insgesamt 1 571) plus kleinere Anteile grauer Literatur; Englisch (en-GB) folgt mit 845 artikelbasierten und 299 buchbasierten Quellen sowie wenig grauer Literatur. Andere Sprachen treten nur in sehr kleinen, artikelbasierten Kontingenten auf. Damit liegen die Hauptbefunde auf begutachteten Artikeln in Deutsch und Englisch, während Buchanteile vor allem den deutschsprachigen Teil theoretisch vertiefen.
 
+Im nächsten Schritt wird der kodierte Korpus nicht mehr auf Einzelquellenebene, sondern als Gesamtsystem betrachtet. Die folgende Abbildung bündelt die wichtigsten Datenströme und dient als Orientierungsfolie für die Interpretation der später berichteten Cluster- und Korrelationsanalysen; für die laufende Argumentation sind vor allem die Hauptpfade und ihre Abzweigungen relevant.
+
 ![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png){#fig:path-diagram width=90%}
 
-Das Pfaddiagramm zeigt die Hauptströme von FU3/FU4a in Kerngedanke/Argumentation und weiter zu Technologieintegration sowie Lehr-/Lerneffektivität, dominiert von Artikeln. Randströme (z.B. Datenschutz, Krisenreaktion) bleiben schmal und markieren Ergänzungsfelder.
+Das Pfaddiagramm zeigt die Hauptströme von FU3/FU4a in Kerngedanke/Argumentation und weiter zu Technologieintegration sowie Lehr-/Lerneffektivität, dominiert von Artikeln. Randströme (z.B. Datenschutz, Krisenreaktion) bleiben schmal und markieren Ergänzungsfelder; für die folgende Auswertung ist insbesondere die Verdichtung entlang Technologieintegration und Lehr-/Lerneffektivität relevant.
+
+Die anschließende Netzwerkdarstellung fokussiert auf die Suchbegriffe und ihre Verknüpfung mit Tags und Kategorien. Sie macht weniger die zeitliche Abfolge als die semantischen Nachbarschaften sichtbar.
 
 ![Netzwerkdarstellung der Beziehungen zwischen Suchbegriffen, Tags und Kategorien.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png){#fig:network-suchergebnisse width=90%}
 
