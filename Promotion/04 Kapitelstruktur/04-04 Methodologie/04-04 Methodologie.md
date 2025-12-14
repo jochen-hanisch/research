@@ -210,8 +210,6 @@ Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt
 
 Inhaltlich gehören in diesen Abschnitt alle Visualisierungen, die die Relevanz, Struktur und thematische Zuordnung des Korpus abbilden (z. B. Kategorien-, FU‑ und Suchbegriffzuordnungen) sowie Sprach‑ und Kategoriedistributionen. Nicht enthalten sind reine Fortschrittsübersichten der Suchordner; diese gehören als Arbeitsdokumentation in den Anhang.
 
-#todo Fortschrittsübersichten in den Anhang setzen
-
 Aufbau der Visualisierungen:
 
 - Überblick: Gesamtplot mit Kernkennzahlen (Relevanz, Sprachen, Typen).
