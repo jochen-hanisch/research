@@ -53,7 +53,7 @@ Text
 
 ## 1.2 Forschungsfragen und methodische Vorüberlegungen {#sec:Forschungsfragen-Methodik}
 
-Text
+Die Forschungsunterfragen FU1–FU7 werden in dieser Arbeit nicht nur als inhaltliche Leitplanken verstanden, sondern als operative Struktur eines mehrstufigen Analyseprozesses. Methodisch folgt die Untersuchung einer dreistufigen Ordnungslogik, die systemtheoretisch als Beobachtung erster, zweiter und dritter Ordnung anschlussfähig ist [@luhmann_zwischen_1982; @arnold_rolf_luhmann_2015]. Erstens werden Quellen als Analysen erster Ordnung (Primäranalysen) quellennah, promptbasiert und FU-getaggt ausgewertet; zweitens werden diese Primäranalysen FU-spezifisch zu Analysen zweiter Ordnung (Sekundäranalysen) verdichtet; drittens wird die daraus entstehende Struktur im semantischen Raum probabilistisch geprüft und validiert (Analysen dritter Ordnung, P-QIA). Die Datengrundlage der Primäranalysen wird als maschinenlesbare Zotero-Exportdatei geführt (FU-Tags in `keywords`, Analysen im Feld `annote`), so dass FU-spezifische Korpora reproduzierbar extrahiert und als FU-spezifische Arbeitsdateien für die Metaanalysen genutzt werden können (\hyperref[sec:Primaranalysen]{Abschnitt 4.3.2}). Die konkrete Ausbuchstabierung dieses Vorgehens erfolgt in Kapitel \hyperref[sec:Methodologie]{4}, insbesondere in Abschnitt \hyperref[sec:Datenanalyse]{4.3}, in den Analyseprompts (\hyperref[sec:A-2]{Anhang A.2} und \hyperref[sec:A-3]{Anhang A.3}) sowie in der Dokumentation der Analysen zweiter Ordnung (\hyperref[sec:A-4]{Anhang A.4}) und folgt den Transparenz- und Dokumentationsanforderungen systematischer Forschung [@doring_forschungsmethoden_2023; @vom_brocke_standing_2015].
 
 ### 1.2.1 Zugrundliegende Vermutungen {#sec:Vermutungen}
 
