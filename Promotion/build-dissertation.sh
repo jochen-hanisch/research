@@ -52,6 +52,7 @@ fi
 FILES+=(
   "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md"
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md"
+  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md"
   "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md"
 )
 

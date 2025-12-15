@@ -61,10 +61,10 @@ Die P‑QIA wird als „Werkbank“ verstanden: Ein Analyse‑Agent (bzw. eine s
 Kernprinzipien:
 
 - **Rollenverständnis:** Kurator/Analyst, nicht „allwissender“ Theoretiker. Keine neuen Inhalte erfinden, sondern vorhandenes Material verdichten.
-- **Regelgebundenheit:** Pro FU wird strikt dieselbe Prozesslogik abgearbeitet (Segmentierung → Vektorisierung → Clustering → Qualität → Codierschema → Synthese).
+- **Regelgebundenheit:** Pro FU wird strikt dieselbe Prozesslogik abgearbeitet (Segmentierung -> Vektorisierung -> Clustering -> Qualität -> Codierschema -> Synthese).
 - **Transparenz:** Parameter (z.B. $k$, Segmentierungsregeln, Seed/Run), Abweichungen und Abbruchgründe werden protokolliert.
 - **Entscheidungslog:** Jede nachgelagerte Entscheidung (z.B. Umbenennung, Zusammenlegung/Splitting von Clustern zu Kategorien, Verschiebung von Grenzfällen) wird als Changelog je FU festgehalten.
-- **Reproduzierbarkeit:** Identischer Input + identische Parameter ⇒ identische Outputs (sofern die genutzten Modelle/Tools deterministisch konfiguriert sind).
+- **Reproduzierbarkeit:** Identischer Input + identische Parameter => identische Outputs (sofern die genutzten Modelle/Tools deterministisch konfiguriert sind).
 
 #### Datenbasis und Auswahlregel (Analysen 1. Ordnung)
 
@@ -146,7 +146,7 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 
 **Vollständigkeit**
 
-- Jede Kategorie aus dem Kategorienüberblick erscheint auch im Codierschema (Definition, Kodierregel, ≥2 Ankerbeispiele).
+- Jede Kategorie aus dem Kategorienüberblick erscheint auch im Codierschema (Definition, Kodierregel, mindestens 2 Ankerbeispiele).
 - Jede Kategorie aus dem Kategorienüberblick hat im narrativen Teil mindestens einen eigenständigen Syntheseabsatz (nicht nur eine Liste von Quellen).
 - Für jede FU sind Theorie und Reflexion als eigene Unterabschnitte vorhanden.
 
@@ -208,7 +208,7 @@ Grenzen/Bias (Segmentierung, Modell-/Parameterabhängigkeit, Korpuszuschnitt, FU
 
 **Qualitätsgate (Haken dran)**
 - [ ] Kategorienüberblick == Codierschema == Narrative Unterabschnitte
-- [ ] Pro Kategorie ≥2 Anker aus unterschiedlichen BibTeX-Keys
+- [ ] Pro Kategorie >=2 Anker aus unterschiedlichen BibTeX-Keys
 - [ ] Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen
 ```
 
