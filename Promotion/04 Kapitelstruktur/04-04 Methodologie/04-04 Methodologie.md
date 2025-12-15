@@ -522,7 +522,9 @@ Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Model
 |FU6|12|0.89|starke Clusterstruktur|
 |FU7|10|0.93|nahezu perfekte Trennung|
 
-@rousseeuw_silhouettes_1987 bewertet Werte > 0,70 als stark und > 0,90 als nahezu perfekt. Die dokumentierten Kennwerte zeigen somit, dass die vektorbasiert gefundenen Cluster sowohl interpretativ als auch statistisch stabil sind. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Pipelines.
+In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die **geometrische Trennschärfe** einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische **Faustregel** werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte für die Analysen 2. Ordnung eine durchgängig hohe Separierbarkeit der FU‑spezifischen Cluster.
+
+Wichtig ist die methodische Einordnung der Aussagekraft: Der Silhouette‑Wert validiert **nicht** die inhaltliche „Richtigkeit“ der Kategorien, sondern ausschließlich die Separierbarkeit der Segmente im verwendeten Repräsentationsraum. Sehr hohe Werte können zudem durch homogene Textbausteine oder stark formatierte/standardisierte Notizen begünstigt werden. Deshalb wird die Silhouette‑Prüfung hier als **Qualitätssicherungs‑ und Plausibilitätsindikator** eingesetzt und konsequent mit inhaltlicher Validierung (Codierschema, Ankerbeispiele, theoretische Einbettung) trianguliert. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Pipelines.
 
 **Qualitätssicherung und Beispiele**
 
