@@ -47,8 +47,8 @@ header-includes:
   - \usetikzlibrary{shapes.geometric}
   - \usetikzlibrary{fit}
   - \usepackage[singlelinecheck=false]{caption}
-  - \captionsetup[figure]{font=small, labelfont=bf, skip=10pt, justification=raggedright, format=plain}
-  - \captionsetup[table]{font=small, labelfont=bf, skip=10pt, justification=raggedright, format=plain}
+  - \captionsetup[figure]{font=small, labelfont=bf, skip=10pt, justification=justified, format=plain}
+  - \captionsetup[table]{font=small, labelfont=bf, skip=10pt, justification=justified, format=plain}
   - \usepackage{draftwatermark}
   - \SetWatermarkText{Arbeitsversion}
 ---
