@@ -459,9 +459,13 @@ Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf d
 \input{08 Metaquellen/08-01 Abbildungen/statistik/primaranalysen-verteilung.tex}
 ```
 
+Für die Analysen zweiter Ordnung wird je Forschungsunterfrage ein FU-spezifischer Korpus aus dem Literaturverzeichnis gebildet: Alle Einträge, die den FU-Tag (`Promotion:FUx`) tragen und eine Analyse 1. Ordnung im Feld `annote` enthalten, werden extrahiert und in einer FU-spezifischen Arbeitsdatei zusammengeführt, wobei der jeweilige BibTeX-Key als Referenzanker mitgeführt wird. Diese Arbeitsdateien dienen der Reproduzierbarkeit und Nachvollziehbarkeit der FU-Korpora, sind jedoch nicht Bestandteil des Anhangs. Die FU-Korpora bilden die direkte Eingabe der P‑QIA-Metaanalyse (vgl. \hyperref[sec:P-QIA]{Abschnitt 4.3.4} sowie \hyperref[sec:A-3]{Anhang A.3}) und sichern, dass Ankerbeispiele und Zuordnungen reproduzierbar auf konkrete Quellen zurückverweisen.
+
 ### 4.3.3 Sekundäranalysen: Analyse 2. Ordnung {#sec:Sekundaranalysen}
 
 Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage. Die entsprechenden Prompts (z.B. `FU1 Prompt Sekundäranalyse.md`) führen mehrere Einzelanalysen zusammen, spiegeln sie an theoretischen Bezugsrahmen und erzeugen daraus erste Metastrukturen:
+
+- **Operatives Vorgehen (FU‑weise):** Für jede FU wird zunächst ein FU‑Korpus aus den Analysen 1. Ordnung gebildet (vgl. \hyperref[sec:Primaranalysen]{Abschnitt 4.3.2}). Auf diesem Korpus wird die P‑QIA als Metaanalyse umgesetzt: (1) Segmentierung in Sinnabschnitte, (2) semantische Vektorisierung (Embeddings), (3) k‑means‑Clustering mit FU‑spezifischem $k$, (4) Qualitätsprüfung über Silhouette‑Kennwerte, (5) Kategorienbildung und Codierschema (Definitionen, Ankerbeispiele, Kodierregeln), (6) narrative Synthese sowie theoretische Einbettung und Reflexion. Der exemplarische Prompt ist in \hyperref[sec:A-3]{Anhang A.3} dokumentiert; die FU‑spezifischen Ergebnisse werden im einheitlichen Schema in \hyperref[sec:A-4]{Anhang A.4} ausgewiesen und in Kapitel \hyperref[sec:Ergebnisse]{5} verdichtet.
 
 - **Vergleich und Ranking:** Wiederkehrende Aussagen werden identifiziert, divergierende Befunde kontrastiert und entlang der FU priorisiert.
 - **Theoriebasierte Spiegelung:** Konzepte wie TAM, SDT oder TPACK dienen als Referenz, um die Primäranalysen in bestehende Modelle einzubetten.
