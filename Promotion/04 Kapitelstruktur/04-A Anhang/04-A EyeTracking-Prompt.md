@@ -107,3 +107,76 @@ todo Stimulusreihe-Hinweis anpassen/streichen, wenn die Abbildungen komplett im 
  Abschlussbemerkung
 
 Diese Datei bildet den verbindlichen Auswertungsrahmen für alle Eye-Tracking-Analysen im Rahmen der Dissertation.
+
+### Reproduzierbares Vorgehen (Referenz: P‑QIA‑Qualitäts-/Quantitätslogik)
+
+Analog zur P‑QIA (Anhang A.3) wird die Eye‑Tracking‑Auswertung als **Werkbank** verstanden: Der Prompt standardisiert *Beschreibung* und *Protokollierung* (Qualität), und er erzwingt eine vollständige Bearbeitung des definierten Fallkorpus (Quantität). Interpretative Entscheidungen verbleiben bei der forschenden Person.
+
+#### Datenbasis (Quantität, „Korpus“)
+
+- Einheit der Analyse (Fall): `Stimulus-ID × Jahrgang × Gesamt-Visuals (Heatmap/Viewmap/Fog-View)`.
+- Korpus: 11 Stimuli × 3 Jahrgänge = **n = 33 Fälle**.
+- Bildumfang: 33 Fälle × 3 Visualisierungstypen = **n = 99 Bilder** (+ ggf. Stimulus-Screenshot).
+- Referenzpfad: `08 Metaquellen/08-01 Abbildungen/eye-traking/…`; Vollständigkeit der Bildreihen ist in \hyperref[sec:A-7]{Anhang A‑7} dokumentiert.
+
+#### Protokoll (Run-Parameter, wie bei P‑QIA)
+
+Für jede Bearbeitungsserie (z.B. „ET1 v1“) wird ein kurzer Run‑Block geführt:
+
+- Datum/Version:
+- Bearbeitungsreihenfolge (z.B. pro Stimulus Jg. 21→22→23):
+- AOI-Granularität (wenige funktionale Zonen; optional AOI‑Skizze):
+- Qualitätsfilter (Artefakte/Trackloss/Off-center; central fixation bias):
+- Abweichungen/Changelog (z.B. geänderte AOI‑Definitionen, umbenannte Mechanismen):
+
+#### Mindeststandard pro Fall (Qualität)
+
+Damit die 33 Falltexte später zuverlässig verdichtet werden können, gelten folgende Mindestanforderungen (knapp, aber konsistent):
+
+- **Heatmap**: mind. 3 stärkste Zonen (Hotspots) benennen und funktional zuordnen (Navigation/Inhalt/Interaktion/Störfläche).
+- **Viewmap**: Blickstart/Ankerzone nennen + mindestens einen Orientierungswechsel (z.B. Navigation → Inhalt → Interaktion) beschreiben.
+- **Fog‑View**: mind. eine systematisch unbeachtete Zone nennen und als *kritisch* vs. *unkritisch* bewerten.
+- **Mechanismen (FU4b)**: 3–6 präzise, technisch‑gestalterische Mechanismen (kein „Ergebnis“, sondern Mechanismusformulierung).
+- **Kurzdiagnose**: 2–4 Sätze (Essenz + ggf. Hypothese für Kapitel 5).
+- **Artefakte**: Off-center/Trackloss/uneindeutige Muster explizit benennen (nicht überinterpretieren).
+- **Konfidenz**: hoch/mittel/niedrig (kurzer Grund, v.a. bei „niedrig“).
+
+#### Vollständigkeits- und Qualitätsgate (Pflicht vor „fertig“)
+
+Bevor die A1O als „fertig“ gilt:
+
+**Vollständigkeit**
+- Für jeden Stimulus liegen drei Fälle vor (Jg. 21/22/23) und jeder Fall enthält alle fünf Ausgabefelder (Heatmap, Viewmap, Fog‑View, Mechanismen, Kurzdiagnose).
+- Der Falltext verweist eindeutig auf Stimulus-ID und Jahrgang.
+
+**Vergleichbarkeit**
+- AOI-Begriffe sind über alle Fälle konsistent (z.B. „linke Navigation“, „Kopfzeile/Breadcrumbs“, „zentrale Inhaltsfläche“, „rechte Steuerung/Sidebar“, „Bild/Illustration“).
+- Mechanismen werden in wiederkehrenden Formulierungen codiert (z.B. „Orientierung zuerst“, „Salienz vs. Funktion“, „rechte Steuerung spät“), sodass eine spätere Verdichtung möglich ist.
+
+**Plausibilität**
+- Die Fog‑View‑Aussagen widersprechen nicht offensichtlich der Heatmap (z.B. „ignoriert“ vs. „Hotspot“).
+- Bei unklaren Fällen wird die Konfidenz als niedrig markiert (und der Grund genannt).
+
+#### Template: ET1‑Fall (zum Kopieren; analog zur P‑QIA‑Struktur)
+
+```markdown
+### ET1 – Stimulus <ID> – Jg. <21|22|23> (Gesamt)
+
+**Kurztext**
+- Datenbasis: Heatmap/Viewmap/Fog‑View (RealEye, aggregiert)
+- Artefakte/Qualität: …
+- Konfidenz: hoch/mittel/niedrig (Begründung)
+
+**Auswertung (A1O)**
+- Heatmap: …
+- Viewmap/Gaze-Plot: …
+- Fog-View: …
+- Mechanismen (FU4b): …
+- Kurzdiagnose FU4b: …
+
+**Qualitätsgate (Haken dran)**
+- [ ] alle fünf Felder gefüllt
+- [ ] Hotspots funktional zugeordnet
+- [ ] mindestens 1 ignorierte Zone + kritisch/unkritisch
+- [ ] Artefakte benannt (falls vorhanden)
+```
