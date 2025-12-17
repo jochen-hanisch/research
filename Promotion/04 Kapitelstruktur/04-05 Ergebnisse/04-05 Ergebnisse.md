@@ -4,6 +4,8 @@
 
 Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es schlägt die Brücke von der Methodologie \hyperref[sec:Methodologie]{Kapitel 4} zur Interpretation in \hyperref[sec:Diskussion]{Kapitel 6} und strukturiert die Ergebnisdarstellung entlang der in in diesem Kapüitel dokumentierten Kernbereiche. Die Ergebnisse werden dabei durchgängig auf die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten theoretischen Annahmen und die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} beschriebene Architektur des Forschungsgegenstandes zurückbezogen.
 
+#todo: Einleitung sprachlich glätten (Doppelung „in in“, Tippfehler „Kapüitel“, ggf. Satzbau kürzen).
+
 ## 5.1 Überblick und Einordnung {#sec:Ergebnisse-Ueberblick}
 
 Die Ergebnisse zeigen, dass Learning-Management-Systeme im digitalen Bildungsraum nicht als neutrale Container wirken, sondern als soziotechnische Arrangements, deren Wirkungen aus dem Zusammenspiel von (a) didaktischen Merkmalen und technologischer Architektur, (b) bildungswissenschaftlichen Mechanismen (Rückkopplung, Interaktion, Kultur/Normativität) und (c) Akzeptanz- und Implementationsbedingungen entstehen. Diese Struktur wird in den P‑QIA-Metaanalysen pro Forschungsunterfrage (FU) sichtbar (Anhang \hyperref[sec:A-9]{A‑9}) und wird durch die beiden empirischen Zugänge (Eye-Tracking und Umfrage) in den Nutzungsvollzug gespiegelt (Anhänge \hyperref[sec:A-7]{A‑7} und \hyperref[sec:A-12]{A‑12}).
@@ -13,6 +15,9 @@ Im Kernarchitektur‑Bereich (FU$_3$/FU$_{4a}$/FU$_5$) verdichten sich Merkmale,
 ## 5.2 Verteilung der Analysen nach Kernbereichen {#sec:Ergebnisse-Verteilung}
 
 Die detaillierte Verteilung der 797 ausgewerteten Analysen auf die einzelnen Forschungsunterfragen (FU$_1$–FU$_7$) ist in Kapitel 3, Quellenanalyse, dokumentiert. Für die Ergebnisdarstellung werden die Forschungsunterfragen zu vier Kernbereichen gebündelt:
+
+#todo: Verweis auf Kapitel 3 präzisieren (konkreter Abschnitt/Abbildung zur FU‑Verteilung der 797 Analysen).
+#todo: Prozentwerte (58/30/8/4) und n=797 final gegen Quellenanalyse prüfen.
 
 - **Kernarchitektur (FU$_3$, FU$_{4a}$, FU$_5$)** – mit rund 58 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des Learning Management System (LMS)).  
 - **Nutzungserleben & Gestaltung (FU$_1$, FU$_{2a}$, FU$_{4b}$)** – knapp 30 % der Analysen zu Akzeptanz, subjektivem Lernerleben und technisch-gestalterischen Mechanismen.  
@@ -24,6 +29,9 @@ Diese Bündelung dient als Strukturierungsrahmen für die Präsentation der Erge
 ## 5.3 Beantwortung der Forschungsfragen {#sec:Ergebnisse-Forschungsfragen}
 
 Die Darstellung folgt der in Abschnitt 5.2 beschriebenen Gewichtung der Kernbereiche. Zunächst werden die Forschungsfragen zur Kernarchitektur behandelt, anschließend Nutzungserleben & Gestaltung, danach die Kompetenzorientierung und zum Schluss Rollen & Strategien.
+
+#todo: Leseführung 5.3 ergänzen: kurzer Satz, wie A‑9 (P‑QIA) mit A‑7 (Eye‑Tracking) und A‑12 (UM1) je FU zusammenspielt.
+#todo: Je FU‑Abschnitt 1–2 Ankerbeispiele aus A‑9 einbauen (kurz, ohne externe Pfade; nur interne Dissertation‑Verweise).
 
 ### 5.3.1 FU$_3$: Didaktische und technologische Merkmale {#sec:Ergebnisse-FU3}
 
@@ -98,6 +106,8 @@ Schließlich treten formalisierte Modellstrategien und Stabilisierungskonzepte a
 ## 5.4 Zusammenfassung der Ergebnisse {#sec:Ergebnisse-Zusammenfassung}
 
 Diese Ergebnisbündelung fungiert als direkte Brücke in die interdependente Diskussion (\hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1}) und liefert die empirische Grundlage für die manifestartige Verdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
+
+#todo: 5.4 um 2–4 Sätze ergänzen: „Was sind die drei stärksten Ergebnislinien?“ + „Welche offene Prüfung wird in Kapitel 6 vorgenommen?“
 
 ### 5.4.1 Arbeitshypothesen aus der Triangulation {#sec:Ergebnisse-Arbeitshypothesen}
 
