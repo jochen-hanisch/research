@@ -28,41 +28,43 @@ FILES=(
   "04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md"
   literaturverzeichnis.md
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md"
-  # Reihenfolge der Anhänge: nach Erstnennung im Text (APA-Orientierung).
+  # Reihenfolge der Anhänge: Nach Erstnennung innerhalb der Dissertation
   "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md"
   "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md"
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md"
 )
 
-# Eye-Tracking-Datei abhängig vom Modus einbinden (Anhang A-7; Erstnennung vor A-4/A-10)
+# P-QIA-Ergebnisse (Anhang A-9)
+FILES+=("04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md")
+
+# Weitere Anhänge (A-5 / A-6)
+FILES+=(
+  "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md"
+  "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md"
+)
+
+# Fortschrittsübersichten (Anhang A-11)
+FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md")
+
+# Prompt zur Eye-Tracking-Auswertung (Anhang A-8)
+FILES+=("04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md")
+
+# Eye-Tracking-Datei abhängig vom Modus einbinden (Anhang A-7)
 if [[ "$MODE" == "full" ]]; then
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md")
 else
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking_stub.md")
 fi
 
-# Prompt zur Eye-Tracking-Auswertung (Anhang A-8; thematisch nach A-7)
-FILES+=(
-  "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md"
-)
-
-# Korrelationsatlas abhängig vom Modus einbinden (Anhang A-4; Erstnennung nach A-7)
+# Korrelationsatlas abhängig vom Modus einbinden (Anhang A-4)
 if [[ "$MODE" == "full" ]]; then
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas.md")
 else
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas_stub.md")
 fi
 
-# Prompt/Vorlage Umfrageauswertung (Anhang A-10; Erstnennung nach A-4)
+# Umfrage-Prompt/Vorlage (Anhang A-10)
 FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Prompt.md")
-
-# Weitere, nicht im Text erstverlinkte Anhänge (A-5/A-6/…)
-FILES+=(
-  "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md"
-)
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
 spinner() {
