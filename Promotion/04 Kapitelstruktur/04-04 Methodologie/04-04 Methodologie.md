@@ -427,7 +427,7 @@ Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmode
 
 - **Analysen erster Ordnung (Primäranalysen):** Einzelquellen werden entlang vordefinierter Kategorien (Akzeptanz, Nutzen, Grenzen usw.) ausgewertet. Das Ergebnis ist eine strukturierte, FU-spezifische Inhaltsanalyse pro Dokument.
 - **Analysen zweiter Ordnung (Sekundäranalysen):** Die Primäranalysen einer FU werden gespiegelt, verdichtet und theoriebezogen gerankt. Daraus entstehen deduktive Cluster, SWOT-Profile und Korrelationsmatrizen.
-- **Analysen dritter Ordnung (P-QIA):** Die probabilistisch-qualitative Inhaltsanalyse überführt die Ergebnisse der zweiten Ebene in einen Vektorraum, prüft sie über k-means-Clustering und bewertet die Kohärenz mittels Silhouette-Scores.
+- **Analysen dritter Ordnung (P-QIA):** Die probabilistisch-qualitative Inhaltsanalyse überführt den FU-spezifischen Korpus aus Analysen 1. Ordnung in einen semantischen Vektorraum, prüft ihn über k-means-Clustering und bewertet die Kohärenz mittels Silhouette-Scores.
 
 Gemeinsam bilden diese Ordnungen einen iterativen Zyklus. Jede Stufe liefert die Grundlage für die nächste und fließt nach erfolgter Validierung wieder in die Forschungsunterfragen zurück.
 
@@ -455,18 +455,18 @@ Für die Analysen zweiter Ordnung wird je Forschungsunterfrage ein FU-spezifisch
 
 Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage. Die entsprechenden Prompts (z.B. `FU1 Prompt Sekundäranalyse.md`) führen mehrere Einzelanalysen zusammen, spiegeln sie an theoretischen Bezugsrahmen und erzeugen daraus erste Metastrukturen:
 
-- **Operatives Vorgehen (FU‑weise):** Für jede FU wird zunächst ein FU‑Korpus aus den Analysen 1. Ordnung gebildet (vgl. \hyperref[sec:Primaranalysen]{Abschnitt 4.3.2}). Auf diesem Korpus wird die P‑QIA als Metaanalyse umgesetzt: (1) Segmentierung in Sinnabschnitte, (2) semantische Vektorisierung (Embeddings), (3) k‑means‑Clustering mit FU‑spezifischem $k$, (4) Qualitätsprüfung über Silhouette‑Kennwerte, (5) Kategorienbildung und Codierschema (Definitionen, Ankerbeispiele, Kodierregeln), (6) narrative Synthese sowie theoretische Einbettung und Reflexion. Der exemplarische Prompt und das reproduzierbare Vorgehen sind in \hyperref[sec:A-3]{Anhang A.3} dokumentiert; die FU‑spezifischen Ergebnisse werden im einheitlichen Schema in \hyperref[sec:A-9]{Anhang A.9} ausgewiesen und in Kapitel \hyperref[sec:Ergebnisse]{5} verdichtet.
-
 - **Vergleich und Ranking:** Wiederkehrende Aussagen werden identifiziert, divergierende Befunde kontrastiert und entlang der FU priorisiert.
 - **Theoriebasierte Spiegelung:** Konzepte wie TAM, SDT oder TPACK dienen als Referenz, um die Primäranalysen in bestehende Modelle einzubetten.
 - **Manuelle Clusterlogik:** Vor der probabilistischen Verdichtung entstehen deduktive Cluster (z.B. „Akzeptanzmuster" oder „Risiko-Faktoren"), SWOT-Profile oder Korrelationsmatrizen.
 
-Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert.
+Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert: Sie stellt die deduktiven Referenzen bereit, mit denen die P‑QIA‑Cluster (Benennung, Abgrenzung, Theoriebezug) interpretiert und mit weiteren Befundlinien (z.B. SWOT/Korrelationen) zusammengeführt werden. Operativ ist die zweite Ordnung jedoch **kein zwingender technischer Input** der P‑QIA, sondern ein nachgelagerter Bezugsrahmen zur inhaltlichen Einordnung der probabilistisch erzeugten Kategorien.
 
 ### 4.3.4 Probabilistisch-Qualitative Inhaltsanalyse (P-QIA): Analyse 3. Ordnung {#sec:P-QIA}
 \label{term:p-qia}
 
 Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
+
+Operativ arbeitet die P‑QIA auf dem FU‑spezifischen Korpus aus Analysen 1. Ordnung (Zotero-`annote`, gebündelt in Arbeitsdateien je FU) und erzeugt daraus probabilistisch validierte Kategorien. Die Einbettung in die Gesamtargumentation erfolgt anschließend über die Sekundäranalysen (2. Ordnung) als deduktiven Bezugsrahmen sowie über die Triangulation mit empirischen Befunden.
 
 **Konzept und Abgrenzung**
 
