@@ -391,8 +391,6 @@ Auswertungsvorgehen (FU‑geführt)
 
 ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:Umfrage-LMS}
 
-#todo Umfrage weiter ausführen und anpassen
-
 Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen. Sie stützt primär FU1 (Akzeptanz und Nützlichkeit) sowie FU2a/FU2b.
 
 Die Erhebung ist vollständig anonymisiert, freiwillig und unabhängig vom Eye-Tracking-Studienteil; Abbruch jederzeit ohne Angabe von Gründen. Laufzeit ca. 15 Minuten, Rekrutierung über das LMS-Umfeld. Instruktion und Einwilligung sind vorab bereitgestellt und verschriftlicht.
@@ -407,9 +405,19 @@ Die Erhebung ist vollständig anonymisiert, freiwillig und unabhängig vom Eye-T
 - **Auswertung:** Deskriptive Kennzahlen pro Dimension, gewichtetes Gesamtmaß gemäß Synopse, Vergleich nach Subgruppen (z.B. Nutzungshäufigkeit, Rolle); fehlende Werte per Listewise/Pairwise je Analyse; Rückbindung an FU1/FU2 und Abgleich mit Eye-Tracking-Befunden.
 - **Gütekriterien/Reflexion:** Reliabilität über interne Konsistenz geprüft; Validität über Experten-Review und Pretest; mögliche Bias (Selbstselektion, soziale Erwünschtheit) werden in der Diskussion transparent gemacht.
 
+**Auswertungsvorgehen (Schema, FU‑geführt)**  
+Analog zum Eye‑Tracking werden die Umfragedaten in einem einheitlichen, dokumentierten Schema ausgewertet und für die Triangulation vorbereitet:
+
+1. **Datenbasis und Subgruppen:** Auswertung auf Basis der Online‑Exporttabelle (`08 Metaquellen/08-04 Daten/UmfrageOnline-Beantwortungen.csv`). Die Jahrgangszuordnung erfolgt über die Kurskennzeichnung (z.B. `21‑…`, `22‑…`, `23‑…`). Abbrüche/fehlende Werte werden itemweise transparent ausgewiesen (n je Jahrgang und je Item).
+2. **Item‑Level statt Blackbox‑Index:** Primäre Auswertung pro Item (statt ausschließlich aggregierter Skalen), um FU‑Bezüge und konkrete Gestaltungsdimensionen nachvollziehbar zu halten.
+3. **Deskriptive Kennzahlen pro Item:** Für Likert‑Items (1–5) werden je Jahrgang und Gesamtstichprobe `n`, Mittelwert, Standardabweichung, Median, IQR sowie Zustimmungs-/Ablehnungsanteile (>=4 / <=2) berichtet. Für binäre Items (Ja/Nein) wird der Ja‑Anteil ausgewiesen.
+4. **Gewichtungslogik (Transparenz):** Die in der Synopse dokumentierten Vor-/Nach‑Gewichtungen dienen als nachvollziehbarer Übersetzungsschritt von Selbstauskünften in die weitere Modellierungs-/Verdichtungslogik (Zuordnung „Frage → Begriffspaar → Einfluss“).
+5. **Freitext als qualitative Ergänzung:** Offene Antworten werden getrennt ausgewiesen und als Ausgangspunkt für eine knappe Kategorienbildung genutzt (Triangulation/Validierung, keine Überinterpretation bei geringer Fallzahl).
+6. **Dokumentation/Artefaktspur:** Alle Item‑Auswertungen werden als reproduzierbare Arbeitsartefakte im identischen Berichtschema abgelegt (Index + Itemdateien; `03 Quellenanalyse/03-06 Umfrage/Analysen-Auswertungen/…`). Die verbindliche Vorlage ist in \hyperref[sec:A-10]{Anhang A‑10} dokumentiert; die Ergebnisse werden in Abschnitt \hyperref[sec:EyeTracking-Umfrage-Vergleich]{4.3.9} mit Eye‑Tracking‑Befunden kontrastiert.
+
 Die Konstruktion des Instruments folgt dem Prinzip der Forschungsfragengeleitetheit. Jede Itemgruppe ist einem FU zugeordnet, was eine direkte Rückbindung der Ergebnisse ermöglicht. Die Gewichtungen sind vorab festgelegt, um Skalierungsentscheidungen nachvollziehbar zu machen und Sensitivitätsanalysen (mit/ohne Gewichtung) zu ermöglichen. Pretests und Experten-Review stellen sicher, dass die Items verständlich und inhaltlich valide sind.
 
-Analytisch werden die Umfrageergebnisse mit den Eye-Tracking-Befunden verschränkt: Divergenzen zwischen berichteter Nützlichkeit und beobachteter Nutzung werden als Hinweis auf Interface- oder Erwartungsinkonsistenzen interpretiert, Kongruenzen stützen die Modellannahmen zur Wirksamkeit. Subgruppenanalysen (z.B. Lehrende vs. Lernende, hohe vs. niedrige Nutzung) liefern Kontext für differenzierte Handlungsempfehlungen.
+Analytisch werden die Umfrageergebnisse mit den Eye-Tracking-Befunden verschränkt: Divergenzen zwischen berichteter Nützlichkeit und beobachteter Nutzung werden als Hinweis auf Interface- oder Erwartungsinkonsistenzen interpretiert, Kongruenzen stützen die Modellannahmen zur Wirksamkeit. Subgruppenanalysen (v.a. Jahrgänge sowie Teilnahme am Eye‑Tracking: Ja/Nein) liefern Kontext für differenzierte Handlungsempfehlungen.
 
 ## 4.3 Datenanalyse {#sec:Datenanalyse}
 
@@ -711,8 +719,8 @@ Interpretation: Die Suchbegriffe folgen den indexbasierten Schwerpunkten und dif
 Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Umfrage, um Wahrnehmung und tatsächliche Aufmerksamkeit auf UI-Elemente zusammenzuführen.
 
 - **Stichprobe/Repräsentativität (Eye-Tracking):** Kurs 21-NFS-09: $80\,\%$ ($95\,\%$-KI: $56{,}15$–$103{,}85\,\%$), Kurs 22-NFS-09: $72{,}73\,\%$ ($49{,}73$–$95{,}73\,\%$), Kurs 23-NFS-09: $33{,}33\,\%$ ($17{,}77$–$48{,}89\,\%$), Gesamt: $53{,}33\,\%$ ($44{,}51$–$62{,}15\,\%$). Identische Teilnehmendenzahl je Jahrgang ermöglicht vergleichbare AOI-Analysen; breite KIs in kleinen Kursen werden in der Interpretation berücksichtigt.
-- **Eye-Tracking-Befunde (Beispiele):** Heatmaps/Scanpaths pro Stimulus zeigen Blickzentrierung auf Navigationselemente und Aufgabenbeschreibungen; AOI-Hits und Dwell Times dienen als primäre Kennzahlen. Auffällige Sequenzen werden mit den angenommenen UI-Wirkmechanismen (FU4b) gespiegelt.
-- **Umfrage-Befunde (Struktur):** Gewichtet ausgewertete Dimensionen zu Akzeptanz/Nutzen/Hemmnissen; deskriptive Kennzahlen pro Subgruppe (Lehrende/Lernende; Nutzungshäufigkeit) und Gesamtmaß.
+- **Eye-Tracking-Befunde (Beispiele):** Heatmaps/Viewmaps/Fog‑Views pro Stimulus zeigen Aufmerksamkeitszentren, Blickpfadtypiken und unbeachtete Zonen. Auffällige Muster werden als technisch‑gestalterische Mechanismen (FU4b) beschrieben und für den Abgleich mit Selbstauskünften operationalisiert.
+- **Umfrage-Befunde (Struktur):** Itemweise deskriptive Kennzahlen (Likert/binar) je Jahrgang und Gesamtstichprobe; Freitext separat. Die Zuordnung „Frage → Begriffspaar → Einfluss“ (Synopse) dient als Brücke zur weiteren Verdichtung/Modellierung.
 - **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Erwartungsbrüche und fließen in die Diskussion ein.
 - **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
 
