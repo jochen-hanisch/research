@@ -229,6 +229,8 @@ Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relev
 
 Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (vgl. Abb.~\ref{fig:categories-suchergebnisse}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
 
+Weitere Detailvisualisierungen zur Korpusdiagnostik (Indizes, Tags, FU‑Zuordnungen/Relevanz, Status/Autor:innen sowie Sprachen) sind gesammelt im \hyperref[sec:A-13]{Anhang A‑13} dokumentiert (Abb.~\ref{fig:index-suchergebnisse} bis Abb.~\ref{fig:language-entrytypes}).
+
 ### 4.2.4 Webcam-basiertes Eye-Tracking und KI-gestützte Codierung {#sec:EyeTracking}
 
 Das Eye-Tracking wurde webbasiert mit RealEye\label{term:realeye} durchgeführt [@lewandowska_realeye_2020]. Die Wahl fiel aus Kostengründen auf ein Webcam-System, dessen Präzision (ca. 110 px) für AOI-Ebene\label{term:aoi} und Layoutanalyse hinreichend ist, jedoch keine millisekundengenaue Fixationsmetriken zulässt; aktuelle Vergleichsstudien stützen den AOI-Einsatz von Webcam-Tracking [@kaduk_webcam_2023; @wisiecka_comparison_2022]. Die Datenbasis umfasst aggregierte Visualisierungen (Heatmaps\label{term:heatmap}, Fog-Views\label{term:fog-view}, Scanpaths); Videorohdaten stehen nicht zur Verfügung. Damit wird das Verfahren ausdrücklich als explorativ-qualitative Methode deklariert, die Wahrnehmungs- und Orientierungsprozesse sichtbar macht, ohne inferenzstatistische Ansprüche zu erheben. Dieser Zugriff ist für FU$_{4b}$ angemessen, da großflächige Interface-Zonen (Navigation, Inhalt, Interaktion, Störflächen) im Fokus stehen.
@@ -247,51 +249,9 @@ Die Stichprobenverteilung (vgl. Abb.~\ref{fig:eyetracking-verteilung}) zeigt, da
 
 Die kumulative Bildanzahl (Abb.~\ref{fig:eyetracking-bildanzahl}) illustriert den Umfang der generierten Visualisierungen: Pro Jahrgang entstehen aus den elf Stimuli und drei Visualisierungstypen (Heatmap, Viewmap, Fog-View) bereits mehrere Hundert potenzielle Bilder; hochgerechnet auf alle Jahrgänge ergibt sich ein vierstelliger Bildkorpus. Vor diesem Hintergrund wird die Entscheidung für eine selektive, qualitativ-interpretative Auswertung nachvollziehbar: Statt alle Visualisierungen metrisch auszuwerten, werden zentrale Stimuli und Jahrgänge exemplarisch vertieft analysiert und mit den Umfragebefunden trianguliert. Die Kosten-Nutzen-Abwägung fällt damit zugunsten eines theoriegeleiteten, fokussierten Vorgehens aus, das die bildbasierte Stärke des Materials nutzt, ohne in eine unbegründete Quantifizierung zu kippen.
 
-Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ (457) und „Argumentation“ (454). Weiterführungen (160) und Schlussfolgerungen (38) sind deutlich seltener. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet das, dass Schlussfolgerungen gezielt ergänzt werden müssen, um die breite Argumentationsbasis konsistent zu bündeln.
-
-![Verteilung zentraler Indizes im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_index_02-01_suchergebnisse.png){#fig:index-suchergebnisse width=90%}
-
-Die Indexverteilung (n = 4 102, Stand: 13.12.2025) fokussiert klar auf „Technologieintegration“ (945) und „Lehr- und Lerneffektivität“ (918). „Forschungsansätze“ (491) und „Systemanpassung“ (487) bilden den methodischen Unterbau. Bewertungsmethoden (291) und Bildungstheorien (277) liefern die theoretische Rahmung, während kollaboratives Lernen (274), Krisenreaktion (157), Lernsystemarchitektur (155) sowie Datenschutz/IT-Sicherheit (107) nachgelagert sind. Die Verteilung zeigt einen starken Wirkungs- und Implementierungsfokus; Governance- und Sicherheitsaspekte bleiben randständig und sollten in der Diskussion gezielt gewichtet werden.
-
-#todo Kurzabschnitt zur Entstehung, theoretischen Fundierung und möglichen Blindstellen des Schlagwort- und Indexsystems (z.B. Technologieintegration, Bildungstheorien, Lehr-/Lerneffektivität) ergänzen und explizit im Theorieteil sowie in 4.3 verankern.
-
-![Tag-Struktur der verarbeiteten Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_tags_02-01_suchergebnisse.png){#fig:tags-suchergebnisse width=90%}
-
-Die Tag-Verteilung konzentriert sich auf wenige Kernbegriffe (LMS, digital learning, blended learning) mit langen, dünnen Rändern. Das bestätigt die enge Such- und Tagging-Strategie: zentrale Tags erschließen den Großteil des Korpus, Spezialtags decken nur kleine Segmente ab.
-
-![Zuordnung der Quellen zu den Forschungsunterfragen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_research_questions_02-01_suchergebnisse.png){#fig:research-questions-suchergebnisse width=90%}
-
-Schwerpunkte liegen bei FU$_{4a}$ (bildungswissenschaftliche Mechanismen), FU$_3$ (Konzeption/Merkmale) und FU$_5$ (Möglichkeiten/Grenzen). FU$_1$, FU$_{2b}$ und FU$_7$ sind deutlich dünner besetzt. Damit stützen die dichtesten Segmente die Kernmechanismen, während Akzeptanz- und Lehrenden-Perspektiven gezielt ergänzt werden sollten.
-
-![Relevanzverteilung je Forschungsunterfrage.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_fu_02-01_suchergebnisse.png){#fig:relevance-fu width=90%}
-
-Die gestapelten Balken zeigen, dass hohe Relevanzstufen (4/5) den Großteil der Nennungen für FU$_{4a}$, FU$_3$ und FU$_5$ ausmachen; niedrige Stufen (2/3) sind randständig. Das unterstreicht die solide Basis der Kernfragen und markiert zugleich Ergänzungsbedarf bei schmal besetzten FUs.
-
-![Relevanzverteilung je Kategorie.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_categories_02-01_suchergebnisse.png){#fig:relevance-categories width=90%}
-
-Kerngedanke und Argumentation tragen die meisten hochrelevanten Nennungen; Weiterführung und Schlussfolgerung sind dünner und enthalten teils niedrigere Stufen. Schlussfolgerungen sollten daher gezielt verdichtet werden, um die starke Argumentationsbasis sauber abzuschließen.
-
-![Relevanzverteilung je Suchbegriff.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_relevance_search_terms_02-01_suchergebnisse.png){#fig:relevance-search width=90%}
-
-„Digital learning“ und „learning management system“ liefern die meisten hochrelevanten Treffer; „blended learning“ und „digital media“ folgen. Periphere Begriffe (online learning/lernen) steuern nur wenige Quellen bei. Die Kernbegriffe erschließen damit den relevanten Korpus, Randbegriffe dienen als Ergänzung.
-
-![Statusübersicht der Quellen (z. B. akzeptiert, ausgeschlossen, in Prüfung).](08 Metaquellen/08-01 Abbildungen/methodik/visualize_sources_status_02-01_suchergebnisse.png){#fig:sources-status width=90%}
-
-Die Statusübersicht zeigt, dass der Großteil der Quellen nach Screening, Qualitäts- und Relevanzprüfung übernommen wurde; nur ein kleiner Anteil ist ausgeschlossen oder in Prüfung. Die Arbeitsbasis ist damit weitgehend gesichert.
-
-![Top-Autor*innen nach Häufigkeit im Korpus.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_top_authors_02-01_suchergebnisse.png){#fig:top-authors width=90%}
-
-Die Top-25-Autor*innen liegen dicht beieinander (ca. 7–13 Werke; Spitze Kerres, Ebner, Tudor, Iken-Allen). Kein Name dominiert, der Diskurs ist breit und multiperspektivisch.
-
-![Sprachenverteilung der Quellen.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_languages_02-01_suchergebnisse.png){#fig:languages width=90%}
-
-Die Sprachverteilung (n = 3 533, Stand: 13.12.2025) ist zweipolig: Deutsch dominiert mit de-DE (2 326) und de-A (5), gefolgt von Englisch (en-GB 1 191; en-US 6). Einzelne Beiträge stammen aus indonesischen (id-id 3), malaysischen (ms-my 1) und spanischen (es 1) Quellen. Damit prägen deutsch- und englischsprachige Texte den Diskurs; Beiträge anderer Sprachen sind marginal und vor allem als Kontext- oder Fallstudienimpulse zu interpretieren.
-
-![Sprachenverteilung nach Dokumententyp.](08 Metaquellen/08-01 Abbildungen/methodik/visualize_language_entrytypes_02-01_suchergebnisse.png){#fig:language-entrytypes width=90%}
-
-Die Verteilung nach Dokumententyp pro Sprache (n = 3 533) unterstreicht die Quellenbasis: Deutsch (de-DE) vereint die meisten artikel- und buchbasierten Einträge (insgesamt 1 571) plus kleinere Anteile grauer Literatur; Englisch (en-GB) folgt mit 845 artikelbasierten und 299 buchbasierten Quellen sowie wenig grauer Literatur. Andere Sprachen treten nur in sehr kleinen, artikelbasierten Kontingenten auf. Damit liegen die Hauptbefunde auf begutachteten Artikeln in Deutsch und Englisch, während Buchanteile vor allem den deutschsprachigen Teil theoretisch vertiefen.
-
 Im nächsten Schritt wird der kodierte Korpus nicht mehr auf Einzelquellenebene, sondern als Gesamtsystem betrachtet. Die folgende Abbildung bündelt die wichtigsten Datenströme und dient als Orientierungsfolie für die Interpretation der später berichteten Cluster- und Korrelationsanalysen; für die laufende Argumentation sind vor allem die Hauptpfade und ihre Abzweigungen relevant.
+
+Die folgenden beiden Abbildungen (Pfaddiagramm und Suchbegriffsnetz) fungieren dabei als zentrale Orientierungsfolie: Sie machen sichtbar, wie sich Suchbegriffe, Kategorien und FU im Korpus zueinander verhalten und welche Schwerpunkte die nachfolgenden Auswertungen tragen. Damit werden die anschließenden Cluster‑ und Korrelationsanalysen nicht nur rechnerisch, sondern auch visuell nachvollziehbar.
 
 ![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png){#fig:path-diagram width=90%}
 
