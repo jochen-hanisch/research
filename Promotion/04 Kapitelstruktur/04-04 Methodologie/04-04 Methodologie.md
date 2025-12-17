@@ -315,33 +315,15 @@ Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Vi
 
 ##### Ergänzende methodische Absicherung {#sec:EyeTracking-Absicherung}
 
-#todo: Fleißtextüberführung ergänzen
+**Reliabilitätssicherung im Solo-Design**
 
-A) Begründung der bildbasierten Auswertung
+Auswertung erfolgt im vorliegenden Projekt als Einzelforschung. Reliabilität entsteht über Intra-Coder-Absicherung und konsequente Regelbindung über Stimulusserie. Grundlage bildet versioniertes Entscheidungs- und Zuordnungsraster für AOIs, Mechanismen und Kurzdiagnosen. Pilotphase dient Regelschärfung, danach Freeze mit Datum und Changelog. Driftkontrolle erfolgt über Referenzstimuli mit Wiederholungsauswertung in festen Abständen sowie zeitversetzte Wiederholungsauswertung von Stichprobenanteil. Abweichungen werden als Grenzfallmarker protokolliert und nur bei Regelrelevanz in Form präzisierter Zuordnungsregeln nachgeführt. Konfidenzmarkierung begrenzt Aussagekraft bei ambigen Mustern.
+[@kuckartz_qualitative_2018; @mayring_qualitative_2022; @doring_forschungsmethoden_2023]
 
-Die Auswertung ist bewusst bildbasiert, da die verwendete RealEye‑Lizenz ausschließlich aggregierte Visualisierungen (Heatmap, Viewmap, Fog‑View) bereitstellt. Qualitative Fixationsmuster gelten als valide Indikatoren für Aufmerksamkeit, Orientierung und Salienz: @yang_webcam-based_2021 belegen robuste Fixationsdaten, @kaduk_webcam_2023 dokumentieren hohe Genauigkeit, und @wisiecka_comparison_2022 bestätigen RealEye für AOI‑Zuweisungen. Heatmaps identifizieren Fixationszentren, Viewmaps zeigen sequentielle Blickpfade und Orientierungswechsel, Fog‑Views markieren systematisch ignorierte UI‑Zonen. Die Dreifachbetrachtung entspricht gängigen UI-/UX‑Empfehlungen auch für Remote‑Erhebungen (@imotions_imotions_2023).
+**Standardisierung und Qualitätsgates bei RealEye**
 
-B) Grenzen, Bias und Validierungsstrategie
-
-Webcam‑Tracking weist geringere Präzision, potenzielle Drift bei Kopfbewegungen und variierende Lichtempfindlichkeit auf. RealEye liefert keine Rohdaten, sondern serverseitig erzeugte Visualisierungen. Diese Bias werden systematisch abgefedert durch:
-
-- doppelte Kalibrierung mit RealEye‑Validierungsstatus (Grün = akzeptiert),
-- Ausschluss suboptimaler Sessions (Warn/Fail),
-- konsistente Stimulusauflösungen,
-- identische AOI‑Definitionen über alle Sessions,
-- FU‑geleitete Auswertung (keine explorative Clusterbildung).
-
-Fixationsmuster werden ausschließlich relativ interpretiert: als Verteilung innerhalb definierter AOIs. Inferenzen über absolute Sakkadenparameter oder Zeitreihen werden nicht vorgenommen. Die Vorgehensweise folgt etablierten Standards der visuellen Befundung, wie sie auch in radiologischen und pathologischen Kontexten genutzt werden, in denen Kontrast‑ und Mustererkennung aus aggregierten Bildern erfolgt.
-
-C) Triangulation und Rückbindung an FU4b
-
-Die Aussagekraft der Eye‑Tracking‑Auswertung wird durch konvergente Triangulation gestützt:
-
-1. Literaturbefunde zu UI‑, Navigations- und Salienzwirkungen (FU3/FU4a),
-2. Eye‑Tracking‑Visualisierungen (FU4b),
-3. Umfragebefunde zu Struktur/Nützlichkeit (FU1/FU2).
-
-Kongruenzen (z.B. kaum beachtete UI‑Zonen + geringe Nützlichkeitsbewertungen) stützen die Modellannahmen. Divergenzen werden systematisch analysiert. Damit ermöglicht die Eye‑Tracking‑Methodik eine theoriegestützte Rekonstruktion der technisch‑gestalterischen Wirkmechanismen des LMS.
+Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung und Kalibrierstabilität. Standardisierung wird über dokumentierte Rahmenbedingungen und Qualitätsgates realisiert. Pro Session werden Kalibrierstatus, Trackloss, Artefakte und Ausreißer verpflichtend erfasst. Visualisierungen unter Mindestqualität verbleiben außerhalb Auswertung oder erhalten niedriges Konfidenzniveau. Interpretation verbleibt auf Ebene relativer Muster über AOIs und Funktionszonen. Zeitparameter, Fixationsmetriken und kausale Zuschreibungen liegen außerhalb Geltungsbereich.
+[@lewandowska_realeye_2020; @wisiecka_comparison_2022; @kaduk_webcam_2023; @imotions_imotions_2023]
 
 **Setup und Durchführung**
 
