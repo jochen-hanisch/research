@@ -241,7 +241,7 @@ Die Forschungsfrage ist bewusst eng gefasst, weil ein bestehendes LMS im realen 
 Aus der FH werden sieben Forschungsunterfragen (FU1–FU7)\label{term:forschungsunterfrage} abgeleitet, die das Wirkgefüge in adressierbare Teilaspekte zerlegen und zugleich die Methodenwahl strukturieren (\hyperref[tab:methoden_FU]{Tabelle 4}):
 
 - FU1: Akzeptanz und Nützlichkeit des LMS aus Sicht der Nutzenden (Metaanalyse, Umfrage).
-- FU2a/FU2b: Wirkung auf Lernende bzw. Lehrende (Evaluation nach Kirkpatrick, Gruppeninterviews).
+- FU2a/FU2b: Wirkung auf Lernende bzw. Lehrende (an Evaluationslogiken nach Kirkpatrick/TEI anschließende Literaturanalyse; Spiegelung über Umfragedaten).
 - FU3: Didaktische und technologische Merkmale des Systems (theoretische Rekonstruktion der Architektur).
 - FU4a/FU4b: Bildungswissenschaftliche und technisch-gestalterische Wirkmechanismen (Inhaltsanalyse, Eye-Tracking, Simulation).
 - FU5: Möglichkeiten und Grenzen des angewandten Modells (Qualitative Inhaltsanalyse, SWOT).
