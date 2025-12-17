@@ -6,6 +6,18 @@
 
 Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum nicht als Zielzustand, sondern als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
+### 7.0.1 Was den digitalen Bildungsraum im Inneren zusammenhält {#sec:Conclusio-Welt-im-Inneren}
+
+Frei nach Goethes *Faust*: Entscheidend ist, „was die Welt im Inneren zusammenhält“ – hier: was den digitalen Bildungsraum als Wirkgefüge stabilisiert, bevor einzelne Funktionen oder Oberflächen überhaupt als „wirksam“ erscheinen.
+
+Im Material dieser Arbeit zeigt sich ein Dreiklang, der die Interdependenzen bündelt und als Leseanweisung für die folgenden Thesen dient (vgl. \hyperref[sec:Ergebnisse]{Kapitel 5} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}):
+
+- **Sinn- und Zielkopplung:** Ziele (Kompetenz/Prüfung/Profession) werden in Aufgaben, Orientierung und Erwartungsklarheit übersetzt; ohne diese Kopplung kippt der Raum in Navigation und Statusmodus (vgl. \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
+- **Handlungs- und Rückkopplungsschleifen:** Orientierung geht in Handlung über und Handlung erzeugt Rückmeldung; diese Schleife stabilisiert Lernpfade, kann aber ebenso übersteuern oder entkoppeln (vgl. \hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6} sowie \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
+- **Soziale und organisationale Rahmung:** Rollen, Kultur, Ressourcen und Regeln entscheiden, ob Interaktion und Feedbackpraxis tatsächlich stattfinden und damit die Kopplungen tragfähig werden (vgl. \hyperref[sec:Ergebnisse-FU2b]{Abschnitt 5.3.8} und \hyperref[sec:Ergebnisse-FU5]{Abschnitt 5.3.3}).
+
+#todo: Diese drei Kopplungsformen bilden das Grundgerüst für die folgenden Thesen und muss noch ausformuliert unf refernziert werden.
+
 **Grundarchitektur der Wirkdimensionen (als Basis für alle Thesen)**  
 Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in \hyperref[sec:Theorieteil]{Kapitel 2}, \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, \hyperref[sec:Methodologie]{Kapitel 4} und \hyperref[sec:Ergebnisse]{Kapitel 5} herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Beobachtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
 Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrscheinlichkeit kann isoliert betrachtet werden; das Wirkgefüge entfaltet sich erst aus ihrer Kopplung.
