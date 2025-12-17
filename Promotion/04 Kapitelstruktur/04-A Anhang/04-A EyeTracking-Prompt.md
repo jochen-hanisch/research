@@ -52,7 +52,7 @@ Führe dazu die folgenden Schritte aus:
 - Analysiere visuelle Konkurrenz (Elemente, die ungewollt Aufmerksamkeit ziehen).
 
  2. Beschreibung der Viewmap / Scanpath
-- Rekonstruiere die Reihenfolge der Fixationen (Blickpfadlogik).  
+- Rekonstruiere Blickpfadlogik über Blickstart, Ankerzonen und Orientierungswechsel.  
 - Identifiziere Orientierungswechsel zwischen UI-Bereichen.  
 - Bestimme, ob der Blickfluss linear, fragmentiert oder sprunghaft wirkt.  
 - Leite daraus gestalterische Implikationen ab (z. B. Navigierbarkeit, Blickführung, Kohärenz).
@@ -124,7 +124,7 @@ Analog zur P‑QIA (Anhang A.3) wird die Eye‑Tracking‑Auswertung als **Werkb
 Für jede Bearbeitungsserie (z.B. „ET1 v1“) wird ein kurzer Run‑Block geführt:
 
 - Datum/Version:
-- Bearbeitungsreihenfolge (z.B. pro Stimulus Jg. 21→22→23):
+- Bearbeitungsreihenfolge (z.B. pro Stimulus Jg. 21 $\rightarrow$ 22 $\rightarrow$ 23):
 - AOI-Granularität (wenige funktionale Zonen; optional AOI‑Skizze):
 - Qualitätsfilter (Artefakte/Trackloss/Off-center; central fixation bias):
 - Abweichungen/Changelog (z.B. geänderte AOI‑Definitionen, umbenannte Mechanismen):
@@ -134,7 +134,7 @@ Für jede Bearbeitungsserie (z.B. „ET1 v1“) wird ein kurzer Run‑Block gef�
 Damit die 33 Falltexte später zuverlässig verdichtet werden können, gelten folgende Mindestanforderungen (knapp, aber konsistent):
 
 - **Heatmap**: mind. 3 stärkste Zonen (Hotspots) benennen und funktional zuordnen (Navigation/Inhalt/Interaktion/Störfläche).
-- **Viewmap**: Blickstart/Ankerzone nennen + mindestens einen Orientierungswechsel (z.B. Navigation → Inhalt → Interaktion) beschreiben.
+- **Viewmap**: Blickstart/Ankerzone nennen + mindestens einen Orientierungswechsel (z.B. Navigation $\rightarrow$ Inhalt $\rightarrow$ Interaktion) beschreiben.
 - **Fog‑View**: mind. eine systematisch unbeachtete Zone nennen und als *kritisch* vs. *unkritisch* bewerten.
 - **Mechanismen (FU4b)**: 3–6 präzise, technisch‑gestalterische Mechanismen (kein „Ergebnis“, sondern Mechanismusformulierung).
 - **Kurzdiagnose**: 2–4 Sätze (Essenz + ggf. Hypothese für Kapitel 5).
