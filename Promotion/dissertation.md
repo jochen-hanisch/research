@@ -16,6 +16,8 @@ header-includes:
   - \setmainfont{STIX Two Text}
   - \setsansfont{STIX Two Text}
   - \setmathfont{STIX Two Math}
+  - \usepackage{microtype}
+  - \UseMicrotypeSet[protrusion]{basicmath}
   - \usepackage{setspace}
   - \onehalfspacing
   - \usepackage{fancyhdr}
