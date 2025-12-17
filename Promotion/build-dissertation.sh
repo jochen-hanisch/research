@@ -69,6 +69,9 @@ FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Prompt.md")
 # Umfrage-Ergebnisse (Anhang A-12)
 FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Ergebnisse.md")
 
+# Zusatzvisualisierungen zur Literaturbasis (Anhang A-13)
+FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md")
+
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
 spinner() {
   local pid=$1
