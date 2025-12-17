@@ -11,6 +11,7 @@ header-includes:
   - \usepackage{fontspec}
   - \usepackage{newunicodechar}
   - \newunicodechar{�}{?}
+  - \newunicodechar{→}{$\rightarrow$}
   - \usepackage{unicode-math}
   - \setmainfont{STIX Two Text}
   - \setsansfont{STIX Two Text}

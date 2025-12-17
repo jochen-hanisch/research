@@ -54,6 +54,7 @@ FILES+=(
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md"
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md"
   "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md"
+  "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Prompt.md"
 )
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
