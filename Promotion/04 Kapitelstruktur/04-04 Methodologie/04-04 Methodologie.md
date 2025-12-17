@@ -196,7 +196,7 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
-Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht.
+Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht. Die Struktur der Suchordner ist in \hyperref[sec:A-6]{Anhang A‑6} dokumentiert.
 
 ![Bool’sche Logik der Suchordner und Quotensteuerung.](08 Metaquellen/08-01 Abbildungen/methodik/Boolsche-Logik Suchordner.png){#fig:bool-logik width=85%}
 
@@ -208,7 +208,7 @@ Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanag
 
 Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt die Visualisierungen entlang eines konsistenten analytischen Aufbaus. Die Abbildungen bilden die visuelle Grundlage der in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschriebenen Datenanalyse und ordnen den Quellenkorpus systematisch entlang zentraler Dimensionen: Überblick, Korpusstruktur, FU‑Mapping und Relevanz, Qualitäts- und Statusinformationen, Autor:innenverteilung, Sprachmuster sowie Pfad‑/Sankey‑ und Netzwerksichten. Sie dienen damit der transparenten Rekonstruktion der Datenbasis und der Vorbereitung der späteren Cluster- und Korrelationsanalysen.
 
-Inhaltlich gehören in diesen Abschnitt alle Visualisierungen, die die Relevanz, Struktur und thematische Zuordnung des Korpus abbilden (z. B. Kategorien-, FU‑ und Suchbegriffzuordnungen) sowie Sprach‑ und Kategoriedistributionen. Nicht enthalten sind reine Fortschrittsübersichten der Suchordner; diese gehören als Arbeitsdokumentation in den Anhang.
+Inhaltlich gehören in diesen Abschnitt alle Visualisierungen, die die Relevanz, Struktur und thematische Zuordnung des Korpus abbilden (z. B. Kategorien-, FU‑ und Suchbegriffzuordnungen) sowie Sprach‑ und Kategoriedistributionen. Nicht enthalten sind reine Fortschrittsübersichten der Suchordner; diese gehören als Arbeitsdokumentation in den Anhang (vgl. \hyperref[sec:A-11]{Anhang A‑11}).
 
 Aufbau der Visualisierungen:
 
@@ -233,7 +233,7 @@ Das Eye-Tracking wurde webbasiert mit RealEye\label{term:realeye} durchgeführt 
 
 Die Auswertung folgt einer visuellen AOI-Analyse: (1) Definition weniger, funktionaler AOIs pro Stimulus; (2) Beschreibung der Blickverteilung pro AOI (Hot/Cold-Spots, Reihenfolge, Schleifen im Scanpath); (3) Ableitung technisch-gestalterischer Mechanismen wie Salienz, Auffindbarkeit von Navigation oder Konkurrenz zwischen Dekoration und Funktion. Expertisegradienten werden durch den Vergleich der Jahrgänge sichtbar (breite Explorationsmuster bei Novices, ökonomische Fixationen im dritten Jahrgang). Die Ergebnisse werden mit Umfragedaten trianguliert, um subjektive Wahrnehmung (Struktur/Interaktion) gegen beobachtete Blickmuster zu spiegeln.
 
-KI dient als Codierhilfe, nicht als Messinstrument: Heatmaps und Fog-Views wurden mit GPT sprachlich beschrieben (z. B. „drei stärkste Aufmerksamkeitszonen markieren“, „Blickpfad A vs. B vergleichen“). Die modellgestützte Beschreibung wird mit der menschlichen AOI-Analyse abgeglichen und in Kategorien („Navigation zuerst“, „Content zuerst“, „Ablenkungszone prominent“) überführt. Damit bleibt die interpretative Verantwortung beim Forschungsteam, während die KI für Konsistenz in der qualitativen Codierung sorgt. Die sequentielle Darstellung erfolgt in Viewmaps\label{term:viewmap}.
+KI dient als Codierhilfe, nicht als Messinstrument: Heatmaps und Fog-Views wurden mit GPT sprachlich beschrieben (z. B. „drei stärkste Aufmerksamkeitszonen markieren“, „Blickpfad A vs. B vergleichen“). Die modellgestützte Beschreibung wird mit der menschlichen AOI-Analyse abgeglichen und in Kategorien („Navigation zuerst“, „Content zuerst“, „Ablenkungszone prominent“) überführt. Damit bleibt die interpretative Verantwortung beim Forschungsteam, während die KI für Konsistenz in der qualitativen Codierung sorgt. Der verbindliche Auswertungs-Prompt ist in \hyperref[sec:A-8]{Anhang A‑8} dokumentiert. Die sequentielle Darstellung erfolgt in Viewmaps\label{term:viewmap}.
 
 Limitationen: geringere räumliche Präzision als Laborsysteme; Sensitivität für Kopfhaltung und Licht; keine Berechnung klassischer Fixationsmetriken; geringe Stichprobe. Die gewählte Granularität und die triangulative Einbindung (Eye-Tracking × Umfrage × Theorie) sichern dennoch eine robuste, kontextangemessene Evidenzbasis. Die vollständigen Bildreihen (Heatmap/Viewmap/Fog-View je Stimulus und Jahrgang) sind in \hyperref[sec:A-7]{Anhang A-7} dokumentiert.
 
