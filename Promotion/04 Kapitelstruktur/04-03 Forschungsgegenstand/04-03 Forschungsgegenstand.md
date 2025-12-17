@@ -264,7 +264,7 @@ Der Container weiterführende Quellen trägt somit zur Erweiterung des individue
 Lounge
 Als digitaler Kommunikationsraum stellt die Lounge einen informellen Austauschbereich dar, in dem Fragen, Hinweise, aber auch erfahrungsbasierte Reflexionen unter den Lernenden und Lehrenden geteilt werden können. Die Lounge ist als niedrigschwelliger Einstiegspunkt in kooperatives Lernen gedacht. Hier das prägnante Beispile, weshalb die Ahrl von Begriffen bedeutsam erscheint: Lounge erzeugt Assoziationen, die in dder Wahrnemungspsychologie ableitbare Wirkungen erzeugt (vgl. \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.2}).
 Feedback und Evaluation
-Dieser Bereich unterstützt bei der formativen Rückmeldung. Hier wird das Training Evaluation Inventory (TEI)\label{term:tei} kursbegleitend eingesetzt, um sowohl die didaktische Gestaltung als auch die wahrgenommenen Trainingseffekte strukturiert zu evaluieren. Der Feedbackbereich ermöglicht zudem offene Rückmeldungen zur jeweiligen Handlungssituation.
+Dieser Bereich unterstützt bei der formativen Rückmeldung. Das Training Evaluation Inventory (TEI)\label{term:tei} ist hierfür im LMS als kursbegleitendes Evaluationsinstrument vorgesehen und erlaubt eine strukturierte Rückmeldung sowohl zur didaktischen Gestaltung als auch zu wahrgenommenen Trainingseffekten. Der Feedbackbereich ermöglicht zudem offene Rückmeldungen zur jeweiligen Handlungssituation.
 Alle hier dargestellten Elemente sind zudem mit dem Kompetenzraster verbunden, welches 
 
 ### 3.3.3 Prüfungsarchitektur {#sec:Pruefungsarchitektur}
