@@ -9,6 +9,8 @@ csl: "08 Metaquellen/Matadaten/apa-no-initials.csl"
 table-placement: [htbp]
 header-includes:
   - \usepackage{fontspec}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{�}{?}
   - \usepackage{unicode-math}
   - \setmainfont{STIX Two Text}
   - \setsansfont{STIX Two Text}
