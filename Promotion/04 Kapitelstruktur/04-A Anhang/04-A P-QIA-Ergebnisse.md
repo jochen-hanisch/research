@@ -1,8 +1,8 @@
 \newpage
 
-## Analysen zweiter Ordnung (P‑QIA-Metaanalysen) {#sec:A-9}
+## Analysen dritter Ordnung (P‑QIA-Metaanalysen) {#sec:A-9}
 
-Dieser Anhang bündelt die Ergebnisse der Analysen zweiter Ordnung, die mittels probabilistisch-qualitativer Inhaltsanalyse (P‑QIA) aus den Primäranalysen (Analysen erster Ordnung) abgeleitet wurden. Die methodische Herleitung ist in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschrieben, der zugrunde liegende Prompt in \hyperref[sec:A-3]{Anhang A.3}.
+Dieser Anhang bündelt die Ergebnisse der Analysen dritter Ordnung, die mittels probabilistisch-qualitativer Inhaltsanalyse (P‑QIA) aus den Primäranalysen (Analysen erster Ordnung) abgeleitet wurden. Die methodische Herleitung ist in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschrieben, der zugrunde liegende Prompt in \hyperref[sec:A-3]{Anhang A.3}.
 
 Für jede Forschungsunterfrage (FU1–FU7) werden die P‑QIA-basierten Metaanalysen knapp dokumentiert. Detaillierte inhaltliche Auswertungen fließen in das Ergebniskapitel ein; dieser Anhang dient der transparenten Nachvollziehbarkeit der FU-spezifischen Kategorien, Cluster und Muster.
 
@@ -14,7 +14,7 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 4. **Synthese:** narrative Verdichtung der zentralen Muster und Spannungsfelder.
 5. **Theorie und Reflexion:** theoretische Einordnung sowie methodische Grenzen/Bias.
 
-### FU1 – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU1}
+### FU1 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU1}
 
 **Kurztext**
 
@@ -136,7 +136,7 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU2a – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU2a}
+### FU2a – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU2a}
 
 **Kurztext**
 
@@ -298,7 +298,7 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU2b – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU2b}
+### FU2b – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU2b}
 
 **Kurztext**
 
@@ -480,7 +480,7 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU3 – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU3}
+### FU3 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU3}
 
 **Kurztext**
 
@@ -671,7 +671,7 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU4a – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU4a}
+### FU4a – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU4a}
 
 **Kurztext**
 
@@ -832,7 +832,7 @@ Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über I
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU4b – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU4b}
+### FU4b – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU4b}
 
 **Kurztext**
 
@@ -945,7 +945,7 @@ FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisat
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU5 – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU5}
+### FU5 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU5}
 
 **Kurztext**
 
@@ -1070,7 +1070,7 @@ Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamifica
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU6 – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU6}
+### FU6 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU6}
 
 **Kurztext**
 
@@ -1183,7 +1183,7 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU7 – Analyse zweiter Ordnung (P‑QIA) {#sec:A-9-FU7}
+### FU7 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU7}
 
 **Kurztext**
 

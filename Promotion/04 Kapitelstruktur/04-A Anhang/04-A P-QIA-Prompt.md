@@ -52,7 +52,7 @@ Führe auf Basis der bereitgestellten Primäranalysen eine probabilistisch-quali
 
 ### Reproduzierbares Vorgehen (Agenten-Workflow)
 
-Die folgenden Schritte dokumentieren das reproduzierbare Vorgehen zur Umsetzung der P‑QIA als **Analyse 2. Ordnung** auf Basis der **Analysen 1. Ordnung** (Zotero-`annote`). Ziel ist, dass die Schritte für jede Forschungsunterfrage (FU1–FU7) identisch nachvollziehbar sind und jederzeit erneut ausgeführt werden können.
+Die folgenden Schritte dokumentieren das reproduzierbare Vorgehen zur Umsetzung der P‑QIA als **Analyse 3. Ordnung** auf Basis der **Analysen 1. Ordnung** (Zotero-`annote`). Ziel ist, dass die Schritte für jede Forschungsunterfrage (FU1–FU7) identisch nachvollziehbar sind und jederzeit erneut ausgeführt werden können.
 
 #### Agentenlogik (Werkbank-Prinzip)
 
@@ -164,7 +164,7 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 #### Template: FU‑Abschnitt (zum Kopieren)
 
 ```markdown
-### FUx – Analyse zweiter Ordnung (P‑QIA)
+### FUx – Analyse dritter Ordnung (P‑QIA)
 
 **Kurztext**
 - Datenbasis: n = …
