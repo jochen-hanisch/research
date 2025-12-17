@@ -4,7 +4,7 @@
 
 ## 7.0 Manifestartiger Abschluss: Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
-Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum nicht als Zielzustand, sondern als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
+Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
 ### 7.0.1 Was den digitalen Bildungsraum im Inneren zusammenhält {#sec:Conclusio-Welt-im-Inneren}
 
@@ -12,11 +12,11 @@ Frei nach Goethes *Faust*: Entscheidend ist, „was die Welt im Inneren zusammen
 
 Im Material dieser Arbeit zeigt sich ein Dreiklang, der die Interdependenzen bündelt und als Leseanweisung für die folgenden Thesen dient (vgl. \hyperref[sec:Ergebnisse]{Kapitel 5} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}):
 
-- **Sinn- und Zielkopplung:** Ziele (Kompetenz/Prüfung/Profession) werden in Aufgaben, Orientierung und Erwartungsklarheit übersetzt; ohne diese Kopplung kippt der Raum in Navigation und Statusmodus (vgl. \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
+- **Wirkungsrahmen der Setzungen:** Die in \hyperref[sec:Vermutungen]{Abschnitt 1.2.1} und \hyperref[sec:Zielsetzung]{Abschnitt 1.2.2} formulierten Setzungen werden im Material als wiederkehrende Wirkungsbeobachtungen greifbar und in \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1} verdichtet.
 - **Handlungs- und Rückkopplungsschleifen:** Orientierung geht in Handlung über und Handlung erzeugt Rückmeldung; diese Schleife stabilisiert Lernpfade, kann aber ebenso übersteuern oder entkoppeln (vgl. \hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6} sowie \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
 - **Soziale und organisationale Rahmung:** Rollen, Kultur, Ressourcen und Regeln entscheiden, ob Interaktion und Feedbackpraxis tatsächlich stattfinden und damit die Kopplungen tragfähig werden (vgl. \hyperref[sec:Ergebnisse-FU2b]{Abschnitt 5.3.8} und \hyperref[sec:Ergebnisse-FU5]{Abschnitt 5.3.3}).
 
-Diese drei Kopplungsformen schließen dabei direkt an die zugrundeliegenden Vermutungen der Arbeit an: Bereits in \hyperref[sec:Vermutungen]{Abschnitt 1.2.1} wird angenommen, dass beobachtbare Wirkung nicht isoliert „im Tool“ liegt, sondern aus der Gestaltung des LMS, seinen Nutzungsdynamiken und den dadurch erzeugten Rückkopplungen hervorgeht. Der Dreiklang macht diese Annahme in der Schlussverdichtung explizit und rahmt sie als Grundform des Wirkgefüges.
+Diese drei Kopplungsformen schließen direkt an die zugrundeliegenden Vermutungen und Setzungen der Arbeit an: In \hyperref[sec:Vermutungen]{Abschnitt 1.2.1} wird angenommen, dass beobachtbare Wirkung aus Gestaltung, Nutzungsdynamiken und Rückkopplungen hervorgeht; in \hyperref[sec:Zielsetzung]{Abschnitt 1.2.2} wird diese Lesart in eine operative Rahmung überführt. Der Dreiklang macht diese Rahmung in der Schlussverdichtung handhabbar und rahmt sie als Grundform des Wirkgefüges.
 
 **Grundarchitektur der Wirkdimensionen (als Basis für alle Thesen)**  
 Die Manifest-Thesen verschränken systematisch folgende Dimensionen, die in \hyperref[sec:Theorieteil]{Kapitel 2}, \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, \hyperref[sec:Methodologie]{Kapitel 4} und \hyperref[sec:Ergebnisse]{Kapitel 5} herausgearbeitet wurden: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Beobachtbarkeit. Jede These setzt bei einer dieser Dimensionen an und formuliert positive und negative Wirkungswahrscheinlichkeiten plus Kopplungssatz.
@@ -25,9 +25,9 @@ Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrs
 **Prämissen des Manifests**
 
 - Interdependenz: Der digitale Bildungsraum besteht aus gekoppelten positiven und negativen Wirkungswahrscheinlichkeiten; keine ist für sich allein tragfähig.
-- Nicht-Normativität: Die Zuschreibungen sind nicht moralisch, sondern strukturell; sie beschreiben operative Wahrscheinlichkeiten, keine Bewertungen.
+- Nicht-Normativität: Die Zuschreibungen sind strukturell; sie beschreiben operative Wahrscheinlichkeiten, keine Bewertungen.
 - Operativität: Wirkgefüge zeigen sich in Handlungen (Orientieren, Entscheiden, Steuern) und in deren Ermöglichungs- und Störungsbedingungen.
-- Gestaltung als Kopplungsarbeit: Didaktik und Technik gestalten nicht Zustände, sondern Koppelungen zwischen Wirkungsrichtungen.
+- Gestaltung als Kopplungsarbeit: Didaktik und Technik gestalten Koppelungen zwischen Wirkungsrichtungen.
 
 **Thesen des interdependenten Wirkgefüges (Grundgerüst)**
 
