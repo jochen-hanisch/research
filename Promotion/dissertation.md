@@ -109,25 +109,27 @@ header-includes:
 
 # Abkürzungsverzeichnis {#sec:abkuerzungsverzeichnis}
 
-| Abkürzung   | Bedeutung                                         |
-| ----------- | ------------------------------------------------- |
-| AOI         | Area of Interest                                  |
-| ET          | Eye-Tracking                                      |
-| E-Portfolio | Digitales Portfolio                               |
-| FU          | Forschungsunterfrage (FU1–FU7)                    |
-| KI          | Künstliche Intelligenz                            |
-| LMS         | Learning-Management-System                       |
-| LXP         | Learning Experience Platform                      |
-| mdaCV       | Mehrdimensional-analytische Clustervalidierung    |
-| MOOC        | Massive Open Online Course                        |
-| HRT         | High Responsibility Teams                         |
-| NotSan-APrV | Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen |
-| NotSanG     | Notfallsanitätergesetz                            |
-| NotSan / NFS | Notfallsanitäter:in                             |
+| Abkürzung       | Bedeutung                                                               |
+| --------------- | ----------------------------------------------------------------------- |
+| AOI             | Area of Interest                                                        |
+| ET              | Eye-Tracking                                                            |
+| E-Portfolio     | Digitales Portfolio                                                     |
+| FU              | Forschungsunterfrage (FU1–FU7)                                          |
+| KI              | Künstliche Intelligenz                                                  |
+| KH              | Kernhypothese                                                           |
+| LMS             | Learning-Management-System                                              |
+| LXP             | Learning Experience Platform                                            |
+| mdaCV           | Mehrdimensional-analytische Clustervalidierung                          |
+| MOOC            | Massive Open Online Course                                              |
+| HRT             | High Responsibility Teams                                               |
+| NH              | Nebenhypothese                                                          |
+| NotSan-APrV     | Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen          |
+| NotSanG         | Notfallsanitätergesetz                                                  |
+| NotSan / NFS    | Notfallsanitäter:in                                                     |
 | EpiGesAusbSichV | Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen |
-| TEI         | Training Evaluation Inventory                     |
-| P-QIA       | Probabilistisch-Qualitative Inhaltsanalyse        |
-| SC          | Silhouette-Score                                  |
+| TEI             | Training Evaluation Inventory                                           |
+| P-QIA           | Probabilistisch-Qualitative Inhaltsanalyse                              |
+| SC              | Silhouette-Score                                                        |
 
 Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis zentraler Begriffe} im Anhang.
 
