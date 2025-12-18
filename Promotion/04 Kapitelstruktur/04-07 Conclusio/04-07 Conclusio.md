@@ -43,7 +43,7 @@ Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrs
 
 3. Feedback/Rückkopplung  
    - (+) Feedback stabilisiert Lernpfade und erhöht Selbstwirksamkeit.  
-   - (–) Überdichte Rückkopplung führt zu Übersteuerung und Signalrauschen.  
+	   - (–) Überdichte Rückkopplung kann Übersteuerung und Signalrauschen erzeugen.  
    - Interdependenz: Stabilität entsteht aus Rückkopplung; zu viel Rückkopplung destabilisiert Aufmerksamkeit.
 
 4. Steuerung/Agency  
@@ -60,9 +60,9 @@ Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. 
 
 **Gestaltungsprinzipien für das Manifest**
 
-- Kopplungsdesign: Gestaltung adressiert immer die Kopplung, nicht nur den positiven Zielzustand. Jede Intervention benennt explizit den intendierten positiven Effekt und den antizipierten negativen Gegeneffekt.
+- Kopplungsdesign: Gestaltung adressiert die Kopplung und nicht allein den positiven Zielzustand. Jede Intervention benennt explizit den intendierten positiven Effekt und den antizipierten negativen Gegeneffekt.
 - Expertise-Adaptivität: Wirkungswahrscheinlichkeiten verschieben sich entlang von Expertise; Manifest-Formulierungen markieren, für wen (Novices/Intermediates/Experts) welche Kopplung relevant ist.
-- Sichtbarkeitsregeln: Transparenz wird graduell gesteuert (wann, für wen, in welcher Tiefe) und immer mit der Interdependenz zu Überwachung gedacht.
+- Sichtbarkeitsregeln: Transparenz wird graduell gesteuert (wann, für wen, in welcher Tiefe) und mit der Interdependenz zu Überwachung gedacht.
 - Reflexive Offenlegung: Jede Gestaltung soll die eigenen Interdependenzen offenlegen (z. B. Dashboard-Hinweise „Diese Empfehlung folgt aus … / erzeugt folgende Einschränkungen …“).
 
 **Form der Manifest-Setzung**
