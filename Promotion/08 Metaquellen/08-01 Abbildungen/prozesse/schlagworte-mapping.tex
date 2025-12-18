@@ -1,0 +1,28 @@
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[
+    node distance=8mm and 12mm,
+    font=\scriptsize,
+    >=Latex,
+    every node/.style={align=center},
+    block/.style={rectangle, draw, rounded corners, fill=blue!5, text width=6.2cm, inner sep=3pt},
+    map/.style={rectangle, draw, rounded corners, fill=orange!10, text width=4.6cm, inner sep=3pt},
+    outbox/.style={rectangle, draw, rounded corners, fill=green!8, text width=4.6cm, inner sep=3pt},
+    line/.style={->, thick}
+  ]
+
+  \node[block] (tags) {Schlagworte (Analyse 1.~Ordnung)\\
+  \textit{Lernsystemarchitektur; Bildungstheorien; Lehr- und Lerneffektivit\"at; Kollaboratives Lernen; Bewertungsmethoden; Technologieintegration; Datenschutz und IT-Sicherheit; Systemanpassung; Krisenreaktion im Bildungsbereich; Forschungsans\"atze}};
+  \node[map, right=of tags] (map) {Mapping zu\\Synthese-Kategorien\\(Folgen/Implikationen)};
+  \node[outbox, right=of map, yshift=8mm] (folgen) {Folgen\\Wirkungsdimensionen\\St\"orungen/Nebenfolgen};
+  \node[outbox, right=of map, yshift=-8mm] (impl) {Implikationen\\Organisation/Implementierung\\Technik/Daten\\Recht/Ethik\\Forschung/Evaluation};
+
+  \draw[line] (tags) -- (map);
+  \draw[line] (map) -- (folgen);
+  \draw[line] (map) -- (impl);
+  \end{tikzpicture}
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{Zuordnung der Schlagworte aus der Analyse erster Ordnung zu Synthese-Kategorien (Folgen und Implikationen).}
+  \caption*{\footnotesize Die Schlagworte fungieren als Korpus-Signaturen; ihre B\"undelung erfolgt ueber ein Mapping auf die in der Conclusio verwendeten Kategorien.}
+  \label{fig:schlagworte-mapping}
+\end{figure}
