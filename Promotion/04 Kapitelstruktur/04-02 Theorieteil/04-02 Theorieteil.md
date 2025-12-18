@@ -131,7 +131,9 @@ Vorstellung der Variablen, Kopplungen und Rückkopplungen des Modells. Hier wird
 
 Der Abschnitt beschreibt, wie Lernprozesse auf Störungen reagieren (z.B. Prüfungsdruck, technische Ausfälle) und wie das LMS Regenerationspfade bereitstellt. Wirkungskurven visualisieren, wann Interventionen stabilisierend oder destabilisierend wirken.
 
-### 2.5.3 Konsequenzen aus Systementkopplungen {#sec:Systementkopplungen}\label{term:systementkopplung}
+### 2.5.3 Konsequenzen aus Systementkopplungen {#sec:Systementkopplungen}
+
+\label{term:systementkopplung}
 
 Was passiert, wenn einzelne Subsysteme (z.B. Kompetenzmessung vs. Lernaktivität) entkoppelt werden? Hier wird analysiert, wie Fehlanpassungen entstehen und welche Risiken sich daraus ergeben.
 
