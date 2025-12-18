@@ -34,8 +34,11 @@ header-includes:
   - \addto\captionsngerman{\renewcommand{\contentsname}{Inhaltsverzeichnis}}
   - \addto\captionsngerman{\renewcommand{\listtablename}{Tabellenverzeichnis}}
   - \addto\captionsngerman{\renewcommand{\listfigurename}{Abbildungsverzeichnis}}
+  - \addto\captionsngerman{\renewcommand{\figurename}{Abbildung}}
+  - \addto\captionsngerman{\renewcommand{\tablename}{Tabelle}}
   - \usepackage{graphicx}
   - \usepackage{float}
+  - \floatplacement{figure}{H}
   - \usepackage{placeins}
   - \usepackage{longtable}
   - \usepackage{tocloft}
@@ -52,8 +55,13 @@ header-includes:
   - \usetikzlibrary{shapes.geometric}
   - \usetikzlibrary{fit}
   - \usepackage[singlelinecheck=false]{caption}
-  - \captionsetup[figure]{font=small, labelfont=bf, skip=10pt, justification=justified, format=plain}
+  - \captionsetup[figure]{font=small, labelfont=bf, skip=4pt, justification=justified, format=plain}
   - \captionsetup[table]{font=small, labelfont=bf, skip=10pt, justification=justified, format=plain}
+  - \providecommand*{\figureautorefname}{Abbildung}
+  - \providecommand*{\tableautorefname}{Tabelle}
+  - \providecommand*{\equationautorefname}{Gleichung}
+  - \newcommand{\figsubcaption}[1]{\captionsetup{type=figure}\vspace{-0.6\baselineskip}{\begingroup\small\setstretch{1.0}\caption*{#1}\endgroup}\vspace{1.1\baselineskip}}
+  - \newcommand{\tabsubcaption}[1]{\captionsetup{type=table}\vspace{-0.6\baselineskip}{\begingroup\small\setstretch{1.0}\caption*{#1}\endgroup}\vspace{1.1\baselineskip}}
   - \usepackage{draftwatermark}
   - \SetWatermarkText{Arbeitsversion}
 ---
