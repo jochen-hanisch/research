@@ -23,3 +23,7 @@ Table: Semantisch-hierarchische Struktur der angelegten Suchordner \label{tab:A-
 | _Tertiäre Suchbegriffe_  |                            |                                                      |
 | **S:10**                 | Online Lernen              | Lernen im Netz, Web-basiertes Lernen                 |
 | **S:11**                 | Online Learning            | Online-based education, remote learning              |
+
+```{=latex}
+\tabsubcaption{Dokumentation der semantisch-hierarchischen Suchordnerlogik in Zotero. Die Tabelle listet Ordner-IDs, Kernbegriffe und Varianten und gliedert in primäre, sekundäre und tertiäre Ebenen; sie dient der Reproduzierbarkeit der Suchstrategie und der späteren Tag-/Analysezuordnung.}
+```

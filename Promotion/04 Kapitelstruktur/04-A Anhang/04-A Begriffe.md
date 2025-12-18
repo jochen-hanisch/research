@@ -54,3 +54,7 @@ Table: Verzeichnis zentraler Begriffe \label{tab:A-1}
 | Viewmap                                  | Sequenzielle Darstellung der Blickpfade (Orientierungswechsel, Rekursionen) über den Stimulus. | \hyperref[term:viewmap]{\pageref{term:viewmap}} |
 | Wirkdimensionen                          | Wiederkehrende Gestaltungs- und Wirkungsebenen (z.B. Transparenz, Strukturierung, Rückkopplung), entlang derer positive und negative Wirkungen eines digitalen Bildungsraums beschrieben werden. | \hyperref[term:interdependenz]{\pageref{term:interdependenz}} |
 | Wirkgefüge                               | System von Wechselwirkungen zwischen technologischen, didaktischen und sozialen Komponenten des LMS, die gemeinsam Effekte auf Lern‑ und Kompetenzentwicklungsprozesse erzeugen. | \hyperref[term:wirkgefege]{\pageref{term:wirkgefege}} |
+
+```{=latex}
+\tabsubcaption{Alphabetisches Begriffstableau als Navigationshilfe. Die Spalte „Seite“ verweist auf die jeweilige Begriffserstnennung/Glossarstelle (über \texttt{\textbackslash pageref}); die Tabelle dient der konsistenten Terminologie und schnellen Orientierung im Text.}
+```
