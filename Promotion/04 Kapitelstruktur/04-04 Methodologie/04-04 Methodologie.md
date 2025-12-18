@@ -34,7 +34,7 @@ Die dargestellten Vorüberlegungen verdeutlichen, dass die Methodologie nicht du
 
 ### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:Systemisch-Forschungsfragengeleitet}
 
-Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU$_1$ bis FU$_7$ (Kapitel [@sec:FU-Herleitung]), abgeleitet aus Erkenntnisinteresse (Kapitel [@sec:Erkenntnisinteresse]) und LMS-Produkt (Kapitel [@sec:Forschungsgegenstand]). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
+Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU$_1$ bis FU$_7$ (\hyperref[sec:FU-Herleitung]{Abschnitt 1.4}), abgeleitet aus Erkenntnisinteresse (\hyperref[sec:Erkenntnisinteresse]{Abschnitt 1.1.1}) und LMS-Produkt (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
 
 Interdependenz meint die enge Verknüpfung der Forschungsfragen und die Wechselwirkungen zwischen qualitativen und quantitativen Daten, die die Mehrdimensionalität erfassen. Emergenz beschreibt die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, Seite 16, 103], wenn Ergebnisse aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking und Befragungen verbunden werden. Rückkopplung heißt, dass Analyseergebnisse iterativ in die Methodik zurückfließen und weitere Schritte steuern, sodass der Prozess dynamisch bleibt.
 
@@ -258,6 +258,8 @@ Aufbau der Visualisierungen:
 - Qualität/Status/Autoren: Status der Quellen und Verteilung der Top‑Autor:innen.
 - Sprachen: Gesamtverteilung und Differenzierung nach Dokumententypen.
 - Flüsse/Netze: Pfaddiagramm, Suchbegriff‑Sankey‑Darstellung und das semantische Netzwerk.
+
+Alle folgenden Visualisierungen sind als deskriptive Korpusdiagnostik zu lesen: Sie strukturieren Verteilungen und Relationen (Kopplungen, Häufigkeiten, Flusspfade), sind aber keine Kausalmodelle und enthalten keine normativen Bewertungen. Interpretationen werden daher konsequent als Rückbindung an die Forschungsunterfragen und an die deduktiven Kategorien geführt (vgl. Abschnitt \hyperref[sec:Datenanalyse]{4.3} und Anhang A).
 
 ![Gesamtüberblick der Suchergebnisse.](<08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png>){#fig:summary-suchergebnisse}
 
