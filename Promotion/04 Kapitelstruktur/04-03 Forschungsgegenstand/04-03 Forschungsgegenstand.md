@@ -202,7 +202,7 @@ Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedin
 
 Abbildung 4: Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz)
 
-#todo Abbildung 4 hier einfügen +++++
+#todo Abbildung 4 hier einfügen
 
 Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Organisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
 
