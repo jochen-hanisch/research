@@ -714,6 +714,10 @@ Die Simulation arbeitet quartalsweise über eine definierte Zeitachse und nutzt 
 
 Diese Kopplung wird als probabilistischer Schritt modelliert: Die Quartalsänderung entsteht als Zufallszug aus einer Normalverteilung, deren Erwartungswert aus der Summe der gekoppelten Komponenten gebildet wird; die Kompetenz wird anschließend in einem plausiblen Wertebereich begrenzt. Durch die Wiederholung vieler Durchläufe entsteht eine Verteilung von Kompetenzverläufen, aus der robuste Lage- und Streuungsmaße abgeleitet werden können (Median/Mittelwert/Standardabweichung pro Quartal).
 
+Die Logik wird in der Simulation als Familie von Verläufen sichtbar (vgl. \hyperref[fig:sim-montecarlo]{Abb.~\ref{fig:sim-montecarlo}}).
+
+![Kompetenzniveau als Monte‑Carlo‑Verteilungsfamilie (Beispiel: konstruktivistischer „Standardlernender“, 25 Durchläufe).](<08 Metaquellen/08-01 Abbildungen/didaktik/monte-carlo-simulation_konstruktivistisch-standardlernender.png>){#fig:sim-montecarlo width=90%}
+
 ### 4.4.3 Unsicherheitsrelationen und Wirkungsindikatoren {#sec:Simulation-Indikatoren}
 
 Für die Auswertung werden zwei Unsicherheitsmaße als Grundgrößen geführt:
@@ -740,6 +744,14 @@ C = \lvert r(\Delta E, \Delta K) \rvert \cdot \sigma(\Delta E) \cdot \sigma(\Del
 $$ {#eq:bildungswirk_c}
 
 Die Auswertung von $\nu(t)$ und $\iota(t)$ erfolgt über Glättung, Ableitungen sowie die Identifikation von Minima, Maxima und Wendepunkten. Damit wird sichtbar, an welchen Stellen die Dynamik in Regenerations‑ oder Störungslogiken kippt und wo in einem formalen Sinn Interventionspunkte markiert werden können. Diese Indikatorik wird in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} als heuristische Ergänzung genutzt und in Kapitel \hyperref[sec:Ergebnisse-FU6]{5.3.7} in die Systemperspektive auf Kompetenzentwicklung rückgebunden.
+
+Die Indikatorik lässt sich als Verlaufsspur illustrieren (vgl. \hyperref[fig:sim-bildungswirkdynamik]{Abb.~\ref{fig:sim-bildungswirkdynamik}}). Zur Einordnung der verwendeten Grundgrößen werden ergänzend die im Beispiel angesetzten Unsicherheitskomponenten und die Unsicherheitsrelation dokumentiert (vgl. \hyperref[fig:sim-unsicherheiten]{Abb.~\ref{fig:sim-unsicherheiten}} und \hyperref[fig:sim-unsicherheitsrelation]{Abb.~\ref{fig:sim-unsicherheitsrelation}}).
+
+![Bildungswirkfaktor $\nu(t)$ und Bildungswirkindikator $\iota(t)$ als modellinterne Indikatorik (Beispiel: konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/bildungswirkdynamik_konstruktivistisch-standardlernender.png>){#fig:sim-bildungswirkdynamik width=90%}
+
+![Nebenabbildung: Unsicherheitskomponenten im Beispiel (konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheiten_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheiten width=75%}
+
+![Nebenabbildung: Dynamische Unsicherheitsrelation im Beispiel (konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheitsrelation_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheitsrelation width=75%}
 
 ### 4.4.4 Passung zum Wirkgefüge-Konzept {#sec:Simulation-Passung}
 
