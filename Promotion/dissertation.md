@@ -155,6 +155,10 @@ Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis
 | Gleichung | Beschreibung |
 | --- | --- |
 | \eqref{eq:verlust} | Epistemische Verlustfunktion zur Bewertung der Integrität der mehrdimensional-analytischen Clustervalidierung (mdaCV). |
+| \eqref{eq:kmeans} | Zielfunktion des k‑Means-Algorithmus zur Minimierung der quadrierten Abstände der Datenpunkte zu ihren jeweiligen Clusterzentren. |
+| \eqref{eq:bildungswirkfaktor} | Bildungswirkfaktor $\nu(t)$ als zeitabhängiges Aggregatmaß aus emotionaler und kognitiver Unsicherheit ($\Delta E(t)\cdot\Delta K(t)$). |
+| \eqref{eq:bildungswirkindikator} | Bildungswirkindikator $\iota(t)$ als zeitliche Änderungsrate des Bildungswirkfaktors ($d\nu(t)/dt$). |
+| \eqref{eq:bildungswirk_c} | Dynamischer Unsicherheitswert $C$ zur Koppelungsprüfung zwischen $\Delta E$ und $\Delta K$ (Korrelationsstärke und Streuung). |
 
 \newpage
 
