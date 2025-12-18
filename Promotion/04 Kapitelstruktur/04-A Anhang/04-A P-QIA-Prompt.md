@@ -237,4 +237,8 @@ Die folgende Tabelle fasst die P‑QIA-Einstellungen je FU zusammen:
 | FU6  | `keywords` enthält `Promotion:FU6` + `annote`     |                            65  |         12  |
 | FU7  | `keywords` enthält `Promotion:FU7` + `annote`     |                             8  |         10  |
 
+```{=latex}
+\tabsubcaption{FU-spezifische Parametrisierung der P-QIA. Aufgeführt sind die Filterkriterien im Literaturverzeichnis (Zotero), die Anzahl verfügbarer Analysen 1. Ordnung sowie die gewählte Clusterzahl $k$; $k$ wird entlang der Silhouette-Kennwerte und der interpretativen Trennschärfe je FU festgelegt (vgl. Abschnitt 4.3.4).}
+```
+
 Damit ist die Überführung der Analysen 1. Ordnung aus dem Literaturverzeichnis in die P‑QIA und die FU-spezifisch Parametrisierung dokumentiert.

@@ -42,4 +42,8 @@ Table: Übersicht Berufliche Handlungssituationen \label{tab:A-5}
 | NFS-H-32        | Vorbereitung auf die Notfallsanitäterprüfung                          |         60 |        40 |
 | **Gesamt**      |                                                                       |     **848** |    **971** |
 
+```{=latex}
+\tabsubcaption{Übersicht der curricularen Handlungssituationen als Kursarchitektur des LMS. Spalten: Kurs-ID, Titel, Anzahl zugeordneter Aufgaben sowie geplante Bearbeitungsdauer (Tage); die Summenzeile dokumentiert den Gesamtumfang der Aufgabenarchitektur als Grundlage für strukturelle Auswertungen der curricularen Dichte.}
+```
+
 Diese tabellarische Darstellung zeigt die Zuordnung der Aufgaben sowie die vorgesehene Bearbeitungsdauer in Tagen für jede Handlungssituation im digitalen Bildungsraum. Sie bildet die empirische Grundlage für die statistische Analyse der curricularen Struktur.
