@@ -1,0 +1,31 @@
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}[node distance=1.5cm and 3.0cm, block/.style={rectangle, draw, rounded corners, align=center, text width=4cm}, >=latex]
+        \node[block] (A) {Forschungsunterfrage\\FU1--FU7};
+        \node[block, below=of A] (B) {Materialauswahl\\Primäranalysen, Notizen};
+        \node[block, below=of B] (C) {Festlegung der\\Analyseeinheiten};
+        \node[block, below=of C] (I) {Kodierung des Materials};
+        \node[block, below=of I] (J) {Synthese und\\Theoriebildung};
+
+        \node[block, right=of C] (D) {Segmentierung in\\Sinnabschnitte};
+        \node[block, below=of D] (E) {Embedding der Segmente};
+        \node[block, below=of E] (F) {k-means-Clustering};
+        \node[block, below=of F] (G) {Silhouette-Berechnung};
+        \node[block, below=of G] (H) {Ableitung/Revision\\der Kategorien};
+
+        \draw[->] (A) -- (B);
+        \draw[->] (B) -- (C);
+        \draw[->] (C) -- (I);
+        \draw[->] (I) -- (J);
+        \draw[->] (C) -- (D);
+        \draw[->] (D) -- (E);
+        \draw[->] (E) -- (F);
+        \draw[->] (F) -- (G);
+        \draw[->] (G) -- (H);
+        \draw[->] (H) -- (I);
+    \end{tikzpicture}
+    \captionsetup{justification=justified,singlelinecheck=false}
+    \caption{Ablauf der P-QIA-gestützten Inhaltsanalyse.}
+    \caption*{\footnotesize Die linke Säule zeigt die klassischen Schritte der qualitativen Inhaltsanalyse (von der Forschungsunterfrage bis zur Kodierung und Synthese), die rechte Säule die probabilistische Erweiterung mit Segmentierung, Embedding, k-means-Clustering und Silhouette-basierten Kategorienrevisionen.}
+    \label{fig:p-qia-flow}
+\end{figure}
