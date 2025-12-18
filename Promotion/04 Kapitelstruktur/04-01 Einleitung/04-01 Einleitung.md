@@ -114,6 +114,10 @@ Table: Datenbankrecherche BASE \label{tab:dbrecherche_base}
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | 5 Treffer in 272.828.873 Dokumenten |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | Keine zu Ihrer Anfrage passenden Dokumente gefunden |
 
+```{=latex}
+\tabsubcaption{Datenbankabfragen in BASE (Stand: 23.04.2022). Dargestellt sind Trefferzahlen für Kombinationen primärer Suchbegriffe mit sekundären Suchbegriffen; die Spalte „Trefferanzahl“ gibt die Zahl gefundener Dokumente im Verhältnis zum jeweiligen Gesamtdatenbestand von BASE an und macht insbesondere die geringe Sichtbarkeit LMS-spezifischer Kombinationen sichtbar.}
+```
+
 Table: Datenbankrecherche Google Scholar \label{tab:dbrecherche_scholar}
 
 | Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
@@ -126,6 +130,10 @@ Table: Datenbankrecherche Google Scholar \label{tab:dbrecherche_scholar}
 | „Wirkung“ $\land$ | „Learning-Management-System“ | 12 Ergebnisse (0,04 Sek.) |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | Ungefähr 7.950 Ergebnisse (0,06 Sek.) |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | Ungefähr 75 Ergebnisse (0,05 Sek.) |
+
+```{=latex}
+\tabsubcaption{Datenbankabfragen in Google Scholar (Stand: 23.04.2022). Angegeben sind ungefähre Ergebniszahlen und Suchzeiten; die Werte sind als Schätzungen zu lesen (dynamische Indexierung/Personalisierung) und dienen primär der Größenordnungseinordnung und des relativen Vergleichs der Suchkombinationen.}
+```
 
 Table: Datenbankrecherche LearnTechLib \label{tab:dbrecherche_learntechlib}
 
@@ -140,6 +148,10 @@ Table: Datenbankrecherche LearnTechLib \label{tab:dbrecherche_learntechlib}
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | 12.645 Treffer (1,015 Sek.) – technology works e-learning |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | 7.101 Treffer (0,690 Sek.) – technology works learning-management-system |
 
+```{=latex}
+\tabsubcaption{Datenbankabfragen in LearnTechLib (Stand: 23.04.2022). Dargestellt sind Trefferzahlen inkl. exemplarischer englischer Query-Varianten; die Tabelle dient dem Abgleich bildungstechnologischer Ergebnisräume mit LMS-spezifischen Suchkombinationen und ihrer relativen Breite.}
+```
+
 Table: Datenbankrecherche National Library of Medicine (PubMed) \label{tab:dbrecherche_pubmed}
 
 | Hauptterm (primärer Suchbegriff) | Kombination (sekundärer Suchbegriff) | Trefferanzahl |
@@ -152,6 +164,10 @@ Table: Datenbankrecherche National Library of Medicine (PubMed) \label{tab:dbrec
 | „Wirkung“ $\land$ | „Learning-Management-System“ | 57 Treffer – learning-management-system works |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | 222 Treffer – technology works e-learning |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | 23 Treffer – technology works learning-management-system |
+
+```{=latex}
+\tabsubcaption{Datenbankabfragen in PubMed (Stand: 23.04.2022). Dargestellt sind Trefferzahlen für deutsch- und englischsprachige Suchkombinationen in der National Library of Medicine; die Tabelle dient der Einordnung, wie stark LMS-bezogene Begriffe im medizinischen Forschungsindex vertreten sind.}
+```
 
 Table: Datenbankrecherche Zeitschrift Gesundheitsberufe \label{tab:dbrecherche_zg}
 
@@ -166,6 +182,10 @@ Table: Datenbankrecherche Zeitschrift Gesundheitsberufe \label{tab:dbrecherche_z
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „E-Learning“ | Suchergebnis: 10 Fundstellen |
 | „Technologie“ $\land$ „Wirkung“ $\land$ | „Learning-Management-System“ | Suchergebnis: 2 Fundstellen |
 
+```{=latex}
+\tabsubcaption{Datenbankabfragen in der Zeitschrift \emph{Gesundheitsberufe} (Stand: 23.04.2022). Dargestellt sind Fundstellenzahlen für Suchkombinationen im Zeitschriftenindex; die Tabelle dient als praxisnaher Abgleich eines berufsbezogenen Diskursraums mit den breiteren Datenbankindizes.}
+```
+
 Konkrete Abfragen koppeln die Suchbegriffe mit Eintragstypen. Für „Learning Management System“ (Zeitschriftenartikel) liegen 68 Einträge vor, „Online Lernplattform“ liefert drei Einträge und „Digital Learning“ 289. Kleine Trefferlisten werden vollständig bearbeitet; bei umfangreichen Ergebnisräumen greift die oben beschriebene Quotierung. Die Bearbeitungstiefe wird über Tag-Kombinationen gesteuert: Jede ausgewertete Quelle erhält `Promotion:Literaturanalyse` plus genau eine argumentative Kategorie (`Promotion:Argumentation`, `Promotion:Kerngedanke`, `Promotion:Schlussfolgerung` oder `Promotion:Weiterführung`). Erst wenn die erforderliche Quote in einer Suchkombination mit entsprechenden Tags vermerkt ist, gilt der Suchraum als saturiert. Auf diese Weise lässt sich jederzeit nachverfolgen, welche Quelle bereits bewertet ist und wie sie in das Argumentationsgefüge der Arbeit einfließt.
 
 Die Auswahlkriterien sind projektspezifisch operationalisiert und in den Arbeitsunterlagen hinterlegt:
@@ -177,6 +197,10 @@ Table: Auswahlkriterien der Literaturrecherche \label{tab:auswahlkriterien_liter
 | Aktualität | Normative Entwicklungen (z.B. NotSanG-Novellierungen) verlangen Quellen mit unmittelbarem Bezug zum Untersuchungszeitraum. | Fokus auf Publikationen ab 2014, sofern Klassiker nicht zwingend notwendig sind. |
 | Art der Quelle (Übersichtsartikel, Metaanalysen, Monografien, Sammelbände, Zeitschriftenbeiträge, Studien, Klassiker) | Nur wissenschaftliche Publikationen sichern die geforderte Güte und trennen Fachliteratur von populären Darstellungen. | Datenbankauswahl richtet sich nach Disziplin (Bildungswissenschaft, Medizin, Bildungstechnologie). |
 | Subjektive Relevanz / systematische Einordnung | Jede Quelle wird hinsichtlich ihres Beitrags zur Argumentation auf einer Skala von 1–10 bewertet (1 = „Hauch einer Relevanz“, 10 = „totale Relevanz“). | Die Relevanzbewertung wird zusammen mit der Tag-Kombination dokumentiert. |
+
+```{=latex}
+\tabsubcaption{Auswahlkriterien der Literaturrecherche (Stand: 23.04.2022). Aufgeführt sind zentrale Einschluss-/Priorisierungskriterien (Aktualität, Quellentyp, Relevanzbewertung) inkl. Begründung und Dokumentationshinweisen; die Kriterien steuern die Aufnahme von Treffern aus den primären/sekundären/tertiären Suchclustern in die Analysepipeline.}
+```
 
 Die Tabelle bündelt damit die Auswahlkriterien, die bei jeder Suchkombination geprüft werden, bevor die Quelle in Zotero markiert und in MAXQDA weiterverarbeitet wird. Sie stellt die direkte Verbindung zum Suchnetzwerk her, weil die Kriterien bestimmen, welche Treffer aus den primären, sekundären und tertiären Clustern in die detaillierte Analyse überführt werden.
 
@@ -250,12 +274,12 @@ Aus der FH werden sieben Forschungsunterfragen (FU$_1$–FU$_7$)\label{term:fors
 
 Die Abfolge der Unterforschungsfragen folgt der in Abbildung \ref{fig:fu-sequenz} skizzierten Logik: Von der Bedeutung (FU$_1$) über beobachtete Effekte (FU$_{2a}$/FU$_{2b}$) und deren Effektfaktoren zur Konzeption (FU$_3$), flankiert von Möglichkeiten und Mechanismen (FU$_{4a}$/FU$_{4b}$), bis hin zu Kompetenzen und Kausalgesetzen (FU$_6$/FU$_7$), die schließlich das Wirkgefüge der Hauptfrage adressieren. Damit ist die Sequenz zugleich thematische Landkarte und methodische Prozessführung.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \centering
 \begin{tikzpicture}[every node/.style={rectangle, draw, rounded corners, align=center, minimum width=3.4cm, minimum height=1.1cm}, node distance=2.2cm]
-  \node (bedeutung) at (0,2.2) {Bedeutung\\(FU$_1$)};
-  \node (effekte) at (0,0) {Effekte\\(FU$_{2a}$/FU$_{2b}$)};
-  \node (faktoren) at (0,-2.2) {Effektfaktoren};
+	  \node (bedeutung) at (0,2.2) {Bedeutung\\(FU$_1$)};
+	  \node (effekte) at (0,0) {Effekte\\(FU$_{2a}$/FU$_{2b}$)};
+	  \node (faktoren) at (0,-2.2) {Effektfaktoren};
 
   \node (moglichkeiten) at (4.4,2.2) {Möglichkeiten\\(FU$_5$)};
   \node (mechanismen) at (4.4,0) {Mechanismen\\(FU$_{4a}$/FU$_{4b}$)};
