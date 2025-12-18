@@ -58,7 +58,11 @@ Diese Unsicherheitsquellen werden im Modell in zwei Grundgrößen gebündelt: ei
 
 Eine zentrale Anschlussstelle an die pädagogisch‑psychologische Ebene bildet die Dynamik von Neugier und Motivation: Sie konkretisiert, dass „Trägervariablen“ nicht als statische Dispositionen geführt werden, sondern als zeitliche Prozesse, die die Schleifen von Orientierung, Handlung und Rückmeldung tragen oder unterbrechen (vgl. \hyperref[fig:sim-korr-neugier-motivation]{Abb.~\ref{fig:sim-korr-neugier-motivation}}).
 
-![Korrelationsdynamik Neugier–Motivation als Prozessspur (Beispiel: konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/korrelationsdynamik-neugier-motivation_konstruktivistisch-standardlernender.png>){#fig:sim-korr-neugier-motivation width=90%}
+![Korrelationsdynamik Neugier–Motivation als Prozessspur über die Quartale (Beispiel: konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/korrelationsdynamik-neugier-motivation_konstruktivistisch-standardlernender.png>){#fig:sim-korr-neugier-motivation}
+
+```{=latex}
+\figsubcaption{Dargestellt sind Roh‑ und normierte Differenzen sowie ein geglätteter Trend. Die Kurven markieren Phasen, in denen sich Neugier und Motivation im Modell stärker koppeln oder auseinanderlaufen.}
+```
 
 **Grundarchitektur der Wirkdimensionen (Startpunkt für die Interdependenz)**  
 Die Interdependenz-Thesen bauen auf wiederkehrenden Wirkdimensionen, die in den Kapiteln 2–5 empirisch und theoretisch belegt sind: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Sichtbarkeit. Diese Dimensionen sind die Basiselemente, aus denen positive und negative Wirkungswahrscheinlichkeiten abgeleitet und verschränkt werden.
