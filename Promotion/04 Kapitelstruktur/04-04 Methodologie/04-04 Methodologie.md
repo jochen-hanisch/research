@@ -724,19 +724,19 @@ Für die Auswertung werden zwei Unsicherheitsmaße als Grundgrößen geführt:
 Auf dieser Basis wird der Bildungswirkfaktor als zeitabhängiges Aggregatmaß gefasst:
 
 $$
-\\nu(t) = \\Delta E(t) \\cdot \\Delta K(t)
+\nu(t) = \Delta E(t) \cdot \Delta K(t)
 $$ {#eq:bildungswirkfaktor}
 
 Der Bildungswirkindikator beschreibt die Veränderungsrate dieses Faktors:
 
 $$
-\\iota(t) = \\frac{d\\nu(t)}{dt}
+\iota(t) = \frac{d\nu(t)}{dt}
 $$ {#eq:bildungswirkindikator}
 
 Für die Koppelungsprüfung zwischen Dynamikspur und Streuung wird ergänzend ein dynamischer Unsicherheitswert $C$ verwendet, der die Korrelationsstärke mit der Streuung verknüpft:
 
 $$
-C = |r(\\Delta E, \\Delta K)| \\cdot \\sigma(\\Delta E) \\cdot \\sigma(\\Delta K)
+C = \lvert r(\Delta E, \Delta K) \rvert \cdot \sigma(\Delta E) \cdot \sigma(\Delta K)
 $$ {#eq:bildungswirk_c}
 
 Die Auswertung von $\nu(t)$ und $\iota(t)$ erfolgt über Glättung, Ableitungen sowie die Identifikation von Minima, Maxima und Wendepunkten. Damit wird sichtbar, an welchen Stellen die Dynamik in Regenerations‑ oder Störungslogiken kippt und wo in einem formalen Sinn Interventionspunkte markiert werden können. Diese Indikatorik wird in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} als heuristische Ergänzung genutzt und in Kapitel \hyperref[sec:Ergebnisse-FU6]{5.3.7} in die Systemperspektive auf Kompetenzentwicklung rückgebunden.
