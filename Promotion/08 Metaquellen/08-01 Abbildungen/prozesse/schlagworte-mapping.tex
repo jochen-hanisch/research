@@ -1,28 +1,46 @@
 \begin{figure}[H]
   \centering
   \begin{tikzpicture}[
-    node distance=8mm and 12mm,
+    node distance=4mm and 8mm,
     font=\scriptsize,
     >=Latex,
     every node/.style={align=center},
-    block/.style={rectangle, draw, rounded corners, fill=blue!5, text width=6.2cm, inner sep=3pt},
-    map/.style={rectangle, draw, rounded corners, fill=orange!10, text width=4.6cm, inner sep=3pt},
-    outbox/.style={rectangle, draw, rounded corners, fill=green!8, text width=4.6cm, inner sep=3pt},
+    kw/.style={rectangle, draw, rounded corners, fill=blue!5, text width=3.0cm, inner sep=2pt},
+    outbox/.style={rectangle, draw, rounded corners, fill=green!8, text width=4.4cm, inner sep=3pt},
     line/.style={->, thick}
   ]
 
-  \node[block] (tags) {Schlagworte (Analyse 1.~Ordnung)\\
-  \textit{Lernsystemarchitektur; Bildungstheorien; Lehr- und Lerneffektivit\"at; Kollaboratives Lernen; Bewertungsmethoden; Technologieintegration; Datenschutz und IT-Sicherheit; Systemanpassung; Krisenreaktion im Bildungsbereich; Forschungsans\"atze}};
-  \node[map, right=of tags] (map) {Mapping zu\\Synthese-Kategorien\\(Folgen/Implikationen)};
-  \node[outbox, right=of map, yshift=8mm] (folgen) {Folgen\\Wirkungsdimensionen\\St\"orungen/Nebenfolgen};
-  \node[outbox, right=of map, yshift=-8mm] (impl) {Implikationen\\Organisation/Implementierung\\Technik/Daten\\Recht/Ethik\\Forschung/Evaluation};
+  \node[kw] (kw1) {Datenschutz und IT-Sicherheit};
+  \node[kw, below=of kw1] (kw2) {Krisenreaktion im Bildungsbereich};
+  \node[kw, below=of kw2] (kw3) {Lernsystemarchitektur};
+  \node[kw, below=of kw3] (kw4) {Bewertungsmethoden};
+  \node[kw, below=of kw4] (kw5) {Kollaboratives Lernen};
 
-  \draw[line] (tags) -- (map);
-  \draw[line] (map) -- (folgen);
-  \draw[line] (map) -- (impl);
+  \node[kw, right=of kw1, xshift=2mm] (kw6) {Bildungstheorien};
+  \node[kw, below=of kw6] (kw7) {Forschungsans\"atze};
+  \node[kw, below=of kw7] (kw8) {Systemanpassung};
+  \node[kw, below=of kw8] (kw9) {Lehr- und Lerneffektivit\"at};
+  \node[kw, below=of kw9] (kw10) {Technologieintegration};
+
+  \node[outbox, right=10mm of kw3] (folgen) {Folgen\\Wirkungsdimensionen\\St\"orungen/Nebenfolgen};
+  \node[outbox, below=12mm of folgen] (impl) {Implikationen\\Organisation/Implementierung\\Technik/Daten\\Recht/Ethik\\Forschung/Evaluation};
+
+  \draw[line] (kw1.east) -- (folgen.west);
+  \draw[line] (kw2.east) -- (folgen.west);
+  \draw[line] (kw3.east) -- (folgen.west);
+  \draw[line] (kw4.east) -- (folgen.west);
+  \draw[line] (kw5.east) -- (folgen.west);
+  \draw[line] (kw6.east) -- (folgen.west);
+  \draw[line] (kw7.east) -- (folgen.west);
+  \draw[line] (kw8.east) -- (folgen.west);
+  \draw[line] (kw9.east) -- (folgen.west);
+  \draw[line] (kw10.east) -- (folgen.west);
+
+  \draw[line] (folgen) -- node[right]{nachgelagert} (impl);
+  \node[above=2mm of folgen] {Kopplung Schlagworte $\rightarrow$ Folgen};
   \end{tikzpicture}
   \captionsetup{justification=justified,singlelinecheck=false}
-  \caption{Zuordnung der Schlagworte aus der Analyse erster Ordnung zu Synthese-Kategorien (Folgen und Implikationen).}
-  \caption*{\footnotesize Die Schlagworte fungieren als Korpus-Signaturen; ihre B\"undelung erfolgt ueber ein Mapping auf die in der Conclusio verwendeten Kategorien.}
+  \caption{Kopplung von Schlagworten, Folgen und Implikationen.}
+  \caption*{\footnotesize Die Kopplungen sind nicht kausal gemeint. Schlagworte fungieren als strukturierende Begriffsanker. Implikationen sind den Folgen nachgelagert. Die Reihenfolge der Schlagworte folgt der Korrelationsstruktur der Indizes, vgl. Abb.~\ref{fig:A-kor-indizes}.}
   \label{fig:schlagworte-mapping}
 \end{figure}
