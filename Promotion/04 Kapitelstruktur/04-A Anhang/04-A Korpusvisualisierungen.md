@@ -74,7 +74,7 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 \figsubcaption{Statusübersicht des Screening-/Analyseprozesses nach Tag/Typ (Quelle: 02-01 Suchergebnisse). y-Achse: Anzahl Quellen; Farben: Status (analysiert vs. nicht-analysiert). Dient als Prozesskontrolle (Coverage) und zeigt, welche Segmente des Suchraums bereits in die Analyse überführt wurden.}
 ```
 
-**Analyse/Einordnung.** Ein hoher akzeptierter Anteil ist nur dann ein Qualitätsindikator, wenn die Einschlusskriterien präzise sind und das Screening konsequent durchgeführt wurde. In Kombination mit den Relevanzverteilungen (Abb.~\ref{fig:relevance-fu} bis Abb.~\ref{fig:relevance-search}) spricht die Statusübersicht dafür, dass die Korpusbildung überwiegend stabile, inhaltlich passende Quellen in die Analyse überführt. Aus methodischer Sicht dient die Abbildung als Nachweis, dass Ausschlüsse nicht ad hoc, sondern systematisch im Prozess verankert sind.
+**Analyse/Einordnung.** Ein hoher akzeptierter Anteil ist nur dann ein Qualitätsindikator, wenn die Einschlusskriterien präzise sind und das Screening konsequent durchgeführt wurde. In Kombination mit den Relevanzverteilungen spricht die Statusübersicht dafür, dass die Korpusbildung überwiegend stabile, inhaltlich passende Quellen in die Analyse überführt. Aus methodischer Sicht dient die Abbildung als Nachweis, dass Ausschlüsse nicht ad hoc, sondern systematisch im Prozess verankert sind.
 
 ### A.13.8 Top-Autor*innen (Diskursstruktur) {#sec:A-13-top-authors}
 

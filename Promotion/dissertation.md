@@ -215,7 +215,7 @@ Im Fließtext werden die Begriffe "Kapitel", "Tabelle", "Abbildung" und "Seite" 
 
 - S.   = Seite (z.B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
 - Kap. = Kapitel (z.B. "[@doring_forschungsmethoden_2023, Kapitel 2.2]")
-- Abb. = Abbildung (z.B. "siehe \hyperref[fig:modell_LMS]{Abbildung LMS-Modell}")
+- Abb. = Abbildung (z.B. "siehe Abbildung 3")
 - Tab. = Tabelle (z.B. "vgl. Tab.~\\ref{tab:methoden_FU}")
 
 Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird nach Möglichkeit die ausgeschriebene Form "zum Beispiel" verwendet; nur in Ausnahmefällen wird "bspw." genutzt.
