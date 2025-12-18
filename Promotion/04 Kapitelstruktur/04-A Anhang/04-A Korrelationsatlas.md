@@ -4,6 +4,8 @@
 
 Der Korrelationsatlas bündelt die vollständigen Korrelationsmatrizen des Literaturkorpus. Die Darstellungen ergänzen die in Kapitel 4.3 beschriebenen Auswertungen und ermöglichen eine detaillierte Nachvollziehbarkeit der Beziehungen zwischen Forschungsunterfragen, Suchbegriffen, Kategorien und Indizes. Dunklere Farbbereiche markieren höhere positive Zusammenhänge, hellere Bereiche schwächere oder fehlende Korrelationen.
 
+Die Matrizen sind dabei als Strukturübersichten zu verstehen: Sie zeigen Kopplungsstärken und Muster der gemeinsamen Auftretenswahrscheinlichkeit, erlauben aber keine kausalen Schlussfolgerungen und ersetzen keine inhaltliche Interpretation einzelner Felder. Negative Werte markieren Entkopplungstendenzen im jeweiligen Ausschnitt, nicht „Widerspruch“ im Sinne eines Gegenbeweises.
+
 ### A.4.1 Forschungsunterfragen und ihre Verknüpfungen
 
 ![Korrelationsmatrix der Forschungsunterfragen im Literaturkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-02-01-suchergebnisse.png>){#fig:A-kor-fu}
