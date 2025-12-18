@@ -127,6 +127,13 @@ Damit leistet die Arbeit einen Beitrag auf drei Ebenen:
 - **Methodische Anschlussfähigkeit**: Die Verbindung von Analyseordnungen (1.–3. Ordnung) mit empirischer Spiegelung (Eye‑Tracking, Umfrage) zeigt, wie Koppelungen in unterschiedlichen Datenformen sichtbar gemacht und trianguliert werden können (\hyperref[sec:Datenanalyse-Grundlogik]{Abschnitt 4.3.1}; \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9}).
 - **Theoretische Konsequenz**: Interdependenz wird als Grundform digitaler Bildungsräume herausgestellt: jede positive Wirkungsrichtung trägt eine negative Gegenrichtung als strukturelle Möglichkeit mit; Gestaltung wird damit als Kopplungsarbeit beschreibbar (\hyperref[sec:Conclusio-Manifest]{Abschnitt 7.0}; \hyperref[sec:Gestaltungsprinzipien-Kopplung]{Abschnitt 2.5.4}).
 
+#todo: srukturelle Kopplung i.S.v. Luhmann einfügen
+Die Grundform der Interdependenz lässt sich dabei so zusammenfassen:
+Sinn- und Zielkopplung (Warum): Kopplung über Sinnprogramme – sie stabilisiert, worauf sich Kommunikation im Bildungsraum bezieht und wofür Entscheidungen als „vernünftig“ gelten.
+Handlungs- und Rückkopplungsschleifen (Wie): Kopplung über Operationen/Anschlussfähigkeit – Interfaces, Feedback, Sichtbarkeit machen Anschluss möglich und erzeugen die rekursiven Schleifen, in denen Lernen als Prozess stabilisiert wird.
+Soziale/organisationale Rahmung (Wodurch möglich): Kopplung über Rollen/Regeln/Ressourcen – sie entscheidet, welche Anschlüsse überhaupt legitim, erwartbar und dauerhaft tragfähig sind.
+Wichrtig ist, keine „Kausalität“ im simplen Sinn erklärt, sondern wie unterschiedliche Systeme (didaktische Sinnordnung, technische Operationslogik, organisationale Erwartungs-/Entscheidungsstrukturen) aneinander anschlussfähig werden und dadurch Wirkung wahrscheinlich machen.
+
 ## 7.3 Praktische Implikationen {#sec:Conclusio-Praxis}
 
 - Empfehlungen für die Gestaltung und Implementierung von Learning Management System (LMS). 
