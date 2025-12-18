@@ -76,13 +76,56 @@ Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden 
 
 ## 7.1 Zusammenfassung der zentralen Ergebnisse {#sec:Conclusio-Zusammenfassung}
 
-- Verdichtung der wichtigsten Befunde aus Kapitel 5.
-- Rückbindung an die Zielsetzung aus Kapitel 1.
+### 7.1.1 Fazitformel: Was das Wirkgefüge des digitalen Bildungsraums ist {#sec:Conclusio-Wirkgefuege-Definition}
+
+Im Ergebnis dieser Arbeit lässt sich das Wirkgefüge des digitalen Bildungsraums als ein interdependentes System beschreiben, in dem Wirkungen aus Koppelungen entstehen: zwischen didaktischer Strukturierung, technischer Architektur (LMS‑Interface, Datenlogik, Steuerungsfunktionen) und sozial‑organisationaler Praxis (Rollen, Regeln, Ressourcen, Kultur). Der digitale Bildungsraum ist damit als operative Ordnung zu fassen, die (a) Wahrnehmung und Orientierung strukturiert, (b) Handlungen ermöglicht und begrenzt, (c) Rückkopplung organisiert und (d) diese Rückkopplung wiederum in Steuerungsentscheidungen und Lernpfade einspeist. Genau diese Kopplungsstruktur wird in den Ergebnissen als wiederkehrendes Muster sichtbar (vgl. \hyperref[sec:Ergebnisse]{Kapitel 5}) und in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} als Interdependenzformel präzisiert.
+
+Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[fh]{Kapitel 1}): Der Forschungsgegenstand zeigt sich nicht als Summe einzelner Funktionen, sondern als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
+
+### 7.1.2 Wie diese Verdichtung in der Arbeit hergeleitet wird {#sec:Conclusio-Wirkgefuege-Herleitung}
+
+Die Herleitung folgt der Logik des Gesamtaufbaus:
+
+1. **Begriffliche und theoretische Rahmung**: Kapitel 2 legt die systemisch‑konstruktivistische Perspektive und die Dynamik des Bildungswirkgefüges als Bezugsrahmen an (\hyperref[sec:Systemisch-konstruktivistische-Theorie]{Abschnitt 2.2.2}; \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5}). Damit wird der Fokus auf Koppelungen, Rückkopplung und Systementkopplungen als zentrale Erklärungseinheiten vorbereitet (\hyperref[sec:Systementkopplungen]{Abschnitt 2.5.3}).
+2. **Architektur des Forschungsgegenstands**: Kapitel 3 beschreibt den digitalen Bildungsraum als konkreten, strukturierten Gegenstand (LMS‑Architektur, didaktische Einbettung, organisatorische Einbindung) und macht damit sichtbar, welche Ebenen empirisch überhaupt beobachtbar sind (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}).
+3. **Methodische Übersetzung in Analyseordnungen und Triangulation**: Kapitel 4 operationalisiert den Zugriff über Analysen erster bis dritter Ordnung sowie über die Spiegelung in Nutzungsvollzug (Eye‑Tracking) und Akteur*innenperspektive (Umfrage) (\hyperref[sec:Datenanalyse-Grundlogik]{Abschnitt 4.3.1}; \hyperref[sec:EyeTracking]{Abschnitt 4.2.4}; \hyperref[sec:Umfrage-LMS]{Abschnitt 4.2.5}; \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9}). Damit ist methodisch festgelegt, wie Koppelungen sichtbar werden: als verdichtete Muster im Literaturkorpus, als beobachtbare Orientierungs‑/Handlungsspuren und als berichtete Wirkungsdimensionen.
+4. **Empirische Verdichtung und Hypothesenbildung**: Kapitel 5 beantwortet die Forschungsunterfragen entlang der Kernbereiche und führt die Triangulation in Arbeitshypothesen über (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}). Kapitel 6 prüft diese Verdichtung als Interdependenzargumentation und klärt, weshalb positive und negative Wirkungsrichtungen strukturell gekoppelt sind (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
+
+### 7.1.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
+
+Die Ergebnisse machen das Wirkgefüge sichtbar, indem sie wiederkehrende Koppelungen pro Kernbereich rekonstruieren:
+
+**(a) Kernarchitektur: Merkmale, Mechanismen, Grenzen**
+
+FU$_3$ rekonstruiert die didaktisch‑technologischen Merkmale als Bedingungsgefüge: Strukturierung, Navigation, Zugänglichkeit, Einbettung in Lehr‑Lern‑Prozesse und die Qualitätssicherung über Daten und Feedback werden als tragende Dimensionen sichtbar (\hyperref[sec:Ergebnisse-FU3]{Abschnitt 5.3.1}). FU$_{4a}$ präzisiert Mechanismen als bildungswissenschaftliche Handlungs‑ und Interaktionslogiken (z. B. Kooperationsskripts, Selbstregulation, formative Rückkopplung, Kultur‑ und Kontextpassung), die in digitalen Bildungsräumen als Stabilisierungseinheiten wirken (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}). FU$_5$ zeigt die Grenzen dieser Architektur als Interdependenzen: dieselben Strukturen, die Entlastung und Reichweite ermöglichen, können Übersteuerung, Abhängigkeit, Ungleichheit oder Belastung mitführen, sofern Rahmung und Support nicht tragfähig sind (\hyperref[sec:Ergebnisse-FU5]{Abschnitt 5.3.3}).
+
+Diese drei Ergebnissebenen bilden gemeinsam die Grundlage dafür, das Wirkgefüge als Koppelung von Strukturierung/Entlastung, Sichtbarkeit/Transparenz und Rückkopplung/Steuerung zu fassen (vgl. \hyperref[sec:Conclusio-Manifest]{Abschnitt 7.0}).
+
+**(b) Nutzungsvollzug: Orientierung, Effekte, technisch‑gestalterische Koppelungen**
+
+FU$_1$ zeigt Akzeptanz als gekoppeltes Urteil: Nutzbarkeit, Verlässlichkeit, Zugriff und wahrgenommene Passung entscheiden darüber, ob Angebote als anschlussfähig erlebt werden (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}). FU$_{2a}$ rekonstruiert Effekte auf Lernende als abhängig von didaktischer Strukturierung, Feedbackpraxis, Interaktionsformaten und der Einbettung in konkrete Lernprozesse (\hyperref[sec:Ergebnisse-FU2a]{Abschnitt 5.3.5}). FU$_{4b}$ ergänzt die Wirkungsperspektive um beobachtbare Orientierungs‑ und Handlungsmechanismen: Sichtbarkeit, Salienz, Blickführung und Handlungsauslösung koppeln Interface‑Gestaltung an Nutzungsvollzug; Überkomplexität oder unklare Affordanzen verschieben den Vollzug in orientierungsdominante Suchmuster und schwächen damit Handlungsklarheit (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
+
+Damit wird das Wirkgefüge an einem zentralen Punkt empirisch greifbar: Wirkungsannahmen aus dem Literaturkorpus werden in Blick‑ und Handlungsspuren gespiegelt und über Umfrageindikatoren als Akteur*innenurteile verdichtet (vgl. \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9} sowie \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
+
+**(c) Kompetenzorientierung: LMS als Kompetenzerwerbssystem**
+
+FU$_6$ modelliert das LMS als Kompetenzerwerbssystem, in dem Kompetenzentwicklung nur als Ergebnis gekoppelter Bedingungen plausibel wird: Infrastruktur‑ und Zielgruppenpassung, Steuerung über Daten/Analytics, Motivationsdynamik und Qualität der Rückkopplung wirken zusammen (\hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}). Dieser Zugriff bindet die systemische Dynamik (Kapitel 2.5) und die empirischen Befunde (Kapitel 5.3) zu einer konsistenten Wirklogik zusammen: Kompetenz erscheint als emergentes Ergebnis des Wirkgefüges, nicht als isolierter Output einzelner Features.
+
+**(d) Rollen und Strategien: Lehrendenbedingungen und Stabilisierung von Kausalannahmen**
+
+FU$_{2b}$ ergänzt die Verdichtung um Lehrendenbedingungen: Kompetenzanforderungen, Monitoring‑ und Assessmentpraktiken sowie Belastungs‑ und Entlastungsdynamiken rahmen, ob Rückkopplung tatsächlich in Handlung übersetzt wird (\hyperref[sec:Ergebnisse-FU2b]{Abschnitt 5.3.8}). FU$_7$ beschreibt Strategien, wie in komplexen digitalen Bildungsräumen plausible Ursache‑Wirkungs‑Aussagen stabilisiert werden können, ohne Komplexität zu unterschlagen: über klare Modellannahmen, überprüfbare Koppelungssätze und die reflektierte Verbindung von Theorie, Architektur und empirischen Beobachtungen (\hyperref[sec:Ergebnisse-FU7]{Abschnitt 5.3.9}).
+
+In der Summe entsteht damit ein konsistentes Bild: Das Wirkgefüge des digitalen Bildungsraums ist die Koppelungsarchitektur, die zwischen Gestaltung, Nutzung und Rahmung vermittelt, Rückkopplung organisiert und dadurch Wirkungen als Wahrscheinlichkeitsmuster stabilisiert oder destabilisiert (vgl. \hyperref[sec:Ergebnisse-Zusammenfassung]{Abschnitt 5.4} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 
 ## 7.2 Theoretische Schlussfolgerungen {#sec:Conclusio-Theorie}
 
-- Beitrag zum Verständnis des digitalen Bildungswirkgefüges.
-- Konsequenzen für zukünftige Theorieentwicklung.
+Die zentrale theoretische Schlussfolgerung lautet: Der digitale Bildungsraum ist angemessen als Wirkgefüge beschreibbar, wenn Theorie und Empirie konsequent auf Koppelungen, Rückkopplung und Interdependenzen ausgerichtet werden. Kapitel 2 hat diese Perspektive vorbereitet, indem es (a) die systemisch‑konstruktivistische Theorie als Grundlage der Beobachtung und Gestaltung etabliert (\hyperref[sec:Systemisch-konstruktivistische-Theorie]{Abschnitt 2.2.2}) und (b) die Dynamik des Bildungswirkgefüges als System mit Regeneration, Störung und Entkopplungsrisiken modelliert (\hyperref[sec:SystemischeDynamik]{Abschnitt 2.5}). Kapitel 5 zeigt, dass sich diese theoretische Rahmung im Material als rekurrentes Muster bestätigt: Wirkungen treten als gekoppelte Wirkungsrichtungen auf, deren Stabilität von Strukturierung, Sichtbarkeit, Rückkopplung, Steuerung und sozial‑organisationaler Einbettung abhängt (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}). Kapitel 6 präzisiert diese Einsicht als Interdependenzargumentation (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
+
+Damit leistet die Arbeit einen Beitrag auf drei Ebenen:
+
+- **Begriffspräzisierung**: „Wirkgefüge“ wird als analytischer Begriff gefasst, der Wirkungen über Koppelungen rekonstruiert und damit weder auf Technik noch auf Didaktik noch auf individuelle Einstellungen verkürzt (vgl. \hyperref[sec:Conclusio-Wirkgefuege-Definition]{Abschnitt 7.1.1}).
+- **Methodische Anschlussfähigkeit**: Die Verbindung von Analyseordnungen (1.–3. Ordnung) mit empirischer Spiegelung (Eye‑Tracking, Umfrage) zeigt, wie Koppelungen in unterschiedlichen Datenformen sichtbar gemacht und trianguliert werden können (\hyperref[sec:Datenanalyse-Grundlogik]{Abschnitt 4.3.1}; \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9}).
+- **Theoretische Konsequenz**: Interdependenz wird als Grundform digitaler Bildungsräume herausgestellt: jede positive Wirkungsrichtung trägt eine negative Gegenrichtung als strukturelle Möglichkeit mit; Gestaltung wird damit als Kopplungsarbeit beschreibbar (\hyperref[sec:Conclusio-Manifest]{Abschnitt 7.0}; \hyperref[sec:Gestaltungsprinzipien-Kopplung]{Abschnitt 2.5.4}).
 
 ## 7.3 Praktische Implikationen {#sec:Conclusio-Praxis}
 
