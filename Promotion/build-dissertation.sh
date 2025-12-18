@@ -87,7 +87,9 @@ spinner() {
 pandoc "${FILES[@]}" \
   --filter pandoc-crossref \
   -o "dissertation-${MODE}.pdf" \
-  --pdf-engine=xelatex \
+  --pdf-engine=latexmk \
+  --pdf-engine-opt=-pdf \
+  --pdf-engine-opt=-xelatex \
   --citeproc &
 
 pandoc_pid=$!
