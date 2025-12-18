@@ -96,7 +96,7 @@ Im Anschluss werden die kodierten Daten exportiert und in einer statistischen un
 
 Der gesamte Prozess – von Beginn (Google-Alert beziehungsweise zufällige Quelle) über Screening, doppeltes Tagging und KI-Unterstützung bis hin zu Netzwerk- und Pfadanalysen – ist damit als zirkulärer, transparent dokumentierter Recherche- und Analysepfad angelegt. Er stellt sicher, dass die in dieser Arbeit entwickelten Aussagen zu digitalen Bildungsräumen nicht auf Einzelstudien, sondern auf einem systematisch erschlossenen und strukturell ausgewerteten Literaturfeld beruhen.
 
-Die folgende Abbildung fasst diesen Workflow schematisch zusammen und dient als Referenzrahmen für die in Abschnitt 4.3 beschriebenen Auswertungen; für das Verständnis der weiteren Darstellung sind vor allem die Übergänge zwischen Suche, Tagging und Export relevant.
+Die folgende Abbildung (Abb.~\ref{fig:lit-workflow}) fasst diesen Workflow schematisch zusammen und dient als Referenzrahmen für die in Abschnitt 4.3 beschriebenen Auswertungen; für das Verständnis der weiteren Darstellung sind vor allem die Übergänge zwischen Suche, Tagging und Export relevant.
 
 \begin{figure}[ht]
   \centering
@@ -106,6 +106,8 @@ Die folgende Abbildung fasst diesen Workflow schematisch zusammen und dient als 
   \caption*{\footnotesize Visualisiert sind die Prozessschritte von Screening, Tagging und KI‑gestützter Inhaltsanalyse bis zur Auswertung; die Abbildung dient als Orientierungsfolie für die nachfolgenden Datenanalyseabschnitte.}
   \label{fig:lit-workflow}
 \end{figure}
+
+Die folgenden Zeit‑ und Kohärenzvisualisierungen (Abb.~\ref{fig:time-series}, Abb.~\ref{fig:silhouette-scores} und Abb.~\ref{fig:delta-silhouette}) dienen der volumetrischen und strukturellen Einordnung des Literaturkorpus und bilden die Basis für die anschließende Korpusdiagnostik.
 
 ![Zeitreihe der Publikationszahlen im Korpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_time_series_02-01_suchergebnisse.png>){#fig:time-series}
 
@@ -157,7 +159,7 @@ Die Summenzeile dokumentiert die 3 524 für die Kohärenzberechnung herangezog
 \figsubcaption{Gemeinsame Darstellung von Clusterkohärenz und Korpusvolumen pro Jahr (Quelle: 02-01 Suchergebnisse). Linke y-Achse: Silhouette-Score der jährlichen $k$-means-Clusterlösung; rechte y-Achse: Fallzahlen ($n$). Horizontale Referenzlinien markieren Quartile (Q1--Q3) der Silhouette-Verteilung und unterstützen die Identifikation von Verdichtungs- vs. Driftphasen.}
 ```
 
-Die Abbildung zeigt die gemeinsame Entwicklung von Silhouette-Scores und Fallzahlen und verdeutlicht damit die semantische Stabilität des recherchierten Literaturfeldes über die Zeit. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen nahezu perfekte Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur so eng gefasst ist, dass jedes zusätzliche Dokument inhaltlich nahezu identisch anschließt. Der Zeitraum 2018–2022 kombiniert dann hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden das robuste epistemische Fundament des Korpus d.h. hohe Dichte, hohe Trennschärfe und deutliche Clusterzentren.
+Im Zusammenspiel von Silhouette-Scores und Fallzahlen wird die semantische Stabilität des recherchierten Literaturfeldes über die Zeit sichtbar. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen nahezu perfekte Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur so eng gefasst ist, dass jedes zusätzliche Dokument inhaltlich nahezu identisch anschließt. Der Zeitraum 2018–2022 kombiniert dann hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden das robuste epistemische Fundament des Korpus d.h. hohe Dichte, hohe Trennschärfe und deutliche Clusterzentren.
 
 Ab 2023 sinkt der Score trotz weiterhin sehr hoher Fallzahlen. Der Tiefpunkt ($0,9208$ im Jahr 2024) zeigt eine semantische Drift, das heißt eine zunehmende Heterogenität des Feldes, ohne dass die Relevanz oder Qualität des Korpus abnimmt. Vielmehr reorganisieren sich die thematischen Schwerpunkte in einem dynamischen Diskursfeld (z. B. Learning Analytics, KI-basierte Lernsysteme, generative Modelle). Die moderate Erholung 2025 verweist auf eine mögliche Neuordnung der semantischen Zentren. Die quartilsbasierten Referenzlinien ($Q_1 \approx 0{,}9686$, $Q_3 = 1{,}0000$) und die Fatigue-Schwelle von $0,96$ markieren die Übergänge zwischen kohärenten Verdichtungsphasen und beginnender Fragmentierung. Damit lässt sich die Aussagekraft einzelner Jahrgänge systematisch gewichten, belastbare Kohärenzphasen identifizieren und die Qualität der algorithmischen Clusterbildung retrospektiv validieren.
 
@@ -232,7 +234,7 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
-Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht. Die Struktur der Suchordner ist in \hyperref[sec:A-6]{Anhang A‑6} dokumentiert.
+Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von der Auswahl eines Begriffs (primär, sekundär, tertiär) über die Datenbankabfrage, die quotierte Sichtung der Trefferlisten und das Tagging in Zotero bis zur erneuten Suche oder der anschließenden Analyse reicht. Die Struktur der Suchordner ist in \hyperref[sec:A-6]{Anhang A‑6} dokumentiert; die Operationalisierung ist in Abb.~\ref{fig:bool-logik} beispielhaft ausgewiesen.
 
 ![Bool’sche Logik der Suchordner und Quotensteuerung.](<08 Metaquellen/08-01 Abbildungen/methodik/Boolsche-Logik Suchordner.png>){#fig:bool-logik}
 
@@ -259,7 +261,7 @@ Aufbau der Visualisierungen:
 - Sprachen: Gesamtverteilung und Differenzierung nach Dokumententypen.
 - Flüsse/Netze: Pfaddiagramm, Suchbegriff‑Sankey‑Darstellung und das semantische Netzwerk.
 
-Alle folgenden Visualisierungen sind als deskriptive Korpusdiagnostik zu lesen: Sie strukturieren Verteilungen und Relationen (Kopplungen, Häufigkeiten, Flusspfade), sind aber keine Kausalmodelle und enthalten keine normativen Bewertungen. Interpretationen werden daher konsequent als Rückbindung an die Forschungsunterfragen und an die deduktiven Kategorien geführt (vgl. Abschnitt \hyperref[sec:Datenanalyse]{4.3} und Anhang A).
+Alle folgenden Visualisierungen sind als deskriptive Korpusdiagnostik zu lesen (vgl. Abb.~\ref{fig:summary-suchergebnisse}): Sie strukturieren Verteilungen und Relationen (Kopplungen, Häufigkeiten, Flusspfade), sind aber keine Kausalmodelle und enthalten keine normativen Bewertungen. Interpretationen werden daher konsequent als Rückbindung an die Forschungsunterfragen und an die deduktiven Kategorien geführt (vgl. Abschnitt \hyperref[sec:Datenanalyse]{4.3} und Anhang A).
 
 ![Gesamtüberblick der Suchergebnisse.](<08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png>){#fig:summary-suchergebnisse}
 
@@ -277,7 +279,7 @@ Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relev
 
 Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (vgl. Abb.~\ref{fig:categories-suchergebnisse}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
 
-Weitere Detailvisualisierungen zur Korpusdiagnostik (Indizes, Tags, FU‑Zuordnungen/Relevanz, Status/Autor:innen sowie Sprachen) sind gesammelt im \hyperref[sec:A-13]{Anhang A‑13} dokumentiert (Abb.~\ref{fig:index-suchergebnisse} bis Abb.~\ref{fig:language-entrytypes}).
+Weitere Detailvisualisierungen zur Korpusdiagnostik sind gesammelt im \hyperref[sec:A-13]{Anhang A‑13} dokumentiert (Abb.~\ref{fig:index-suchergebnisse}, Abb.~\ref{fig:tags-suchergebnisse}, Abb.~\ref{fig:research-questions-suchergebnisse}, Abb.~\ref{fig:relevance-fu}, Abb.~\ref{fig:relevance-categories}, Abb.~\ref{fig:relevance-search}, Abb.~\ref{fig:sources-status}, Abb.~\ref{fig:top-authors}, Abb.~\ref{fig:languages} und Abb.~\ref{fig:language-entrytypes}).
 
 ### 4.2.4 Webcam-basiertes Eye-Tracking und KI-gestützte Codierung {#sec:EyeTracking}
 
@@ -619,7 +621,9 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 \figsubcaption{3D-Projektion der deduktiven $k$-means-Clusterlösung (Quelle: 02-01 Suchergebnisse; $n=3733$, $k=4$, Silhouette-Score: $0{,}9884$). Achsen: Suchbegriffe, Kategorien, Forschungsunterfragen; Farbe: Clusterzugehörigkeit; Punktgröße: Clusterumfang; Labels: dominante Tag- und Eintragstyp-Kombinationen je Cluster.}
 ```
 
-Die Abbildung zeigt die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) auf Basis des $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der insgesamt hohe Silhouette-Score ($S = 0{,}9884$) weist auf eine nahezu perfekte Trennschärfe hin, was sowohl die deduktive Vorstrukturierung als auch die semantische Stabilität der Cluster bestätigt.
+Die deduktive 3D-Clusterlösung wird in Abb.~\ref{fig:clusteranalyse-kmeans} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien und Forschungsfragen dokumentiert; sie dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
+
+Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der insgesamt hohe Silhouette-Score ($S = 0{,}9884$) weist auf eine nahezu perfekte Trennschärfe hin, was sowohl die deduktive Vorstrukturierung als auch die semantische Stabilität der Cluster bestätigt.
 
 **Analyse der Achsendimensionen**
 
