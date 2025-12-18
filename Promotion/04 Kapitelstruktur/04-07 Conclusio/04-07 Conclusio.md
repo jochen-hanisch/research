@@ -90,6 +90,7 @@ Die Herleitung folgt der Logik des Gesamtaufbaus:
 2. **Architektur des Forschungsgegenstands**: Kapitel 3 beschreibt den digitalen Bildungsraum als konkreten, strukturierten Gegenstand (LMS‑Architektur, didaktische Einbettung, organisatorische Einbindung) und macht damit sichtbar, welche Ebenen empirisch überhaupt beobachtbar sind (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}).
 3. **Methodische Übersetzung in Analyseordnungen und Triangulation**: Kapitel 4 operationalisiert den Zugriff über Analysen erster bis dritter Ordnung sowie über die Spiegelung in Nutzungsvollzug (Eye‑Tracking) und Akteur*innenperspektive (Umfrage) (\hyperref[sec:Datenanalyse-Grundlogik]{Abschnitt 4.3.1}; \hyperref[sec:EyeTracking]{Abschnitt 4.2.4}; \hyperref[sec:Umfrage-LMS]{Abschnitt 4.2.5}; \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9}). Damit ist methodisch festgelegt, wie Koppelungen sichtbar werden: als verdichtete Muster im Literaturkorpus, als beobachtbare Orientierungs‑/Handlungsspuren und als berichtete Wirkungsdimensionen.
 4. **Empirische Verdichtung und Hypothesenbildung**: Kapitel 5 beantwortet die Forschungsunterfragen entlang der Kernbereiche und führt die Triangulation in Arbeitshypothesen über (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}). Kapitel 6 prüft diese Verdichtung als Interdependenzargumentation und klärt, weshalb positive und negative Wirkungsrichtungen strukturell gekoppelt sind (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
+5. **Rechnerische Spur der Kopplungsdynamik**: Ergänzend wird in Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} eine Kopplungsindikatorik eingeführt, die Unsicherheiten aus den Ergebnissen in eine Zeitlogik überführt. Diese Indikatorik (vgl. \hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}) erhebt keinen empirischen Messanspruch; sie dient als formalisierte Verdichtung, um Kippstellen und Stabilisierung als modellinterne Spur darstellbar zu machen.
 
 ### 7.1.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
 
@@ -127,12 +128,13 @@ Damit leistet die Arbeit einen Beitrag auf drei Ebenen:
 - **Methodische Anschlussfähigkeit**: Die Verbindung von Analyseordnungen (1.–3. Ordnung) mit empirischer Spiegelung (Eye‑Tracking, Umfrage) zeigt, wie Koppelungen in unterschiedlichen Datenformen sichtbar gemacht und trianguliert werden können (\hyperref[sec:Datenanalyse-Grundlogik]{Abschnitt 4.3.1}; \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9}).
 - **Theoretische Konsequenz**: Interdependenz wird als Grundform digitaler Bildungsräume herausgestellt: jede positive Wirkungsrichtung trägt eine negative Gegenrichtung als strukturelle Möglichkeit mit; Gestaltung wird damit als Kopplungsarbeit beschreibbar (\hyperref[sec:Conclusio-Manifest]{Abschnitt 7.0}; \hyperref[sec:Gestaltungsprinzipien-Kopplung]{Abschnitt 2.5.4}).
 
-#todo: srukturelle Kopplung i.S.v. Luhmann einfügen
-Die Grundform der Interdependenz lässt sich dabei so zusammenfassen:
-Sinn- und Zielkopplung (Warum): Kopplung über Sinnprogramme – sie stabilisiert, worauf sich Kommunikation im Bildungsraum bezieht und wofür Entscheidungen als „vernünftig“ gelten.
-Handlungs- und Rückkopplungsschleifen (Wie): Kopplung über Operationen/Anschlussfähigkeit – Interfaces, Feedback, Sichtbarkeit machen Anschluss möglich und erzeugen die rekursiven Schleifen, in denen Lernen als Prozess stabilisiert wird.
-Soziale/organisationale Rahmung (Wodurch möglich): Kopplung über Rollen/Regeln/Ressourcen – sie entscheidet, welche Anschlüsse überhaupt legitim, erwartbar und dauerhaft tragfähig sind.
-Wichrtig ist, keine „Kausalität“ im simplen Sinn erklärt, sondern wie unterschiedliche Systeme (didaktische Sinnordnung, technische Operationslogik, organisationale Erwartungs-/Entscheidungsstrukturen) aneinander anschlussfähig werden und dadurch Wirkung wahrscheinlich machen.
+Die Grundform der Interdependenz lässt sich dabei als strukturelle Kopplung im luhmannschen Sinn präzisieren: Unterschiedliche Systemlogiken werden wechselseitig anschlussfähig, ohne ihre Eigenlogik aufzugeben. In dieser Arbeit lässt sich diese Kopplung als Dreiklang fassen:
+
+- **Sinn- und Zielkopplung (Warum):** Kopplung über Sinnprogramme, die stabilisieren, worauf sich Kommunikation im Bildungsraum bezieht und wofür Entscheidungen als begründet gelten.
+- **Handlungs- und Rückkopplungsschleifen (Wie):** Kopplung über Operationen/Anschlussfähigkeit; Interfaces, Feedback und Sichtbarkeit erzeugen rekursive Schleifen, in denen Lernen als Prozess stabilisiert wird.
+- **Soziale/organisationale Rahmung (Wodurch möglich):** Kopplung über Rollen, Regeln und Ressourcen; sie entscheidet, welche Anschlüsse in Praxis überhaupt tragfähig werden.
+
+Diese Perspektive erklärt, wie didaktische Sinnordnung, technische Operationslogik und organisationale Entscheidungsstrukturen aneinander anschlussfähig werden und dadurch Wirkung als Wahrscheinlichkeitsmuster hervorbringen.
 
 ## 7.3 Praktische Implikationen {#sec:Conclusio-Praxis}
 
