@@ -118,7 +118,7 @@ Table: Retrospektiv-vergleichende Darstellung der LMS-Entwicklung im Kontext pan
 | Schlüsselbedingung  | „Institutional readiness“ erforderlich für Erfolg                           | Vorbereitung ab 2016 als Fundament nicht-planbarer pandemischer Handlungsfähigkeit |
 
 ```{=latex}
-\tabsubcaption{Retrospektiver Vergleich der pandemiebedingten LMS-Umstellung bei @gachanja_e-learning_2021 mit der dokumentierten Systementwicklung im Rahmen der Notfallsanitäter-Ausbildung (2016--2023). Die Gegenüberstellung fokussiert Ausgangspunkt, Infrastrukturvoraussetzungen, Herausforderungen und Bewertung und dient der Einordnung der Pandemie als Katalysator bereits vorbereiteter Systemarchitektur.}
+\tabsubcaption{Retrospektiver Vergleich der pandemiebedingten LMS-Umstellung (Literaturbefund) mit der dokumentierten Systementwicklung im Rahmen der Notfallsanitäter-Ausbildung (2016--2023). Die Gegenüberstellung fokussiert Ausgangspunkt, Infrastrukturvoraussetzungen, Herausforderungen und Bewertung und dient der Einordnung der Pandemie als Katalysator bereits vorbereiteter Systemarchitektur.}
 ```
 
 Während das bei @gachanja_e-learning_2021 untersuchte E-Learning-Modell unter Bedingungen einer ad-hoc eingeführten digitalen Infrastruktur umgesetzt wurde, basierte das hier untersuchte System auf einem längerfristig entwickelten, curricular integrierten und technisch stabilen Ansatz. Die Gegenüberstellung macht deutlich, dass institutionelle Vorbereitung, systemische Vordisposition und die frühzeitige Einbettung digitaler Lernprozesse entscheidende Erfolgsfaktoren für die Funktionsfähigkeit eines Learning Management Systems unter Belastungsbedingungen darstellen. Besonders hervorzuheben ist dabei der Unterschied in der Bewertung der eingesetzten Systeme selbst. Während @gachanja_e-learning_2021 das LMS als temporäre Notlösung wahrgenommen haben, war das hier untersuchte System als integraler Bestandteil der schulischen Infrastruktur aufgebaut. Es zeigte seine Wirkungsfähigkeit zur Verstetigung über die Krise hinaus.
@@ -140,7 +140,9 @@ Mit der theoretischen Fundierung, empirischen Absicherung und praxisorientierten
 ## 3.3 Didaktische Architektur als Learning-Environment {#sec:DidaktischeArchitektur}
 
 Aufbauend auf den in \hyperref[sec:Kontext-FG]{Abschnitt 3.1} beschriebenen Entstehungskontext sowie den in \hyperref[sec:Entwicklung-Einbettung]{Abschnitt 3.2} weitergeführten Entwicklungsschritten wird im Folgenden die didaktische Architektur des Learning-Management-Systems vorgestellt. Diese Konzeption beabsichtigte eine digitale Struktur zu schaffen, die nicht nur rechtliche Anforderungen der Ausbildung abbildet, sondern auch die didaktischen Prinzipien systemisch fundierter Kompetenzentwicklung integriert. In dieser Phase entstand auch die in Abbildung 1 gezeigte Skizze zur didaktischen Systemstruktur, die den Anspruch veranschaulicht, aus ersten Überlegungen zur digitalen Unterstützung eine funktionsfähige und kohärente Lernumgebung zu entwickeln.
- 
+	 
+Die Skizze dient im Folgenden als Referenzstruktur: Sie macht sichtbar, welche Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung) den späteren Ausführungen zugrunde liegen, ohne bereits Details der späteren Umsetzung vorwegzunehmen.
+
 Abbildung 1: Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 2016)
 
 +++++ Abbildung 1 hier einfügen +++++
@@ -196,9 +198,11 @@ Jede Handlungssituation besteht aus einem wiederkehrenden Satz von didaktisch st
 Die äußeren Bereiche, Content auf der linken und Lernorte auf der rechten Seite, bilden die beiden zentralen Bezugsrahmen des digitalen Bildungsraums. Content umfasst bspw. Fachliteratur, Theoriegrundlagen und didaktische Ressourcen, Lernorte stehen für die in § 3 i.V.m. Anlage 1–3 NotSan-APrV festgelegten Ausbildungseinrichtungen Lehrrettungswache, Notfallsanitäterschule und Krankenhaus. Die Pfeilführung in der Abbildung verdeutlicht, dass beide Bereiche nicht statisch sind, sondern aktiv in die Handlungssituationen hineinwirken und gleichzeitig von dort Erkenntnisse und Rückmeldungen zurückerhalten – ein zentrales Prinzip des hier beschriebenen Lernraums.
 Anhand von Abbildung 4 lässt sich die exemplarische Anwendung der zuvor beschriebenen didaktischen Architektur verdeutlichen, in der die theoretischen Überlegungen in die Kursansicht überführt wurden, die allen im Rahmen der beruflichen Qualifikation genutzten Kurse zugrunde liegt.
 
+Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedingungen des Wirkgefüges und Sie zeigt, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System notwednigerweise technisch ermöglichend berücksichtig werden müssen. Ursprung dieser Darstellung ist die eigene Moodle-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
+
 Abbildung 4: Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz)
 
-+++++ Abbildung 4 hier einfügen +++++
+#todo Abbildung 4 hier einfügen +++++
 
 Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Organisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
 
