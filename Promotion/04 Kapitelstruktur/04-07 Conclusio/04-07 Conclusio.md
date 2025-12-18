@@ -118,6 +118,12 @@ FU$_{2b}$ ergänzt die Verdichtung um Lehrendenbedingungen: Kompetenzanforderung
 
 In der Summe entsteht damit ein konsistentes Bild: Das Wirkgefüge des digitalen Bildungsraums ist die Koppelungsarchitektur, die zwischen Gestaltung, Nutzung und Rahmung vermittelt, Rückkopplung organisiert und dadurch Wirkungen als Wahrscheinlichkeitsmuster stabilisiert oder destabilisiert (vgl. \hyperref[sec:Ergebnisse-Zusammenfassung]{Abschnitt 5.4} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 
+Die Kopplung von Suchergebnissen, Schlagworten, Folgen und Implikationen wird hier als strukturelle Kopplung i.S.v. @luhmann_gesellschaft_2015 bzw. @luhmann_soziale_2018 gefasst. Die Ebenen bleiben eigenlogisch und werden wechselseitig anschlussfaehig gemacht. Die folgende Abbildung (Abb.~\ref{fig:schlagworte-mapping}) zeigt, wie die Schlagworte aus der Analyse erster Ordnung als Korpus-Signaturen auf die Synthese-Kategorien der Conclusio bezogen werden.
+
+```{=latex}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/schlagworte-mapping.tex}
+```
+
 ## 7.2 Theoretische Schlussfolgerungen {#sec:Conclusio-Theorie}
 
 Die zentrale theoretische Schlussfolgerung lautet: Der digitale Bildungsraum ist angemessen als Wirkgefüge beschreibbar, wenn Theorie und Empirie konsequent auf Koppelungen, Rückkopplung und Interdependenzen ausgerichtet werden. Kapitel 2 hat diese Perspektive vorbereitet, indem es (a) die systemisch‑konstruktivistische Theorie als Grundlage der Beobachtung und Gestaltung etabliert (\hyperref[sec:Systemisch-konstruktivistische-Theorie]{Abschnitt 2.2.2}) und (b) die Dynamik des Bildungswirkgefüges als System mit Regeneration, Störung und Entkopplungsrisiken modelliert (\hyperref[sec:SystemischeDynamik]{Abschnitt 2.5}). Kapitel 5 zeigt, dass sich diese theoretische Rahmung im Material als rekurrentes Muster bestätigt: Wirkungen treten als gekoppelte Wirkungsrichtungen auf, deren Stabilität von Strukturierung, Sichtbarkeit, Rückkopplung, Steuerung und sozial‑organisationaler Einbettung abhängt (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}). Kapitel 6 präzisiert diese Einsicht als Interdependenzargumentation (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
