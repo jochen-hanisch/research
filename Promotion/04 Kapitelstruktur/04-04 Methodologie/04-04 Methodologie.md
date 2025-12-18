@@ -18,7 +18,7 @@ Der Übergang zur methodologischen Konkretisierung erfolgt entlang der Frage, wi
 
 ### 4.1.1 Vorüberlegungen zur Methodologie {#sec:Voruberlegungen-Methodologie}
 
-Methodisch herausfordernd ist die Verbindung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Die unterschiedlichen Datenformen – aus Eye‑Tracking, Umfrage, systematischer Literaturarbeit und simulationsgestützten Modellierungen – werden nicht im Sinne eines Mixed‑Methods‑Designs zusammengeführt, sondern entlang der Forschungsfragen koordiniert. Die Integration folgt keinem etablierten Kombinationsschema, sondern dem eigenen Paradigma der Forschungsfragengeleitetheit. Die Hauptforschungsfrage legitimiert den Einsatz beider Paradigmen, da sie Muster und Regelmäßigkeiten im Learning Management System (LMS) sichtbar machen soll. Das Spannungsfeld zwischen Subjektivität (Wahrnehmung der Akteur*innen) und Objektivität (Kompetenzentwicklungssimulation) verlangt eine präzise methodische Betrachtung. Die strikt getrennte Zuschreibung „quantitativ = deduktiv“ und „qualitativ = induktiv“ greift dabei zu kurz, weil sie die Komplexität des Gegenstands nicht abbildet [@reinders_uberblick_2022, Seite 157].
+Methodisch herausfordernd ist die Verbindung der unterschiedlichen Facetten dieses bildungstheoretischen Forschungsvorhabens. Die Datenformen aus Eye‑Tracking, Umfrage, systematischer Literaturarbeit und simulationsgestützter Modellierung werden entlang der Forschungsfragen koordiniert und in einem eigenen Integrationsprinzip zusammengeführt. Diese Integration folgt keinem etablierten Kombinationsschema; sie orientiert sich an der Logik der Forschungsfragengeleitetheit. Die Hauptforschungsfrage legitimiert dabei sowohl qualitative als auch quantitative Zugriffe, weil sie Muster und Regelmäßigkeiten im Learning Management System (LMS) sichtbar machen soll. Das Spannungsfeld zwischen subjektiven Akteur*innenurteilen und einer formalisierenden, modellbasierten Dynamikperspektive verlangt eine präzise methodische Betrachtung. Die strikt getrennte Zuschreibung „quantitativ = deduktiv“ und „qualitativ = induktiv“ greift dabei zu kurz, weil sie die Komplexität des Gegenstands nicht abbildet [@reinders_uberblick_2022, Seite 157].
 
 Forschung in Gesundheitskontexten muss divergierende methodische Strömungen mehrerer Disziplinen integrieren. Komplexität, Vielfalt der Disziplinen und unterschiedliche Ressourcen sind auszubalancieren; deshalb werden hier die Stärken bestehender Methoden in einen neuen, interdisziplinären und generativen Kontext gestellt [@niederberger_qualitative_2021, Seite 4-5].
 
@@ -39,7 +39,7 @@ Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen
 Interdependenz meint die enge Verknüpfung der Forschungsfragen und die Wechselwirkungen zwischen qualitativen und quantitativen Daten, die die Mehrdimensionalität erfassen. Emergenz beschreibt die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, Seite 16, 103], wenn Ergebnisse aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking und Befragungen verbunden werden. Rückkopplung heißt, dass Analyseergebnisse iterativ in die Methodik zurückfließen und weitere Schritte steuern, sodass der Prozess dynamisch bleibt.
 
 
-Konkret werden Methoden aus den Forschungsfragen abgeleitet; jede Frage bestimmt die Auswahl. Qualitative Literaturanalysen werden mit Eye-Tracking-Analysen (z.B. Heatmaps) und quantitativen Befragungen systematisch in Beziehung gesetzt, um subjektive Wahrnehmungen und objektive Muster zugleich abzubilden. Die passgenaue Methodenkombination reduziert Komplexität auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu verlieren. Iterative Rückkopplung und systemische Verknüpfung erzeugen Einsichten, die isoliert verborgen blieben, und erweitern bestehende Ansätze um einen Rahmen, der Offenheit und strukturelle Präzision verbindet.
+Konkret werden Methoden aus den Forschungsfragen abgeleitet; jede Frage bestimmt die Auswahl. Qualitative Literaturanalysen werden mit Eye-Tracking-Analysen (z.B. Heatmaps) und quantitativen Befragungen systematisch in Beziehung gesetzt, um subjektive Wahrnehmungen und beobachtbare Nutzungsmuster zugleich abzubilden. Die passgenaue Methodenkombination reduziert Komplexität auf ein analytisch erfassbares Maß, ohne wesentliche Wirkungsmechanismen zu verlieren. Iterative Rückkopplung und systemische Verknüpfung erzeugen Einsichten, die isoliert verborgen blieben, und erweitern bestehende Ansätze um einen Rahmen, der Offenheit und strukturelle Präzision verbindet.
 
 Auf dieser Grundlage beschreibt Abschnitt 4.2 die konkrete Umsetzung der Datenerhebungsverfahren. Die dort erläuterten Schritte – von der systematischen Literaturrecherche über das Eye-Tracking bis zur LMS‑Umfrage – sind direkt aus der hier beschriebenen Paradigma‑Logik abgeleitet und folgen der systemischen Kopplung der Forschungsunterfragen.
 
@@ -52,9 +52,9 @@ Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:met
 | **FU$_{2b}$: Effekt auf Lehrende** | Literaturanalyse (Primär-/Sekundäranalyse + P‑QIA) zur Rekonstruktion von Lehrendenbedingungen (Kompetenzen, Monitoring/Assessment, Belastungen) sowie Kontextspiegelung über LMS‑Umfrage (UM1). | Ableitung plausibler Einflussfaktoren und Arbeitsbedingungen; Zusammenführung zu überprüfbaren Tendenzaussagen. |
 | **FU$_3$: Didaktische und technologische Merkmale** | Theoriearbeit zur systemisch-konstruktivistischen Gestaltung des LMS und zur Beschreibung seiner Architektur [@doring_forschungsmethoden_2023, Kapitel 6.3.1]. | Herleitung, Beschreibung und Absicherung der relevanten Merkmale des LMS. |
 | **FU$_{4a}$: Bildungswissenschaftliche Mechanismen** | Qualitative Inhaltsanalyse nach Mayring sowie deren Weiterentwicklungen [@mey_qualitative_2010; @mayring_neuere_2008]. | Herleitung, Beschreibung und Absicherung der bildungswissenschaftlichen Wirkmechanismen. |
-| **FU$_{4b}$: Technisch-gestalterische Mechanismen** | Quantitative Beobachtung (inkl. Eye-Tracking) und simulationsgestützte Theorieprüfung [@doring_forschungsmethoden_2023, Kapitel 10.1.3; @doring_forschungsmethoden_2023, Kapitel 6.3.1]. | Datenerhebung, Auswertung sowie Rückbindung an die theoretische Modellierung. |
+| **FU$_{4b}$: Technisch-gestalterische Mechanismen** | Quantitative Beobachtung (inkl. Eye-Tracking) zur Rekonstruktion technisch-gestalterischer Wirkmechanismen [@doring_forschungsmethoden_2023, Kapitel 10.1.3]. | Datenerhebung, Auswertung sowie Rückbindung an die systemische Einordnung der Mechanismen. |
 | **FU$_5$: Möglichkeiten und Grenzen** | Kombination aus Qualitativer Inhaltsanalyse und SWOT-Analyse zur systemischen Bewertung [@mey_qualitative_2010; @niederberger_swot-analyse_2015]. | Strukturierte Darstellung der Potenziale und Limitationen des Trainingsmodells. |
-| **FU$_6$: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_forschungsmethoden_2023, Kapitel 5]. | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell. |
+| **FU$_6$: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_forschungsmethoden_2023, Kapitel 5] sowie simulationsgestützte Modellierung zur dynamischen Plausibilisierung (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell; dynamische Verdichtung zentraler Kopplungen als Reflexionsfolie. |
 | **FU$_7$: Erweiterung von Kausalgesetzen** | Grounded-Theory-basierte „Einfall und Theorieentwicklung“ sowie Analyse des Technologiedefizits [@pentzold_praxis_2018, Einleitung; @luhmann_technologiedefizit_1982]. | Entwicklung und Ableitung eines kausalen Ursachen-Wirkungstheoriemodells. |
 
 Die Tabelle fasst die Forschungsunterfragen zusammen und verknüpft sie mit den jeweils eingesetzten Methoden sowie ihren Erfüllungskriterien. Auf diese Weise wird nachvollziehbar, wie qualitative Literaturarbeit, empirische Erhebungen (Eye-Tracking, Umfragen) und simulationsbasierte Verfahren im Zusammenspiel verwendet wurden, um die unterschiedlichen Facetten des Lernmanagementsystems abzubilden. Die P‑QIA‑Auswertungen (Analysen dritter Ordnung; Abschnitt \hyperref[sec:P-QIA]{4.3.4}) werden FU‑übergreifend auf den Literaturkorpus angewandt; FU‑spezifische empirische Erhebungen dienen der Spiegelung und Triangulation der rekonstruierten Tendenzen.
@@ -691,6 +691,63 @@ Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Um
 Eine systematische Reflexion der Eye-Tracking-Daten erfolgt im Rahmen der methodenkritischen SWOT-Analyse (vgl. Abschnitt 4.5.1), um Potenziale und Limitationen der empirischen Erhebung im Zusammenspiel mit generativer KI zu analysieren.
 
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:Simulation-Kompetenzentwicklung}
+
+Die simulationsgestützte Modellierung dient in dieser Arbeit als formalisierte Verdichtung des in Kapitel \hyperref[sec:SystemischeDynamik]{2.5} entwickelten Dynamikverständnisses und als Brücke zur systemischen Einordnung des LMS als Kompetenzerwerbssystem (FU$_6$). Sie wird als Gedankenmodell eingesetzt, um die in der Arbeit rekonstruierten Koppelungen (Rückkopplung, Störung, Regeneration, Entkopplungsrisiken) in eine explizite Zeitlogik zu überführen und dadurch prüfbar zu machen, welche Dynamikformen aus plausiblen Kombinationen von Einflussgrößen entstehen können.
+
+### 4.4.1 Zielstellung und Rolle im Gesamtdesign {#sec:Simulation-Ziel}
+
+Die Simulation adressiert zwei Zwecke:
+
+1. **Dynamische Plausibilisierung**: Kompetenzentwicklung wird als zeitlicher Verlauf modelliert, der aus gekoppelten Einflussgrößen entsteht und dadurch nicht linear und nicht stabil verläuft. Damit wird der Anspruch, den digitalen Bildungsraum als Wirkgefüge zu fassen, in eine formal beschreibbare Dynamik übersetzt.
+2. **Indikatorik für Wirkungsdynamik**: Aus den simulierten Verläufen werden Unsicherheits- und Änderungsmaße abgeleitet, die im weiteren Verlauf als heuristische Indikatoren für Regeneration, Störung und Interventionsbedarfe dienen.
+
+Die Simulation ist damit kein Messinstrument; sie ist eine strukturierte Modellierung, die die in der Arbeit verwendeten Begriffe (Kompetenzentwicklung, Rückkopplung, Interdependenz) operativ macht und als zusätzliche Sicht auf die Dynamik des Kompetenzsystems bereitstellt (vgl. \hyperref[sec:Methodologie]{Kapitel 4}; zur Einordnung von FU$_6$ vgl. \hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
+
+### 4.4.2 Modelllogik: gekoppelter Kompetenzverlauf in Quartalen {#sec:Simulation-Logik}
+
+Die Simulation arbeitet quartalsweise über eine definierte Zeitachse und nutzt Monte‑Carlo‑Durchläufe, um nicht einen einzelnen Verlauf, sondern eine Verteilungsfamilie plausibler Verläufe zu erzeugen. Pro Durchlauf wird Kompetenz als Zustandsvariable fortgeschrieben; die Quartalsänderung koppelt mehrere Komponenten:
+
+- eine **phasenabhängige Bereitschaftssteigerung** (Anpassung, Verfestigung, Wachstum, Plateau) als Lernort‑/Zeitlogik,
+- **Motivations- und Neugieranteile** als dynamische Trägervariablen,
+- **persönliche Ereignisse** als Stör- bzw. Verstärkerkomponenten,
+- sowie einen Streuungsparameter, der die Unsicherheit in der Entwicklung modelliert.
+
+Diese Kopplung wird als probabilistischer Schritt modelliert: Die Quartalsänderung entsteht als Zufallszug aus einer Normalverteilung, deren Erwartungswert aus der Summe der gekoppelten Komponenten gebildet wird; die Kompetenz wird anschließend in einem plausiblen Wertebereich begrenzt. Durch die Wiederholung vieler Durchläufe entsteht eine Verteilung von Kompetenzverläufen, aus der robuste Lage- und Streuungsmaße abgeleitet werden können (Median/Mittelwert/Standardabweichung pro Quartal).
+
+### 4.4.3 Unsicherheitsrelationen und Wirkungsindikatoren {#sec:Simulation-Indikatoren}
+
+Für die Auswertung werden zwei Unsicherheitsmaße als Grundgrößen geführt:
+
+- $\Delta K$: kognitive Unsicherheit innerhalb der Kompetenzentwicklung; in der Simulation operationalisiert als Streuung der Kompetenzwerte pro Zeitschritt (z.B. Standardabweichung der simulierten Kompetenzwerte pro Quartal über alle Durchläufe).
+- $\Delta E$: emotionale Unsicherheit innerhalb der Kompetenzentwicklung; in der Simulation operationalisiert über die Streuung emotionaler bzw. bereitschaftsbezogener Dynamikkomponenten (z.B. Streuungsparameter der Quartalsänderung) und ergänzend über die Änderungsrate des mittleren Kompetenzverlaufs als Dynamikspur.
+
+Auf dieser Basis wird der Bildungswirkfaktor als zeitabhängiges Aggregatmaß gefasst:
+
+$$
+\\nu(t) = \\Delta E(t) \\cdot \\Delta K(t)
+$$ {#eq:bildungswirkfaktor}
+
+Der Bildungswirkindikator beschreibt die Veränderungsrate dieses Faktors:
+
+$$
+\\iota(t) = \\frac{d\\nu(t)}{dt}
+$$ {#eq:bildungswirkindikator}
+
+Für die Koppelungsprüfung zwischen Dynamikspur und Streuung wird ergänzend ein dynamischer Unsicherheitswert $C$ verwendet, der die Korrelationsstärke mit der Streuung verknüpft:
+
+$$
+C = |r(\\Delta E, \\Delta K)| \\cdot \\sigma(\\Delta E) \\cdot \\sigma(\\Delta K)
+$$ {#eq:bildungswirk_c}
+
+Die Auswertung von $\nu(t)$ und $\iota(t)$ erfolgt über Glättung, Ableitungen sowie die Identifikation von Minima, Maxima und Wendepunkten. Damit wird sichtbar, an welchen Stellen die Dynamik in Regenerations‑ oder Störungslogiken kippt und wo in einem formalen Sinn Interventionspunkte markiert werden können. Diese Indikatorik wird in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} als heuristische Ergänzung genutzt und in Kapitel \hyperref[sec:Ergebnisse-FU6]{5.3.7} in die Systemperspektive auf Kompetenzentwicklung rückgebunden.
+
+### 4.4.4 Passung zum Wirkgefüge-Konzept {#sec:Simulation-Passung}
+
+Die Simulation passt in die Logik dieser Dissertation, weil sie dieselbe Grundannahme formalisiert, die auch die empirische und literaturbasierte Rekonstruktion trägt: Wirkung entsteht aus Koppelungen. Während Kapitel \hyperref[sec:Ergebnisse]{5} Koppelungen als Muster im Literaturkorpus, im Nutzungsvollzug (Eye‑Tracking) und in Akteur*innenurteilen (Umfrage) sichtbar macht, überführt die Simulation diese Koppelungsidee in eine Dynamikform, die Regeneration, Störung und Entkopplungsrisiken als zeitliche Muster darstellbar macht. Damit ergänzt sie den argumentativen Bogen von der systemischen Theorie (Kapitel 2) über die Methodologie (Kapitel 4) bis zur manifestartigen Verdichtung (Kapitel \hyperref[sec:Conclusio-Manifest]{7.0}).
+
+### 4.4.5 Grenzen und methodische Einordnung {#sec:Simulation-Grenzen}
+
+Die Simulation ist als Modellierung sensibel gegenüber Parameterwahl, Verteilungsannahmen und den definierten Koppelungsfunktionen. Ihre Aussagen haben daher den Status einer plausibilisierenden Strukturprüfung: Sie zeigt, welche Dynamiken aus den gewählten Kopplungen folgen können, sie ersetzt keine empirische Kompetenzmessung. Konsequenterweise wird sie in dieser Arbeit als Ergänzung geführt, die die Dynamikbegriffe präzisiert und als Reflexionsfolie für die Interpretation der Kompetenzperspektive (FU$_6$) dient.
 
 ## 4.5 Reflexion der Methode {#sec:Methoden-Reflexion}
 
