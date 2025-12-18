@@ -80,7 +80,7 @@ Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden 
 
 Im Ergebnis dieser Arbeit lässt sich das Wirkgefüge des digitalen Bildungsraums als ein interdependentes System beschreiben, in dem Wirkungen aus Koppelungen entstehen: zwischen didaktischer Strukturierung, technischer Architektur (LMS‑Interface, Datenlogik, Steuerungsfunktionen) und sozial‑organisationaler Praxis (Rollen, Regeln, Ressourcen, Kultur). Der digitale Bildungsraum ist damit als operative Ordnung zu fassen, die (a) Wahrnehmung und Orientierung strukturiert, (b) Handlungen ermöglicht und begrenzt, (c) Rückkopplung organisiert und (d) diese Rückkopplung wiederum in Steuerungsentscheidungen und Lernpfade einspeist. Genau diese Kopplungsstruktur wird in den Ergebnissen als wiederkehrendes Muster sichtbar (vgl. \hyperref[sec:Ergebnisse]{Kapitel 5}) und in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} als Interdependenzformel präzisiert.
 
-Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[fh]{Kapitel 1}): Der Forschungsgegenstand zeigt sich nicht als Summe einzelner Funktionen, sondern als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
+Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[fh]{Kapitel 1}): Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
 
 ### 7.1.2 Wie diese Verdichtung in der Arbeit hergeleitet wird {#sec:Conclusio-Wirkgefuege-Herleitung}
 
@@ -140,3 +140,5 @@ Damit leistet die Arbeit einen Beitrag auf drei Ebenen:
 
 - Perspektiven für weiterführende Forschung.
 - Skizzierung möglicher Entwicklungs- und Transferpfade.
+
+Damit schließt sich die Argumentation an den Ausgangspunkt der Arbeit an: Was in \hyperref[sec:Einleitung]{Kapitel 1} als Setzung eingeführt wurde – digitale Bildungsräume als dynamische, rückgekoppelte Ordnungen – wird hier als begründete Verdichtung des Materials ausgewiesen und in eine handlungsleitende Form überführt (vgl. \hyperref[sec:Conclusio-Wirkgefuege-Definition]{Abschnitt 7.1.1}).
