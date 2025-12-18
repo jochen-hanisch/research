@@ -7,7 +7,8 @@
     every node/.style={align=center},
     kw/.style={rectangle, draw, rounded corners, fill=blue!5, text width=3.0cm, inner sep=2pt},
     outbox/.style={rectangle, draw, rounded corners, fill=green!8, text width=4.4cm, inner sep=3pt},
-    line/.style={->, thick}
+    line/.style={->, thick},
+    link/.style={<->, thick}
   ]
 
   \node[kw] (kw1) {Datenschutz und IT-Sicherheit};
@@ -25,19 +26,19 @@
   \node[outbox, right=10mm of kw3] (folgen) {Folgen\\Wirkungsdimensionen\\St\"orungen/Nebenfolgen};
   \node[outbox, below=12mm of folgen] (impl) {Implikationen\\Organisation/Implementierung\\Technik/Daten\\Recht/Ethik\\Forschung/Evaluation};
 
-  \draw[line] (kw1.east) -- (folgen.west);
-  \draw[line] (kw2.east) -- (folgen.west);
-  \draw[line] (kw3.east) -- (folgen.west);
-  \draw[line] (kw4.east) -- (folgen.west);
-  \draw[line] (kw5.east) -- (folgen.west);
-  \draw[line] (kw6.east) -- (folgen.west);
-  \draw[line] (kw7.east) -- (folgen.west);
-  \draw[line] (kw8.east) -- (folgen.west);
-  \draw[line] (kw9.east) -- (folgen.west);
-  \draw[line] (kw10.east) -- (folgen.west);
+  \draw[link] (kw1.east) -- (folgen.west);
+  \draw[link] (kw2.east) -- (folgen.west);
+  \draw[link] (kw3.east) -- (folgen.west);
+  \draw[link] (kw4.east) -- (folgen.west);
+  \draw[link] (kw5.east) -- (folgen.west);
+  \draw[link] (kw6.east) -- (folgen.west);
+  \draw[link] (kw7.east) -- (folgen.west);
+  \draw[link] (kw8.east) -- (folgen.west);
+  \draw[link] (kw9.east) -- (folgen.west);
+  \draw[link] (kw10.east) -- (folgen.west);
 
   \draw[line] (folgen) -- node[right]{nachgelagert} (impl);
-  \node[above=2mm of folgen] {Kopplung Schlagworte $\rightarrow$ Folgen};
+  \node[above=2mm of folgen] {Kopplung Schlagworte $\leftrightarrow$ Folgen};
   \end{tikzpicture}
   \captionsetup{justification=justified,singlelinecheck=false}
   \caption{Kopplung von Schlagworten, Folgen und Implikationen.}
