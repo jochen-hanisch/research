@@ -5,9 +5,13 @@
 ---
 
 #todo Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
+
 #todo 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes.
+
 #todo 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
+
 #todo Ende 2.1: kurzes Zwischenfazit (welche Bausteine gehen in Modell 2.3, welche werden in Kap. 4 wieder aufgegriffen).
+
 #todo Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
 
 ---
