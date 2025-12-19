@@ -2,12 +2,11 @@
 
 # 7 Conclusio und Ausblick {#sec:Conclusio}
 
-## 7.0 Manifestartiger Abschluss: Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
+## 7.1 Manifestartiger Abschluss: Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
 Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
-### 7.0.1 Was den digitalen Bildungsraum im Inneren zusammenhält {#sec:Conclusio-Welt-im-Inneren}
-
+### 7.1.1 Was den digitalen Bildungsraum im Inneren zusammenhält {#sec:Conclusio-Welt-im-Inneren}
 Frei nach Goethes *Faust*: Entscheidend ist, „was die Welt im Inneren zusammenhält“ – hier: was den digitalen Bildungsraum als Wirkgefüge stabilisiert, bevor einzelne Funktionen oder Oberflächen überhaupt als „wirksam“ erscheinen.
 
 Im Material dieser Arbeit zeigt sich ein Dreiklang, der die Interdependenzen bündelt und als Leseanweisung für die folgenden Thesen dient (vgl. \hyperref[sec:Ergebnisse]{Kapitel 5} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}):
@@ -74,15 +73,15 @@ Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. 
 
 Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
-## 7.1 Zusammenfassung der zentralen Ergebnisse {#sec:Conclusio-Zusammenfassung}
+## 7.2 Zusammenfassung der zentralen Ergebnisse {#sec:Conclusio-Zusammenfassung}
 
-### 7.1.1 Fazitformel: Was das Wirkgefüge des digitalen Bildungsraums ist {#sec:Conclusio-Wirkgefuege-Definition}
+### 7.2.1 Fazitformel: Was das Wirkgefüge des digitalen Bildungsraums ist {#sec:Conclusio-Wirkgefuege-Definition}
 
 Im Ergebnis dieser Arbeit lässt sich das Wirkgefüge des digitalen Bildungsraums als ein interdependentes System beschreiben, in dem Wirkungen aus Koppelungen entstehen: zwischen didaktischer Strukturierung, technischer Architektur (LMS‑Interface, Datenlogik, Steuerungsfunktionen) und sozial‑organisationaler Praxis (Rollen, Regeln, Ressourcen, Kultur). Der digitale Bildungsraum ist damit als operative Ordnung zu fassen, die (a) Wahrnehmung und Orientierung strukturiert, (b) Handlungen ermöglicht und begrenzt, (c) Rückkopplung organisiert und (d) diese Rückkopplung wiederum in Steuerungsentscheidungen und Lernpfade einspeist. Genau diese Kopplungsstruktur wird in den Ergebnissen als wiederkehrendes Muster sichtbar (vgl. \hyperref[sec:Ergebnisse]{Kapitel 5}) und in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} als Interdependenzformel präzisiert.
 
 Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[fh]{Kapitel 1}): Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
 
-### 7.1.2 Wie diese Verdichtung in der Arbeit hergeleitet wird {#sec:Conclusio-Wirkgefuege-Herleitung}
+### 7.2.2 Wie diese Verdichtung in der Arbeit hergeleitet wird {#sec:Conclusio-Wirkgefuege-Herleitung}
 
 Die Herleitung folgt der Logik des Gesamtaufbaus:
 
@@ -92,7 +91,7 @@ Die Herleitung folgt der Logik des Gesamtaufbaus:
 4. **Empirische Verdichtung und Hypothesenbildung**: Kapitel 5 beantwortet die Forschungsunterfragen entlang der Kernbereiche und führt die Triangulation in Arbeitshypothesen über (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}). Kapitel 6 prüft diese Verdichtung als Interdependenzargumentation und klärt, weshalb positive und negative Wirkungsrichtungen strukturell gekoppelt sind (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 5. **Rechnerische Spur der Kopplungsdynamik**: Ergänzend wird in Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} eine Kopplungsindikatorik eingeführt, die Unsicherheiten aus den Ergebnissen in eine Zeitlogik überführt. Diese Indikatorik (vgl. \hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}) erhebt keinen empirischen Messanspruch; sie dient als formalisierte Verdichtung, um Kippstellen und Stabilisierung als modellinterne Spur darstellbar zu machen.
 
-### 7.1.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
+### 7.2.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
 
 Die Ergebnisse machen das Wirkgefüge sichtbar, indem sie wiederkehrende Koppelungen pro Kernbereich rekonstruieren:
 
@@ -118,13 +117,7 @@ FU$_{2b}$ ergänzt die Verdichtung um Lehrendenbedingungen: Kompetenzanforderung
 
 In der Summe entsteht damit ein konsistentes Bild: Das Wirkgefüge des digitalen Bildungsraums ist die Koppelungsarchitektur, die zwischen Gestaltung, Nutzung und Rahmung vermittelt, Rückkopplung organisiert und dadurch Wirkungen als Wahrscheinlichkeitsmuster stabilisiert oder destabilisiert (vgl. \hyperref[sec:Ergebnisse-Zusammenfassung]{Abschnitt 5.4} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 
-Die Kopplung von Suchergebnissen, Schlagworten, Folgen und Implikationen wird hier als strukturelle Kopplung i.S.v. @luhmann_gesellschaft_2015 bzw. @luhmann_soziale_2018 gefasst. Die Ebenen bleiben eigenlogisch und werden wechselseitig anschlussfaehig gemacht. Die folgende Abbildung (Abb.~\ref{fig:schlagworte-mapping}) zeigt, wie die Schlagworte aus der Analyse erster Ordnung als Korpus-Signaturen auf die Synthese-Kategorien der Conclusio bezogen werden.
-
-```{=latex}
-\input{08 Metaquellen/08-01 Abbildungen/prozesse/schlagworte-mapping.tex}
-```
-
-## 7.2 Theoretische Schlussfolgerungen {#sec:Conclusio-Theorie}
+## 7.3 Theoretische Schlussfolgerungen {#sec:Conclusio-Theorie}
 
 Die zentrale theoretische Schlussfolgerung lautet: Der digitale Bildungsraum ist angemessen als Wirkgefüge beschreibbar, wenn Theorie und Empirie konsequent auf Koppelungen, Rückkopplung und Interdependenzen ausgerichtet werden. Kapitel 2 hat diese Perspektive vorbereitet, indem es (a) die systemisch‑konstruktivistische Theorie als Grundlage der Beobachtung und Gestaltung etabliert (\hyperref[sec:Systemisch-konstruktivistische-Theorie]{Abschnitt 2.2.2}) und (b) die Dynamik des Bildungswirkgefüges als System mit Regeneration, Störung und Entkopplungsrisiken modelliert (\hyperref[sec:SystemischeDynamik]{Abschnitt 2.5}). Kapitel 5 zeigt, dass sich diese theoretische Rahmung im Material als rekurrentes Muster bestätigt: Wirkungen treten als gekoppelte Wirkungsrichtungen auf, deren Stabilität von Strukturierung, Sichtbarkeit, Rückkopplung, Steuerung und sozial‑organisationaler Einbettung abhängt (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}). Kapitel 6 präzisiert diese Einsicht als Interdependenzargumentation (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 
@@ -142,7 +135,23 @@ Die Grundform der Interdependenz lässt sich dabei als strukturelle Kopplung im 
 
 Diese Perspektive erklärt, wie didaktische Sinnordnung, technische Operationslogik und organisationale Entscheidungsstrukturen aneinander anschlussfähig werden und dadurch Wirkung als Wahrscheinlichkeitsmuster hervorbringen.
 
-## 7.3 Praktische Implikationen {#sec:Conclusio-Praxis}
+### 7.3.1 Ordnungsstruktur der Schlussverdichtung
+
+Die Kopplung von Suchergebnissen, Schlagworten, Folgen und Implikationen wird im Folgenden als strukturelle Kopplung im Sinne der Systemtheorie gefasst (vgl. @luhmann_gesellschaft_2015; @luhmann_soziale_2018). Die Ebenen bleiben eigenlogisch und werden wechselseitig anschlussfaehig gemacht. Abbildung~\ref{fig:schlagworte-mapping} visualisiert diese Kopplungsarchitektur und zeigt, wie die im Rahmen der Analysen erster Ordnung gewonnenen Schlagworte als Elemente der Korpusstruktur in Beziehung zur synthetischen Ebene der Folgen und zu den daraus nachgelagerten Implikationen gesetzt werden.
+
+```{=latex}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/schlagworte-mapping.tex}
+```
+
+In Abbildung~\ref{fig:schlagworte-mapping} dargestellte Kopplungen sind nicht kausal zu einzuordnen. Schlagworte fungieren als strukturierende Begriffsanker der Analysen erster Ordnung und markieren wiederkehrende semantische Verdichtungen im Literaturkorpus. Sie stellen keine erklaerenden Variablen dar, sondern dienen der begrifflichen Orientierung und der Rueckbindung der Synthese an das Material. Als heuristische Orientierung dienten die im Literaturkorpus sichtbar gewordenen Korrelationsmuster der Indizes (\hyperref[fig:A-kor-indizes]{Abb.~A.4.8}); entlang dieser Struktur wurden die empirischen Befunde zu den dargestellten Folgen zusammengefuehrt.
+
+Die Ebene der Folgen repraesentiert eine analytische Verdichtung beobachtbarer Wirkungsdimensionen und Nebenfolgen, die aus der Zusammenfuehrung der empirischen Ergebnisse hervorgeht. Implikationen sind dieser Ebene nachgelagert und bezeichnen keine Wirkungen selbst, sondern abgeleitete Konsequenzen fuer Gestaltung, Steuerung und Forschung. Die räumliche Anordnung der Schlagworte folgt dabei keinem inhaltlichen Ranking und keiner Wirkungszuschreibung. Sie orientiert sich vielmehr an dieser Struktur, die im Rahmen der Literaturauswertung ermittelt wurde. Diese Ordnungsentscheidung dient ausschliesslich der strukturellen Uebersicht und begruendet keine zusaetzliche Interpretation oder Gewichtung einzelner Begriffe.
+
+#todo weiter mit [[Folgen.md]] und [[Implikationen.md]].
+
+### 7.3.2 Folgerungen aus den Ergebnissen {#sec:Conclusio-Folgerungen}
+
+### 7.3.3 Praktische Implikationen {#sec:Conclusio-Implikationen}
 
 - Empfehlungen für die Gestaltung und Implementierung von Learning Management System (LMS). 
 - Hinweise für Bildungsinstitutionen und Lehrpraxis.
