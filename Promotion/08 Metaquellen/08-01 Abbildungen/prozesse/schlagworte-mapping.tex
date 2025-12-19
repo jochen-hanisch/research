@@ -1,47 +1,29 @@
 \begin{figure}[H]
   \centering
   \begin{tikzpicture}[
-    node distance=4mm and 8mm,
+    node distance=4mm and 10mm,
     font=\scriptsize,
     >=Latex,
     every node/.style={align=center},
-    kw/.style={rectangle, draw, rounded corners, fill=blue!5, text width=3.0cm, inner sep=2pt},
+    kw/.style={rectangle, draw, rounded corners, fill=blue!5, text width=6.4cm, inner sep=3pt},
     outbox/.style={rectangle, draw, rounded corners, fill=green!8, text width=4.4cm, inner sep=3pt},
     line/.style={->, thick},
     link/.style={<->, thick}
   ]
 
-  \node[kw] (kw1) {Datenschutz und IT-Sicherheit};
-  \node[kw, below=of kw1] (kw2) {Krisenreaktion im Bildungsbereich};
-  \node[kw, below=of kw2] (kw3) {Lernsystemarchitektur};
-  \node[kw, below=of kw3] (kw4) {Bewertungsmethoden};
-  \node[kw, below=of kw4] (kw5) {Kollaboratives Lernen};
+  \node[kw] (kw) {Schlagworte (Analyse 1.~Ordnung)\\
+  \textit{Datenschutz und IT-Sicherheit; Krisenreaktion im Bildungsbereich; Lernsystemarchitektur; Bewertungsmethoden; Kollaboratives Lernen; Bildungstheorien; Forschungsans\"atze; Systemanpassung; Lehr- und Lerneffektivit\"at; Technologieintegration}};
 
-  \node[kw, right=of kw1, xshift=2mm] (kw6) {Bildungstheorien};
-  \node[kw, below=of kw6] (kw7) {Forschungsans\"atze};
-  \node[kw, below=of kw7] (kw8) {Systemanpassung};
-  \node[kw, below=of kw8] (kw9) {Lehr- und Lerneffektivit\"at};
-  \node[kw, below=of kw9] (kw10) {Technologieintegration};
-
-  \node[outbox, right=10mm of kw3] (folgen) {Folgen\\Wirkungsdimensionen\\St\"orungen/Nebenfolgen};
+  \node[outbox, right=12mm of kw] (folgen) {Folgen\\Wirkungsdimensionen\\St\"orungen/Nebenfolgen};
   \node[outbox, below=12mm of folgen] (impl) {Implikationen\\Organisation/Implementierung\\Technik/Daten\\Recht/Ethik\\Forschung/Evaluation};
 
-  \draw[link] (kw1.east) -- (folgen.west);
-  \draw[link] (kw2.east) -- (folgen.west);
-  \draw[link] (kw3.east) -- (folgen.west);
-  \draw[link] (kw4.east) -- (folgen.west);
-  \draw[link] (kw5.east) -- (folgen.west);
-  \draw[link] (kw6.east) -- (folgen.west);
-  \draw[link] (kw7.east) -- (folgen.west);
-  \draw[link] (kw8.east) -- (folgen.west);
-  \draw[link] (kw9.east) -- (folgen.west);
-  \draw[link] (kw10.east) -- (folgen.west);
+  \draw[link] (kw) -- (folgen);
 
-  \draw[line] (folgen) -- node[right]{nachgelagert} (impl);
-  \node[above=2mm of folgen] {Kopplung Schlagworte $\leftrightarrow$ Folgen};
+  \draw[line] (folgen) -- node[right, font=\footnotesize\itshape]{nachgelagert} (impl);
+  \node[above=2mm of folgen, font=\footnotesize\itshape] {Ordnung der Schlagworte entlang der Indexstruktur};
   \end{tikzpicture}
   \captionsetup{justification=justified,singlelinecheck=false}
   \caption{Kopplung von Schlagworten, Folgen und Implikationen.}
-  \caption*{\footnotesize Die Kopplungen sind nicht kausal gemeint. Schlagworte fungieren als strukturierende Begriffsanker. Implikationen sind den Folgen nachgelagert. Die Reihenfolge der Schlagworte folgt der Korrelationsstruktur der Indizes, vgl. Abb.~\ref{fig:A-kor-indizes}.}
+  \caption*{\footnotesize Schematische Darstellung mit drei Ebenen: Schlagworte (Analyse 1. Ordnung) als Sammelkasten, daran gekoppelt die Folgen als Wirkungsdimensionen und Stoerungen/Nebenfolgen sowie darunter die Implikationen mit den Feldern Organisation/Implementierung, Technik/Daten, Recht/Ethik und Forschung/Evaluation.}
   \label{fig:schlagworte-mapping}
 \end{figure}
