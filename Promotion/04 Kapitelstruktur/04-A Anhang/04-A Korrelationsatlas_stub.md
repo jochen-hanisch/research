@@ -6,18 +6,17 @@ Hinweis: Die vollständigen Korrelationsmatrizen, Pfad-, Sankey- und Netzwerkdia
 des Literaturkorpus sind in der Full-Build-Version der Dissertation enthalten.
 
 ```{=latex}
-\label{fig:A-kor-fu}
-\label{fig:A-kor-fu-suchbegriffe}
-\label{fig:A-kor-fu-kategorien}
-\label{fig:A-kor-fu-indizes}
-\label{fig:A-kor-suchbegriffe}
-\label{fig:A-kor-suchbegriffe-kategorien}
-\label{fig:A-kor-kategorien}
-\label{fig:A-kor-indizes}
-\label{fig:A-kor-indizes-kategorien}
-\label{fig:A-kor-indizes-suchbegriffe}
-\label{fig:A-path-diagram}
-\label{fig:A-sankey-diagram}
-\label{fig:A-network-suchergebnisse}
+\refstepcounter{figure}\label{fig:A-kor-fu}
+\refstepcounter{figure}\label{fig:A-kor-fu-suchbegriffe}
+\refstepcounter{figure}\label{fig:A-kor-fu-kategorien}
+\refstepcounter{figure}\label{fig:A-kor-fu-indizes}
+\refstepcounter{figure}\label{fig:A-kor-suchbegriffe}
+\refstepcounter{figure}\label{fig:A-kor-suchbegriffe-kategorien}
+\refstepcounter{figure}\label{fig:A-kor-kategorien}
+\refstepcounter{figure}\label{fig:A-kor-indizes}
+\refstepcounter{figure}\label{fig:A-kor-indizes-kategorien}
+\refstepcounter{figure}\label{fig:A-kor-indizes-suchbegriffe}
+\refstepcounter{figure}\label{fig:A-path-diagram}
+\refstepcounter{figure}\label{fig:A-sankey-diagram}
+\refstepcounter{figure}\label{fig:A-network-suchergebnisse}
 ```
-
