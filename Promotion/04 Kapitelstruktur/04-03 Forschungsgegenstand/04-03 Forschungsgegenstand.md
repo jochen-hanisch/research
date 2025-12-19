@@ -60,6 +60,8 @@ Weiter mit Schule
 
 Weiter mit HRT
 
+#todo Platzhalter-Notizen („Weiter mit …“) durch ausformulierte Abschnitte ersetzen: (a) schulische/organisationale Einbettung (Träger, Schule, Lernorte, Verantwortlichkeiten) und (b) HRT-spezifische Anforderungen (Entscheidungsdruck, Fehlerfolgen, Kompetenz-/Transferlogik) als Begründung der besonderen Kontextbedingungen des Untersuchungsfalls.
+
 
 
 
@@ -73,6 +75,9 @@ Die folgenden Abschnitte zeigen, wie sich das System von den ersten konzeptionel
 #todo Redundanz vermeiden! Nur auf eigene Arbeiten beziehen, die in Kapitel 2 nicht behandelt wurden. 
 
 Zentrale wissenschaftliche und konzeptionelle Grundlagen des hier untersuchten Learning Management Systems sind Ergebnisse aus eigenen Untersuchungen, inwiefern Einflussfaktoren Zeit, Struktur und Interaktion Effekte auf nachhaltiges Wissensmanagement durch Kollaborationstools haben, die anhand von selbstorganisierten Gruppenarbeitsergebnissen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern evaluiert wurden [@hanisch_nachhaltiges_2017].
+
+#todo Vor Finalisierung: RH1–RH3 klar als Hypothesen/Vorbefunde aus der Vorarbeit (nicht als Hypothesen der Dissertation) markieren; im Fließtext stärker die daraus abgeleitete Begründung für die Dissertation (Mechanismen/Wirkgefüge im LMS) betonen und ggf. Ergebnisse/Schlussfolgerungen vor die Hypothesenliste ziehen, um Verwirrung zu vermeiden.
+
 In den eigenen Untersuchungen wurden drei Hypothesen geprüft, die sich auf die Effekte der Einflussfaktoren Zeit, Struktur und Interaktion auf nachhaltiges Wissensmanagement durch Kollaborationstools beziehen. Grundannahme war, dass Lernen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern autopoietisch und selbstorganisiert verläuft (s. \hyperref[sec:Systemisch-konstruktivistische-Theorie]{Kapitel 2.1.2}), und dass insbesondere die zeitliche Verfügbarkeit von Lernergebnissen entscheidend für deren nachhaltige Aneignung ist [@hanisch_nachhaltiges_2017, Kapitel 3.4, Abbildung 2]:
 
 - RH1, die zeitliche Erfassung und Verfügbarkeit betreffend, konnte deutlich bestätigt werden. Der höchste Effekt wurde für die Variable PV1b (Verfügbarkeit) mit einem Regressionskoeffizienten von β = -1,213 nachgewiesen.
@@ -146,6 +151,8 @@ Die Skizze dient im Folgenden als Referenzstruktur: Sie macht sichtbar, welche A
 Abbildung 1: Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 2016)
 
 +++++ Abbildung 1 hier einfügen +++++
+
+#todo Abbildung 1 ersetzen: tatsächliche Grafikdatei/Scan einbinden (inkl. Quelle/Datum), konsistente Caption + Subcaption (Was wird gezeigt? Warum ist sie für den Forschungsgegenstand relevant?).
 
 Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learning Management Systems. Die Skizze zeigt erste Überlegungen zur Verschränkung von Lernorten, Selbststeuerung und Aufgabenstruktur als Grundlage einer systemisch-konstruktivistisch orientierten Ausbildungsarchitektur.
 

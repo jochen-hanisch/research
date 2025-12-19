@@ -45,9 +45,13 @@ Zur Beantwortung der Forschungsfragen wurde ein mehrstufiger, systematischer Lit
 
 ### 1.1.2 Problemstellung {#sec:Problemstellung}
 
+#todo Abschnitt ausformulieren: Problemstellung knapp, gutachtentauglich und gegenstandsnah (Kontext Gesundheitsberufe/HRT, LMS als sozio-technisch-didaktische Struktur, empirisch beobachtetes Wirkungspotenzial vs. ungeklärte Mechanismen); mit 2–4 zentralen Belegen.
+
 Text
 
 ### 1.1.3 Thematische Relevanz {#sec:Themenrelevanz}
+
+#todo Abschnitt ausformulieren: thematische Relevanz (bildungswissenschaftlich + bildungstechnologisch) und Abgrenzung (warum genau dieses LMS/Setting, warum Fokus auf Wirkgefüge statt Funktionsliste); Anschluss an Prüfungsordnung/Umfang herstellen.
 
 Text
 
@@ -81,6 +85,7 @@ Die intendierte Wirkung dieser Dissertation besteht darin, die Forschungsstruktu
 - [ ] legt den Stand der Forschung dar und entwickelt die Fragestellung. 
 
 #todo: - Forschungsstand und Forschungslücke prägnant benennen.
+#todo Vor Finalisierung: Checklisten-/Platzhalter-Elemente (Checkboxen, „Text“) in Fließtext überführen; Stand der Forschung als strukturierte Synthese (nicht nur Einzelstudien), Forschungslücke explizit aus mehreren Belegen + bibliometrischen Befunden ableiten.
 
 Die systematische Literaturrecherche zeigt, dass bisherige Studien vor allem auf die Evaluation einzelner LMS-Funktionen und deren unmittelbare Auswirkungen auf Lernende fokussieren. Es existieren zahlreiche Untersuchungen, die die Effektivität von E-Learning-Plattformen in der medizinischen Ausbildung bewerten [@ataei_effective_2020; @jones_evaluation_2021]. Diese Studien liefern wertvolle Einblicke in spezifische Aspekte wie Benutzerfreundlichkeit, Zugänglichkeit und Lernmotivation. Allerdings fehlt es an umfassenden Analysen, die die komplexen Wechselwirkungen zwischen technologischen, didaktischen und sozialen Komponenten eines LMS im Kontext der Kompetenzentwicklung systematisch untersuchen.
 
