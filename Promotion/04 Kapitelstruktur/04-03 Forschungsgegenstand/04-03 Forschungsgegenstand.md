@@ -60,7 +60,7 @@ Weiter mit Schule
 
 Weiter mit HRT
 
-#todo Platzhalter-Notizen („Weiter mit …“) durch ausformulierte Abschnitte ersetzen: (a) schulische/organisationale Einbettung (Träger, Schule, Lernorte, Verantwortlichkeiten) und (b) HRT-spezifische Anforderungen (Entscheidungsdruck, Fehlerfolgen, Kompetenz-/Transferlogik) als Begründung der besonderen Kontextbedingungen des Untersuchungsfalls.
+#todo (#37) Platzhalter-Notizen („Weiter mit …“) durch ausformulierte Abschnitte ersetzen: (a) schulische/organisationale Einbettung (Träger, Schule, Lernorte, Verantwortlichkeiten) und (b) HRT-spezifische Anforderungen (Entscheidungsdruck, Fehlerfolgen, Kompetenz-/Transferlogik) als Begründung der besonderen Kontextbedingungen des Untersuchungsfalls.
 
 
 
@@ -72,11 +72,11 @@ Die folgenden Abschnitte zeigen, wie sich das System von den ersten konzeptionel
 
 ### 3.2.1 Entstehungskontext und konzeptionelle Grundlagen {#sec:Entstehung-Konzept}
 
-#todo Redundanz vermeiden! Nur auf eigene Arbeiten beziehen, die in Kapitel 2 nicht behandelt wurden. 
+#todo (#38) Redundanz vermeiden! Nur auf eigene Arbeiten beziehen, die in Kapitel 2 nicht behandelt wurden. 
 
 Zentrale wissenschaftliche und konzeptionelle Grundlagen des hier untersuchten Learning Management Systems sind Ergebnisse aus eigenen Untersuchungen, inwiefern Einflussfaktoren Zeit, Struktur und Interaktion Effekte auf nachhaltiges Wissensmanagement durch Kollaborationstools haben, die anhand von selbstorganisierten Gruppenarbeitsergebnissen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern evaluiert wurden [@hanisch_nachhaltiges_2017].
 
-#todo Vor Finalisierung: RH1–RH3 klar als Hypothesen/Vorbefunde aus der Vorarbeit (nicht als Hypothesen der Dissertation) markieren; im Fließtext stärker die daraus abgeleitete Begründung für die Dissertation (Mechanismen/Wirkgefüge im LMS) betonen und ggf. Ergebnisse/Schlussfolgerungen vor die Hypothesenliste ziehen, um Verwirrung zu vermeiden.
+#todo (#39) Vor Finalisierung: RH1–RH3 klar als Hypothesen/Vorbefunde aus der Vorarbeit (nicht als Hypothesen der Dissertation) markieren; im Fließtext stärker die daraus abgeleitete Begründung für die Dissertation (Mechanismen/Wirkgefüge im LMS) betonen und ggf. Ergebnisse/Schlussfolgerungen vor die Hypothesenliste ziehen, um Verwirrung zu vermeiden.
 
 In den eigenen Untersuchungen wurden drei Hypothesen geprüft, die sich auf die Effekte der Einflussfaktoren Zeit, Struktur und Interaktion auf nachhaltiges Wissensmanagement durch Kollaborationstools beziehen. Grundannahme war, dass Lernen in der Qualifikation von Notfallsanitäterinnen und Notfallsanitätern autopoietisch und selbstorganisiert verläuft (s. \hyperref[sec:Systemisch-konstruktivistische-Theorie]{Kapitel 2.1.2}), und dass insbesondere die zeitliche Verfügbarkeit von Lernergebnissen entscheidend für deren nachhaltige Aneignung ist [@hanisch_nachhaltiges_2017, Kapitel 3.4, Abbildung 2]:
 
@@ -152,7 +152,7 @@ Abbildung 1: Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 20
 
 +++++ Abbildung 1 hier einfügen +++++
 
-#todo Abbildung 1 ersetzen: tatsächliche Grafikdatei/Scan einbinden (inkl. Quelle/Datum), konsistente Caption + Subcaption (Was wird gezeigt? Warum ist sie für den Forschungsgegenstand relevant?).
+#todo (#40) Abbildung 1 ersetzen: tatsächliche Grafikdatei/Scan einbinden (inkl. Quelle/Datum), konsistente Caption + Subcaption (Was wird gezeigt? Warum ist sie für den Forschungsgegenstand relevant?).
 
 Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learning Management Systems. Die Skizze zeigt erste Überlegungen zur Verschränkung von Lernorten, Selbststeuerung und Aufgabenstruktur als Grundlage einer systemisch-konstruktivistisch orientierten Ausbildungsarchitektur.
 
@@ -211,7 +211,7 @@ Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedin
 
 Abbildung 4: Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz)
 
-#todo Abbildung 4 hier einfügen
+#todo (#41) Abbildung 4 hier einfügen
 
 Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Organisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
 
@@ -225,7 +225,7 @@ Die Einführung dient der strukturellen Rahmung jeder Handlungssituation. Hier w
 
 Abbildung 5: LMS Kurs Einführung (eig. Darstellung)
 
-#todo: Abbildung einfügen prüfen
+#todo (#42): Abbildung einfügen prüfen
 
 Die Abbildung zeigt die strukturelle Umsetzung des Containers „Einführung“, der grundlegende Informationen zur Kursleitung, Zielstellung und Orientierung innerhalb des Ausbildungsgangs bereitstellt.
 
@@ -235,7 +235,7 @@ Der Container in Abbildung 6 stellt zentrale Materialien zur Verfügung, die fü
 
 Abbildung 6: LMS Kurs Ressourcen (eig. Darstellung)
 
-#todo: Abbildung einfügen prüfen
+#todo (#43): Abbildung einfügen prüfen
 
 Die Abbildung zeigt die Bereitstellung zentraler Lernmaterialien in strukturierter Form. Die Materialien orientieren sich an curricularen Kompetenzanforderungen und bilden die inhaltliche Grundlage für die Bearbeitung der Aufgaben innerhalb der jeweiligen Handlungssituation.
 
@@ -246,7 +246,7 @@ Die Aufgabenstellungen werden durch didaktisch begründete Operatoren formuliert
 
 Abbildung 7: LMS Kurs Aufgaben (eig. Darstellung)
 
-#todo: Abbildung einfügen prüfen
+#todo (#44): Abbildung einfügen prüfen
 
 Die Abbildung zeigt beispielhafte Aufgabenformate zur Bearbeitung beruflicher Handlungssituationen. Operatoren und strukturierte Aufgabenbereiche ermöglichen eine kompetenzorientierte Formulierung und eine praxisnahe Umsetzung curricularer Anforderungen.
 Die lernleitenden Aufgaben sind inhaltlich eng mit den bereitgestellten Ressourcen verknüpft, was in der Regel durch die Quellenangaben bei der Aufgabendarlegung gewährleistet wird. Eine beispielhafte Aufgabenstellung lautet bspw. in der beruflichen Handlungssituation 1: Einführung in die Berufsausbildung Notfallsanitäter (Hanisch-Johannsen [@hanisch-johannsen_nfs-h-01_2025]):
@@ -258,7 +258,7 @@ Die Ergebnissicherung ist der didaktisch-strukturelle Abschluss jeder Handlungss
 
 Abbildung 8: LMS Kurs Ergebnissicherung (eig. Darstellung)
 
-#todo: Abbildung einfügen prüfen
+#todo (#45): Abbildung einfügen prüfen
 
 Die Darstellung zeigt die zentralen Elemente der Ergebnissicherung in einem Handlungssituationskurs: ein Wiki und ein Glossar dienen der kollaborativen Dokumentation und Strukturierung von Lernergebnissen. Beide Aktivitäten stehen exemplarisch für die systematische Umsetzung der in Abschnitt 3.2 empirisch begründeten Forderung nach zeitnaher, zugänglicher und formativ nutzbarer Ergebnissicherung im digitalen Bildungsraum.
 
@@ -268,11 +268,11 @@ Weiterführende Quellen
 
 Dieser Container bietet zusätzliche Materialien, die das Verständnis vertiefen, den Kontext erweitern oder das Wissen ergänzen. Er zielt darauf ab, die Lernsituation über den unmittelbaren Aufgabenhorizont hinaus zu öffnen. Die weiterführenden Quellen sind bislang jedoch noch unzureichend ausgearbeitet und müssen in Funktion sowie didaktischer Ausrichtung systematisch neu organisiert werden. Wie in Abbildung 9 aufgezeigt, soll jene Aktivitäten und Materialien sammeln, die über die curricular angebundenen Ressourcen hinausgehen. Während die Ressourcen auf verpflichtende, direkt zugeordnete Inhalte fokussieren, enthalten die weiterführenden Quellen kontextualisierende, aktualisierende oder reflexionsfördernde Inhalte, die eigenständige Wissensprozesse anregen und vertiefen. Damit wird sichergestellt, dass einerseits aktuelle, wissenschaftlich begründete Literatur zur Verfügung steht und andererseits Transferleistungen möglich werden, die im Sinne der NotSan-APrV  den Anforderungen in besonderem Maß entsprechen (§ 8 NotSan-APrV, 2023). Diese Verankerung ist insbesondere mit Blick auf prüfungsrelevante Anforderungen von Bedeutung. Die Bereitstellung aktueller, evidenzbasierter und interdisziplinärer Quellen eröffnet Lernenden die Möglichkeit, über den Pflichtstoff hinausgehende Leistungen zu erbringen, d.h. als ein zentrales Kriterium für die Erreichung der Bestnote. Gleichzeitig adressiert dieser Bereich Anforderungen an Transferkompetenz und wissenschaftliches Arbeiten, die explizit als „allgemein“ anerkannter Stand „rettungsdienstlicher, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse“ (§ 2 NotSan-APrV, 2023) gefordert werden.
 
-#todo: die neue Entwicklung einführen, d.h. das Forum etc.
+#todo (#46): die neue Entwicklung einführen, d.h. das Forum etc.
 
 Abbildung 9: LMS Kurs Weiterführende Quellen (eig. Darstellung)
 
-#todo: Abbildung einfügen prüfen
+#todo (#47): Abbildung einfügen prüfen
 
 Der Container „Weiterführende Quellen“ enthält eine strukturierte Sammlung ergänzender Literatur, Datenbanken und wissenschaftlicher Ressourcen zur Vertiefung und Kontextualisierung der Lerninhalte. Die Auswahl umfasst fachliche Leitlinien, Verzeichnisse medizinischer Fachgesellschaften, Plattformen für wissenschaftliches Arbeiten sowie kuratierte Blogs und evidenzbasierte Onlineportale. Die Liste ist dynamisch angelegt und kann im Sinne einer lernenden Organisation durch die Lernenden fortlaufend erweitert werden. Ziel ist die Förderung wissenschaftsorientierter Transferleistungen im Sinne einer prüfungsrelevanten Vertiefung gemäß § 8 NotSan-APrV.
 
@@ -286,7 +286,7 @@ Dieser Bereich unterstützt bei der formativen Rückmeldung. Im LMS ist hierfür
 
 Alle hier dargestellten Elemente sind zudem mit dem Kompetenzraster verbunden, welches
 
-#todo: Kompetenzraster ausführlich beschreiben.
+#todo (#48): Kompetenzraster ausführlich beschreiben.
 
 Diese Verbindung stellt sicher, dass alle didaktischen Maßnahmen und curricularen Strukturen systematisch auf die im Kompetenzraster definierten Lernziele ausgerichtet sind.
 
@@ -336,37 +336,37 @@ Auch die Verteilung der Kompetenzbereiche (vgl. Abbildung 9) wurde rekonstruiert
 
 Abbildung 10: Anteil der Themenbereiche nach APrV (eig. Darstellung)
 
-#todo: Abbildung einfügen
+#todo (#49): Abbildung einfügen
 
 Die Abbildung  visualisiert die prozentuale Verteilung der inhaltlichen Themenbereiche gemäß Anlage 1 der Ausbildungs- und Prüfungsverordnung für Notfallsanitäter*innen (NotSan-APrV). Diese drei Themenbereiche – medizinisch (27 %), rettungsdienstlich (47 %) und bezugswissenschaftlich (26 %) – bilden die normative Grundlage des theoretischen und praktischen Unterrichts über 1.920 Stunden (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44, 47). Der größte Anteil entfällt auf rettungsdienstliche Inhalte, was den praktischen Handlungsschwerpunkt des Berufsbildes reflektiert. Der medizinische Bereich steht für die Anwendung pathophysiologischer und diagnostischer Kenntnisse, während bezugswissenschaftliche Inhalte (z. B. Psychologie, Kommunikation, Recht) die theoretische Fundierung ergänzen. Die Darstellung dient als Referenzwert für den Abgleich mit der empirischen Struktur des digitalen Curriculums.
 
 Abbildung 11: Anteil der Kompetenzbereiche nach APrV (eig. Darstellung)
 
-#todo: Abbildung einfügen
+#todo (#50): Abbildung einfügen
 
 Die Abbildung  zeigt, bezogen auf den Gesamtumfang der Ausbildung, die in der NotSan-APrV verankerte Kompetenzgewichtung. Die vier Kompetenzbereiche – fachlich (24 %), sozial (15 %), personal (11 %) und methodisch (50 %) – definieren die Zielstruktur beruflicher Handlungskompetenz im Rettungsdienst (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 47). Der besonders hohe Anteil methodischer Kompetenzen spiegelt die Bedeutung strukturierter Vorgehensweisen, Entscheidungsalgorithmen und standardisierter Handlungsroutinen im beruflichen Alltag wider. Fachliche, soziale und personale Anteile ergänzen diesen Schwerpunkt um domänenspezifisches Wissen, Interaktionsfähigkeit und individuelle Reflexionsfähigkeit. Die Darstellung dient als normativer Referenzrahmen zur Bewertung des digital abgebildeten Curriculums im Hinblick auf seine kompetenzorientierte Ausrichtung.
 
 Abbildung 12: Vergleich Themengewichtung APrV-Schätzung vs. NFS-H-Lehrplan (eig. Darstellung)
 
-#todo: Abbildung einfügen
+#todo (#51): Abbildung einfügen
 
 Die Balkengrafik  kontrastiert die normativ vorgegebene Verteilung der Themenbereiche gemäß NotSan-APrV mit der empirisch erhobenen Verteilung im digitalen Curriculum „NFS-H“. Während die APrV eine Gewichtung von 47 % rettungsdienstlich, 27 % medizinisch und 26 % bezugswissenschaftlich vorgibt (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44, 47), zeigt die Umsetzung im Curriculum eine nahezu deckungsgleiche Relation (Ø Kursdauer: 57,0 / 27,2 / 21,3 Tage). Die hohe Übereinstimmung verdeutlicht, dass die digitale Bildungsarchitektur nicht nur formal regelkonform ist, sondern auch inhaltlich anschlussfähig zur gesetzlichen Grundlage gestaltet wurde. Damit wird eine zentrale Voraussetzung für die curriculare Validität erfüllt.
 
 Abbildung 13: Kompetenzgewichtung APrV-Schätzung vs. NFS-H-Lehrplan (eig. Darstellung)
 
-#todo: Abbildung einfügen
+#todo (#52): Abbildung einfügen
 
 Die Abbildung  vergleicht die vier Kompetenzbereiche fachlich, sozial, personal und methodisch hinsichtlich ihres relativen Anteils an der curricularen Kursdauer. Die normativen Vorgaben der NotSan-APrV (z. B. 50 % methodisch, 24 % fachlich) werden den empirisch ermittelten Anteilen im Curriculum gegenübergestellt. Die Daten zeigen, dass die Gewichtung der Kompetenzbereiche im digitalen Lehrplan des „NFS-H“ weitgehend der gesetzlich intendierten Verteilung (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 47) entspricht. Die methodische Dominanz in beiden Perspektiven legt nahe, dass die Ausbildung nicht nur auf inhaltliche Vermittlung, sondern auch auf handlungsbezogene Umsetzung im Sinne einer professionellen Handlungskompetenz zielt. Die Parallelität unterstützt somit die Annahme einer curriculären Implementierung.
 
 Abbildung 14: Verteilung der Aufgaben pro Themenbereich (eig. Darstellung)
 
-#todo: Abbildung einfügen
+#todo (#53): Abbildung einfügen
 
 Die Boxplot-Darstellung  zeigt die Anzahl der Aufgaben in den 32 Kursen, gruppiert nach den Bezugskategorien (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44–45) medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung. Erkennbar ist, dass die rettungsdienstlichen Kurse mit einem Median von über 30 Aufgaben eine deutlich höhere Aufgabenlast aufweisen als die anderen Bereiche. Die bezugswissenschaftlichen Module liegen im unteren Bereich, während medizinische Kurse ein mittleres Aufgabenvolumen abbilden. Die geringe Streuung innerhalb der Themenbereiche und die ausgeprägte Differenzierung zwischen ihnen weisen auf eine strukturierte und differenzierte didaktische Konzeption hin.
 
 Abbildung 15: Verteilung der Kursdauer pro Themenbereich (eig. Darstellung)
 
-#todo: Abbildung einfügen
+#todo (#54): Abbildung einfügen
 
 Die Boxplot-Darstellung  visualisiert die Dauer der 32 Kurse in Tagen, differenziert nach den vier Bezugskategorien (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44–45). Auffällig ist der signifikant höhere Medianwert der rettungsdienstlichen Kurse (Ø 57 Tage), was den inhaltlich-praktischen Anforderungen dieses Bereichs entspricht. Medizinische und bezugswissenschaftliche Kurse weisen deutlich kürzere und zugleich eng beieinanderliegende Dauerverteilungen auf. Die Einführung und Prüfung bilden als Sonderkategorie zwei randständige Ausreißer mit jeweils kurzer Laufzeit. Insgesamt belegt die Verteilung eine hohe curriculare Abstimmung hinsichtlich zeitlicher Allokation und thematischer Komplexität.
 

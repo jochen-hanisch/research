@@ -69,7 +69,7 @@ Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. 
 - Kurzformat (10–12 Thesen): Jede These folgt der Struktur „Dimension – positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Interdependenzsatz – Gestaltungsimpuls“.
 - Langformat (Abschnittsweise Ausarbeitung): Jede Dimension erhält einen kurzen Absatz mit empirischer Verankerung (Kap. 5), theoretischer Rahmung (Kap. 2/3) und Designhinweis (Kap. 6.3).
 - Scharnier zum Ausblick: Die Manifestthesen fungieren als programmatischer Orientierungsrahmen für Forschung und Praxis; der Ausblick (7.5) kann auf Forschungsdesiderate pro Dimension verweisen.
-#todo Kurzformat mit 10–12 Interdependenz-Thesen aus den genannten Dimensionen ausformulieren (Positiv/Negativ/Kopplung/Gestaltungsimpuls).
+#todo (#9) Kurzformat mit 10–12 Interdependenz-Thesen aus den genannten Dimensionen ausformulieren (Positiv/Negativ/Kopplung/Gestaltungsimpuls).
 
 Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
@@ -147,11 +147,11 @@ Die in Abbildung~\ref{fig:schlagworte-mapping} dargestellten Kopplungen sind aus
 
 ### 7.3.2 Folgerungen aus den Ergebnissen {#sec:Conclusio-Folgerungen}
 
-#todo weiter mit [[Folgen.md]]
+#todo (#10) weiter mit [[Folgen.md]]
 
 ### 7.3.3 Praktische Implikationen {#sec:Conclusio-Implikationen}
 
-#todo weiter mit [[Implikationen.md]].
+#todo (#11) weiter mit [[Implikationen.md]].
 
 - Empfehlungen für die Gestaltung und Implementierung von Learning Management System (LMS). 
 - Hinweise für Bildungsinstitutionen und Lehrpraxis.

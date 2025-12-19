@@ -4,15 +4,15 @@
 
 ---
 
-#todo Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
+#todo (#28) Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
 
-#todo 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes.
+#todo (#29) 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes.
 
-#todo 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
+#todo (#30) 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
 
-#todo Ende 2.1: kurzes Zwischenfazit (welche Bausteine gehen in Modell 2.3, welche werden in Kap. 4 wieder aufgegriffen).
+#todo (#31) Ende 2.1: kurzes Zwischenfazit (welche Bausteine gehen in Modell 2.3, welche werden in Kap. 4 wieder aufgegriffen).
 
-#todo Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
+#todo (#32) Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
 
 ---
 
@@ -28,11 +28,11 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 
 \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} schließlich bündelt die vorangegangenen Ebenen in einem Modell der systemischen Dynamik des digitalen Bildungswirkgefüges. Das Modell übersetzt psychologische Trägervariablen, bildungswissenschaftliche Wirkgefüge und medienpädagogische Gestaltungslogiken in Variablen, Kopplungen und Rückkopplungen und ermöglicht so eine dynamische Analyse der Wechselwirkungen zwischen Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS‑Architektur. Die Synthese bildet den theoretischen Übergang zu \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, in dem das Modell im konkreten Setting eines Ausbildungs‑LMS rekonstruiert und empirisch anschlussfähig gemacht wird.
 
-#todo Quellen zur systemisch-konstruktivistischen Bildungswissenschaft, Medienpädagogik und Luhmanns Technologielücke ergänzen (z.B. Arnold, Reich, Siebert, Kerres, Tulodziecki, Luhmann) und mit den jeweiligen Abschnitten (2.1–2.5) verschränken.
+#todo (#33) Quellen zur systemisch-konstruktivistischen Bildungswissenschaft, Medienpädagogik und Luhmanns Technologielücke ergänzen (z.B. Arnold, Reich, Siebert, Kerres, Tulodziecki, Luhmann) und mit den jeweiligen Abschnitten (2.1–2.5) verschränken.
 
 Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig operationalisiert.
 
-#todo Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
+#todo (#34) Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
 
 ## 2.1 Pädagogisch-psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
 \label{term:traegervariablen}
@@ -61,7 +61,7 @@ Dispositionen wie Vorerfahrung, Selbstkonzept oder digitale Kompetenz werden als
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 
-#todo Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
+#todo (#35) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
 
 Text
 
@@ -83,7 +83,7 @@ Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz
 
 ## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand
 
-#todo Abschnitt ausformulieren: medienpädagogische Rahmung (z.B. Medienbildung/Medienkompetenz, Gestaltung digitaler Lernräume) als Brücke von Theorie (Kap. 2) zu Forschungsgegenstand (Kap. 3); explizit machen, welche theoretischen Bausteine später in Methodik/Analysen wieder aufgegriffen werden.
+#todo (#36) Abschnitt ausformulieren: medienpädagogische Rahmung (z.B. Medienbildung/Medienkompetenz, Gestaltung digitaler Lernräume) als Brücke von Theorie (Kap. 2) zu Forschungsgegenstand (Kap. 3); explizit machen, welche theoretischen Bausteine später in Methodik/Analysen wieder aufgegriffen werden.
 
 Text
 
