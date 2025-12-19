@@ -1,54 +1,16 @@
 \newpage
 
-#todo Vor Finalisierung: Arbeits-/Prozessnotizen (z.B. „VORGEHEN“ und Schrittlisten) aus dem Kapitel entfernen oder in ein separates Arbeitsdokument auslagern; im Theorieteil nur argumentativen Fließtext, Belege und Zwischenfazits belassen.
-
-VORGEHEN:
-
-Die Adaption lässt sich jetzt gut durchführen; empfohlen wird eine zweigleisige Herangehensweise: (1) inhaltlich, wie der Theorieteil aufgebaut wird, und (2) prozedural, wie mit den Schlagworten/Indizes gearbeitet wird, sodass das Vorgehen reproduzierbar bleibt.
-
-1. Inhaltliche Adaption von 2.1
-
-In 2.1.2 Systemisch-konstruktivistische Theorie:
-Kurz (ca. 2–3 Seiten) die klassischen Autor:innen (Arnold, Reich, Siebert etc.) entlang weniger Leitkategorien skizzieren: Menschenbild/Lernverständnis, Rolle der Lernumgebung, Implikationen für digitale Bildungsräume.
-Direkt im Anschluss wird zu den aktuellen Quellen übergeleitet, die nach den Indizes/Schlagworten (z.B. „Bildungstheorien“, „Technologieintegration“, „Lehr- und Lerneffektivität“, „kollaboratives Lernen“) geordnet sind; dort werden Gemeinsamkeiten und Unterschiede zu den Klassikern herausgearbeitet.
-In 2.1.3 Bildungstechnologie und Digitalität und 2.1.4 Kompetenzentwicklung:
-Jeweils klar machen, welche Indizes hier besonders relevant sind (z.B. „Technologieintegration“, „Bewertungsmethoden“, „Systemanpassung“, „Krisenreaktion“, „Forschungsansätze“) und exemplarisch 2–3 zentrale, aktuelle Quellen pro Index synthetisieren (kein Autor:innen-Parade, sondern thematische Linien).
-Am Ende von 2.1 ein kurzes Zwischenfazit:
-Welche theoretischen Bausteine aus den Indizes fließen in das Modell (2.3) ein, und wie werden sie später in Methodik/Analysen (Kap. 4) wieder aufgegriffen.
-2. Reproduzierbares Vorgehen mit den Schlagworten/Indizes
-
-Master-Schlagwortliste fixieren
-
-Nutze die in 04-A Analyseprompt.md und in der Indexverteilung (Technologieintegration, Lehr- und Lerneffektivität, Bildungstheorien, kollaboratives Lernen, Bewertungsmethoden, Datenschutz/IT-Sicherheit, Systemanpassung, Krisenreaktion, Forschungsansätze, Lernsystemarchitektur) dokumentierten Begriffe als feste Indizes für den Theorieteil.
-Quellen pro Index selektieren
-
-In Zotero/literaturverzeichnis.bib für jeden Index eine gefilterte Sicht herstellen (z.B. alle Einträge mit Index „Bildungstheorien“ UND Tag Promotion:Literaturanalyse).
-Für den Theorieteil pro Index eine kleine, „theorie-tragende“ Auswahl treffen (z.B. 5–10 Kernquellen mit hoher Relevanz und hohem Qualitäts-/Statuslevel aus Kap. 4.2).
-Primäranalysen mit Analyseprompt erstellen/nutzen
-
-Für diese Kernquellen den bestehenden Prompt aus 04-A Analyseprompt.md verwenden (oder vorhandene Primäranalysen weiterverwenden):
-Immer: Kurzkontext, zentrale Argumente, theoretische Positionierung, Relevanz für den jeweiligen Index, Grenzen.
-Schlagwort-Zuordnung im Ergebnis jeweils mit 1–2 Sätzen begründen (warum z.B. „Technologieintegration“ oder „Bildungstheorien“).
-Index-spezifische Mini-Sekundäranalysen
-
-Pro Index ein kurzes internes Synthese-Dokument (z.B. Theorie-Cluster_Bildungstheorien.md) erstellen:
-Welche gemeinsamen theoretischen Linien ziehen sich durch die Quellen?
-Wo ergänzen oder korrigieren sie die Klassiker (Arnold/Reich/Siebert)?
-Zu klärende Frage: Welche Begriffe/Konzepte werden später im Modell (2.3) und in den FUs benötigt?
-Das ist im Kleinen dasselbe Prinzip wie die Sekundäranalysen in Kap. 4 (2. Ordnung), aber hier rein theoriebezogen.
-Überführung in Fließtext von 2.1
-
-Aus diesen Mini-Sekundäranalysen die Absätze für 2.1.2–2.1.4 bauen:
-Einstieg: kurzer Index-Rahmen („Unter dem Index ‚Technologieintegration‘ werden…“)
-Kern: verdichtete Synthese der relevanten Quellen (nicht alle nennen, sondern exemplarisch 2–3 pro Index)
-Abschluss: Verknüpfung zum Wirkgefüge/Modell („Für das hier entwickelte Modell des digitalen Bildungswirkgefüges bedeutet das…“).
-Dokumentation der Schritte
-
-In den Anhang (z.B. Ergänzung ein kurzer Abschnitt in Kap. 4.3) eine knappe Beschreibung des Vorgehens aufnehmen:
-„Für den Theorieteil wurden die thematischen Indizes X–Y genutzt, pro Index wurden Kernquellen mit hoher Relevanz selektiert, mittels Analyseprompt ausgewertet und index-spezifisch synthetisiert.“
-So ist der Weg vom Index über Analyseprompt zur Theorie-Synthese auch für Dritte nachvollziehbar und replizierbar.
-
 # 2 Theorieteil {#sec:Theorieteil}
+
+---
+
+#todo Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
+#todo 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes.
+#todo 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
+#todo Ende 2.1: kurzes Zwischenfazit (welche Bausteine gehen in Modell 2.3, welche werden in Kap. 4 wieder aufgegriffen).
+#todo Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
+
+---
 
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt psychologische Funktionslogiken, bildungswissenschaftliche Grundlagen, medienpädagogische Rahmungen sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges\label{term:digitales-bildungswirkgefuge}. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stelle jene theoretischen Grundannahmen betrachtet, die für das Wirkgefüge des untersuchten Learning Management Systems (LMS) konstitutiv sind. Im Mittelpunkt stehen die Definitionen von Bildung\label{term:bildung}, Digitalität\label{term:digitalitaet} und Kompetenzentwicklung\label{term:kompetenzentwicklung} im systemisch-konstruktivistischen Rahmen; sie werden so gefasst, dass sie sowohl subjektive Prozesse als auch strukturelle und technische Dimensionen des digitalen Bildungsraums erfassen.
 
