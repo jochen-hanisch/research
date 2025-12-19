@@ -1,0 +1,91 @@
+x_term,y_term,correlation,p_value,significance
+promotion:fu1,lernsystemarchitektur,0.04985485634889761,0.0023119875756524313,Signifikant
+promotion:fu1,bildungstheorien,0.08839323201061691,6.32161972085166e-08,Signifikant
+promotion:fu1,lehr- und lerneffektivität,0.20490058254696375,1.1285419036156663e-36,Signifikant
+promotion:fu1,kollaboratives lernen,0.08091891858460443,7.403425027436293e-07,Signifikant
+promotion:fu1,bewertungsmethoden,0.0523421425330253,0.0013783969552449145,Signifikant
+promotion:fu1,technologieintegration,0.17593094557188016,2.4801476137970288e-27,Signifikant
+promotion:fu1,datenschutz und it-sicherheit,0.0433246166488516,0.008110947428154084,Signifikant
+promotion:fu1,systemanpassung,0.06709710070035177,4.0823571773583855e-05,Signifikant
+promotion:fu1,krisenreaktion im bildungsbereich,0.1139615690971696,2.883575490270343e-12,Signifikant
+promotion:fu1,forschungsansätze,0.040831466320917775,0.012597936941214413,Signifikant
+promotion:fu2a,lernsystemarchitektur,0.019811485806793788,0.22621707554798529,Nicht signifikant
+promotion:fu2a,bildungstheorien,0.04878584372425134,0.002868322991575285,Signifikant
+promotion:fu2a,lehr- und lerneffektivität,0.25496111622420026,1.788324936767217e-56,Signifikant
+promotion:fu2a,kollaboratives lernen,0.27050420372193357,1.314652216835452e-63,Signifikant
+promotion:fu2a,bewertungsmethoden,0.1692639568801443,2.151727052781068e-25,Signifikant
+promotion:fu2a,technologieintegration,0.20169408714636078,1.4490532717177385e-35,Signifikant
+promotion:fu2a,datenschutz und it-sicherheit,-0.01653386924293872,0.31253280120435,Nicht signifikant
+promotion:fu2a,systemanpassung,0.027267972313222637,0.09575763776599742,Nicht signifikant
+promotion:fu2a,krisenreaktion im bildungsbereich,0.0018692825279630204,0.9091016056079277,Nicht signifikant
+promotion:fu2a,forschungsansätze,0.09384942199498575,9.202935413271617e-09,Signifikant
+promotion:fu2b,lernsystemarchitektur,0.011345121463015875,0.48833617294409176,Nicht signifikant
+promotion:fu2b,bildungstheorien,0.008858971550917047,0.5884405313940312,Nicht signifikant
+promotion:fu2b,lehr- und lerneffektivität,0.1297475738114624,1.7433560917034967e-15,Signifikant
+promotion:fu2b,kollaboratives lernen,0.032189957145854375,0.04922911245862562,Signifikant
+promotion:fu2b,bewertungsmethoden,0.10812062997185237,3.5151543943525144e-11,Signifikant
+promotion:fu2b,technologieintegration,0.1132008252162516,4.023171064798092e-12,Signifikant
+promotion:fu2b,datenschutz und it-sicherheit,0.0924243569650189,1.5387139448951853e-08,Signifikant
+promotion:fu2b,systemanpassung,0.027492482348467788,0.09305496837675989,Nicht signifikant
+promotion:fu2b,krisenreaktion im bildungsbereich,0.011035528802125955,0.5002817135499387,Nicht signifikant
+promotion:fu2b,forschungsansätze,0.053743222600791965,0.0010202115477820485,Signifikant
+promotion:fu3,lernsystemarchitektur,0.1780763657038217,5.6763996464180045e-28,Signifikant
+promotion:fu3,bildungstheorien,0.15497555263493418,1.679973826908469e-21,Signifikant
+promotion:fu3,lehr- und lerneffektivität,0.27075977414739405,9.942006748008668e-64,Signifikant
+promotion:fu3,kollaboratives lernen,0.08949827937785265,4.317328287773546e-08,Signifikant
+promotion:fu3,bewertungsmethoden,0.05066121361876302,0.0019597534433840754,Signifikant
+promotion:fu3,technologieintegration,0.3418411578360822,8.010804597183018e-103,Signifikant
+promotion:fu3,datenschutz und it-sicherheit,0.028492026878585725,0.08175648638604327,Nicht signifikant
+promotion:fu3,systemanpassung,0.2087964707045206,4.789492811573983e-38,Signifikant
+promotion:fu3,krisenreaktion im bildungsbereich,0.05211618186534353,0.0014460031331861897,Signifikant
+promotion:fu3,forschungsansätze,0.18152629217437677,5.095456349926353e-29,Signifikant
+promotion:fu4a,lernsystemarchitektur,0.11293587694019505,4.5156191340149895e-12,Signifikant
+promotion:fu4a,bildungstheorien,0.37070993601603125,5.949594971665937e-122,Signifikant
+promotion:fu4a,lehr- und lerneffektivität,0.335987242175692,3.4921702528587366e-99,Signifikant
+promotion:fu4a,kollaboratives lernen,0.2613935497126305,2.283322309393337e-59,Signifikant
+promotion:fu4a,bewertungsmethoden,0.1932783315473623,9.587688688342108e-33,Signifikant
+promotion:fu4a,technologieintegration,0.29351380522520354,4.56023024030378e-75,Signifikant
+promotion:fu4a,datenschutz und it-sicherheit,0.09710021485908643,2.769284291175718e-09,Signifikant
+promotion:fu4a,systemanpassung,0.22173524686222912,8.352615723001325e-43,Signifikant
+promotion:fu4a,krisenreaktion im bildungsbereich,0.05225510435622666,0.0014040855851408635,Signifikant
+promotion:fu4a,forschungsansätze,0.26813603271406594,1.7253637876623096e-62,Signifikant
+promotion:fu4b,lernsystemarchitektur,0.08943680367797582,4.410422399039949e-08,Signifikant
+promotion:fu4b,bildungstheorien,0.0724774341318657,9.310617824762977e-06,Signifikant
+promotion:fu4b,lehr- und lerneffektivität,0.20383093029819235,2.657116948715906e-36,Signifikant
+promotion:fu4b,kollaboratives lernen,0.04803130812832503,0.0033318055464260283,Signifikant
+promotion:fu4b,bewertungsmethoden,0.13010808361758064,1.4555115134379633e-15,Signifikant
+promotion:fu4b,technologieintegration,0.23706638808024103,7.540154889083897e-49,Signifikant
+promotion:fu4b,datenschutz und it-sicherheit,0.13956996627676657,1.0659599377053009e-17,Signifikant
+promotion:fu4b,systemanpassung,0.19031935204480713,8.770815893433765e-32,Signifikant
+promotion:fu4b,krisenreaktion im bildungsbereich,0.006187495774749217,0.7054882658469076,Nicht signifikant
+promotion:fu4b,forschungsansätze,0.1695901738970728,1.7368499052735958e-25,Signifikant
+promotion:fu5,lernsystemarchitektur,0.01138877363729662,0.4866643206903286,Nicht signifikant
+promotion:fu5,bildungstheorien,0.018214536386945118,0.2658817824291993,Nicht signifikant
+promotion:fu5,lehr- und lerneffektivität,0.24605533451951322,1.33306673647632e-52,Signifikant
+promotion:fu5,kollaboratives lernen,0.08029713428496654,9.001088754139434e-07,Signifikant
+promotion:fu5,bewertungsmethoden,0.2051888163563241,8.952568044109184e-37,Signifikant
+promotion:fu5,technologieintegration,0.2371660008505057,6.865103482209534e-49,Signifikant
+promotion:fu5,datenschutz und it-sicherheit,0.05448599332910857,0.0008673389389333359,Signifikant
+promotion:fu5,systemanpassung,0.20275758418371104,6.244340892557724e-36,Signifikant
+promotion:fu5,krisenreaktion im bildungsbereich,0.19212854854328193,2.2757901633264456e-32,Signifikant
+promotion:fu5,forschungsansätze,0.1282261376650619,3.7129775881667625e-15,Signifikant
+promotion:fu6,lernsystemarchitektur,0.056328876723432376,0.0005749190549259767,Signifikant
+promotion:fu6,bildungstheorien,0.06144011932035077,0.00017252849052893754,Signifikant
+promotion:fu6,lehr- und lerneffektivität,0.2241408496937909,1.0063267683159271e-43,Signifikant
+promotion:fu6,kollaboratives lernen,0.06219000448326938,0.00014346878845904133,Signifikant
+promotion:fu6,bewertungsmethoden,0.21472927092270805,3.443040058082668e-40,Signifikant
+promotion:fu6,technologieintegration,0.2108193509765125,9.052752332448476e-39,Signifikant
+promotion:fu6,datenschutz und it-sicherheit,0.04405438618960729,0.007101370308402412,Signifikant
+promotion:fu6,systemanpassung,0.08624960505851326,1.30762063951518e-07,Signifikant
+promotion:fu6,krisenreaktion im bildungsbereich,0.00804402697612456,0.623200436428692,Nicht signifikant
+promotion:fu6,forschungsansätze,0.040305960285660046,0.013785643971830044,Signifikant
+promotion:fu7,lernsystemarchitektur,-0.010232036943731192,0.5319928062208623,Nicht signifikant
+promotion:fu7,bildungstheorien,0.02776295038231133,0.08988069697833248,Nicht signifikant
+promotion:fu7,lehr- und lerneffektivität,0.02266413784059762,0.16621950347093067,Nicht signifikant
+promotion:fu7,kollaboratives lernen,0.007108860002609683,0.6641438274772027,Nicht signifikant
+promotion:fu7,bewertungsmethoden,0.046828394621623456,0.004213141997855374,Signifikant
+promotion:fu7,technologieintegration,0.08443974226122458,2.3835962183133796e-07,Signifikant
+promotion:fu7,datenschutz und it-sicherheit,0.08976321469819318,3.9374622254594253e-08,Signifikant
+promotion:fu7,systemanpassung,0.09448317854147126,7.3045400157807115e-09,Signifikant
+promotion:fu7,krisenreaktion im bildungsbereich,-0.010300717808770333,0.529242955941045,Nicht signifikant
+promotion:fu7,forschungsansätze,0.11016131539239225,1.4890670551607407e-11,Signifikant

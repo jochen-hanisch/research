@@ -1,0 +1,181 @@
+x_term,y_term,correlation,p_value,significance
+#0:zeitschriftenartikel:digital:learning,promotion:argumentation,-0.009543076411431803,0.5599716818075439,Nicht signifikant
+#0:zeitschriftenartikel:digital:learning,promotion:kerngedanke,0.009591387011635893,0.5579867514449436,Nicht signifikant
+#0:zeitschriftenartikel:digital:learning,promotion:weiterführung,0.10309236894405646,2.72821201066536e-10,Signifikant
+#0:zeitschriftenartikel:digital:learning,promotion:schlussfolgerung,-0.004276125691785643,0.7939555305042779,Nicht signifikant
+#0:buch:digital:learning,promotion:argumentation,-0.027987421063166595,0.08731293670856476,Nicht signifikant
+#0:buch:digital:learning,promotion:kerngedanke,-0.028092592341646162,0.08613038927164716,Nicht signifikant
+#0:buch:digital:learning,promotion:weiterführung,-0.015916557657568282,0.33094597946557747,Nicht signifikant
+#0:buch:digital:learning,promotion:schlussfolgerung,-0.007627640930456024,0.6412967787485496,Nicht signifikant
+#0:buchteil:digital:learning,promotion:argumentation,-0.06254254224230385,0.00013146085269523969,Signifikant
+#0:buchteil:digital:learning,promotion:kerngedanke,-0.06280843220526187,0.00012303750134696865,Signifikant
+#0:buchteil:digital:learning,promotion:weiterführung,-0.03823229214130543,0.019491290601177762,Signifikant
+#0:buchteil:digital:learning,promotion:schlussfolgerung,-0.018321938868704302,0.2630727355850148,Nicht signifikant
+#0:konferenz-paper:digital:learning,promotion:argumentation,-0.017244042043142324,0.2922004044028796,Nicht signifikant
+#0:konferenz-paper:digital:learning,promotion:kerngedanke,0.018037934146611673,0.27054544770088745,Nicht signifikant
+#0:konferenz-paper:digital:learning,promotion:weiterführung,0.07599469193242323,3.3466116183442425e-06,Signifikant
+#0:konferenz-paper:digital:learning,promotion:schlussfolgerung,-0.004699659914999507,0.7740766660615418,Nicht signifikant
+#1:zeitschriftenartikel:learning:management:system,promotion:argumentation,0.17630637666017615,1.9186648826274154e-27,Signifikant
+#1:zeitschriftenartikel:learning:management:system,promotion:kerngedanke,0.18770785467873385,6.003551062561969e-31,Signifikant
+#1:zeitschriftenartikel:learning:management:system,promotion:weiterführung,0.1170109394547047,7.422417621240451e-13,Signifikant
+#1:zeitschriftenartikel:learning:management:system,promotion:schlussfolgerung,0.019616279021786778,0.23082560775908004,Nicht signifikant
+#1:buch:learning:management:system,promotion:argumentation,-0.008615085489395106,0.5987489758239658,Nicht signifikant
+#1:buch:learning:management:system,promotion:kerngedanke,0.026670883780518267,0.10325180400363418,Nicht signifikant
+#1:buch:learning:management:system,promotion:weiterführung,-0.00489943337785059,0.764750443538772,Nicht signifikant
+#1:buch:learning:management:system,promotion:schlussfolgerung,-0.0023479397601506953,0.8859685665758524,Nicht signifikant
+#1:buchteil:learning:management:system,promotion:argumentation,-0.02280457041259879,0.16360933464236077,Nicht signifikant
+#1:buchteil:learning:management:system,promotion:kerngedanke,-0.007119274742126259,0.6636819891771688,Nicht signifikant
+#1:buchteil:learning:management:system,promotion:weiterführung,-0.02202337253147358,0.1785274934756679,Nicht signifikant
+#1:buchteil:learning:management:system,promotion:schlussfolgerung,-0.010554190256576716,0.5191573436527762,Nicht signifikant
+#1:konferenz-paper:learning:management:system,promotion:argumentation,0.04855622044658553,0.0030027290311347276,Signifikant
+#1:konferenz-paper:learning:management:system,promotion:kerngedanke,0.048298204201276736,0.003160589133708331,Signifikant
+#1:konferenz-paper:learning:management:system,promotion:weiterführung,0.016565382351000257,0.3116112826098342,Nicht signifikant
+#1:konferenz-paper:learning:management:system,promotion:schlussfolgerung,-0.004985411320395317,0.7607470347957607,Nicht signifikant
+#2:zeitschriftenartikel:online:lernplattform,promotion:argumentation,0.031192311095884835,0.056699264128138555,Nicht signifikant
+#2:zeitschriftenartikel:online:lernplattform,promotion:kerngedanke,0.008667933310400874,0.5965082937781417,Nicht signifikant
+#2:zeitschriftenartikel:online:lernplattform,promotion:weiterführung,0.06457521426792272,7.872970446476204e-05,Signifikant
+#2:zeitschriftenartikel:online:lernplattform,promotion:schlussfolgerung,-0.0037139121557949093,0.8205493731033688,Nicht signifikant
+#3:zeitschriftenartikel:online:lernumgebung,promotion:argumentation,0.018203099447524164,0.26618212020618126,Nicht signifikant
+#3:zeitschriftenartikel:online:lernumgebung,promotion:kerngedanke,0.07105809805944742,1.3891612210632974e-05,Signifikant
+#3:zeitschriftenartikel:online:lernumgebung,promotion:weiterführung,0.018793727120701084,0.2509763029498248,Nicht signifikant
+#3:zeitschriftenartikel:online:lernumgebung,promotion:schlussfolgerung,-0.004699659914999505,0.7740766660615418,Nicht signifikant
+#3:buch:online:lernumgebung,promotion:argumentation,-0.00861508548939511,0.5987489758239658,Nicht signifikant
+#3:buch:online:lernumgebung,promotion:kerngedanke,-0.008647459303083964,0.5973759133837058,Nicht signifikant
+#3:buch:online:lernumgebung,promotion:weiterführung,-0.004899433377850593,0.764750443538772,Nicht signifikant
+#3:buch:online:lernumgebung,promotion:schlussfolgerung,-0.0023479397601506944,0.8859685665758524,Nicht signifikant
+#3:buchteil:online:lernumgebung,promotion:argumentation,-0.012186837550927795,0.4566507856906991,Nicht signifikant
+#3:buchteil:online:lernumgebung,promotion:kerngedanke,0.0876895114541328,8.040232832475506e-08,Signifikant
+#3:buchteil:online:lernumgebung,promotion:weiterführung,-0.0069307029792052485,0.6720637671483377,Nicht signifikant
+#3:buchteil:online:lernumgebung,promotion:schlussfolgerung,-0.003321378583131156,0.8392420200374974,Nicht signifikant
+#3:konferenz-paper:online:lernumgebung,promotion:argumentation,0.02680354240918631,0.1015477364061891,Nicht signifikant
+#3:konferenz-paper:online:lernumgebung,promotion:kerngedanke,0.026670883780518264,0.10325180400363418,Nicht signifikant
+#3:konferenz-paper:online:lernumgebung,promotion:weiterführung,-0.004899433377850592,0.764750443538772,Nicht signifikant
+#3:konferenz-paper:online:lernumgebung,promotion:schlussfolgerung,-0.0023479397601506944,0.8859685665758524,Nicht signifikant
+#4:zeitschriftenartikel:mooc,promotion:argumentation,0.08068177684315272,7.977579501877385e-07,Signifikant
+#4:zeitschriftenartikel:mooc,promotion:kerngedanke,0.12782585500998642,4.523350718469699e-15,Signifikant
+#4:zeitschriftenartikel:mooc,promotion:weiterführung,0.016514088246647126,0.31311216061893915,Nicht signifikant
+#4:zeitschriftenartikel:mooc,promotion:schlussfolgerung,0.015366067788029122,0.34794574561865876,Nicht signifikant
+#4:buch:mooc,promotion:argumentation,-0.012186837550927795,0.4566507856906991,Nicht signifikant
+#4:buch:mooc,promotion:kerngedanke,-0.012232633313351251,0.4549606351736344,Nicht signifikant
+#4:buch:mooc,promotion:weiterführung,-0.00693070297920525,0.6720637671483377,Nicht signifikant
+#4:buch:mooc,promotion:schlussfolgerung,-0.003321378583131156,0.8392420200374974,Nicht signifikant
+#4:buchteil:mooc,promotion:argumentation,-0.027987421063166606,0.08731293670856476,Nicht signifikant
+#4:buchteil:mooc,promotion:kerngedanke,0.004689416789759009,0.774555748455088,Nicht signifikant
+#4:buchteil:mooc,promotion:weiterführung,-0.01591655765756829,0.33094597946557747,Nicht signifikant
+#4:buchteil:mooc,promotion:schlussfolgerung,-0.007627640930456026,0.6412967787485496,Nicht signifikant
+#4:konferenz-paper:mooc,promotion:argumentation,-0.0059533123800722225,0.7161428646938691,Nicht signifikant
+#4:konferenz-paper:mooc,promotion:kerngedanke,-0.024464280199722147,0.13505842228516718,Nicht signifikant
+#4:konferenz-paper:mooc,promotion:weiterführung,-0.019047029505829496,0.24464431069470352,Nicht signifikant
+#4:konferenz-paper:mooc,promotion:schlussfolgerung,-0.009127846924437612,0.5771717883433493,Nicht signifikant
+#5:zeitschriftenartikel:e-learning,promotion:argumentation,0.25131285012371063,7.203223874548877e-55,Signifikant
+#5:zeitschriftenartikel:e-learning,promotion:kerngedanke,0.11209047781221482,6.515634242112192e-12,Signifikant
+#5:zeitschriftenartikel:e-learning,promotion:weiterführung,0.03061823460351598,0.061409765145697286,Nicht signifikant
+#5:zeitschriftenartikel:e-learning,promotion:schlussfolgerung,0.10671392494314368,6.296431679256514e-11,Signifikant
+#5:buch:e-learning,promotion:argumentation,-0.0299319094196658,0.06746173507433174,Nicht signifikant
+#5:buch:e-learning,promotion:kerngedanke,-0.030044387706746854,0.06643755930981442,Nicht signifikant
+#5:buch:e-learning,promotion:weiterführung,-0.01702239591865129,0.29844855713505075,Nicht signifikant
+#5:buch:e-learning,promotion:schlussfolgerung,-0.008157588257269505,0.6183036214311443,Nicht signifikant
+#5:buchteil:e-learning,promotion:argumentation,-0.07227464563413977,9.862829645268296e-06,Signifikant
+#5:buchteil:e-learning,promotion:kerngedanke,-0.06499187535069839,7.074579829728144e-05,Signifikant
+#5:buchteil:e-learning,promotion:weiterführung,-0.04763017004936623,0.0036050591619133294,Signifikant
+#5:buchteil:e-learning,promotion:schlussfolgerung,-0.01036831963746197,0.5265433838514172,Nicht signifikant
+#5:konferenz-paper:e-learning,promotion:argumentation,0.07601174809393647,3.3296808410957913e-06,Signifikant
+#5:konferenz-paper:e-learning,promotion:kerngedanke,0.008667933310400883,0.5965082937781417,Nicht signifikant
+#5:konferenz-paper:e-learning,promotion:weiterführung,-0.007749800692219956,0.6359648970549674,Nicht signifikant
+#5:konferenz-paper:e-learning,promotion:schlussfolgerung,-0.0037139121557949106,0.8205493731033688,Nicht signifikant
+#6:zeitschriftenartikel:bildung:technologie,promotion:argumentation,0.19303850196440792,1.1487296383397543e-32,Signifikant
+#6:zeitschriftenartikel:bildung:technologie,promotion:kerngedanke,0.027203345980693766,0.09654715084317976,Nicht signifikant
+#6:zeitschriftenartikel:bildung:technologie,promotion:weiterführung,0.06468478111411909,7.655144983152119e-05,Signifikant
+#6:zeitschriftenartikel:bildung:technologie,promotion:schlussfolgerung,0.028149904015393763,0.0854914405065605,Nicht signifikant
+#6:buch:bildung:technologie,promotion:argumentation,-0.029297744095883323,0.07348180634200817,Nicht signifikant
+#6:buch:bildung:technologie,promotion:kerngedanke,-0.029407839313165998,0.07240625685483591,Nicht signifikant
+#6:buch:bildung:technologie,promotion:weiterführung,-0.01666174357709994,0.3088045710645325,Nicht signifikant
+#6:buch:bildung:technologie,promotion:schlussfolgerung,-0.007984753991138238,0.6257629633272831,Nicht signifikant
+#6:buchteil:bildung:technologie,promotion:argumentation,-0.045838339653550664,0.0050916394756834234,Signifikant
+#6:buchteil:bildung:technologie,promotion:kerngedanke,-0.06057266108913222,0.00021302586666052545,Signifikant
+#6:buchteil:bildung:technologie,promotion:weiterführung,-0.03704509813801078,0.023610384552608214,Signifikant
+#6:buchteil:bildung:technologie,promotion:schlussfolgerung,-0.002041300803639616,0.9007782121756522,Nicht signifikant
+#6:konferenz-paper:bildung:technologie,promotion:argumentation,0.05126415429378589,0.0017293344341580785,Signifikant
+#6:konferenz-paper:bildung:technologie,promotion:kerngedanke,0.0221037383032093,0.17694764199008928,Nicht signifikant
+#6:konferenz-paper:bildung:technologie,promotion:weiterführung,0.05807700571184215,0.0003849187732526124,Signifikant
+#6:konferenz-paper:bildung:technologie,promotion:schlussfolgerung,-0.005758977277048397,0.7250267408825701,Nicht signifikant
+#7:zeitschriftenartikel:digital:medien,promotion:argumentation,0.1423636179431811,2.335063059604563e-18,Signifikant
+#7:zeitschriftenartikel:digital:medien,promotion:kerngedanke,0.11787429533457867,5.021959531258371e-13,Signifikant
+#7:zeitschriftenartikel:digital:medien,promotion:weiterführung,0.0311600511998274,0.05695575490394731,Nicht signifikant
+#7:zeitschriftenartikel:digital:medien,promotion:schlussfolgerung,-0.01808003287659618,0.26942865934191707,Nicht signifikant
+#7:buch:digital:medien,promotion:argumentation,-0.07770698291766613,2.000621096022682e-06,Signifikant
+#7:buch:digital:medien,promotion:kerngedanke,-0.07391479840418086,6.162402024202788e-06,Signifikant
+#7:buch:digital:medien,promotion:weiterführung,-0.04419227020643422,0.006923809131563014,Signifikant
+#7:buch:digital:medien,promotion:schlussfolgerung,-0.02117812006141214,0.19578341568194976,Nicht signifikant
+#7:buchteil:digital:medien,promotion:argumentation,-0.2514061201908399,6.558688770294248e-55,Signifikant
+#7:buchteil:digital:medien,promotion:kerngedanke,-0.2505890387875691,1.488925500159592e-54,Signifikant
+#7:buchteil:digital:medien,promotion:weiterführung,-0.14012454847246963,7.904725087978323e-18,Signifikant
+#7:buchteil:digital:medien,promotion:schlussfolgerung,-0.06851776761448522,2.7915097681197352e-05,Signifikant
+#7:konferenz-paper:digital:medien,promotion:argumentation,0.05365024093819063,0.0010410129833432022,Signifikant
+#7:konferenz-paper:digital:medien,promotion:kerngedanke,0.053384710088502166,0.00110259568050576,Signifikant
+#7:konferenz-paper:digital:medien,promotion:weiterführung,-0.009806755285159967,0.5491797988944085,Nicht signifikant
+#7:konferenz-paper:digital:medien,promotion:schlussfolgerung,-0.004699659914999505,0.7740766660615418,Nicht signifikant
+#8:zeitschriftenartikel:blended:learning,promotion:argumentation,0.04484737454372926,0.0061334825033740005,Signifikant
+#8:zeitschriftenartikel:blended:learning,promotion:kerngedanke,0.19512597933164433,2.3628755002719676e-33,Signifikant
+#8:zeitschriftenartikel:blended:learning,promotion:weiterführung,-0.016211969996216238,0.3220485915483018,Nicht signifikant
+#8:zeitschriftenartikel:blended:learning,promotion:schlussfolgerung,0.02994391399920488,0.0673518115405475,Nicht signifikant
+#8:buch:blended:learning,promotion:argumentation,-0.01928460287735921,0.23880815638010844,Nicht signifikant
+#8:buch:blended:learning,promotion:kerngedanke,-0.019357070659760646,0.23704764102753656,Nicht signifikant
+#8:buch:blended:learning,promotion:weiterführung,-0.010967230346377133,0.5029376947628509,Nicht signifikant
+#8:buch:blended:learning,promotion:schlussfolgerung,-0.005255790660487969,0.7481994403271611,Nicht signifikant
+#8:buchteil:blended:learning,promotion:argumentation,-0.042467734217885356,0.009458891651338086,Signifikant
+#8:buchteil:blended:learning,promotion:kerngedanke,-0.035373135502413014,0.03068064247761836,Signifikant
+#8:buchteil:blended:learning,promotion:weiterführung,-0.02415156933322601,0.14012105693086135,Nicht signifikant
+#8:buchteil:blended:learning,promotion:schlussfolgerung,-0.011574079191254357,0.4796017784943861,Nicht signifikant
+#8:konferenz-paper:blended:learning,promotion:argumentation,0.026803542409186316,0.1015477364061891,Nicht signifikant
+#8:konferenz-paper:blended:learning,promotion:kerngedanke,0.026670883780518267,0.10325180400363418,Nicht signifikant
+#8:konferenz-paper:blended:learning,promotion:weiterführung,-0.004899433377850591,0.764750443538772,Nicht signifikant
+#8:konferenz-paper:blended:learning,promotion:schlussfolgerung,-0.0023479397601506957,0.8859685665758524,Nicht signifikant
+#9:zeitschriftenartikel:digital:lernen,promotion:argumentation,0.19879882053485892,1.399441668921452e-34,Signifikant
+#9:zeitschriftenartikel:digital:lernen,promotion:kerngedanke,0.10198947531130678,4.2221388807178713e-10,Signifikant
+#9:zeitschriftenartikel:digital:lernen,promotion:weiterführung,0.10233355134983899,3.686197039883388e-10,Signifikant
+#9:zeitschriftenartikel:digital:lernen,promotion:schlussfolgerung,0.029095436153090456,0.07549224554465002,Nicht signifikant
+#9:buch:digital:lernen,promotion:argumentation,-0.04110247925247063,0.012021550500808734,Signifikant
+#9:buch:digital:lernen,promotion:kerngedanke,-0.04125693436578408,0.011703618667749646,Signifikant
+#9:buch:digital:lernen,promotion:weiterführung,-0.023375143405118495,0.15332125542538821,Nicht signifikant
+#9:buch:digital:lernen,promotion:schlussfolgerung,-0.011201995081353614,0.4938394752250254,Nicht signifikant
+#9:buchteil:digital:lernen,promotion:argumentation,-0.04194402048938496,0.010377886982880655,Signifikant
+#9:buchteil:digital:lernen,promotion:kerngedanke,-0.048538886137171014,0.003013104914911255,Signifikant
+#9:buchteil:digital:lernen,promotion:weiterführung,-0.02750091449165111,0.0929546663738128,Nicht signifikant
+#9:buchteil:digital:lernen,promotion:schlussfolgerung,-0.013179175140407668,0.42082531332324646,Nicht signifikant
+#9:konferenz-paper:digital:lernen,promotion:argumentation,-0.008615085489395111,0.5987489758239658,Nicht signifikant
+#9:konferenz-paper:digital:lernen,promotion:kerngedanke,-0.008647459303083967,0.5973759133837058,Nicht signifikant
+#9:konferenz-paper:digital:lernen,promotion:weiterführung,0.1094104716191261,2.0462728415347177e-11,Signifikant
+#9:konferenz-paper:digital:lernen,promotion:schlussfolgerung,-0.002347939760150696,0.8859685665758524,Nicht signifikant
+#a:zeitschriftenartikel:online:lernen,promotion:argumentation,0.018203099447524164,0.26618212020618126,Nicht signifikant
+#a:zeitschriftenartikel:online:lernen,promotion:kerngedanke,0.05338471008850215,0.00110259568050576,Signifikant
+#a:zeitschriftenartikel:online:lernen,promotion:weiterführung,0.04739420952656213,0.0037751599322141107,Signifikant
+#a:zeitschriftenartikel:online:lernen,promotion:schlussfolgerung,-0.004699659914999502,0.7740766660615418,Nicht signifikant
+#a:buch:online:lernen,promotion:argumentation,-0.012186837550927797,0.4566507856906991,Nicht signifikant
+#a:buch:online:lernen,promotion:kerngedanke,-0.01223263331335125,0.4549606351736344,Nicht signifikant
+#a:buch:online:lernen,promotion:weiterführung,-0.00693070297920525,0.6720637671483377,Nicht signifikant
+#a:buch:online:lernen,promotion:schlussfolgerung,-0.003321378583131156,0.8392420200374974,Nicht signifikant
+#a:buchteil:online:lernen,promotion:argumentation,-0.01186705105806729,0.46855073123964525,Nicht signifikant
+#a:buchteil:online:lernen,promotion:kerngedanke,0.013026514348382465,0.4262268633378713,Nicht signifikant
+#a:buchteil:online:lernen,promotion:weiterführung,0.026606930338735006,0.1040813980262789,Nicht signifikant
+#a:buchteil:online:lernen,promotion:schlussfolgerung,-0.0066534712976865,0.6844604618300643,Nicht signifikant
+#a:konferenz-paper:online:lernen,promotion:argumentation,-0.006090969159776785,0.7098730702609946,Nicht signifikant
+#a:konferenz-paper:online:lernen,promotion:kerngedanke,0.04382712969390103,0.007402954272531164,Signifikant
+#a:konferenz-paper:online:lernen,promotion:weiterführung,-0.003463958383419856,0.8324412212073524,Nicht signifikant
+#a:konferenz-paper:online:lernen,promotion:schlussfolgerung,-0.0016600216777530453,0.9192404185884516,Nicht signifikant
+#b:zeitschriftenartikel:online:learning,promotion:argumentation,0.029116824014762472,0.07527760404981333,Nicht signifikant
+#b:zeitschriftenartikel:online:learning,promotion:kerngedanke,0.1142779900789733,2.5089353869249356e-12,Signifikant
+#b:zeitschriftenartikel:online:learning,promotion:weiterführung,0.03438682885256649,0.03565028925619135,Signifikant
+#b:zeitschriftenartikel:online:learning,promotion:schlussfolgerung,0.07572962400987646,3.6205782747765372e-06,Signifikant
+#b:buch:online:learning,promotion:argumentation,-0.006090969159776786,0.7098730702609946,Nicht signifikant
+#b:buch:online:learning,promotion:kerngedanke,-0.006113857835809764,0.7088324570948106,Nicht signifikant
+#b:buch:online:learning,promotion:weiterführung,-0.0034639583834198562,0.8324412212073524,Nicht signifikant
+#b:buch:online:learning,promotion:schlussfolgerung,-0.0016600216777530453,0.9192404185884516,Nicht signifikant
+#b:buchteil:online:learning,promotion:argumentation,-0.03748157698441616,0.022015655847976455,Signifikant
+#b:buchteil:online:learning,promotion:kerngedanke,-0.04390593818425184,0.007297093886225284,Signifikant
+#b:buchteil:online:learning,promotion:weiterführung,-0.00831795156539968,0.6114174846620976,Nicht signifikant
+#b:buchteil:online:learning,promotion:schlussfolgerung,-0.01360507968331049,0.40596964191847656,Nicht signifikant
+#b:konferenz-paper:online:learning,promotion:argumentation,0.00782712138646138,0.6325997931903746,Nicht signifikant
+#b:konferenz-paper:online:learning,promotion:kerngedanke,0.07985579785588146,1.0331294921890893e-06,Signifikant
+#b:konferenz-paper:online:learning,promotion:weiterführung,0.011347517119901902,0.4882443405007277,Nicht signifikant
+#b:konferenz-paper:online:learning,promotion:schlussfolgerung,-0.005758977277048398,0.7250267408825701,Nicht signifikant

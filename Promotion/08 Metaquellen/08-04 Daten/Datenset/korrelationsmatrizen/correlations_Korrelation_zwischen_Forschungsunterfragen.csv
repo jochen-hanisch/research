@@ -1,0 +1,73 @@
+x_term,y_term,correlation,p_value,significance
+promotion:fu1,promotion:fu2a,-0.01974590276902933,0.22775801229238885,Nicht signifikant
+promotion:fu1,promotion:fu2b,-0.011307565091090677,0.4897770332968332,Nicht signifikant
+promotion:fu1,promotion:fu3,-0.028358818556788935,0.0831946805701406,Nicht signifikant
+promotion:fu1,promotion:fu4a,-0.03329508508971704,0.04193595602884935,Signifikant
+promotion:fu1,promotion:fu4b,-0.02094947249870907,0.2006547007325175,Nicht signifikant
+promotion:fu1,promotion:fu5,-0.02395792045610687,0.14332853897272976,Nicht signifikant
+promotion:fu1,promotion:fu6,-0.017988465028480095,0.27186180506232754,Nicht signifikant
+promotion:fu1,promotion:fu7,-0.006175921164968877,0.7060135402656499,Nicht signifikant
+promotion:fu2a,promotion:fu1,-0.01974590276902933,0.22775801229238885,Nicht signifikant
+promotion:fu2a,promotion:fu2b,-0.014147361156871797,0.3875147156165353,Nicht signifikant
+promotion:fu2a,promotion:fu3,-0.035480887783807785,0.030175598570985004,Signifikant
+promotion:fu2a,promotion:fu4a,-0.034604471813808,0.03449828788071372,Signifikant
+promotion:fu2a,promotion:fu4b,-0.015446752899103251,0.34541996406120207,Nicht signifikant
+promotion:fu2a,promotion:fu5,-0.0299747426196295,0.06707019492118547,Nicht signifikant
+promotion:fu2a,promotion:fu6,-0.02250611067595624,0.16919398925772375,Nicht signifikant
+promotion:fu2a,promotion:fu7,-0.007726949745000803,0.6369608457666998,Nicht signifikant
+promotion:fu2b,promotion:fu1,-0.011307565091090677,0.4897770332968332,Nicht signifikant
+promotion:fu2b,promotion:fu2a,-0.014147361156871797,0.3875147156165353,Nicht signifikant
+promotion:fu2b,promotion:fu3,-0.020318263125166446,0.21456019613692695,Nicht signifikant
+promotion:fu2b,promotion:fu4a,-0.023854953557849393,0.14505679383000963,Nicht signifikant
+promotion:fu2b,promotion:fu4b,-0.015009683626623065,0.3592420077488358,Nicht signifikant
+promotion:fu2b,promotion:fu5,-0.017165148498136357,0.294414250927569,Nicht signifikant
+promotion:fu2b,promotion:fu6,-0.012888208475067671,0.43115521982176075,Nicht signifikant
+promotion:fu2b,promotion:fu7,-0.004424866678378674,0.7869582888805065,Nicht signifikant
+promotion:fu3,promotion:fu1,-0.028358818556788935,0.0831946805701406,Nicht signifikant
+promotion:fu3,promotion:fu2a,-0.035480887783807785,0.030175598570985004,Signifikant
+promotion:fu3,promotion:fu2b,-0.020318263125166446,0.21456019613692695,Nicht signifikant
+promotion:fu3,promotion:fu4a,-0.05982705332032054,0.00025480434427036045,Signifikant
+promotion:fu3,promotion:fu4b,-0.03764355023678685,0.021448156698496604,Signifikant
+promotion:fu3,promotion:fu5,-0.043049350398391924,0.008523932578516155,Signifikant
+promotion:fu3,promotion:fu6,-0.032322994625473306,0.048298343672276575,Signifikant
+promotion:fu3,promotion:fu7,-0.011097348567906283,0.4978841021001556,Nicht signifikant
+promotion:fu4a,promotion:fu1,-0.03329508508971704,0.04193595602884935,Signifikant
+promotion:fu4a,promotion:fu2a,-0.034604471813808,0.03449828788071372,Signifikant
+promotion:fu4a,promotion:fu2b,-0.023854953557849393,0.14505679383000963,Nicht signifikant
+promotion:fu4a,promotion:fu3,-0.05982705332032054,0.00025480434427036045,Signifikant
+promotion:fu4a,promotion:fu4b,0.009142821532113602,0.5765471915851014,Nicht signifikant
+promotion:fu4a,promotion:fu5,-0.0505427185445415,0.0020082242960480848,Signifikant
+promotion:fu4a,promotion:fu6,-0.03794928389751151,0.020411596263969337,Signifikant
+promotion:fu4a,promotion:fu7,-0.013029004156107075,0.4261384442001178,Nicht signifikant
+promotion:fu4b,promotion:fu1,-0.02094947249870907,0.2006547007325175,Nicht signifikant
+promotion:fu4b,promotion:fu2a,-0.015446752899103251,0.34541996406120207,Nicht signifikant
+promotion:fu4b,promotion:fu2b,-0.015009683626623065,0.3592420077488358,Nicht signifikant
+promotion:fu4b,promotion:fu3,-0.03764355023678685,0.021448156698496604,Signifikant
+promotion:fu4b,promotion:fu4a,0.009142821532113602,0.5765471915851014,Nicht signifikant
+promotion:fu4b,promotion:fu5,-0.022829219108633697,0.1631544016534266,Nicht signifikant
+promotion:fu4b,promotion:fu6,0.011423576646091303,0.4853336047297528,Nicht signifikant
+promotion:fu4b,promotion:fu7,-0.008197929619895466,0.6165681392650144,Nicht signifikant
+promotion:fu5,promotion:fu1,-0.02395792045610687,0.14332853897272976,Nicht signifikant
+promotion:fu5,promotion:fu2a,-0.0299747426196295,0.06707019492118547,Nicht signifikant
+promotion:fu5,promotion:fu2b,-0.017165148498136357,0.294414250927569,Nicht signifikant
+promotion:fu5,promotion:fu3,-0.043049350398391924,0.008523932578516155,Signifikant
+promotion:fu5,promotion:fu4a,-0.0505427185445415,0.0020082242960480848,Signifikant
+promotion:fu5,promotion:fu4b,-0.022829219108633697,0.1631544016534266,Nicht signifikant
+promotion:fu5,promotion:fu6,-0.027306910991003682,0.09528443985215945,Nicht signifikant
+promotion:fu5,promotion:fu7,-0.009375192895683677,0.5668959722448159,Nicht signifikant
+promotion:fu6,promotion:fu1,-0.017988465028480095,0.27186180506232754,Nicht signifikant
+promotion:fu6,promotion:fu2a,-0.02250611067595624,0.16919398925772375,Nicht signifikant
+promotion:fu6,promotion:fu2b,-0.012888208475067671,0.43115521982176075,Nicht signifikant
+promotion:fu6,promotion:fu3,-0.032322994625473306,0.048298343672276575,Signifikant
+promotion:fu6,promotion:fu4a,-0.03794928389751151,0.020411596263969337,Signifikant
+promotion:fu6,promotion:fu4b,0.011423576646091303,0.4853336047297528,Nicht signifikant
+promotion:fu6,promotion:fu5,-0.027306910991003682,0.09528443985215945,Nicht signifikant
+promotion:fu6,promotion:fu7,-0.007039230714879232,0.6672347850975555,Nicht signifikant
+promotion:fu7,promotion:fu1,-0.006175921164968877,0.7060135402656499,Nicht signifikant
+promotion:fu7,promotion:fu2a,-0.007726949745000803,0.6369608457666998,Nicht signifikant
+promotion:fu7,promotion:fu2b,-0.004424866678378674,0.7869582888805065,Nicht signifikant
+promotion:fu7,promotion:fu3,-0.011097348567906283,0.4978841021001556,Nicht signifikant
+promotion:fu7,promotion:fu4a,-0.013029004156107075,0.4261384442001178,Nicht signifikant
+promotion:fu7,promotion:fu4b,-0.008197929619895466,0.6165681392650144,Nicht signifikant
+promotion:fu7,promotion:fu5,-0.009375192895683677,0.5668959722448159,Nicht signifikant
+promotion:fu7,promotion:fu6,-0.007039230714879232,0.6672347850975555,Nicht signifikant

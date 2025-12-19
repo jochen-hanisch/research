@@ -1,0 +1,41 @@
+x_term,y_term,correlation,p_value,significance
+lernsystemarchitektur,promotion:argumentation,0.1608408419997383,4.6813777488866055e-23,Signifikant
+lernsystemarchitektur,promotion:kerngedanke,0.21313317374609042,1.3181335626173425e-39,Signifikant
+lernsystemarchitektur,promotion:weiterführung,0.10180969179211237,4.5316837633891734e-10,Signifikant
+lernsystemarchitektur,promotion:schlussfolgerung,0.019025132429105564,0.24518722139608712,Nicht signifikant
+bildungstheorien,promotion:argumentation,0.22612149980007024,1.7292426970329242e-44,Signifikant
+bildungstheorien,promotion:kerngedanke,0.2933870822860717,5.310150363117937e-75,Signifikant
+bildungstheorien,promotion:weiterführung,0.11670343591469588,8.524698956068915e-13,Signifikant
+bildungstheorien,promotion:schlussfolgerung,0.04256356557264652,0.009298811906675102,Signifikant
+lehr- und lerneffektivität,promotion:argumentation,0.5069430086880364,5.622323132071617e-243,Signifikant
+lehr- und lerneffektivität,promotion:kerngedanke,0.5116989933158655,2.7923670126997468e-248,Signifikant
+lehr- und lerneffektivität,promotion:weiterführung,0.24771075769833972,2.610652413841027e-53,Signifikant
+lehr- und lerneffektivität,promotion:schlussfolgerung,0.15899170339847404,1.4689972953444476e-22,Signifikant
+kollaboratives lernen,promotion:argumentation,0.15297822982143228,5.51116310511733e-21,Signifikant
+kollaboratives lernen,promotion:kerngedanke,0.34928719333905844,1.4440347264346086e-107,Signifikant
+kollaboratives lernen,promotion:weiterführung,0.11287035233623417,4.64624118845774e-12,Signifikant
+kollaboratives lernen,promotion:schlussfolgerung,0.10448865287602176,1.5592480857305431e-10,Signifikant
+bewertungsmethoden,promotion:argumentation,0.20668691243618534,2.6716778361297897e-37,Signifikant
+bewertungsmethoden,promotion:kerngedanke,0.2450183608652984,3.678793552915498e-52,Signifikant
+bewertungsmethoden,promotion:weiterführung,0.18513081301334378,3.897486607180282e-30,Signifikant
+bewertungsmethoden,promotion:schlussfolgerung,0.1795518636791252,2.0366300161789444e-28,Signifikant
+technologieintegration,promotion:argumentation,0.5411110103696556,5.037477331283198e-283,Signifikant
+technologieintegration,promotion:kerngedanke,0.4723654183896581,7.71107982884186e-207,Signifikant
+technologieintegration,promotion:weiterführung,0.30568183753083483,1.4178754669393806e-81,Signifikant
+technologieintegration,promotion:schlussfolgerung,0.1496364338516108,3.882704808372385e-20,Signifikant
+datenschutz und it-sicherheit,promotion:argumentation,0.15711779070917825,4.616139990312062e-22,Signifikant
+datenschutz und it-sicherheit,promotion:kerngedanke,0.07788313490501175,1.8963291714051892e-06,Signifikant
+datenschutz und it-sicherheit,promotion:weiterführung,0.1855876276296461,2.8031452845089095e-30,Signifikant
+datenschutz und it-sicherheit,promotion:schlussfolgerung,0.03056098977861369,0.06189674418239217,Nicht signifikant
+systemanpassung,promotion:argumentation,0.36446123491175075,1.2167428824467117e-117,Signifikant
+systemanpassung,promotion:kerngedanke,0.3260813583673528,3.338773056377646e-93,Signifikant
+systemanpassung,promotion:weiterführung,0.15364416039266687,3.7152361862255265e-21,Signifikant
+systemanpassung,promotion:schlussfolgerung,0.14296152971940984,1.6804923516993953e-18,Signifikant
+krisenreaktion im bildungsbereich,promotion:argumentation,0.2772801339181967,7.195185658152296e-67,Signifikant
+krisenreaktion im bildungsbereich,promotion:kerngedanke,0.09682501925745327,3.0703331969842123e-09,Signifikant
+krisenreaktion im bildungsbereich,promotion:weiterführung,0.10062258907689953,7.20813685550589e-10,Signifikant
+krisenreaktion im bildungsbereich,promotion:schlussfolgerung,0.04522951411057012,0.00571089973601559,Signifikant
+forschungsansätze,promotion:argumentation,0.3644427887950752,1.2525134631622791e-117,Signifikant
+forschungsansätze,promotion:kerngedanke,0.31893028596338374,5.0582018508468515e-89,Signifikant
+forschungsansätze,promotion:weiterführung,0.1680933878582709,4.624397657600834e-25,Signifikant
+forschungsansätze,promotion:schlussfolgerung,0.14214430510725812,2.6335863055365143e-18,Signifikant
