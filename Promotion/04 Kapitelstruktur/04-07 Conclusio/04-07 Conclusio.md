@@ -147,11 +147,15 @@ In Abbildung~\ref{fig:schlagworte-mapping} dargestellte Kopplungen sind nicht ka
 
 Die Ebene der Folgen repraesentiert eine analytische Verdichtung beobachtbarer Wirkungsdimensionen und Nebenfolgen, die aus der Zusammenfuehrung der empirischen Ergebnisse hervorgeht. Implikationen sind dieser Ebene nachgelagert und bezeichnen keine Wirkungen selbst, sondern abgeleitete Konsequenzen fuer Gestaltung, Steuerung und Forschung. Die räumliche Anordnung der Schlagworte folgt dabei keinem inhaltlichen Ranking und keiner Wirkungszuschreibung. Sie orientiert sich vielmehr an dieser Struktur, die im Rahmen der Literaturauswertung ermittelt wurde. Diese Ordnungsentscheidung dient ausschliesslich der strukturellen Uebersicht und begruendet keine zusaetzliche Interpretation oder Gewichtung einzelner Begriffe.
 
-#todo weiter mit [[Folgen.md]] und [[Implikationen.md]].
+
 
 ### 7.3.2 Folgerungen aus den Ergebnissen {#sec:Conclusio-Folgerungen}
 
+#todo weiter mit [[Folgen.md]]
+
 ### 7.3.3 Praktische Implikationen {#sec:Conclusio-Implikationen}
+
+#todo weiter mit [[Implikationen.md]].
 
 - Empfehlungen für die Gestaltung und Implementierung von Learning Management System (LMS). 
 - Hinweise für Bildungsinstitutionen und Lehrpraxis.
