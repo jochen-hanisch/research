@@ -244,7 +244,7 @@ Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von de
 
 Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanagementprogramms. Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine beispielhafte Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
 
-#todo Suchordnerstrategie weiter ausführen und anpassen
+#todo (#55) Suchordnerstrategie weiter ausführen und anpassen
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:Visualisierungen-Literaturbasis}
 
@@ -357,7 +357,7 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 
 **Setup und Durchführung**
 
-#todo: Flussdiagramm ergänzen
+#todo (#56): Flussdiagramm ergänzen
 
 - Remote‑Studie mit Desktop/Laptop und Frontkamera.  
 - 9‑Punkt‑Kalibrierung; RealEye‑Validierung unmittelbar vor dem Stimulus.  
@@ -369,7 +369,7 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 
 **Metriken und Verarbeitung**
 
-#todo: Fließtextüberführung ergänzen
+#todo (#57): Fließtextüberführung ergänzen
 
 - Export ausschließlich als Heatmap, Viewmap und Fog‑View (keine CSV/Rohdaten).  
 - AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
@@ -381,7 +381,7 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 
 **Visualisierungstypen und Funktionen**
 
-#todo: Fließtextüberführung ergänzen
+#todo (#58): Fließtextüberführung ergänzen
 
 - Heatmap: Kernel‑Dichte‑basierte Fixationsdichtekarte; zeigt Hotspots/Coldspots und relative Aufmerksamkeitsverteilung.
 - Viewmap/Gaze‑Plot: Sequenzielle Darstellung von Fixationen (Kreise proportional zur Fixationsdauer) und Pfaden; macht Pfadtypik, Orientierungswechsel und Rekursionen sichtbar.
@@ -415,13 +415,13 @@ Auswertungsvorgehen (FU‑geführt)
 
 **Einschränkungen und Bias**
 
-#todo: Flussdiagramm ergänzen
+#todo (#59): Flussdiagramm ergänzen
 
 - Webcam‑Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung oder suboptimalen Lichtverhältnissen.  
 - Interpretationen basieren auf relativen Mustern, nicht auf punktgenauen Blickpositionen.  
 - Fehlende Rohdaten limitieren inferenzstatistische Analysen; qualitative Befundung bleibt jedoch belastbar.  
 - Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
-- KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
+- KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo (#60)), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
 ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung [@hanisch-johannsen_wirkgefuge_2025] {#sec:Umfrage-LMS}
 
@@ -603,7 +603,7 @@ Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 
 
 ### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:Datenanalyse-Synthese}
 
-#todo: ist das hier an der richtigen Stelle? Prüfen, $k$-meas n ggf. in 4.3.5 integrieren
+#todo (#61): ist das hier an der richtigen Stelle? Prüfen, $k$-meas n ggf. in 4.3.5 integrieren
 
 Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen des folgenden Abschnitts.
 
@@ -646,7 +646,7 @@ Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden
 3. Cluster 3 (grau): Bereich der technologiegestützten Lehr-Lern-Effektivität, oft verknüpft mit FU$_{2a}$/FU$_{2b}$. Enthält Quellen, die empirische Wirkmechanismen, Vergleichsstudien und Evaluationsdesigns behandeln.
 4. Cluster 4 (braun): Theoretische Kernliteratur (Kerngedanke der Promotion), mit starker Anbindung an Technologieintegration, Forschungsansätze und FU$_7$. Auffällige Dichte an Basismodellen (TPACK, SDT, Systemtheorie).
 
-#todo TPACK, SDT, Systemtheorie erklären bzw. referenzieren
+#todo (#62) TPACK, SDT, Systemtheorie erklären bzw. referenzieren
 
 Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen tatsächlich diskriminierende Kraft besitzen und die Literatur nicht durch zufällige Muster gruppiert wird, sondern strukturelle Kohärenzen im Diskurs sichtbar machen.
 
@@ -764,7 +764,7 @@ Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Um
 - **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Passungsbrüche und fließen in die Diskussion ein [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025].
 - **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage [@hanisch-johannsen_wirkgefuge_2025]. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
 
-#todo Eye-Tracking-Stichprobe und Stimulusreferenzen (F10-S3, F11-S3, F14-S3, Gesamt-Visuals) hier knapp einfügen; Triangulation mit Umfragezahlen benennen.
+#todo (#63) Eye-Tracking-Stichprobe und Stimulusreferenzen (F10-S3, F11-S3, F14-S3, Gesamt-Visuals) hier knapp einfügen; Triangulation mit Umfragezahlen benennen.
 
 Eine systematische Reflexion der Eye-Tracking-Daten [@hanisch-johannsen_wirkgefuge_2025-1] erfolgt im Rahmen der methodenkritischen SWOT-Analyse (vgl. Abschnitt 4.5.1), um Potenziale und Limitationen der empirischen Erhebung im Zusammenspiel mit generativer KI zu analysieren.
 

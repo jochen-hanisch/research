@@ -23,7 +23,7 @@ des digitalen Bildungsraums sichtbar.
 - Beitrag zur bildungswissenschaftlichen Theorieentwicklung (z.B. systemisch-konstruktivistische Perspektive, digitale Bildung).
 - Rückbindung an \hyperref[sec:Theorieteil]{2} (Theorie) und \hyperref[sec:Forschungsgegenstand]{3} (Forschungsgegenstand).
 
-#todo Abschnitt ergänzen, der den Beitrag der Arbeit zur Strukturierung des Forschungsfeldes (Zeitreihe, Cluster-/Netzwerkanalysen, systemische Forschungslücke) als theoretisch-methodische Leistung bündelt.
+#todo (#12) Abschnitt ergänzen, der den Beitrag der Arbeit zur Strukturierung des Forschungsfeldes (Zeitreihe, Cluster-/Netzwerkanalysen, systemische Forschungslücke) als theoretisch-methodische Leistung bündelt.
 
 ## 6.3 Praktische und gestalterische Implikationen {#sec:Diskussion-Praxis}
 
@@ -84,8 +84,8 @@ Vorschlag für die nächsten Schritte:
 - Dimensionen des Wirkgefüges aus dem Exposé extrahieren (z. B. Orientierung, Rückkopplung, Transparenz, Steuerung, Agency/Macht, Strukturierung, Entlastung, Reflexivität, Kognition/Handlungskopplung).
 - Für jede Dimension formulieren: a) positive Wirkgefügswahrscheinlichkeit, b) negative Wirkgefügswahrscheinlichkeit, c) Interdependenzformel, die beide verbindet. Beispiel: Transparenz (+) ermöglicht Orientierung; Übertransparenz (–) erzeugt Überwachung; Orientierung existiert nur, weil Sichtbarkeit hergestellt wird, und Sichtbarkeit erzeugt Selektionspotenzial.
 - Diese Interdependenzstrukturen bilden das Feld des digitalen Bildungsraums; entscheidend ist ihr Zusammenhang.
-#todo Kurzformat mit 10–12 Interdependenz-Thesen entlang der Wirkdimensionen (Positiv/Negativ/Kopplung) ausarbeiten und in Kap. 7 integrieren.
-#todo Wirkdimensionen (10–12) aus dem Gesamtdokument extrahieren, pro Dimension eine Interdependenzformel (Positiv/Negativ/Kopplung) entwickeln und das Grundgerüst für Kap. 7 (Manifest) daraus bauen.
+#todo (#13) Kurzformat mit 10–12 Interdependenz-Thesen entlang der Wirkdimensionen (Positiv/Negativ/Kopplung) ausarbeiten und in Kap. 7 integrieren.
+#todo (#13) Wirkdimensionen (10–12) aus dem Gesamtdokument extrahieren, pro Dimension eine Interdependenzformel (Positiv/Negativ/Kopplung) entwickeln und das Grundgerüst für Kap. 7 (Manifest) daraus bauen.
 
 6. **Mögliche Titel für Kapitel 7**  
 Vorschläge für das manifestartige Kapitel:
@@ -102,7 +102,7 @@ Das Modell versteht digitale Bildungsräume als Wirkgefüge, deren zentrale Stru
 - Bewertung der eingesetzten Methoden (\hyperref[sec:Methodologie]{Kapitel 4}) und ihrer Grenzen.
 - Diskurs über Validität, Reliabilität und Generalisierbarkeit der Befunde.
 
-#todo In einem Unterabschnitt explizit den methodischen Mehrwert der entwickelten Literaturpipeline (systematische Suche, Tagging, KI-Unterstützung, mdaCV) gegenüber klassischen Reviews herausarbeiten und als eigenständigen Beitrag der Dissertation markieren.
+#todo (#14) In einem Unterabschnitt explizit den methodischen Mehrwert der entwickelten Literaturpipeline (systematische Suche, Tagging, KI-Unterstützung, mdaCV) gegenüber klassischen Reviews herausarbeiten und als eigenständigen Beitrag der Dissertation markieren.
 
 Die Eye-Tracking-Daten [@hanisch-johannsen_wirkgefuge_2025-1] markieren innerhalb des Methodenensembles eine bewusst ambivalente Position. Sie sind stark in ihrer visuellen Anschauungskraft, und gleichzeitig schwach in metrischer Präzision und Generalisierbarkeit. Die Nutzung eines webcam-basierten Systems (RealEye) und die Beschränkung auf aggregierte Bildexporte (Heatmap, Viewmap, Fog-View) begrenzen die Auflösung klassischer AOI-Kennwerte und verankern die Analyse auf der Ebene qualitativ interpretierter Fixationsmuster. Diese Begrenzung ist FU-geleitet. Primär stützt das Eye-Tracking FU4b, indem es technisch-gestalterische Mechanismen des LMS im digitalen Bildungsraum sichtbar macht; sekundär verschränkt es FU1 und FU2, indem subjektive Einschätzungen zu Struktur, Nützlichkeit und Interaktionsmöglichkeiten mit den beobachteten Aufmerksamkeitsverteilungen gespiegelt werden. Mit jeweils acht Teilnehmenden pro Ausbildungsjahr $n_\text{gesamt} = 24$ bleibt die Stichprobe klein, macht jedoch die Expertisegradienten zwischen den Jahrgängen hinreichend sichtbar. Die in \hyperref[fig:eyetracking-verteilung]{Abbildung \ref{fig:eyetracking-verteilung}} dokumentierte Relation zur Grundgesamtheit verdeutlicht diese Konstellation: ausreichend breit, um typische Muster entlang der FU zu rekonstruieren, bewusst zu schmal für inferenzstatistische Hypothesentests. In der Triangulation mit Literaturbefunden und Umfrageergebnissen [@hanisch-johannsen_wirkgefuge_2025] entsteht daraus ein methodischer Zwischenraum, in dem die Eye-Tracking-Daten als qualitative, visuell verdichtete Spur fungieren, die die forschungsfragengeleitete Argumentation stützt, ohne ihren Geltungsanspruch zu überdehnen.
 
