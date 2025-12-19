@@ -1,0 +1,406 @@
+x_term,y_term,correlation,p_value,significance
+promotion:fu1,#0:zeitschriftenartikel:digital:learning,0.012928606581727248,0.429712279283409,Nicht signifikant
+promotion:fu1,#0:buch:digital:learning,-0.009449111825230685,0.5638421630055385,Nicht signifikant
+promotion:fu1,#0:buchteil:digital:learning,-0.0226971944279864,0.16560229345644156,Nicht signifikant
+promotion:fu1,#0:konferenz-paper:digital:learning,-0.005821932689577923,0.7221446622197412,Nicht signifikant
+promotion:fu1,#1:zeitschriftenartikel:learning:management:system,0.0069961227277452985,0.669151256051985,Nicht signifikant
+promotion:fu1,#1:buch:learning:management:system,-0.002908624770731419,0.8589956285593404,Nicht signifikant
+promotion:fu1,#1:buchteil:learning:management:system,-0.01307451738596604,0.42452404427656126,Nicht signifikant
+promotion:fu1,#1:konferenz-paper:learning:management:system,-0.006175921164968878,0.7060135402656499,Nicht signifikant
+promotion:fu1,#2:zeitschriftenartikel:online:lernplattform,-0.0046007896267203485,0.778704505148265,Nicht signifikant
+promotion:fu1,#3:zeitschriftenartikel:online:lernumgebung,0.04101702147032376,0.012200726203937052,Signifikant
+promotion:fu1,#3:buch:online:lernumgebung,-0.002908624770731419,0.8589956285593404,Nicht signifikant
+promotion:fu1,#3:buchteil:online:lernumgebung,-0.004114519539143568,0.8015768058385918,Nicht signifikant
+promotion:fu1,#3:konferenz-paper:online:lernumgebung,-0.002908624770731418,0.8589956285593404,Nicht signifikant
+promotion:fu1,#4:zeitschriftenartikel:mooc,0.007963057356193959,0.626702099000904,Nicht signifikant
+promotion:fu1,#4:buch:mooc,-0.004114519539143567,0.8015768058385918,Nicht signifikant
+promotion:fu1,#4:buchteil:mooc,-0.009449111825230692,0.5638421630055385,Nicht signifikant
+promotion:fu1,#4:konferenz-paper:mooc,0.012951711049737767,0.42888829536093764,Nicht signifikant
+promotion:fu1,#5:zeitschriftenartikel:e-learning,0.02496815564362999,0.12719967994841452,Nicht signifikant
+promotion:fu1,#5:buch:e-learning,-0.010105609895629928,0.537073549341179,Nicht signifikant
+promotion:fu1,#5:buchteil:e-learning,-0.02827639070796259,0.08409483405913819,Nicht signifikant
+promotion:fu1,#5:konferenz-paper:e-learning,-0.004600789626720349,0.778704505148265,Nicht signifikant
+promotion:fu1,#6:zeitschriftenartikel:bildung:technologie,0.0339870342183964,0.037852000380216175,Signifikant
+promotion:fu1,#6:buch:bildung:technologie,-0.009891503027884597,0.5457331400578829,Nicht signifikant
+promotion:fu1,#6:buchteil:bildung:technologie,-0.00924035993859413,0.5724866442438793,Nicht signifikant
+promotion:fu1,#6:konferenz-paper:bildung:technologie,0.031130182403979516,0.05719409419072542,Nicht signifikant
+promotion:fu1,#7:zeitschriftenartikel:digital:medien,0.052813826032673525,0.0012465627803667002,Signifikant
+promotion:fu1,#7:buch:digital:medien,-0.02623542803508458,0.10900563512624206,Nicht signifikant
+promotion:fu1,#7:buchteil:digital:medien,-0.08487972285367303,2.0621860670309063e-07,Signifikant
+promotion:fu1,#7:konferenz-paper:digital:medien,-0.005821932689577923,0.7221446622197412,Nicht signifikant
+promotion:fu1,#8:zeitschriftenartikel:blended:learning,0.08828083278924545,6.569968270788814e-08,Signifikant
+promotion:fu1,#8:buch:blended:learning,-0.006510866745530548,0.6908706832411571,Nicht signifikant
+promotion:fu1,#8:buchteil:blended:learning,-0.014337954493316646,0.3811518143082423,Nicht signifikant
+promotion:fu1,#8:konferenz-paper:blended:learning,-0.0029086247707314195,0.8589956285593404,Nicht signifikant
+promotion:fu1,#9:zeitschriftenartikel:digital:lernen,0.1810534652218387,7.110704792674284e-29,Signifikant
+promotion:fu1,#9:buch:digital:lernen,-0.013877017174045977,0.39665032316067667,Nicht signifikant
+promotion:fu1,#9:buchteil:digital:lernen,-0.01632634530143872,0.3186460730460689,Nicht signifikant
+promotion:fu1,#9:konferenz-paper:digital:lernen,-0.002908624770731419,0.8589956285593404,Nicht signifikant
+promotion:fu1,#a:zeitschriftenartikel:online:lernen,-0.005821932689577923,0.7221446622197412,Nicht signifikant
+promotion:fu1,#a:buch:online:lernen,-0.004114519539143567,0.8015768058385918,Nicht signifikant
+promotion:fu1,#a:buchteil:online:lernen,-0.008242311730586897,0.6146612959535678,Nicht signifikant
+promotion:fu1,#a:konferenz-paper:online:lernen,-0.002056432730435015,0.9000465365036884,Nicht signifikant
+promotion:fu1,#b:zeitschriftenartikel:online:learning,0.010575734144903683,0.518304713911809,Nicht signifikant
+promotion:fu1,#b:buch:online:learning,-0.002056432730435014,0.9000465365036884,Nicht signifikant
+promotion:fu1,#b:buchteil:online:learning,-0.016853955304250143,0.3032560733089645,Nicht signifikant
+promotion:fu1,#b:konferenz-paper:online:learning,-0.007134213682308116,0.6630197496076837,Nicht signifikant
+promotion:fu2a,#0:zeitschriftenartikel:digital:learning,0.023082548778388626,0.15853389642545287,Nicht signifikant
+promotion:fu2a,#0:buch:digital:learning,-0.011822173609111843,0.4702343396193183,Nicht signifikant
+promotion:fu2a,#0:buchteil:digital:learning,-0.02839739627706972,0.08277608117110824,Nicht signifikant
+promotion:fu2a,#0:konferenz-paper:digital:learning,-0.007284060160339283,0.6563917240424139,Nicht signifikant
+promotion:fu2a,#1:zeitschriftenartikel:learning:management:system,0.029473345715460297,0.07177244415465908,Nicht signifikant
+promotion:fu2a,#1:buch:learning:management:system,-0.0036391004402692054,0.8241044395908944,Nicht signifikant
+promotion:fu2a,#1:buchteil:learning:management:system,-0.016358068065139883,0.3177065449903523,Nicht signifikant
+promotion:fu2a,#1:konferenz-paper:learning:management:system,-0.007726949745000804,0.6369608457666998,Nicht signifikant
+promotion:fu2a,#2:zeitschriftenartikel:online:lernplattform,-0.005756237698537441,0.7251522467143322,Nicht signifikant
+promotion:fu2a,#3:zeitschriftenartikel:online:lernumgebung,-0.007284060160339282,0.6563917240424139,Nicht signifikant
+promotion:fu2a,#3:buch:online:lernumgebung,-0.0036391004402692062,0.8241044395908944,Nicht signifikant
+promotion:fu2a,#3:buchteil:online:lernumgebung,0.10161274307483245,4.896206742050415e-10,Signifikant
+promotion:fu2a,#3:konferenz-paper:online:lernumgebung,-0.0036391004402692054,0.8241044395908944,Nicht signifikant
+promotion:fu2a,#4:zeitschriftenartikel:mooc,0.2041532333607416,2.0538732622388627e-36,Signifikant
+promotion:fu2a,#4:buch:mooc,-0.0051478451318519095,0.7532011272349606,Nicht signifikant
+promotion:fu2a,#4:buchteil:mooc,-0.011822173609111846,0.4702343396193183,Nicht signifikant
+promotion:fu2a,#4:konferenz-paper:mooc,0.005412675583351316,0.7409490306584705,Nicht signifikant
+promotion:fu2a,#5:zeitschriftenartikel:e-learning,0.02484800434577034,0.12904055101976147,Nicht signifikant
+promotion:fu2a,#5:buch:e-learning,-0.012643545427527932,0.4399539073558865,Nicht signifikant
+promotion:fu2a,#5:buchteil:e-learning,-0.035377758901742024,0.030658824164444005,Signifikant
+promotion:fu2a,#5:konferenz-paper:e-learning,-0.005756237698537444,0.7251522467143322,Nicht signifikant
+promotion:fu2a,#6:zeitschriftenartikel:bildung:technologie,0.02008132859914129,0.2199551286196891,Nicht signifikant
+promotion:fu2a,#6:buch:bildung:technologie,-0.012375667492733076,0.44970451885956464,Nicht signifikant
+promotion:fu2a,#6:buchteil:bildung:technologie,-0.01723374260550851,0.2924887827631527,Nicht signifikant
+promotion:fu2a,#6:konferenz-paper:bildung:technologie,-0.008925909045921207,0.5856256536165756,Nicht signifikant
+promotion:fu2a,#7:zeitschriftenartikel:digital:medien,0.04272681084777479,0.009031679074610685,Signifikant
+promotion:fu2a,#7:buch:digital:medien,-0.03282422630579439,0.0449232379587385,Signifikant
+promotion:fu2a,#7:buchteil:digital:medien,-0.10243174009595704,3.545841946715268e-10,Signifikant
+promotion:fu2a,#7:konferenz-paper:digital:medien,-0.007284060160339282,0.6563917240424139,Nicht signifikant
+promotion:fu2a,#8:zeitschriftenartikel:blended:learning,0.050095356342289496,0.002201299275005887,Signifikant
+promotion:fu2a,#8:buch:blended:learning,-0.008146013978364147,0.6188019397662925,Nicht signifikant
+promotion:fu2a,#8:buchteil:blended:learning,-0.017938806350764756,0.2731876085255387,Nicht signifikant
+promotion:fu2a,#8:konferenz-paper:blended:learning,-0.003639100440269205,0.8241044395908944,Nicht signifikant
+promotion:fu2a,#9:zeitschriftenartikel:digital:lernen,-0.017405815840646714,0.2876958809505171,Nicht signifikant
+promotion:fu2a,#9:buch:digital:lernen,-0.01736210865556065,0.28890824673083515,Nicht signifikant
+promotion:fu2a,#9:buchteil:digital:lernen,-0.02042656411796713,0.2121262262062006,Nicht signifikant
+promotion:fu2a,#9:konferenz-paper:digital:lernen,-0.0036391004402692075,0.8241044395908944,Nicht signifikant
+promotion:fu2a,#a:zeitschriftenartikel:online:lernen,0.06824759700228997,3.002447240794239e-05,Signifikant
+promotion:fu2a,#a:buch:online:lernen,-0.0051478451318519095,0.7532011272349606,Nicht signifikant
+promotion:fu2a,#a:buchteil:online:lernen,-0.010312296226533275,0.5287800911826959,Nicht signifikant
+promotion:fu2a,#a:konferenz-paper:online:lernen,0.10414478155237603,1.790802380916286e-10,Signifikant
+promotion:fu2a,#b:zeitschriftenartikel:online:learning,0.07335992026938104,7.233138279644726e-06,Signifikant
+promotion:fu2a,#b:buch:online:learning,-0.00257288782314407,0.8751292822759189,Nicht signifikant
+promotion:fu2a,#b:buchteil:online:learning,-0.0210866787579998,0.19772105243440563,Nicht signifikant
+promotion:fu2a,#b:konferenz-paper:online:learning,0.11448304824453755,2.2920882249853236e-12,Signifikant
+promotion:fu2b,#0:zeitschriftenartikel:digital:learning,0.08621230706982061,1.3240625500628003e-07,Signifikant
+promotion:fu2b,#0:buch:digital:learning,-0.0067700119445983625,0.6792386334998756,Nicht signifikant
+promotion:fu2b,#0:buchteil:digital:learning,-0.01626187521413825,0.3205610712700764,Nicht signifikant
+promotion:fu2b,#0:konferenz-paper:digital:learning,-0.0041712443008502555,0.7988995001598282,Nicht signifikant
+promotion:fu2b,#1:zeitschriftenartikel:learning:management:system,0.05736033150829581,0.00045432993315833734,Signifikant
+promotion:fu2b,#1:buch:learning:management:system,-0.0020839444811762142,0.8987164758079517,Nicht signifikant
+promotion:fu2b,#1:buchteil:learning:management:system,-0.009367508873849972,0.5672138760358225,Nicht signifikant
+promotion:fu2b,#1:konferenz-paper:learning:management:system,-0.004424866678378675,0.7869582888805065,Nicht signifikant
+promotion:fu2b,#2:zeitschriftenartikel:online:lernplattform,-0.0032963310524394803,0.840437997337167,Nicht signifikant
+promotion:fu2b,#3:zeitschriftenartikel:online:lernumgebung,0.06070898476195802,0.00020611948697108756,Signifikant
+promotion:fu2b,#3:buch:online:lernumgebung,-0.0020839444811762142,0.8987164758079517,Nicht signifikant
+promotion:fu2b,#3:buchteil:online:lernumgebung,-0.002947932773100107,0.8571104128987792,Nicht signifikant
+promotion:fu2b,#3:konferenz-paper:online:lernumgebung,-0.002083944481176214,0.8987164758079517,Nicht signifikant
+promotion:fu2b,#4:zeitschriftenartikel:mooc,-0.009367508873849968,0.5672138760358225,Nicht signifikant
+promotion:fu2b,#4:buch:mooc,-0.0029479327731001064,0.8571104128987792,Nicht signifikant
+promotion:fu2b,#4:buchteil:mooc,-0.0067700119445983685,0.6792386334998756,Nicht signifikant
+promotion:fu2b,#4:konferenz-paper:mooc,-0.00810153929246556,0.6207183791135767,Nicht signifikant
+promotion:fu2b,#5:zeitschriftenartikel:e-learning,-0.005067032574321914,0.7569524021038715,Nicht signifikant
+promotion:fu2b,#5:buch:e-learning,-0.007240373589207235,0.6583213124691171,Nicht signifikant
+promotion:fu2b,#5:buchteil:e-learning,-0.02025920598504119,0.21589590298155822,Nicht signifikant
+promotion:fu2b,#5:konferenz-paper:e-learning,0.07873836107260442,1.4599092158754755e-06,Signifikant
+promotion:fu2b,#6:zeitschriftenartikel:bildung:technologie,0.011499647947549018,0.4824318373168516,Nicht signifikant
+promotion:fu2b,#6:buch:bildung:technologie,-0.007086972287702262,0.6651148466719957,Nicht signifikant
+promotion:fu2b,#6:buchteil:bildung:technologie,-0.015756909394532226,0.33581988567262,Nicht signifikant
+promotion:fu2b,#6:konferenz-paper:bildung:technologie,-0.00511145520741722,0.7548896129230995,Nicht signifikant
+promotion:fu2b,#7:zeitschriftenartikel:digital:medien,0.03604333564045355,0.027653736233409873,Signifikant
+promotion:fu2b,#7:buch:digital:medien,-0.018796915991079112,0.2508958842396034,Nicht signifikant
+promotion:fu2b,#7:buchteil:digital:medien,-0.060813836072845545,0.00020095117896094656,Signifikant
+promotion:fu2b,#7:konferenz-paper:digital:medien,-0.0041712443008502555,0.7988995001598282,Nicht signifikant
+promotion:fu2b,#8:zeitschriftenartikel:blended:learning,0.06076207137967474,0.00020348735141822422,Signifikant
+promotion:fu2b,#8:buch:blended:learning,-0.00466484537935437,0.7757053302645727,Nicht signifikant
+promotion:fu2b,#8:buchteil:blended:learning,-0.01027272456673373,0.5303628786232223,Nicht signifikant
+promotion:fu2b,#8:konferenz-paper:blended:learning,-0.0020839444811762142,0.8987164758079517,Nicht signifikant
+promotion:fu2b,#9:zeitschriftenartikel:digital:lernen,-0.01582991271723326,0.333585461879061,Nicht signifikant
+promotion:fu2b,#9:buch:digital:lernen,-0.009942476474120296,0.5436652468495212,Nicht signifikant
+promotion:fu2b,#9:buchteil:digital:lernen,-0.01169734835894792,0.47493476265296397,Nicht signifikant
+promotion:fu2b,#9:konferenz-paper:digital:lernen,-0.0020839444811762142,0.8987164758079517,Nicht signifikant
+promotion:fu2b,#a:zeitschriftenartikel:online:lernen,-0.004171244300850254,0.7988995001598282,Nicht signifikant
+promotion:fu2b,#a:buch:online:lernen,-0.002947932773100106,0.8571104128987792,Nicht signifikant
+promotion:fu2b,#a:buchteil:online:lernen,-0.005905375012938236,0.7183307720670924,Nicht signifikant
+promotion:fu2b,#a:konferenz-paper:online:lernen,-0.0014733738372249838,0.928294756066287,Nicht signifikant
+promotion:fu2b,#b:zeitschriftenartikel:online:learning,0.011442090769690282,0.4846265082363023,Nicht signifikant
+promotion:fu2b,#b:buch:online:learning,-0.0014733738372249845,0.928294756066287,Nicht signifikant
+promotion:fu2b,#b:buchteil:online:learning,-0.01207536547708439,0.46077951055253746,Nicht signifikant
+promotion:fu2b,#b:konferenz-paper:online:learning,-0.0051114552074172205,0.7548896129230995,Nicht signifikant
+promotion:fu3,#0:zeitschriftenartikel:digital:learning,0.028238300688926216,0.08451345004892095,Nicht signifikant
+promotion:fu3,#0:buch:digital:learning,-0.01697885785467898,0.299686287845863,Nicht signifikant
+promotion:fu3,#0:buchteil:digital:learning,-0.03365566725002929,0.039763508193794546,Signifikant
+promotion:fu3,#0:konferenz-paper:digital:learning,0.016508298244218844,0.31328187582570466,Nicht signifikant
+promotion:fu3,#1:zeitschriftenartikel:learning:management:system,0.054459280106541955,0.0008724470072675515,Signifikant
+promotion:fu3,#1:buch:learning:management:system,-0.005226430531066486,0.7495588119330434,Nicht signifikant
+promotion:fu3,#1:buchteil:learning:management:system,0.0007333529168112793,0.9642734181348668,Nicht signifikant
+promotion:fu3,#1:konferenz-paper:learning:management:system,0.03976379594282932,0.015113541791776135,Signifikant
+promotion:fu3,#2:zeitschriftenartikel:online:lernplattform,0.09403411551020321,8.605057871809218e-09,Signifikant
+promotion:fu3,#3:zeitschriftenartikel:online:lernumgebung,0.07044744690563583,1.6464100999136714e-05,Signifikant
+promotion:fu3,#3:buch:online:lernumgebung,-0.005226430531066487,0.7495588119330434,Nicht signifikant
+promotion:fu3,#3:buchteil:online:lernumgebung,0.03072700523490628,0.06049319535362854,Nicht signifikant
+promotion:fu3,#3:konferenz-paper:online:lernumgebung,0.048669329613881526,0.002935820803055153,Signifikant
+promotion:fu3,#4:zeitschriftenartikel:mooc,0.012846655741839831,0.43264232740516406,Nicht signifikant
+promotion:fu3,#4:buch:mooc,-0.0073932707843377046,0.6515780444528122,Nicht signifikant
+promotion:fu3,#4:buchteil:mooc,-0.01697885785467899,0.299686287845863,Nicht signifikant
+promotion:fu3,#4:konferenz-paper:mooc,0.007618413208625961,0.6417002960478969,Nicht signifikant
+promotion:fu3,#5:zeitschriftenartikel:e-learning,0.03521849269479532,0.0314181358509448,Signifikant
+promotion:fu3,#5:buch:e-learning,-0.01815850178580663,0.26735549862475666,Nicht signifikant
+promotion:fu3,#5:buchteil:e-learning,-0.04498741429109137,0.0059754595729587575,Signifikant
+promotion:fu3,#5:konferenz-paper:e-learning,-0.0082670365782722,0.6136001386614213,Nicht signifikant
+promotion:fu3,#6:zeitschriftenartikel:bildung:technologie,0.09629396897169146,3.74389253499587e-09,Signifikant
+promotion:fu3,#6:buch:bildung:technologie,-0.017773778846720253,0.27762527968731476,Nicht signifikant
+promotion:fu3,#6:buchteil:bildung:technologie,-0.024832469367926602,0.12928006944258164,Nicht signifikant
+promotion:fu3,#6:konferenz-paper:bildung:technologie,0.0753103126133176,4.098338171994893e-06,Signifikant
+promotion:fu3,#7:zeitschriftenartikel:digital:medien,0.07523774085585005,4.18693271670108e-06,Signifikant
+promotion:fu3,#7:buch:digital:medien,-0.04714174322447351,0.0039652060406648575,Signifikant
+promotion:fu3,#7:buchteil:digital:medien,-0.14982958701506827,3.472555297720019e-20,Signifikant
+promotion:fu3,#7:konferenz-paper:digital:medien,0.07044744690563581,1.6464100999136714e-05,Signifikant
+promotion:fu3,#8:zeitschriftenartikel:blended:learning,0.011392631100523751,0.4865167309838692,Nicht signifikant
+promotion:fu3,#8:buch:blended:learning,-0.011699203377818077,0.47486472180266004,Nicht signifikant
+promotion:fu3,#8:buchteil:blended:learning,-0.01469361065961455,0.36945102836949945,Nicht signifikant
+promotion:fu3,#8:konferenz-paper:blended:learning,-0.005226430531066486,0.7495588119330434,Nicht signifikant
+promotion:fu3,#9:zeitschriftenartikel:digital:lernen,0.2892808459874166,7.069498495846524e-73,Signifikant
+promotion:fu3,#9:buch:digital:lernen,-0.02493524326973595,0.1277018962004907,Nicht signifikant
+promotion:fu3,#9:buchteil:digital:lernen,-0.019577625993925193,0.23174600145560081,Nicht signifikant
+promotion:fu3,#9:konferenz-paper:digital:lernen,-0.005226430531066487,0.7495588119330434,Nicht signifikant
+promotion:fu3,#a:zeitschriftenartikel:online:lernen,0.01650829824421883,0.31328187582570466,Nicht signifikant
+promotion:fu3,#a:buch:online:lernen,-0.007393270784337704,0.6515780444528122,Nicht signifikant
+promotion:fu3,#a:buchteil:online:lernen,0.023371369530590817,0.15338764818077097,Nicht signifikant
+promotion:fu3,#a:konferenz-paper:online:lernen,-0.003695149307529032,0.8214406439874304,Nicht signifikant
+promotion:fu3,#b:zeitschriftenartikel:online:learning,-0.018458937156851936,0.25951944011933337,Nicht signifikant
+promotion:fu3,#b:buch:online:learning,-0.0036951493075290313,0.8214406439874304,Nicht signifikant
+promotion:fu3,#b:buchteil:online:learning,-0.03028442426047697,0.06429468074900228,Nicht signifikant
+promotion:fu3,#b:konferenz-paper:online:learning,-0.012819278918191679,0.43362372102535324,Nicht signifikant
+promotion:fu4a,#0:zeitschriftenartikel:digital:learning,0.006337034117453642,0.6987146677687649,Nicht signifikant
+promotion:fu4a,#0:buch:digital:learning,-0.01993427603007161,0.22335202605871482,Nicht signifikant
+promotion:fu4a,#0:buchteil:digital:learning,-0.04788303358073958,0.003430533189091119,Signifikant
+promotion:fu4a,#0:konferenz-paper:digital:learning,0.011110390494157088,0.49737906733718423,Nicht signifikant
+promotion:fu4a,#1:zeitschriftenartikel:learning:management:system,0.011078901838897832,0.4985988976689027,Nicht signifikant
+promotion:fu4a,#1:buch:learning:management:system,-0.006136167093804958,0.7078187090966871,Nicht signifikant
+promotion:fu4a,#1:buchteil:learning:management:system,-0.006569161242342253,0.688247575686335,Nicht signifikant
+promotion:fu4a,#1:konferenz-paper:learning:management:system,0.03108643576656653,0.05754466844969526,Nicht signifikant
+promotion:fu4a,#2:zeitschriftenartikel:online:lernplattform,0.019871621105724106,0.22481068711284105,Nicht signifikant
+promotion:fu4a,#3:zeitschriftenartikel:online:lernumgebung,0.011110390494157088,0.49737906733718423,Nicht signifikant
+promotion:fu4a,#3:buch:online:lernumgebung,-0.00613616709380496,0.7078187090966871,Nicht signifikant
+promotion:fu4a,#3:buchteil:online:lernumgebung,0.024384213024049802,0.13634101232711685,Nicht signifikant
+promotion:fu4a,#3:konferenz-paper:online:lernumgebung,0.04061140792899897,0.013083807965895405,Signifikant
+promotion:fu4a,#4:zeitschriftenartikel:mooc,0.02495099160812523,0.12746139726186276,Nicht signifikant
+promotion:fu4a,#4:buch:mooc,-0.00868017753852844,0.5959896987802168,Nicht signifikant
+promotion:fu4a,#4:buchteil:mooc,0.02345619185346036,0.15190065907973066,Nicht signifikant
+promotion:fu4a,#4:konferenz-paper:mooc,-0.02385495355784939,0.14505679383000963,Nicht signifikant
+promotion:fu4a,#5:zeitschriftenartikel:e-learning,0.02595430710793971,0.11285287876494908,Nicht signifikant
+promotion:fu4a,#5:buch:e-learning,-0.021319254215386767,0.19282015336934782,Nicht signifikant
+promotion:fu4a,#5:buchteil:e-learning,-0.03945495157632292,0.015919273814413402,Signifikant
+promotion:fu4a,#5:konferenz-paper:e-learning,0.019871621105724106,0.22481068711284105,Nicht signifikant
+promotion:fu4a,#6:zeitschriftenartikel:bildung:technologie,0.14163687497698096,3.4763505889827025e-18,Signifikant
+promotion:fu4a,#6:buch:bildung:technologie,-0.020867564630110285,0.20242106503128318,Nicht signifikant
+promotion:fu4a,#6:buchteil:bildung:technologie,-0.046396163525538395,0.004578219597582178,Signifikant
+promotion:fu4a,#6:konferenz-paper:bildung:technologie,0.023169828076393145,0.15696514994066377,Nicht signifikant
+promotion:fu4a,#7:zeitschriftenartikel:digital:medien,0.11552010408954043,1.4475095205475146e-12,Signifikant
+promotion:fu4a,#7:buch:digital:medien,-0.049941590289877574,0.002271494519300921,Signifikant
+promotion:fu4a,#7:buchteil:digital:medien,-0.17906612346391487,2.85684620121553e-28,Signifikant
+promotion:fu4a,#7:konferenz-paper:digital:medien,0.011110390494157091,0.49737906733718423,Nicht signifikant
+promotion:fu4a,#8:zeitschriftenartikel:blended:learning,0.0791692000922981,1.2783854904475875e-06,Signifikant
+promotion:fu4a,#8:buch:blended:learning,-0.013735620585403684,0.4014797866142939,Nicht signifikant
+promotion:fu4a,#8:buchteil:blended:learning,-0.03024800085582667,0.06461612476107449,Nicht signifikant
+promotion:fu4a,#8:konferenz-paper:blended:learning,-0.0061361670938049565,0.7078187090966871,Nicht signifikant
+promotion:fu4a,#9:zeitschriftenartikel:digital:lernen,0.06118728896914738,0.0001835148224638806,Signifikant
+promotion:fu4a,#9:buch:digital:lernen,-0.02927558652473916,0.07369984069619141,Nicht signifikant
+promotion:fu4a,#9:buchteil:digital:lernen,-0.03444280053201686,0.03535093710038125,Signifikant
+promotion:fu4a,#9:konferenz-paper:digital:lernen,-0.0061361670938049635,0.7078187090966871,Nicht signifikant
+promotion:fu4a,#a:zeitschriftenartikel:online:lernen,0.011110390494157086,0.49737906733718423,Nicht signifikant
+promotion:fu4a,#a:buch:online:lernen,-0.008680177538528443,0.5959896987802168,Nicht signifikant
+promotion:fu4a,#a:buchteil:online:lernen,0.015729364591474015,0.33666545019803323,Nicht signifikant
+promotion:fu4a,#a:konferenz-paper:online:lernen,-0.00433834400988949,0.791026533583784,Nicht signifikant
+promotion:fu4a,#b:zeitschriftenartikel:online:learning,0.17084412097988164,7.593575518558293e-26,Signifikant
+promotion:fu4a,#b:buch:online:learning,-0.004338344009889491,0.791026533583784,Nicht signifikant
+promotion:fu4a,#b:buchteil:online:learning,-0.027347455937426116,0.09479371333749002,Nicht signifikant
+promotion:fu4a,#b:konferenz-paper:online:learning,0.08050056263837434,8.444982048586743e-07,Signifikant
+promotion:fu4b,#0:zeitschriftenartikel:digital:learning,0.06198056463351345,0.00015108386297454088,Signifikant
+promotion:fu4b,#0:buch:digital:learning,-0.01254276919095898,0.4436078034953262,Nicht signifikant
+promotion:fu4b,#0:buchteil:digital:learning,-0.0206914021926623,0.20625837276371137,Nicht signifikant
+promotion:fu4b,#0:konferenz-paper:digital:learning,0.027975904164432925,0.08744322466932544,Nicht signifikant
+promotion:fu4b,#1:zeitschriftenartikel:learning:management:system,0.07424710960319716,5.5956123356972324e-06,Signifikant
+promotion:fu4b,#1:buch:learning:management:system,-0.0038609141088770532,0.813574603224586,Nicht signifikant
+promotion:fu4b,#1:buchteil:learning:management:system,0.014717501960098169,0.36867310831247935,Nicht signifikant
+promotion:fu4b,#1:konferenz-paper:learning:management:system,0.025468595430786316,0.11975122845331629,Nicht signifikant
+promotion:fu4b,#2:zeitschriftenartikel:online:lernplattform,0.039037047689230386,0.01706951939750939,Signifikant
+promotion:fu4b,#3:zeitschriftenartikel:online:lernumgebung,0.06367985296642545,9.885778120282836e-05,Signifikant
+promotion:fu4b,#3:buch:online:lernumgebung,-0.0038609141088770532,0.813574603224586,Nicht signifikant
+promotion:fu4b,#3:buchteil:online:lernumgebung,-0.005461621141297986,0.7386916837571086,Nicht signifikant
+promotion:fu4b,#3:konferenz-paper:online:lernumgebung,-0.0038609141088770537,0.813574603224586,Nicht signifikant
+promotion:fu4b,#4:zeitschriftenartikel:mooc,0.014717501960098151,0.36867310831247935,Nicht signifikant
+promotion:fu4b,#4:buch:mooc,-0.005461621141297985,0.7386916837571086,Nicht signifikant
+promotion:fu4b,#4:buchteil:mooc,-0.012542769190958985,0.4436078034953262,Nicht signifikant
+promotion:fu4b,#4:konferenz-paper:mooc,-0.015009683626623069,0.3592420077488358,Nicht signifikant
+promotion:fu4b,#5:zeitschriftenartikel:e-learning,0.06733374043040898,3.8338501664567897e-05,Signifikant
+promotion:fu4b,#5:buch:e-learning,-0.013414205990906756,0.41258828556425103,Nicht signifikant
+promotion:fu4b,#5:buchteil:e-learning,-0.029827043642945736,0.06842825798401997,Nicht signifikant
+promotion:fu4b,#5:konferenz-paper:e-learning,-0.006107096989795956,0.7091397764881109,Nicht signifikant
+promotion:fu4b,#6:zeitschriftenartikel:bildung:technologie,0.13196761631032078,5.692502097377941e-16,Signifikant
+promotion:fu4b,#6:buch:bildung:technologie,-0.013130000123307834,0.4225608571476826,Nicht signifikant
+promotion:fu4b,#6:buchteil:bildung:technologie,-0.029192751699080748,0.07451963790707324,Nicht signifikant
+promotion:fu4b,#6:konferenz-paper:bildung:technologie,-0.009469968948535296,0.5629819288916287,Nicht signifikant
+promotion:fu4b,#7:zeitschriftenartikel:digital:medien,0.04671133321661554,0.004309316021200788,Signifikant
+promotion:fu4b,#7:buch:digital:medien,-0.034824957578703096,0.03336380549089096,Signifikant
+promotion:fu4b,#7:buchteil:digital:medien,-0.11266950719150749,5.070119184776969e-12,Signifikant
+promotion:fu4b,#7:konferenz-paper:digital:medien,-0.007728044637559588,0.6369131103699873,Nicht signifikant
+promotion:fu4b,#8:zeitschriftenartikel:blended:learning,-0.007893979084522287,0.6296961671521395,Nicht signifikant
+promotion:fu4b,#8:buch:blended:learning,-0.0086425370270487,0.5975845883780476,Nicht signifikant
+promotion:fu4b,#8:buchteil:blended:learning,-0.019032228341286817,0.24501119464548451,Nicht signifikant
+promotion:fu4b,#8:konferenz-paper:blended:learning,-0.003860914108877055,0.813574603224586,Nicht signifikant
+promotion:fu4b,#9:zeitschriftenartikel:digital:lernen,0.0771337928899588,2.3794739354696178e-06,Signifikant
+promotion:fu4b,#9:buch:digital:lernen,-0.018420379258109087,0.2605161318388766,Nicht signifikant
+promotion:fu4b,#9:buchteil:digital:lernen,-0.021671622120192677,0.18556586061687477,Nicht signifikant
+promotion:fu4b,#9:konferenz-paper:digital:lernen,0.06748954316061823,3.678144677348983e-05,Signifikant
+promotion:fu4b,#a:zeitschriftenartikel:online:lernen,-0.007728044637559584,0.6369131103699873,Nicht signifikant
+promotion:fu4b,#a:buch:online:lernen,-0.005461621141297984,0.7386916837571086,Nicht signifikant
+promotion:fu4b,#a:buchteil:online:lernen,0.014332797972430937,0.38132311488818593,Nicht signifikant
+promotion:fu4b,#a:konferenz-paper:online:lernen,-0.002729712757309895,0.8675862655969198,Nicht signifikant
+promotion:fu4b,#b:zeitschriftenartikel:online:learning,-0.009453981102423572,0.5636412772272077,Nicht signifikant
+promotion:fu4b,#b:buch:online:learning,-0.0027297127573098945,0.8675862655969198,Nicht signifikant
+promotion:fu4b,#b:buchteil:online:learning,-0.009843533721442501,0.5476827161392197,Nicht signifikant
+promotion:fu4b,#b:konferenz-paper:online:learning,-0.009469968948535298,0.5629819288916287,Nicht signifikant
+promotion:fu5,#0:zeitschriftenartikel:digital:learning,-0.004712656658121315,0.7734689176887861,Nicht signifikant
+promotion:fu5,#0:buch:digital:learning,-0.014343972937496159,0.38095194020954637,Nicht signifikant
+promotion:fu5,#0:buchteil:digital:learning,-0.03445487244238189,0.0352866550092987,Signifikant
+promotion:fu5,#0:konferenz-paper:digital:learning,0.05412327634180464,0.0009391231337446489,Signifikant
+promotion:fu5,#1:zeitschriftenartikel:learning:management:system,0.03436899474314434,0.035746123984408934,Signifikant
+promotion:fu5,#1:buch:learning:management:system,-0.004415360487670371,0.7874049824393686,Nicht signifikant
+promotion:fu5,#1:buchteil:learning:management:system,-0.019847423442947928,0.22537584690154353,Nicht signifikant
+promotion:fu5,#1:konferenz-paper:learning:management:system,0.02030894203187118,0.21477061638962866,Nicht signifikant
+promotion:fu5,#2:zeitschriftenartikel:online:lernplattform,0.0328199684642847,0.04495104890596021,Signifikant
+promotion:fu5,#3:zeitschriftenartikel:online:lernumgebung,-0.008837830103803561,0.5893308750912926,Nicht signifikant
+promotion:fu5,#3:buch:online:lernumgebung,-0.004415360487670371,0.7874049824393686,Nicht signifikant
+promotion:fu5,#3:buchteil:online:lernumgebung,-0.006245936973958253,0.7028382568663586,Nicht signifikant
+promotion:fu5,#3:konferenz-paper:online:lernumgebung,-0.004415360487670371,0.7874049824393686,Nicht signifikant
+promotion:fu5,#4:zeitschriftenartikel:mooc,0.10740713484192263,4.728804426045103e-11,Signifikant
+promotion:fu5,#4:buch:mooc,-0.006245936973958251,0.7028382568663586,Nicht signifikant
+promotion:fu5,#4:buchteil:mooc,-0.014343972937496162,0.38095194020954637,Nicht signifikant
+promotion:fu5,#4:konferenz-paper:mooc,-0.017165148498136357,0.294414250927569,Nicht signifikant
+promotion:fu5,#5:zeitschriftenartikel:e-learning,0.02882196244635282,0.07828099986598921,Nicht signifikant
+promotion:fu5,#5:buch:e-learning,-0.01534055237580706,0.3487469216082726,Nicht signifikant
+promotion:fu5,#5:buchteil:e-learning,-0.03612879786978633,0.027286907765281417,Signifikant
+promotion:fu5,#5:konferenz-paper:e-learning,-0.0069841063496122475,0.6696858583516235,Nicht signifikant
+promotion:fu5,#6:zeitschriftenartikel:bildung:technologie,0.020220907128508422,0.21676530899069615,Nicht signifikant
+promotion:fu5,#6:buch:bildung:technologie,-0.01501553313871107,0.35905475669066117,Nicht signifikant
+promotion:fu5,#6:buchteil:bildung:technologie,-0.03338497535651805,0.04138519601197288,Signifikant
+promotion:fu5,#6:konferenz-paper:bildung:technologie,-0.010829903368917336,0.5083005104073399,Nicht signifikant
+promotion:fu5,#7:zeitschriftenartikel:digital:medien,0.1429239693153179,1.7156510453043936e-18,Signifikant
+promotion:fu5,#7:buch:digital:medien,-0.039825993881673016,0.014955689958597524,Signifikant
+promotion:fu5,#7:buchteil:digital:medien,-0.12884940617427149,2.727010915582959e-15,Signifikant
+promotion:fu5,#7:konferenz-paper:digital:medien,0.08560382956460871,1.6222734551618828e-07,Signifikant
+promotion:fu5,#8:zeitschriftenartikel:blended:learning,0.20927831496177668,3.225784400967724e-38,Signifikant
+promotion:fu5,#8:buch:blended:learning,-0.009883648127452856,0.546052144442478,Nicht signifikant
+promotion:fu5,#8:buchteil:blended:learning,-0.021765350546707547,0.1836706570087262,Nicht signifikant
+promotion:fu5,#8:konferenz-paper:blended:learning,0.058495100201159764,0.00034913833717079506,Signifikant
+promotion:fu5,#9:zeitschriftenartikel:digital:lernen,-0.016472650419080737,0.31432810992510746,Nicht signifikant
+promotion:fu5,#9:buch:digital:lernen,-0.02106563690633701,0.19816890662057568,Nicht signifikant
+promotion:fu5,#9:buchteil:digital:lernen,-0.024783774338106888,0.1300330868269511,Nicht signifikant
+promotion:fu5,#9:konferenz-paper:digital:lernen,-0.004415360487670373,0.7874049824393686,Nicht signifikant
+promotion:fu5,#a:zeitschriftenartikel:online:lernen,0.08560382956460871,1.6222734551618828e-07,Signifikant
+promotion:fu5,#a:buch:online:lernen,-0.006245936973958253,0.7028382568663586,Nicht signifikant
+promotion:fu5,#a:buchteil:online:lernen,0.009772032562515257,0.5505950522585131,Nicht signifikant
+promotion:fu5,#a:konferenz-paper:online:lernen,-0.003121713022210009,0.8487857979808469,Nicht signifikant
+promotion:fu5,#b:zeitschriftenartikel:online:learning,0.07137505495999409,1.2712253003178218e-05,Signifikant
+promotion:fu5,#b:buch:online:learning,-0.0031217130222100076,0.8487857979808469,Nicht signifikant
+promotion:fu5,#b:buchteil:online:learning,-0.025584698672780504,0.11807295987487998,Nicht signifikant
+promotion:fu5,#b:konferenz-paper:online:learning,0.014887672506507854,0.3631617295157933,Nicht signifikant
+promotion:fu6,#0:zeitschriftenartikel:digital:learning,0.0077571264555329165,0.6356457459231312,Nicht signifikant
+promotion:fu6,#0:buch:digital:learning,-0.010769968788749522,0.5106504040780111,Nicht signifikant
+promotion:fu6,#0:buchteil:digital:learning,-0.02586995265828864,0.11402793248037414,Nicht signifikant
+promotion:fu6,#0:konferenz-paper:digital:learning,-0.006635759478423153,0.6852554031996594,Nicht signifikant
+promotion:fu6,#1:zeitschriftenartikel:learning:management:system,0.04778035308243126,0.003500454436892693,Signifikant
+promotion:fu6,#1:buch:learning:management:system,-0.0033152108450358324,0.839536484794208,Nicht signifikant
+promotion:fu6,#1:buchteil:learning:management:system,-0.014902156602573558,0.3626950197312373,Nicht signifikant
+promotion:fu6,#1:konferenz-paper:learning:management:system,-0.007039230714879232,0.6672347850975555,Nicht signifikant
+promotion:fu6,#2:zeitschriftenartikel:online:lernplattform,-0.005243917269671112,0.7487490833995294,Nicht signifikant
+promotion:fu6,#3:zeitschriftenartikel:online:lernumgebung,-0.006635759478423153,0.6852554031996594,Nicht signifikant
+promotion:fu6,#3:buch:online:lernumgebung,-0.003315210845035833,0.839536484794208,Nicht signifikant
+promotion:fu6,#3:buchteil:online:lernumgebung,-0.004689673255739514,0.7745437522068758,Nicht signifikant
+promotion:fu6,#3:konferenz-paper:online:lernumgebung,-0.003315210845035832,0.839536484794208,Nicht signifikant
+promotion:fu6,#4:zeitschriftenartikel:mooc,0.07781409439310485,1.9365672883042607e-06,Signifikant
+promotion:fu6,#4:buch:mooc,-0.004689673255739513,0.7745437522068758,Nicht signifikant
+promotion:fu6,#4:buchteil:mooc,-0.010769968788749525,0.5106504040780111,Nicht signifikant
+promotion:fu6,#4:konferenz-paper:mooc,-0.012888208475067667,0.43115521982176075,Nicht signifikant
+promotion:fu6,#5:zeitschriftenartikel:e-learning,0.014962146920689059,0.3607659982049786,Nicht signifikant
+promotion:fu6,#5:buch:e-learning,-0.011518236335884998,0.48172421223953205,Nicht signifikant
+promotion:fu6,#5:buchteil:e-learning,-0.014405189217622863,0.3789225885012992,Nicht signifikant
+promotion:fu6,#5:konferenz-paper:e-learning,0.1513604280717871,1.425979639939378e-20,Signifikant
+promotion:fu6,#6:zeitschriftenartikel:bildung:technologie,0.040526801165556514,0.013274976951651921,Signifikant
+promotion:fu6,#6:buch:bildung:technologie,-0.011274200248078625,0.4910590003648339,Nicht signifikant
+promotion:fu6,#6:buchteil:bildung:technologie,-0.02506663559458962,0.12570612814163593,Nicht signifikant
+promotion:fu6,#6:konferenz-paper:bildung:technologie,0.1267787997068035,7.558954010959572e-15,Signifikant
+promotion:fu6,#7:zeitschriftenartikel:digital:medien,0.007618559415451405,0.6416939017721591,Nicht signifikant
+promotion:fu6,#7:buch:digital:medien,-0.029902783068232672,0.06772905268525665,Nicht signifikant
+promotion:fu6,#7:buchteil:digital:medien,-0.09674475049504991,3.163987472600337e-09,Signifikant
+promotion:fu6,#7:konferenz-paper:digital:medien,0.034649724076499556,0.03426279812946914,Signifikant
+promotion:fu6,#8:zeitschriftenartikel:blended:learning,-0.002837644789141335,0.8624018648235959,Nicht signifikant
+promotion:fu6,#8:buch:blended:learning,-0.007420997119521258,0.6503582468274384,Nicht signifikant
+promotion:fu6,#8:buchteil:blended:learning,-0.016342204986420653,0.3181761321779377,Nicht signifikant
+promotion:fu6,#8:konferenz-paper:blended:learning,-0.0033152108450358324,0.839536484794208,Nicht signifikant
+promotion:fu6,#9:zeitschriftenartikel:digital:lernen,0.008391259318092537,0.6082809382755652,Nicht signifikant
+promotion:fu6,#9:buch:digital:lernen,-0.015816834916308937,0.33398502958948284,Nicht signifikant
+promotion:fu6,#9:buchteil:digital:lernen,-0.01860854571128433,0.2556771814193093,Nicht signifikant
+promotion:fu6,#9:konferenz-paper:digital:lernen,0.0791893363850893,1.2704556976766271e-06,Signifikant
+promotion:fu6,#a:zeitschriftenartikel:online:lernen,0.03464972407649957,0.03426279812946914,Signifikant
+promotion:fu6,#a:buch:online:lernen,-0.004689673255739512,0.7745437522068758,Nicht signifikant
+promotion:fu6,#a:buchteil:online:lernen,-0.009394474499554115,0.5660986287262925,Nicht signifikant
+promotion:fu6,#a:konferenz-paper:online:lernen,-0.002343893979941062,0.8861637170376886,Nicht signifikant
+promotion:fu6,#b:zeitschriftenartikel:online:learning,0.12194267491007336,7.667344374824914e-14,Signifikant
+promotion:fu6,#b:buch:online:learning,-0.002343893979941062,0.8861637170376886,Nicht signifikant
+promotion:fu6,#b:buchteil:online:learning,-0.019209908396794977,0.24063239720255175,Nicht signifikant
+promotion:fu6,#b:konferenz-paper:online:learning,-0.008131479456679244,0.6194279564069578,Nicht signifikant
+promotion:fu7,#0:zeitschriftenartikel:digital:learning,0.0034226113404679437,0.8344121339673799,Nicht signifikant
+promotion:fu7,#0:buch:digital:learning,-0.003697618339484992,0.8213233470941441,Nicht signifikant
+promotion:fu7,#0:buchteil:digital:learning,-0.008881846667078697,0.5874778767952268,Nicht signifikant
+promotion:fu7,#0:konferenz-paper:digital:learning,-0.002278233709410561,0.8893318333037539,Nicht signifikant
+promotion:fu7,#1:zeitschriftenartikel:learning:management:system,0.045147881312746524,0.005798901730324908,Signifikant
+promotion:fu7,#1:buch:learning:management:system,-0.0011382005519523257,0.9445766444453995,Nicht signifikant
+promotion:fu7,#1:buchteil:learning:management:system,-0.0051163089357430845,0.7546643329595006,Nicht signifikant
+promotion:fu7,#1:konferenz-paper:learning:management:system,-0.0024167561761546715,0.8826502367316205,Nicht signifikant
+promotion:fu7,#2:zeitschriftenartikel:online:lernplattform,-0.001800377052840957,0.9124385649744468,Nicht signifikant
+promotion:fu7,#3:zeitschriftenartikel:online:lernumgebung,-0.00227823370941056,0.8893318333037539,Nicht signifikant
+promotion:fu7,#3:buch:online:lernumgebung,-0.0011382005519523259,0.9445766444453995,Nicht signifikant
+promotion:fu7,#3:buchteil:online:lernumgebung,-0.0016100902590106825,0.9216616291039768,Nicht signifikant
+promotion:fu7,#3:konferenz-paper:online:lernumgebung,-0.0011382005519523257,0.9445766444453995,Nicht signifikant
+promotion:fu7,#4:zeitschriftenartikel:mooc,-0.005116308935743082,0.7546643329595006,Nicht signifikant
+promotion:fu7,#4:buch:mooc,-0.0016100902590106827,0.9216616291039768,Nicht signifikant
+promotion:fu7,#4:buchteil:mooc,-0.0036976183394849915,0.8213233470941441,Nicht signifikant
+promotion:fu7,#4:konferenz-paper:mooc,-0.004424866678378676,0.7869582888805065,Nicht signifikant
+promotion:fu7,#5:zeitschriftenartikel:e-learning,0.015676101244506,0.33830439599015705,Nicht signifikant
+promotion:fu7,#5:buch:e-learning,-0.003954518601630579,0.8091410220296708,Nicht signifikant
+promotion:fu7,#5:buchteil:e-learning,-0.011065092972762328,0.49913433659525813,Nicht signifikant
+promotion:fu7,#5:konferenz-paper:e-learning,-0.0018003770528409577,0.9124385649744468,Nicht signifikant
+promotion:fu7,#6:zeitschriftenartikel:bildung:technologie,0.0359651199261079,0.027993178594828996,Signifikant
+promotion:fu7,#6:buch:bildung:technologie,-0.0038707344856810867,0.8131091775127374,Nicht signifikant
+promotion:fu7,#6:buchteil:bildung:technologie,-0.008606046433538777,0.5991326023726357,Nicht signifikant
+promotion:fu7,#6:konferenz-paper:bildung:technologie,-0.0027917543825726936,0.8646054514036084,Nicht signifikant
+promotion:fu7,#7:zeitschriftenartikel:digital:medien,-0.008764578950755187,0.5924205427808988,Nicht signifikant
+promotion:fu7,#7:buch:digital:medien,-0.010266425209164995,0.5306150620652502,Nicht signifikant
+promotion:fu7,#7:buchteil:digital:medien,-0.03321506038653347,0.042431474498531345,Signifikant
+promotion:fu7,#7:konferenz-paper:digital:medien,-0.0022782337094105595,0.8893318333037539,Nicht signifikant
+promotion:fu7,#8:zeitschriftenartikel:blended:learning,0.03756640661059595,0.021716833910828223,Signifikant
+promotion:fu7,#8:buch:blended:learning,-0.0025478267936181334,0.8763357458886153,Nicht signifikant
+promotion:fu7,#8:buchteil:blended:learning,-0.005610716061548414,0.7318294294673731,Nicht signifikant
+promotion:fu7,#8:konferenz-paper:blended:learning,-0.0011382005519523257,0.9445766444453995,Nicht signifikant
+promotion:fu7,#9:zeitschriftenartikel:digital:lernen,-0.008645919099506238,0.5974412052218268,Nicht signifikant
+promotion:fu7,#9:buch:digital:lernen,-0.005430342464895944,0.7401339838333538,Nicht signifikant
+promotion:fu7,#9:buchteil:digital:lernen,-0.00638881144809508,0.6963748686596165,Nicht signifikant
+promotion:fu7,#9:konferenz-paper:digital:lernen,-0.0011382005519523263,0.9445766444453995,Nicht signifikant
+promotion:fu7,#a:zeitschriftenartikel:online:lernen,-0.0022782337094105595,0.8893318333037539,Nicht signifikant
+promotion:fu7,#a:buch:online:lernen,-0.001610090259010683,0.9216616291039768,Nicht signifikant
+promotion:fu7,#a:buchteil:online:lernen,-0.003225374360941732,0.8438280500698037,Nicht signifikant
+promotion:fu7,#a:konferenz-paper:online:lernen,-0.0008047214932592963,0.9607992456171366,Nicht signifikant
+promotion:fu7,#b:zeitschriftenartikel:online:learning,-0.016011095329439735,0.3280815083265959,Nicht signifikant
+promotion:fu7,#b:buch:online:learning,-0.000804721493259296,0.9607992456171366,Nicht signifikant
+promotion:fu7,#b:buchteil:online:learning,0.11774898148679636,5.315908338208619e-13,Signifikant
+promotion:fu7,#b:konferenz-paper:online:learning,-0.002791754382572693,0.8646054514036084,Nicht signifikant

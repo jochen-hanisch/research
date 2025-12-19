@@ -33,6 +33,15 @@
 !08 Metaquellen/08-01 Abbildungen/
 !08 Metaquellen/08-01 Abbildungen/**
 
+# Keep Zenodo dataset staging (copies for upload)
+# Hinweis: Damit Git `Datenset/**` verfolgen kann, muss der Ordner `08-04 Daten/` selbst
+# “sichtbar” sein. Alle Rohdaten in `08-04 Daten/` bleiben dennoch ignoriert; nur
+# `08-04 Daten/Datenset/**` wird explizit erlaubt.
+!08 Metaquellen/08-04 Daten/
+08 Metaquellen/08-04 Daten/*
+!08 Metaquellen/08-04 Daten/Datenset/
+!08 Metaquellen/08-04 Daten/Datenset/**
+
 # Keep bibliography/style metadata that Pandoc may need
 !08 Metaquellen/Matadaten/
 !08 Metaquellen/Matadaten/*.bib

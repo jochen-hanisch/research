@@ -1,0 +1,451 @@
+x_term,y_term,correlation,p_value,significance
+lernsystemarchitektur,#0:zeitschriftenartikel:digital:learning,-0.023882741068606397,0.14458882808854065,Nicht signifikant
+lernsystemarchitektur,#0:buch:digital:learning,-0.015654937732951908,0.3389570294558873,Nicht signifikant
+lernsystemarchitektur,#0:buchteil:digital:learning,-0.029928896910041018,0.067489343171488,Nicht signifikant
+lernsystemarchitektur,#0:konferenz-paper:digital:learning,-0.009645561977308334,0.5557649496846562,Nicht signifikant
+lernsystemarchitektur,#1:zeitschriftenartikel:learning:management:system,0.34439700153245084,1.9491834552558437e-104,Signifikant
+lernsystemarchitektur,#1:buch:learning:management:system,-0.004818901555671898,0.7685059737078083,Nicht signifikant
+lernsystemarchitektur,#1:buchteil:learning:management:system,0.04354984525249558,0.0077864516649829765,Signifikant
+lernsystemarchitektur,#1:konferenz-paper:learning:management:system,0.07191031555293231,1.0934391241344314e-05,Signifikant
+lernsystemarchitektur,#2:zeitschriftenartikel:online:lernplattform,0.065808510123425,5.726595934943181e-05,Signifikant
+lernsystemarchitektur,#3:zeitschriftenartikel:online:lernumgebung,-0.009645561977308328,0.5557649496846562,Nicht signifikant
+lernsystemarchitektur,#3:buch:online:lernumgebung,-0.0048189015556718996,0.7685059737078083,Nicht signifikant
+lernsystemarchitektur,#3:buchteil:online:lernumgebung,0.07527048081745266,4.146739468813473e-06,Signifikant
+lernsystemarchitektur,#3:konferenz-paper:online:lernumgebung,-0.0048189015556718996,0.7685059737078083,Nicht signifikant
+lernsystemarchitektur,#4:zeitschriftenartikel:mooc,-0.008619131025905058,0.5985773152971358,Nicht signifikant
+lernsystemarchitektur,#4:buch:mooc,-0.006816783246687212,0.6771472568138253,Nicht signifikant
+lernsystemarchitektur,#4:buchteil:mooc,0.03820670517682643,0.01957297953648416,Signifikant
+lernsystemarchitektur,#4:konferenz-paper:mooc,0.011345121463015886,0.48833617294409176,Nicht signifikant
+lernsystemarchitektur,#5:zeitschriftenartikel:e-learning,0.08436154587926674,2.445569701706964e-07,Signifikant
+lernsystemarchitektur,#5:buch:e-learning,-0.016742599367610612,0.30646241666038354,Nicht signifikant
+lernsystemarchitektur,#5:buchteil:e-learning,-0.028042879287106505,0.0866877417578897,Nicht signifikant
+lernsystemarchitektur,#5:konferenz-paper:e-learning,-0.007622417478053267,0.6415251811085402,Nicht signifikant
+lernsystemarchitektur,#6:zeitschriftenartikel:bildung:technologie,0.04570389599761663,0.005222915984858608,Signifikant
+lernsystemarchitektur,#6:buch:bildung:technologie,-0.01638787505650652,0.31682541157153016,Nicht signifikant
+lernsystemarchitektur,#6:buchteil:bildung:technologie,-0.020624937266080456,0.2077197994393536,Nicht signifikant
+lernsystemarchitektur,#6:konferenz-paper:bildung:technologie,-0.011819700415851573,0.47032722017168027,Nicht signifikant
+lernsystemarchitektur,#7:zeitschriftenartikel:digital:medien,0.009519891150691262,0.5609255048266971,Nicht signifikant
+lernsystemarchitektur,#7:buch:digital:medien,-0.043465883342592715,0.00790603419372845,Signifikant
+lernsystemarchitektur,#7:buchteil:digital:medien,-0.13773086634659873,2.84856988872086e-17,Signifikant
+lernsystemarchitektur,#7:konferenz-paper:digital:medien,-0.00964556197730833,0.5557649496846562,Nicht signifikant
+lernsystemarchitektur,#8:zeitschriftenartikel:blended:learning,0.016690597471768067,0.3079674047086554,Nicht signifikant
+lernsystemarchitektur,#8:buch:blended:learning,-0.01078696234884908,0.509983550572735,Nicht signifikant
+lernsystemarchitektur,#8:buchteil:blended:learning,-0.0118357887214182,0.4697232066585176,Nicht signifikant
+lernsystemarchitektur,#8:konferenz-paper:blended:learning,0.05321000008085457,0.0011449334799028654,Signifikant
+lernsystemarchitektur,#9:zeitschriftenartikel:digital:lernen,-0.005119639621442707,0.7545097552560588,Nicht signifikant
+lernsystemarchitektur,#9:buch:digital:lernen,-0.022990926956618005,0.16019342959541852,Nicht signifikant
+lernsystemarchitektur,#9:buchteil:digital:lernen,-0.02704888288211739,0.09845525680084588,Nicht signifikant
+lernsystemarchitektur,#9:konferenz-paper:digital:lernen,0.05321000008085457,0.0011449334799028654,Signifikant
+lernsystemarchitektur,#a:zeitschriftenartikel:online:lernen,0.04843005554090457,0.0030789985972537494,Signifikant
+lernsystemarchitektur,#a:buch:online:lernen,-0.006816783246687212,0.6771472568138253,Nicht signifikant
+lernsystemarchitektur,#a:buchteil:online:lernen,0.027454275350551758,0.09351053667353282,Nicht signifikant
+lernsystemarchitektur,#a:konferenz-paper:online:lernen,-0.0034070214156004582,0.835155538420795,Nicht signifikant
+lernsystemarchitektur,#b:zeitschriftenartikel:online:learning,-0.026744892583166015,0.10229834215360913,Nicht signifikant
+lernsystemarchitektur,#b:buch:online:learning,-0.003407021415600458,0.835155538420795,Nicht signifikant
+lernsystemarchitektur,#b:buchteil:online:learning,-0.027923007550558793,0.08804364685817838,Nicht signifikant
+lernsystemarchitektur,#b:konferenz-paper:online:learning,0.01190231122520968,0.4672302650245845,Nicht signifikant
+bildungstheorien,#0:zeitschriftenartikel:digital:learning,0.0062908454727618685,0.7008043343363044,Nicht signifikant
+bildungstheorien,#0:buch:digital:learning,-0.0212940701879097,0.19334649001596854,Nicht signifikant
+bildungstheorien,#0:buchteil:digital:learning,-0.04530766330092072,0.005627783034243979,Signifikant
+bildungstheorien,#0:konferenz-paper:digital:learning,-0.01312003134412388,0.4229131975828868,Nicht signifikant
+bildungstheorien,#1:zeitschriftenartikel:learning:management:system,0.12784263240248897,4.486132042368814e-15,Signifikant
+bildungstheorien,#1:buch:learning:management:system,-0.006554738811839122,0.6888962018192345,Nicht signifikant
+bildungstheorien,#1:buchteil:learning:management:system,0.0003164466922653212,0.9845795474983008,Nicht signifikant
+bildungstheorien,#1:konferenz-paper:learning:management:system,0.00692259370079751,0.6724251393036288,Nicht signifikant
+bildungstheorien,#2:zeitschriftenartikel:online:lernplattform,-0.010368121262952473,0.5265512953272278,Nicht signifikant
+bildungstheorien,#3:zeitschriftenartikel:online:lernumgebung,0.03108310674939096,0.05757141929865016,Nicht signifikant
+bildungstheorien,#3:buch:online:lernumgebung,-0.006554738811839125,0.6888962018192345,Nicht signifikant
+bildungstheorien,#3:buchteil:online:lernumgebung,0.11568599502962772,1.3443916879678965e-12,Signifikant
+bildungstheorien,#3:konferenz-paper:online:lernumgebung,0.08178042358742241,5.634187672568229e-07,Signifikant
+bildungstheorien,#4:zeitschriftenartikel:mooc,0.01024329965215099,0.5315413735072383,Nicht signifikant
+bildungstheorien,#4:buch:mooc,-0.00927228605995569,0.5711605071617863,Nicht signifikant
+bildungstheorien,#4:buchteil:mooc,0.006036431449177081,0.7123547560760868,Nicht signifikant
+bildungstheorien,#4:konferenz-paper:mooc,-0.025482192311568303,0.11955372568875872,Nicht signifikant
+bildungstheorien,#5:zeitschriftenartikel:e-learning,0.05686205106501259,0.0005092894411685415,Signifikant
+bildungstheorien,#5:buch:e-learning,-0.022773523098180176,0.16418372412437263,Nicht signifikant
+bildungstheorien,#5:buchteil:e-learning,-0.04940972941032072,0.002530394647197178,Signifikant
+bildungstheorien,#5:konferenz-paper:e-learning,-0.010368121262952477,0.5265512953272278,Nicht signifikant
+bildungstheorien,#6:zeitschriftenartikel:bildung:technologie,0.18507742545014774,4.0503155940947226e-30,Signifikant
+bildungstheorien,#6:buch:bildung:technologie,-0.02229102201725226,0.17330641156587542,Nicht signifikant
+bildungstheorien,#6:buchteil:bildung:technologie,-0.025492165681620646,0.11940901881292931,Nicht signifikant
+bildungstheorien,#6:konferenz-paper:bildung:technologie,0.056144884139224846,0.000599337115050086,Signifikant
+bildungstheorien,#7:zeitschriftenartikel:digital:medien,0.1210583567579847,1.1598662629410162e-13,Signifikant
+bildungstheorien,#7:buch:digital:medien,-0.05401540326935245,0.0009615104315632706,Signifikant
+bildungstheorien,#7:buchteil:digital:medien,-0.1912809171281356,4.2891399555748274e-32,Signifikant
+bildungstheorien,#7:konferenz-paper:digital:medien,0.07528624484290579,4.1275188238900115e-06,Signifikant
+bildungstheorien,#8:zeitschriftenartikel:blended:learning,-0.011292201695127523,0.4903671125828679,Nicht signifikant
+bildungstheorien,#8:buch:blended:learning,-0.01467258045282684,0.3701366323688108,Nicht signifikant
+bildungstheorien,#8:buchteil:blended:learning,-0.03231133412100201,0.04837932877407254,Signifikant
+bildungstheorien,#8:konferenz-paper:blended:learning,0.037612842387791647,0.021554757951050066,Signifikant
+bildungstheorien,#9:zeitschriftenartikel:digital:lernen,0.20782748151113478,1.0572892209234498e-37,Signifikant
+bildungstheorien,#9:buch:digital:lernen,-0.0312725876429925,0.056065172300794316,Nicht signifikant
+bildungstheorien,#9:buchteil:digital:lernen,-0.036792277326276476,0.024579178233524384,Signifikant
+bildungstheorien,#9:konferenz-paper:digital:lernen,-0.006554738811839125,0.6888962018192345,Nicht signifikant
+bildungstheorien,#a:zeitschriftenartikel:online:lernen,-0.013120031344123874,0.4229131975828868,Nicht signifikant
+bildungstheorien,#a:buch:online:lernen,-0.009272286059955694,0.5711605071617863,Nicht signifikant
+bildungstheorien,#a:buchteil:online:lernen,0.04400543067806638,0.007165389479198126,Signifikant
+bildungstheorien,#a:konferenz-paper:online:lernen,-0.004634279253810078,0.7771360625555928,Nicht signifikant
+bildungstheorien,#b:zeitschriftenartikel:online:learning,0.015394886644014557,0.3470422504826516,Nicht signifikant
+bildungstheorien,#b:buch:online:learning,-0.004634279253810078,0.7771360625555928,Nicht signifikant
+bildungstheorien,#b:buchteil:online:learning,-0.030225881104602774,0.06481198229768381,Nicht signifikant
+bildungstheorien,#b:konferenz-paper:online:learning,0.020033779299161725,0.22104943412155678,Nicht signifikant
+lehr- und lerneffektivität,#0:zeitschriftenartikel:digital:learning,0.03543378487072006,0.030395488493331374,Signifikant
+lehr- und lerneffektivität,#0:buch:digital:learning,-0.04295243651454102,0.00867374645609116,Signifikant
+lehr- und lerneffektivität,#0:buchteil:digital:learning,-0.09961818404922126,1.0630847351763896e-09,Signifikant
+lehr- und lerneffektivität,#0:konferenz-paper:digital:learning,0.027343786220519552,0.09483804543704151,Nicht signifikant
+lehr- und lerneffektivität,#1:zeitschriftenartikel:learning:management:system,0.2537589668506311,6.084513564494158e-56,Signifikant
+lehr- und lerneffektivität,#1:buch:learning:management:system,-0.013221615229049598,0.41933083498050605,Nicht signifikant
+lehr- und lerneffektivität,#1:buchteil:learning:management:system,-0.02318053631159603,0.15677349454441633,Nicht signifikant
+lehr- und lerneffektivität,#1:konferenz-paper:learning:management:system,0.03534857960355879,0.030796747888680493,Signifikant
+lehr- und lerneffektivität,#2:zeitschriftenartikel:online:lernplattform,0.06413054184386249,8.818589169923056e-05,Signifikant
+lehr- und lerneffektivität,#3:zeitschriftenartikel:online:lernumgebung,0.06770001472389309,3.477313083639259e-05,Signifikant
+lehr- und lerneffektivität,#3:buch:online:lernumgebung,-0.013221615229049601,0.41933083498050605,Nicht signifikant
+lehr- und lerneffektivität,#3:buchteil:online:lernumgebung,0.05735240879955908,0.0004551587421373284,Signifikant
+lehr- und lerneffektivität,#3:konferenz-paper:online:lernumgebung,0.040543406176225094,0.013237264414223413,Signifikant
+lehr- und lerneffektivität,#4:zeitschriftenartikel:mooc,0.15807824469214937,2.571425168207329e-22,Signifikant
+lehr- und lerneffektivität,#4:buch:mooc,-0.018703201164474336,0.25326674091589213,Nicht signifikant
+lehr- und lerneffektivität,#4:buchteil:mooc,-0.018000453086470424,0.2715424049726348,Nicht signifikant
+lehr- und lerneffektivität,#4:konferenz-paper:mooc,-0.023531422230428378,0.15059102658766296,Nicht signifikant
+lehr- und lerneffektivität,#5:zeitschriftenartikel:e-learning,0.31112468231079515,1.3746400563882835e-84,Signifikant
+lehr- und lerneffektivität,#5:buch:e-learning,-0.0459366526199583,0.004997537683946112,Signifikant
+lehr- und lerneffektivität,#5:buchteil:e-learning,-0.10240080584481207,3.589488267388994e-10,Signifikant
+lehr- und lerneffektivität,#5:konferenz-paper:e-learning,0.06413054184386252,8.818589169923056e-05,Signifikant
+lehr- und lerneffektivität,#6:zeitschriftenartikel:bildung:technologie,0.15216201502107685,8.91471483543023e-21,Signifikant
+lehr- und lerneffektivität,#6:buch:bildung:technologie,-0.044963395893373406,0.006002299001931165,Signifikant
+lehr- und lerneffektivität,#6:buchteil:bildung:technologie,-0.07799573877828032,1.8324187470513746e-06,Signifikant
+lehr- und lerneffektivität,#6:konferenz-paper:bildung:technologie,0.04449663336233522,0.006545900898579205,Signifikant
+lehr- und lerneffektivität,#7:zeitschriftenartikel:digital:medien,0.09259377167527684,1.4480781187372688e-08,Signifikant
+lehr- und lerneffektivität,#7:buch:digital:medien,-0.1161486217290733,1.093398479011518e-12,Signifikant
+lehr- und lerneffektivität,#7:buchteil:digital:medien,-0.3858342429083511,8.672161201077243e-133,Signifikant
+lehr- und lerneffektivität,#7:konferenz-paper:digital:medien,0.06770001472389306,3.477313083639259e-05,Signifikant
+lehr- und lerneffektivität,#8:zeitschriftenartikel:blended:learning,0.1820069374811991,3.627881927899054e-29,Signifikant
+lehr- und lerneffektivität,#8:buch:blended:learning,-0.029596177473030366,0.07059622414516858,Nicht signifikant
+lehr- und lerneffektivität,#8:buchteil:blended:learning,-0.05965393345504269,0.0002655471165844745,Signifikant
+lehr- und lerneffektivität,#8:konferenz-paper:blended:learning,0.0405434061762251,0.013237264414223413,Signifikant
+lehr- und lerneffektivität,#9:zeitschriftenartikel:digital:lernen,0.2095179376291808,2.6491839545272096e-38,Signifikant
+lehr- und lerneffektivität,#9:buch:digital:lernen,-0.06308018258264755,0.00011495577581524897,Signifikant
+lehr- und lerneffektivität,#9:buchteil:digital:lernen,-0.07421399207087928,5.649778086281621e-06,Signifikant
+lehr- und lerneffektivität,#9:konferenz-paper:digital:lernen,0.013660895473587752,0.404046243351654,Nicht signifikant
+lehr- und lerneffektivität,#a:zeitschriftenartikel:online:lernen,0.054247938556101896,0.0009138531866316577,Signifikant
+lehr- und lerneffektivität,#a:buch:online:lernen,-0.018703201164474333,0.25326674091589213,Nicht signifikant
+lehr- und lerneffektivität,#a:buchteil:online:lernen,0.019666975011663347,0.22962239131056045,Nicht signifikant
+lehr- und lerneffektivität,#a:konferenz-paper:online:lernen,0.028664676276941903,0.07992253312566122,Nicht signifikant
+lehr- und lerneffektivität,#b:zeitschriftenartikel:online:learning,0.16259163396737464,1.565562200894944e-23,Signifikant
+lehr- und lerneffektivität,#b:buch:online:learning,-0.009347841144665248,0.5680279591442501,Nicht signifikant
+lehr- und lerneffektivität,#b:buchteil:online:learning,-0.07189202239473214,1.099102399109306e-05,Signifikant
+lehr- und lerneffektivität,#b:konferenz-paper:online:learning,0.06647558570657568,4.8098368957416695e-05,Signifikant
+kollaboratives lernen,#0:zeitschriftenartikel:digital:learning,0.00015779818130126372,0.9923101324753552,Nicht signifikant
+kollaboratives lernen,#0:buch:digital:learning,-0.02116925936927465,0.19597056235673033,Nicht signifikant
+kollaboratives lernen,#0:buchteil:digital:learning,-0.0508495194773684,0.0018849305931488418,Signifikant
+kollaboratives lernen,#0:konferenz-paper:digital:learning,0.009169463883594168,0.5754367171221331,Nicht signifikant
+kollaboratives lernen,#1:zeitschriftenartikel:learning:management:system,0.0667513030231025,4.4731216840914225e-05,Signifikant
+kollaboratives lernen,#1:buch:learning:management:system,-0.006516319556627449,0.6906251623421452,Nicht signifikant
+kollaboratives lernen,#1:buchteil:learning:management:system,-0.019314694477765775,0.23807600165323783,Nicht signifikant
+kollaboratives lernen,#1:konferenz-paper:learning:management:system,0.00710886000260968,0.6641438274772027,Nicht signifikant
+kollaboratives lernen,#2:zeitschriftenartikel:online:lernplattform,-0.010307350649766877,0.5289777728895871,Nicht signifikant
+kollaboratives lernen,#3:zeitschriftenartikel:online:lernumgebung,-0.013043130975235854,0.425636968990131,Nicht signifikant
+kollaboratives lernen,#3:buch:online:lernumgebung,-0.0065163195566274494,0.6906251623421452,Nicht signifikant
+kollaboratives lernen,#3:buchteil:online:lernumgebung,0.0849715622797874,2.0005904086344425e-07,Signifikant
+kollaboratives lernen,#3:konferenz-paper:online:lernumgebung,-0.006516319556627449,0.6906251623421452,Nicht signifikant
+kollaboratives lernen,#4:zeitschriftenartikel:mooc,0.04054562472978897,0.013232232914125048,Signifikant
+kollaboratives lernen,#4:buch:mooc,-0.009217938459729482,0.573418853308542,Nicht signifikant
+kollaboratives lernen,#4:buchteil:mooc,0.006298535286791484,0.7004562742119887,Nicht signifikant
+kollaboratives lernen,#4:konferenz-paper:mooc,-0.02533283367533967,0.12173728489770444,Nicht signifikant
+kollaboratives lernen,#5:zeitschriftenartikel:e-learning,0.12222858569935299,6.702648408638066e-14,Signifikant
+kollaboratives lernen,#5:buch:e-learning,-0.02264004077018908,0.16667051609130307,Nicht signifikant
+kollaboratives lernen,#5:buchteil:e-learning,-0.048964335601545866,0.002767663659982534,Signifikant
+kollaboratives lernen,#5:konferenz-paper:e-learning,0.01777829896744463,0.2775030814986917,Nicht signifikant
+kollaboratives lernen,#6:zeitschriftenartikel:bildung:technologie,0.010971629809800857,0.5027663848594867,Nicht signifikant
+kollaboratives lernen,#6:buch:bildung:technologie,-0.022160367770241992,0.1758406743730892,Nicht signifikant
+kollaboratives lernen,#6:buchteil:bildung:technologie,-0.031128207585802502,0.05720988151516453,Nicht signifikant
+kollaboratives lernen,#6:konferenz-paper:bildung:technologie,0.0021631617280349243,0.8948883042531917,Nicht signifikant
+kollaboratives lernen,#7:zeitschriftenartikel:digital:medien,0.03899117694269528,0.017200110003120016,Signifikant
+kollaboratives lernen,#7:buch:digital:medien,-0.05364320917747309,0.0010426019455309736,Signifikant
+kollaboratives lernen,#7:buchteil:digital:medien,-0.18794544428547247,5.045605815027137e-31,Signifikant
+kollaboratives lernen,#7:konferenz-paper:digital:medien,0.009169463883594174,0.5754367171221331,Nicht signifikant
+kollaboratives lernen,#8:zeitschriftenartikel:blended:learning,0.03845706698045684,0.01878637839534163,Signifikant
+kollaboratives lernen,#8:buch:blended:learning,-0.014586580136229509,0.37294853481560786,Nicht signifikant
+kollaboratives lernen,#8:buchteil:blended:learning,-0.03212194787275331,0.049710707348052045,Signifikant
+kollaboratives lernen,#8:konferenz-paper:blended:learning,-0.006516319556627449,0.6906251623421452,Nicht signifikant
+kollaboratives lernen,#9:zeitschriftenartikel:digital:lernen,0.08296792677318306,3.8494927767026875e-07,Signifikant
+kollaboratives lernen,#9:buch:digital:lernen,-0.031089289793867613,0.0575217426831055,Nicht signifikant
+kollaboratives lernen,#9:buchteil:digital:lernen,-0.03657662694980933,0.025432559208410626,Signifikant
+kollaboratives lernen,#9:konferenz-paper:digital:lernen,0.0378731346493767,0.020665602313807697,Signifikant
+kollaboratives lernen,#a:zeitschriftenartikel:online:lernen,0.03138205874242419,0.05521000083792028,Nicht signifikant
+kollaboratives lernen,#a:buch:online:lernen,-0.009217938459729482,0.573418853308542,Nicht signifikant
+kollaboratives lernen,#a:buchteil:online:lernen,0.06015223726571352,0.0002357181016630675,Signifikant
+kollaboratives lernen,#a:konferenz-paper:online:lernen,0.05816064069686935,0.00037749811441005834,Signifikant
+kollaboratives lernen,#b:zeitschriftenartikel:online:learning,0.18392011517420734,9.297057371645834e-30,Signifikant
+kollaboratives lernen,#b:buch:online:learning,-0.00460711637783816,0.7784081308432321,Nicht signifikant
+kollaboratives lernen,#b:buchteil:online:learning,-0.02996430294823675,0.06716545166558473,Nicht signifikant
+kollaboratives lernen,#b:konferenz-paper:online:learning,0.1473331883483378,1.4533366124064635e-19,Signifikant
+bewertungsmethoden,#0:zeitschriftenartikel:digital:learning,0.03297679323220485,0.04393624518955794,Signifikant
+bewertungsmethoden,#0:buch:digital:learning,-0.021869896367110127,0.18157367451302178,Nicht signifikant
+bewertungsmethoden,#0:buchteil:digital:learning,-0.04682149773506658,0.004218753857436722,Signifikant
+bewertungsmethoden,#0:konferenz-paper:digital:learning,0.008132353804714644,0.6193902895419663,Nicht signifikant
+bewertungsmethoden,#1:zeitschriftenartikel:learning:management:system,0.19288080087441078,1.293546219045075e-32,Signifikant
+bewertungsmethoden,#1:buch:learning:management:system,-0.00673198957566074,0.6809406235695507,Nicht signifikant
+bewertungsmethoden,#1:buchteil:learning:management:system,-0.02055607349745867,0.20924187530914456,Nicht signifikant
+bewertungsmethoden,#1:konferenz-paper:learning:management:system,0.026454222462821544,0.10608371372797426,Nicht signifikant
+bewertungsmethoden,#2:zeitschriftenartikel:online:lernplattform,0.01667165975007627,0.30851669395155745,Nicht signifikant
+bewertungsmethoden,#3:zeitschriftenartikel:online:lernumgebung,0.02973952587090662,0.06924357291302292,Nicht signifikant
+bewertungsmethoden,#3:buch:online:lernumgebung,-0.006731989575660744,0.6809406235695507,Nicht signifikant
+bewertungsmethoden,#3:buchteil:online:lernumgebung,0.051558501203908716,0.001626140907575521,Signifikant
+bewertungsmethoden,#3:konferenz-paper:online:lernumgebung,-0.0067319895756607386,0.6809406235695507,Nicht signifikant
+bewertungsmethoden,#4:zeitschriftenartikel:mooc,0.09590147910051239,4.3320319810839095e-09,Signifikant
+bewertungsmethoden,#4:buch:mooc,-0.009523023706973936,0.5607965880549859,Nicht signifikant
+bewertungsmethoden,#4:buchteil:mooc,-0.021869896367110134,0.18157367451302178,Nicht signifikant
+bewertungsmethoden,#4:konferenz-paper:mooc,-0.0037892884235685076,0.816971202418111,Nicht signifikant
+bewertungsmethoden,#5:zeitschriftenartikel:e-learning,0.062192828800942734,0.0001433686117360309,Signifikant
+bewertungsmethoden,#5:buch:e-learning,-0.023389356082519807,0.15307141168274135,Nicht signifikant
+bewertungsmethoden,#5:buchteil:e-learning,-0.042124754245623064,0.010052136674469943,Signifikant
+bewertungsmethoden,#5:konferenz-paper:e-learning,0.016671659750076274,0.30851669395155745,Nicht signifikant
+bewertungsmethoden,#6:zeitschriftenartikel:bildung:technologie,0.09377581610322307,9.452291411251993e-09,Signifikant
+bewertungsmethoden,#6:buch:bildung:technologie,-0.022893807390147042,0.16196683979285256,Nicht signifikant
+bewertungsmethoden,#6:buchteil:bildung:technologie,-0.045018622000690844,0.005940747914511186,Signifikant
+bewertungsmethoden,#6:konferenz-paper:bildung:technologie,0.0011395795760352134,0.9445096027261798,Nicht signifikant
+bewertungsmethoden,#7:zeitschriftenartikel:digital:medien,0.029117454969044502,0.07527127957226583,Nicht signifikant
+bewertungsmethoden,#7:buch:digital:medien,-0.05572843433886042,0.0006582119777029365,Signifikant
+bewertungsmethoden,#7:buchteil:digital:medien,-0.19429949730203575,4.428866896702055e-33,Signifikant
+bewertungsmethoden,#7:konferenz-paper:digital:medien,-0.013474818261477341,0.4104796283900734,Nicht signifikant
+bewertungsmethoden,#8:zeitschriftenartikel:blended:learning,0.059290650939023776,0.0002894847045434345,Signifikant
+bewertungsmethoden,#8:buch:blended:learning,-0.015069350815026517,0.35733485615969046,Nicht signifikant
+bewertungsmethoden,#8:buchteil:blended:learning,-0.03318508497781704,0.04261835441570281,Signifikant
+bewertungsmethoden,#8:konferenz-paper:blended:learning,-0.00673198957566074,0.6809406235695507,Nicht signifikant
+bewertungsmethoden,#9:zeitschriftenartikel:digital:lernen,0.001576851735841346,0.9232737929294276,Nicht signifikant
+bewertungsmethoden,#9:buch:digital:lernen,-0.03211824911105695,0.04973701228239603,Signifikant
+bewertungsmethoden,#9:buchteil:digital:lernen,-0.037787200151735256,0.020955552876467054,Signifikant
+bewertungsmethoden,#9:konferenz-paper:digital:lernen,-0.00673198957566074,0.6809406235695507,Nicht signifikant
+bewertungsmethoden,#a:zeitschriftenartikel:online:lernen,-0.013474818261477336,0.410479628390084,Nicht signifikant
+bewertungsmethoden,#a:buch:online:lernen,-0.009523023706973935,0.5607965880549859,Nicht signifikant
+bewertungsmethoden,#a:buchteil:online:lernen,-0.0037817559743559413,0.8173286035822924,Nicht signifikant
+bewertungsmethoden,#a:konferenz-paper:online:lernen,-0.004759597677790119,0.7712750394456501,Nicht signifikant
+bewertungsmethoden,#b:zeitschriftenartikel:online:learning,0.16658828693135447,1.226754138459532e-24,Signifikant
+bewertungsmethoden,#b:buch:online:learning,-0.004759597677790118,0.7712750394456501,Nicht signifikant
+bewertungsmethoden,#b:buchteil:online:learning,-0.0238445289131446,0.14523265271011174,Nicht signifikant
+bewertungsmethoden,#b:konferenz-paper:online:learning,0.03644290370333358,0.025974509070600123,Signifikant
+technologieintegration,#0:zeitschriftenartikel:digital:learning,0.04481565060102867,0.006169798808138428,Signifikant
+technologieintegration,#0:buch:digital:learning,-0.043790023991853944,0.00745327207169613,Signifikant
+technologieintegration,#0:buchteil:digital:learning,-0.0981430605120993,1.8681533921377714e-09,Signifikant
+technologieintegration,#0:konferenz-paper:digital:learning,0.026309639997098008,0.10800751262795959,Nicht signifikant
+technologieintegration,#1:zeitschriftenartikel:learning:management:system,0.3071164265223788,2.3098602962135068e-82,Signifikant
+technologieintegration,#1:buch:learning:management:system,-0.013479441332627046,0.4103190582072888,Nicht signifikant
+technologieintegration,#1:buchteil:learning:management:system,-0.03067231305132679,0.06095263942936975,Nicht signifikant
+technologieintegration,#1:konferenz-paper:learning:management:system,0.07187742925862808,1.103640267055993e-05,Signifikant
+technologieintegration,#2:zeitschriftenartikel:online:lernplattform,0.046058826829258465,0.004882788589038356,Signifikant
+technologieintegration,#3:zeitschriftenartikel:online:lernumgebung,0.03963219644164045,0.01545236989786055,Signifikant
+technologieintegration,#3:buch:online:lernumgebung,-0.013479441332627047,0.4103190582072888,Nicht signifikant
+technologieintegration,#3:buchteil:online:lernumgebung,0.03742457652091384,0.02221844916135225,Signifikant
+technologieintegration,#3:konferenz-paper:online:lernumgebung,0.01314423829419664,0.4220579158738737,Nicht signifikant
+technologieintegration,#4:zeitschriftenartikel:mooc,0.12490612228369649,1.8737996739829608e-14,Signifikant
+technologieintegration,#4:buch:mooc,-0.019067920103660103,0.2441271411086067,Nicht signifikant
+technologieintegration,#4:buchteil:mooc,-0.019078284073246132,0.24387085471612177,Nicht signifikant
+technologieintegration,#4:konferenz-paper:mooc,-0.024802074928181067,0.1297496893111386,Nicht signifikant
+technologieintegration,#5:zeitschriftenartikel:e-learning,0.3134333407773957,6.92752921440762e-86,Signifikant
+technologieintegration,#5:buch:e-learning,-0.04683243335107293,0.004209858907106391,Signifikant
+technologieintegration,#5:buchteil:e-learning,-0.10515890396145472,1.1889177123710668e-10,Signifikant
+technologieintegration,#5:konferenz-paper:e-learning,0.046058826829258465,0.004882788589038356,Signifikant
+technologieintegration,#6:zeitschriftenartikel:bildung:technologie,0.1676492029648105,6.173196248754654e-25,Signifikant
+technologieintegration,#6:buch:bildung:technologie,-0.04584019777922224,0.005089846198865583,Signifikant
+technologieintegration,#6:buchteil:bildung:technologie,-0.08378386384212375,2.954119407457784e-07,Signifikant
+technologieintegration,#6:konferenz-paper:bildung:technologie,0.04312357825892639,0.00841075631387622,Signifikant
+technologieintegration,#7:zeitschriftenartikel:digital:medien,0.17074163357874467,8.126759190744639e-26,Signifikant
+technologieintegration,#7:buch:digital:medien,-0.11850411168849632,3.7697848693963533e-13,Signifikant
+technologieintegration,#7:buchteil:digital:medien,-0.3907019592019679,2.1213777893025984e-136,Signifikant
+technologieintegration,#7:konferenz-paper:digital:medien,0.07959986577526774,1.1187295100067323e-06,Signifikant
+technologieintegration,#8:zeitschriftenartikel:blended:learning,0.18308628876258407,1.686002269591675e-29,Signifikant
+technologieintegration,#8:buch:blended:learning,-0.030173313245510903,0.0652794051164831,Nicht signifikant
+technologieintegration,#8:buchteil:blended:learning,-0.06097803977731806,0.0001931011768198424,Signifikant
+technologieintegration,#8:konferenz-paper:blended:learning,0.03976791792102033,0.015103035444622246,Signifikant
+technologieintegration,#9:zeitschriftenartikel:digital:lernen,0.24068891292925146,2.4201384981130034e-50,Signifikant
+technologieintegration,#9:buch:digital:lernen,-0.06431026812110008,8.424155511237293e-05,Signifikant
+technologieintegration,#9:buchteil:digital:lernen,-0.07084051787445117,1.4760819824313692e-05,Signifikant
+technologieintegration,#9:konferenz-paper:digital:lernen,0.03976791792102033,0.015103035444622246,Signifikant
+technologieintegration,#a:zeitschriftenartikel:online:lernen,0.05295475288618287,0.0012094936192114756,Signifikant
+technologieintegration,#a:buch:online:lernen,-0.019067920103660103,0.2441271411086067,Nicht signifikant
+technologieintegration,#a:buchteil:online:lernen,0.018386263946844315,0.26140019080427274,Nicht signifikant
+technologieintegration,#a:konferenz-paper:online:lernen,-0.009530127303915644,0.5605043007854378,Nicht signifikant
+technologieintegration,#b:zeitschriftenartikel:online:learning,0.06982558899246558,1.9546684776953395e-05,Signifikant
+technologieintegration,#b:buch:online:learning,-0.009530127303915649,0.5605043007854378,Nicht signifikant
+technologieintegration,#b:buchteil:online:learning,-0.05473201191752254,0.000821581832324742,Signifikant
+technologieintegration,#b:konferenz-paper:online:learning,0.05400724519426357,0.0009632234451188136,Signifikant
+datenschutz und it-sicherheit,#0:zeitschriftenartikel:digital:learning,0.02373930578537101,0.14701686708968253,Nicht signifikant
+datenschutz und it-sicherheit,#0:buch:digital:learning,-0.012920628884805017,0.4299970044485454,Nicht signifikant
+datenschutz und it-sicherheit,#0:buchteil:digital:learning,-0.031035935583619487,0.05795158275307825,Nicht signifikant
+datenschutz und it-sicherheit,#0:konferenz-paper:digital:learning,0.02675629287658963,0.10215209565590501,Nicht signifikant
+datenschutz und it-sicherheit,#1:zeitschriftenartikel:learning:management:system,0.14331946271583212,1.379184700288424e-18,Signifikant
+datenschutz und it-sicherheit,#1:buch:learning:management:system,-0.003977226846593513,0.8080663615418022,Nicht signifikant
+datenschutz und it-sicherheit,#1:buchteil:learning:management:system,-0.002284872065714879,0.889011450622563,Nicht signifikant
+datenschutz und it-sicherheit,#1:konferenz-paper:learning:management:system,0.08976321469819318,3.9374622254594253e-08,Signifikant
+datenschutz und it-sicherheit,#2:zeitschriftenartikel:online:lernplattform,-0.00629107755770082,0.7007938286749339,Nicht signifikant
+datenschutz und it-sicherheit,#3:zeitschriftenartikel:online:lernumgebung,0.026756292876589628,0.10215209565590501,Nicht signifikant
+datenschutz und it-sicherheit,#3:buch:online:lernumgebung,-0.0039772268465935135,0.8080663615418022,Nicht signifikant
+datenschutz und it-sicherheit,#3:buchteil:online:lernumgebung,0.04344496860835078,0.007936076595435307,Signifikant
+datenschutz und it-sicherheit,#3:konferenz-paper:online:lernumgebung,-0.003977226846593512,0.8080663615418022,Nicht signifikant
+datenschutz und it-sicherheit,#4:zeitschriftenartikel:mooc,-0.01787797521254058,0.2748177120103439,Nicht signifikant
+datenschutz und it-sicherheit,#4:buch:mooc,-0.005626156297843916,0.731119988727493,Nicht signifikant
+datenschutz und it-sicherheit,#4:buchteil:mooc,-0.012920628884805024,0.4299970044485454,Nicht signifikant
+datenschutz und it-sicherheit,#4:konferenz-paper:mooc,-0.015461860843116043,0.34494832407245446,Nicht signifikant
+datenschutz und it-sicherheit,#5:zeitschriftenartikel:e-learning,0.1408221045548401,5.417686215640577e-18,Signifikant
+datenschutz und it-sicherheit,#5:buch:e-learning,-0.013818318327803236,0.39865093924409145,Nicht signifikant
+datenschutz und it-sicherheit,#5:buchteil:e-learning,-0.03866487742941008,0.018154602031503583,Signifikant
+datenschutz und it-sicherheit,#5:konferenz-paper:e-learning,-0.006291077557700823,0.7007938286749339,Nicht signifikant
+datenschutz und it-sicherheit,#6:zeitschriftenartikel:bildung:technologie,0.12705818016274245,6.59385155200477e-15,Signifikant
+datenschutz und it-sicherheit,#6:buch:bildung:technologie,-0.01352555055967938,0.4087196185587911,Nicht signifikant
+datenschutz und it-sicherheit,#6:buchteil:bildung:technologie,-0.02062036098548717,0.20782069796434596,Nicht signifikant
+datenschutz und it-sicherheit,#6:konferenz-paper:bildung:technologie,-0.009755258386070692,0.5512793882532937,Nicht signifikant
+datenschutz und it-sicherheit,#7:zeitschriftenartikel:digital:medien,0.07157637327531985,1.201343926575547e-05,Signifikant
+datenschutz und it-sicherheit,#7:buch:digital:medien,-0.027851201277217505,0.08886402268999054,Nicht signifikant
+datenschutz und it-sicherheit,#7:buchteil:digital:medien,-0.11606375489271323,1.135713542554677e-12,Signifikant
+datenschutz und it-sicherheit,#7:konferenz-paper:digital:medien,-0.007960857386986701,0.6267973581662565,Nicht signifikant
+datenschutz und it-sicherheit,#8:zeitschriftenartikel:blended:learning,-0.021768796465203574,0.18360125413793096,Nicht signifikant
+datenschutz und it-sicherheit,#8:buch:blended:learning,-0.008902899499272745,0.5865925537366514,Nicht signifikant
+datenschutz und it-sicherheit,#8:buchteil:blended:learning,-0.019605587530534298,0.23107992999009067,Nicht signifikant
+datenschutz und it-sicherheit,#8:konferenz-paper:blended:learning,-0.003977226846593513,0.8080663615418022,Nicht signifikant
+datenschutz und it-sicherheit,#9:zeitschriftenartikel:digital:lernen,0.0074318753467931525,0.6498799234379932,Nicht signifikant
+datenschutz und it-sicherheit,#9:buch:digital:lernen,-0.018975306065820267,0.24642575109440001,Nicht signifikant
+datenschutz und it-sicherheit,#9:buchteil:digital:lernen,-0.02232449489292819,0.17266156037326644,Nicht signifikant
+datenschutz und it-sicherheit,#9:konferenz-paper:digital:lernen,-0.003977226846593516,0.8080663615418022,Nicht signifikant
+datenschutz und it-sicherheit,#a:zeitschriftenartikel:online:lernen,-0.007960857386986698,0.6267973581662565,Nicht signifikant
+datenschutz und it-sicherheit,#a:buch:online:lernen,-0.005626156297843913,0.731119988727493,Nicht signifikant
+datenschutz und it-sicherheit,#a:buchteil:online:lernen,-0.01127046149876508,0.49120276536193597,Nicht signifikant
+datenschutz und it-sicherheit,#a:konferenz-paper:online:lernen,-0.0028119472631882476,0.863635689680387,Nicht signifikant
+datenschutz und it-sicherheit,#b:zeitschriftenartikel:online:learning,-0.012329945506530252,0.45138092469237695,Nicht signifikant
+datenschutz und it-sicherheit,#b:buch:online:learning,-0.002811947263188248,0.863635689680387,Nicht signifikant
+datenschutz und it-sicherheit,#b:buchteil:online:learning,-0.02304594397389204,0.15919534670499513,Nicht signifikant
+datenschutz und it-sicherheit,#b:konferenz-paper:online:learning,0.018606407934180023,0.2557318042032454,Nicht signifikant
+systemanpassung,#0:zeitschriftenartikel:digital:learning,-0.025862248960651438,0.11413572270864603,Nicht signifikant
+systemanpassung,#0:buch:digital:learning,-0.029133716276079,0.07510843114053313,Nicht signifikant
+systemanpassung,#0:buchteil:digital:learning,-0.06088861724423839,0.00019733970365206832,Signifikant
+systemanpassung,#0:konferenz-paper:digital:learning,0.05084693993904938,0.0018859375986395917,Signifikant
+systemanpassung,#1:zeitschriftenartikel:learning:management:system,0.25421942607571646,3.809553033765862e-56,Signifikant
+systemanpassung,#1:buch:learning:management:system,-0.008967937980985392,0.5838614386009969,Nicht signifikant
+systemanpassung,#1:buchteil:learning:management:system,-0.024861609444937698,0.12883107065142282,Nicht signifikant
+systemanpassung,#1:konferenz-paper:learning:management:system,0.04582964182609805,0.005100041340509405,Signifikant
+systemanpassung,#2:zeitschriftenartikel:online:lernplattform,0.02930843474277958,0.07337679726690688,Nicht signifikant
+systemanpassung,#3:zeitschriftenartikel:online:lernumgebung,-0.01795031515064663,0.2728799500998697,Nicht signifikant
+systemanpassung,#3:buch:online:lernumgebung,-0.008967937980985396,0.5838614386009969,Nicht signifikant
+systemanpassung,#3:buchteil:online:lernumgebung,0.08455583470968742,2.2943777321194203e-07,Signifikant
+systemanpassung,#3:konferenz-paper:online:lernumgebung,0.025403019393776895,0.120707348571995,Nicht signifikant
+systemanpassung,#4:zeitschriftenartikel:mooc,0.006038469815242921,0.7122619472084275,Nicht signifikant
+systemanpassung,#4:buch:mooc,-0.012685980130504544,0.4384205099529167,Nicht signifikant
+systemanpassung,#4:buchteil:mooc,-0.007865277269800939,0.6309419881202389,Nicht signifikant
+systemanpassung,#4:konferenz-paper:mooc,-0.03486374161193595,0.03316758311410911,Signifikant
+systemanpassung,#5:zeitschriftenartikel:e-learning,0.33025732202478786,1.0702788557264834e-95,Signifikant
+systemanpassung,#5:buch:e-learning,-0.031157846043252946,0.056973322757366725,Nicht signifikant
+systemanpassung,#5:buchteil:e-learning,-0.057481115516598666,0.00044186756483828343,Signifikant
+systemanpassung,#5:konferenz-paper:e-learning,0.07280212859879076,8.48745470245278e-06,Signifikant
+systemanpassung,#6:zeitschriftenartikel:bildung:technologie,0.04804622154417531,0.0033220200917473187,Signifikant
+systemanpassung,#6:buch:bildung:technologie,-0.030497706883824586,0.06243880220049499,Nicht signifikant
+systemanpassung,#6:buchteil:bildung:technologie,-0.04439465185237639,0.0066704070407139025,Signifikant
+systemanpassung,#6:konferenz-paper:bildung:technologie,0.020155811066599055,0.21824879936474972,Nicht signifikant
+systemanpassung,#7:zeitschriftenartikel:digital:medien,0.11506136466875566,1.7747541459197639e-12,Signifikant
+systemanpassung,#7:buch:digital:medien,-0.08088966782197891,7.472032196678656e-07,Signifikant
+systemanpassung,#7:buchteil:digital:medien,-0.2617030900838935,1.649076947311892e-59,Signifikant
+systemanpassung,#7:konferenz-paper:digital:medien,0.01644831239420138,0.3150437285638733,Nicht signifikant
+systemanpassung,#8:zeitschriftenartikel:blended:learning,0.14860554359387296,7.027906924990655e-20,Signifikant
+systemanpassung,#8:buch:blended:learning,-0.02007445228546801,0.22011314018327413,Nicht signifikant
+systemanpassung,#8:buchteil:blended:learning,-0.037147510446763364,0.023227474990473743,Signifikant
+systemanpassung,#8:konferenz-paper:blended:learning,0.0254030193937769,0.120707348571995,Nicht signifikant
+systemanpassung,#9:zeitschriftenartikel:digital:lernen,0.09505728719175259,5.917522231727965e-09,Signifikant
+systemanpassung,#9:buch:digital:lernen,-0.04278593465551046,0.0089366323459196,Signifikant
+systemanpassung,#9:buchteil:digital:lernen,-0.05033775878991664,0.002094667545549486,Signifikant
+systemanpassung,#9:konferenz-paper:digital:lernen,0.025403019393776906,0.120707348571995,Nicht signifikant
+systemanpassung,#a:zeitschriftenartikel:online:lernen,0.050846939939049374,0.0018859375986395917,Signifikant
+systemanpassung,#a:buch:online:lernen,-0.012685980130504546,0.4384205099529167,Nicht signifikant
+systemanpassung,#a:buchteil:online:lernen,0.03546127755769342,0.03026697816094413,Signifikant
+systemanpassung,#a:konferenz-paper:online:lernen,0.042260921206476565,0.009812757623341311,Signifikant
+systemanpassung,#b:zeitschriftenartikel:online:learning,0.030511661874812343,0.06231893277266597,Nicht signifikant
+systemanpassung,#b:buch:online:learning,-0.006340440119394355,0.6985606635139141,Nicht signifikant
+systemanpassung,#b:buchteil:online:learning,-0.027823688927981927,0.08917997393704727,Nicht signifikant
+systemanpassung,#b:konferenz-paper:online:learning,0.020155811066599055,0.21824879936474972,Nicht signifikant
+krisenreaktion im bildungsbereich,#0:zeitschriftenartikel:digital:learning,-0.015304705312839556,0.3498744856003074,Nicht signifikant
+krisenreaktion im bildungsbereich,#0:buch:digital:learning,-0.015760018927590463,0.3357245158005884,Nicht signifikant
+krisenreaktion im bildungsbereich,#0:buchteil:digital:learning,-0.03785627902435515,0.02072219745111282,Signifikant
+krisenreaktion im bildungsbereich,#0:konferenz-paper:digital:learning,0.019150022707647554,0.24210203812802483,Nicht signifikant
+krisenreaktion im bildungsbereich,#1:zeitschriftenartikel:learning:management:system,0.24720257526149764,4.312102694667715e-53,Signifikant
+krisenreaktion im bildungsbereich,#1:buch:learning:management:system,-0.004851247639760737,0.7669968845300907,Nicht signifikant
+krisenreaktion im bildungsbereich,#1:buchteil:learning:management:system,-0.021806773513012682,0.1828376594363667,Nicht signifikant
+krisenreaktion im bildungsbereich,#1:konferenz-paper:learning:management:system,0.0713395785397215,1.2839349451467936e-05,Signifikant
+krisenreaktion im bildungsbereich,#2:zeitschriftenartikel:online:lernplattform,0.02881747625028869,0.07832743747786011,Nicht signifikant
+krisenreaktion im bildungsbereich,#3:zeitschriftenartikel:online:lernumgebung,-0.00971030622559763,0.5531153598395896,Nicht signifikant
+krisenreaktion im bildungsbereich,#3:buch:online:lernumgebung,-0.004851247639760737,0.7669968845300907,Nicht signifikant
+krisenreaktion im bildungsbereich,#3:buchteil:online:lernumgebung,-0.006862539783019269,0.6751036600513571,Nicht signifikant
+krisenreaktion im bildungsbereich,#3:konferenz-paper:online:lernumgebung,-0.004851247639760735,0.7669968845300907,Nicht signifikant
+krisenreaktion im bildungsbereich,#4:zeitschriftenartikel:mooc,0.030043344655188826,0.06644699771602161,Nicht signifikant
+krisenreaktion im bildungsbereich,#4:buch:mooc,-0.00686253978301927,0.6751036600513571,Nicht signifikant
+krisenreaktion im bildungsbereich,#4:buchteil:mooc,-0.015760018927590474,0.3357245158005884,Nicht signifikant
+krisenreaktion im bildungsbereich,#4:konferenz-paper:mooc,-0.003912086951987314,0.8111500495036982,Nicht signifikant
+krisenreaktion im bildungsbereich,#5:zeitschriftenartikel:e-learning,0.10257933389875151,3.344626239549524e-10,Signifikant
+krisenreaktion im bildungsbereich,#5:buch:e-learning,-0.016854981312075322,0.3032266348114132,Nicht signifikant
+krisenreaktion im bildungsbereich,#5:buchteil:e-learning,-0.04716172916606945,0.003949850830133148,Signifikant
+krisenreaktion im bildungsbereich,#5:konferenz-paper:e-learning,-0.007673581701654207,0.6392894215270886,Nicht signifikant
+krisenreaktion im bildungsbereich,#6:zeitschriftenartikel:bildung:technologie,0.04507483408227266,0.005878682388965078,Signifikant
+krisenreaktion im bildungsbereich,#6:buch:bildung:technologie,-0.016497875972377306,0.3135875235518442,Nicht signifikant
+krisenreaktion im bildungsbereich,#6:buchteil:bildung:technologie,-0.036680761028241894,0.02501732757460254,Signifikant
+krisenreaktion im bildungsbereich,#6:konferenz-paper:bildung:technologie,0.011677983891608533,0.4756662546191688,Nicht signifikant
+krisenreaktion im bildungsbereich,#7:zeitschriftenartikel:digital:medien,0.07077554217209452,1.503028438875912e-05,Signifikant
+krisenreaktion im bildungsbereich,#7:buch:digital:medien,-0.03708822751007819,0.023448465749769713,Signifikant
+krisenreaktion im bildungsbereich,#7:buchteil:digital:medien,-0.14156950023288162,3.60661904511589e-18,Signifikant
+krisenreaktion im bildungsbereich,#7:konferenz-paper:digital:medien,-0.009710306225597631,0.5531153598395896,Nicht signifikant
+krisenreaktion im bildungsbereich,#8:zeitschriftenartikel:blended:learning,0.04835255518554181,0.0031267206232610052,Signifikant
+krisenreaktion im bildungsbereich,#8:buch:blended:learning,-0.010859368059397016,0.5071473513603176,Nicht signifikant
+krisenreaktion im bildungsbereich,#8:buchteil:blended:learning,-0.023914039581395735,0.1440631198487061,Nicht signifikant
+krisenreaktion im bildungsbereich,#8:konferenz-paper:blended:learning,0.05282297987370049,0.001244123482323437,Signifikant
+krisenreaktion im bildungsbereich,#9:zeitschriftenartikel:digital:lernen,0.15873005975844345,1.7251044139860912e-22,Signifikant
+krisenreaktion im bildungsbereich,#9:buch:digital:lernen,-0.023145249772311107,0.1574057224388769,Nicht signifikant
+krisenreaktion im bildungsbereich,#9:buchteil:digital:lernen,-0.016787537990667095,0.30516577741097034,Nicht signifikant
+krisenreaktion im bildungsbereich,#9:konferenz-paper:digital:lernen,-0.004851247639760737,0.7669968845300907,Nicht signifikant
+krisenreaktion im bildungsbereich,#a:zeitschriftenartikel:online:lernen,0.07687068057413787,2.575599541088821e-06,Signifikant
+krisenreaktion im bildungsbereich,#a:buch:online:lernen,-0.006862539783019269,0.6751036600513571,Nicht signifikant
+krisenreaktion im bildungsbereich,#a:buchteil:online:lernen,-0.013747216805530732,0.4010823894483416,Nicht signifikant
+krisenreaktion im bildungsbereich,#a:konferenz-paper:online:lernen,-0.003429890486472379,0.8340650790224886,Nicht signifikant
+krisenreaktion im bildungsbereich,#b:zeitschriftenartikel:online:learning,-0.027450759865726385,0.09355254391373367,Nicht signifikant
+krisenreaktion im bildungsbereich,#b:buch:online:learning,-0.003429890486472378,0.8340650790224886,Nicht signifikant
+krisenreaktion im bildungsbereich,#b:buchteil:online:learning,-0.028110436146019612,0.08593104253882351,Nicht signifikant
+krisenreaktion im bildungsbereich,#b:konferenz-paper:online:learning,-0.011899038210811501,0.46735274999528226,Nicht signifikant
+forschungsansätze,#0:zeitschriftenartikel:digital:learning,-0.01575724401113339,0.33580962209145604,Nicht signifikant
+forschungsansätze,#0:buch:digital:learning,-0.029271158030057524,0.07374348119538032,Nicht signifikant
+forschungsansätze,#0:buchteil:digital:learning,-0.06125028426396831,0.00018071756956665496,Signifikant
+forschungsansätze,#0:konferenz-paper:digital:learning,-0.0008953219419196648,0.9563899591769099,Nicht signifikant
+forschungsansätze,#1:zeitschriftenartikel:learning:management:system,0.24065357783048777,2.503400569091855e-50,Signifikant
+forschungsansätze,#1:buch:learning:management:system,-0.009010245289603246,0.5820880412881796,Nicht signifikant
+forschungsansätze,#1:buchteil:learning:management:system,-0.0020106557254810876,0.9022602544514086,Nicht signifikant
+forschungsansätze,#1:konferenz-paper:learning:management:system,0.0131916497543965,0.4203857102998873,Nicht signifikant
+forschungsansätze,#2:zeitschriftenartikel:online:lernplattform,0.02909070172529466,0.0755398261318414,Nicht signifikant
+forschungsansätze,#3:zeitschriftenartikel:online:lernumgebung,0.05052370589171202,0.0020161030959980693,Signifikant
+forschungsansätze,#3:buch:online:lernumgebung,-0.009010245289603248,0.5820880412881796,Nicht signifikant
+forschungsansätze,#3:buchteil:online:lernumgebung,0.08415880558567111,2.613582237514513e-07,Signifikant
+forschungsansätze,#3:konferenz-paper:online:lernumgebung,-0.009010245289603244,0.5820880412881796,Nicht signifikant
+forschungsansätze,#4:zeitschriftenartikel:mooc,0.05187697992841263,0.001520889727966659,Signifikant
+forschungsansätze,#4:buch:mooc,-0.012745827742925507,0.4362631176399202,Nicht signifikant
+forschungsansätze,#4:buchteil:mooc,-0.018673812192970464,0.25401344383916963,Nicht signifikant
+forschungsansätze,#4:konferenz-paper:mooc,-0.02615107163455352,0.11014903659075304,Nicht signifikant
+forschungsansätze,#5:zeitschriftenartikel:e-learning,0.30930796385220044,1.4162786000315057e-83,Signifikant
+forschungsansätze,#5:buch:e-learning,-0.0313048368689271,0.05581210813543335,Nicht signifikant
+forschungsansätze,#5:buchteil:e-learning,-0.05799539672459762,0.0003922908449857353,Signifikant
+forschungsansätze,#5:konferenz-paper:e-learning,0.007419260986814327,0.6504345991483937,Nicht signifikant
+forschungsansätze,#6:zeitschriftenartikel:bildung:technologie,0.12130372747261367,1.0343320772231539e-13,Signifikant
+forschungsansätze,#6:buch:bildung:technologie,-0.030641583424898644,0.061212050395586824,Nicht signifikant
+forschungsansätze,#6:buchteil:bildung:technologie,-0.044795724418375094,0.006192708358606919,Signifikant
+forschungsansätze,#6:konferenz-paper:bildung:technologie,-0.008098133519099372,0.6208652421680461,Nicht signifikant
+forschungsansätze,#7:zeitschriftenartikel:digital:medien,0.05905331432647415,0.0003061990929034891,Signifikant
+forschungsansätze,#7:buch:digital:medien,-0.08127127440175196,6.623204168948015e-07,Signifikant
+forschungsansätze,#7:buchteil:digital:medien,-0.26293770537917116,4.48391953944997e-60,Signifikant
+forschungsansätze,#7:konferenz-paper:digital:medien,-0.01803499788646355,0.27062345850326736,Nicht signifikant
+forschungsansätze,#8:zeitschriftenartikel:blended:learning,0.020588614934435798,0.20852161797609622,Nicht signifikant
+forschungsansätze,#8:buch:blended:learning,-0.02016915588957147,0.21794408811416885,Nicht signifikant
+forschungsansätze,#8:buchteil:blended:learning,-0.03738054153143711,0.022376224502797692,Signifikant
+forschungsansätze,#8:konferenz-paper:blended:learning,-0.009010245289603244,0.5820880412881796,Nicht signifikant
+forschungsansätze,#9:zeitschriftenartikel:digital:lernen,0.14527707198391412,4.638985920406111e-19,Signifikant
+forschungsansätze,#9:buch:digital:lernen,-0.042987782365185995,0.008618836865025799,Signifikant
+forschungsansätze,#9:buchteil:digital:lernen,-0.044373362508946954,0.006696665513348926,Signifikant
+forschungsansätze,#9:konferenz-paper:digital:lernen,-0.009010245289603251,0.5820880412881796,Nicht signifikant
+forschungsansätze,#a:zeitschriftenartikel:online:lernen,0.016244354002624216,0.32108281227804586,Nicht signifikant
+forschungsansätze,#a:buch:online:lernen,-0.012745827742925509,0.4362631176399202,Nicht signifikant
+forschungsansätze,#a:buchteil:online:lernen,0.047262927333458556,0.0038729256567471768,Signifikant
+forschungsansätze,#a:konferenz-paper:online:lernen,-0.00637035189593351,0.6972087193898601,Nicht signifikant
+forschungsansätze,#b:zeitschriftenartikel:online:learning,0.06974932744301485,1.9960515919070214e-05,Signifikant
+forschungsansätze,#b:buch:online:learning,-0.006370351895933511,0.6972087193898601,Nicht signifikant
+forschungsansätze,#b:buchteil:online:learning,-0.022138269271810732,0.17627203020295393,Nicht signifikant
+forschungsansätze,#b:konferenz-paper:online:learning,0.0619118998917342,0.00015366215703855552,Signifikant

@@ -1,0 +1,91 @@
+x_term,y_term,correlation,p_value,significance
+lernsystemarchitektur,bildungstheorien,0.2382233970721631,2.529823666373472e-49,Signifikant
+lernsystemarchitektur,lehr- und lerneffektivität,0.2490960880801082,6.608174141380931e-54,Signifikant
+lernsystemarchitektur,kollaboratives lernen,0.11648589997617001,9.3999249719369e-13,Signifikant
+lernsystemarchitektur,bewertungsmethoden,0.17488790027162263,5.045309101589691e-27,Signifikant
+lernsystemarchitektur,technologieintegration,0.29573548832880553,3.120976627817235e-76,Signifikant
+lernsystemarchitektur,datenschutz und it-sicherheit,0.12519800615234625,1.6280135879500886e-14,Signifikant
+lernsystemarchitektur,systemanpassung,0.23434484993651689,9.614380262368149e-48,Signifikant
+lernsystemarchitektur,krisenreaktion im bildungsbereich,0.14370775310045522,1.1124571293538595e-18,Signifikant
+lernsystemarchitektur,forschungsansätze,0.21300711831449048,1.4648853446525941e-39,Signifikant
+bildungstheorien,lernsystemarchitektur,0.2382233970721631,2.529823666373472e-49,Signifikant
+bildungstheorien,lehr- und lerneffektivität,0.35572878493779275,8.916262762456739e-112,Signifikant
+bildungstheorien,kollaboratives lernen,0.21816703455418165,1.8414205759212283e-41,Signifikant
+bildungstheorien,bewertungsmethoden,0.15785274821374787,2.951048350203607e-22,Signifikant
+bildungstheorien,technologieintegration,0.3381922773252807,1.518679692598077e-100,Signifikant
+bildungstheorien,datenschutz und it-sicherheit,0.09224828504951416,1.63874203289699e-08,Signifikant
+bildungstheorien,systemanpassung,0.2848311299405171,1.2931760496016418e-70,Signifikant
+bildungstheorien,krisenreaktion im bildungsbereich,0.11380531025396504,3.0882918059368483e-12,Signifikant
+bildungstheorien,forschungsansätze,0.3343541868952338,3.502270952303753e-98,Signifikant
+lehr- und lerneffektivität,lernsystemarchitektur,0.2490960880801082,6.608174141380931e-54,Signifikant
+lehr- und lerneffektivität,bildungstheorien,0.35572878493779275,8.916262762456739e-112,Signifikant
+lehr- und lerneffektivität,kollaboratives lernen,0.4022113066701951,3.476878338912067e-145,Signifikant
+lehr- und lerneffektivität,bewertungsmethoden,0.4093922254849932,7.600134255289906e-151,Signifikant
+lehr- und lerneffektivität,technologieintegration,0.7905954199418681,0.0,Signifikant
+lehr- und lerneffektivität,datenschutz und it-sicherheit,0.17032774424463426,1.0684324238952467e-25,Signifikant
+lehr- und lerneffektivität,systemanpassung,0.5379091933062687,4.498243613886885e-279,Signifikant
+lehr- und lerneffektivität,krisenreaktion im bildungsbereich,0.2491485254056603,6.272245870962828e-54,Signifikant
+lehr- und lerneffektivität,forschungsansätze,0.5397552159598216,2.4009455307741216e-281,Signifikant
+kollaboratives lernen,lernsystemarchitektur,0.11648589997617001,9.3999249719369e-13,Signifikant
+kollaboratives lernen,bildungstheorien,0.21816703455418165,1.8414205759212283e-41,Signifikant
+kollaboratives lernen,lehr- und lerneffektivität,0.4022113066701951,3.476878338912067e-145,Signifikant
+kollaboratives lernen,bewertungsmethoden,0.151878954275047,1.052624037529429e-20,Signifikant
+kollaboratives lernen,technologieintegration,0.37003349643845185,1.7610482065591361e-121,Signifikant
+kollaboratives lernen,datenschutz und it-sicherheit,0.04399270208074141,0.007182119279965821,Signifikant
+kollaboratives lernen,systemanpassung,0.21121103551529777,6.543623714702369e-39,Signifikant
+kollaboratives lernen,krisenreaktion im bildungsbereich,0.007554944309710345,0.6444785766616387,Nicht signifikant
+kollaboratives lernen,forschungsansätze,0.3098801740230056,6.805660338286491e-84,Signifikant
+bewertungsmethoden,lernsystemarchitektur,0.17488790027162263,5.045309101589691e-27,Signifikant
+bewertungsmethoden,bildungstheorien,0.15785274821374787,2.951048350203607e-22,Signifikant
+bewertungsmethoden,lehr- und lerneffektivität,0.4093922254849932,7.600134255289906e-151,Signifikant
+bewertungsmethoden,kollaboratives lernen,0.151878954275047,1.052624037529429e-20,Signifikant
+bewertungsmethoden,technologieintegration,0.386826073874509,1.6114439360837731e-133,Signifikant
+bewertungsmethoden,datenschutz und it-sicherheit,0.1296995360468279,1.78571618343112e-15,Signifikant
+bewertungsmethoden,systemanpassung,0.1662416625683263,1.5338228292752037e-24,Signifikant
+bewertungsmethoden,krisenreaktion im bildungsbereich,0.0485921305432016,0.00298133773809156,Signifikant
+bewertungsmethoden,forschungsansätze,0.24160901531490658,1.0010896203948634e-50,Signifikant
+technologieintegration,lernsystemarchitektur,0.29573548832880553,3.120976627817235e-76,Signifikant
+technologieintegration,bildungstheorien,0.3381922773252807,1.518679692598077e-100,Signifikant
+technologieintegration,lehr- und lerneffektivität,0.7905954199418681,0.0,Signifikant
+technologieintegration,kollaboratives lernen,0.37003349643845185,1.7610482065591361e-121,Signifikant
+technologieintegration,bewertungsmethoden,0.386826073874509,1.6114439360837731e-133,Signifikant
+technologieintegration,datenschutz und it-sicherheit,0.23967513179989847,6.373136585274144e-50,Signifikant
+technologieintegration,systemanpassung,0.5701873977639046,6.156e-321,Signifikant
+technologieintegration,krisenreaktion im bildungsbereich,0.2893045908022864,6.873945086640269e-73,Signifikant
+technologieintegration,forschungsansätze,0.5426675948434905,5.834688803363224e-285,Signifikant
+datenschutz und it-sicherheit,lernsystemarchitektur,0.12519800615234625,1.6280135879500886e-14,Signifikant
+datenschutz und it-sicherheit,bildungstheorien,0.09224828504951416,1.63874203289699e-08,Signifikant
+datenschutz und it-sicherheit,lehr- und lerneffektivität,0.17032774424463426,1.0684324238952467e-25,Signifikant
+datenschutz und it-sicherheit,kollaboratives lernen,0.04399270208074141,0.007182119279965821,Signifikant
+datenschutz und it-sicherheit,bewertungsmethoden,0.1296995360468279,1.78571618343112e-15,Signifikant
+datenschutz und it-sicherheit,technologieintegration,0.23967513179989847,6.373136585274144e-50,Signifikant
+datenschutz und it-sicherheit,systemanpassung,0.14796158264353226,1.0159510782065115e-19,Signifikant
+datenschutz und it-sicherheit,krisenreaktion im bildungsbereich,0.13197268078985372,5.677862039949769e-16,Signifikant
+datenschutz und it-sicherheit,forschungsansätze,0.19440515658930732,4.087703778819408e-33,Signifikant
+systemanpassung,lernsystemarchitektur,0.23434484993651689,9.614380262368149e-48,Signifikant
+systemanpassung,bildungstheorien,0.2848311299405171,1.2931760496016418e-70,Signifikant
+systemanpassung,lehr- und lerneffektivität,0.5379091933062687,4.498243613886885e-279,Signifikant
+systemanpassung,kollaboratives lernen,0.21121103551529777,6.543623714702369e-39,Signifikant
+systemanpassung,bewertungsmethoden,0.1662416625683263,1.5338228292752037e-24,Signifikant
+systemanpassung,technologieintegration,0.5701873977639046,6.156e-321,Signifikant
+systemanpassung,datenschutz und it-sicherheit,0.14796158264353226,1.0159510782065115e-19,Signifikant
+systemanpassung,krisenreaktion im bildungsbereich,0.20810356830123294,8.440798391146669e-38,Signifikant
+systemanpassung,forschungsansätze,0.4893512012833919,4.511430451649824e-224,Signifikant
+krisenreaktion im bildungsbereich,lernsystemarchitektur,0.14370775310045522,1.1124571293538595e-18,Signifikant
+krisenreaktion im bildungsbereich,bildungstheorien,0.11380531025396504,3.0882918059368483e-12,Signifikant
+krisenreaktion im bildungsbereich,lehr- und lerneffektivität,0.2491485254056603,6.272245870962828e-54,Signifikant
+krisenreaktion im bildungsbereich,kollaboratives lernen,0.007554944309710345,0.6444785766616387,Nicht signifikant
+krisenreaktion im bildungsbereich,bewertungsmethoden,0.0485921305432016,0.00298133773809156,Signifikant
+krisenreaktion im bildungsbereich,technologieintegration,0.2893045908022864,6.873945086640269e-73,Signifikant
+krisenreaktion im bildungsbereich,datenschutz und it-sicherheit,0.13197268078985372,5.677862039949769e-16,Signifikant
+krisenreaktion im bildungsbereich,systemanpassung,0.20810356830123294,8.440798391146669e-38,Signifikant
+krisenreaktion im bildungsbereich,forschungsansätze,0.18302504205278694,1.7611557301333318e-29,Signifikant
+forschungsansätze,lernsystemarchitektur,0.21300711831449048,1.4648853446525941e-39,Signifikant
+forschungsansätze,bildungstheorien,0.3343541868952338,3.502270952303753e-98,Signifikant
+forschungsansätze,lehr- und lerneffektivität,0.5397552159598216,2.4009455307741216e-281,Signifikant
+forschungsansätze,kollaboratives lernen,0.3098801740230056,6.805660338286491e-84,Signifikant
+forschungsansätze,bewertungsmethoden,0.24160901531490658,1.0010896203948634e-50,Signifikant
+forschungsansätze,technologieintegration,0.5426675948434905,5.834688803363224e-285,Signifikant
+forschungsansätze,datenschutz und it-sicherheit,0.19440515658930732,4.087703778819408e-33,Signifikant
+forschungsansätze,systemanpassung,0.4893512012833919,4.511430451649824e-224,Signifikant
+forschungsansätze,krisenreaktion im bildungsbereich,0.18302504205278694,1.7611557301333318e-29,Signifikant

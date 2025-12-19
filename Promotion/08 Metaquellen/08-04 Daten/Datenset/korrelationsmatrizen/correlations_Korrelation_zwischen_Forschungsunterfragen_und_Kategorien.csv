@@ -1,0 +1,37 @@
+x_term,y_term,correlation,p_value,significance
+promotion:fu1,promotion:argumentation,0.20508004112328887,9.770553441763367e-37,Signifikant
+promotion:fu1,promotion:kerngedanke,0.07863495019150718,1.5070318843319742e-06,Signifikant
+promotion:fu1,promotion:weiterführung,-0.015890552517036877,0.3317367572143318,Nicht signifikant
+promotion:fu1,promotion:schlussfolgerung,-0.012740013905206751,0.43647242680844145,Nicht signifikant
+promotion:fu2a,promotion:argumentation,0.06441001311350648,8.212503487364763e-05,Signifikant
+promotion:fu2a,promotion:kerngedanke,0.23434332646983358,9.628002569633479e-48,Signifikant
+promotion:fu2a,promotion:weiterführung,0.04434105531801595,0.006736690951951385,Signifikant
+promotion:fu2a,promotion:schlussfolgerung,0.03625550105269589,0.026750787947559907,Signifikant
+promotion:fu2b,promotion:argumentation,0.04912404849925745,0.00268033997784921,Signifikant
+promotion:fu2b,promotion:kerngedanke,0.07622497888028086,3.1248274214844016e-06,Signifikant
+promotion:fu2b,promotion:weiterführung,0.0994572390696063,1.130978551056701e-09,Signifikant
+promotion:fu2b,promotion:schlussfolgerung,0.02076184831146204,0.20471757158940923,Nicht signifikant
+promotion:fu3,promotion:argumentation,0.23652943817821864,1.249166312212426e-48,Signifikant
+promotion:fu3,promotion:kerngedanke,0.18964651652608885,1.4435675709228572e-31,Signifikant
+promotion:fu3,promotion:weiterführung,0.09385390958145742,9.187941256644268e-09,Signifikant
+promotion:fu3,promotion:schlussfolgerung,0.001957052789267437,0.9048533891963121,Nicht signifikant
+promotion:fu4a,promotion:argumentation,0.16615860814003874,1.618044167228699e-24,Signifikant
+promotion:fu4a,promotion:kerngedanke,0.3102526193856643,4.220120277090842e-84,Signifikant
+promotion:fu4a,promotion:weiterführung,0.1041415265936455,1.7931471428865878e-10,Signifikant
+promotion:fu4a,promotion:schlussfolgerung,0.07011381087473048,1.8055229094299357e-05,Signifikant
+promotion:fu4b,promotion:argumentation,0.15011517656414197,2.9433597645077584e-20,Signifikant
+promotion:fu4b,promotion:kerngedanke,0.08379689888761405,2.9415930192646927e-07,Signifikant
+promotion:fu4b,promotion:weiterführung,0.16035232105611916,6.341011919217863e-23,Signifikant
+promotion:fu4b,promotion:schlussfolgerung,0.08177966842777298,5.635543287405446e-07,Signifikant
+promotion:fu5,promotion:argumentation,0.16510168174283307,3.1868994933590033e-24,Signifikant
+promotion:fu5,promotion:kerngedanke,0.15528382013882913,1.3965593818129465e-21,Signifikant
+promotion:fu5,promotion:weiterführung,0.124955104918663,1.8301447346548905e-14,Signifikant
+promotion:fu5,promotion:schlussfolgerung,0.03867150861413016,0.018134752113737603,Signifikant
+promotion:fu6,promotion:argumentation,0.09859265852973377,1.5745734994736484e-09,Signifikant
+promotion:fu6,promotion:kerngedanke,0.09796242678278894,2.0005566351402398e-09,Signifikant
+promotion:fu6,promotion:weiterführung,0.11108983976345388,1.002100377409853e-11,Signifikant
+promotion:fu6,promotion:schlussfolgerung,0.13763769583975266,2.992958581565172e-17,Signifikant
+promotion:fu7,promotion:argumentation,-0.018292524132836843,0.2638400161295492,Nicht signifikant
+promotion:fu7,promotion:kerngedanke,-0.0016963968570556584,0.9174770297388477,Nicht signifikant
+promotion:fu7,promotion:weiterführung,0.1783758637717172,4.613448629849891e-28,Signifikant
+promotion:fu7,promotion:schlussfolgerung,0.04943137364754532,0.0025193528346770526,Signifikant

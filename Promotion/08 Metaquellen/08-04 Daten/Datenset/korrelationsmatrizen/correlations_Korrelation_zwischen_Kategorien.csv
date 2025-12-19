@@ -1,0 +1,13 @@
+x_term,y_term,correlation,p_value,significance
+promotion:argumentation,promotion:kerngedanke,-0.13897714046795992,1.4654543705548415e-17,Signifikant
+promotion:argumentation,promotion:weiterführung,-0.07874095926928723,1.4587436933392821e-06,Signifikant
+promotion:argumentation,promotion:schlussfolgerung,-0.03773477762889253,0.021134166012364803,Signifikant
+promotion:kerngedanke,promotion:argumentation,-0.13897714046795992,1.4654543705548415e-17,Signifikant
+promotion:kerngedanke,promotion:weiterführung,-0.07903685246131689,1.3317015385978648e-06,Signifikant
+promotion:kerngedanke,promotion:schlussfolgerung,-0.03787657757528331,0.02065405878717663,Signifikant
+promotion:weiterführung,promotion:argumentation,-0.07874095926928723,1.4587436933392821e-06,Signifikant
+promotion:weiterführung,promotion:kerngedanke,-0.07903685246131689,1.3317015385978648e-06,Signifikant
+promotion:weiterführung,promotion:schlussfolgerung,-0.021459918099285956,0.18989967691097295,Nicht signifikant
+promotion:schlussfolgerung,promotion:argumentation,-0.03773477762889253,0.021134166012364803,Signifikant
+promotion:schlussfolgerung,promotion:kerngedanke,-0.03787657757528331,0.02065405878717663,Signifikant
+promotion:schlussfolgerung,promotion:weiterführung,-0.021459918099285956,0.18989967691097295,Nicht signifikant
