@@ -1,5 +1,7 @@
 \newpage
 
+#todo Vor Finalisierung: Arbeits-/Prozessnotizen (z.B. „VORGEHEN“ und Schrittlisten) aus dem Kapitel entfernen oder in ein separates Arbeitsdokument auslagern; im Theorieteil nur argumentativen Fließtext, Belege und Zwischenfazits belassen.
+
 VORGEHEN:
 
 Du kannst die Adaption jetzt gut durchführen. Ich würde es zweigleisig denken: (1) inhaltlich, wie der Theorieteil aufgebaut wird, und (2) prozedural, wie du dafür mit deinen Schlagworten/Indizes arbeitest, so dass es reproduzierbar bleibt.
@@ -93,6 +95,8 @@ Dispositionen wie Vorerfahrung, Selbstkonzept oder digitale Kompetenz werden als
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 
+#todo Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
+
 Text
 
 ### 2.2.1 Einleitung und Übersicht zur Theorie {#sec:Einleitung-Theorie}
@@ -112,6 +116,8 @@ Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verar
 Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander?
 
 ## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand
+
+#todo Abschnitt ausformulieren: medienpädagogische Rahmung (z.B. Medienbildung/Medienkompetenz, Gestaltung digitaler Lernräume) als Brücke von Theorie (Kap. 2) zu Forschungsgegenstand (Kap. 3); explizit machen, welche theoretischen Bausteine später in Methodik/Analysen wieder aufgegriffen werden.
 
 Text
 
