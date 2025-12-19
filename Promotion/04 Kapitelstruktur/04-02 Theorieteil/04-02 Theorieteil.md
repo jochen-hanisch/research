@@ -4,17 +4,17 @@
 
 VORGEHEN:
 
-Du kannst die Adaption jetzt gut durchführen. Ich würde es zweigleisig denken: (1) inhaltlich, wie der Theorieteil aufgebaut wird, und (2) prozedural, wie du dafür mit deinen Schlagworten/Indizes arbeitest, so dass es reproduzierbar bleibt.
+Die Adaption lässt sich jetzt gut durchführen; empfohlen wird eine zweigleisige Herangehensweise: (1) inhaltlich, wie der Theorieteil aufgebaut wird, und (2) prozedural, wie mit den Schlagworten/Indizes gearbeitet wird, sodass das Vorgehen reproduzierbar bleibt.
 
 1. Inhaltliche Adaption von 2.1
 
 In 2.1.2 Systemisch-konstruktivistische Theorie:
 Kurz (ca. 2–3 Seiten) die klassischen Autor:innen (Arnold, Reich, Siebert etc.) entlang weniger Leitkategorien skizzieren: Menschenbild/Lernverständnis, Rolle der Lernumgebung, Implikationen für digitale Bildungsräume.
-Direkt im Anschluss überleiten auf die aktuellen Quellen, geordnet nach deinen Indizes/Schlagworten (z.B. „Bildungstheorien“, „Technologieintegration“, „Lehr- und Lerneffektivität“, „kollaboratives Lernen“), und dort Gemeinsamkeiten/Unterschiede zu den Klassikern herausarbeiten.
+Direkt im Anschluss wird zu den aktuellen Quellen übergeleitet, die nach den Indizes/Schlagworten (z.B. „Bildungstheorien“, „Technologieintegration“, „Lehr- und Lerneffektivität“, „kollaboratives Lernen“) geordnet sind; dort werden Gemeinsamkeiten und Unterschiede zu den Klassikern herausgearbeitet.
 In 2.1.3 Bildungstechnologie und Digitalität und 2.1.4 Kompetenzentwicklung:
 Jeweils klar machen, welche Indizes hier besonders relevant sind (z.B. „Technologieintegration“, „Bewertungsmethoden“, „Systemanpassung“, „Krisenreaktion“, „Forschungsansätze“) und exemplarisch 2–3 zentrale, aktuelle Quellen pro Index synthetisieren (kein Autor:innen-Parade, sondern thematische Linien).
 Am Ende von 2.1 ein kurzes Zwischenfazit:
-Welche theoretischen Bausteine aus den Indizes fließen in dein Modell (2.3) ein, und wie werden sie später in Methodik/Analysen (Kap. 4) wieder aufgegriffen.
+Welche theoretischen Bausteine aus den Indizes fließen in das Modell (2.3) ein, und wie werden sie später in Methodik/Analysen (Kap. 4) wieder aufgegriffen.
 2. Reproduzierbares Vorgehen mit den Schlagworten/Indizes
 
 Master-Schlagwortliste fixieren
@@ -34,8 +34,8 @@ Index-spezifische Mini-Sekundäranalysen
 Pro Index ein kurzes internes Synthese-Dokument (z.B. Theorie-Cluster_Bildungstheorien.md) erstellen:
 Welche gemeinsamen theoretischen Linien ziehen sich durch die Quellen?
 Wo ergänzen oder korrigieren sie die Klassiker (Arnold/Reich/Siebert)?
-Welche Begriffe/Konzepte brauchst du später im Modell (2.3) und in den FUs?
-Das ist im Kleinen dasselbe Prinzip wie deine Sekundäranalysen in Kap. 4 (2. Ordnung), aber hier rein theoriebezogen.
+Zu klärende Frage: Welche Begriffe/Konzepte werden später im Modell (2.3) und in den FUs benötigt?
+Das ist im Kleinen dasselbe Prinzip wie die Sekundäranalysen in Kap. 4 (2. Ordnung), aber hier rein theoriebezogen.
 Überführung in Fließtext von 2.1
 
 Aus diesen Mini-Sekundäranalysen die Absätze für 2.1.2–2.1.4 bauen:
