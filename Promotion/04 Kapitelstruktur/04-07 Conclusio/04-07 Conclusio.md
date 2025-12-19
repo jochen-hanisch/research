@@ -143,11 +143,7 @@ Die Kopplung von Suchergebnissen, Schlagworten, Folgen und Implikationen wird im
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/schlagworte-mapping.tex}
 ```
 
-In Abbildung~\ref{fig:schlagworte-mapping} dargestellte Kopplungen sind nicht kausal zu einzuordnen. Schlagworte fungieren als strukturierende Begriffsanker der Analysen erster Ordnung und markieren wiederkehrende semantische Verdichtungen im Literaturkorpus. Sie stellen keine erklaerenden Variablen dar, sondern dienen der begrifflichen Orientierung und der Rueckbindung der Synthese an das Material. Als heuristische Orientierung dienten die im Literaturkorpus sichtbar gewordenen Korrelationsmuster der Indizes (\hyperref[fig:A-kor-indizes]{Abb.~A.4.8}); entlang dieser Struktur wurden die empirischen Befunde zu den dargestellten Folgen zusammengefuehrt.
-
-Die Ebene der Folgen repraesentiert eine analytische Verdichtung beobachtbarer Wirkungsdimensionen und Nebenfolgen, die aus der Zusammenfuehrung der empirischen Ergebnisse hervorgeht. Implikationen sind dieser Ebene nachgelagert und bezeichnen keine Wirkungen selbst, sondern abgeleitete Konsequenzen fuer Gestaltung, Steuerung und Forschung. Die räumliche Anordnung der Schlagworte folgt dabei keinem inhaltlichen Ranking und keiner Wirkungszuschreibung. Sie orientiert sich vielmehr an dieser Struktur, die im Rahmen der Literaturauswertung ermittelt wurde. Diese Ordnungsentscheidung dient ausschliesslich der strukturellen Uebersicht und begruendet keine zusaetzliche Interpretation oder Gewichtung einzelner Begriffe.
-
-
+Die in Abbildung~\ref{fig:schlagworte-mapping} dargestellten Kopplungen sind ausdrücklich nicht kausal zu verstehen. Die Schlagworte fungieren als strukturierende Begriffsanker der Analysen erster Ordnung und markieren wiederkehrende semantische Verdichtungen im Literaturkorpus; sie stellen keine erklärenden Variablen dar, sondern dienen der begrifflichen Orientierung und der Rückbindung der Synthese an das Material. Die im Literaturkorpus sichtbar gewordenen Korrelationsmuster der Indizes dienten dabei als heuristische Orientierung (vgl. Abb.~\ref{fig:A-kor-indizes}), entlang derer die empirischen Befunde zu den dargestellten Folgen zusammengeführt wurden. Implikationen sind diesen Folgen nachgelagert.
 
 ### 7.3.2 Folgerungen aus den Ergebnissen {#sec:Conclusio-Folgerungen}
 
