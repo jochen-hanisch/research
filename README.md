@@ -7,6 +7,7 @@ Dieser Ordner bündelt sämtliche Recherchen, Materialien und Arbeitsstände run
 - **Forschungsprojekte/** – Projektordner mit Hypothesen, Designs, Datensätzen und Auswertungen.
 - **Methodologie/** & **Modelle/** – Methodische Rahmenwerke, Analysemodelle und evidenzbasierte Templates.
 - **Universitätsordner** (z. B. *FernUniversität in Hagen*, *Humboldt Universität zu Berlin*) – Materialspezifische Sammlungen nach Institution.
+- **Promotion/** – Dissertation (Kapiteltexte, Build-Skript, Daten/Anhänge). Siehe `Promotion/README.md`.
 - **Prompts/** & **KI & Co..md** – KI-gestützte Workflows, Prompt-Sammlungen und Tools zur Automatisierung.
 - **Synopsen/** & **Fallstudien/** – Zusammenfassungen und tiefere Fallanalysen zu Einzelthemen.
 - **Formulierungshilfen…**, **Fragebogen.md**, **Wissenschaftliche Suchmaschinen.md** – Hilfsmittel für Schreibprozesse, Datenerhebung und Literaturrecherche.
