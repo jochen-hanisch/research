@@ -152,6 +152,7 @@ Abbildung 1: Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 20
 
 +++++ Abbildung 1 hier einfügen +++++
 
+Priorität: NICE — historischer Ursprung/Anschaulichkeit; nicht argumentationskritisch.
 #todo (#40) Abbildung 1 ersetzen: tatsächliche Grafikdatei/Scan einbinden (inkl. Quelle/Datum), konsistente Caption + Subcaption (Was wird gezeigt? Warum ist sie für den Forschungsgegenstand relevant?).
 
 Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learning Management Systems. Die Skizze zeigt erste Überlegungen zur Verschränkung von Lernorten, Selbststeuerung und Aufgabenstruktur als Grundlage einer systemisch-konstruktivistisch orientierten Ausbildungsarchitektur.
@@ -201,6 +202,8 @@ Abbildung 3:  Integrative Architektur des Learning Management Systems (eig. Dars
 
 +++++ Abbildung 3 hier einfügen +++++
 
+Priorität: MUST — zentrale Gesamtarchitektur (Handlungssituationen – Ausbildungskurse – Content/Lernorte) als Referenzrahmen für Kapitel 3/5/6/7.
+
 Die Handlungssituationen (n = 32) bilden die curricular-inhaltliche Struktur gemäß Rahmenlehrplan NRW ab und bestehen aus standardisierten didaktischen Containern (Einführung, Ressourcen, Aufgaben, weiterführende Quellen, Lounge, Feedback, Organisation). Die Ausbildungskurse (n = 3) dienen der kohortenspezifischen Organisation und individuellen Ergebnissicherung. Content und Lernorte wirken wechselseitig auf die Handlungssituationen ein und sichern die curricular verankerte Theorie-Praxis-Verknüpfung im digitalen Raum.
 
 Jede Handlungssituation besteht aus einem wiederkehrenden Satz von didaktisch strukturierten Containern: Einführung, Ressourcen, Aufgaben, weiterführende Quellen, Lounge, Feedback und Organisation. Diese Container wurden hier bereits als das organisationale, digitale Fundament, und damit als Trägerelemente der Aufgabenlogik beschrieben und bilden die standardisierte Grundlage für die Bearbeitung durch die Lernenden. Die Ausbildungskurse dagegen dienen der kohortenspezifischen Dokumentation, Reflexion und Organisation und sind der Ort für kursinterne Bearbeitung, individuelle Ergebnisfesthaltung und administrative Steuerung.
@@ -211,6 +214,7 @@ Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedin
 
 Abbildung 4: Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz)
 
+Priorität: SHOULD — macht die Standardisierung/Containerstruktur operativ sichtbar; stärkt Nachvollziehbarkeit.
 #todo (#41) Abbildung 4 hier einfügen
 
 Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Organisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
@@ -225,6 +229,7 @@ Die Einführung dient der strukturellen Rahmung jeder Handlungssituation. Hier w
 
 Abbildung 5: LMS Kurs Einführung (eig. Darstellung)
 
+Priorität: NICE — UI-Beleg; hilfreich, aber bei Zeitdruck nachrangig.
 #todo (#42): Abbildung einfügen prüfen
 
 Die Abbildung zeigt die strukturelle Umsetzung des Containers „Einführung“, der grundlegende Informationen zur Kursleitung, Zielstellung und Orientierung innerhalb des Ausbildungsgangs bereitstellt.
@@ -235,6 +240,7 @@ Der Container in Abbildung 6 stellt zentrale Materialien zur Verfügung, die fü
 
 Abbildung 6: LMS Kurs Ressourcen (eig. Darstellung)
 
+Priorität: NICE — UI-Beleg; hilfreich, aber bei Zeitdruck nachrangig.
 #todo (#43): Abbildung einfügen prüfen
 
 Die Abbildung zeigt die Bereitstellung zentraler Lernmaterialien in strukturierter Form. Die Materialien orientieren sich an curricularen Kompetenzanforderungen und bilden die inhaltliche Grundlage für die Bearbeitung der Aufgaben innerhalb der jeweiligen Handlungssituation.
@@ -246,6 +252,7 @@ Die Aufgabenstellungen werden durch didaktisch begründete Operatoren formuliert
 
 Abbildung 7: LMS Kurs Aufgaben (eig. Darstellung)
 
+Priorität: NICE — UI-Beleg; hilfreich, aber bei Zeitdruck nachrangig.
 #todo (#44): Abbildung einfügen prüfen
 
 Die Abbildung zeigt beispielhafte Aufgabenformate zur Bearbeitung beruflicher Handlungssituationen. Operatoren und strukturierte Aufgabenbereiche ermöglichen eine kompetenzorientierte Formulierung und eine praxisnahe Umsetzung curricularer Anforderungen.
@@ -258,6 +265,7 @@ Die Ergebnissicherung ist der didaktisch-strukturelle Abschluss jeder Handlungss
 
 Abbildung 8: LMS Kurs Ergebnissicherung (eig. Darstellung)
 
+Priorität: SHOULD — stützt die empirische Argumentation zur zeitnahen Ergebnissicherung (vgl. Abschnitt 3.2 / Evaluation).
 #todo (#45): Abbildung einfügen prüfen
 
 Die Darstellung zeigt die zentralen Elemente der Ergebnissicherung in einem Handlungssituationskurs: ein Wiki und ein Glossar dienen der kollaborativen Dokumentation und Strukturierung von Lernergebnissen. Beide Aktivitäten stehen exemplarisch für die systematische Umsetzung der in Abschnitt 3.2 empirisch begründeten Forderung nach zeitnaher, zugänglicher und formativ nutzbarer Ergebnissicherung im digitalen Bildungsraum.
@@ -268,10 +276,12 @@ Weiterführende Quellen
 
 Dieser Container bietet zusätzliche Materialien, die das Verständnis vertiefen, den Kontext erweitern oder das Wissen ergänzen. Er zielt darauf ab, die Lernsituation über den unmittelbaren Aufgabenhorizont hinaus zu öffnen. Die weiterführenden Quellen sind bislang jedoch noch unzureichend ausgearbeitet und müssen in Funktion sowie didaktischer Ausrichtung systematisch neu organisiert werden. Wie in Abbildung 9 aufgezeigt, soll jene Aktivitäten und Materialien sammeln, die über die curricular angebundenen Ressourcen hinausgehen. Während die Ressourcen auf verpflichtende, direkt zugeordnete Inhalte fokussieren, enthalten die weiterführenden Quellen kontextualisierende, aktualisierende oder reflexionsfördernde Inhalte, die eigenständige Wissensprozesse anregen und vertiefen. Damit wird sichergestellt, dass einerseits aktuelle, wissenschaftlich begründete Literatur zur Verfügung steht und andererseits Transferleistungen möglich werden, die im Sinne der NotSan-APrV  den Anforderungen in besonderem Maß entsprechen (§ 8 NotSan-APrV, 2023). Diese Verankerung ist insbesondere mit Blick auf prüfungsrelevante Anforderungen von Bedeutung. Die Bereitstellung aktueller, evidenzbasierter und interdisziplinärer Quellen eröffnet Lernenden die Möglichkeit, über den Pflichtstoff hinausgehende Leistungen zu erbringen, d.h. als ein zentrales Kriterium für die Erreichung der Bestnote. Gleichzeitig adressiert dieser Bereich Anforderungen an Transferkompetenz und wissenschaftliches Arbeiten, die explizit als „allgemein“ anerkannter Stand „rettungsdienstlicher, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse“ (§ 2 NotSan-APrV, 2023) gefordert werden.
 
+Priorität: SHOULD — Kontext/Weiterentwicklung (Forum etc.) erklärt die dynamische Systementwicklung und verhindert „Standbild“-Eindruck.
 #todo (#46): die neue Entwicklung einführen, d.h. das Forum etc.
 
 Abbildung 9: LMS Kurs Weiterführende Quellen (eig. Darstellung)
 
+Priorität: SHOULD — stützt die Argumentation zur Transfer-/Vertiefungslogik und zur „lernenden Organisation“.
 #todo (#47): Abbildung einfügen prüfen
 
 Der Container „Weiterführende Quellen“ enthält eine strukturierte Sammlung ergänzender Literatur, Datenbanken und wissenschaftlicher Ressourcen zur Vertiefung und Kontextualisierung der Lerninhalte. Die Auswahl umfasst fachliche Leitlinien, Verzeichnisse medizinischer Fachgesellschaften, Plattformen für wissenschaftliches Arbeiten sowie kuratierte Blogs und evidenzbasierte Onlineportale. Die Liste ist dynamisch angelegt und kann im Sinne einer lernenden Organisation durch die Lernenden fortlaufend erweitert werden. Ziel ist die Förderung wissenschaftsorientierter Transferleistungen im Sinne einer prüfungsrelevanten Vertiefung gemäß § 8 NotSan-APrV.
@@ -286,6 +296,7 @@ Dieser Bereich unterstützt bei der formativen Rückmeldung. Im LMS ist hierfür
 
 Alle hier dargestellten Elemente sind zudem mit dem Kompetenzraster verbunden, welches
 
+Priorität: SHOULD — verbindet Containerlogik mit Ziel-/Kompetenzsystem (sonst bleibt die Kopplung behauptet).
 #todo (#48): Kompetenzraster ausführlich beschreiben.
 
 Diese Verbindung stellt sicher, dass alle didaktischen Maßnahmen und curricularen Strukturen systematisch auf die im Kompetenzraster definierten Lernziele ausgerichtet sind.
@@ -336,36 +347,42 @@ Auch die Verteilung der Kompetenzbereiche (vgl. Abbildung 9) wurde rekonstruiert
 
 Abbildung 10: Anteil der Themenbereiche nach APrV (eig. Darstellung)
 
+Priorität: MUST — Kern-Evidenz im „Studien“-Abschnitt 3.3.4 (Curriculum-Alignment).
 #todo (#49): Abbildung einfügen
 
 Die Abbildung  visualisiert die prozentuale Verteilung der inhaltlichen Themenbereiche gemäß Anlage 1 der Ausbildungs- und Prüfungsverordnung für Notfallsanitäter*innen (NotSan-APrV). Diese drei Themenbereiche – medizinisch (27 %), rettungsdienstlich (47 %) und bezugswissenschaftlich (26 %) – bilden die normative Grundlage des theoretischen und praktischen Unterrichts über 1.920 Stunden (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44, 47). Der größte Anteil entfällt auf rettungsdienstliche Inhalte, was den praktischen Handlungsschwerpunkt des Berufsbildes reflektiert. Der medizinische Bereich steht für die Anwendung pathophysiologischer und diagnostischer Kenntnisse, während bezugswissenschaftliche Inhalte (z. B. Psychologie, Kommunikation, Recht) die theoretische Fundierung ergänzen. Die Darstellung dient als Referenzwert für den Abgleich mit der empirischen Struktur des digitalen Curriculums.
 
 Abbildung 11: Anteil der Kompetenzbereiche nach APrV (eig. Darstellung)
 
+Priorität: MUST — Kern-Evidenz im „Studien“-Abschnitt 3.3.4 (Curriculum-Alignment).
 #todo (#50): Abbildung einfügen
 
 Die Abbildung  zeigt, bezogen auf den Gesamtumfang der Ausbildung, die in der NotSan-APrV verankerte Kompetenzgewichtung. Die vier Kompetenzbereiche – fachlich (24 %), sozial (15 %), personal (11 %) und methodisch (50 %) – definieren die Zielstruktur beruflicher Handlungskompetenz im Rettungsdienst (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 47). Der besonders hohe Anteil methodischer Kompetenzen spiegelt die Bedeutung strukturierter Vorgehensweisen, Entscheidungsalgorithmen und standardisierter Handlungsroutinen im beruflichen Alltag wider. Fachliche, soziale und personale Anteile ergänzen diesen Schwerpunkt um domänenspezifisches Wissen, Interaktionsfähigkeit und individuelle Reflexionsfähigkeit. Die Darstellung dient als normativer Referenzrahmen zur Bewertung des digital abgebildeten Curriculums im Hinblick auf seine kompetenzorientierte Ausrichtung.
 
 Abbildung 12: Vergleich Themengewichtung APrV-Schätzung vs. NFS-H-Lehrplan (eig. Darstellung)
 
+Priorität: MUST — Kern-Evidenz im „Studien“-Abschnitt 3.3.4 (Curriculum-Alignment).
 #todo (#51): Abbildung einfügen
 
 Die Balkengrafik  kontrastiert die normativ vorgegebene Verteilung der Themenbereiche gemäß NotSan-APrV mit der empirisch erhobenen Verteilung im digitalen Curriculum „NFS-H“. Während die APrV eine Gewichtung von 47 % rettungsdienstlich, 27 % medizinisch und 26 % bezugswissenschaftlich vorgibt (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44, 47), zeigt die Umsetzung im Curriculum eine nahezu deckungsgleiche Relation (Ø Kursdauer: 57,0 / 27,2 / 21,3 Tage). Die hohe Übereinstimmung verdeutlicht, dass die digitale Bildungsarchitektur nicht nur formal regelkonform ist, sondern auch inhaltlich anschlussfähig zur gesetzlichen Grundlage gestaltet wurde. Damit wird eine zentrale Voraussetzung für die curriculare Validität erfüllt.
 
 Abbildung 13: Kompetenzgewichtung APrV-Schätzung vs. NFS-H-Lehrplan (eig. Darstellung)
 
+Priorität: MUST — Kern-Evidenz im „Studien“-Abschnitt 3.3.4 (Curriculum-Alignment).
 #todo (#52): Abbildung einfügen
 
 Die Abbildung  vergleicht die vier Kompetenzbereiche fachlich, sozial, personal und methodisch hinsichtlich ihres relativen Anteils an der curricularen Kursdauer. Die normativen Vorgaben der NotSan-APrV (z. B. 50 % methodisch, 24 % fachlich) werden den empirisch ermittelten Anteilen im Curriculum gegenübergestellt. Die Daten zeigen, dass die Gewichtung der Kompetenzbereiche im digitalen Lehrplan des „NFS-H“ weitgehend der gesetzlich intendierten Verteilung (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 47) entspricht. Die methodische Dominanz in beiden Perspektiven legt nahe, dass die Ausbildung nicht nur auf inhaltliche Vermittlung, sondern auch auf handlungsbezogene Umsetzung im Sinne einer professionellen Handlungskompetenz zielt. Die Parallelität unterstützt somit die Annahme einer curriculären Implementierung.
 
 Abbildung 14: Verteilung der Aufgaben pro Themenbereich (eig. Darstellung)
 
+Priorität: MUST — Kern-Evidenz im „Studien“-Abschnitt 3.3.4 (Curriculum-Alignment).
 #todo (#53): Abbildung einfügen
 
 Die Boxplot-Darstellung  zeigt die Anzahl der Aufgaben in den 32 Kursen, gruppiert nach den Bezugskategorien (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44–45) medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung. Erkennbar ist, dass die rettungsdienstlichen Kurse mit einem Median von über 30 Aufgaben eine deutlich höhere Aufgabenlast aufweisen als die anderen Bereiche. Die bezugswissenschaftlichen Module liegen im unteren Bereich, während medizinische Kurse ein mittleres Aufgabenvolumen abbilden. Die geringe Streuung innerhalb der Themenbereiche und die ausgeprägte Differenzierung zwischen ihnen weisen auf eine strukturierte und differenzierte didaktische Konzeption hin.
 
 Abbildung 15: Verteilung der Kursdauer pro Themenbereich (eig. Darstellung)
 
+Priorität: MUST — Kern-Evidenz im „Studien“-Abschnitt 3.3.4 (Curriculum-Alignment).
 #todo (#54): Abbildung einfügen
 
 Die Boxplot-Darstellung  visualisiert die Dauer der 32 Kurse in Tagen, differenziert nach den vier Bezugskategorien (Referentenentwurf des Bundesministeriums für Gesundheit: Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter, 2012, S. 44–45). Auffällig ist der signifikant höhere Medianwert der rettungsdienstlichen Kurse (Ø 57 Tage), was den inhaltlich-praktischen Anforderungen dieses Bereichs entspricht. Medizinische und bezugswissenschaftliche Kurse weisen deutlich kürzere und zugleich eng beieinanderliegende Dauerverteilungen auf. Die Einführung und Prüfung bilden als Sonderkategorie zwei randständige Ausreißer mit jeweils kurzer Laufzeit. Insgesamt belegt die Verteilung eine hohe curriculare Abstimmung hinsichtlich zeitlicher Allokation und thematischer Komplexität.
