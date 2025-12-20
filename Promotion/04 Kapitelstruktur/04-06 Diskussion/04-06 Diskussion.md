@@ -84,7 +84,7 @@ Vorschlag für die nächsten Schritte:
 - Dimensionen des Wirkgefüges aus dem Exposé extrahieren (z. B. Orientierung, Rückkopplung, Transparenz, Steuerung, Agency/Macht, Strukturierung, Entlastung, Reflexivität, Kognition/Handlungskopplung).
 - Für jede Dimension formulieren: a) positive Wirkgefügswahrscheinlichkeit, b) negative Wirkgefügswahrscheinlichkeit, c) Interdependenzformel, die beide verbindet. Beispiel: Transparenz (+) ermöglicht Orientierung; Übertransparenz (–) erzeugt Überwachung; Orientierung existiert nur, weil Sichtbarkeit hergestellt wird, und Sichtbarkeit erzeugt Selektionspotenzial.
 - Diese Interdependenzstrukturen bilden das Feld des digitalen Bildungsraums; entscheidend ist ihr Zusammenhang.
-#todo (#13) Kurzformat mit 10–12 Interdependenz-Thesen entlang der Wirkdimensionen (Positiv/Negativ/Kopplung) ausarbeiten und in Kap. 7 integrieren.
+Weiterführung (Kap. 7): siehe Issue #9 (Interdependenz-Thesen ausformulieren).
 #todo (#13) Wirkdimensionen (10–12) aus dem Gesamtdokument extrahieren, pro Dimension eine Interdependenzformel (Positiv/Negativ/Kopplung) entwickeln und das Grundgerüst für Kap. 7 (Manifest) daraus bauen.
 
 6. **Mögliche Titel für Kapitel 7**  
