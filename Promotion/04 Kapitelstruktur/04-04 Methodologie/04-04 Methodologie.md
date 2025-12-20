@@ -469,7 +469,7 @@ Systemtheoretisch folgt die Dreiteilung der Idee von Beobachtungen erster, zweit
 
 ### 4.3.2 Primäranalysen: Analyse 1. Ordnung {#sec:Primaranalysen}
 
-Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (z.B. `FU5 Primäranalysen (125).md`; siehe Anhang A.2, Prompt zur Analyse einer Quelle, {#sec:A-2}). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
+Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissenschaftliche Quelle wird mit einem dedizierten Prompt ausgewertet, der aus der jeweiligen Forschungsunterfrage abgeleitet ist (Anhang A.2, Prompt zur Analyse einer Quelle, {#sec:A-2}). Die Prompts stellen sicher, dass alle Analysen identische Bausteine enthalten (Kontext, Argument, Limitationen, Implikationen).
 
 1. **Quellenimport und Tagging:** Aus Zotero exportierte Einträge werden über ihre Tags den FUs zugeordnet.
 2. **Promptbasierte Auswertung:** Ein KI-gestütztes Textanalysewerkzeug erzeugt strukturierte Markdown-Analysen, die deduktiv definierte Kategorien ausfüllen und mit Originalzitaten aus der Quelle verknüpfen.
@@ -496,11 +496,14 @@ Die zweite Ordnung synthetisiert alle Primäranalysen einer Forschungsunterfrage
 Damit liefert die zweite Ordnung den semantischen Rahmen, in dem die probabilistische Verdichtung der dritten Ordnung operiert: Sie stellt die deduktiven Referenzen bereit, mit denen die P‑QIA‑Cluster (Benennung, Abgrenzung, Theoriebezug) interpretiert und mit weiteren Befundlinien (z.B. SWOT/Korrelationen) zusammengeführt werden. Operativ ist die zweite Ordnung jedoch **kein zwingender technischer Input** der P‑QIA, sondern ein nachgelagerter Bezugsrahmen zur inhaltlichen Einordnung der probabilistisch erzeugten Kategorien.
 
 ### 4.3.4 Probabilistisch-Qualitative Inhaltsanalyse (P-QIA): Analyse 3. Ordnung {#sec:P-QIA}
+
 \label{term:p-qia}
 
 Die P-QIA ergänzt die klassischen Methoden um eine reproduzierbare, embedding-basierte Strukturierung. Sie versteht sich als semantische Analyse im Sinne einer regelgeleiteten Erschließung, Verdichtung und relationalen Zuordnung bedeutungstragender Einheiten.
 
 Operativ arbeitet die P‑QIA auf dem FU‑spezifischen Korpus aus Analysen 1. Ordnung (Zotero-`annote`, gebündelt in Arbeitsdateien je FU) und erzeugt daraus probabilistisch validierte Kategorien. Die Einbettung in die Gesamtargumentation erfolgt anschließend über die Sekundäranalysen (2. Ordnung) als deduktiven Bezugsrahmen sowie über die Triangulation mit empirischen Befunden.
+
+In ihrer Grundlogik knüpft die P‑QIA an die qualitative Inhaltsanalyse nach @baur_qualitative_2022 an, indem Kategorien das zentrale Instrumentarium darstellen. Dieses macht große Textmengen bearbeitbar, ohne die interpretative Dimension zu verlassen. Zugleich wird der Prozess über Regeln so gefasst, dass er intersubjektiv überprüfbar bleibt. Der Übergang zwischen theoriegeleiteter Deduktion und materialnaher Induktion bleibt dabei dauerhaft anschlussfähig, ebenso die Möglichkeit, kategoriale Verdichtungen in einem zweiten Schritt auch über Häufigkeiten und Relationen auszuwerten. Die P‑QIA übersetzt diese Kategoriengeleitetheit in eine embedding-basierte Strukturierungslogik, führt die interpretative Kontrolle jedoch konsequent über Kodiermanuale, Ankerbeispiele und FU‑Rückbindungen zurück in den theoriegeleiteten Bezugsrahmen. Dabei wird die embedding-basierte Strukturierungslogik als probabilistische Verdichtungsstufe geführt. Embeddings erzeugen nach @dominici_causal_2024 einen leistungsfähigen latenten Ordnungsraum, können gleichzeitg eine Beschattung der modellinternen Struktur erzeugen. Diese Opazität kann ohne explizite Prüf- und Dokumentationslogiken nicht verlässlich verifiziert werden. [@baur_qualitative_2022, Seite 691-693; @dominici_causal_2024, Seite 1-2]
 
 **Konzept und Abgrenzung**
 
@@ -518,12 +521,12 @@ Die eingesetzten KI-basierten Textmodelle wirken als strukturierende Werkzeuge; 
 Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Schritte mit probabilistischen Erweiterungen:
 
 1. **Forschungsunterfrage und Materialfestlegung (Mayring)** – Definition der FU und Auswahl des Materials (Primäranalysen, Notizen, Quellen).
-2. **Festlegung der Analyseeinheiten (Mayring)** – Definition von Sinnabschnitten und Kontextebenen.
+2. **Festlegung der Analyseeinheiten (Mayring)** – Definition von Kodiereinheit/Kontexteinheit/Auswertungseinheit, Pilotphase und Regelkonstanz im finalen Durchgang [@baur_qualitative_2022, Seite 694].
 3. **Segmentierung (P-QIA)** – Automatische Zerlegung der Texte in 1–3 Sätze (bei FU$_7$ 1–2 Sätze) inklusive Dokumentation der Regeln.
 4. **Embedding und probabilistische Strukturierung (P-QIA)** – vektorbasiert berechnete Textrepräsentationen und k-means-Clustering mit FU-spezifischem *k*.
 5. **Qualitätssicherung der Cluster (P-QIA)** – Berechnung des Silhouette-Koeffizienten und Bereinigung instabiler Cluster.
-6. **Ableitung und Revision der Kategorien (Mayring + P-QIA)** – KI-gestützte Label, theoretische Validierung, Kodiermanual.
-7. **Kodierung des Materials (Mayring)** – Anwendung des Manuals, Dokumentation von Grenzfällen.
+6. **Ableitung und Revision der Kategorien (Mayring + P-QIA)** – KI-gestützte Label, theoretische Validierung, Kodierleitfaden (Definitionen, Ankerbeispiele, Kodierregeln), Kodiermanual [@baur_qualitative_2022, Seite 696].
+7. **Kodierung des Materials (Mayring)** – Anwendung des Manuals, Dokumentation von Grenzfällen und Abgrenzungsentscheidungen.
 8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P-QIA)** – Rückbindung an die FU und Dokumentation der Kennwerte.
 
 ```{=latex}
@@ -533,6 +536,8 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 **Validierung und empirische Kennwerte**
 
 Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
+
+Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekriterien (Intra-/Intercoder-Übereinstimmung) – die Stabilität zentraler Zuordnungen über wiederholte Läufe, Stichproben-Gegenlesungen und dokumentierte Grenzfallentscheidungen geprüft; Ziel ist nicht Scheingenauigkeit, sondern nachvollziehbare Regelbindung bei verbleibendem Interpretationsspielraum [@baur_qualitative_2022, Seite 695].
 
 |FU|k|Silhouette|Interpretation nach @rousseeuw_silhouettes_1987|
 |---|---|---|---|
