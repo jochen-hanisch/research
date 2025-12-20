@@ -9,16 +9,17 @@ set -euo pipefail
 cd "$(dirname "$0")"  # geht in das Verzeichnis des Skripts
 
 # Build-Modus bestimmen (full | fast)
-MODE="fast"
-case "${1:-fast}" in
-  fast|"")
+MODE="full"
+DEFAULT_MODE="$MODE"
+case "${1:-$DEFAULT_MODE}" in
+  fast)
     MODE="fast"
     ;;
   full)
     MODE="full"
     ;;
   *)
-    echo "Usage: $(basename "$0") [fast|full]" >&2
+    echo "Usage: $(basename "$0") [fast|full]  (default: $DEFAULT_MODE)" >&2
     exit 2
     ;;
 esac
