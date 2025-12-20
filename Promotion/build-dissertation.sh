@@ -10,9 +10,18 @@ cd "$(dirname "$0")"  # geht in das Verzeichnis des Skripts
 
 # Build-Modus bestimmen (full | fast)
 MODE="fast"
-if [[ "${1:-}" == "fast" ]]; then
-  MODE="fast"
-fi
+case "${1:-fast}" in
+  fast|"")
+    MODE="fast"
+    ;;
+  full)
+    MODE="full"
+    ;;
+  *)
+    echo "Usage: $(basename "$0") [fast|full]" >&2
+    exit 2
+    ;;
+esac
 
 echo "Build-Modus: $MODE"
 
