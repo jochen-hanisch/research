@@ -6,7 +6,7 @@
 
 #todo (#28) Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
 
-#todo (#29) 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes.
+#todo (#29) 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes. Reihenfolge nach den Kategorien Kerngedanke - Argumentation - Schlussfolgerung - Weiterführung.
 
 #todo (#30) 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
 
