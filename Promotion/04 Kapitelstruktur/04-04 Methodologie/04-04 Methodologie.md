@@ -27,7 +27,6 @@ Der hier entwickelte Ansatz verzichtet bewusst auf die Einordnung in Mixed‑Met
 
 Das Forschungsvorhaben verlangt aufgrund seiner zirkulären Komplexität einen mehrdimensionalen Ansatz, der die Ebenen systematisch koppelt. Wie Rosenthal und Witte ausführen, stützt sich die Methodik auf die Anerkennung unterschiedlicher Zugänge zur Erforschung sozialer Phänomene und auf die grundlagentheoretische Differenzierung zwischen quantitativen und qualitativen bzw. interpretativen Ansätzen [@mays_quanti_2020, Seite 198-199]. Die Arbeit positioniert sich als abstrakt-theoretische Grundlagenforschung und will methodische Vielfalt anerkennen sowie systematisch integrieren.
 
-
 Das forschungsparadigmatische Spannungsfeld wird aufgelöst, indem die Methoden konsequent aus den Forschungsfragen abgeleitet werden. Dadurch entsteht eine zielgerichtete Auswahl, die Komplexität reduziert, der Mehrdimensionalität gerecht wird und die Stärken etablierter Methoden bündelt.
 
 Die dargestellten Vorüberlegungen verdeutlichen, dass die Methodologie nicht durch bestehende Designs vorstrukturiert ist, sondern ihre Logik unmittelbar aus den Forschungsunterfragen ableitet. Darauf aufbauend entwickelt Abschnitt 4.1.2 die systemische Ausgestaltung dieses Ansatzes und präzisiert die operative Verbindung zwischen Paradigma, Forschungslogik und Methodenwahl.
@@ -423,7 +422,9 @@ Auswertungsvorgehen (FU‑geführt)
 - Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
 - KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo (#60)), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
-### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung [@hanisch-johannsen_wirkgefuge_2025] {#sec:Umfrage-LMS}
+### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung 
+
+[@hanisch-johannsen_wirkgefuge_2025] {#sec:Umfrage-LMS}
 
 Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten [@hanisch-johannsen_wirkgefuge_2025-1] durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen [@hanisch-johannsen_wirkgefuge_2025]. Sie stützt primär FU$_1$ (Akzeptanz und Nützlichkeit) sowie FU$_{2a}$/FU$_{2b}$.
 
