@@ -38,26 +38,17 @@ FILES=(
   "04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md"
   literaturverzeichnis.md
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md"
-  # Reihenfolge der Anhänge: Nach Erstnennung innerhalb der Dissertation
-  "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md"
+  # Reihenfolge der Anhänge: Nach Erstnennung innerhalb der Dissertation (links: Anhang-Nummer)
+  "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md" # A-1
+  "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md" # A-2
+  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md" # A-3
+  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md" # A-9
+  "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" # A-5
+  "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" # A-6
+  "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" # A-11
+  "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
+  "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md" # A-8
 )
-
-# P-QIA-Ergebnisse (Anhang A-9)
-FILES+=("04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md")
-
-# Weitere Anhänge (A-5 / A-6)
-FILES+=(
-  "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md"
-  "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md"
-)
-
-# Fortschrittsübersichten (Anhang A-11)
-FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md")
-
-# Prompt zur Eye-Tracking-Auswertung (Anhang A-8)
-FILES+=("04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md")
 
 # Eye-Tracking-Datei abhängig vom Modus einbinden (Anhang A-7)
 if [[ "$MODE" == "full" ]]; then
@@ -73,14 +64,11 @@ else
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas_stub.md")
 fi
 
-# Umfrage-Prompt/Vorlage (Anhang A-10)
-FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Prompt.md")
-
-# Umfrage-Ergebnisse (Anhang A-12)
-FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Ergebnisse.md")
-
-# Zusatzvisualisierungen zur Literaturbasis (Anhang A-13)
-FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md")
+# Umfrage-Prompt/Vorlage und Ergebnisse (Anhänge A-10 / A-12)
+FILES+=(
+  "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Prompt.md" # A-10
+  "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Ergebnisse.md" # A-12
+)
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
 spinner() {
