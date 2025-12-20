@@ -41,21 +41,31 @@ Die pädagogisch-psychologischen Grundlagen erklären, warum Bedürfnisse, Emoti
 
 ### 2.1.1 Bedürfnisse als Grundlage {#sec:Beduerfnisse}
 
+\label{term:Beduerfnisse}
+
 Bedürfnisse fungieren als Antriebssysteme des Lernens. Der Abschnitt erläutert Bindung, Selbstwirksamkeit, Kontrolle, Selbstwert und Unlustvermeidung als Bausteine, die sich in LMS-Designprinzipien übersetzen lassen.
 
 ### 2.1.2 Emotionen als Vermittler {#sec:Emotionen}
+
+\label{term:Emotionen}
 
 Emotionen regulieren Aufmerksamkeit, Motivation und Stress. Hier wird herausgearbeitet, wie Emotionen die Wirkung von Lernarchitekturen verstärken oder abschwächen und weshalb sie in der Modellierung berücksichtigt werden.
 
 ### 2.1.3 Neugier als Konzept {#sec:Neugier}
 
+\label{term:Neugier}
+
 Neugier fungiert als Katalysator, um Lernende in komplexen digitalen Umgebungen zu halten. Der Abschnitt skizziert, wie Neugier-induzierende Elemente (z.B. explorative Pfade, adaptive Hinweise) systemisch verankert werden.
 
 ### 2.1.4 Persönliche Ereignisse und Lernerfahrungen {#sec:PersoenlicheEreignisse}
 
+\label{term:PersoenlicheEreignisse}
+
 Biografische Erfahrungen, Rollenwechsel oder kritische Lebensereignisse beeinflussen die Wahrnehmung digitaler Lernräume. Hier wird beschrieben, wie das LMS diese Kontexte aufgreift und Lernprozesse stabilisiert.
 
 ### 2.1.5 Dispositionale Merkmale {#sec:Dispositionen}
+
+\label{term:Dispositionen}
 
 Dispositionen wie Vorerfahrung, Selbstkonzept oder digitale Kompetenz werden als Variablen eingeführt, die das Wirkgefüge modulieren und in der Simulation als Parameter dienen.
 
@@ -69,25 +79,35 @@ Text
 
 Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert? Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
 
-### 2.2.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}\label{term:systemisch-konstruktivistische-theorie}
-\label{sec:Systemisch-konstruktivistische-Theorie}
+### 2.2.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}
+
+\label{term:systemisch-konstruktivistische-theorie}
 
 Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
 
 ### 2.2.3 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
 
+\label{term:bildungstechnologie-digitalitaet}
+
 Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen.
 
 ### 2.2.4 Kompetenzentwicklung im digitalen Bildungsraum {#sec:Kompetenzentwicklung-digital}
+
+\label{term:kompetenzentwicklung-digital}
+
 Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander?
 
-## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand
+## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand {#sec:MedienpaedagogischeRahmung}
 
+
+\label{term:medienpaedagogische-rahmung}
 #todo (#36) Abschnitt ausformulieren: medienpädagogische Rahmung (z.B. Medienbildung/Medienkompetenz, Gestaltung digitaler Lernräume) als Brücke von Theorie (Kap. 2) zu Forschungsgegenstand (Kap. 3); explizit machen, welche theoretischen Bausteine später in Methodik/Analysen wieder aufgegriffen werden.
 
 Text
 
-## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}\label{term:technologiedefizit}\label{sec:Technologiedefizit}
+## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}
+
+\label{term:technologiedefizit}
 
 Der Exkurs reflektiert, warum pädagogische Innovationen häufig hinter technologischen Möglichkeiten zurückbleiben. Er diskutiert das Technologiedefizit als strukturelles Problem und verknüpft es mit den Anforderungen an die Gestaltung digitaler Bildungsräume.
 
@@ -97,9 +117,13 @@ In diesem Kapitel wird das eigens entwickelte Modell vorgestellt. Es verbindet q
 
 ### 2.5.1 Das Modell als dynamisches System {#sec:DynamischesSystem}
 
+\label{term:dynamischessystem}
+
 Vorstellung der Variablen, Kopplungen und Rückkopplungen des Modells. Hier wird erläutert, wie deduktive Annahmen und empirische Beobachtungen zusammengeführt werden.
 
 ### 2.5.2 Regeneration, Störung und Wirkungskurven in LMS {#sec:Regeneration-Stoerung}
+
+\label{term:regeneration-stoerung}
 
 Der Abschnitt beschreibt, wie Lernprozesse auf Störungen reagieren (z.B. Prüfungsdruck, technische Ausfälle) und wie das LMS Regenerationspfade bereitstellt. Wirkungskurven visualisieren, wann Interventionen stabilisierend oder destabilisierend wirken.
 
@@ -110,5 +134,7 @@ Der Abschnitt beschreibt, wie Lernprozesse auf Störungen reagieren (z.B. Prüfu
 Was passiert, wenn einzelne Subsysteme (z.B. Kompetenzmessung vs. Lernaktivität) entkoppelt werden? Hier wird analysiert, wie Fehlanpassungen entstehen und welche Risiken sich daraus ergeben.
 
 ### 2.5.4 Gestaltungsprinzipien zur Kopplung im digitalen Setting {#sec:Gestaltungsprinzipien-Kopplung}
+
+\label{term:gestaltungsprinzipien-kopplung}
 
 Aus den vorangegangenen Modellüberlegungen werden Prinzipien abgeleitet, die die Kopplung von Bedürfnissen, Architektur und Kompetenzzielen sicherstellen (z.B. Transparenz, Feedback, adaptive Pfade).
