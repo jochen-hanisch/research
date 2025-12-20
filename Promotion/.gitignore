@@ -32,9 +32,13 @@
 # Keep metadata base folder (needed for whitelisting below)
 !08 Metaquellen/
 
-# 08-01 Abbildungen: internes Abbildungsmanagement (nicht im Repo tracken)
-08 Metaquellen/08-01 Abbildungen/
+# 08-01 Abbildungen: internes Abbildungsmanagement (standardmäßig ignoriert)
+!08 Metaquellen/08-01 Abbildungen/
 08 Metaquellen/08-01 Abbildungen/**
+!08 Metaquellen/08-01 Abbildungen/prozesse/
+!08 Metaquellen/08-01 Abbildungen/prozesse/**
+!08 Metaquellen/08-01 Abbildungen/statistik/
+!08 Metaquellen/08-01 Abbildungen/statistik/**
 
 # Keep Zenodo dataset staging (copies for upload)
 # Hinweis: Damit Git `Datenset/**` verfolgen kann, muss der Ordner `08-04 Daten/` selbst

@@ -1,0 +1,27 @@
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}[
+        font=\small,
+        block/.style={rectangle, draw=black!35, fill=black!2, rounded corners=6pt, align=center, text width=4.6cm, inner sep=7pt},
+        opt/.style={rectangle, draw=black!35, fill=black!1, rounded corners=6pt, dashed, align=center, text width=4.6cm, inner sep=7pt},
+        >=latex
+    ]
+        \node[block] (s1) at (90:4.0cm) {\textbf{Befund}\\Kapitel 5\\{\footnotesize (5.3)}\\\emph{\footnotesize Welche Muster?}};
+        \node[block] (s2) at (30:4.0cm) {\textbf{Kontext}\\Kapitel 3\\{\footnotesize (3.2)}\\\emph{\footnotesize Welches System?}};
+        \node[block] (s3) at (-30:4.0cm) {\textbf{Linse}\\Kapitel 2\\{\footnotesize (2.5.2)}\\\emph{\footnotesize Welche Dynamik?}};
+        \node[block] (s4) at (-90:4.0cm) {\textbf{Prüfung}\\Kapitel 4\\{\footnotesize (4.3)}\\\emph{\footnotesize Wie belegt?}};
+        \node[block] (s5) at (-150:4.0cm) {\textbf{Verdichtung}\\Kapitel 6\\{\footnotesize (6.3.1)}\\\emph{\footnotesize Was folgt?}};
+        \node[block] (s6) at (150:4.0cm) {\textbf{Abschluss}\\Kapitel 7\\{\footnotesize (7.1)}\\\emph{\footnotesize Was bleibt?}};
+
+        \node[opt] (k1) at (0,0) {\textbf{Kapitel 1 (Kompass)}\\{\footnotesize Absicht, Begriffe, Forschungsfragen}\\\emph{\footnotesize bei Bedarf}};
+
+        \draw[draw=black!20, line width=0.7pt] (0,0) circle (2.9cm);
+        \draw[->, draw=black!20, line width=0.7pt] (95:2.9cm) arc (95:35:2.9cm);
+
+        \draw[->, dashed, draw=black!35] (k1) to[bend left=12] (s1);
+    \end{tikzpicture}
+    \captionsetup{justification=justified,singlelinecheck=false}
+    \caption{Explorativer Lesepfad als systemische Schleife.}
+    \caption*{\footnotesize Dargestellt ist eine kreisförmige Anordnung der Stationen Befund (Kapitel 5), Kontext (Kapitel 3), Linse (Kapitel 2), Prüfung (Kapitel 4), Verdichtung (Kapitel 6) und Abschluss (Kapitel 7) mit einem ringförmigen Richtungsmarker. In der Mitte ist Kapitel 1 als gestrichelter Kompass-Knoten (Absicht, Begriffe, Forschungsfragen) eingezeichnet und mit einer Orientierungskante zur Befund-Station verbunden.}
+    \label{fig:lesepfad-entdeckend}
+\end{figure}
