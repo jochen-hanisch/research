@@ -20,8 +20,6 @@ Empfehlung: **ein** GitHub Project für die ganze Dissertation, mit Feldern wie 
 3. Issue-Titel/Body aus dem Todo ableiten, Issue erstellen.
 4. Im Markdown den Bezug festhalten, z. B. `#todo: Erkenntnisinteresse skizzieren (#123)`.
 
-Optional (wenn du am Todo “sauber” arbeiten willst): Branch + PR erstellen und in der PR-Beschreibung `Closes #123` setzen.
-
 ## Zeitplan (Roadmap bis 20.03.2026)
 
 ```mermaid
