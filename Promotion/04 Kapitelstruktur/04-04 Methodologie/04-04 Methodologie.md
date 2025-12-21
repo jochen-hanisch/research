@@ -120,7 +120,7 @@ Ab 2019 setzt ein exponentieller Wachstumstrend ein, der als Indikator einer mas
 
 Der Rückgang im Jahr 2024 kann trotz weiterhin hoher Publikationszahlen als Reorganisationsphase des Diskurses verstanden werden. Themenräume wie Learning Analytics, generative KI oder datenbasierte Didaktik verschieben bestehende epistemische Zentren. Die im Jahr 2025 sichtbare Stabilisierung deutet auf eine Normalisierung nach der Phase beschleunigten Wachstums hin; die bis November erfassten Werte bilden erwartungsgemäß nur einen Teil des Jahres ab.
 
-Methodologisch zeigt die Zeitreihe, weshalb eine Kombination aus volumetrischer Betrachtung, Kohärenzanalysen (Silhouette), Sensitivitätsmaßen ($\Delta SC_n$) und deduktiver Strukturierung notwendig ist. Die reine Publikationszahl erlaubt keine Aussage über die semantische Struktur des Feldes. Erst im Zusammenspiel mit der Clusterkohärenz wird erkennbar, welche Jahre ein belastbares epistemisches Fundament darstellen (2018–2022) und welche Jahre aufgrund struktureller Transformation mit besonderer Sensitivität zu interpretieren sind (2023–2024). Diese Differenzierung ist für die retrospektive Gewichtung der Jahrgänge zentral und legitimiert den Einsatz der P-QIA, der mdaCV sowie der epistemischen Verlustfunktion als integrative Validierungsinstanzen des ausgewerteten Literaturraums.
+Methodologisch zeigt die Zeitreihe, weshalb eine Kombination aus volumetrischer Betrachtung, Kohärenzanalysen (Silhouette\label{term:silhouette-score}), Sensitivitätsmaßen ($\Delta SC_n$) und deduktiver Strukturierung notwendig ist. Die reine Publikationszahl erlaubt keine Aussage über die semantische Struktur des Feldes. Erst im Zusammenspiel mit der Clusterkohärenz wird erkennbar, welche Jahre ein belastbares epistemisches Fundament darstellen (2018–2022) und welche Jahre aufgrund struktureller Transformation mit besonderer Sensitivität zu interpretieren sind (2023–2024). Diese Differenzierung ist für die retrospektive Gewichtung der Jahrgänge zentral und legitimiert den Einsatz der P-QIA, der mdaCV sowie der epistemischen Verlustfunktion als integrative Validierungsinstanzen des ausgewerteten Literaturraums.
 
 Bemerkenswert ist, dass die Auswahl frei von subjektivem Eingreifen, thematischen Vorannahmen oder bewussten Schwerpunktsetzungen erfolgte und ausschließlich auf algorithmisch rekonstruierten Dichtefeldern innerhalb deduktiv-numerischer Vektorräume basiert. Die Aussagen aus diesem Literaturfeld können damit als stabil, kohärent und epistemisch tragfähig gelten; sie bilden gewissermaßen den empirischen Kern des aktuellen Diskurses.
 
@@ -508,8 +508,8 @@ In ihrer Grundlogik knüpft die P‑QIA an die qualitative Inhaltsanalyse nach @
 
 - Deduktive Rahmung durch die Forschungsunterfragen (FU$_1$–FU$_7$).
 - Segmentierung aller Texte in Sinnabschnitte (1–3 Sätze; bei FU$_7$ 1–2 Sätze).
-- Transformation der Segmente in hochdimensionale Embeddings.
-- k-means-Clustering und Gütebewertung via Silhouette-Koeffizient.
+- Transformation der Segmente in hochdimensionale Embeddings\label{term:embedding}.
+- k-means\label{term:k-means}-Clustering und Gütebewertung via Silhouette-Koeffizient.
 - KI-gestützte Label-Vorschläge, die durch die Forschende überprüft und theoretisch validiert werden.
 - Ableitung konsistenter Kodiermanuale mitsamt Ankerbeispielen.
 
@@ -595,7 +595,7 @@ Die mdaCV fungiert damit als seismografisches Instrument. Sie verbindet deduktiv
 
 ### 4.3.6 Epistemische Verlustfunktion ($\epsilon$) als Integritätsmaß {#sec:Epistemische-Verlustfunktion}
 
-Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion $\epsilon$ eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
+Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clustern. Um zusätzlich die Datenvollständigkeit zu berücksichtigen, wurde eine epistemische Verlustfunktion\label{term:epistemische-verlustfunktion} $\epsilon$ eingeführt. Sie kombiniert die Clusterdifferenzierungsleistung mit dem Verhältnis aus intendierter und tatsächlich verarbeiteter Quellenzahl und fungiert als Monitoring-Größe für datenintensive Prozesse.
 
 **Formel zur Definition der Verlustfunktion:**
 
@@ -643,7 +643,7 @@ Die drei Achsen bilden die theoretischen Dimensionen ab, die zuvor in Kapitel 4.
 
 Durch diese Kombination entsteht ein semantischer, dreidimensionaler Raum, der die Struktur des Literaturkorpus entlang der zentralen Analyseachsen darstellt und eine geometrische Überprüfung der deduktiven Logik ermöglicht.
 
-Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden somit logisch konsistente Themenräume:
+Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden somit semantisch-logisch konsistente Themenräume:
 
 1. Cluster 1 (hellblau): Schwerpunkt im Schnittfeld digitale Medien, Buchtitel, Lernumgebung. Hoher Bezug zu FU$_3$ (didaktische und technologische Merkmale).
 2. Cluster 2 (dunkelblau): Fokus auf Online-Learning, Learning Analytics, bildwissenschaftlichen Theorien. Dominante Bezugspunkte zu FU$_{4a}$ und FU$_6$.
@@ -656,7 +656,7 @@ Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen tatsächlich d
 
 Methodologische Einordnung
 
-Die Visualisierung erfüllt mehrere Funktionen innerhalb der mdaCV:
+Die Visualisierung erfüllt folgende Funktionen innerhalb der mdaCV:
 
 - Validierung der Deduktionslogik: Die drei Achsen sind nicht rein empirisch berechnet, sondern theoriebasiert definiert. Ihre Trennung im Raum zeigt, wie sich inhaltliche und methodische Ebenen der Literatur konsistent verhalten.
 - Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU$_{4a}$/FU$_6$ vs. technologische Integration $\to$ FU$_3$/FU$_7$).
@@ -901,7 +901,7 @@ Generative KI: Halluzinationen, Referenzrisiken und Integritätsverschiebung
 
 Die zentrale Kritik lautet, dass GenAI plausibel klingende, aber falsche oder fabrizierte Informationen erzeugen kann und damit die Evidenzlogik wissenschaftlicher Argumentation unterläuft – insbesondere dort, wo Referenzen als Belegfunktion missverstanden werden. Zudem wird beschrieben, dass hybride Human‑KI‑Schreibprozesse neue Integritätskonflikte („postplagiarism“) erzeugen und ohne klare Leitplanken eine unklare Zuschreibung von Autor*innenschaft, Verantwortlichkeit und Prüfpflichten entsteht. [@van_niekerk_addressing_2025, Seite 2; Seite 4; @biswas_chatgpt_2023, Seite 1; Seite 7; @parker_negotiating_2024, Seite 2; @storey_ai_2023, Seite 2]
 
-Genau deshalb wird KI im Workflow als kognitives Assistenzsystem geführt; ihre Outputs gelten grundsätzlich als vorläufige Verdichtung. Das Vorgehen bindet jede KI-Ausgabe an eine menschliche Validierungsverantwortung zurück (Kontrolllesen, Korrektur, Abgleich mit eigener Einschätzung) und sichert Reproduzierbarkeit über Audit-Trails: standardisierte Prompts, Versionierung, Parameterprotokolle und dokumentierte Revisionen (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3} und \hyperref[sec:SWOT-KI-Methodik]{4.5.1}). Der in der Literatur geforderte Nachweisweg wird damit über transparente Prozessdokumentation als epistemische Validierungsstrategie erbracht; Detektion KI-generierter Anteile bleibt nachrangig, da sie als begrenzt verlässlich beschrieben wird. [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; Seite 438-440; @storey_ai_2023, Seite 4]
+Genau deshalb wird KI im Workflow als kognitives Assistenzsystem geführt; ihre Outputs gelten grundsätzlich als vorläufige Verdichtung. Das Vorgehen bindet jede KI-Ausgabe an eine menschliche Validierungsverantwortung zurück (Kontrolllesen, Korrektur, Abgleich mit eigener Einschätzung) und sichert Reproduzierbarkeit über Audit-Trails\label{term:audit-trail}: standardisierte Prompts, Versionierung, Parameterprotokolle und dokumentierte Revisionen (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3} und \hyperref[sec:SWOT-KI-Methodik]{4.5.1}). Der in der Literatur geforderte Nachweisweg wird damit über transparente Prozessdokumentation als epistemische Validierungsstrategie erbracht; Detektion KI-generierter Anteile bleibt nachrangig, da sie als begrenzt verlässlich beschrieben wird. [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; Seite 438-440; @storey_ai_2023, Seite 4]
 
 Embeddings/Clustering: Opazität, Scheinobjektivität und Stabilität
 
