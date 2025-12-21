@@ -1,6 +1,12 @@
 \begin{figure}[H]
     \centering
-    \begin{tikzpicture}[node distance=1.5cm and 3.0cm, block/.style={rectangle, draw, rounded corners, align=center, text width=4cm}, >=latex]
+    \begin{tikzpicture}[
+        node distance=1.5cm and 3.0cm,
+        font=\scriptsize,
+        >=Latex,
+        block/.style={rectangle, draw=black!35, fill=black!2, rounded corners=6pt, align=center, text width=4cm, inner sep=6pt},
+        line/.style={->, thick, draw=black!35}
+    ]
         \node[block] (A) {Forschungsunterfrage\\FU1--FU7};
         \node[block, below=of A] (B) {Materialauswahl\\Primäranalysen, Notizen};
         \node[block, below=of B] (C) {Festlegung der\\Analyseeinheiten};
@@ -13,16 +19,16 @@
         \node[block, below=of F] (G) {Silhouette-Berechnung};
         \node[block, below=of G] (H) {Ableitung/Revision\\der Kategorien};
 
-        \draw[->] (A) -- (B);
-        \draw[->] (B) -- (C);
-        \draw[->] (C) -- (I);
-        \draw[->] (I) -- (J);
-        \draw[->] (C) -- (D);
-        \draw[->] (D) -- (E);
-        \draw[->] (E) -- (F);
-        \draw[->] (F) -- (G);
-        \draw[->] (G) -- (H);
-        \draw[->] (H) -- (I);
+        \draw[line] (A) -- (B);
+        \draw[line] (B) -- (C);
+        \draw[line] (C) -- (I);
+        \draw[line] (I) -- (J);
+        \draw[line] (C) -- (D);
+        \draw[line] (D) -- (E);
+        \draw[line] (E) -- (F);
+        \draw[line] (F) -- (G);
+        \draw[line] (G) -- (H);
+        \draw[line] (H) -- (I);
     \end{tikzpicture}
     \captionsetup{justification=justified,singlelinecheck=false}
     \caption{Ablauf der P-QIA-gestützten Inhaltsanalyse.}
