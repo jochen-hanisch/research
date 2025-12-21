@@ -1,0 +1,40 @@
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[
+    node distance=2.2cm,
+    font=\scriptsize,
+    >=Latex,
+    every node/.style={rectangle, draw=black!35, fill=black!2, rounded corners=6pt, align=center, minimum width=3.4cm, minimum height=1.1cm},
+    line/.style={->, thick, draw=black!35}
+  ]
+    \node (bedeutung) at (0,2.2) {Bedeutung\\(FU$_1$)};
+    \node (effekte) at (0,0) {Effekte\\(FU$_{2a}$/FU$_{2b}$)};
+    \node (faktoren) at (0,-2.2) {Effektfaktoren};
+
+    \node (moglichkeiten) at (4.4,2.2) {Möglichkeiten\\(FU$_5$)};
+    \node (mechanismen) at (4.4,0) {Mechanismen\\(FU$_{4a}$/FU$_{4b}$)};
+    \node (konzeption) at (4.4,-2.2) {Konzeption\\(FU$_3$)};
+
+    \node (kompetenzen) at (8.8,2.2) {Kompetenzen\\(FU$_6$)};
+    \node (kausal) at (8.8,0) {Kausalgesetze\\(FU$_7$)};
+    \node (wirkgefuge) at (8.8,-2.2) {Wirkgefüge};
+
+    \draw[line] (bedeutung) -- (effekte);
+    \draw[line] (effekte) -- (faktoren);
+    \draw[line] (moglichkeiten) -- (mechanismen);
+    \draw[line] (mechanismen) -- (konzeption);
+    \draw[line] (kompetenzen) -- (kausal);
+    \draw[line] (kausal) -- (wirkgefuge);
+
+    \draw[line] (bedeutung) -- (moglichkeiten);
+    \draw[line] (effekte) -- (mechanismen);
+    \draw[line] (faktoren) -- (konzeption);
+    \draw[line] (moglichkeiten) -- (kompetenzen);
+    \draw[line] (mechanismen) -- (kausal);
+    \draw[line] (konzeption) -- (wirkgefuge);
+  \end{tikzpicture}
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{Abfolge der Forschungsunterfragen: von Bedeutung und Effekten über Mechanismen und Konzeption hin zu Kompetenzen, Kausalgesetzen und Wirkgefüge.}
+  \caption*{\footnotesize Visualisiert ist die Sequenz der Forschungsunterfragen (FU$_1$–FU$_7$) als gerichteter Pfad mit Rückbezügen: Bedeutung $\rightarrow$ Effekte $\rightarrow$ Effektfaktoren; flankiert von Möglichkeiten/Mechanismen/Konzeption sowie Kompetenz- und Kausalannahmen bis zum Wirkgefüge.}
+  \label{fig:fu-sequenz}
+\end{figure}
