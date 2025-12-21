@@ -1,15 +1,18 @@
-\begin{tikzpicture}[
+\begin{figure}[H]
+  \centering
+  \scalebox{0.85}{%
+  \begin{tikzpicture}[
   scale=1,
   transform shape,
   font=\scriptsize,
   node distance=4mm and 10mm,
   >=Latex,
   every node/.style={align=center},
-  startstop/.style={draw, thick, shape=ellipse, fill=gray!10, inner sep=3pt},
-  process/.style={rectangle, draw, thick, fill=blue!5, rounded corners=1pt, inner sep=3pt},
-  decision/.style={diamond, draw, thick, aspect=2, fill=orange!8, inner sep=1.5pt},
-  smallprocess/.style={rectangle, draw, thick, fill=green!8, rounded corners=1pt, inner sep=2pt, font=\scriptsize},
-  line/.style={->, thick}
+  startstop/.style={draw=black!35, thick, shape=ellipse, fill=black!2, inner sep=3pt},
+  process/.style={rectangle, draw=black!35, thick, fill=blue!5, rounded corners=6pt, inner sep=3pt},
+  decision/.style={diamond, draw=black!35, thick, aspect=2, fill=orange!8, inner sep=1.5pt},
+  smallprocess/.style={rectangle, draw=black!35, thick, fill=green!8, rounded corners=6pt, inner sep=2pt, font=\scriptsize},
+  line/.style={->, thick, draw=black!35}
 ]
 
 % Start
@@ -65,7 +68,7 @@
 \draw[line] (clusterentry) -- (s4.north);
 
 % Rahmen um Suchcluster
-\node[draw, dashed, rounded corners, fit=(s1)(s2)(s3)(s4)(s5)(s6)(s7)(s8)(s9)(s10)(s11)(s12),
+\node[draw=black!35, dashed, rounded corners, fit=(s1)(s2)(s3)(s4)(s5)(s6)(s7)(s8)(s9)(s10)(s11)(s12),
       inner sep=3pt, label=above:{Datenbanksuchen und Suchcluster}] (clusterbox) {};
 
 % Screening-Kette
@@ -113,4 +116,10 @@
 \draw[line] (export) -- (net);
 \draw[line] (net) -- (end);
 
-\end{tikzpicture}
+\end{tikzpicture}%
+  }
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{Ablaufschema der systematischen Literaturrecherche und -analyse.}
+  \caption*{\footnotesize Visualisiert sind die Prozessschritte von Screening, Tagging und KI‑gestützter Inhaltsanalyse bis zur Auswertung; die Abbildung dient als Orientierungsfolie für die nachfolgenden Datenanalyseabschnitte.}
+  \label{fig:lit-workflow}
+\end{figure}
