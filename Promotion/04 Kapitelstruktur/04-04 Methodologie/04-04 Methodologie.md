@@ -105,14 +105,7 @@ Der gesamte Prozess – von Beginn (Google-Alert beziehungsweise zufällige Quel
 
 Die folgende Abbildung (Abb.~\ref{fig:lit-workflow}) fasst diesen Workflow schematisch zusammen und dient als Referenzrahmen für die in Abschnitt 4.3 beschriebenen Auswertungen; für das Verständnis der weiteren Darstellung sind vor allem die Übergänge zwischen Suche, Tagging und Export relevant.
 
-\begin{figure}[ht]
-  \centering
-  \scalebox{0.85}{\input{08 Metaquellen/08-01 Abbildungen/prozesse/lit_workflow.tex}}
-  \captionsetup{justification=justified,singlelinecheck=false}
-  \caption{Ablaufschema der systematischen Literaturrecherche und -analyse.}
-  \caption*{\footnotesize Visualisiert sind die Prozessschritte von Screening, Tagging und KI‑gestützter Inhaltsanalyse bis zur Auswertung; die Abbildung dient als Orientierungsfolie für die nachfolgenden Datenanalyseabschnitte.}
-  \label{fig:lit-workflow}
-\end{figure}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/lit_workflow.tex}
 
 Die folgenden Zeit‑ und Kohärenzvisualisierungen (Abb.~\ref{fig:time-series}, Abb.~\ref{fig:silhouette-scores} und Abb.~\ref{fig:delta-silhouette}) dienen der volumetrischen und strukturellen Einordnung des Literaturkorpus und bilden die Basis für die anschließende Korpusdiagnostik.
 
