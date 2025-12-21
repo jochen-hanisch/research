@@ -222,7 +222,6 @@ Während die genannte Untersuchung wertvolle Erkenntnisse über die Bedeutung vo
 
 #### Datenbasis der Recherche
 
-
 Die Tabellen \ref{tab:dbrecherche_base}–\ref{tab:dbrecherche_zg} dokumentieren ausschließlich die quantitativ erhobenen Trefferzahlen der einzelnen Suchkombinationen in den ausgewählten Datenbanken. Die Darstellung erfolgt ohne interpretative Bewertung; die Tabellen dienen der deskriptiven Abbildung des recherchierten Quellenraums sowie der Nachvollziehbarkeit der Suchstrategie. Eine inhaltliche Analyse oder theoretische Einordnung dieser Ergebnisse erfolgt ausschließlich im folgenden Abschnitt 1.3.3.
 
 Die vorliegende Forschungsarbeit schließt diese Lücke, indem sie das Wirkgefüge eines LMS in der medizinischen Lehre systemisch analysiert. Im Gegensatz zu bestehenden Studien, die digitale Lernräume als Sammlung von Einzelfaktoren betrachten, wird in dieser Untersuchung ein holistisches Modell entwickelt, das beschreibt, was funktioniert, und zeigt, wie die verschiedenen Elemente eines digitalen Bildungsraumes interagieren und sich wechselseitig beeinflussen. Ein entscheidender Unterschied zur bisherigen Forschung ist der systemtheoretische Ansatz, der die Identifikation emergenter Strukturen und autopoietischer Stabilisierungseffekte innerhalb digitaler Lernumgebungen ermöglicht. Während empirische Studien bereits Hinweise auf erfolgreiche kollaborative Lernmodelle liefern, fehlt eine tiefgehende Analyse der zugrunde liegenden Kausalketten, die diese Erfolgsfaktoren miteinander verbinden.
@@ -280,38 +279,7 @@ Aus der FH werden sieben Forschungsunterfragen (FU$_1$–FU$_7$)\label{term:fors
 
 Die Abfolge der Unterforschungsfragen folgt der in Abbildung \ref{fig:fu-sequenz} skizzierten Logik: Von der Bedeutung (FU$_1$) über beobachtete Effekte (FU$_{2a}$/FU$_{2b}$) und deren Effektfaktoren zur Konzeption (FU$_3$), flankiert von Möglichkeiten und Mechanismen (FU$_{4a}$/FU$_{4b}$), bis hin zu Kompetenzen und Kausalgesetzen (FU$_6$/FU$_7$), die schließlich das Wirkgefüge der Hauptfrage adressieren. Damit ist die Sequenz zugleich thematische Landkarte und methodische Prozessführung.
 
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}[every node/.style={rectangle, draw, rounded corners, align=center, minimum width=3.4cm, minimum height=1.1cm}, node distance=2.2cm]
-	  \node (bedeutung) at (0,2.2) {Bedeutung\\(FU$_1$)};
-	  \node (effekte) at (0,0) {Effekte\\(FU$_{2a}$/FU$_{2b}$)};
-	  \node (faktoren) at (0,-2.2) {Effektfaktoren};
-
-  \node (moglichkeiten) at (4.4,2.2) {Möglichkeiten\\(FU$_5$)};
-  \node (mechanismen) at (4.4,0) {Mechanismen\\(FU$_{4a}$/FU$_{4b}$)};
-  \node (konzeption) at (4.4,-2.2) {Konzeption\\(FU$_3$)};
-
-  \node (kompetenzen) at (8.8,2.2) {Kompetenzen\\(FU$_6$)};
-  \node (kausal) at (8.8,0) {Kausalgesetze\\(FU$_7$)};
-  \node (wirkgefuge) at (8.8,-2.2) {Wirkgefüge};
-
-  \draw[->, thick] (bedeutung) -- (effekte);
-  \draw[->, thick] (effekte) -- (faktoren);
-  \draw[->, thick] (moglichkeiten) -- (mechanismen);
-  \draw[->, thick] (mechanismen) -- (konzeption);
-  \draw[->, thick] (kompetenzen) -- (kausal);
-  \draw[->, thick] (kausal) -- (wirkgefuge);
-
-  \draw[->, thick] (bedeutung) -- (moglichkeiten);
-  \draw[->, thick] (effekte) -- (mechanismen);
-  \draw[->, thick] (faktoren) -- (konzeption);
-  \draw[->, thick] (moglichkeiten) -- (kompetenzen);
-  \draw[->, thick] (mechanismen) -- (kausal);
-  \draw[->, thick] (konzeption) -- (wirkgefuge);
-\end{tikzpicture}
-\caption{Abfolge der Forschungsunterfragen: von Bedeutung und Effekten über Mechanismen und Konzeption hin zu Kompetenzen, Kausalgesetzen und Wirkgefüge.}
-\label{fig:fu-sequenz}
-\end{figure}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/fu_sequenz.tex}
 
 Der hier skizzierte Entwicklungspfad folgt einer deduktiv gestützten Progression von Akzeptanz über Effekte und Mechanismen hin zu Kompetenz- und Kausalannahmen. FU$_1$ knüpft an Akzeptanz- und Nutzungsrahmen an [@doring_forschungsmethoden_2023, Kapitel 6.1] und legitimiert die Frage nach Bedeutung und Nützlichkeit im Anwendungsfeld. FU$_{2a}$/FU$_{2b}$ greifen die Wirkung auf Lernende und Lehrende auf, angelehnt an Evaluationslogiken nach Kirkpatrick und TEI [@kirkpatrick_evaluating_1998; @ritzmann_tei_2020], und strukturieren damit die Rekonstruktion von Effektdimensionen und Wirkbedingungen. FU$_3$–FU$_{4b}$ werden durch systematische Inhaltsanalyse und UI-/Eye-Tracking-Ansätze [@hanisch-johannsen_wirkgefuge_2025-1] abgeleitet, die Mechanismen und gestalterische Faktoren sichtbar machen [@mey_qualitative_2010; @mayring_neuere_2008; @lewandowska_realeye_2020; @kaduk_webcam_2023] und die in FU$_{2a}$/FU$_{2b}$ rekonstruierten Effektannahmen in Richtung Gestaltung und Nutzungsvollzug weiter auflösen. FU$_5$ adressiert Möglichkeiten und Grenzen, gestützt durch literaturbasierte SWOT-Analysen [@niederberger_swot-analyse_2015]; in der Folge kann die Einordnung der Bedeutsamkeit im Kontext der bisherigen Ergebnisse überhaupt erst vorgenommen und damit der Rahmen beschrieben werden. Der abschließende Schritt ist die systemtheoretische Einordnung über Kausalitätsbeziehungen, um Ziele zu beschreiben und das Wirkgefüge zu begründen [@glasersfeld_radikaler_2008, Seite 127-129; @reich_systemisch-konstruktivistische_2010, Seite 118-119; @siebert_padagogischer_2003, Seite 74-78; @baraldi_operationbeobachtung_2019, Seite 125].
 
