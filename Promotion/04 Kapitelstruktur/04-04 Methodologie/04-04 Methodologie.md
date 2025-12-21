@@ -10,11 +10,17 @@ Die methodische Kopplung liefert die empirische Basis für die interdependente A
 
 \label{term:systemisch-forschungsfragengeleitet}
 
-Methodenkompetenz in den Human- und Sozialwissenschaften meint die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung werden traditionell drei methodologische Paradigmen unterschieden: (a) quantitative Ansätze im kritischen Realismus, (b) qualitative Ansätze im Sozialkonstruktivismus und (c) pragmatische Integrationsansätze, die beide Logiken situativ verbinden [@doring_forschungsmethoden_2023, Seite 4–5; Seite 32–33]. Für das vorliegende Forschungsvorhaben wird jedoch kein dieser Paradigmen übernommen. Stattdessen wird ein eigenständiger, systemisch‑forschungsfragengeleiteter Ansatz entwickelt, der nicht im Mixed‑Methods‑Paradigma verortet ist, sondern eine eigene Logik entfaltet.
+Methodenkompetenz in den Human- und Sozialwissenschaften meint nach @doring_forschungsmethoden_2023 die Fähigkeit, empirische Studien zu lesen, zu interpretieren und eigenständig durchzuführen, um systematische und nachvollziehbare Erkenntnisse zu gewinnen. In der empirischen Sozialforschung werden traditionell drei methodologische Paradigmen unterschieden [@doring_forschungsmethoden_2023, Seiten 4–5 und 32–33]:
 
-Das quantitative Paradigma folgt einem linear‑strukturierten Forschungsprozess mit vorab formulierten Hypothesen [@doring_forschungsmethoden_2023, Kapitel 2.2], während das qualitative Paradigma einen zirkulären, offen strukturierten Prozess mit explorativen Fragestellungen abbildet [@doring_forschungsmethoden_2023, Kapitel 2.3]. Ausschlaggebend ist weniger die Datenform als die Frage, welches Vorgehen die Forschungsfragen angemessen bearbeitet. Dieses Begründungsgebot strukturiert auch den hier entwickelten systemischen Ansatz.
+a. quantitative Ansätze im kritischen Realismus,
+b. qualitative Ansätze im Sozialkonstruktivismus und
+c. pragmatische Integrationsansätze, die beide Logiken situativ verbinden.
 
-Der Übergang zur methodologischen Konkretisierung erfolgt entlang der Frage, wie das entwickelte Paradigma praktisch umgesetzt wird. Während Abschnitt 4.1 den erkenntnistheoretischen Rahmen beschreibt, entfaltet Abschnitt 4.1.1 die methodischen Vorüberlegungen und zeigt, wie die Forschungsfragen die Auswahl und Kombination der Verfahren steuern. Abschnitt 4.1.2 konkretisiert diese Logik anschließend systemisch und bildet die Grundlage für die in 4.2 beschriebenen Datenerhebungsverfahren.
+Für das vorliegende Forschungsvorhaben wird jedoch keines dieser Paradigmen übernommen. Stattdessen wird ein eigenständiger, systemisch‑forschungsfragengeleiteter Ansatz entwickelt, der nicht im Mixed‑Methods‑Paradigma verortet ist, sondern eine eigene Logik entfaltet.
+
+Weiterhin stellt @doring_forschungsmethoden_2023 dar, das das quantitative Paradigma einem linear‑strukturierten Forschungsprozess mit vorab formulierten Hypothesen folgt, während das qualitative Paradigma einen zirkulären, offen strukturierten Prozess mit explorativen Fragestellungen abbildet. Ausschlaggebend ist weniger die Datenform als die Frage, welches Vorgehen die Forschungsfragen angemessen bearbeitet. Dieses Begründungsgebot strukturiert auch den hier entwickelten systemischen Ansatz. [@doring_forschungsmethoden_2023, Kapitel 2.2 und 2.3]
+
+Der Übergang zur methodologischen Konkretisierung misst sich entlang der Behauptung, inwieweit das entwickelte Paradigma praktisch umgesetzt wird. Während Abschnitt 4.1 den erkenntnistheoretischen Rahmen beschreibt, entfaltet Abschnitt 4.1.1 die methodischen Vorüberlegungen und zeigt, wie die Forschungsfragen die Auswahl und Kombination der Verfahren steuern. Abschnitt 4.1.2 konkretisiert diese Logik anschließend systemisch und bildet die Grundlage für die in 4.2 beschriebenen Datenerhebungsverfahren.
 
 ### 4.1.1 Vorüberlegungen zur Methodologie {#sec:Voruberlegungen-Methodologie}
 
