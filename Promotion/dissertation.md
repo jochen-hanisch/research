@@ -122,6 +122,8 @@ header-includes:
 | Abkürzung       | Bedeutung                                                               |
 | --------------- | ----------------------------------------------------------------------- |
 | AOI             | Area of Interest                                                        |
+| CES             | Collaborative Learning Ecosystem                                         |
+| CoP             | Community of Practice                                                    |
 | ET              | Eye-Tracking                                                            |
 | E-Portfolio     | Digitales Portfolio                                                     |
 | FU              | Forschungsunterfrage (FU1–FU7)                                          |
