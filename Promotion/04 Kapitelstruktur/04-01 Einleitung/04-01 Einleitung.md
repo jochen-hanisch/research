@@ -218,7 +218,9 @@ Die beschriebenen Schritte – Suchnetzwerk, prozentuale Gewichtung, Tag-basiert
 
 Eine der dem Untersuchungsgegenstand am nächsten kommenden Studien stammt von Fonseca et al. [-@fonseca_collaborative_2024]. Diese Untersuchung zeigt, dass digitale Communities of Practice (CoPs) eine zentrale Rolle für den Erfolg kollaborativer Lernökosysteme spielen. Erfolgreiche Collaborative Learning Ecosystems (CESs) zeichnen sich durch klare Kommunikationsstrukturen, dynamische soziale Interaktionen sowie flexible Lerntechnologien aus. Die Studie liefert konkrete Designprinzipien, die zur Entwicklung nachhaltiger digitaler Lernräume genutzt werden können. Auf dieser Grundlage wird ein neues Modell für digitale Lernökosysteme entwickelt, das kollaborative Lernprozesse mit technologischen und sozialen Aspekten verbindet. (@fonseca_collaborative_2024, Seite 130, 134, 137)
 
-Während die genannte Untersuchung wertvolle Erkenntnisse über die Bedeutung von Communities of Practice (CoPs) und Collaborative Learning Ecosystems (CESs) liefert, fehlt in der bisherigen Forschung eine systemische Erklärung der Wirkmechanismen digitaler Bildungsräume. Die bisherigen Studien konzentrieren sich primär auf die empirische Analyse einzelner Erfolgsfaktoren und Designprinzipien, ohne die kausalen Interdependenzen zwischen den beteiligten Elementen umfassend zu modellieren.
+#todo Abkürzungen in Abkürzungsverzeichnis aufnehmen (CoP, CES)
+
+Während die genannte Untersuchung wertvolle Erkenntnisse über die Bedeutung von Communities of Practice und Collaborative Learning Ecosystems liefert, fehlt in der bisherigen Forschung eine systemische Erklärung der Wirkmechanismen digitaler Bildungsräume. Die bisherigen Studien konzentrieren sich primär auf die empirische Analyse einzelner Erfolgsfaktoren und Designprinzipien, ohne die kausalen Interdependenzen zwischen den beteiligten Elementen umfassend zu modellieren.
 
 #### Datenbasis der Recherche
 
