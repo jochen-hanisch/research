@@ -107,6 +107,8 @@ Die folgende Abbildung (Abb.~\ref{fig:lit-workflow}) fasst diesen Workflow schem
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/lit_workflow.tex}
 
+#todo prüfen ob alle Abbildung auch eingebunden sind
+
 Die folgenden Zeit‑ und Kohärenzvisualisierungen (Abb.~\ref{fig:time-series}, Abb.~\ref{fig:silhouette-scores} und Abb.~\ref{fig:delta-silhouette}) dienen der volumetrischen und strukturellen Einordnung des Literaturkorpus und bilden die Basis für die anschließende Korpusdiagnostik.
 
 ![Zeitreihe der Publikationszahlen im Korpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_time_series_02-01_suchergebnisse.png>){#fig:time-series}
