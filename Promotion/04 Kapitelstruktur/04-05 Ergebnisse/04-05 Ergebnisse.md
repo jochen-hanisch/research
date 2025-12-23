@@ -31,7 +31,7 @@ Die Ergebnisse jeder FU sind aus der Kombination der
 
 1. P-QIA-Metaanalysen in Anhang \hyperref[sec:A-9]{A‑9},
 2. den qualitativ-rekonstruierten Eye-Tracking-Befunden in Anhang \hyperref[sec:A-7]{A‑7} und
-c) den deskriptiven Umfragebefunden in Anhang \hyperref[sec:A-12]{A‑12} zusammengesetzt.
+3. den deskriptiven Umfragebefunden in Anhang \hyperref[sec:A-12]{A‑12} zusammengesetzt.
 
 Diese drei Perspektiven werden fußnotiert bei der Darstellung aufgegriffen: A‑9 liefert die thematische Verdichtung und kategorische Cluster, A‑7 zeigt den tatsächlichen Nutzungsvollzug (z. B. Orientierung, Salienz, Expertisegradient) und A‑12 liefert Kontext und Bewertung der subjektiven Erfahrung. Ankerbeispiele aus A‑9 (z. B. das Cluster „Interaktionsqualität & Passung“ in A‑9‑FU3, das Cluster „Rückkopplung/Feedback“ in A‑9‑FU4a oder das Cluster „Kompetenzsystematik“ in A‑9‑FU6) geben den später folgenden Abschnitten eine konkrete Textgrundlage; die Eye-Tracking-Visualisierungen (A‑7‑FU4b) und die Umfragedaten (A‑12, Items Q06–Q14) liefern jeweils konkrete Bezüge, mit denen die Theorie-Praxis-Schlagworte der P‑QIA gesättigt werden.
 
