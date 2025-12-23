@@ -453,7 +453,7 @@ Die Datenanalyse folgt einem dreistufigen, systemisch gedachten Beobachtungsmode
 
 Gemeinsam bilden diese Ordnungen einen iterativen Zyklus. Jede Stufe liefert die Grundlage für die nächste und fließt nach erfolgter Validierung wieder in die Forschungsunterfragen zurück.
 
-Systemtheoretisch folgt die Dreiteilung der Idee von Beobachtungen erster, zweiter und dritter Ordnung: Analysen erster Ordnung beobachten die Quellen direkt und beschreiben, was Akteure über Akzeptanz, Nutzen oder Grenzen des LMS aussagen; Analysen zweiter Ordnung beobachten diese Beobachtungen, identifizieren Muster und Metastrukturen auf FU-Ebene; Analysen dritter Ordnung beobachten schließlich die daraus entstehenden Strukturen im semantischen Raum und prüfen ihre Stabilität und Kohärenz [@luhmann_zwischen_1982; @arnold_rolf_luhmann_2015]. Damit wird das luhmannsche Beobachtungskonzept operativ auf die mehrstufige Literatur- und Datenanalyse übertragen und in eine reproduzierbare Pipeline überführt.
+Systemtheoretisch folgt die Dreiteilung der Idee von Beobachtungen erster, zweiter und dritter Ordnung: Analysen erster Ordnung beobachten die Quellen direkt und beschreiben, was Akteure über Akzeptanz, Nutzen oder Grenzen des LMS aussagen; Analysen zweiter Ordnung beobachten diese Beobachtungen, identifizieren Muster und Metastrukturen auf FU-Ebene; Analysen dritter Ordnung beobachten schließlich die daraus entstehenden Strukturen im semantischen Raum und prüfen ihre Stabilität und Kohärenz [@luhmann_zwischen_1982; @arnold_rolf_luhmann_1995]. Damit wird das luhmannsche Beobachtungskonzept operativ auf die mehrstufige Literatur- und Datenanalyse übertragen und in eine reproduzierbare Pipeline überführt.
 
 **Korpusdiagnostik (Zeitreihe, Kohärenz, Flüsse)**
 
