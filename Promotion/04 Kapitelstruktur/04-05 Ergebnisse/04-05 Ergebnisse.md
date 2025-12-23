@@ -2,9 +2,7 @@
 
 # 5 Ergebnisse {#sec:Ergebnisse}
 
-Dieses Kapitel führt die empirischen und modellbasierten Befunde zusammen. Es schlägt die Brücke von der Methodologie \hyperref[sec:Methodologie]{Kapitel 4} zur Interpretation in \hyperref[sec:Diskussion]{Kapitel 6} und strukturiert die Ergebnisdarstellung entlang der in in diesem Kapüitel dokumentierten Kernbereiche. Die Ergebnisse werden dabei durchgängig auf die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten theoretischen Annahmen und die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} beschriebene Architektur des Forschungsgegenstandes zurückbezogen.
-
-#todo (#64): Einleitung sprachlich glätten (Doppelung „in in“, Tippfehler „Kapüitel“, ggf. Satzbau kürzen).
+Dieses Kapitel fasst die empirischen und modellbasierten Befunde zusammen, verbindet die in \hyperref[sec:Methodologie]{Kapitel 4} dargestellten Verfahren mit der anschließenden Interpretation in \hyperref[sec:Diskussion]{Kapitel 6} und orientiert die Darstellung an den im Kapitel dokumentierten Kernbereichen. Die Ergebnisse werden durchgängig an den in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an der in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} beschriebenen Architektur des Learning Management Systems gespiegelt.
 
 ## 5.1 Überblick und Einordnung {#sec:Ergebnisse-Ueberblick}
 
@@ -16,12 +14,9 @@ Im Kernarchitektur‑Bereich (FU$_3$/FU$_{4a}$/FU$_5$) verdichten sich Merkmale,
 
 ## 5.2 Verteilung der Analysen nach Kernbereichen {#sec:Ergebnisse-Verteilung}
 
-Die detaillierte Verteilung der 797 ausgewerteten Analysen auf die einzelnen Forschungsunterfragen (FU$_1$–FU$_7$) ist in Kapitel 3, Quellenanalyse, dokumentiert. Für die Ergebnisdarstellung werden die Forschungsunterfragen zu vier Kernbereichen gebündelt:
+Die detaillierte Verteilung der insgesamt 786 ausgewerteten Analysen erster Ordnung auf die einzelnen Forschungsunterfragen (FU$_1$–FU$_7$) ist in \hyperref[sec:Primaranalysen]{Abschnitt 4.3.2} dokumentiert (Abbildung \ref{fig:primaranalysen-verteilung}). Für die Ergebnisdarstellung werden die Forschungsunterfragen zu vier Kernbereichen gebündelt:
 
-#todo (#65): Verweis auf Kapitel 3 präzisieren (konkreter Abschnitt/Abbildung zur FU‑Verteilung der 797 Analysen).
-#todo (#66): Prozentwerte (58/30/8/4) und n=797 final gegen Quellenanalyse prüfen.
-
-- **Kernarchitektur (FU$_3$, FU$_{4a}$, FU$_5$)** – mit rund 58 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des Learning Management System (LMS)).  
+- **Kernarchitektur (FU$_3$, FU$_{4a}$, FU$_5$)** – mit rund 57 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des Learning Management System (LMS)).  
 - **Nutzungserleben & Gestaltung (FU$_1$, FU$_{2a}$, FU$_{4b}$)** – knapp 30 % der Analysen zu Akzeptanz, subjektivem Lernerleben und technisch-gestalterischen Mechanismen.  
 - **Kompetenzorientierung (FU$_6$)** – gut 8 % der Analysen zur Rolle des LMS als Kompetenzerwerbssystem.  
 - **Rollen & Strategien (FU$_{2b}$, FU$_7$)** – rund 4 % der Analysen, die vertiefende Einsichten in Lehrendensicht und strategische Gestaltungsentscheidungen liefern.
@@ -32,8 +27,13 @@ Diese Bündelung dient als Strukturierungsrahmen für die Präsentation der Erge
 
 Die Darstellung folgt der in Abschnitt 5.2 beschriebenen Gewichtung der Kernbereiche. Zunächst werden die Forschungsunterfragen zur Kernarchitektur behandelt, anschließend Nutzungserleben & Gestaltung, danach die Kompetenzorientierung und zum Schluss Rollen & Strategien.
 
-#todo (#67): Leseführung 5.3 ergänzen: kurzer Satz, wie A‑9 (P‑QIA) mit A‑7 (Eye‑Tracking) und A‑12 (UM1) je FU zusammenspielt.
-#todo (#68): Je FU‑Abschnitt 1–2 Ankerbeispiele aus A‑9 einbauen (kurz, ohne externe Pfade; nur interne Dissertation‑Verweise).
+Die Ergebnisse jeder FU sind aus der Kombination der
+
+1. P-QIA-Metaanalysen in Anhang \hyperref[sec:A-9]{A‑9},
+2. den qualitativ-rekonstruierten Eye-Tracking-Befunden in Anhang \hyperref[sec:A-7]{A‑7} und
+c) den deskriptiven Umfragebefunden in Anhang \hyperref[sec:A-12]{A‑12} zusammengesetzt.
+
+Diese drei Perspektiven werden fußnotiert bei der Darstellung aufgegriffen: A‑9 liefert die thematische Verdichtung und kategorische Cluster, A‑7 zeigt den tatsächlichen Nutzungsvollzug (z. B. Orientierung, Salienz, Expertisegradient) und A‑12 liefert Kontext und Bewertung der subjektiven Erfahrung. Ankerbeispiele aus A‑9 (z. B. das Cluster „Interaktionsqualität & Passung“ in A‑9‑FU3, das Cluster „Rückkopplung/Feedback“ in A‑9‑FU4a oder das Cluster „Kompetenzsystematik“ in A‑9‑FU6) geben den später folgenden Abschnitten eine konkrete Textgrundlage; die Eye-Tracking-Visualisierungen (A‑7‑FU4b) und die Umfragedaten (A‑12, Items Q06–Q14) liefern jeweils konkrete Bezüge, mit denen die Theorie-Praxis-Schlagworte der P‑QIA gesättigt werden.
 
 ### 5.3.1 FU$_3$: Didaktische und technologische Merkmale {#sec:Ergebnisse-FU3}
 
