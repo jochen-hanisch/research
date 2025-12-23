@@ -110,7 +110,13 @@ Schließlich treten formalisierte Modellstrategien und Stabilisierungskonzepte a
 
 Diese Ergebnisbündelung fungiert als direkte Brücke in die interdependente Diskussion (\hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1}) und liefert die empirische Grundlage für die manifestartige Verdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
-#todo (#69): 5.4 um 2–4 Sätze ergänzen: „Was sind die drei stärksten Ergebnislinien?“ + „Welche offene Prüfung wird in Kapitel 6 vorgenommen?“
+Die drei stärksten Ergebnislinien lassen sich wie folgt fassen:
+
+1. Das LMS wirkt als soziotechnisches Arrangement, dessen Effekte nicht aus Einzelfunktionen, sondern aus der Kopplung von didaktischer Einbettung, technischer Architektur und organisationalen Rahmenbedingungen entstehen (v.a. FU$_3$/FU$_{4a}$/FU$_5$).
+2. Im Nutzungsvollzug zeigt sich eine robuste Orientierungs- und Salienzlogik. Aufmerksamkeit wird zunächst über Navigation/Status organisiert und erst nachgeordnet in Lernhandlungen überführt; UI‑Komplexität und Sichtbarkeit von Handlungsangeboten modulieren diese Überleitung (FU$_{4b}$, gespiegelt in FU$_1$/FU$_{2a}$).
+3. Das LMS wird als Kompetenzerwerbssystem nur dort stabil wirksam, wo Passung (Zielgruppenfit/Infrastruktur), Rückkopplung (Feedback/Analytics) und Qualitätsprozesse (Evaluation/Weiterentwicklung) konsistent zusammenlaufen (FU$_6$).
+
+Kapitel \hyperref[sec:Diskussion]{6} prüft diese Linien kritisch hinsichtlich Generalisierbarkeit, Grenzen der Datenartefakte (insb. exploratives Eye‑Tracking und deskriptive Umfrage), normativer Nebenfolgen (Datenschutz/Steuerung) und der Frage, welche Kopplungen als gestaltbare Hebel gelten können, ohne das Wirkgefüge auf Technologieeffekte zu verkürzen.
 
 ### 5.4.1 Arbeitshypothesen aus der Triangulation {#sec:Ergebnisse-Arbeitshypothesen}
 
