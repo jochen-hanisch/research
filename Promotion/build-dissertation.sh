@@ -47,6 +47,7 @@ FILES=(
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" # A-6
   "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" # A-11
   "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
+  "04 Kapitelstruktur/04-A Anhang/04-A Technologieintegration.md" # A-14
   "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md" # A-8
 )
 
