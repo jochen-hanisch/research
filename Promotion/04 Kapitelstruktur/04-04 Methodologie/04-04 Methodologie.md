@@ -41,7 +41,7 @@ Die dargestellten Vorüberlegungen verdeutlichen, dass die Methodologie nicht du
 
 ### 4.1.2 Systemisch-forschungsfragengeleiteter Ansatz {#sec:Systemisch-Forschungsfragengeleitet}
 
-Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU$_1$ bis FU$_7$ (\hyperref[sec:FU-Herleitung]{Abschnitt 1.4}), abgeleitet aus Erkenntnisinteresse (\hyperref[sec:Erkenntnisinteresse]{Abschnitt 1.1.1}) und LMS-Produkt (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
+Der systemische, forschungsfragengeleitete Ansatz fußt auf den Forschungsfragen FU$_{1}$ bis FU$_{7}$ (\hyperref[sec:FU-Herleitung]{Abschnitt 1.4}), abgeleitet aus Erkenntnisinteresse (\hyperref[sec:Erkenntnisinteresse]{Abschnitt 1.1.1}) und LMS-Produkt (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}). Diese Fragen strukturieren sämtliche Entscheidungen und Analysen. Diese Methodik verschränkt qualitative, quantitative und simulationsbasierte Zugänge über die Logik der Forschungsunterfragen, ohne sie einem übergeordneten Mixed‑Methods‑Schema zu unterstellen. Die Verbindung entsteht ausschließlich über die Forschungsfragen und ihre systemische Logik.
 
 Interdependenz meint die enge Verknüpfung der Forschungsfragen und die Wechselwirkungen zwischen qualitativen und quantitativen Daten, die die Mehrdimensionalität erfassen. Emergenz beschreibt die Entstehung neuer Erkenntnisse [@bertalanffy_general_1968, Seite 16, 103], wenn Ergebnisse aus Literaturanalysen, Simulationen und empirischen Untersuchungen wie Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1] und Befragungen [@hanisch-johannsen_wirkgefuge_2025] verbunden werden. Rückkopplung heißt, dass Analyseergebnisse iterativ in die Methodik zurückfließen und weitere Schritte steuern, sodass der Prozess dynamisch bleibt.
 
@@ -54,23 +54,23 @@ Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:met
 
 | Forschungsunterfrage | Bearbeitungsmethode | Erfüllungskriterien |
 | --- | --- | --- |
-| **FU$_1$: Akzeptanz und Nützlichkeit** | Qualitative Metaanalyse zur Darstellung des aktuellen Forschungsstandes im Kontext digitaler Bildungsräume [@doring_forschungsmethoden_2023, Seite 194]. | Darstellung und Einordnung der Akzeptanz- und Nutzenargumente in das Gesamtgefüge. |
+| **FU$_{1}$: Akzeptanz und Nützlichkeit** | Qualitative Metaanalyse zur Darstellung des aktuellen Forschungsstandes im Kontext digitaler Bildungsräume [@doring_forschungsmethoden_2023, Seite 194]. | Darstellung und Einordnung der Akzeptanz- und Nutzenargumente in das Gesamtgefüge. |
 | **FU$_{2a}$: Effekt auf Lernende** | An Evaluationslogiken (Kirkpatrick, TEI) anschließende Literaturanalyse (Primär-/Sekundäranalyse + P‑QIA) sowie quantitative LMS‑Umfrage (UM1) [@hanisch-johannsen_wirkgefuge_2025] zur Spiegelung zentraler Wirkungsdimensionen [@kirkpatrick_evaluating_1998; @ritzmann_training_2014; @ritzmann_tei_2020]. | Rekonstruktion der Effektdimensionen (z.B. Reaktion/Lernen) und ihrer Bedingungen; triangulative Einordnung über Umfrage- und Nutzungsdaten. |
 | **FU$_{2b}$: Effekt auf Lehrende** | Literaturanalyse (Primär-/Sekundäranalyse + P‑QIA) zur Rekonstruktion von Lehrendenbedingungen (Kompetenzen, Monitoring/Assessment, Belastungen) sowie Kontextspiegelung über LMS‑Umfrage (UM1) [@hanisch-johannsen_wirkgefuge_2025]. | Ableitung plausibler Einflussfaktoren und Arbeitsbedingungen; Zusammenführung zu überprüfbaren Tendenzaussagen. |
-| **FU$_3$: Didaktische und technologische Merkmale** | Theoriearbeit zur systemisch-konstruktivistischen Gestaltung des LMS und zur Beschreibung seiner Architektur [@doring_forschungsmethoden_2023, Kapitel 6.3.1]. | Herleitung, Beschreibung und Absicherung der relevanten Merkmale des LMS. |
+| **FU$_{3}$: Didaktische und technologische Merkmale** | Theoriearbeit zur systemisch-konstruktivistischen Gestaltung des LMS und zur Beschreibung seiner Architektur [@doring_forschungsmethoden_2023, Kapitel 6.3.1]. | Herleitung, Beschreibung und Absicherung der relevanten Merkmale des LMS. |
 | **FU$_{4a}$: Bildungswissenschaftliche Mechanismen** | Qualitative Inhaltsanalyse nach Mayring sowie deren Weiterentwicklungen [@mey_qualitative_2010; @mayring_neuere_2008]. | Herleitung, Beschreibung und Absicherung der bildungswissenschaftlichen Wirkmechanismen. |
 | **FU$_{4b}$: Technisch-gestalterische Mechanismen** | Quantitative Beobachtung (inkl. Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1]) zur Rekonstruktion technisch-gestalterischer Wirkmechanismen [@doring_forschungsmethoden_2023, Kapitel 10.1.3]. | Datenerhebung, Auswertung sowie Rückbindung an die systemische Einordnung der Mechanismen. |
-| **FU$_5$: Möglichkeiten und Grenzen** | Kombination aus Qualitativer Inhaltsanalyse und SWOT-Analyse zur systemischen Bewertung [@mey_qualitative_2010; @niederberger_swot-analyse_2015]. | Strukturierte Darstellung der Potenziale und Limitationen des Trainingsmodells. |
-| **FU$_6$: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_forschungsmethoden_2023, Kapitel 5] sowie simulationsgestützte Modellierung zur dynamischen Plausibilisierung (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell; dynamische Verdichtung zentraler Kopplungen als Reflexionsfolie. |
-| **FU$_7$: Erweiterung von Kausalgesetzen** | Grounded-Theory-basierte „Einfall und Theorieentwicklung“ sowie Analyse des Technologiedefizits [@pentzold_praxis_2018, Einleitung; @luhmann_technologiedefizit_1982]. | Entwicklung und Ableitung eines kausalen Ursachen-Wirkungstheoriemodells. |
+| **FU$_{5}$: Möglichkeiten und Grenzen** | Kombination aus Qualitativer Inhaltsanalyse und SWOT-Analyse zur systemischen Bewertung [@mey_qualitative_2010; @niederberger_swot-analyse_2015]. | Strukturierte Darstellung der Potenziale und Limitationen des Trainingsmodells. |
+| **FU$_{6}$: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_forschungsmethoden_2023, Kapitel 5] sowie simulationsgestützte Modellierung zur dynamischen Plausibilisierung (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell; dynamische Verdichtung zentraler Kopplungen als Reflexionsfolie. |
+| **FU$_{7}$: Erweiterung von Kausalgesetzen** | Grounded-Theory-basierte „Einfall und Theorieentwicklung“ sowie Analyse des Technologiedefizits [@pentzold_praxis_2018, Einleitung; @luhmann_technologiedefizit_1982]. | Entwicklung und Ableitung eines kausalen Ursachen-Wirkungstheoriemodells. |
 
 ```{=latex}
-\tabsubcaption{Übersicht der forschungsfragengeleiteten Methodenkopplung. Dargestellt ist die Zuordnung der Forschungsunterfragen (FU$_1$--FU$_7$) zu Bearbeitungsmethoden und den jeweiligen Erfüllungskriterien; die Tabelle dient als Orientierungsfolie für die Triangulation der Datensorten (Literatur/P-QIA, Eye-Tracking, UM1, Simulation).}
+\tabsubcaption{Übersicht der forschungsfragengeleiteten Methodenkopplung. Dargestellt ist die Zuordnung der Forschungsunterfragen (FU$_{1}$--FU$_{7}$) zu Bearbeitungsmethoden und den jeweiligen Erfüllungskriterien; die Tabelle dient als Orientierungsfolie für die Triangulation der Datensorten (Literatur/P-QIA, Eye-Tracking, UM1, Simulation).}
 ```
 
 Die Tabelle fasst die Forschungsunterfragen zusammen und verknüpft sie mit den jeweils eingesetzten Methoden sowie ihren Erfüllungskriterien. Auf diese Weise wird nachvollziehbar, wie qualitative Literaturarbeit, empirische Erhebungen (Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1], Umfragen [@hanisch-johannsen_wirkgefuge_2025]) und simulationsbasierte Verfahren im Zusammenspiel verwendet wurden, um die unterschiedlichen Facetten des Lernmanagementsystems abzubilden. Die P‑QIA‑Auswertungen (Analysen dritter Ordnung; Abschnitt \hyperref[sec:P-QIA]{4.3.4}) werden FU‑übergreifend auf den Literaturkorpus angewandt; FU‑spezifische empirische Erhebungen dienen der Spiegelung und Triangulation der rekonstruierten Tendenzen.
 
-Methodisch ist dabei zu betonen, dass die LMS‑Umfrage (UM1) [@hanisch-johannsen_wirkgefuge_2025] eine eigenständige, quantitative Perspektive in den Analyseprozess einbringt. Sie erweitert die Evidenzbasis um standardisierte Urteile zu Struktur, Interaktion, Feedback und Adaptivität und ermöglicht damit eine Spiegelung der literaturbasiert rekonstruierten Wirkannahmen (FU$_1$/FU$_{2a}$/FU$_{2b}$) an einer eigenen Datenerhebung im Systemkontext. Die Umfrage ist Teil der triangulativen Kopplung (Literatur/P‑QIA × Eye‑Tracking [@hanisch-johannsen_wirkgefuge_2025-1] × UM1) und macht Tendenzen sowie Spannungsfelder (z.B. wahrgenommene Interaktion vs. beobachtete Orientierungsmuster) sichtbar; zugleich bleibt die Datensorte klar konturiert, da sie auf standardisierten Selbstauskünften beruht.
+Methodisch ist dabei zu betonen, dass die LMS‑Umfrage (UM1) [@hanisch-johannsen_wirkgefuge_2025] eine eigenständige, quantitative Perspektive in den Analyseprozess einbringt. Sie erweitert die Evidenzbasis um standardisierte Urteile zu Struktur, Interaktion, Feedback und Adaptivität und ermöglicht damit eine Spiegelung der literaturbasiert rekonstruierten Wirkannahmen (FU$_{1}$/FU$_{2a}$/FU$_{2b}$) an einer eigenen Datenerhebung im Systemkontext. Die Umfrage ist Teil der triangulativen Kopplung (Literatur/P‑QIA × Eye‑Tracking [@hanisch-johannsen_wirkgefuge_2025-1] × UM1) und macht Tendenzen sowie Spannungsfelder (z.B. wahrgenommene Interaktion vs. beobachtete Orientierungsmuster) sichtbar; zugleich bleibt die Datensorte klar konturiert, da sie auf standardisierten Selbstauskünften beruht.
 
 Methodische Konsequenzen der Forschungsfragen
 
@@ -85,7 +85,7 @@ Methodische Konsequenzen der Forschungsfragen
 
 ### 4.2.1 Systematische Literaturrecherche {#sec:Systematische-Literaturrecherche}
 
-Die systematische Literaturrecherche bildet die Grundlage für die Beantwortung der Forschungsfragen FU$_1$, FU$_3$, FU$_{4a}$ und FU$_6$. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Der Korpus umfasst insgesamt 3 733 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden (Datenstand: 13.12.2025).
+Die systematische Literaturrecherche bildet die Grundlage für die Beantwortung der Forschungsfragen FU$_{1}$, FU$_{3}$, FU$_{4a}$ und FU$_{6}$. Ziel ist hierbei, ein umfassendes Verständnis der bestehenden wissenschaftlichen Diskussionen und Erkenntnisse im Bereich digitaler Bildungsräume zu erlangen. Der Korpus umfasst insgesamt 3 733 wissenschaftliche Arbeiten, die algorithmisch aus verschiedenen Datenbanken extrahiert und thematisch kategorisiert wurden (Datenstand: 13.12.2025).
 
 Die systematische Literaturrecherche folgt einem klar definierten, mehrstufigen Workflow (vgl. Abbildung X). Ausgangspunkt sind zwei kontinuierliche Zuführungen von Quellen: (1) automatisierte Google-Alerts, die einschlägige Veröffentlichungen zu vordefinierten Stichworten melden, und (2) zufällige Quellenfunde, die im Rahmen der laufenden Forschungs- und Praxistätigkeit auftreten. Beide Zuführungen werden zunächst als „Einzelne Quelle“ in das Literaturmanagementsystem überführt und mit den notwendigen Metadaten (Titel, Autor*in, Jahr, Publikationstyp) versehen.
 
@@ -329,7 +329,7 @@ Aktuelle Validierungsstudien belegen, dass moderne webcam‑basierte Eye‑Track
 
 Die Limitationen webcam‑basierter Verfahren – geringere räumliche Präzision, sensitivere Reaktion auf Kopfbewegungen, fehlende Pupillometrie und das Fehlen von Rohdatenexporten – sind für die Beantwortung von FU$_{4b}$ methodisch unproblematisch. Für FU$_{4b}$ steht die Rekonstruktion technisch‑gestalterischer Muster im Vordergrund: Blickanfangszonen, visuelle Orientierung, Pfadtypik, Hot‑ und Coldspots sowie systematisch ignorierte UI‑Zonen. Solche Muster sind gegenüber Samplingratenschwankungen robust. @rodziewicz-cybulska_measuring_2022 zeigen zudem, dass selbst komplexere Fixationsmaße unter geeigneten Bedingungen stabil erfasst werden können, was den Validitätsrahmen für standardisierte Blickbewegungsanalysen stützt.
 
-Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Viewmaps und Fog‑Views wissenschaftlich konsistent und methodisch angemessen [@hanisch-johannsen_wirkgefuge_2025-1]. Die Visualisierungen erlauben eine systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Bereiche. Wie in der einschlägigen UX‑ und Eye‑Tracking‑Forschung üblich, werden die Muster relativ interpretiert: als Verteilung über AOIs, nicht als absolute metrische Werte. Durch die Kopplung mit Umfragebefunden (FU$_1$/FU$_{2a}$/FU$_{2b}$) [@hanisch-johannsen_wirkgefuge_2025] sowie mit den deduktiv entwickelten Kategorien entsteht eine theoriegeleitete, triangulierte Sicht auf die Wirkmechanismen des LMS [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025].
+Damit ist die qualitative, bildbasierte Auswertung der aggregierten Heatmaps, Viewmaps und Fog‑Views wissenschaftlich konsistent und methodisch angemessen [@hanisch-johannsen_wirkgefuge_2025-1]. Die Visualisierungen erlauben eine systematische Identifikation visueller Hotspots, Navigationspfade und unbeachteter Bereiche. Wie in der einschlägigen UX‑ und Eye‑Tracking‑Forschung üblich, werden die Muster relativ interpretiert: als Verteilung über AOIs, nicht als absolute metrische Werte. Durch die Kopplung mit Umfragebefunden (FU$_{1}$/FU$_{2a}$/FU$_{2b}$) [@hanisch-johannsen_wirkgefuge_2025] sowie mit den deduktiv entwickelten Kategorien entsteht eine theoriegeleitete, triangulierte Sicht auf die Wirkmechanismen des LMS [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025].
 
 ##### Ergänzende methodische Absicherung {#sec:EyeTracking-Absicherung}
 
@@ -379,11 +379,11 @@ Table: Stimulusauswahl \label{tab:stimulus-auswahl}
 
 | Stimulus | Inhalt (kurz)            | FU (primär)  | Fokus (kurz)                 |
 | :------: | :----------------------- | :----------: | :--------------------------- |
-|  F2‑S2   | Navigation, Interaktion  |   FU$_{4b}$/FU$_3$   | Salienz Navigation           |
-|  F3‑S3   | Aufgabenbereich          |   FU$_{4b}$/FU$_1$   | Info-Hierarchie/Blickführung |
-|  F10‑S3  | Lernplan, Kompetenzen    | FU$_{4b}$/FU$_6$/FU$_1$ | Verständlichkeit             |
+|  F2‑S2   | Navigation, Interaktion  |   FU$_{4b}$/FU$_{3}$   | Salienz Navigation           |
+|  F3‑S3   | Aufgabenbereich          |   FU$_{4b}$/FU$_{1}$   | Info-Hierarchie/Blickführung |
+|  F10‑S3  | Lernplan, Kompetenzen    | FU$_{4b}$/FU$_{6}$/FU$_{1}$ | Verständlichkeit             |
 |  F11‑S3  | Weiterführende Quellen   |  FU$_{4b}$/FU$_{2a}$   | Auffindbarkeit/Link-Salienz  |
-|  F14‑S3  | Lernmaterial, Sicherheit |   FU$_{4b}$/FU$_6$   | Salienz Sicherheit           |
+|  F14‑S3  | Lernmaterial, Sicherheit |   FU$_{4b}$/FU$_{6}$   | Salienz Sicherheit           |
 
 ```{=latex}
 \tabsubcaption{Auswahl repräsentativer Eye-Tracking-Stimuli für die qualitative AOI-Analyse. Spalten: Stimulus-ID, inhaltlicher Ausschnitt, primär adressierte FU sowie Analysefokus; Auswertung in Abschnitt \hyperref[sec:EyeTracking-Umfrage-Vergleich]{4.3.9}.}
@@ -398,7 +398,7 @@ Auswertungsvorgehen (FU‑geführt)
 3. Viewmap‑Analyse (Pfadtypik, Orientierungswechsel).  
 4. Fog‑View‑Analyse (ignorierte Zonen).  
 5. Ableitung technisch‑gestalterischer Wirkmechanismen (Gestaltgesetze, Salienz, Navigierbarkeit).  
-6. Verknüpfung mit FU$_{4b}$ sowie, je nach Stimulus, FU$_1$/FU$_{2a}$/FU$_3$/FU$_{4a}$/FU$_6$.  
+6. Verknüpfung mit FU$_{4b}$ sowie, je nach Stimulus, FU$_{1}$/FU$_{2a}$/FU$_{3}$/FU$_{4a}$/FU$_{6}$.  
 7. Formulierung einer kurzen, FU‑spezifischen Wirkungsdiagnose je Stimulus.
 
 **Einschränkungen und Bias**
@@ -413,7 +413,7 @@ Auswertungsvorgehen (FU‑geführt)
 
 ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:Umfrage-LMS}
 
-Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten [@hanisch-johannsen_wirkgefuge_2025-1] durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen [@hanisch-johannsen_wirkgefuge_2025]. Sie stützt primär FU$_1$ (Akzeptanz und Nützlichkeit) sowie FU$_{2a}$/FU$_{2b}$.
+Die LMS-Umfrage erfasst subjektive Wahrnehmungen und Bewertungen der Nutzenden und flankiert die Eye-Tracking-Daten [@hanisch-johannsen_wirkgefuge_2025-1] durch Selbstauskünfte zu Akzeptanz, Nutzen und Hemmnissen [@hanisch-johannsen_wirkgefuge_2025]. Sie stützt primär FU$_{1}$ (Akzeptanz und Nützlichkeit) sowie FU$_{2a}$/FU$_{2b}$.
 
 Die Erhebung ist vollständig anonymisiert, freiwillig und unabhängig vom Eye-Tracking-Studienteil [@hanisch-johannsen_wirkgefuge_2025-1]; Abbruch jederzeit ohne Angabe von Gründen. Laufzeit ca. 15 Minuten, Rekrutierung über das LMS-Umfeld. Instruktion und Einwilligung sind vorab bereitgestellt und verschriftlicht.
 
@@ -424,7 +424,7 @@ Die Erhebung ist vollständig anonymisiert, freiwillig und unabhängig vom Eye-T
 - **Instrument:** Strukturierter Fragebogen mit Informationsblatt und Einwilligung; abgestützte Gewichtungen der Dimensionen.
 - **Stichprobe:** Rekrutierung über das LMS-Umfeld; Ein- und Ausschlusskriterien dokumentiert; Dropouts ausgewiesen.
 - **Durchführung:** Online-Erhebung über das LMS; identische Instruktionen; pseudonymisierte IDs; technische Checks vor Freigabe.
-- **Auswertung:** Deskriptive Kennzahlen pro Dimension, gewichtetes Gesamtmaß gemäß Synopse, Vergleich nach Subgruppen (z.B. Nutzungshäufigkeit, Rolle); fehlende Werte per Listewise/Pairwise je Analyse; Rückbindung an FU$_1$/FU$_{2a}$/FU$_{2b}$ und Abgleich mit Eye-Tracking-Befunden [@hanisch-johannsen_wirkgefuge_2025-1].
+- **Auswertung:** Deskriptive Kennzahlen pro Dimension, gewichtetes Gesamtmaß gemäß Synopse, Vergleich nach Subgruppen (z.B. Nutzungshäufigkeit, Rolle); fehlende Werte per Listewise/Pairwise je Analyse; Rückbindung an FU$_{1}$/FU$_{2a}$/FU$_{2b}$ und Abgleich mit Eye-Tracking-Befunden [@hanisch-johannsen_wirkgefuge_2025-1].
 - **Gütekriterien/Reflexion:** Reliabilität über interne Konsistenz geprüft; Validität über Experten-Review und Pretest; mögliche Bias (Selbstselektion, soziale Erwünschtheit) werden in der Diskussion transparent gemacht.
 
 **Auswertungsvorgehen (Schema, FU‑geführt)**  
@@ -477,7 +477,7 @@ Ab 2018 pendelt $\Delta SC_n$ um den Median, was eine weitgehend proportionale E
 
 Als Sensitivitätsmaß ergänzt $\Delta SC_n$ den Silhouette-Score um eine volumengewichtete Perspektive und dient damit der retrospektiven Bewertung der Robustheit einzelner Jahrgänge. Die Kennwerte machen sichtbar, in welchen Phasen die Daten kohärent strukturiert sind und in welchen die semantische Landschaft in Bewegung gerät. Für die Literaturauswahl bedeutet dies, dass Jahre mit hohen negativen $\Delta SC_n$-Werten keinesfalls ausgeschlossen, sondern kontextsensitiv interpretiert werden müssen: Sie geben Hinweise auf thematische Umbrüche, nicht auf Instabilität des Verfahrens.
 
-Im Korpusfluss (Abb.~\ref{fig:path-diagram}) markieren die Pfade von FU$_3$/FU$_{4a}$ über Kerngedanke/Argumentation in Richtung Technologieintegration sowie Lehr-/Lerneffektivität die dominanten Ströme. Randströme (z.B. Datenschutz, Krisenreaktion) bleiben schmal und markieren Ergänzungsfelder; für die weitere Auswertung ist insbesondere die Verdichtung entlang Technologieintegration und Lehr-/Lerneffektivität relevant.
+Im Korpusfluss (Abb.~\ref{fig:path-diagram}) markieren die Pfade von FU$_{3}$/FU$_{4a}$ über Kerngedanke/Argumentation in Richtung Technologieintegration sowie Lehr-/Lerneffektivität die dominanten Ströme. Randströme (z.B. Datenschutz, Krisenreaktion) bleiben schmal und markieren Ergänzungsfelder; für die weitere Auswertung ist insbesondere die Verdichtung entlang Technologieintegration und Lehr-/Lerneffektivität relevant.
 
 Das Suchbegriffsnetz (Abb.~\ref{fig:network-suchergebnisse}) spannt eine technologische und eine pädagogische Achse auf. Primärbegriffe wie „learning:management:system“, „digital:learning“ und „digital:lernen“ liegen zentral und verbinden technische mit didaktischen Dimensionen. Sekundärbegriffe (z.B. „mooc“, „blended:learning“, „digital:medien“) verdichten den pädagogischen Pol und zeigen Anschluss an Formate und Inhalte. Tertiärbegriffe („online:lernen“, „online:learning“) sind randständig und öffnen den Suchraum, ohne die Kernstruktur zu verschieben. Die Knotengröße spiegelt die Suchgewichtung, die Kanten die semantische Nähe. Insgesamt bestätigt das Netz eine doppelte Zentrierung: technologiegetriebene Kernbegriffe halten den Raum zusammen, didaktische und periphere Online-Begriffe erweitern ihn kontrolliert.
 
@@ -491,7 +491,7 @@ Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissen
 4. **Qualitätssicherung:** Quellen, die inhaltlich nicht in den digitalen Bildungsraum passen, werden bereits auf dieser Ebene identifiziert und als „irrelevant" markiert. So bleiben nur überprüfte Texte im weiteren Prozess.
 5. **Zotero-Export inkl. Notizen:** Die Primäranalysen werden über einen laufend aktualisierten Export aus Zotero in das Literaturverzeichnis der Arbeit überführt und bilden so die maschinenlesbare Grundlage für die anschließenden Netzwerk-, Cluster- und Pfadanalysen.
 
-Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU$_{4a}$ und FU$_5$ (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU$_3$ und den nutzungsbezogenen FU$_{2a}$/FU$_{4b}$. FU$_1$ und FU$_6$ liegen im mittleren einstelligen Prozentbereich, FU$_{2b}$ und FU$_7$ bilden kleinere, aber inhaltlich zentrale Vertiefungsfelder. Abbildung \ref{fig:primaranalysen-verteilung} visualisiert diese Gewichtung.
+Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU$_{4a}$ und FU$_{5}$ (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU$_{3}$ und den nutzungsbezogenen FU$_{2a}$/FU$_{4b}$. FU$_{1}$ und FU$_{6}$ liegen im mittleren einstelligen Prozentbereich, FU$_{2b}$ und FU$_{7}$ bilden kleinere, aber inhaltlich zentrale Vertiefungsfelder. Abbildung \ref{fig:primaranalysen-verteilung} visualisiert diese Gewichtung.
 
 ```{=latex}
 \input{08 Metaquellen/08-01 Abbildungen/statistik/primaranalysen-verteilung.tex}
@@ -521,8 +521,8 @@ In ihrer Grundlogik knüpft die P‑QIA an die qualitative Inhaltsanalyse nach @
 
 **Konzept und Abgrenzung**
 
-- Deduktive Rahmung durch die Forschungsunterfragen (FU$_1$–FU$_7$).
-- Segmentierung aller Texte in Sinnabschnitte (1–3 Sätze; bei FU$_7$ 1–2 Sätze).
+- Deduktive Rahmung durch die Forschungsunterfragen (FU$_{1}$–FU$_{7}$).
+- Segmentierung aller Texte in Sinnabschnitte (1–3 Sätze; bei FU$_{7}$ 1–2 Sätze).
 - Transformation der Segmente in hochdimensionale Embeddings\label{term:embedding}.
 - k-means\label{term:k-means}-Clustering und Gütebewertung via Silhouette-Koeffizient.
 - KI-gestützte Label-Vorschläge, die durch die Forschende überprüft und theoretisch validiert werden.
@@ -536,7 +536,7 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 
 1. **Forschungsunterfrage und Materialfestlegung (Mayring)** – Definition der FU und Auswahl des Materials (Primäranalysen, Notizen, Quellen).
 2. **Festlegung der Analyseeinheiten (Mayring)** – Definition von Kodiereinheit/Kontexteinheit/Auswertungseinheit, Pilotphase und Regelkonstanz im finalen Durchgang [@baur_qualitative_2022, Seite 694].
-3. **Segmentierung (P-QIA)** – Automatische Zerlegung der Texte in 1–3 Sätze (bei FU$_7$ 1–2 Sätze) inklusive Dokumentation der Regeln.
+3. **Segmentierung (P-QIA)** – Automatische Zerlegung der Texte in 1–3 Sätze (bei FU$_{7}$ 1–2 Sätze) inklusive Dokumentation der Regeln.
 4. **Embedding und probabilistische Strukturierung (P-QIA)** – vektorbasiert berechnete Textrepräsentationen und k-means-Clustering mit FU-spezifischem *k*.
 5. **Qualitätssicherung der Cluster (P-QIA)** – Berechnung des Silhouette-Koeffizienten und Bereinigung instabiler Cluster.
 6. **Ableitung und Revision der Kategorien (Mayring + P-QIA)** – KI-gestützte Label, theoretische Validierung, Kodierleitfaden (Definitionen, Ankerbeispiele, Kodierregeln), Kodiermanual [@baur_qualitative_2022, Seite 696].
@@ -555,15 +555,15 @@ Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekri
 
 |FU|k|Silhouette|Interpretation nach @rousseeuw_silhouettes_1987|
 |---|---|---|---|
-|FU$_1$|8|0.91|sehr starke Clustertrennung|
+|FU$_{1}$|8|0.91|sehr starke Clustertrennung|
 |FU$_{2a}$|12|0.88|starke Clusterstruktur|
 |FU$_{2b}$|14|0.89|starke Clusterstruktur|
-|FU$_3$|15|0.87|starke Clusterstruktur|
+|FU$_{3}$|15|0.87|starke Clusterstruktur|
 |FU$_{4a}$|12|0.90|sehr starke Clustertrennung|
 |FU$_{4b}$|12|0.92|nahezu perfekte Trennung|
-|FU$_5$|14|0.88|starke Clusterstruktur|
-|FU$_6$|12|0.89|starke Clusterstruktur|
-|FU$_7$|10|0.93|nahezu perfekte Trennung|
+|FU$_{5}$|14|0.88|starke Clusterstruktur|
+|FU$_{6}$|12|0.89|starke Clusterstruktur|
+|FU$_{7}$|10|0.93|nahezu perfekte Trennung|
 
 In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die **geometrische Trennschärfe** einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische **Faustregel** werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte für die Analysen 2. Ordnung eine durchgängig hohe Separierbarkeit der FU‑spezifischen Cluster.
 
@@ -654,16 +654,16 @@ Die drei Achsen bilden die theoretischen Dimensionen ab, die zuvor in Kapitel 4.
 
 - Suchbegriffe beschreiben die diskursiven Zugriffspunkte (z.B. „digital learning“, „online learning“, „learning management system“).
 - Kategorien repräsentieren die deduktiv erstellten Inhaltsfelder (z.B. technologische Integration, Lehr- und Lerneffektivität, bildungswissenschaftliche Mechanismen).
-- Forschungsfragen (FU$_1$–FU$_7$) bilden die oberste Deduktionsschicht, aus der die weiteren Analyseschritte abgeleitet wurden.
+- Forschungsfragen (FU$_{1}$–FU$_{7}$) bilden die oberste Deduktionsschicht, aus der die weiteren Analyseschritte abgeleitet wurden.
 
 Durch diese Kombination entsteht ein semantischer, dreidimensionaler Raum, der die Struktur des Literaturkorpus entlang der zentralen Analyseachsen darstellt und eine geometrische Überprüfung der deduktiven Logik ermöglicht.
 
 Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden somit semantisch-logisch konsistente Themenräume:
 
-1. Cluster 1 (hellblau): Schwerpunkt im Schnittfeld digitale Medien, Buchtitel, Lernumgebung. Hoher Bezug zu FU$_3$ (didaktische und technologische Merkmale).
-2. Cluster 2 (dunkelblau): Fokus auf Online-Learning, Learning Analytics, bildwissenschaftlichen Theorien. Dominante Bezugspunkte zu FU$_{4a}$ und FU$_6$.
+1. Cluster 1 (hellblau): Schwerpunkt im Schnittfeld digitale Medien, Buchtitel, Lernumgebung. Hoher Bezug zu FU$_{3}$ (didaktische und technologische Merkmale).
+2. Cluster 2 (dunkelblau): Fokus auf Online-Learning, Learning Analytics, bildwissenschaftlichen Theorien. Dominante Bezugspunkte zu FU$_{4a}$ und FU$_{6}$.
 3. Cluster 3 (grau): Bereich der technologiegestützten Lehr-Lern-Effektivität, oft verknüpft mit FU$_{2a}$/FU$_{2b}$. Enthält Quellen, die empirische Wirkmechanismen, Vergleichsstudien und Evaluationsdesigns behandeln.
-4. Cluster 4 (braun): Theoretische Kernliteratur (Kerngedanke der Promotion), mit starker Anbindung an Technologieintegration, Forschungsansätze und FU$_7$. Auffällige Dichte an Basismodellen (TPACK, SDT, Systemtheorie).
+4. Cluster 4 (braun): Theoretische Kernliteratur (Kerngedanke der Promotion), mit starker Anbindung an Technologieintegration, Forschungsansätze und FU$_{7}$. Auffällige Dichte an Basismodellen (TPACK, SDT, Systemtheorie).
 
 #todo (#62) TPACK, SDT, Systemtheorie erklären bzw. referenzieren
 
@@ -674,7 +674,7 @@ Methodologische Einordnung
 Die Visualisierung erfüllt folgende Funktionen innerhalb der mdaCV:
 
 - Validierung der Deduktionslogik: Die drei Achsen sind nicht rein empirisch berechnet, sondern theoriebasiert definiert. Ihre Trennung im Raum zeigt, wie sich inhaltliche und methodische Ebenen der Literatur konsistent verhalten.
-- Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU$_{4a}$/FU$_6$ vs. technologische Integration $\to$ FU$_3$/FU$_7$).
+- Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU$_{4a}$/FU$_{6}$ vs. technologische Integration $\to$ FU$_{3}$/FU$_{7}$).
 - Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
 
 Epistemische Funktion im Forschungsdesign
@@ -691,21 +691,21 @@ Die 3D-Clusteranalyse wirkt als abschließende seismografische Validierungsstufe
 
 Damit bestätigt die 3D-Clusteranalyse die theoretisch-probabilistische Struktur des Forschungsdesigns und bietet einen visuell-analytischen Beleg dafür, dass die deduktive Kodierung, die P-QIA und die mdaCV konsistent ineinandergreifen. Zudem kann sie als Koherenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. Damit gelingt eine umfassende, methodisch stringent abgesicherte Kartierung des Forschungsfeldes und infolgedessen eine engere Verbindung zwischen deduktiver Theoriearbeit und datenbasierter Validierung.
 
-Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU$_1$–FU$_7$), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Statt auf hohe absolute Korrelationswerte abzuzielen, liegt der Schwerpunkt auf Mustererkennung, semantischen Relationen und der Validierung der deduktiven Struktur. Die vollständigen Korrelationsmatrizen sind im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)} dokumentiert [@hanisch-johannsen_wirkgefuge_2025-2].
+Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU$_{1}$–FU$_{7}$), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Statt auf hohe absolute Korrelationswerte abzuzielen, liegt der Schwerpunkt auf Mustererkennung, semantischen Relationen und der Validierung der deduktiven Struktur. Die vollständigen Korrelationsmatrizen sind im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)} dokumentiert [@hanisch-johannsen_wirkgefuge_2025-2].
 
 **Forschungsunterfragen × Forschungsunterfragen**
 
 Die Korrelationsstruktur zwischen den Forschungsunterfragen dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (vgl. \hyperref[fig:A-kor-fu]{Abb.~A.4.1}).
 
-Analyse: Werte bleiben fast durchgängig im schwach negativen Bereich; punktuell leichte positive Ausreißer (z.B. FU$_{4a}$/FU$_3$). Es gibt keine dominanten Achsen, sondern ein fein gestreutes Muster mit einzelnen Verdichtungen bei FU$_{4a}$.
+Analyse: Werte bleiben fast durchgängig im schwach negativen Bereich; punktuell leichte positive Ausreißer (z.B. FU$_{4a}$/FU$_{3}$). Es gibt keine dominanten Achsen, sondern ein fein gestreutes Muster mit einzelnen Verdichtungen bei FU$_{4a}$.
 
-Interpretation: Die FU sind inhaltlich sauber getrennt; die geringe Koppelung zeigt, dass die deduktive Struktur trägt und keine unbeabsichtigten Überschneidungen entstehen. Die wenigen positiven Paare markieren Anschlussstellen (z.B. FU$_{4a}$ $\leftrightarrow$ FU$_3$) und bleiben methodisch tolerabel.
+Interpretation: Die FU sind inhaltlich sauber getrennt; die geringe Koppelung zeigt, dass die deduktive Struktur trägt und keine unbeabsichtigten Überschneidungen entstehen. Die wenigen positiven Paare markieren Anschlussstellen (z.B. FU$_{4a}$ $\leftrightarrow$ FU$_{3}$) und bleiben methodisch tolerabel.
 
 **Forschungsunterfragen × Suchbegriffe**
 
 Die Korrelationsstruktur zwischen Forschungsunterfragen und Suchbegriffen dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (vgl. \hyperref[fig:A-kor-fu-suchbegriffe]{Abb.~A.4.2}).
 
-Analyse: Positiv verdichtet bei FU$_{4a}$/FU$_{4b}$ in Kombination mit digital learning/medien und E‑Learning; geringe, vereinzelt negative Bezüge bei FU$_1$/FU$_7$ auf klassische Lernplattform-Begriffe. Werte bleiben insgesamt moderat.
+Analyse: Positiv verdichtet bei FU$_{4a}$/FU$_{4b}$ in Kombination mit digital learning/medien und E‑Learning; geringe, vereinzelt negative Bezüge bei FU$_{1}$/FU$_{7}$ auf klassische Lernplattform-Begriffe. Werte bleiben insgesamt moderat.
 
 Interpretation: Die Suchbegriffe spiegeln die thematische Fokussierung der FU wider (insb. FU$_{4a}$/FU$_{4b}$), ohne Querbezüge zu dominieren. Das stützt die semantische Passung der Suchstring-Logik zu den FU-Schwerpunkten.
 
@@ -713,7 +713,7 @@ Interpretation: Die Suchbegriffe spiegeln die thematische Fokussierung der FU wi
 
 Die Korrelationsstruktur zwischen Forschungsunterfragen und Kategorien dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (vgl. \hyperref[fig:A-kor-fu-kategorien]{Abb.~A.4.3}).
 
-Analyse: Schwerpunkte liegen bei „kerngedanke“ und „weiterführung“, jeweils mit moderaten positiven Bezügen zu FU$_{4a}$, FU$_{4b}$ und FU$_5$. „Argumentation“ koppelt erwartungsgemäß leicht an FU$_3$/FU$_{4a}$. Negative Werte bleiben marginal.
+Analyse: Schwerpunkte liegen bei „kerngedanke“ und „weiterführung“, jeweils mit moderaten positiven Bezügen zu FU$_{4a}$, FU$_{4b}$ und FU$_{5}$. „Argumentation“ koppelt erwartungsgemäß leicht an FU$_{3}$/FU$_{4a}$. Negative Werte bleiben marginal.
 
 Interpretation: Die Kategorien greifen an den inhaltlich zugehörigen FU an und bleiben ansonsten entkoppelt. Die moderate Stärke stützt die deduktive Zuordnung und zeigt, dass Kategorien eher als Linsen denn als harte Cluster wirken.
 
@@ -721,7 +721,7 @@ Interpretation: Die Kategorien greifen an den inhaltlich zugehörigen FU an und 
 
 Die Korrelationsstruktur zwischen Forschungsunterfragen und Indizes dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (vgl. \hyperref[fig:A-kor-fu-indizes]{Abb.~A.4.4}).
 
-Analyse: Stärkere positive Kopplungen bei technologische Integration, kollaboratives Lernen und Lehr-/Lerneffektivität, vor allem mit FU$_{4a}$/FU$_{4b}$ und FU$_6$. Schwache oder neutrale Werte bei FU$_1$/FU$_7$; negative Ausreißer fehlen praktisch.
+Analyse: Stärkere positive Kopplungen bei technologische Integration, kollaboratives Lernen und Lehr-/Lerneffektivität, vor allem mit FU$_{4a}$/FU$_{4b}$ und FU$_{6}$. Schwache oder neutrale Werte bei FU$_{1}$/FU$_{7}$; negative Ausreißer fehlen praktisch.
 
 Interpretation: Die Index-Logik greift dort, wo die FU inhaltlich tief in Technologie- und Didaktikfragen eintauchen. Die gleichmäßige Verteilung ohne starke Negative zeigt, dass die Indizes die FU-Struktur stützen, nicht überlagern.
 
@@ -789,7 +789,7 @@ Eine systematische Reflexion der Eye-Tracking-Daten [@hanisch-johannsen_wirkgefu
 
 ## 4.4 Simulationsgestützte Modellierung der Kompetenzentwicklung {#sec:Simulation-Kompetenzentwicklung}
 
-Die simulationsgestützte Modellierung dient in dieser Arbeit als formalisierte Verdichtung des in Kapitel \hyperref[sec:SystemischeDynamik]{2.5} entwickelten Dynamikverständnisses und als Brücke zur systemischen Einordnung des LMS als Kompetenzerwerbssystem (FU$_6$). Sie wird als Gedankenmodell eingesetzt, um die in der Arbeit rekonstruierten Koppelungen (Rückkopplung, Störung, Regeneration, Entkopplungsrisiken) in eine explizite Zeitlogik zu überführen und dadurch prüfbar zu machen, welche Dynamikformen aus plausiblen Kombinationen von Einflussgrößen entstehen können.
+Die simulationsgestützte Modellierung dient in dieser Arbeit als formalisierte Verdichtung des in Kapitel \hyperref[sec:SystemischeDynamik]{2.5} entwickelten Dynamikverständnisses und als Brücke zur systemischen Einordnung des LMS als Kompetenzerwerbssystem (FU$_{6}$). Sie wird als Gedankenmodell eingesetzt, um die in der Arbeit rekonstruierten Koppelungen (Rückkopplung, Störung, Regeneration, Entkopplungsrisiken) in eine explizite Zeitlogik zu überführen und dadurch prüfbar zu machen, welche Dynamikformen aus plausiblen Kombinationen von Einflussgrößen entstehen können.
 
 ### 4.4.1 Zielstellung und Rolle im Gesamtdesign {#sec:Simulation-Ziel}
 
@@ -798,7 +798,7 @@ Die Simulation adressiert zwei Zwecke:
 1. **Dynamische Plausibilisierung**: Kompetenzentwicklung wird als zeitlicher Verlauf modelliert, der aus gekoppelten Einflussgrößen entsteht und dadurch nicht linear und nicht stabil verläuft. Damit wird der Anspruch, den digitalen Bildungsraum als Wirkgefüge zu fassen, in eine formal beschreibbare Dynamik übersetzt.
 2. **Indikatorik für Wirkungsdynamik**: Aus den simulierten Verläufen werden Unsicherheits- und Änderungsmaße abgeleitet, die im weiteren Verlauf als heuristische Indikatoren für Regeneration, Störung und Interventionsbedarfe dienen.
 
-Die Simulation ist damit kein Messinstrument; sie ist eine strukturierte Modellierung, die die in der Arbeit verwendeten Begriffe (Kompetenzentwicklung, Rückkopplung, Interdependenz) operativ macht und als zusätzliche Sicht auf die Dynamik des Kompetenzsystems bereitstellt (vgl. \hyperref[sec:Methodologie]{Kapitel 4}; zur Einordnung von FU$_6$ vgl. \hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
+Die Simulation ist damit kein Messinstrument; sie ist eine strukturierte Modellierung, die die in der Arbeit verwendeten Begriffe (Kompetenzentwicklung, Rückkopplung, Interdependenz) operativ macht und als zusätzliche Sicht auf die Dynamik des Kompetenzsystems bereitstellt (vgl. \hyperref[sec:Methodologie]{Kapitel 4}; zur Einordnung von FU$_{6}$ vgl. \hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
 
 ### 4.4.2 Modelllogik: gekoppelter Kompetenzverlauf in Quartalen {#sec:Simulation-Logik}
 
@@ -872,7 +872,7 @@ Die Simulation passt in die Logik dieser Dissertation, weil sie dieselbe Grundan
 
 ### 4.4.5 Grenzen und methodische Einordnung {#sec:Simulation-Grenzen}
 
-Die Simulation ist als Modellierung sensibel gegenüber Parameterwahl, Verteilungsannahmen und den definierten Koppelungsfunktionen. Ihre Aussagen haben daher den Status einer plausibilisierenden Strukturprüfung: Sie zeigt, welche Dynamiken aus den gewählten Kopplungen folgen können, sie ersetzt keine empirische Kompetenzmessung. Konsequenterweise wird sie in dieser Arbeit als Ergänzung geführt, die die Dynamikbegriffe präzisiert und als Reflexionsfolie für die Interpretation der Kompetenzperspektive (FU$_6$) dient.
+Die Simulation ist als Modellierung sensibel gegenüber Parameterwahl, Verteilungsannahmen und den definierten Koppelungsfunktionen. Ihre Aussagen haben daher den Status einer plausibilisierenden Strukturprüfung: Sie zeigt, welche Dynamiken aus den gewählten Kopplungen folgen können, sie ersetzt keine empirische Kompetenzmessung. Konsequenterweise wird sie in dieser Arbeit als Ergänzung geführt, die die Dynamikbegriffe präzisiert und als Reflexionsfolie für die Interpretation der Kompetenzperspektive (FU$_{6}$) dient.
 
 ## 4.5 Reflexion der Methode {#sec:Methoden-Reflexion}
 
