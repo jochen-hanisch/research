@@ -34,7 +34,7 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 \figsubcaption{Verteilung der Quellenzuordnungen auf Forschungsunterfragen (Quelle: 02-01 Suchergebnisse; $n=920$, Stand: 2025-11-26). x-Achse: FU; y-Achse: Anzahl der Zuordnungen; dient zur Sichtbarmachung materialreicher vs. randständiger FU-Kontingente.}
 ```
 
-**Analyse/Einordnung.** Dichte FU‑Kontingente (typischerweise FU$_3$/FU$_{4a}$/FU$_5$) bilden die robuste Basis für Mechanismen‑ und Merkmalsrekonstruktionen. Dünnere FU‑Kontingente (z.B. FU$_{2b}$, FU$_7$) sind methodisch nicht „schwächer“, aber sie verlangen eine vorsichtigere Argumentation: stärkere Verdichtung, klarere Begrenzung der Generalisierung und eine explizite Einbettung in das Gesamtwirkgefüge. Für die Ergebnisdarstellung ist die Abbildung damit eine Begründungsfolie, warum manche Ergebnislinien breiter rekonstruiert werden können als andere.
+**Analyse/Einordnung.** Dichte FU‑Kontingente (typischerweise FU$_{3}$/FU$_{4a}$/FU$_{5}$) bilden die robuste Basis für Mechanismen‑ und Merkmalsrekonstruktionen. Dünnere FU‑Kontingente (z.B. FU$_{2b}$, FU$_{7}$) sind methodisch nicht „schwächer“, aber sie verlangen eine vorsichtigere Argumentation: stärkere Verdichtung, klarere Begrenzung der Generalisierung und eine explizite Einbettung in das Gesamtwirkgefüge. Für die Ergebnisdarstellung ist die Abbildung damit eine Begründungsfolie, warum manche Ergebnislinien breiter rekonstruiert werden können als andere.
 
 ### A.13.4 Relevanz je FU (Materialqualität nach FU) {#sec:A-13-relevanz-fu}
 
