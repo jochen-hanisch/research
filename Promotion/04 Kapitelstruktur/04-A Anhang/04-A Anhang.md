@@ -10,3 +10,4 @@ Zur Orientierung sind die Anhänge wie folgt gegliedert:
 - Korpus- und Suchdokumentation: \hyperref[sec:A-4]{A‑4}, \hyperref[sec:A-6]{A‑6}, \hyperref[sec:A-11]{A‑11}, \hyperref[sec:A-13]{A‑13}, \hyperref[sec:A-14]{A‑14}
 - Empirische Materialien und Ergebnisse: \hyperref[sec:A-7]{A‑7}, \hyperref[sec:A-12]{A‑12}
 - P‑QIA‑Ergebnisse (Metaanalysen): \hyperref[sec:A-9]{A‑9}
+- Software und Reproduzierbarkeit: \hyperref[sec:A-15]{A‑15}

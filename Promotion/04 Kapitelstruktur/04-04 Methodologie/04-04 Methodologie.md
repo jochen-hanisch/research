@@ -800,6 +800,9 @@ Die Simulation adressiert zwei Zwecke:
 
 Die Simulation ist damit kein Messinstrument; sie ist eine strukturierte Modellierung, die die in der Arbeit verwendeten Begriffe (Kompetenzentwicklung, Rückkopplung, Interdependenz) operativ macht und als zusätzliche Sicht auf die Dynamik des Kompetenzsystems bereitstellt (vgl. \hyperref[sec:Methodologie]{Kapitel 4}; zur Einordnung von FU$_{6}$ vgl. \hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
 
+#todo revision: Quellcode/Artefakte als Reproduzierbarkeitsspur explizit verlinken (4.4.1)
+Der zugehörige Quellcode wird als referenzierbares Artefakt geführt; Reproduktionshinweise und Reproduzierbarkeitsgrenzen sind im Anhang \hyperref[sec:A-15]{A‑15} dokumentiert. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
+
 ### 4.4.2 Modelllogik: gekoppelter Kompetenzverlauf in Quartalen {#sec:Simulation-Logik}
 
 Die Simulation arbeitet quartalsweise über eine definierte Zeitachse und nutzt Monte‑Carlo‑Durchläufe, um nicht einen einzelnen Verlauf, sondern eine Verteilungsfamilie plausibler Verläufe zu erzeugen. Pro Durchlauf wird Kompetenz als Zustandsvariable fortgeschrieben; die Quartalsänderung koppelt mehrere Komponenten:
@@ -946,6 +949,13 @@ Webcam-basiertes Eye‑Tracking: Messfehler, Selektions-/Ausschlusslogiken und I
 Die methodische Kritik betrifft hier nicht, ob Eye‑Tracking „spannend“ ist, sondern welche Aussagekraft webcam-basierte Verfahren tatsächlich haben. Sie sind auf Kalibrier-/Validierungslogiken angewiesen, produzieren im Online-Setting hohe Ausschlussraten (mit potenziellen Selektions- und Generalisierbarkeitseffekten) und liefern im Kern eine Approximation des Blickortes, die über Pixel-Fehlergrößen und Annahmen (z.B. gaze‑cursor alignment) begrenzt bleibt. Daraus folgt, dass mikrogranulare Blickpfadinterpretationen epistemisch überziehen, wenn die Daten nicht konsequent als grobe AOI‑Spuren und als triangulative Zusatzlinie geführt werden. [@yang_webcam-based_2021, Seite 1; Seite 17; @wisiecka_comparison_2022, Seite 1; Seite 5; @papoutsaki_webgazer_nodate-1, Seite 1; Seite 5-6]
 
 Die Eye‑Tracking-Daten werden daher als beobachtungsbasierte Indizspur zur Rekonstruktion technisch‑gestalterischer Mechanismen (FU$_{4b}$) geführt; eine kausale Erklärungsebene wird nicht beansprucht. Ihre Interpretation bleibt an das Zusammenspiel mit Selbstauskünften (UM1) und literaturbasierten Tendenzen gebunden (Triangulation; Abschnitte \hyperref[sec:EyeTracking]{4.2.4}, \hyperref[sec:Umfrage-LMS]{4.2.5} und \hyperref[sec:EyeTracking-Umfrage-Vergleich]{4.3.9}). Ausschluss- und Qualitätslogiken werden als Teil der Methode ausgewiesen, nicht als „technisches Rauschen“ entfernt, und die Ergebnisinterpretation wird entlang der Messgrenzen (AOI‑Aggregation, robuste Muster statt feiner Blickpfade) begrenzt. Damit wird die Skalierungschance webcam-basierter Verfahren genutzt, ohne die Validitätsgrenze zu verschweigen. [@hanisch-johannsen_wirkgefuge_2025-1; @yang_webcam-based_2021, Seite 17]
+
+Simulation/Quellcode: Parametrisierung, Reproduzierbarkeit und Interpretationsgrenzen
+
+#todo revision: Methodenkritik zur Simulation als Softwareartefakt ergänzen (4.5.2)
+Die simulationsgestützte Modellierung ist als Softwareartefakt in besonderer Weise von Parametrierungen, Verteilungsannahmen und Implementierungsdetails abhängig. In Monte‑Carlo‑Konstellationen sind Verläufe und Kennwerte zusätzlich sensibel gegenüber Random-States, Laufzahl und Glättungsentscheidungen. Eine plausible Ergebnisform kann dadurch in verschiedenen Varianten auftreten, wobei die interpretative Reichweite an die in Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} definierte Rolle als Modellspur gebunden bleibt. Die Simulation trägt zur Nachvollziehbarkeit bei, wenn Versionen, Parameterstände, Seeds und Outputartefakte explizit dokumentiert werden; diese Dokumentationslogik wird in Anhang \hyperref[sec:A-15]{A‑15} als Reproduzierbarkeitsspur ausgewiesen. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
+
+Als methodische Begrenzung bleibt dabei relevant, dass die Simulation keine empirische Kompetenzmessung ersetzt und keine kausale Identifikation leistet. Ihre Funktion liegt in der konsistenten Übersetzung von Koppelungsannahmen in Verläufe, in der Sichtbarmachung von Dynamikformen und in der Reflexionsunterstützung für FU$_{6}$. Eine kritische Prüfung betrifft daher die Passung zwischen Modellannahmen und den in der Arbeit rekonstruierten Befundlinien sowie die Transparenz darüber, welche Setzungen im Code vorgenommen wurden und welche Alternativen plausibel geblieben sind.
 
 Methodische Stärken
 
