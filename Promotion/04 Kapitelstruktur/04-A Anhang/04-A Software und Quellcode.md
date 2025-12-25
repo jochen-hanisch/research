@@ -17,7 +17,7 @@ Dieser Anhang dokumentiert die in der Dissertation verwendeten Softwareartefakte
 
 Die Simulation implementiert ein quartalsbasiertes Dynamikmodell der Kompetenzentwicklung, das mehrere Einflusskomponenten (u.a. Neugier/Motivation, persönliche Ereignisse, Paradigmen-Parameter) als gekoppelten Update-Schritt führt. Die Auswertung erzeugt Monte‑Carlo‑Verteilungsfamilien von Verläufen sowie abgeleitete Kennwerte und Indikatoren (u.a. $\Delta E$, $\Delta K$, $\nu(t)$, $\iota(t)$, $C$) zur Interpretation von Dynamikformen, Kippstellen und Zeitfenstern. Die Artefakte umfassen Visualisierungen und tabellarische Exporte, die als Modellspur in die Argumentation rückgebunden werden. [@hanisch-johannsen_simulation_2025; @uskov_teaching_2024]
 
-Die TEI-gestützte Anwendung erweitert diese Logik um einen Import-/Mapping-Schritt: Aus TEI-Daten (Excel/CSV) werden heuristische Profil- und Parameterannahmen abgeleitet, die anschließend in die Simulation bzw. in die Auswertungsketten eingespeist werden. Auch hier werden Monte‑Carlo‑Auswertungen, Visualisierungen und Exporte erzeugt; die Verwendung bleibt an die im Haupttext ausgewiesene methodische Rolle gebunden. [@hanisch-johannsen_tei-bildungswirkgefuge_2025; @uskov_teaching_2024]
+Die TEI-gestützte Anwendung erweitert diese Logik um einen Import-/Mapping-Schritt: Aus TEI-Daten (Excel/CSV) werden heuristische Profil- und Parameterannahmen abgeleitet, die anschließend in die Simulation bzw. in die Auswertungsketten eingespeist werden. Auch hier werden Auswertungen, Visualisierungen und Exporte erzeugt; die Verwendung bleibt an die im Haupttext ausgewiesene methodische Rolle gebunden. [@hanisch-johannsen_tei-bildungswirkgefuge_2025; @uskov_teaching_2024]
 
 **Reproduktionshinweise**
 
