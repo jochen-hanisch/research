@@ -396,7 +396,6 @@ Die Umfrage „Feedback für uns (z.B. NFS-H-01)“ ist als kurze, retrospektive
 **Technische Umsetzung (Beispiel BZPG/NFS‑2509):** Operationalisiert wird dies über folgende, standardisierte Bausteine:
 
 - **Einverständniserklärungen (NFS-2509)** als Datenbank zur dokumentierten Ablage und Nachverfolgbarkeit von Einwilligungen sowie zugehöriger Rückmeldeschleifen.
-- **Feedback einreichen** (Querverweis auf den Container „Feedback“) als zentraler, niedrigschwelliger Einreichkanal für Rückmeldungen, die nicht an einzelne Aufgabencontainer gebunden sind.
 - **Gebrauchsmaterial (NFS-2509)** als Datenbank zur Sammlung, Verwaltung und Aktualisierung kursbezogener Materialien (z.B. Verbrauchs- und Arbeitsmittel).
 - **Wünsche, Ideen, Gedanken, Anregungen, Fehler (NFS-2509)** als Datenbank für kontinuierliche Verbesserungsvorschläge, Fehlermeldungen und Optimierungsideen im Sinne einer lernenden Organisation.
 - **Kursorganisation (NFS-2509)** als Forum zur allgemeinen Abstimmung organisatorischer Fragen.
@@ -404,7 +403,7 @@ Die Umfrage „Feedback für uns (z.B. NFS-H-01)“ ist als kurze, retrospektive
 - **Praxisbegleitung (NFS-2509)** als rollenbasiert eingeschränktes Forum (Praxisanleitung) zur Begleitung und Auswertung von Praxisbegleitgesprächen, ergänzt um **Praxisbegleitung Block xx (NFS-2509)** als Abstimmungselement, das abhängig von Rollenbedingungen Entscheidungen und Terminabsprachen technisch unterstützt.
 - **Rund um die staatliche Prüfung** als organisatorische Sammelkategorie, insbesondere mit **Prüfungsorganisation (NFS-2509)** als rollenbasiert eingeschränktem Forum (Prüfende) zur Vor- und Nachbereitung, sowie den Textseiten **Gruppen- und Stationsverteilung (NFS-2509)**, **Prüfungsablauf (NFS-2509)** und **Prüfungsausschuss (NFS-2509)** zur verbindlichen, kursweit referenzierbaren Bereitstellung prüfungsrelevanter Informationen.
 
-**Funktion im Gesamtsystem:** Die konsequente Rollen- und Sichtbarkeitssteuerung (z.B. Lehrende/Dozent*in/Praxisanleitung/Prüfende) erfüllt dabei zwei Funktionen: Erstens werden organisatorische Prozesse dort transparent gemacht, wo sie für Lernende handlungsrelevant sind (z.B. Ablauf- und Verteilungsinformationen), und zweitens werden sensible Abstimmungs- und Prüfungsprozesse systemseitig vor unberechtigtem Zugriff geschützt. Insgesamt ermöglicht der Container „Kursorganisation“ damit eine klare Trennung von Lern- und Verwaltungslogik, ohne die kursinterne Kohärenz des digitalen Bildungsraums zu beeinträchtigen.
+**Funktion im Gesamtsystem:** Die konsequente Rollen- und Sichtbarkeitssteuerung (z.B. Lehrende/Dozent*in/Praxisanleitung/Prüfende) erfüllt dabei zwei Funktionen: Erstens werden organisatorische Prozesse dort transparent gemacht, wo sie für Lernende handlungsrelevant sind (z.B. Ablauf- und Verteilungsinformationen), und zweitens werden sensible Abstimmungs- und Prüfungsprozesse systemseitig vor unberechtigtem Zugriff geschützt. Insgesamt ermöglicht der Container „Kursorganisation“ damit eine Trennung von Lern- und Verwaltungslogik, ohne die kursinterne Kohärenz des digitalen Bildungsraums zu beeinträchtigen.
 
 ### 3.3.3 Prüfungsarchitektur {#sec:Pruefungsarchitektur}
 
