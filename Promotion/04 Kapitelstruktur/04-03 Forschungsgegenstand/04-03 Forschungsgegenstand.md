@@ -187,31 +187,9 @@ Das didaktisch-digitale Fundament des hier skizzierten Learning Management Syste
 
 Die konzeptionelle Grundstruktur des LMS wird in Abb.~\ref{fig:modell_LMS} als Schema visualisiert.
 
-\begin{figure}[H]
-\centering
-\begin{tikzpicture}[
-  node distance=1.4cm and 2.0cm,
-  process/.style={rectangle, rounded corners, draw, align=center, minimum width=3.4cm, minimum height=1.1cm, fill=gray!10},
-  flow/.style={-Stealth, thick}
-]
-\node[process] (curriculum) {Handlungssituationen\\(32 curriculare Einheiten)};
-\node[process, right=of curriculum, xshift=1.4cm] (lms) {LMS-Kern\\Kurse, Ressourcen, Aufgaben, Feedback};
-\node[process, right=of lms, xshift=1.4cm] (cohort) {Ausbildungskurse\\(3 Kohortenräume)};
-\node[process, above=of lms] (content) {Content\\Fachliteratur, Medien};
-\node[process, below=of lms] (lernorte) {Lernorte\\Schule, Lehrrettungswache, Krankenhaus};
-
-\draw[flow] (curriculum) -- node[above, align=center]{curriculare Struktur} (lms);
-\draw[flow] (lms) -- node[above, align=center]{Umsetzung \& Steuerung} (cohort);
-\draw[flow, bend left=18] (cohort) to node[above]{Erkenntnisse, Feedback} (curriculum);
-\draw[flow, bend left=18] (curriculum) to node[below]{Aufgaben, Standards} (cohort);
-\draw[flow] (content) -- node[right]{Materialien} (lms);
-\draw[flow] (lernorte) -- node[right]{Praxisimpulse} (lms);
-\draw[flow, dashed] (lernorte) -- node[below, align=center]{Koordination} (cohort);
-\draw[flow, dashed] (lernorte) -- node[below, align=center]{Anforderungen} (curriculum);
-\end{tikzpicture}
-\caption{Systemisches Modell des eingesetzten Learning Management Systems mit Rückkopplung zwischen curricularen Handlungssituationen, LMS-Kern und kohortenspezifischen Ausbildungskursen.}
-\label{fig:modell_LMS}
-\end{figure}
+```{=latex}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-modell.tex}
+```
 
 Die Struktur trennt curricular-inhaltliche Handlungssituationen ($n = 32$) von kohortenspezifischen Ausbildungskursen ($n = 3$). Diese Trennung ermöglicht eine flexible, aber kohärente Lernumgebung, in der individuelle Erkenntnisse aus kursinternen Prozessen systematisch in die übergeordnete Handlungsebene zurückgeführt werden können.
 
