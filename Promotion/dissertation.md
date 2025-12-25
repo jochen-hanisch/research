@@ -68,7 +68,7 @@ header-includes:
   - \SetWatermarkText{Arbeitsversion}
 ---
 
-\pagestyle{fancy}
+\pagestyle{plain}
 
 ```{=latex}
 \begin{titlepage}
