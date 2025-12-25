@@ -86,6 +86,7 @@ spinner() {
 
 pandoc "${FILES[@]}" \
   --filter pandoc-crossref \
+  --lua-filter tools/pandoc/ensure-figsubcaption.lua \
   -o "dissertation-${MODE}.pdf" \
   --pdf-engine=latexmk \
   --pdf-engine-opt=-pdf \
