@@ -2,8 +2,6 @@
 
 ## Software und Quellcode (Reproduzierbarkeit) {#sec:A-15}
 
-#todo revision: Anhang A-15 final prüfen (DOI/Version/Artefakte konsistent)
-
 Dieser Anhang dokumentiert die in der Dissertation verwendeten Softwareartefakte als Reproduzierbarkeits- und Nachvollziehbarkeitsspur. Er beschreibt, welche Quellcodes eingesetzt wurden, welche Ergebnisartefakte erzeugt werden und welche Randbedingungen die Reproduzierbarkeit begrenzen. Die Software wird als Teil der methodischen Dokumentationslogik geführt und ergänzt die Textargumentation in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} sowie die methodenkritische Einordnung in Abschnitt \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
 
 **Artefakte und Referenzen**
@@ -11,25 +9,7 @@ Dieser Anhang dokumentiert die in der Dissertation verwendeten Softwareartefakte
 - **Simulation des Bildungswirkgefüges (Python):** Zenodo-Softwareartefakt zur simulationsgestützten Modellierung und Indikatorik (Bildungswirkfaktor $\nu(t)$, Bildungswirkindikator $\iota(t)$, Unsicherheitswert $C$). [@hanisch-johannsen_simulation_2025]
 - **TEI-Bildungswirkgefüge (Python):** Zenodo-Softwareartefakt zur TEI-gestützten Anwendung/Integration im Kontext der Arbeit. [@hanisch-johannsen_tei-bildungswirkgefuge_2025]
 
-**Quellenbasis Monte‑Carlo (PDF‑Seitenbezug)**
-
-#todo revision: Seitenbezüge und Ausgabeformat final prüfen (A‑15)
-
-Die folgenden Seitenangaben dienen als Prüfspur für die im Text verwendeten Monte‑Carlo‑Bezüge:
-
-- Binder (2017): S. 2–3 (Zufallszahlen/RNG; Stichprobenlogik), S. 5–6 (Random Walk/Phasenraum), S. 10 (Averaging über unabhängige Runs). [@binder_monte_2017, S. 2–3; S. 5–6; S. 10]
-- Earl & Deem (o. J.): S. 3–4 (random sampling; Metropolis‑Logik), S. 8 (Lauflänge/Run‑Heuristik), S. 10 (Varianz und Autokorrelation in Stichproben). [@earl_monte_nodate, S. 3–4; S. 8; S. 10]
-- Gleißner & Wolfrum (2019): S. 7 (Varianz‑Kovarianz‑Ansatz und simulationsbasierte Risikoaggregation), S. 29 (Random‑Walk‑Bezug in Modellierung von Risikofaktoren). [@gleisner_risikoaggregation_2019, S. 7; S. 29]
-- Pudrovska & Anishkin (2015): S. 1–4 (Einordnung der Monte‑Carlo‑Simulation; methodischer Zugriff), S. 9 (Verteilungsannahmen), S. 14–16 (Monte‑Carlo‑Simulationen und Ergebnisinterpretation). [@pudrovska_clarifying_2015, S. 1–4; S. 9; S. 14–16]
-- Rigopouli et al. (2025): S. 1–3 (MCMC‑Rahmung im Bildungskontext), S. 6 (Einordnung konventionelles Monte‑Carlo und Markov‑Chain‑Monte‑Carlo; Abhängigkeit der Ziehungen). [@rigopouli_whale_2025, S. 1–3; S. 6]
-- Shonkwiler & Mendivil (2024): S. 7 (Central‑Limit‑Theorem‑Bezug), S. 18 (Beispielcode: Pseudorandom‑Samples; Stichprobenlogik). [@shonkwiler_explorations_2024, S. 7; S. 18]
-- Voelkle & McKnight (2012): S. 7–8 (Iterationszahl und Variabilität), S. 7 (random sampling für Simulationsbedingungen). [@voelkle_one_2012, S. 7–8]
-- Theis & Kernbichler (2002): S. 2 (Definition Monte‑Carlo als Methodengruppe), S. 5–6 (Erwartungswert/Varianz/Standardabweichung), S. 7 (Samples/Laufzahl; Konvergenzbezug), S. 9 (Zufallszahlen/Zufallsgeneratoren), S. 20 (Iterationen/Simulationsablauf). [@theis_grundlagen_2002, S. 2; S. 5–7; S. 9; S. 20]
-- Kany (2024): S. 49–50 (random draw; Monte‑Carlo‑Ablauf; Beispielcode/Standardabweichung). [@uskov_teaching_2024, S. 49–50]
-
 **Funktionsüberblick: Was der Code macht**
-
-#todo revision: Funktionsbeschreibung gegen die finalen Artefakte prüfen (A-15)
 
 Die Simulation implementiert ein quartalsbasiertes Dynamikmodell der Kompetenzentwicklung, das mehrere Einflusskomponenten (u.a. Neugier/Motivation, persönliche Ereignisse, Paradigmen-Parameter) als gekoppelten Update-Schritt führt. Die Auswertung erzeugt Monte‑Carlo‑Verteilungsfamilien von Verläufen sowie abgeleitete Kennwerte und Indikatoren (u.a. $\Delta E$, $\Delta K$, $\nu(t)$, $\iota(t)$, $C$) zur Interpretation von Dynamikformen, Kippstellen und Zeitfenstern. Die Artefakte umfassen Visualisierungen und tabellarische Exporte, die als Modellspur in die Argumentation rückgebunden werden. [@hanisch-johannsen_simulation_2025; @theis_grundlagen_2002, S. 2 und 7; @uskov_teaching_2024, S. 49–50]
 

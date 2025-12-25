@@ -800,7 +800,6 @@ Die Simulation adressiert zwei Zwecke:
 
 Die Simulation ist damit kein Messinstrument; sie ist eine strukturierte Modellierung, die die in der Arbeit verwendeten Begriffe (Kompetenzentwicklung, Rückkopplung, Interdependenz) operativ macht und als zusätzliche Sicht auf die Dynamik des Kompetenzsystems bereitstellt (vgl. \hyperref[sec:Methodologie]{Kapitel 4}; zur Einordnung von FU$_{6}$ vgl. \hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
 
-#todo revision: Quellcode/Artefakte als Reproduzierbarkeitsspur explizit verlinken (4.4.1)
 Der zugehörige Quellcode wird als referenzierbares Artefakt geführt; Reproduktionshinweise und Reproduzierbarkeitsgrenzen sind im Anhang \hyperref[sec:A-15]{A‑15} dokumentiert. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
 
 ### 4.4.2 Modelllogik: gekoppelter Kompetenzverlauf in Quartalen {#sec:Simulation-Logik}
@@ -952,7 +951,6 @@ Die Eye‑Tracking-Daten werden daher als beobachtungsbasierte Indizspur zur Rek
 
 Simulation/Quellcode: Parametrisierung, Reproduzierbarkeit und Interpretationsgrenzen
 
-#todo revision: Methodenkritik zur Simulation als Softwareartefakt ergänzen (4.5.2)
 Die simulationsgestützte Modellierung ist als Softwareartefakt in besonderer Weise von Parametrierungen, Verteilungsannahmen und Implementierungsdetails abhängig. In Monte‑Carlo‑Konstellationen sind Verläufe und Kennwerte zusätzlich sensibel gegenüber Random-States, Laufzahl und Glättungsentscheidungen. [@theis_grundlagen_2002, S. 7, 9 und 20; @earl_monte_nodate, S. 8 und 10; @binder_monte_2017, S. 2–3 und 10; @uskov_teaching_2024, S. 49–50; @rakhlin_stability_nodate, Seite 1-2] Eine plausible Ergebnisform kann dadurch in verschiedenen Varianten auftreten, wobei die interpretative Reichweite an die in Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} definierte Rolle als Modellspur gebunden bleibt. Die Simulation trägt zur Nachvollziehbarkeit bei, wenn Versionen, Parameterstände, Seeds und Outputartefakte explizit dokumentiert werden; diese Dokumentationslogik wird in Anhang \hyperref[sec:A-15]{A‑15} als Reproduzierbarkeitsspur ausgewiesen. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025; @low_data_2023]
 
 Als methodische Begrenzung bleibt dabei relevant, dass die Simulation als Modellspur geführt wird und im Arbeitszusammenhang keine empirische Kompetenzmessung und keine kausale Identifikation trägt. Ihre Funktion liegt in der konsistenten Übersetzung von Koppelungsannahmen in Verläufe, in der Sichtbarmachung von Dynamikformen und in der Reflexionsunterstützung für FU$_{6}$. Eine kritische Prüfung betrifft daher die Passung zwischen Modellannahmen und den in der Arbeit rekonstruierten Befundlinien sowie die Transparenz darüber, welche Setzungen im Code vorgenommen wurden und welche Alternativen plausibel geblieben sind. [@hanisch-johannsen_simulation_2025]
