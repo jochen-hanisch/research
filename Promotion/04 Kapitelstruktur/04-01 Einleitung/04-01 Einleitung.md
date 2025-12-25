@@ -1,3 +1,7 @@
+```{=latex}
+\pagestyle{fancy}
+```
+
 \newpage
 
 # 1	Einleitung und theoretischer Rahmen {#sec:Einleitung}
