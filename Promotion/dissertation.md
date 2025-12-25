@@ -105,7 +105,7 @@ header-includes:
 ```
 
 # Inhaltsverzeichnis
-
+\renewcommand{\contentsname}{}
 \tableofcontents
 
 \newpage
