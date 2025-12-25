@@ -112,10 +112,14 @@ header-includes:
 \renewcommand{\listtablename}{}
 \listoftables
 
+\newpage
+
 # Abbildungsverzeichnis
 
 \renewcommand{\listfigurename}{}
 \listoffigures
+
+\newpage
 
 # Abkürzungsverzeichnis {#sec:abkuerzungsverzeichnis}
 
@@ -152,6 +156,8 @@ header-includes:
 
 Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis zentraler Begriffe} im Anhang.
 
+\newpage
+
 # Symbolverzeichnis {#sec:symbolverzeichnis}
 
 | Symbol | Beschreibung |
@@ -169,6 +175,8 @@ Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis
 | $\sigma$ | Standardabweichung (hier: Streuung von $\Delta E$ bzw. $\Delta K$). |
 | $S$ | Silhouette-Score als Maß der Clusterdifferenzierung. |
 | $t$ | Zeitvariable der Dynamikmodelle. |
+
+\newpage
 
 # Formelverzeichnis {#sec:formelverzeichnis}
 
