@@ -800,6 +800,10 @@ Die Simulation adressiert zwei Zwecke:
 
 Die Simulation ist damit kein Messinstrument; sie ist eine strukturierte Modellierung, die die in der Arbeit verwendeten Begriffe (Kompetenzentwicklung, Rückkopplung, Interdependenz) operativ macht und als zusätzliche Sicht auf die Dynamik des Kompetenzsystems bereitstellt (vgl. \hyperref[sec:Methodologie]{Kapitel 4}; zur Einordnung von FU$_{6}$ vgl. \hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
 
+Im Gesamtdesign wird diese Strukturspur mit dem Training Evaluation Inventory (TEI) verschränkt: TEI liefert eine evaluative Urteilsspur zu Wirkung und Designmerkmalen der Handlungssituationen, während die Simulation die zeitliche Kopplungslogik formal sichtbar macht. Der Abgleich dient als Kohärenz- und Anschlussprüfung (passen Begrifflichkeit, Verlaufstypik und Indikatorik zusammen?).
+
+Perspektivisch ist genau diese Verschränkung als Weiterentwicklung vorgesehen: Simulationsläufe werden mit je konkretem Eingangsparameterstand geführt, und die TEI‑Urteilsspur sowie ergänzende Analytiken aus dem LMS liefern heuristische Ableitungen und Rückkopplungssignale, um Parametrierungen iterativ zu schärfen und Folge‑Läufe gezielt zu variieren.
+
 Der zugehörige Quellcode wird als referenzierbares Artefakt geführt; Reproduktionshinweise und Reproduzierbarkeitsgrenzen sind im Anhang \hyperref[sec:A-15]{A‑15} dokumentiert. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
 
 ### 4.4.2 Modelllogik: gekoppelter Kompetenzverlauf in Quartalen {#sec:Simulation-Logik}
