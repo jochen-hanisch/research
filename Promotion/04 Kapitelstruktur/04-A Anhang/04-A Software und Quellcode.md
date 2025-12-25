@@ -1,0 +1,30 @@
+\newpage
+
+## Software und Quellcode (Reproduzierbarkeit) {#sec:A-15}
+
+#todo revision: Anhang A-15 final prüfen (DOI/Version/Artefakte konsistent)
+Dieser Anhang dokumentiert die in der Dissertation verwendeten Softwareartefakte als Reproduzierbarkeits- und Nachvollziehbarkeitsspur. Er beschreibt, welche Quellcodes eingesetzt wurden, welche Ergebnisartefakte erzeugt werden und welche Randbedingungen die Reproduzierbarkeit begrenzen. Die Software wird als Teil der methodischen Dokumentationslogik geführt und ergänzt die Textargumentation in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} sowie die methodenkritische Einordnung in Abschnitt \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
+
+### A.15.1 Artefakte und Referenzen
+
+- **Simulation des Bildungswirkgefüges (Python):** Zenodo-Softwareartefakt zur simulationsgestützten Modellierung und Indikatorik (Bildungswirkfaktor $\nu(t)$, Bildungswirkindikator $\iota(t)$, Unsicherheitswert $C$). [@hanisch-johannsen_simulation_2025]
+- **TEI-Bildungswirkgefüge (Python):** Zenodo-Softwareartefakt zur TEI-gestützten Anwendung/Integration im Kontext der Arbeit. [@hanisch-johannsen_tei-bildungswirkgefuge_2025]
+
+### A.15.2 Reproduktionshinweise (kurz)
+
+Die folgenden Hinweise sind als Minimalprotokoll gedacht. Sie beschreiben, welche Schritte typischerweise erforderlich sind, um die in der Dissertation beschriebenen Ergebnisartefakte (z.B. Abbildungen, Kennwerte, Tabellen) auszuführen bzw. erneut zu erzeugen.
+
+- **Umgebung:** Python 3.x, Standardbibliothek plus die im jeweiligen Zenodo-Artefakt dokumentierten Abhängigkeiten.
+- **Ausführung:** Start über den in den Artefakten dokumentierten Einstiegspunkt (z.B. `python simulation-bildungswirkgefuege.py`).
+- **Determinismus:** Bei Monte-Carlo-Anteilen wird ein Seed/Random-State empfohlen, da sonst Lauf-zu-Lauf-Varianz in den Verläufen sichtbar wird.
+- **Outputs:** Ergebnisartefakte sind grafische Verläufe (Monte-Carlo-Familien, $\nu(t)$/$\iota(t)$) sowie Kennwert-/Tabellenausgaben, die als Modellspur interpretiert werden.
+
+### A.15.3 Reproduzierbarkeitsgrenzen (methodische Einordnung)
+
+Die Nachvollziehbarkeit ist an mehrere Bedingungen gekoppelt, die im Sinne einer methodischen Transparenz als Begrenzungen dokumentiert werden:
+
+- **Parametrisierung und Annahmen:** Die Simulation operiert mit modellinternen Koppelungs- und Verteilungsannahmen. Abweichende Parametrierungen erzeugen veränderte Dynamikformen; daraus folgt eine Sensitivität der Ergebnisse gegenüber Setzungen.
+- **Abhängigkeiten/Versionen:** Python- und Paketversionen beeinflussen Laufverhalten und Plot-Outputs; die Reproduzierbarkeit profitiert von klar dokumentierten Versionsständen.
+- **Zugriff/Verfügbarkeit:** Die Softwareartefakte sind über Zenodo referenzierbar, der Zugriff kann als geschlossen geführt sein. Damit wird die Zitierfähigkeit gesichert, die unmittelbare Replikation durch Dritte hängt vom gewährten Zugriff ab.
+- **Interpretationsrahmen:** Die erzeugten Verläufe sind Modellspuren. Ihre Einordnung bleibt an die in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} formulierte Rolle als formalisierte Verdichtung und an die methodenkritische Begrenzung in Abschnitt \hyperref[sec:Methodenkritik-Absicherung]{4.5.2} gebunden.
+
