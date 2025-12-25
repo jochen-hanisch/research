@@ -279,7 +279,7 @@ KI dient als Codierhilfe, nicht als Messinstrument: Heatmaps und Fog-Views wurde
 
 Limitationen: geringere räumliche Präzision als Laborsysteme; Sensitivität für Kopfhaltung und Licht; keine Berechnung klassischer Fixationsmetriken; geringe Stichprobe. Die gewählte Granularität und die triangulative Einbindung (Eye-Tracking × Umfrage × Theorie) sichern dennoch eine robuste, kontextangemessene Evidenzbasis [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025]. Die vollständigen Bildreihen (Heatmap/Viewmap/Fog-View je Stimulus und Jahrgang) sind in \hyperref[sec:A-7]{Anhang A-7} dokumentiert.
 
-![Stichprobenverteilung der Eye-Tracking-Teilnehmenden nach Ausbildungsjahr [@hanisch-johannsen_wirkgefuge_2025-1].](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_verteilung_konfidenz.png>){#fig:eyetracking-verteilung}
+![Stichprobenverteilung der Eye-Tracking-Teilnehmenden nach Ausbildungsjahr](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_verteilung_konfidenz.png>){#fig:eyetracking-verteilung}
 
 ```{=latex}
 \figsubcaption{Dargestellt sind Anteile je Ausbildungsjahr mit 95\,\%-Konfidenzintervallen im Vergleich zur Grundgesamtheit.}
@@ -287,7 +287,7 @@ Limitationen: geringere räumliche Präzision als Laborsysteme; Sensitivität f�
 
 Die Stichprobenverteilung (vgl. Abb.~\ref{fig:eyetracking-verteilung}) zeigt, dass in jedem Ausbildungsjahrgang acht Personen in die Eye-Tracking-Analyse einbezogen wurden ($n_\text{pro Jahrgang} = 8$) und damit jeweils ein Drittel der Kohorte im ersten Jahr (N = 24) sowie einen substantiellen Anteil in den kleineren Jahrgängen (zweites Jahr N = 11, drittes Jahr N = 10) abbilden. Die 95 %-Konfidenzintervalle verdeutlichen die erwarteten Unsicherheiten bei kleinen Grundgesamtheiten, bestätigen aber zugleich, dass die Stichprobe im Rahmen der vorhandenen Kohortengrößen breit gestreut ist. Für die qualitativen, bildbasierten Analysen genügt diese Verteilung, um typische Muster pro Jahrgang sichtbar zu machen, ohne einen Anspruch auf inferenzstatistische Repräsentativität zu erheben [@hanisch-johannsen_wirkgefuge_2025-1].
 
-![Kumulative Zahl potenziell generierter Eye-Tracking-Bilder [@hanisch-johannsen_wirkgefuge_2025-1].](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_bildanzahl.png>){#fig:eyetracking-bildanzahl}
+![Kumulative Zahl potenziell generierter Eye-Tracking-Bilder](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_bildanzahl.png>){#fig:eyetracking-bildanzahl}
 
 ```{=latex}
 \figsubcaption{Kombiniert werden Stimuli, Jahrgänge und Visualisierungstypen (Heatmaps, Viewmaps, Fog-Views, Screenshots); die Abbildung quantifiziert die Materialmenge der bildbasierten Auswertung.}
@@ -819,10 +819,10 @@ Diese Kopplung wird als probabilistischer Schritt modelliert: Die Quartalsänder
 
 Die Logik wird in der Simulation als Familie von Verläufen sichtbar (vgl. \hyperref[fig:sim-montecarlo]{Abb.~\ref{fig:sim-montecarlo}}).
 
-![Kompetenzniveau in quartalsweiser Monte‑Carlo‑Simulation (Beispiel: konstruktivistischer „Standardlernender“, $n=25$ Durchläufe).](<08 Metaquellen/08-01 Abbildungen/didaktik/monte-carlo-simulation_konstruktivistisch-standardlernender.png>){#fig:sim-montecarlo}
+![Monte‑Carlo‑Simulation des Kompetenzniveaus über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/monte-carlo-simulation_konstruktivistisch-standardlernender.png>){#fig:sim-montecarlo}
 
 ```{=latex}
-\figsubcaption{Dargestellt sind einzelne Simulationsverläufe über die Quartale. Die Streuung bildet die Bandbreite plausibler Entwicklungsdynamiken im Modell ab.}
+\figsubcaption{Beispiel: konstruktivistischer „Standardlernender“, $n=25$ Durchläufe. Dargestellt sind einzelne Simulationsverläufe über die Quartale. Die Streuung bildet die Bandbreite plausibler Entwicklungsdynamiken im Modell ab.}
 ```
 
 ### 4.4.3 Unsicherheitsrelationen und Wirkungsindikatoren {#sec:Simulation-Indikatoren}
@@ -871,22 +871,22 @@ Table: Zuordnung von Zeitfenstern zu $\nu(t)$ und $\iota(t)$ \label{tab:sim-zuor
 
 Die Indikatorik lässt sich als Verlaufsspur illustrieren (vgl. \hyperref[fig:sim-bildungswirkdynamik]{Abb.~\ref{fig:sim-bildungswirkdynamik}}). Zur Einordnung der verwendeten Grundgrößen werden ergänzend die im Beispiel angesetzten Unsicherheitskomponenten und die Unsicherheitsrelation dokumentiert (vgl. \hyperref[fig:sim-unsicherheiten]{Abb.~\ref{fig:sim-unsicherheiten}} und \hyperref[fig:sim-unsicherheitsrelation]{Abb.~\ref{fig:sim-unsicherheitsrelation}}).
 
-![Modellinterne Kopplungsindikatorik: Bildungswirkfaktor $\nu(t)$ und Bildungswirkindikator $\iota(t)$ (Beispiel: konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/bildungswirkdynamik_konstruktivistisch-standardlernender.png>){#fig:sim-bildungswirkdynamik}
+![Bildungswirkfaktor $\nu(t)$ und Bildungswirkindikator $\iota(t)$ über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/bildungswirkdynamik_konstruktivistisch-standardlernender.png>){#fig:sim-bildungswirkdynamik}
 
 ```{=latex}
-\figsubcaption{Dargestellt sind $\nu(t)$ als Aggregatmaß aus $\Delta E(t)$ und $\Delta K(t)$ (Gl.~\eqref{eq:bildungswirkfaktor}) sowie $\iota(t)$ als Veränderungsrate (Gl.~\eqref{eq:bildungswirkindikator}) über die Quartale. Markierungen weisen exemplarisch auf Zeitfenster hin, in denen im Modell Stabilisierung oder Kippdynamiken auftreten.}
+\figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Dargestellt sind $\nu(t)$ als Aggregatmaß aus $\Delta E(t)$ und $\Delta K(t)$ (Gl.~\eqref{eq:bildungswirkfaktor}) sowie $\iota(t)$ als Veränderungsrate (Gl.~\eqref{eq:bildungswirkindikator}) über die Quartale. Markierungen weisen exemplarisch auf Zeitfenster hin, in denen im Modell Stabilisierung oder Kippdynamiken auftreten.}
 ```
 
-![Nebenabbildung: Unsicherheitskomponenten im Modellbeispiel (konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheiten_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheiten}
+![Nebenabbildung: Unsicherheitskomponenten im Modellbeispiel.](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheiten_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheiten}
 
 ```{=latex}
-\figsubcaption{Gezeigt sind exemplarische Komponenten (Parameter-/Streuungsanteile), die als Bausteine der modellinternen Unsicherheitsgrößen $\Delta K(t)$ und $\Delta E(t)$ geführt werden (vgl. \hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}).}
+\figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Gezeigt sind exemplarische Komponenten (Parameter-/Streuungsanteile), die als Bausteine der modellinternen Unsicherheitsgrößen $\Delta K(t)$ und $\Delta E(t)$ geführt werden (vgl. \hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}).}
 ```
 
-![Nebenabbildung: Dynamische Unsicherheitsrelation im Modellbeispiel (konstruktivistischer „Standardlernender“).](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheitsrelation_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheitsrelation}
+![Nebenabbildung: Dynamische Unsicherheitsrelation im Modellbeispiel.](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheitsrelation_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheitsrelation}
 
 ```{=latex}
-\figsubcaption{Gegenübergestellt werden das Produkt der Unsicherheitsgrößen und der dynamische Unsicherheitswert $C$ als Hilfsgröße zur Abschätzung der Kopplungsnähe zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}).}
+\figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Gegenübergestellt werden das Produkt der Unsicherheitsgrößen und der dynamische Unsicherheitswert $C$ als Hilfsgröße zur Abschätzung der Kopplungsnähe zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}).}
 ```
 
 ### 4.4.4 Passung zum Wirkgefüge-Konzept {#sec:Simulation-Passung}
