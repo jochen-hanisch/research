@@ -61,7 +61,7 @@ Neugier fungiert als Katalysator, um Lernende in komplexen digitalen Umgebungen 
 
 \label{term:PersoenlicheEreignisse}
 
-#todo revision: Persönliche Ereignisse als Trägervariable ausformulieren (2.1.4)
+#todo (#76) revision: Persönliche Ereignisse als Trägervariable ausformulieren (2.1.4)
 Persönliche Ereignisse (PE) fassen jene biografischen Erfahrungen, Rollenwechsel und situativen Irritationen, die im Lernverlauf als relevante Kontextmarker wirksam werden. Im digitalen Bildungsraum wirken sie als Selektionsimpulse, die Aufmerksamkeit, Engagement und Anschlussentscheidungen mitprägen. Diese Ereignisse betreffen den Lernprozess ebenso wie die Deutung der Lernumgebung und die Einordnung von Rückmeldungen.
 
 Für die Modelllogik dieser Arbeit werden PE als systemische Irritationen verstanden: Die Ereignisse sind als Anlässe für Anschlussentscheidungen relevant, ihre Bildungswirkung zeigt sich als Muster in der Folgekommunikation und in der Art, wie Lernhandlungen fortgesetzt, unterbrochen oder reorganisiert werden. Dieser Zugriff schließt an systemtheoretische Beschreibungen von Irritation und Anschlussfähigkeit an und führt PE als dynamische Trägervariable des Wirkgefüges. [@luhmann_soziale_2018]
@@ -70,7 +70,7 @@ Im Kontext von Kompetenzentwicklung markieren PE Zeitfenster, in denen Bereitsch
 
 Diese Perspektive wird in der simulationsgestützten Modellierung als begriffliche und operative Folie weitergeführt: PE werden dort als kategoriale, variierende Einflussimpulse operationalisiert, um die Dynamik von Kompetenzentwicklung im Zeitverlauf als gekoppelten Prozess darstellbar zu machen (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). [@hanisch-johannsen_simulation_2025]
 
-#todo revision: PE-Kategorien als operationales Raster dokumentieren (2.1.4)
+#todo (#77) revision: PE-Kategorien als operationales Raster dokumentieren (2.1.4)
 Für die spätere Operationalisierung werden persönliche Ereignisse im Modell als Kategorien geführt, die sich an der Richtung der zugrunde liegenden Attribution (eher intern/eher extern) und an der Valenz (stabilisierend/modulierend/destabilisierend) orientieren. Das Raster dient der transparenten Dokumentation, wie PE in der Simulation parametriert werden. Es besitzt den Status eines heuristischen Ordnungsschemas innerhalb der Modellierung und bildet die Grundlage dafür, PE-bezogene Dynamiken in Verläufen, Unsicherheitsgrößen und Kippstelleninterpretationen nachvollziehbar zu machen. [@hanisch-johannsen_simulation_2025]
 
 Table: Kategorien persönlicher Ereignisse (PE) als Modellraster \label{tab:pe-kategorien}
@@ -176,7 +176,7 @@ Damit schiebt dieser Exkurs einen epistemischen Riegel vor jede Form von Steueru
 
 In diesem Kapitel wird das eigens entwickelte Modell vorgestellt. Es verbindet qualitative Theoriearbeit mit Simulationen und beschreibt die dynamische Kopplung von Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS-Architektur. Der Anspruch besteht darin, die im Theorieteil hergeleiteten Trägervariablen begrifflich zu rahmen und als zeitliche Kopplungen zu führen, in denen Orientierung, Handlung und Rückkopplung als wiederkehrende Schleifen sichtbar werden. In diesem Sinn wird das Wirkgefüge als Modellform gewählt, weil es Wirkungen als relational, rückgekoppelt und damit grundsätzlich nicht‑linear beschreibt und die in Abschnitt \hyperref[sec:Technologiedefizit]{2.4} eingeführte Ungewissheit konsequent in eine indikatorfähige Logik überführt. [@deci_selbstbestimmungstheorie_1993; @dittler_technologiedefizite_2009, Seite 78]
 
-#todo revision: Brücke Theorie → Simulation klarer (2.5)
+#todo (#78) revision: Brücke Theorie → Simulation klarer (2.5)
 Die Simulation (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}) ist dabei als methodischer Anschluss an dieses Kapitel zu lesen: Sie macht die hier eingeführten Koppelungssätze als dynamische Verläufe beobachtbar und führt Ungewissheit als modellinterne Streuung und Kippstellenlogik [@hanisch-johannsen_simulation_2025]. Dadurch wird das Modell anschlussfähig an die spätere Diskussion von Wirkungswahrscheinlichkeiten (Kapitel \hyperref[sec:Diskussion]{6}) und an die Kompetenzperspektive (FU$_{6}$).
 
 ### 2.5.1 Das Modell als dynamisches System {#sec:DynamischesSystem}
