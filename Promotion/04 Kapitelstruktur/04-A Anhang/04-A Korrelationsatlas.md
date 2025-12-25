@@ -6,7 +6,7 @@ Der Korrelationsatlas bündelt die vollständigen Korrelationsmatrizen des Liter
 
 Die Matrizen sind dabei als Strukturübersichten zu verstehen: Sie zeigen Kopplungsstärken und Muster der gemeinsamen Auftretenswahrscheinlichkeit, erlauben aber keine kausalen Schlussfolgerungen und ersetzen keine inhaltliche Interpretation einzelner Felder. Negative Werte markieren Entkopplungstendenzen im jeweiligen Ausschnitt, nicht „Widerspruch“ im Sinne eines Gegenbeweises.
 
-### A.4.1 Forschungsunterfragen und ihre Verknüpfungen
+**Forschungsunterfragen und ihre Verknüpfungen**
 
 ![Korrelationsmatrix der Forschungsunterfragen im Literaturkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-forschungsunterfragen-02-01-suchergebnisse.png>){#fig:A-kor-fu}
 
@@ -32,7 +32,7 @@ Die Matrizen sind dabei als Strukturübersichten zu verstehen: Sie zeigen Kopplu
 \figsubcaption{Korrelationen zwischen Forschungsunterfragen und Indexkategorien (Quelle: 02-01 Suchergebnisse; $n=90$, Stand: 2025-11-26). x-Achse: FU; y-Achse: Indizes; Kreisfläche: Betrag, Farbe: Richtung. Dient als Plausibilitätscheck, ob deduktive FU erwartungsgemäß an inhaltliche Indexachsen koppeln.}
 ```
 
-### A.4.2 Suchbegriffe, Kategorien und Indizes
+**Suchbegriffe, Kategorien und Indizes**
 
 ![Korrelationsmatrix der Suchbegriffe im Literaturkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/korrelation-zwischen-suchbegriffen-02-01-suchergebnisse.png>){#fig:A-kor-suchbegriffe}
 
@@ -70,6 +70,6 @@ Die Matrizen sind dabei als Strukturübersichten zu verstehen: Sie zeigen Kopplu
 \figsubcaption{Korrelationen zwischen Indexkategorien und Suchbegriffen (Quelle: 02-01 Suchergebnisse; $n=450$, Stand: 2025-11-26). x-Achse: Indizes; y-Achse: Suchbegriffe; Kreisfläche: Betrag, Farbe: Richtung. Zeigt, welche Suchstrings welche Inhaltsachsen besonders stark erschließen.}
 ```
 
-### A.4.3 Strukturelle Übersichten der Relationen
+**Strukturelle Übersichten der Relationen**
 
 Die strukturellen Übersichten des Literaturkorpus – insbesondere das Pfaddiagramm der Datenflüsse und Kategorien sowie das Suchbegriffsnetz – werden im Methodik-Kapitel ausführlich visualisiert und erläutert (vgl. Abb.~\ref{fig:path-diagram} und Abb.~\ref{fig:network-suchergebnisse} in Abschnitt 4.2/4.3). Um Redundanzen und zusätzliche Dateilasten zu vermeiden, sind diese Abbildungen im Korrelationsatlas nicht erneut eingebunden.
