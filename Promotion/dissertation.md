@@ -23,7 +23,9 @@ header-includes:
   - \usepackage{fancyhdr}
   - \pagestyle{fancy}
   - \fancyhf{}
-  - \fancyhead[L]{\leftmark}
+  - \setlength{\headheight}{14pt}
+  - \fancyhead[L]{\nouppercase{\leftmark}}
+  - \fancyhead[R]{\nouppercase{\rightmark}}
   - \fancyfoot[C]{\thepage}
   - \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
   - \renewcommand{\subsectionmark}[1]{\markright{#1}}
@@ -66,10 +68,11 @@ header-includes:
   - \SetWatermarkText{Arbeitsversion}
 ---
 
-\pagestyle{plain}
+\pagestyle{fancy}
 
 ```{=latex}
 \begin{titlepage}
+\thispagestyle{empty}
 \begin{center}
 
 {\Large DISSERTATION}\\[2.5cm]
