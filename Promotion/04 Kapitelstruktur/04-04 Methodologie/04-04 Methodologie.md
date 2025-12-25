@@ -245,7 +245,7 @@ Aufbau der Visualisierungen:
 - Überblick: Gesamtplot mit Kernkennzahlen (Relevanz, Sprachen, Typen).
 - Korpusstruktur: Verteilungen der Kategorien und Indizes.
 - FU‑Mapping/Relevanz: Zuordnung zu Forschungsunterfragen sowie Relevanz je FU, Kategorie und Suchbegriff.
-- Qualität/Status/Autoren: Status der Quellen und Verteilung der Top‑Autor:innen.
+- Qualität/Autoren: Verteilung der Top‑Autor:innen.
 - Sprachen: Gesamtverteilung und Differenzierung nach Dokumententypen.
 - Flüsse/Netze: Pfaddiagramm, Suchbegriff‑Sankey‑Darstellung und das semantische Netzwerk.
 
@@ -267,7 +267,7 @@ Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relev
 
 Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (vgl. Abb.~\ref{fig:categories-suchergebnisse}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
 
-Weitere Detailvisualisierungen zur Korpusdiagnostik sind gesammelt im \hyperref[sec:A-13]{Anhang A‑13} dokumentiert (Abb.~\ref{fig:index-suchergebnisse}, Abb.~\ref{fig:tags-suchergebnisse}, Abb.~\ref{fig:research-questions-suchergebnisse}, Abb.~\ref{fig:relevance-fu}, Abb.~\ref{fig:relevance-categories}, Abb.~\ref{fig:relevance-search}, Abb.~\ref{fig:sources-status}, Abb.~\ref{fig:top-authors}, Abb.~\ref{fig:languages} und Abb.~\ref{fig:language-entrytypes}).
+Weitere Detailvisualisierungen zur Korpusdiagnostik sind gesammelt im \hyperref[sec:A-13]{Anhang A‑13} dokumentiert (Abb.~\ref{fig:index-suchergebnisse}, Abb.~\ref{fig:tags-suchergebnisse}, Abb.~\ref{fig:research-questions-suchergebnisse}, Abb.~\ref{fig:relevance-fu}, Abb.~\ref{fig:relevance-categories}, Abb.~\ref{fig:relevance-search}, Abb.~\ref{fig:top-authors}, Abb.~\ref{fig:languages} und Abb.~\ref{fig:language-entrytypes}); die Statusübersicht des Screening-/Analyseprozesses ist als Fortschrittsübersicht in \hyperref[sec:A-11]{Anhang A‑11} dokumentiert (Abb.~\ref{fig:sources-status}).
 
 ### 4.2.4 Webcam-basiertes Eye-Tracking und KI-gestützte Codierung [@hanisch-johannsen_wirkgefuge_2025-1] {#sec:EyeTracking}
 

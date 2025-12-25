@@ -66,16 +66,6 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 
 **Analyse/Einordnung.** Kernbegriffe (z.B. learning management system/digital learning) liefern erwartungsgemäß die höchste Treffgüte und bilden den stabilen Korpusanker. Randbegriffe (z.B. online learning) sind methodisch sinnvoll, wenn sie kontrolliert eingesetzt werden: Sie erhöhen Sensitivität für angrenzende Diskurse, ohne den Korpus thematisch zu verwässern. Die Abbildung dokumentiert damit die Balance aus Präzision (Kernbegriffe) und Reichweite (Randbegriffe).
 
-**Quellenstatus (Screening und Qualitätsgate)** {#sec:A-13-status}
-
-![Statusübersicht der Quellen (z. B. akzeptiert, ausgeschlossen, in Prüfung).](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_sources_status_02-01_suchergebnisse.png>){#fig:sources-status}
-
-```{=latex}
-\figsubcaption{Statusübersicht des Screening-/Analyseprozesses nach Tag/Typ (Quelle: 02-01 Suchergebnisse). y-Achse: Anzahl Quellen; Farben: Status (analysiert vs. nicht-analysiert). Dient als Prozesskontrolle (Coverage) und zeigt, welche Segmente des Suchraums bereits in die Analyse überführt wurden.}
-```
-
-**Analyse/Einordnung.** Ein hoher akzeptierter Anteil ist nur dann ein Qualitätsindikator, wenn die Einschlusskriterien präzise sind und das Screening konsequent durchgeführt wurde. In Kombination mit den Relevanzverteilungen spricht die Statusübersicht dafür, dass die Korpusbildung überwiegend stabile, inhaltlich passende Quellen in die Analyse überführt. Aus methodischer Sicht dient die Abbildung als Nachweis, dass Ausschlüsse nicht ad hoc, sondern systematisch im Prozess verankert sind.
-
 **Top-Autor*innen (Diskursstruktur)** {#sec:A-13-top-authors}
 
 ![Top-Autor*innen nach Häufigkeit im Korpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_top_authors_02-01_suchergebnisse.png>){#fig:top-authors}
