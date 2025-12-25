@@ -50,11 +50,11 @@ Führe auf Basis der bereitgestellten Primäranalysen eine probabilistisch-quali
 - eine narrative Synthese der zentralen Muster und ihrer Bedeutung für die Forschungsfrage,
 - eine kurze kritische Reflexion und Hinweise auf mögliche weiterführende Analysen.
 
-### Reproduzierbares Vorgehen (Agenten-Workflow)
+**Reproduzierbares Vorgehen (Agenten-Workflow)**
 
 Die folgenden Schritte dokumentieren das reproduzierbare Vorgehen zur Umsetzung der P‑QIA als **Analyse 3. Ordnung** auf Basis der **Analysen 1. Ordnung** (Zotero-`annote`). Ziel ist, dass die Schritte für jede Forschungsunterfrage (FU1–FU7) identisch nachvollziehbar sind und jederzeit erneut ausgeführt werden können.
 
-#### Agentenlogik (Werkbank-Prinzip)
+**Agentenlogik (Werkbank-Prinzip)**
 
 Die P‑QIA wird als „Werkbank“ verstanden: Ein Analyse‑Agent (bzw. eine standardisierte Pipeline) ist **kein eigenständiger Autor**, sondern führt die festgelegten Verarbeitungsschritte mechanisch aus und dokumentiert sie transparent. Interpretative Entscheidungen (z.B. finale Kategorienamen, theoretische Einbettung, Umgang mit Grenzfällen) verbleiben bei der Forschenden.
 
@@ -66,7 +66,7 @@ Kernprinzipien:
 - **Entscheidungslog:** Jede nachgelagerte Entscheidung (z.B. Umbenennung, Zusammenlegung/Splitting von Clustern zu Kategorien, Verschiebung von Grenzfällen) wird als Changelog je FU festgehalten.
 - **Reproduzierbarkeit:** Identischer Input + identische Parameter => identische Outputs (sofern die genutzten Modelle/Tools deterministisch konfiguriert sind).
 
-#### Datenbasis und Auswahlregel (Analysen 1. Ordnung)
+**Datenbasis und Auswahlregel (Analysen 1. Ordnung)**
 
 **Quelle der Primäranalysen:** `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`
 
@@ -77,13 +77,13 @@ Kernprinzipien:
 
 **Ergebnis:** FU-spezifischer Korpus aus Analysen 1. Ordnung (Primäranalysen).
 
-#### FU‑spezifische Arbeitsdateien (Input)
+**FU‑spezifische Arbeitsdateien (Input)**
 
 Für jede FU wird eine Arbeitsdatei gepflegt (Beispielnamen: „P‑QIA Arbeitsdatei FU1.md“, „… FU2a.md“ usw.). Jeder Quellenblock beginnt mit dem **BibTeX-Key** als Referenzanker (z.B. `### <bib-key>`), darunter folgt der vollständige `annote`-Text.
 
 Damit sind Ankerbeispiele später eindeutig referenzierbar (über den BibTeX-Key).
 
-#### Protokoll (Pflichtangaben je FU‑Run)
+**Protokoll (Pflichtangaben je FU‑Run)**
 
 Vor (oder spätestens nach) jedem FU‑Durchlauf werden folgende Angaben festgehalten (z.B. am Anfang des FU‑Abschnitts in \hyperref[sec:A-9]{Anhang A.9}):
 
@@ -93,7 +93,7 @@ Vor (oder spätestens nach) jedem FU‑Durchlauf werden folgende Angaben festgeh
 - Silhouette‑Kennwerte und Begründung bei Abweichungen vom Standard
 - Changelog: Kategorie-Namen, Clusterzusammenlegungen/-splits (falls vorgenommen) + kurze Begründung
 
-#### Segmentierung
+**Segmentierung**
 
 - Zerlege alle `annote`-Texte in Sinnabschnitte.
 - Standard: **1–3 Sätze pro Segment** (FU7: **1–2 Sätze**).
@@ -106,7 +106,7 @@ Segmentierungsregeln (minimal):
 - Artefakte aus der Datenbasis werden bereinigt (z.B. abgeschnittene Textreste/„…“, alleinstehende Trennzeichen wie `---`, offene Klammern).
 - Mehrfachkodierungen sind zulässig, wenn mehrere Dimensionen tatsächlich angesprochen werden.
 
-#### Embedding (semantische Vektorisierung)
+**Embedding (semantische Vektorisierung)**
 
 - Erzeuge für jedes Segment ein semantisches Embedding (Vektorraumrepräsentation).
 - Ergebnis ist eine Vektor-Menge, die semantische Ähnlichkeit rechnerisch abbildet.
@@ -116,19 +116,19 @@ Reproduzierbarkeit:
 - Ein Modell und eine Konfiguration pro Analysephase festlegen und beibehalten (nur bei begründetem Methodikwechsel ändern).
 - Wenn das Embedding‑Verfahren stochastisch ist: Random‑Seed fixieren und dokumentieren.
 
-#### Clustering (k‑means)
+**Clustering (k‑means)**
 
 - Führe ein **k‑means‑Clustering** der Segment‑Embeddings durch.
 - Verwende ein **FU-spezifisches $k$** (siehe Tabelle „P‑QIA‑Einstellungen je Forschungsunterfrage“).
 - Random‑Seed/Initialisierung fixieren und dokumentieren.
 
-#### Qualitätsprüfung (Silhouette)
+**Qualitätsprüfung (Silhouette)**
 
 - Berechne den **Silhouette‑Koeffizienten** als Maß der Clustertrennschärfe.
 - Wenn der Wert auffällig niedrig ist: $k$ in engem Rahmen variieren (z.B. $k \pm 1$) und die Auswirkungen dokumentieren.
 - **Abbruchregel für k‑Tuning:** maximal 3 Varianten testen; finale Wahl bleibt eine begründete Entscheidung der Forschenden (keine automatische „Optimierung“).
 
-#### Outputstruktur (pro FU)
+**Outputstruktur (pro FU)**
 
 Für jede FU werden die Ergebnisse in einem einheitlichen Schema dokumentiert (\hyperref[sec:A-9]{Anhang A.9}):
 
@@ -140,7 +140,7 @@ Für jede FU werden die Ergebnisse in einem einheitlichen Schema dokumentiert (\
 6. **Reflexion:** Grenzen/Bias/Parameterabhängigkeit.
 7. **Qualitätsgate:** Vollständigkeit + Ankerqualität + narrative Qualität (siehe unten).
 
-#### Vollständigkeits- und Qualitätsgate (Pflicht vor „fertig“)
+**Vollständigkeits- und Qualitätsgate (Pflicht vor „fertig“)**
 
 Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgende Kriterien geprüft (und bei Bedarf korrigiert):
 
@@ -161,17 +161,19 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 - Pro Kategorie: 2–5 Sätze Verdichtung (wiederkehrende Muster, Spannungsfelder, Bedingungen), anschließend 1–2 Anker (Zitat oder sehr nahe Paraphrase) mit Quellenangabe.
 - Keine Meta-Sätze ohne Benennung der Muster (z.B. nicht nur „verdichtet sich zu Mustern“, sondern die Muster explizit benennen).
 
-#### Template: FU‑Abschnitt (zum Kopieren)
+### **Template: FU‑Abschnitt (zum Kopieren)**
 
 ```markdown
-### FUx – Analyse dritter Ordnung (P‑QIA)
+**FUx – Analyse dritter Ordnung (P‑QIA)**
 
 **Kurztext**
+
 - Datenbasis: n = …
 - Segmentierung: N = … (Regel: …; Ausschlüsse: …)
 - Parameter: k = …; Silhouette: S = …
 
 **Protokoll (Run-Parameter)**
+
 - Datum:
 - Segmentierungsregeln (kurz):
 - Embedding (Modell/Version/Seed):
@@ -180,39 +182,47 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 - Changelog (Umbenennungen/Merge/Split):
 
 **Kategorienüberblick (Tabelle)**
+
 | Kategorie | Segmente (n) | Beispielquellen |
 | --- | ---: | --- |
 | … | … | [@…] [@…] |
 
 **Codierschema (Tabelle)**
+
 | Kategorie | Definition | Kodierregel (kurz) | Ankerbeispiele |
 | --- | --- | --- | --- |
 | … | … | … | „…“ [@…]<br><br>„…“ [@…] |
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
-#### Kategorie 1
+
+**Kategorie 1**
+
 2–5 Sätze Verdichtung (deskriptiv) … [@…] [@…]
 > „…“ [@…]
 > „…“ [@…]
 
-#### Barrieren, Risiken & Grenzen
+**Barrieren, Risiken & Grenzen**
+
 2–5 Sätze Verdichtung (deskriptiv) … [@…] [@…]
 > „…“ [@…]
 > „…“ [@…]
 
 **Theoretische Einbettung**
+
 Kurze Zuordnung … [@…]
 
 **Reflexion**
+
 Grenzen/Bias (Segmentierung, Modell-/Parameterabhängigkeit, Korpuszuschnitt, FU‑Tagging) …
 
 **Qualitätsgate (Haken dran)**
+
 - [ ] Kategorienüberblick == Codierschema == Narrative Unterabschnitte
 - [ ] Pro Kategorie >=2 Anker aus unterschiedlichen BibTeX-Keys
 - [ ] Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen
 ```
 
-### Übersicht der P‑QIA-Einstellungen je Forschungsunterfrage
+**Übersicht der P‑QIA-Einstellungen je Forschungsunterfrage**
 
 Die konkrete Anwendung dieses Prompts erfolgt für jede Forschungsunterfrage (FU1–FU7) auf Basis der im Literaturverzeichnis hinterlegten Primäranalysen. Technisch werden dafür jeweils alle Zotero-Einträge verwendet, die
 

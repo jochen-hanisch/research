@@ -14,7 +14,7 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 4. **Synthese:** narrative Verdichtung der zentralen Muster und Spannungsfelder.
 5. **Theorie und Reflexion:** theoretische Einordnung sowie methodische Grenzen/Bias.
 
-### FU1 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU1}
+**FU1 – Analyse dritter Ordnung (P‑QIA)** {#sec:A-9-FU1}
 
 **Kurztext**
 
@@ -58,7 +58,7 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Benutzerfreundlichkeit & Orientierung
+**Benutzerfreundlichkeit & Orientierung**
 
 In FU1 erscheinen Akzeptanz und Nützlichkeit eines LMS eng an die Erfahrbarkeit einer klaren, entlastenden Bedienlogik gebunden: Struktur, Navigation und Organisation werden als Bedingungen genannt, damit Aufmerksamkeit auf Inhalte statt auf Systemhandhabung gelenkt werden kann. In quantitativen Akzeptanzmodellen wird dieser Zusammenhang zudem als Zusammenspiel von wahrgenommener Benutzerfreundlichkeit, Nützlichkeit und Nutzungsintention modelliert. [@jankovski_eyes_2017] [@mesenholler_validierung_2024]
 
@@ -66,7 +66,7 @@ In FU1 erscheinen Akzeptanz und Nützlichkeit eines LMS eng an die Erfahrbarkeit
 >
 > Sie betonen die Bedeutung gut definierter Organisation, Zugänglichkeit und Benutzerfreundlichkeit, um den Schülern zu ermöglichen, sich auf ihre Lerninhalte statt auf die Navigation durch das LMS zu konzentrieren. [@jankovski_eyes_2017]
 
-#### Zugänglichkeit & Flexibilität
+**Zugänglichkeit & Flexibilität**
 
 Ein wiederkehrendes Muster ist die Zuschreibung von Nutzen über zeitliche und räumliche Entkopplung: Lernen von zu Hause, jederzeitiger Zugriff und mobile Verfügbarkeit werden als primäre Vorteile beschrieben. In FU1 fungiert „Zugänglichkeit“ zugleich als Brücke zur Frage, wer tatsächlich profitieren kann (Verfügbarkeit von Ressourcen, Anschlussfähigkeit der Infrastruktur). [@chathuranga_unveiling_2024] [@frohn_schulische_2020] [@zhang_global_2015]
 
@@ -74,7 +74,7 @@ Ein wiederkehrendes Muster ist die Zuschreibung von Nutzen über zeitliche und r
 >
 > Studierende aus mehreren Ländern griffen auf die App zu, wobei Singapur den Großteil der Nutzer*innen stellte. [@zhang_global_2015]
 
-#### Soziale Interaktion & Kollaboration
+**Soziale Interaktion & Kollaboration**
 
 FU1 zeigt, dass Akzeptanz- und Nutzenurteile nicht nur individuell, sondern sozial vermittelt sind: Austausch, Kooperation und geteilte Ressourcen erscheinen als Mechanismen, die digitale Transformation und Lernqualität stützen. Gleichzeitig wird Kollaboration als ambivalent beschrieben, weil sie Koordinationsaufwand und Konfliktpotenziale mit sich bringen kann (z.B. ungleiche Beiträge). [@hasselkus_abschlussbericht_2022] [@seno_promises_2020]
 
@@ -82,7 +82,7 @@ FU1 zeigt, dass Akzeptanz- und Nutzenurteile nicht nur individuell, sondern sozi
 >
 > Kollaborative Online-Lernmethoden fördern die sozialen und kommunikativen Kompetenzen der Studierenden und verbessern die Qualität der eingereichten Arbeiten. [@seno_promises_2020]
 
-#### Motivation & Engagement (inkl. Gamification)
+**Motivation & Engagement (inkl. Gamification)**
 
 Ein zentrales Muster ist die Kopplung von Nutzungsbereitschaft an motivationale Stabilisierung: Engagement muss im Online-Setting aktiv hergestellt werden (Selbstorganisation, Persistenz, Lernpräsenz), wobei soziale Unterstützung und Anreize als unterstützende Bedingungen erscheinen. Zugleich wird Motivation nicht nur als „innere“ Eigenschaft, sondern als gestalt- und kontextabhängig beschrieben (Partizipation, Bedürfnisse, Anreizstrukturen). [@koh_adaptiveness_2023] [@komorowski_motivationen_2023]
 
@@ -90,7 +90,7 @@ Ein zentrales Muster ist die Kopplung von Nutzungsbereitschaft an motivationale 
 >
 > Die Studie betont die Notwendigkeit, die intrinsische Motivation zu stärken und die Partizipation der Schülerinnen und Schüler in der digitalisierten Welt zu fördern, um nachhaltige Lernergebnisse zu erzielen. [@komorowski_motivationen_2023]
 
-#### Didaktische Integration & Lernprozessgestaltung
+**Didaktische Integration & Lernprozessgestaltung**
 
 FU1 verdichtet didaktische Nützlichkeit als Passung zwischen LMS-Funktionen, Aufgabenformaten und Lernzielen: Nutzen entsteht dort, wo digitale Formate lernprozessbezogen integriert werden (z.B. Blended/Hybrid) und Vernetzung als Bestandteil der Lernarchitektur fungiert. Gleichzeitig erscheint Technologieintegration nicht als Selbstzweck, sondern als didaktische Konstruktionsleistung (Aufgaben, Settings, Begleitung). [@vedder_fortbildungen_2022] [@loro_professional_2023]
 
@@ -98,7 +98,7 @@ FU1 verdichtet didaktische Nützlichkeit als Passung zwischen LMS-Funktionen, Au
 >
 > Die Implementierung von simulationsbasierten Aufgaben und remote Labors demonstriert die komplexe Integration von Technologien zur Unterstützung des Lernprozesses. [@loro_professional_2023]
 
-#### Feedback, Bewertung & Lernfortschritt
+**Feedback, Bewertung & Lernfortschritt**
 
 In FU1 wird Nutzen auch über die Sichtbarkeit von Lernprozessen und Leistungen hergestellt: Feedback, Leistungsdaten und Zertifikats-/Badge-Logiken werden als Instrumente beschrieben, um Fortschritt zu steuern und Wirksamkeit zu evaluieren. Gleichzeitig wird deutlich, dass datenbasiertes Feedback erst dann als nützlich gilt, wenn es die Leistung tatsächlich verbessert und anschlussfähig an die Praxis der Bewertung ist. [@chen_effects_2024] [@loro_professional_2023]
 
@@ -106,7 +106,7 @@ In FU1 wird Nutzen auch über die Sichtbarkeit von Lernprozessen und Leistungen 
 >
 > Die Evaluation der Kurse mittels digitaler Abzeichen und Zertifikate sowie die Analyse der Engagement-Raten und Lernzeiten der Teilnehmer sind zentrale Elemente zur Bewertung der Lehr- und Lerneffektivität. [@loro_professional_2023]
 
-#### Institutioneller Support & Implementierung
+**Institutioneller Support & Implementierung**
 
 FU1 zeigt, dass Akzeptanz nicht allein aus individueller Nutzungserfahrung folgt, sondern an institutionelle Möglichkeitsbedingungen gebunden ist: Ressourcen, Supportstrukturen und organisatorische Umsetzung beeinflussen, ob Systeme als praktikabel und sinnvoll erlebt werden. Implementationsbeispiele (z.B. Frühwarnsysteme) verdeutlichen zudem, dass zusätzliche Funktionalität neue Anforderungen an Interpretation, Arbeitsaufwand und Organisation erzeugt. [@atif_perceived_2020] [@hasselkus_abschlussbericht_2022]
 
@@ -114,7 +114,7 @@ FU1 zeigt, dass Akzeptanz nicht allein aus individueller Nutzungserfahrung folgt
 >
 > Es wird darauf hingewiesen, dass die Implementierung eines Frühwarnsystems technologische und organisatorische Herausforderungen mit sich bringt, die überwunden werden müssen, um die Effektivität des Systems zu gewährleisten. [@atif_perceived_2020]
 
-#### Barrieren, Risiken & Grenzen
+**Barrieren, Risiken & Grenzen**
 
 Die Barrierenkategorie bündelt jene Segmente, in denen Nutzen- und Akzeptanzzuschreibungen ausdrücklich begrenzt werden: Datenschutz/IT‑Sicherheit und ungleiche Ausgangslagen (insbesondere bei vulnerablen Gruppen) erscheinen als Risiken, die Vertrauen und Teilnahme beeinträchtigen können. Damit wird sichtbar, dass Akzeptanz nicht nur „pro“ argumentiert, sondern als Abwägung unter Risiko- und Ungleichheitsbedingungen rekonstruiert werden muss. [@heinz_bildungsgerechtigkeit_2023] [@stiller_modelling_2023]
 
@@ -136,7 +136,7 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU2a – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU2a}
+**FU2a – Analyse dritter Ordnung (P‑QIA)** {#sec:A-9-FU2a}
 
 **Kurztext**
 
@@ -188,7 +188,7 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Lernleistung (Interventionsvergleich)
+**Lernleistung (Interventionsvergleich)**
 
 FU2a verdichtet Effekte häufig als messbaren Lernzuwachs: Interventionen werden über Vor-/Nachtests, Kontrollgruppenvergleiche oder unterschiedliche Lernbedingungen miteinander kontrastiert. In diesen Segmenten wird Effekt primär als Leistungs- bzw. Lernzuwachs operationalisiert. [@pratiwi_hasil_2024] [@hu_conversational_2025]
 
@@ -196,7 +196,7 @@ FU2a verdichtet Effekte häufig als messbaren Lernzuwachs: Interventionen werden
 >
 > Die CA-CL-Gruppe erzielte signifikant höhere Lernzuwächse im Posttest im Vergleich zur CL- und CA-I-Gruppe (p < 0.01). [@hu_conversational_2025]
 
-#### Motivation, Engagement & Selbstwirksamkeit
+**Motivation, Engagement & Selbstwirksamkeit**
 
 Ein zweites Muster beschreibt Effekte als motivational-affektive Veränderungen: Motivation, Engagement und Selbstwirksamkeit werden als Outcomes benannt oder als Vermittlungsgrößen, die Lernleistung flankieren. Die Segmente zeigen dabei sowohl positive Effekte (Motivationszuwächse) als auch Grenzbefunde (fehlende Signifikanz bei einzelnen Konstrukten). [@aubakirova_role_2024] [@wiepke_prasenzgefuhl_2022]
 
@@ -204,7 +204,7 @@ Ein zweites Muster beschreibt Effekte als motivational-affektive Veränderungen:
 >
 > Kein signifikanter Zusammenhang zwischen räumlicher Präsenz und Selbstwirksamkeit; positive qualitative Rückmeldungen der Studierenden. [@wiepke_prasenzgefuhl_2022]
 
-#### Didaktische Strukturierung & Kooperationsskripts
+**Didaktische Strukturierung & Kooperationsskripts**
 
 FU2a weist Effekte wiederholt auf konkrete didaktische Arrangements zurück: Vorstrukturierung, Skripts und Scaffolding werden als Bedingungen genannt, unter denen Effekte stabiler auftreten. Damit wird Effekt nicht nur als Ergebnis, sondern als Folge von Gestaltungsentscheidungen beschrieben. [@ade_kooperative_2021] [@mandal_current_2024]
 
@@ -212,7 +212,7 @@ FU2a weist Effekte wiederholt auf konkrete didaktische Arrangements zurück: Vor
 >
 > Die Studie bewertet die Effektivität von MOOCs bei der Verbesserung der Bildungszugänglichkeit und -qualität. [@mandal_current_2024]
 
-#### Technologieintegration & LMS-Einbettung
+**Technologieintegration & LMS-Einbettung**
 
 Effekte werden in FU2a häufig an die Einbettung des LMS in konkrete Lehr-Lern-Praxis gekoppelt: Integration in den Unterricht bzw. in Curricula erscheint als Voraussetzung, damit Nutzung überhaupt wirksam werden kann. [@afshar_flipped_2024] [@wagner_effectiveness_2021]
 
@@ -220,7 +220,7 @@ Effekte werden in FU2a häufig an die Einbettung des LMS in konkrete Lehr-Lern-P
 >
 > Integration von digitalen Lernmaterialien und LMS in den Unterricht. [@wagner_effectiveness_2021]
 
-#### Soziale Interaktion & Kollaboration
+**Soziale Interaktion & Kollaboration**
 
 Ein zentrales Wirkungsmuster beschreibt Effekte als sozial vermittelt: Interaktion, soziale Präsenz und kollaborative Prozesse werden als Mechanismen genannt, die Motivation, Beteiligung und Lernergebnisse stützen oder begrenzen. [@weidlich_social_2024] [@goswami_supporting_2023]
 
@@ -228,7 +228,7 @@ Ein zentrales Wirkungsmuster beschreibt Effekte als sozial vermittelt: Interakti
 >
 > Soziale Interaktionen in Online-Programmierkursen können das Lernen fördern. [@goswami_supporting_2023]
 
-#### Nutzungshürden & Unterstützungsbedingungen
+**Nutzungshürden & Unterstützungsbedingungen**
 
 Neben positiven Effekten werden Bedingungen sichtbar, unter denen Effekte ausbleiben oder sich abschwächen: technische und konzeptionelle Herausforderungen sowie Unterstützungsbedarfe werden als Grenzen der Wirksamkeit markiert. [@koh_value_2023] [@maula_enhancing_2024]
 
@@ -236,7 +236,7 @@ Neben positiven Effekten werden Bedingungen sichtbar, unter denen Effekte ausble
 >
 > Analyse der Rolle digitaler Technologien bei der Unterstützung des Sprachenlernens. [@maula_enhancing_2024]
 
-#### Personalisierte Unterstützung & SSRL
+**Personalisierte Unterstützung & SSRL**
 
 FU2a enthält Segmente, in denen Effekte explizit über personalisierte Rückmeldungen und Prompts vermittelt werden: Lernanalytics-gestützte Hinweise werden als Mechanismus beschrieben, der selbstregulierte Lernstrategien und Engagement verbessert. [@akinyi_learning_2024] [@hu_conversational_2025]
 
@@ -244,7 +244,7 @@ FU2a enthält Segmente, in denen Effekte explizit über personalisierte Rückmel
 >
 > Students in CA-CL group showed significantly higher post-test scores and more balanced participation during discussion. [@hu_conversational_2025]
 
-#### Emotionen & Lernprozessdynamik
+**Emotionen & Lernprozessdynamik**
 
 Effekte werden teilweise über emotionale Dynamiken beschrieben: negative Emotionen erscheinen nicht nur als Störung, sondern können (unter Bedingungen) als kognitiv aktivierender Bestandteil produktiver Lernprozesse verstanden werden. Zugleich wird Nutzungshäufigkeit an curricularer Einbettung festgemacht. [@xiao_exploratory_2025] [@junge_anfange_2023]
 
@@ -252,7 +252,7 @@ Effekte werden teilweise über emotionale Dynamiken beschrieben: negative Emotio
 >
 > Studierende nutzen digitale Lernmaterialien häufiger, wenn sie in ein Blended-Learning-Curriculum integriert sind. [@junge_anfange_2023]
 
-#### Interventions- und Plattformdesign
+**Interventions- und Plattformdesign**
 
 FU2a umfasst auch designorientierte Segmente: Plattformen/Tools und ihre Workflows werden als gezielte Interventionen beschrieben, die kollaborative Diskussionen und spezifische Kompetenzen fördern sollen. [@naamati-schneider_enhancing_2023] [@song_insights_2024]
 
@@ -260,7 +260,7 @@ FU2a umfasst auch designorientierte Segmente: Plattformen/Tools und ihre Workflo
 >
 > Plattform (EPCAL) zur Förderung kollaborativer Diskussionen und Argumentationsfähigkeiten. [@song_insights_2024]
 
-#### Messung & Evaluation von Effekten
+**Messung & Evaluation von Effekten**
 
 Ein Teil der Segmente fokussiert die Operationalisierung von „Effekt“: Skalen, Tests und psychometrische Instrumente strukturieren, welche Effekte überhaupt sichtbar werden. [@yang_ai_2023] [@chen_comparison_2025]
 
@@ -268,7 +268,7 @@ Ein Teil der Segmente fokussiert die Operationalisierung von „Effekt“: Skale
 >
 > Standardisierte Tests und psychometrische Fragebögen. [@chen_comparison_2025]
 
-#### Kognitive Interaktion (Formate/Tools)
+**Kognitive Interaktion (Formate/Tools)**
 
 Ein differenzierendes Muster ist die Zuschreibung kognitiver Effekte an Interaktionsformate: unterschiedliche Tools (z.B. Danmaku vs. Foren) werden mit unterschiedlichen Formen kognitiver Tiefe und sozio-emotionaler Präsenz verknüpft. [@yang_combining_2024] [@kerman_online_2024]
 
@@ -276,7 +276,7 @@ Ein differenzierendes Muster ist die Zuschreibung kognitiver Effekte an Interakt
 >
 > Kombination aus quantitativen Ratings und qualitativen Kommentaren führt zu besseren Lernergebnissen. [@kerman_online_2024]
 
-#### Formatives Assessment & Zufriedenheit
+**Formatives Assessment & Zufriedenheit**
 
 FU2a beschreibt Effekte auch über unmittelbare Reaktionen und Prozessunterstützung: formative Beurteilung/Feedback wird als lernförderlich beschrieben, Zufriedenheit als Outcome erfasst. [@afshar_flipped_2024] [@montaner-villalba_enhancing_2025]
 
@@ -298,7 +298,7 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU2b – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU2b}
+**FU2b – Analyse dritter Ordnung** (P‑QIA) {#sec:A-9-FU2b}
 
 **Kurztext**
 
@@ -354,7 +354,7 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Monitoring, Lernsteuerung & Lehrkraftintervention
+**Monitoring, Lernsteuerung & Lehrkraftintervention**
 
 FU2b verdichtet Effektfaktoren häufig als Balance zwischen Eigensteuerung der Lernenden und Unterstützung durch Lehrende: Monitoring dominiert gegenüber Planung; Lehrkraftintervention kann dabei sowohl förderlich (gezielte Evaluation) als auch hemmend (zu starke Monitoring-Unterstützung) wirken. [@schulz_game_2024] [@rieser_gemeinsame_2025]
 
@@ -362,7 +362,7 @@ FU2b verdichtet Effektfaktoren häufig als Balance zwischen Eigensteuerung der L
 >
 > Intensivere Unterstützung des Monitorings durch die Lehrkraft wies einen negativen Zusammenhang mit dem Monitoring der Schüler*innen auf. [@rieser_gemeinsame_2025]
 
-#### Lernanalytik/NLP für Teamkommunikation (CPS)
+**Lernanalytik/NLP für Teamkommunikation (CPS)**
 
 Ein wiederkehrendes Muster beschreibt Effekte über die Mess- und Sichtbarmachung von Interaktionsqualität: Verfahren wie Inhaltsanalyse, LIWC/LSM oder Mixed-Methods-Designs dienen dazu, Teamkommunikation zu diagnostizieren und als Grundlage für Rückmeldung/Steuerung zu nutzen. [@buseyne_assessing_2023] [@lyu_enhancing_2025]
 
@@ -370,7 +370,7 @@ Ein wiederkehrendes Muster beschreibt Effekte über die Mess- und Sichtbarmachun
 >
 > Preparation quality is a mediator between prior knowledge and group learning outcomes. [@lyu_enhancing_2025]
 
-#### Digitale Kompetenzen & Fortbildungseffekte
+ **Digitale Kompetenzen & Fortbildungseffekte**
 
 FU2b verortet Effekte häufig in Kompetenzen der Lehrenden: Fortbildung wirkt nicht „direkt“, sondern vermittelt über digitale Kompetenzen, die wiederum Unterrichtsqualität und die Umsetzbarkeit digitaler Settings beeinflussen. [@runge_lehrkraftefortbildungen_2024] [@liverano_educational_2024]
 
@@ -378,7 +378,7 @@ FU2b verortet Effekte häufig in Kompetenzen der Lehrenden: Fortbildung wirkt ni
 >
 > Technologische Einschränkungen und mangelnde digitale Kompetenzen können die Umsetzung und Effektivität kollaborativer Schreibprojekte beeinträchtigen. [@liverano_educational_2024]
 
-#### Lernmuster, Vorbereitung & Lernergebnisse
+ **Lernmuster, Vorbereitung & Lernergebnisse**
 
 Ein weiterer Strang verdichtet Effekte über Lernmuster und Vorbereitung: Logdatenbasierte Muster, metakognitive/motivationale Strategien und individuelle Vorbereitung werden als Prädiktoren von Lernergebnissen beschrieben. [@saiz_manzanares_how_2017] [@lyu_enhancing_2025]
 
@@ -386,7 +386,7 @@ Ein weiterer Strang verdichtet Effekte über Lernmuster und Vorbereitung: Logdat
 >
 > Preparation quality is a mediator between prior knowledge and group learning outcomes. [@lyu_enhancing_2025]
 
-#### Unterstützungsbedarfe (Stress/Anxiety) & Peer-Support
+ **Unterstützungsbedarfe (Stress/Anxiety) & Peer-Support**
 
 FU2b enthält Segmente, in denen Unterstützungsbedarf als Effektfaktor sichtbar wird: bei Stress/Anxiety werden peerbasierte Unterstützungsformen (Kommiliton:innenhilfe, Buddy-Systeme) als besonders wirksam beschrieben; zugleich werden Gestaltungs- und Forschungsbedarfe zur Förderung von Beteiligung markiert. [@bjalkebring_math_2019] [@compagnoni_we_2024]
 
@@ -394,7 +394,7 @@ FU2b enthält Segmente, in denen Unterstützungsbedarf als Effektfaktor sichtbar
 >
 > Zukünftige Forschungen mit größeren Stichproben und verbesserten technologischen Lösungen sollen die Gruppenbeteiligung fördern. [@compagnoni_we_2024]
 
-#### Kompetenzentwicklung in praktischen Settings (Supervision/OSCE)
+ **Kompetenzentwicklung in praktischen Settings (Supervision/OSCE)**
 
 Effektfaktoren werden häufig an praktische Kompetenzentwicklung gekoppelt: hybride Formate mit Supervision bzw. Simulation/Microlearning werden als besonders wirksam beschrieben, weil sie digitale Inhalte mit Rückmeldung und Übungsgelegenheiten verbinden. [@engert_effectiveness_2025] [@liew_microlearning_2023]
 
@@ -402,7 +402,7 @@ Effektfaktoren werden häufig an praktische Kompetenzentwicklung gekoppelt: hybr
 >
 > Microlearning und simulationsbasierte Sitzungen wurden als effektive Lehrmethoden zur Erreichung der VC-Kompetenzen bewertet. [@liew_microlearning_2023]
 
-#### Peer-Feedback, Tutoring & Leistungswirkung
+ **Peer-Feedback, Tutoring & Leistungswirkung**
 
 FU2b verdichtet Effekte über Feedbacklogiken: formative Rückmeldung wird als leistungsförderlicher beschrieben als summative; wiederholte Peer-Assessment-Erfahrung erhöht die Genauigkeit und Qualität von Bewertungen. [@viberg_exploring_2024-1] [@radovic_analysing_2023]
 
@@ -410,7 +410,7 @@ FU2b verdichtet Effekte über Feedbacklogiken: formative Rückmeldung wird als l
 >
 > Studierende mit regelmäßiger Peer-Assessment-Erfahrung verbesserten ihre Bewertungsgenauigkeit. [@radovic_analysing_2023]
 
-#### Blended Learning: Flexibilität & Wirksamkeitsvergleich
+ **Blended Learning: Flexibilität & Wirksamkeitsvergleich**
 
 Als Effektfaktor erscheint Blended Learning wiederholt über die Kombination von Flexibilität, theoretischer Vorbereitung und praktischer Rückmeldung; Wirksamkeit wird explizit im Vergleich zu rein digitalen Formaten thematisiert. [@kayi_transitioning_2024] [@engert_effectiveness_2025]
 
@@ -418,7 +418,7 @@ Als Effektfaktor erscheint Blended Learning wiederholt über die Kombination von
 >
 > Die Effektivität des Blended Learning im Vergleich zu rein digitalen Lehrmethoden. [@engert_effectiveness_2025]
 
-#### Online Peer Assessment: Plattformen & Bewertungsprozesse
+ **Online Peer Assessment: Plattformen & Bewertungsprozesse**
 
 Ein wiederkehrendes Muster ist die Formalisierung von Bewertung durch Plattformen: Moodle-/Cloud-Tools strukturieren Peer-Assessment-Prozesse; Kommunikationsindikatoren (z.B. Wortanzahl, Beteiligung) werden als Hinweise auf Prozessqualität und Rollenverteilung genutzt. [@radovic_analysing_2023] [@buseyne_assessing_2023]
 
@@ -426,7 +426,7 @@ Ein wiederkehrendes Muster ist die Formalisierung von Bewertung durch Plattforme
 >
 > Wortanzahl und Anzahl der Äußerungen variieren zwischen und innerhalb der Teams deutlich und können Erkenntnisse zur Gleichmäßigkeit der Beteiligung liefern. [@buseyne_assessing_2023]
 
-#### E‑Portfolios, Reflexion & Professionalisierung
+ **E‑Portfolios, Reflexion & Professionalisierung**
 
 FU2b bündelt Effekte auch über Reflexionsinstrumente: E‑Portfolios werden als Beitrag zur Professionalisierung beschrieben; in LMS-Kontexten wird zudem prozessorientiertes Feedback als dauerhaft abrufbare Unterstützung herausgestellt. [@gittinger_reflexion_2024] [@saiz_manzanares_how_2017]
 
@@ -434,7 +434,7 @@ FU2b bündelt Effekte auch über Reflexionsinstrumente: E‑Portfolios werden al
 >
 > Well-designed LMS mean that the development of process-oriented feedback is more structured for students, since they can consult the orientations of the teacher, both in real time and afterwards, at any time in the learning process. [@saiz_manzanares_how_2017]
 
-#### Technologische Herausforderungen & digitale Literacy
+ **Technologische Herausforderungen & digitale Literacy**
 
 Barrieren werden als Effektfaktoren explizit benannt: fehlende Konnektivität, geringe digitale Literacy und technische Einschränkungen reduzieren Wirksamkeit und Beteiligung und erfordern kompensierende Unterstützungsstrukturen. [@liverano_educational_2024] [@compagnoni_we_2024]
 
@@ -442,7 +442,7 @@ Barrieren werden als Effektfaktoren explizit benannt: fehlende Konnektivität, g
 >
 > Technologische Einschränkungen können die Nutzung und das Engagement der Teilnehmer beeinträchtigen. [@compagnoni_we_2024]
 
-#### DPBL/Online-Formate: Zufriedenheit, Umsetzung & Forschungsbedarf
+ **DPBL/Online-Formate: Zufriedenheit, Umsetzung & Forschungsbedarf**
 
 FU2b verknüpft Effekte digitaler Formate auch mit Mixed-Outcomes und Implementationsfragen: DPBL wird als wirksam für Wissens- und Fähigkeitsentwicklung beschrieben, während Zufriedenheit/Attitudes teils gemischt ausfallen; zugleich werden Forschungs- und Interventionsbedarfe betont. [@tudor_car_digital_2019] [@bail_technostresserleben_2024]
 
@@ -450,7 +450,7 @@ FU2b verknüpft Effekte digitaler Formate auch mit Mixed-Outcomes und Implementa
 >
 > Notwendigkeit weiterer empirischer Studien und Interventionsstudien, um Coping-Strategien zu entwickeln und umzusetzen. [@bail_technostresserleben_2024]
 
-#### Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren
+ **Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren**
 
 Effekte werden als abhängig von Lernvoraussetzungen und Lehrhandeln beschrieben: Vorwissen verschiebt die Qualität gemeinsamer Steuerung, und Lehrkraftunterstützung wirkt nicht linear, sondern kontextspezifisch (z.B. Monitoring vs. Evaluation). [@schulz_game_2024] [@rieser_gemeinsame_2025]
 
@@ -458,7 +458,7 @@ Effekte werden als abhängig von Lernvoraussetzungen und Lehrhandeln beschrieben
 >
 > Untersucht wird die Qualität der Lernsteuerung in Verbindung mit Vorwissen, Selbstkonzept und Lehrerhandeln. [@rieser_gemeinsame_2025]
 
-#### Technostress & Beanspruchung durch digitale Medien
+ **Technostress & Beanspruchung durch digitale Medien**
 
 FU2b markiert Technostress/Beanspruchung als negativen Effektfaktor auf Seiten der Lehrenden: techno-overload/uncertainty sowie unzureichende Infrastruktur und Support erscheinen als Belastungsquellen, die Umsetzung und Qualität digitaler Lehr-Lern-Arrangements beeinträchtigen können. [@bail_technostresserleben_2024] [@annemann_beanspruchung_2024]
 
@@ -480,7 +480,7 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU3 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU3}
+**FU3 – Analyse dritter Ordnung (P‑QIA)** {#sec:A-9-FU3}
 
 **Kurztext**
 
@@ -537,7 +537,7 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Interaktivität, Zufriedenheit & Engagement
+**Interaktivität, Zufriedenheit & Engagement**
 
 FU3 rekonstruiert Interaktivität als zentrales Merkmal digitaler Lernumgebungen: Interaktive Funktionen werden nicht nur als „nice to have“, sondern als Treiber von Engagement und Nutzungsstabilität beschrieben. Damit wird Interaktivität zur didaktischen und technologischen Gestaltungsdimension, die sich in unterschiedlichen Kontexten ähnlich auswirkt. [@wut_engaging_2024] [@chen_comparing_2018]
 
@@ -545,7 +545,7 @@ FU3 rekonstruiert Interaktivität als zentrales Merkmal digitaler Lernumgebungen
 >
 > Interaktivität … beeinflusst Zufriedenheit und die kontinuierliche Nutzung von MOOCs. [@chen_comparing_2018]
 
-#### Technologieintegration & Medienpraktiken
+**Technologieintegration & Medienpraktiken**
 
 Ein wiederkehrendes Muster ist die Betonung von Integration statt Insellösungen: Digitale Medien werden als wirksam und „qualitätsrelevant“ beschrieben, wenn sie in Unterrichts- und Studienpraktiken eingebettet sind. FU3 macht damit deutlich, dass didaktische und technologische Merkmale gemeinsam betrachtet werden müssen (Tool + Einsatzpraxis). [@siewert_gut_2022] [@habib_flexible_2023]
 
@@ -553,7 +553,7 @@ Ein wiederkehrendes Muster ist die Betonung von Integration statt Insellösungen
 >
 > Digitale Plattformen und Tools dienen der Flexibilisierung von Studium und Lehre. [@habib_flexible_2023]
 
-#### Digitale Kompetenzen & Qualifizierung
+**Digitale Kompetenzen & Qualifizierung**
 
 FU3 bündelt zahlreiche Segmente, die Kompetenzen als Voraussetzung der Nutzung und als Ziel von Entwicklungsprozessen beschreiben: Lehrende und Lernende benötigen digitale Kompetenzen, damit technologische Angebote didaktisch produktiv werden. Qualifizierung erscheint dabei sowohl als individueller als auch organisationaler Prozess (Kompetenzmanagement). [@christian_fachliche_2021] [@hammaren_management_2024]
 
@@ -561,7 +561,7 @@ FU3 bündelt zahlreiche Segmente, die Kompetenzen als Voraussetzung der Nutzung 
 >
 > Identifiziert werden u.a. Praktiken des Kompetenzmanagements und der Kompetenzförderung. [@hammaren_management_2024]
 
-#### Blended Learning, Learning Analytics & Design-Based Ansätze
+**Blended Learning, Learning Analytics & Design-Based Ansätze**
 
 FU3 weist Blended-/Hybridformate als wiederkehrendes didaktisches Design aus: Sie werden als flexible Struktur beschrieben, in der Präsenz und Online-Anteile kombiniert werden. Gleichzeitig treten learning-analytics-gestützte Designs und designorientierte Evaluationslogiken hervor, die technologische Merkmale (Daten/Spuren) unmittelbar mit didaktischen Entscheidungen koppeln. [@volk_online_2024] [@sommer_entwicklung_2022]
 
@@ -569,7 +569,7 @@ FU3 weist Blended-/Hybridformate als wiederkehrendes didaktisches Design aus: Si
 >
 > Blended Learning wird als effektive Methode für eine flexible Lernumgebung dargestellt. [@sommer_entwicklung_2022]
 
-#### Kollaboration, Teamarbeit & Kommunikation
+**Kollaboration, Teamarbeit & Kommunikation**
 
 Kollaboration erscheint als didaktisches Kernmerkmal digitaler Lernumgebungen: Teamarbeit, virtuelle Gruppenprozesse und kommunikative Praktiken strukturieren Aufgaben und Lernhandlungen. Die Segmente markieren damit soziale Arrangements als integrierten Teil technologisch vermittelter Lehr-Lern-Settings. [@fink-heitz_dokumentation_2015] [@chang-tik_collaborative_2023]
 
@@ -577,7 +577,7 @@ Kollaboration erscheint als didaktisches Kernmerkmal digitaler Lernumgebungen: T
 >
 > Teamarbeit wird durch kollaborative und problemorientierte Aufgaben gezielt gefördert. [@chang-tik_collaborative_2023]
 
-#### Moodle-Ökosystem, OER & Plugins
+**Moodle-Ökosystem, OER & Plugins**
 
 FU3 enthält zahlreiche technisch-konkrete Beschreibungen von Plattformökosystemen: Moodle wird als Hub für Materialien, Quizzes, Foreninteraktionen und OER-Integration dargestellt. Dadurch wird sichtbar, dass technologische Merkmale (Plugins, Tools, OER-Portale) als didaktische Möglichkeitsräume interpretiert werden. [@nguyen_model_2024] [@hausler_nachhaltig_2025]
 
@@ -585,7 +585,7 @@ FU3 enthält zahlreiche technisch-konkrete Beschreibungen von Plattformökosyste
 >
 > Moodle, H5P, OER‑Portale und Indexstrukturen werden als zusammenhängendes Ökosystem beschrieben. [@hausler_nachhaltig_2025]
 
-#### Lehr-Lerneffektivität & Wirksamkeitsbefunde
+ **Lehr-Lerneffektivität & Wirksamkeitsbefunde**
 
 Als Verdichtung von „Merkmalen“ treten wiederholt Wirksamkeitsbefunde auf: Technologische und didaktische Gestaltungen werden daraufhin bewertet, ob sie Kompetenzen verbessern, effizienter sind oder lernwirksame Prozesse unterstützen. FU3 verknüpft damit Merkmalsbeschreibungen und Evaluationslogiken, ohne dass ein einheitliches Outcome-Set dominiert. [@lukaschek_applicability_2019] [@meinert_examining_2019]
 
@@ -593,7 +593,7 @@ Als Verdichtung von „Merkmalen“ treten wiederholt Wirksamkeitsbefunde auf: T
 >
 > Wirksamkeit digitaler Lehrmethoden wird über Kompetenzzuwächse und kommunikative Fähigkeiten operationalisiert. [@lukaschek_applicability_2019]
 
-#### Feedback, Evaluation & Lernindikatoren
+**Feedback, Evaluation & Lernindikatoren**
 
 FU3 macht sichtbar, dass didaktisch-technologische Merkmale nicht nur „gebaut“, sondern auch gemessen und rückgekoppelt werden: Lernindikatoren (z.B. Blickmuster) und Evaluationen (Skalen, Wahrnehmungen) dienen als Belege für Passung oder Optimierungsbedarf. Damit wird Feedback als Querschnittsmerkmal zwischen Design und Nutzung positioniert. [@oldenburg_blickmuster_2025] [@hellmuth_soziales_2021]
 
@@ -601,7 +601,7 @@ FU3 macht sichtbar, dass didaktisch-technologische Merkmale nicht nur „gebaut�
 >
 > Motivation und positive Wahrnehmung werden als Evaluationsergebnisse zur Akzeptanz/Passung berichtet. [@hellmuth_soziales_2021]
 
-#### Zielgruppen, Kontextbedingungen & Implementationsrahmen
+**Zielgruppen, Kontextbedingungen & Implementationsrahmen**
 
 Die FU3-Segmente verankern Merkmalsdiskussionen häufig in konkreten Zielgruppen und Settings: Studien beschreiben Populationen, institutionelle Rahmen und Implementationsbedingungen. Dadurch wird deutlich, dass didaktisch-technologische Merkmale nicht universell, sondern kontextsensitiv verhandelt werden. [@shulgina_online_2024] [@chairuddin_utilization_2024]
 
@@ -609,7 +609,7 @@ Die FU3-Segmente verankern Merkmalsdiskussionen häufig in konkreten Zielgruppen
 >
 > Nutzungsszenarien von LMS werden in unterschiedlichen Bildungskontexten beschrieben. [@chairuddin_utilization_2024]
 
-#### LMS-Architektur, Adaptivität & kognitive Belastung
+**LMS-Architektur, Adaptivität & kognitive Belastung**
 
 Ein technischer Schwerpunkt liegt auf Architektur- und Adaptivitätsfragen: Die Segmente thematisieren, wie LMS gestaltet sein müssen, um kognitive Belastung zu reduzieren oder adaptive Anpassungen zu ermöglichen. Gleichzeitig treten Grenzen proprietärer Systeme (z.B. Kosten) als strukturelle Merkmale hervor, die Gestaltungsspielräume einschränken. [@suryani_initial_2024] [@sims_learning_2021]
 
@@ -617,7 +617,7 @@ Ein technischer Schwerpunkt liegt auf Architektur- und Adaptivitätsfragen: Die 
 >
 > Preis/Proprietarität wird als zentrale Begrenzung von LMS-Plattformen benannt. [@sims_learning_2021]
 
-#### Qualitative Studien & Erfahrungsberichte
+**Qualitative Studien & Erfahrungsberichte**
 
 FU3 enthält viele qualitative Zugriffe auf Merkmale: Reflexionsberichte, Interviews und Beobachtungen rekonstruieren, wie Lernende und Lehrende didaktisch-technologische Settings erleben. Dadurch wird „Merkmal“ als erfahrungsbezogene, interpretierte Größe sichtbar, nicht nur als technische Spezifikation. [@syynimaa_higher_2024] [@al_mamun_cognitive_2024]
 
@@ -625,7 +625,7 @@ FU3 enthält viele qualitative Zugriffe auf Merkmale: Reflexionsberichte, Interv
 >
 > Interviews und Beobachtungen strukturieren, welche Merkmale im Nutzungsvollzug relevant werden. [@al_mamun_cognitive_2024]
 
-#### Instruktionsdesign-Modelle & Bewertungsrahmen
+**Instruktionsdesign-Modelle & Bewertungsrahmen**
 
 FU3 zeigt eine explizite Modellorientierung: Gestaltungsentscheidungen werden über Instruktionsdesignmodelle strukturiert oder über Bewertungsrahmen (z.B. SAMR) eingeordnet. Damit werden didaktische und technologische Merkmale nicht nur empirisch beschrieben, sondern auch normativ gerahmt (Was gilt als „gute“ Integration?). [@de_leeuw_9-step_2019] [@siewert_gut_2022]
 
@@ -633,7 +633,7 @@ FU3 zeigt eine explizite Modellorientierung: Gestaltungsentscheidungen werden ü
 >
 > SAMR wird als Raster zur Bewertung und Weiterentwicklung digitaler Unterrichtsmethoden genutzt. [@siewert_gut_2022]
 
-#### Systemanpassung & Personalisierung
+**Systemanpassung & Personalisierung**
 
 Ein weiteres Muster ist die Kopplung von Technologie an Anpassungslogiken: Curricula und Systeme sollen an mediatisierte Anforderungen angepasst werden; zugleich wird Personalisierung als Reaktion auf heterogene Bedürfnisse sichtbar. Damit wird „Merkmal“ als Passung zwischen System und Nutzung verstanden. [@sektion_medienpadagogik_orientierungsrahmen_2017] [@gu_when_2023]
 
@@ -641,7 +641,7 @@ Ein weiteres Muster ist die Kopplung von Technologie an Anpassungslogiken: Curri
 >
 > LMS-Anpassungen werden an spezifische Bedürfnisse und Verhaltensweisen der Lernenden geknüpft. [@gu_when_2023]
 
-#### Usability & Barrierefreiheit (WCAG, Audits)
+**Usability & Barrierefreiheit (WCAG, Audits)**
 
 FU3 differenziert Usability/Accessibility als eigenständige Dimension: Neben didaktischen Überlegungen werden Prüfpraktiken (Stakeholderfeedback, Audits) sichtbar, die technische und gestalterische Qualität absichern sollen. Das verschiebt „Merkmal“ von reiner Funktionalität zu Nutzbarkeit und Zugänglichkeit. [@rowert_ergebnisse_2023] [@hausler_nachhaltig_2025]
 
@@ -649,7 +649,7 @@ FU3 differenziert Usability/Accessibility als eigenständige Dimension: Neben di
 >
 > WCAG- und Usability-Audits werden als standardisierte Evaluationspraktiken dokumentiert. [@hausler_nachhaltig_2025]
 
-#### Theoriebezüge (z.B. SDT) & Rahmenkonzepte
+**Theoriebezüge (z.B. SDT) & Rahmenkonzepte**
 
 Schließlich zeigt FU3, dass Merkmale häufig theoretisch gerahmt werden: Motivation, Integration und „Qualität“ digitaler Lehre werden an Rahmenkonzepte (z.B. SDT, SAMR, Visible Learning) gekoppelt. Das stärkt die Anschlussfähigkeit der Merkmalsdiskussion an bestehende theoretische Diskurse. [@fahr_digitalisierung_2025] [@fahr_kompetenz-_2025]
 
@@ -671,7 +671,7 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU4a – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU4a}
+**FU4a – Analyse dritter Ordnung (P‑QIA)** {#sec:A-9-FU4a}
 
 **Kurztext**
 
@@ -722,7 +722,7 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Learning Analytics & datenbasierte Steuerung
+ **Learning Analytics & datenbasierte Steuerung**
 
 FU4a rekonstruiert datenbasierte Rückkopplung als zentralen Mechanismus: Learning Analytics wird genutzt, um Teaminteraktionen und Lernprozesse sichtbar zu machen, Reflexion anzuregen und Feedback zu strukturieren. Damit wird „Mechanismus“ als beobachtbare, aus Daten abgeleitete Prozessstruktur greifbar. [@yan_evidencebased_2024] [@yildiz_durak_impact_2024]
 
@@ -730,7 +730,7 @@ FU4a rekonstruiert datenbasierte Rückkopplung als zentralen Mechanismus: Learni
 >
 > ML-LA-Feedback … Einfluss auf akademische Leistung, Engagement und Systemnutzung. [@yildiz_durak_impact_2024]
 
-#### Organisationskultur & institutionelle Rahmung
+ **Organisationskultur & institutionelle Rahmung**
 
 Mechanismen werden nicht allein im „Tool“ lokalisiert, sondern in Organisationskulturen und institutionellen Routinen: Wie digitale Medien genutzt werden (und welche Effekte plausibel werden) hängt an Praktiken, Orientierungen und an der Einbettung von Medienbildung in Institutionenlogiken. [@weihmayer_herumdoppeln_2023] [@schiefner-rohs_medienbildung_2017]
 
@@ -738,7 +738,7 @@ Mechanismen werden nicht allein im „Tool“ lokalisiert, sondern in Organisati
 >
 > Medienbildung wird als kulturelle Gestaltungsaufgabe im Kontext einer „Kultur der Digitalität“ gefasst. [@schiefner-rohs_medienbildung_2017]
 
-#### Ethik, Verantwortung & medienpädagogische Grundlegung
+ **Ethik, Verantwortung & medienpädagogische Grundlegung**
 
 FU4a bündelt normative Mechanismen: Digitale Bildungsräume werden als verantwortungsgebundene Arrangements beschrieben, in denen didaktische Kernelemente (z.B. Forschendes Lernen) unter Onlinebedingungen erhalten und zugleich ethisch reflektiert werden müssen. Gleichzeitig wird die Grundlegung über disziplinäre Rollen und institutionelle Bedingungen der Wissensproduktion markiert. [@haltaufderheide_medizinethik_2022] [@weich_bildungsauftrag_2023]
 
@@ -746,7 +746,7 @@ FU4a bündelt normative Mechanismen: Digitale Bildungsräume werden als verantwo
 >
 > Medienwissenschaftliche Perspektiven und institutionelle Bedingungen strukturieren die Reflexion digitaler Bildung. [@weich_bildungsauftrag_2023]
 
-#### Personalisierung, Lernendenmodelle & Differenzierung
+ **Personalisierung, Lernendenmodelle & Differenzierung**
 
 Ein weiterer Mechanismus ist Passung durch Anpassung: Lernendenmodelle, Profile und Typologien strukturieren, wie Interventionen gezielt werden können. FU4a zeigt damit eine Logik, in der Wirkung nicht „gleichförmig“ erwartet wird, sondern differenziert über Profile und adaptive Pfade erzeugt werden soll. [@kostolanyova_adaptation_2011] [@zhou_latent_2025]
 
@@ -754,7 +754,7 @@ Ein weiterer Mechanismus ist Passung durch Anpassung: Lernendenmodelle, Profile 
 >
 > Differenzierte Profile ermöglichen gezielte Bildungsinterventionen. [@zhou_latent_2025]
 
-#### Engagement, Aufgabenbearbeitung & soziale Dynamiken
+ **Engagement, Aufgabenbearbeitung & soziale Dynamiken**
 
 FU4a macht Engagement als Prozess sichtbar: Beteiligung wird über Aufgabenbearbeitung, Gruppenarbeit und kulturell geprägte Interaktionsformen (z.B. Wettbewerb, Machtdistanz) rekonstruiert. Damit wird „Mechanismus“ als sozial-dynamischer Zusammenhang zwischen Interaktionsform, Engagement und Zufriedenheit beschrieben. [@zhu_online_2011] [@yildiz_durak_impact_2024]
 
@@ -762,7 +762,7 @@ FU4a macht Engagement als Prozess sichtbar: Beteiligung wird über Aufgabenbearb
 >
 > Mit ML-LA-Feedback waren Studierende aktiver in Diskussionen, Aufgaben und Gruppenarbeit. [@yildiz_durak_impact_2024]
 
-#### Affekte, Selbstwirksamkeit & (Nicht-)Signifikanz
+ **Affekte, Selbstwirksamkeit & (Nicht-)Signifikanz**
 
 Neben positiven Wirkannahmen dokumentiert FU4a auch Grenz- und Nullbefunde: Selbstwirksamkeit und Affekte treten als relevante, aber nicht durchgängig klar wirksame Mechanismen auf. Das stabilisiert die Interpretation, dass Mechanismen kontext- und interventionsabhängig sind. [@janeczko_forderung_2024] [@vagt_virtuelle_2024]
 
@@ -770,7 +770,7 @@ Neben positiven Wirkannahmen dokumentiert FU4a auch Grenz- und Nullbefunde: Selb
 >
 > Virtuelle Gruppen zeigen weniger intensive negative Affekte; dies wirkt auf Gruppenentwicklung. [@vagt_virtuelle_2024]
 
-#### Systemtheorie, Vielfalt & kulturelle Kontextualisierung
+ **Systemtheorie, Vielfalt & kulturelle Kontextualisierung**
 
 FU4a integriert systemtheoretische Mechanismen: „Variety“ und Anpassungsfähigkeit werden als Bedingungen von Steuerung in komplexen Systemen beschrieben. Ergänzend wird kulturelle Passung (und inklusives Design) als Mechanismus sichtbar, der Missverständnisse und Verzerrungen adressiert. [@turk_vielfalt_1978] [@hashmi_exploring_2025]
 
@@ -778,7 +778,7 @@ FU4a integriert systemtheoretische Mechanismen: „Variety“ und Anpassungsfäh
 >
 > Kulturelle Unterschiede erfordern Strategien zur Förderung inklusiver digitaler Bildungsumgebungen. [@hashmi_exploring_2025]
 
-#### Konstruktivistische Lernmechanismen & Kollaboration
+ **Konstruktivistische Lernmechanismen & Kollaboration**
 
 FU4a verdichtet eine konstruktivistische Grundannahme: Lernwirksamkeit entsteht nicht aus Technologie selbst, sondern aus kognitiv-aktiven, kontextualisierten und kollaborativen Lernhandlungen (Peer-Learning, Selbst-/Peer-Assessment). Damit werden Mechanismen als Handlungs- und Interaktionslogiken gefasst. [@bastiaens_gestaltung_2017] [@maphalala_online_2021]
 
@@ -786,7 +786,7 @@ FU4a verdichtet eine konstruktivistische Grundannahme: Lernwirksamkeit entsteht 
 >
 > Peer-Learning sowie Selbst- und Peer-Assessment werden als Strategien zur Bewältigung von Online-Lernen beschrieben. [@maphalala_online_2021]
 
-#### Aufmerksamkeit, Blickmuster & kognitive Prozesse (Eye-Tracking)
+ **Aufmerksamkeit, Blickmuster & kognitive Prozesse (Eye-Tracking)**
 
 Mechanismen werden auch diagnostisch erschlossen: Eye-Tracking wird genutzt, um Interaktion und Expertise über Blickmuster zu rekonstruieren. Dadurch werden kognitive Prozesse als beobachtbare Spuren im Nutzungsvollzug fassbar und können in didaktische Entscheidungen zurückübersetzt werden. [@valek_eye-tracking_2023] [@laubrock_gaze_2023]
 
@@ -794,7 +794,7 @@ Mechanismen werden auch diagnostisch erschlossen: Eye-Tracking wird genutzt, um 
 >
 > Blickmuster unterscheiden Expertise und antizipieren diagnostische Leistung. [@laubrock_gaze_2023]
 
-#### Didaktische Interventionstypologien & trialogische Formate
+ **Didaktische Interventionstypologien & trialogische Formate**
 
 FU4a weist auf Mechanismen der Formatgestaltung hin: didaktisch strukturierte, partizipative Arrangements (z.B. trialogische Austauschformate) erzeugen soziale Präsenz, Reflexion und Fallverstehen; typologische Profile liefern dabei eine Logik, Interventionen an unterschiedliche Ausgangslagen anzupassen. [@hubener_trialogische_2025] [@zhou_latent_2025]
 
@@ -802,7 +802,7 @@ FU4a weist auf Mechanismen der Formatgestaltung hin: didaktisch strukturierte, p
 >
 > Profile/Typologien dienen als Grundlage gezielter Interventionen. [@zhou_latent_2025]
 
-#### Feedback, formatives Assessment & Selbstregulation
+ **Feedback, formatives Assessment & Selbstregulation**
 
 Feedback erscheint als Kernmechanismus der Steuerung: Es wird als dialogischer Prozess verstanden, der Selbstregulation unterstützt, Lernlücken sichtbar macht und wiederholtes Üben gezielt stabilisiert. FU4a koppelt damit Mechanismen (Regulation) und didaktische Instrumente (Assessment/Feedback). [@nicol_formative_2006] [@velan_integrated_2008]
 
@@ -810,7 +810,7 @@ Feedback erscheint als Kernmechanismus der Steuerung: Es wird als dialogischer P
 >
 > Formative Assessments mit automatisiertem Feedback unterstützen Leistung und Lernlückendiagnostik. [@velan_integrated_2008]
 
-#### Iterative Verbesserung, Trainingseffekte & Kompetenzentwicklung
+ **Iterative Verbesserung, Trainingseffekte & Kompetenzentwicklung**
 
 Mechanismen werden schließlich als Verbesserungsschleifen sichtbar: Wiederholung, Iteration und Training in realistischen (digitalisierten) Kontexten führen zu Kompetenzzuwächsen und zu veränderten Wahrnehmungen über Zeit. Damit wird „Wirkung“ prozessual als Entwicklung modelliert. [@wuttke_technologiebasiertes_2024] [@velan_integrated_2008]
 
@@ -832,7 +832,7 @@ Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über I
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU4b – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU4b}
+ **FU4b – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU4b}**
 
 **Kurztext**
 
@@ -883,51 +883,51 @@ Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über I
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Soziotechnische Plattformgestaltung & Datenvisualisierung
+ **Soziotechnische Plattformgestaltung & Datenvisualisierung**
 
 FU4b zeigt, dass LMS-Mechanismen nicht nur „Funktionen“ sind, sondern Praxisformen mitproduzieren: Visualisierungen, Dashboards und grafische Strukturen strukturieren Wahrnehmung, Handlungsoptionen und damit die Nutzung in Lehr-Lern-Kontexten. [@brandau_visualising_2024] Logdatenanalysen ergänzen diesen Zugriff, indem sie Nutzungsmuster als Grundlage von Gestaltung und Intervention ausweisen. [@klose_decrypting_2022]
 
-#### Dialogisches Feedback & Rückkopplungsfunktionen
+ **Dialogisches Feedback & Rückkopplungsfunktionen**
 
 Ein zentrales Mechanismenbündel ist Feedback: FU4b rekonstruiert Feedbacksysteme als technisch verankerte Dialogstrukturen (Kontextintegration, Anonymität, Analysefunktionen), die Rückkopplung zwischen Lernenden und Lehrenden stabilisieren. [@kasakowskij_supporting_2025] E-Portfolio-Arrangements erweitern diese Logik um reflexive Dokumentation und kollaborative Selbststeuerung. [@handl_pimp_2016]
 
-#### LMS-Implementationshürden in der Online-Lehre (Gesundheitsberufe)
+ **LMS-Implementationshürden in der Online-Lehre (Gesundheitsberufe)**
 
 FU4b macht Implementationsbedingungen explizit: Evidenzbasierte didaktische Methoden (z.B. ICM) werden zusammen mit LMS/Analytics als Infrastruktur genannt, die neue Lehrformate trägt. [@brandt_digitale_nodate] Gleichzeitig werden typische Hürden (digitale Erfahrung, Teilnehmerzahl, Kommunikationsorganisation) und pragmatische Maßnahmen (Checklisten, Breakouts) als notwendige Begleitmechanismen sichtbar. [@hattula_lehren_2021]
 
-#### Datenschutz, Offline-Funktionalität & agile Entwicklung
+ **Datenschutz, Offline-Funktionalität & agile Entwicklung**
 
 Ein technischer Kernmechanismus betrifft Robustheit unter Realbedingungen: Offline-Funktionalität, Wartbarkeit und Datensicherheit werden als Bedingungen von Zugänglichkeit und Akzeptanz beschrieben. [@ramos_development_2024] Ergänzend werden agile Entwicklungspraktiken als Mechanismus der Passungsherstellung rekonstruiert, indem iterativ (Sprints) und feedbackbasiert Funktionen (z.B. LMS-Plugins) entwickelt werden. [@fey_agile_2023]
 
-#### Logdaten, Eye-Tracking & Nutzungsanalytik im LMS
+ **Logdaten, Eye-Tracking & Nutzungsanalytik im LMS**
 
 FU4b nutzt datenbasierte Diagnose, um Mechanismen sichtbar zu machen: Eye-Tracking und Logdatenanalysen dienen dazu, Interaktion, Aufmerksamkeit und Outcome-Bezüge zu rekonstruieren und Gestaltung zu begründen. [@valek_eye-tracking_2023] [@klose_decrypting_2022]
 
-#### Digitale Transformation & Kompetenzintegration
+ **Digitale Transformation & Kompetenzintegration**
 
 Technologische Mechanismen werden in FU4b häufig curricular gerahmt: Digitale Kompetenzen (inkl. KI/Telemedizin) werden als Lernziele verankert und bilden den Kontext, in dem LMS als Infrastruktur der Transformation fungiert. [@brandt_digitale_nodate] Reifegradmodelle strukturieren diese Transformationslogik über Dimensionen wie Strategie, Kultur und Technologieentwicklung. [@seufert_gestaltung_2022]
 
-#### Technische Evaluation, Robustheit & Systemleistung
+ **Technische Evaluation, Robustheit & Systemleistung**
 
 Neben Didaktik tritt Technikqualität als Mechanismus auf: Systemleistung, Zuverlässigkeit und Wartungsanforderungen werden als Voraussetzungen dafür beschrieben, dass LMS-Mechanismen (Kommunikation, Content, Feedback) überhaupt wirksam werden können. [@ramos_development_2024] [@asilo_designing_2024]
 
-#### Mess-/Analyse-Tooling (Eye-Tracking, Annotation, Visualisierung)
+ **Mess-/Analyse-Tooling (Eye-Tracking, Annotation, Visualisierung)**
 
 FU4b zeigt, dass bildungstechnologische Mechanismen häufig über Tooling erschlossen werden: Open-Source-Software zur Synchronisierung/Annotation/Visualisierung von Blick- und Kontextdaten macht Interaktion analysierbar. [@niehorster_glassesviewer_2020] Skalierbare Eye-Tracking-Ansätze (Webcam-basiert) werden als Enabler beschrieben, um Nutzungsdaten in realen Settings zu erfassen. [@papoutsaki_webgazer_nodate-1]
 
-#### Vergleichs- und Wirksamkeitsdesigns (Kompetenz, Zufriedenheit)
+ **Vergleichs- und Wirksamkeitsdesigns (Kompetenz, Zufriedenheit)**
 
 Mechanismen werden empirisch über Vergleichsdesigns stabilisiert: Kompetenz- und Zufriedenheitsoutcomes dienen als Indikatoren, um technologische/didaktische Varianten zu bewerten und als „wirksam“ zu legitimieren. [@lee_cognitive_2018] [@katz_simulation_2017]
 
-#### Reflexion, E-Portfolios & Praxis-Theorie-Transfer
+ **Reflexion, E-Portfolios & Praxis-Theorie-Transfer**
 
 E-Portfolios erscheinen als Mechanismus der Selbststeuerung: Dokumentation, Reflexion und Feedback werden über Plattformfunktionen (Mahara/Portfolio-Settings) in Praxisphasen eingebunden und ermöglichen Transfer zwischen Theorie und Anwendung. [@handl_pimp_2016] [@keller_stefan_d_e-portfolios_2016]
 
-#### Content/Videoressourcen & nachhaltige Integration
+ **Content/Videoressourcen & nachhaltige Integration**
 
 FU4b enthält zudem einen Content-Mechanismus: Videos und digitale Materialien werden entlang von Nützlichkeits- und Qualitätsdimensionen bewertet und als Ressourcen in Lehrpraxis eingebunden. [@chen_effectiveness_2013] Gleichzeitig wird Nachhaltigkeit als Problem sichtbar: Technische Verfügbarkeit allein führt nicht zu stabiler didaktischer Integration. [@gossling_potenziale_2023]
 
-#### Evidenzbasierte Kursgestaltung & Evaluation digitaler Lernräume
+ **Evidenzbasierte Kursgestaltung & Evaluation digitaler Lernräume**
 
 Schließlich werden Evaluationslogiken selbst zum Mechanismus: Stakeholder-Perspektiven, Kursgestaltung und neue Evaluationsformen (z.B. in-game Interaktionsdaten) strukturieren, wie digitale Lernräume legitimiert, angepasst und weiterentwickelt werden. [@egloffstein_evidence-based_2024] [@chandross_tripping_2020]
 
@@ -945,7 +945,7 @@ FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisat
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU5 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU5}
+ **FU5 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU5}**
 
 **Kurztext**
 
@@ -1000,59 +1000,59 @@ FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisat
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Professionalisierung & Materialpraktiken (Teilen/Erstellen)
+ **Professionalisierung & Materialpraktiken (Teilen/Erstellen)**
 
 FU5 zeigt Möglichkeiten und Grenzen im Alltag der Lehrenden: Professionalisierung wird an Materialpraktiken sichtbar, insbesondere am Spannungsfeld zwischen eigener Erstellung, Teilen/Nutzen und rechtlich-organisatorischen Barrieren. [@alberti_vanessa_digitale_2022] [@buntins_material_2024]
 
-#### Usability, Akzeptanz & technische Herausforderungen
+ **Usability, Akzeptanz & technische Herausforderungen**
 
 Ein wiederkehrendes Muster ist, dass Chancen digitaler Angebote stark von Usability, Zugang und konsistenter Implementierung abhängen. FU5 markiert hier Grenzen: selbst „wirksame“ Plattformen bleiben auf Akzeptanz- und Schnittstellenprobleme angewiesen. [@yousef_usability_2015] [@babik_systematic_2024]
 
-#### Soziale Dynamiken, Isolation & Medienabhängigkeit
+ **Soziale Dynamiken, Isolation & Medienabhängigkeit**
 
 FU5 umfasst ambivalente Befunde: Digitale Medien können soziale Interaktion stützen (z.B. bei älteren Lernenden), aber zugleich sozialen Druck, Problemnutzung und Isolation verstärken. Damit werden Grenzen nicht nur technisch, sondern sozialpsychologisch greifbar. [@ofner_digitale_nodate] [@liyanagunawardena_elderly_2016]
 
-#### Blended/Hybrid: Flexibilität, Performance & Bewertungsmixe
+ **Blended/Hybrid: Flexibilität, Performance & Bewertungsmixe**
 
 Blended-/Hybridformate erscheinen als pragmatischer Möglichkeitsraum: Flexibilität wird positiv bewertet, während Leistungsbefunde differenziert ausfallen (z.B. Vorteile in Gruppenarbeiten bei gleichbleibenden Einzelprüfungsleistungen). Zugleich zeigt FU5, dass hybride Bewertungsmixe (digital + menschlich) als robuste Lösung gelten. [@regmi_students_2024] [@daas_qatar_2024]
 
-#### MOOCs: Wirksamkeit, Skalierung & virtuelle Patienten
+ **MOOCs: Wirksamkeit, Skalierung & virtuelle Patienten**
 
 FU5 verdichtet MOOCs als Skalierungsmechanismus mit Qualitätsfragen: Evaluationen zielen auf Wirksamkeit, während Implementationsfragen (z.B. technische Infrastruktur/Cloud) und didaktische Gestaltung (virtuelle Patienten) als Grenzen und Gestaltungspunkte sichtbar werden. [@alturkistani_data_2019] [@kononowicz_virtual_2015]
 
-#### Interaktivität & Motivation (inkl. Analytics-Unterstützung)
+ **Interaktivität & Motivation (inkl. Analytics-Unterstützung)**
 
 Ein zentrales Chancenfeld ist Motivation/Engagement: Gamifizierte Tests und interaktive Arrangements werden mit Leistungs- und Einstellungsverbesserungen verknüpft; learning-analytics-gestützte Interaktionsförderung wird als zusätzlicher Hebel beschrieben. [@zhang_exploring_2024] [@majid_promoting_2024]
 
-#### Digitale Kompetenzmodelle & fachdidaktische Förderung
+ **Digitale Kompetenzmodelle & fachdidaktische Förderung**
 
 FU5 zeigt, dass „Möglichkeiten“ zunehmend als Kompetenzfrage gefasst werden: Digitale Kompetenzen sollen in bestehende Kompetenzmodelle integriert werden; fachdidaktisch werden digitale Medien als Mittel zur Förderung prozessbezogener Kompetenzen (z.B. Argumentieren) operationalisiert. [@alberti_vanessa_digitale_2022] [@dilling_argumentieren_2023]
 
-#### Rollenqualifizierung, Nutzungsmuster & Ungleichheit
+ **Rollenqualifizierung, Nutzungsmuster & Ungleichheit**
 
 Grenzen treten als ungleiche Nutzungsmuster und als Rollen-/Qualifizierungsbedarf hervor: Online-Lernen kann kompensatorisch wirken, bleibt aber sozial ungleich verteilt; zugleich werden spezifische Rollen (z.B. Praxisanleitung) durch Blended-Learning-Module adressiert. [@kleinert_work-related_2021] [@lutz_hochschulische_2023]
 
-#### LMS-Erfolg/Wirksamkeit: Modelle, Evaluationen & Effekte
+ **LMS-Erfolg/Wirksamkeit: Modelle, Evaluationen & Effekte**
 
 FU5 verdichtet Möglichkeiten und Grenzen über Evaluationslogiken: Erfolgsmodelle strukturieren, was als „funktionierend“ gilt (Nutzung, Qualität, Nutzen), während positive Effekte (z.B. Sicherheitsgewinne) als Ergebnis von Kurs-/Systemgestaltung berichtet werden. [@mtebe_learning_2015] [@jansen_kliniksanitater_2021]
 
-#### Selbstgesteuertes Lernen & handlungsorientierte Gestaltung
+ **Selbstgesteuertes Lernen & handlungsorientierte Gestaltung**
 
 Mehrere Segmente markieren Selbststeuerung als Möglichkeitsraum: Plattformen unterstützen individuelles Lerntempo und Verständnis; handlungsorientierte Settings (z.B. Game-Design) verbinden Motivation, Kooperation und BNE‑Themen. [@platen_neue_2003] [@autenrieth_transformationsprozesse_2023]
 
-#### Feedbackformate, Moderatoren & Mixed Effects
+ **Feedbackformate, Moderatoren & Mixed Effects**
 
 FU5 macht deutlich, dass Effekte nicht linear sind: Feedback wirkt abhängig vom Format (Prozess vs. Ergebnis) und von moderierenden Bedingungen; zugleich bleiben manche Einflussfaktoren ohne signifikanten Effekt. Damit werden Grenzen der Generalisierbarkeit sichtbar. [@tepgec_feedback_2024] [@schmitz-feldhaus_carmen_nicht_2020]
 
-#### Micro-Credentials, Standards & inklusive Weiterentwicklung
+ **Micro-Credentials, Standards & inklusive Weiterentwicklung**
 
 Als weiteres Feld erscheinen Micro-Credentials/Standards und Inklusion: FU5 bündelt Hinweise, dass digitale Weiterentwicklung sowohl standardisierte, skalierbare Lösungen als auch inklusive Lehrmethoden adressieren muss. [@soltan_scalable_2024] [@huang_effects_2024]
 
-#### Barrieren, Support, Policies & Nutzungsrechte
+ **Barrieren, Support, Policies & Nutzungsrechte**
 
 Systemische Grenzen werden explizit benannt: fehlender Support, Policies und Awareness sowie Unsicherheiten über Nutzungsrechte wirken als „harte“ Barrieren, die Nutzung und nachhaltige Integration bremsen. [@mtebe_learning_2015] [@buntins_material_2024]
 
-#### Evaluation, Qualitätssicherung & Datenkreislauf
+ **Evaluation, Qualitätssicherung & Datenkreislauf**
 
 Schließlich ist Evaluation selbst ein Mechanismus der Begrenzung und Ermöglichung: Qualitätssicherung und Controlling werden als notwendig markiert; gleichzeitig kann der Datenkreislauf unvollständig bleiben, wenn Evaluation nicht konsequent reflektiert wird. [@hochholdinger_evaluation_2002] [@hase_datenbasierte_2024]
 
@@ -1070,7 +1070,7 @@ Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamifica
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU6 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU6}
+ **FU6 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU6}**
 
 **Kurztext**
 
@@ -1121,51 +1121,51 @@ Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamifica
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Systemanpassung, Zielgruppenfit & Infrastruktur
+ **Systemanpassung, Zielgruppenfit & Infrastruktur**
 
 FU6 rekonstruiert Kompetenzerwerb als Passungsproblem: Systeme und Angebote müssen an Zielgruppen und Infrastruktur angepasst werden, damit Lernhandlungen stabil möglich werden. [@oyekunle_cloud_2024] [@sailer_forderung_2025]
 
-#### Learning Analytics & personalisierte Interventionen
+ **Learning Analytics & personalisierte Interventionen**
 
 Learning Analytics erscheint als Steuerungsmechanismus eines Kompetenzerwerbssystems: Datenbasierte Diagnostik und Personalisierung sollen Lernstrategien fördern und Abbruchrisiken senken. [@yang_learning_2024] [@zakaria_intelligent_2022]
 
-#### KI/SRL, Partizipation & kollaborative Lernmechanismen
+ **KI/SRL, Partizipation & kollaborative Lernmechanismen**
 
 FU6 bündelt Segmente, in denen KI-gestützte Arrangements und SRL mit Partizipation und kollaborativen Formen verbunden werden: Kompetenzentwicklung wird als aktiver, interaktiver Prozess modelliert. [@go_lernen_2024] [@giannakos_promise_2024]
 
-#### MOOC-Nutzen & lernendenbezogene Perspektiven
+ **MOOC-Nutzen & lernendenbezogene Perspektiven**
 
 MOOCs fungieren als skalierbare Kompetenzräume, deren Nutzen aus Sicht der Lernenden über Motivation, Selbststeuerung und Teilnahmeentscheidungen beschrieben wird; Completion wird dabei als grober Erfolgsindikator verwendet. [@blum_benefits_2020] [@goldin_learning_2021]
 
-#### Qualitätswahrnehmung, Kulturmoderatoren & Engagement
+ **Qualitätswahrnehmung, Kulturmoderatoren & Engagement**
 
 Engagement wird als abhängig von Qualitätswahrnehmung und kulturellen Moderatoren rekonstruiert. Damit wird Qualität nicht nur als „Systemeigenschaft“, sondern als wahrgenommene Passung im Nutzungskontext verstanden. [@sharma_identification_2024]
 
-#### Qualitätsverständnis, Peer-Urteile & partizipative Entwicklung
+ **Qualitätsverständnis, Peer-Urteile & partizipative Entwicklung**
 
 FU6 weist Qualität als Prozessmechanismus aus: Peer-Urteile und partizipative Entwicklung verschieben Qualität von reiner Expert:innenprüfung hin zu Prozess- und Outputlogiken (Kompetenzentwicklung, Selbstorganisation). [@ebner_qualitatssicherung_2013] [@sailer_forderung_2025]
 
-#### Motivation, Selbstwirksamkeit & Gamification
+ **Motivation, Selbstwirksamkeit & Gamification**
 
 Motivation und Selbstwirksamkeit fungieren als innere „Trägermechanismen“ des Kompetenzerwerbs: Rückmeldungen und gamifizierte Elemente werden als Hebel beschrieben, die Selbstregulation und Persistenz stützen. [@yang_learning_2024] [@neugebauer_steigerung_2023]
 
-#### Technische Hürden, Usability-Probleme & Nutzungsabbrüche
+ **Technische Hürden, Usability-Probleme & Nutzungsabbrüche**
 
 FU6 markiert Grenzen des Kompetenzerwerbssystems durch technische und Usability-Probleme: Synchronisations- und Bedienhürden erscheinen als unmittelbare Gründe für reduzierte Nutzung und damit für ausbleibenden Kompetenzerwerb. [@nicklen_student_2016] [@ramos_development_2024]
 
-#### Moodle-basierte Schulung in Regionen/Settings
+ **Moodle-basierte Schulung in Regionen/Settings**
 
 Kompetenzerwerb wird in FU6 auch als Skalierungs- und Versorgungsthema sichtbar: Moodle-gestützte Schulungen werden genutzt, um Kompetenzen in spezifischen Regionen/Settings aufzubauen und zu prüfen. [@oliveira_development_2017] [@pan_randomized_2024]
 
-#### Digitale Kompetenz, Technikakzeptanz & Microteaching
+ **Digitale Kompetenz, Technikakzeptanz & Microteaching**
 
 Ein wiederkehrendes Muster ist „hands-on“: Kompetenz und Akzeptanz entstehen über praktische Anwendung in geschützten Settings (Microteaching), die Selbstwirksamkeitserfahrungen erzeugen. [@sailer_forderung_2025] [@tschupke_microteaching_2021]
 
-#### Kursdesign, Abschlussraten & Zufriedenheit
+ **Kursdesign, Abschlussraten & Zufriedenheit**
 
 FU6 nutzt Kurs- und Completiondaten sowie Zufriedenheit als Indikatoren, ob ein System als Kompetenzerwerbssystem funktioniert. Der Fokus liegt dabei auf Struktur/Passung und auf Anwendbarkeit. [@goldin_learning_2021] [@claflin_evaluating_2021]
 
-#### MOOC-Technologieintegration (Gesundheit/Schulung)
+ **MOOC-Technologieintegration (Gesundheit/Schulung)**
 
 MOOC-Plattformen werden als technische Infrastruktur für Kompetenzerwerb rekonstruiert, insbesondere im Gesundheitsspektrum: Technologieintegration ist hier an Reichweite, Zugänglichkeit und Wissensvermittlung gekoppelt. [@goldin_learning_2021] [@claflin_evaluating_2021]
 
@@ -1183,7 +1183,7 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
 - Keine Template-/Meta-Anker, keine Artefakte, saubere Zitationen: ja
 
-### FU7 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU7}
+ **FU7 – Analyse dritter Ordnung (P‑QIA) {#sec:A-9-FU7}**
 
 **Kurztext**
 
@@ -1230,43 +1230,43 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
-#### Didaktische Leitlinien & High-Impact Practices
+ **Didaktische Leitlinien & High-Impact Practices**
 
 FU7 verdichtet leitlinienartige Aussagen dazu, wie „hochwirksame“ Lernerfahrungen entstehen sollen. Ein wiederkehrendes Motiv ist die Abgrenzung kurzfristiger Performanceindikatoren von nachhaltigem Lernen. [@thimmappa_perspectives_2025] [@bauer_looking_2025]
 
-#### Integration multimodaler Lernsettings (Simulation/Modelling/Reflexion)
+ **Integration multimodaler Lernsettings (Simulation/Modelling/Reflexion)**
 
 Ein zweites Muster betont Integration: Audio/Video/Simulation/Modellierung werden als kombinierbare Bausteine beschrieben, die Lernvertiefung und Reflexion unterstützen sollen. [@thimmappa_perspectives_2025] [@paszynski_online_2025]
 
-#### KI-gestützte Frameworks: Augmentation statt Substitution
+ **KI-gestützte Frameworks: Augmentation statt Substitution**
 
 FU7 markiert KI primär als Erweiterung: Frameworks sollen bestehende Entscheidungs- und Lernprozesse nicht ersetzen, sondern in Genauigkeit, Anpassungsfähigkeit und strategischer Steuerung verbessern. [@hosavaranchi_puttaraju_augmenting_2023] [@paszynski_online_2025]
 
-#### Online Structure Learning (MLNs): signifikante Performancegewinne
+ **Online Structure Learning (MLNs): signifikante Performancegewinne**
 
 Als spezifischer Mechanismus tritt Online-Strukturlernen hervor: Struktur- und Parameterlernen in einem Online-Setup wird als Weg beschrieben, modellbasierte Vorhersagegüte gegenüber reinem Parameterlernen signifikant zu steigern. [@huynh_online_2011] [@oiwa_frequency-aware_2011]
 
-#### Domänenspezifische Leistungsgewinne (Craigslist vs. CiteSeer)
+ **Domänenspezifische Leistungsgewinne (Craigslist vs. CiteSeer)**
 
 FU7 differenziert Leistungsgewinne nach Domänen: In anspruchsvolleren Datensätzen werden Gewinne als moderat, aber dennoch stabil beschrieben, was Grenzen und Transferfragen sichtbar macht. [@huynh_online_2011] [@oiwa_frequency-aware_2011]
 
-#### Skalierung mit vielen kleinen strukturierten Beispielen
+ **Skalierung mit vielen kleinen strukturierten Beispielen**
 
 Skalierung erscheint als zentrale Begründung: Online-Ansätze adressieren Szenarien mit vielen kleinen strukturierten Beispielen, in denen Batch-Verfahren an Speicher- und Rechenaufwand scheitern. [@huynh_online_2011] [@oiwa_frequency-aware_2011]
 
-#### Interaktive/spielbasierte Lernsettings & Technikprozesse
+ **Interaktive/spielbasierte Lernsettings & Technikprozesse**
 
 FU7 enthält zudem didaktische Formate, die Technikprozesse über Interaktion/Spiel erfahrbar machen. Gleichzeitig tauchen Simulation und prototypische Evaluation als Brücke zwischen Konzept und Implementierung auf. [@thimmappa_perspectives_2025] [@singh_wearable_2025]
 
-#### Integrative Systeme: Datenintegration, Mensch-Maschine-Kollaboration, Continuous Learning
+ **Integrative Systeme: Datenintegration, Mensch-Maschine-Kollaboration, Continuous Learning**
 
 Ein weiteres Muster ist Systemintegration: Datenintegration, algorithmische Erweiterung und Human-in-the-loop werden als zusammenhängendes Framework formuliert, das kontinuierliches Lernen ermöglicht. [@hosavaranchi_puttaraju_augmenting_2023] [@singh_wearable_2025]
 
-#### Edge/Privacy und analytische Intelligenz in realen Szenarien
+ **Edge/Privacy und analytische Intelligenz in realen Szenarien**
 
 FU7 markiert Realwelttauglichkeit über Architekturentscheidungen: Analytische Intelligenz wird in Edge-Strukturen verlagert, um Effizienz und Datenschutz zu verbessern und damit Einsatz in realen Szenarien zu ermöglichen. [@singh_wearable_2025] [@thimmappa_perspectives_2025]
 
-#### Generalisierung & Stabilisierung (Regularisierung, Kovarianz, Augmentation)
+ **Generalisierung & Stabilisierung (Regularisierung, Kovarianz, Augmentation)**
 
 Schließlich werden Stabilisierung und Generalisierung als Mechanismen sichtbar, die robuste Ergebnisse erst möglich machen (z.B. Kovarianzstabilisierung, Augmentation als gezielte Unterstützung). [@paszynski_online_2025] [@bauer_looking_2025]
 

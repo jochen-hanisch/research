@@ -4,7 +4,7 @@
 
 Hinweis: Die Auswertung erfolgt in Kapitel 5; hier sind die vollständigen Bildreihen (Heatmap, Viewmap, Fog-View) je Stimulus und Jahrgang dokumentiert. Pfade: `08 Metaquellen/08-01 Abbildungen/eye-traking/…`.
 
-### Stimulus F2-S2 (Navigation, interaktive Elemente)
+**Stimulus F2-S2 (Navigation, interaktive Elemente)**
 
 Table: Stimulus F2-S2 (Navigation, interaktive Elemente) – Eye-Tracking je Jahrgang {#tbl:stimulus-f2-s2}
 
@@ -18,7 +18,7 @@ Table: Stimulus F2-S2 (Navigation, interaktive Elemente) – Eye-Tracking je Jah
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F2-S2. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche)
+**Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche)**
 
 Table: Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche) – Eye-Tracking je Jahrgang {#tbl:stimulus-f3-s3}
 
@@ -32,7 +32,7 @@ Table: Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche) – Eye-Tracking je Jahrg
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F3-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F10-S3 (Lernplan/Kompetenzen)
+**Stimulus F10-S3 (Lernplan/Kompetenzen)**
 
 Table: Stimulus F10-S3 (Lernplan/Kompetenzen) – Eye-Tracking je Jahrgang {#tbl:stimulus-f10-s3}
 
@@ -46,7 +46,7 @@ Table: Stimulus F10-S3 (Lernplan/Kompetenzen) – Eye-Tracking je Jahrgang {#tbl
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F10-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F11-S3 (Weiterführende Quellen)
+**Stimulus F11-S3 (Weiterführende Quellen)**
 
 Table: Stimulus F11-S3 (Weiterführende Quellen) – Eye-Tracking je Jahrgang {#tbl:stimulus-f11-s3}
 
@@ -60,7 +60,7 @@ Table: Stimulus F11-S3 (Weiterführende Quellen) – Eye-Tracking je Jahrgang {#
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F11-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F14-S2 (Lernmaterial/Sicherheit)
+**Stimulus F14-S2 (Lernmaterial/Sicherheit)**
 
 Table: Stimulus F14-S2 (Lernmaterial/Sicherheit) – Eye-Tracking je Jahrgang {#tbl:stimulus-f14-s2}
 
@@ -74,7 +74,7 @@ Table: Stimulus F14-S2 (Lernmaterial/Sicherheit) – Eye-Tracking je Jahrgang {#
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F14-S2. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F5-S1
+**Stimulus F5-S1**
 
 Table: Stimulus F5-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f5-s1}
 
@@ -88,7 +88,7 @@ Table: Stimulus F5-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f5-s1}
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F5-S1. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F6-S1
+**Stimulus F6-S1**
 
 Table: Stimulus F6-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f6-s1}
 
@@ -102,7 +102,7 @@ Table: Stimulus F6-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f6-s1}
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F6-S1. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F8-S3
+**Stimulus F8-S3**
 
 Table: Stimulus F8-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f8-s3}
 
@@ -116,7 +116,7 @@ Table: Stimulus F8-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f8-s3}
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F8-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F9-S3
+**Stimulus F9-S3**
 
 Table: Stimulus F9-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f9-s3}
 
@@ -130,7 +130,7 @@ Table: Stimulus F9-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f9-s3}
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F9-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F12-S3-2
+**Stimulus F12-S3-2**
 
 Table: Stimulus F12-S3-2 – Eye-Tracking je Jahrgang {#tbl:stimulus-f12-s3-2}
 
@@ -144,7 +144,7 @@ Table: Stimulus F12-S3-2 – Eye-Tracking je Jahrgang {#tbl:stimulus-f12-s3-2}
 \tabsubcaption{Eye-Tracking-Bildreihe je Jahrgang für Stimulus F12-S3-2. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Jahrgänge (Jg. 21--23); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
 ```
 
-### Stimulus F13-S3
+**Stimulus F13-S3**
 
 Table: Stimulus F13-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f13-s3}
 
