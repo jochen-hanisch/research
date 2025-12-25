@@ -6,8 +6,9 @@ Dieser Anhang dokumentiert die in der Dissertation verwendeten Softwareartefakte
 
 **Artefakte und Referenzen**
 
-- **Simulation des Bildungswirkgefüges (Python):** Zenodo-Softwareartefakt zur simulationsgestützten Modellierung und Indikatorik (Bildungswirkfaktor $\nu(t)$, Bildungswirkindikator $\iota(t)$, Unsicherheitswert $C$). [@hanisch-johannsen_simulation_2025]
-- **TEI-Bildungswirkgefüge (Python):** Zenodo-Softwareartefakt zur TEI-gestützten Anwendung/Integration im Kontext der Arbeit. [@hanisch-johannsen_tei-bildungswirkgefuge_2025]
+- **Simulation des Bildungswirkgefüges (Python)** – Zenodo-Softwareartefakt zur simulationsgestützten Modellierung und Indikatorik (Bildungswirkfaktor $\nu(t)$, Bildungswirkindikator $\iota(t)$, Unsicherheitswert $C$). [@hanisch-johannsen_simulation_2025]
+- **TEI-Bildungswirkgefüge (Python)** – Zenodo-Softwareartefakt zur TEI-gestützten Anwendung/Integration im Kontext der Arbeit. [@hanisch-johannsen_tei-bildungswirkgefuge_2025]
+- **Datenkarte (TEI-Exports)** – Pfad `08 Metaquellen/08-04 Daten/Datenset/TEI`, Exports `Evaluation-01`…`Evaluation-32` (je 46 Items), Rücklaufspanne `n=4`…`58`. [@hanisch-johannsen_tei-feedback_2025]
 
 **Funktionsüberblick: Was der Code macht**
 
