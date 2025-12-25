@@ -13,19 +13,19 @@ Dieser Anhang dokumentiert die in der Dissertation verwendeten Softwareartefakte
 
 **Quellenbasis Monte‑Carlo (PDF‑Seitenbezug)**
 
-#todo revision: BibKeys der Monte‑Carlo‑Grundlagenliteratur in `Literaturverzeichnis.bib` prüfen und dann diese Seitenbezüge als Zitierungen (mit BibKey) in A‑15 und 4.4/4.5 einarbeiten
+#todo revision: Seitenbezüge und Ausgabeformat final prüfen (A‑15)
 
-Die folgenden Seitenangaben beziehen sich auf die in den Zotero-Speichern hinterlegten PDFs und dienen als Prüfspur für die im Text verwendeten Monte‑Carlo‑Bezüge:
+Die folgenden Seitenangaben dienen als Prüfspur für die im Text verwendeten Monte‑Carlo‑Bezüge:
 
-- Binder (2017): PDF S. 2–3 (Zufallszahlen/RNG; Stichprobenlogik), PDF S. 5–6 (Random Walk/Phasenraum), PDF S. 10 (Averaging über unabhängige Runs).
-- Earl & Deem (o. J.): PDF S. 3–4 (random sampling; Metropolis‑Logik), PDF S. 8 (Lauflänge/Run‑Heuristik), PDF S. 10 (Varianz und Autokorrelation in Stichproben).
-- Gleißner & Wolfrum (2019): PDF S. 7 (Varianz‑Kovarianz‑Ansatz und simulationsbasierte Risikoaggregation), PDF S. 29 (Random‑Walk‑Bezug in Modellierung von Risikofaktoren).
-- Pudrovska & Anishkin (2015): PDF S. 1–4 (Einordnung der Monte‑Carlo‑Simulation; methodischer Zugriff), PDF S. 9 (Verteilungsannahmen), PDF S. 14–16 (Monte‑Carlo‑Simulationen und Ergebnisinterpretation).
-- Rigopouli et al. (2025): PDF S. 1–3 (MCMC‑Rahmung im Bildungskontext), PDF S. 6 (Einordnung konventionelles Monte‑Carlo und Markov‑Chain‑Monte‑Carlo; Abhängigkeit der Ziehungen).
-- Shonkwiler & Mendivil (2024): PDF S. 7 (Central‑Limit‑Theorem‑Bezug), PDF S. 18 (Beispielcode: Pseudorandom‑Samples; Stichprobenlogik).
-- Voelkle & McKnight (2012): PDF S. 7–8 (Iterationszahl und Variabilität), PDF S. 7 (random sampling für Simulationsbedingungen).
-- Theis & Kernbichler (2002): S. 2 (Definition Monte‑Carlo als Methodengruppe), S. 5–6 (Erwartungswert/Varianz/Standardabweichung), S. 7 (Samples/Laufzahl; Konvergenzbezug), S. 9 (Zufallszahlen/Zufallsgeneratoren), S. 20 (Iterationen/Simulationsablauf).
-- Kany (2024): Buchseiten S. 49–50 (random draw; Monte‑Carlo‑Ablauf; Beispielcode/Standardabweichung).
+- Binder (2017): S. 2–3 (Zufallszahlen/RNG; Stichprobenlogik), S. 5–6 (Random Walk/Phasenraum), S. 10 (Averaging über unabhängige Runs). [@binder_monte_2017, S. 2–3; S. 5–6; S. 10]
+- Earl & Deem (o. J.): S. 3–4 (random sampling; Metropolis‑Logik), S. 8 (Lauflänge/Run‑Heuristik), S. 10 (Varianz und Autokorrelation in Stichproben). [@earl_monte_nodate, S. 3–4; S. 8; S. 10]
+- Gleißner & Wolfrum (2019): S. 7 (Varianz‑Kovarianz‑Ansatz und simulationsbasierte Risikoaggregation), S. 29 (Random‑Walk‑Bezug in Modellierung von Risikofaktoren). [@gleisner_risikoaggregation_2019, S. 7; S. 29]
+- Pudrovska & Anishkin (2015): S. 1–4 (Einordnung der Monte‑Carlo‑Simulation; methodischer Zugriff), S. 9 (Verteilungsannahmen), S. 14–16 (Monte‑Carlo‑Simulationen und Ergebnisinterpretation). [@pudrovska_clarifying_2015, S. 1–4; S. 9; S. 14–16]
+- Rigopouli et al. (2025): S. 1–3 (MCMC‑Rahmung im Bildungskontext), S. 6 (Einordnung konventionelles Monte‑Carlo und Markov‑Chain‑Monte‑Carlo; Abhängigkeit der Ziehungen). [@rigopouli_whale_2025, S. 1–3; S. 6]
+- Shonkwiler & Mendivil (2024): S. 7 (Central‑Limit‑Theorem‑Bezug), S. 18 (Beispielcode: Pseudorandom‑Samples; Stichprobenlogik). [@shonkwiler_explorations_2024, S. 7; S. 18]
+- Voelkle & McKnight (2012): S. 7–8 (Iterationszahl und Variabilität), S. 7 (random sampling für Simulationsbedingungen). [@voelkle_one_2012, S. 7–8]
+- Theis & Kernbichler (2002): S. 2 (Definition Monte‑Carlo als Methodengruppe), S. 5–6 (Erwartungswert/Varianz/Standardabweichung), S. 7 (Samples/Laufzahl; Konvergenzbezug), S. 9 (Zufallszahlen/Zufallsgeneratoren), S. 20 (Iterationen/Simulationsablauf). [@theis_grundlagen_2002, S. 2; S. 5–7; S. 9; S. 20]
+- Kany (2024): S. 49–50 (random draw; Monte‑Carlo‑Ablauf; Beispielcode/Standardabweichung). [@uskov_teaching_2024, S. 49–50]
 
 **Funktionsüberblick: Was der Code macht**
 
