@@ -138,6 +138,13 @@ header-includes:
 | NotSan-APrV     | Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen          |
 | NotSanG         | Notfallsanitätergesetz                                                  |
 | NotSan / NFS    | Notfallsanitäter:in                                                     |
+| PE              | Persönliche Ereignisse                                                  |
+| PEE             | Persönlicher Erfolg extern                                              |
+| PFE             | Persönlicher Fehlschlag extern                                          |
+| PFV             | Persönlicher Fortschritt variabel                                       |
+| PGV             | Persönliches Großerlebnis variabel                                      |
+| PLE             | Persönlicher Leistungseinbruch                                          |
+| PSE             | Persönlicher Stabilitätserfolg                                          |
 | EpiGesAusbSichV | Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen |
 | TEI             | Training Evaluation Inventory                                           |
 | P-QIA           | Probabilistisch-Qualitative Inhaltsanalyse                              |
@@ -157,6 +164,9 @@ Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis
 | $\iota$ | Bildungswirkindikator; Steigung des Bildungswirkfaktors. |
 | $k$ | Anzahl der Cluster im k-Means-Algorithmus. |
 | $\nu$ | Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. |
+| $C$ | Dynamischer Unsicherheitswert zur Koppelungsprüfung zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}). |
+| $r$ | Korrelationskoeffizient (hier: Korrelation zwischen $\Delta E$ und $\Delta K$). |
+| $\sigma$ | Standardabweichung (hier: Streuung von $\Delta E$ bzw. $\Delta K$). |
 | $S$ | Silhouette-Score als Maß der Clusterdifferenzierung. |
 | $t$ | Zeitvariable der Dynamikmodelle. |
 

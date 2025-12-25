@@ -463,11 +463,11 @@ Der Rückgang im Jahr 2024 kann trotz weiterhin hoher Publikationszahlen als Reo
 
 Methodologisch zeigt die Zeitreihe, weshalb eine Kombination aus volumetrischer Betrachtung, Kohärenzanalysen (Silhouette\label{term:silhouette-score}), Sensitivitätsmaßen ($\Delta SC_n$) und deduktiver Strukturierung notwendig ist. Die reine Publikationszahl erlaubt keine Aussage über die semantische Struktur des Feldes. Erst im Zusammenspiel mit der Clusterkohärenz wird erkennbar, welche Jahre ein belastbares epistemisches Fundament darstellen (2018–2022) und welche Jahre aufgrund struktureller Transformation mit besonderer Sensitivität zu interpretieren sind (2023–2024). Diese Differenzierung ist für die retrospektive Gewichtung der Jahrgänge zentral und legitimiert den Einsatz der P-QIA, der mdaCV sowie der epistemischen Verlustfunktion als integrative Validierungsinstanzen des ausgewerteten Literaturraums.
 
-Bemerkenswert ist, dass die Auswahl frei von subjektivem Eingreifen, thematischen Vorannahmen oder bewussten Schwerpunktsetzungen erfolgte und ausschließlich auf algorithmisch rekonstruierten Dichtefeldern innerhalb deduktiv-numerischer Vektorräume basiert. Die Aussagen aus diesem Literaturfeld können damit als stabil, kohärent und epistemisch tragfähig gelten; sie bilden gewissermaßen den empirischen Kern des aktuellen Diskurses.
+Die Auswahl folgte einem dokumentierten, algorithmisch gestützten Verfahren auf Basis rekonstruierten Dichtefeldern innerhalb deduktiv-numerischer Vektorräume. Der Einfluss manueller Schwerpunktsetzungen wird über die dokumentierten Screening- und Tagging-Schritte transparent gehalten. Die Aussagen aus diesem Literaturfeld werden damit als konsistente Referenzbasis für die weitere Auswertung geführt. #todo revision
 
 Die Summenzeile (Tabelle~\ref{tab:cluster_silhouette}) dokumentiert die 3 524 für die Kohärenzberechnung herangezogenen Dokumente. Bis 2016 bleiben die Fallzahlen niedrig, die Silhouette-Scores liegen aber durchgängig bei $\approx 1{,}0$ und weisen auf hochgradig fokussierte Cluster hin. In den Jahren 2018–2022 steigt das Volumen stark an, während die Scores auf hohem Niveau bleiben ($\geq 0{,}985$); diese Phase bildet den stabilen epistemischen Kern des Korpus. Der Einbruch auf $0{,}9208$ im Jahr 2024 markiert die stärkste semantische Drift durch die rasche Ausweitung neuer Themen (z. B. KI-basierte Lernmodelle), bevor 2025 eine moderate Rezentrierung der Cluster sichtbar wird. Insgesamt zeigt die Tabelle, dass hohe Fallzahlen nicht automatisch Kohärenzverlust bedeuten, Wachstumsphasen aber interpretativ besonders sorgfältig eingeordnet werden müssen.
 
-Im Zusammenspiel von Silhouette-Scores und Fallzahlen (Abb.~\ref{fig:silhouette-scores}) wird die semantische Stabilität des recherchierten Literaturfeldes über die Zeit sichtbar. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen nahezu perfekte Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur so eng gefasst ist, dass jedes zusätzliche Dokument inhaltlich nahezu identisch anschließt. Der Zeitraum 2018–2022 kombiniert dann hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden das robuste epistemische Fundament des Korpus d.h. hohe Dichte, hohe Trennschärfe und deutliche Clusterzentren.
+Im Zusammenspiel von Silhouette-Scores und Fallzahlen (Abb.~\ref{fig:silhouette-scores}) wird die semantische Stabilität des recherchierten Literaturfeldes über die Zeit sichtbar. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen sehr hohe Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur eng gefasst ist und zusätzliche Dokumente inhaltlich stark ähnlich anschließen. Der Zeitraum 2018–2022 kombiniert hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden einen stabilen Referenzbereich des Korpus (hohe Dichte, hohe Trennschärfe, erkennbare Clusterzentren). #todo revision
 
 Ab 2023 sinkt der Score trotz weiterhin sehr hoher Fallzahlen. Der Tiefpunkt ($0,9208$ im Jahr 2024) zeigt eine semantische Drift, das heißt eine zunehmende Heterogenität des Feldes, ohne dass die Relevanz oder Qualität des Korpus abnimmt. Vielmehr reorganisieren sich die thematischen Schwerpunkte in einem dynamischen Diskursfeld (z. B. Learning Analytics, KI-basierte Lernsysteme, generative Modelle). Die moderate Erholung 2025 verweist auf eine mögliche Neuordnung der semantischen Zentren. Die quartilsbasierten Referenzlinien ($Q_1 \approx 0{,}9686$, $Q_3 = 1{,}0000$) und die Fatigue-Schwelle von $0,96$ markieren die Übergänge zwischen kohärenten Verdichtungsphasen und beginnender Fragmentierung. Damit lässt sich die Aussagekraft einzelner Jahrgänge systematisch gewichten, belastbare Kohärenzphasen identifizieren und die Qualität der algorithmischen Clusterbildung retrospektiv validieren.
 
@@ -560,10 +560,10 @@ Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekri
 |FU$_{2b}$|14|0.89|starke Clusterstruktur|
 |FU$_{3}$|15|0.87|starke Clusterstruktur|
 |FU$_{4a}$|12|0.90|sehr starke Clustertrennung|
-|FU$_{4b}$|12|0.92|nahezu perfekte Trennung|
+|FU$_{4b}$|12|0.92|sehr starke Clustertrennung|
 |FU$_{5}$|14|0.88|starke Clusterstruktur|
 |FU$_{6}$|12|0.89|starke Clusterstruktur|
-|FU$_{7}$|10|0.93|nahezu perfekte Trennung|
+|FU$_{7}$|10|0.93|sehr starke Clustertrennung|
 
 In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die **geometrische Trennschärfe** einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische **Faustregel** werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte für die Analysen 2. Ordnung eine durchgängig hohe Separierbarkeit der FU‑spezifischen Cluster.
 
@@ -646,7 +646,7 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 Die deduktive 3D-Clusterlösung wird in Abb.~\ref{fig:clusteranalyse-kmeans} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien sowie Forschungsfragen dokumentiert und dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
 
-Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der insgesamt hohe Silhouette-Score ($S = 0{,}9884$) weist auf eine nahezu perfekte Trennschärfe hin, was sowohl die deduktive Vorstrukturierung als auch die semantische Stabilität der Cluster bestätigt.
+Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der hohe Silhouette-Score ($S = 0{,}9884$) spricht für eine ausgeprägte Trennschärfe in der gewählten Repräsentation und wird hier als Hinweis gelesen, dass die deduktive Vorstrukturierung im Korpus konsistent greift. #todo revision
 
 **Analyse der Achsendimensionen**
 
@@ -667,31 +667,31 @@ Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden
 
 #todo (#62) TPACK, SDT, Systemtheorie erklären bzw. referenzieren
 
-Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen tatsächlich diskriminierende Kraft besitzen und die Literatur nicht durch zufällige Muster gruppiert wird, sondern strukturelle Kohärenzen im Diskurs sichtbar machen.
+Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen diskriminierende Kraft besitzen und spricht gegen eine rein zufällige Gruppierung; zugleich lassen sich strukturelle Kohärenzen im Diskurs als Raumstruktur darstellen. #todo revision
 
 Methodologische Einordnung
 
 Die Visualisierung erfüllt folgende Funktionen innerhalb der mdaCV:
 
-- Validierung der Deduktionslogik: Die drei Achsen sind nicht rein empirisch berechnet, sondern theoriebasiert definiert. Ihre Trennung im Raum zeigt, wie sich inhaltliche und methodische Ebenen der Literatur konsistent verhalten.
+- Plausibilisierung der Deduktionslogik: Die drei Achsen sind theoriebasiert definiert. Ihre Trennung im Raum unterstützt die Einordnung, wie sich inhaltliche und methodische Ebenen der Literatur im Korpus verhalten. #todo revision
 - Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU$_{4a}$/FU$_{6}$ vs. technologische Integration $\to$ FU$_{3}$/FU$_{7}$).
-- Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die nahezu perfekte Silhouette zeigt, dass die Tags, Kategorien und FU-Zuordnungen in sich stabil und logisch aufgebaut sind, ohne Überlappungen, die auf methodische Unschärfe hindeuten würden.
+- Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die hohen Silhouette-Werte deuten darauf hin, dass Tags, Kategorien und FU-Zuordnungen im gewählten Raum trennscharf greifen; Überlappungen erscheinen in dieser Projektion begrenzt. #todo revision
 
 Epistemische Funktion im Forschungsdesign
 
-Die hohe Trennschärfe bestätigt, dass das Literaturfeld strukturell differenziert ist. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden.
+Die hohe Trennschärfe legt nahe, dass das Literaturfeld im gewählten Raum strukturell differenziert abgebildet wird. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden. #todo revision
 
 Bedeutung für die Gesamtanalyse
 
-Die 3D-Clusteranalyse wirkt als abschließende seismografische Validierungsstufe der vorangegangenen P-QIA und der mdaCV. Im Zusammenspiel mit der systematisch-forschungsfragengeleiteten Literaturpipeline ergibt sich damit ein methodischer Zugang, der etablierte Formen systematischer Reviews erweitert: Transparente Suchpfade, dokumentierte Screening- und Tagging-Schritte sowie standardisierte, GPT-unterstützte Inhaltsanalysen werden mit Netzwerk-, Pfad- und Korrelationsanalysen verknüpft. Die KI-Unterstützung fungiert dabei als strukturierende Assistenz; eine Ersetzung menschlicher Kontrolle ist nicht intendiert, und alle Zuordnungen (Kategorien, FU, Relevanz) werden in einem zweiten Tagging-Schritt kontrolliert, konsolidiert und stichprobenartig manuell überprüft.
+Die 3D-Clusteranalyse fungiert als abschließender, visuell-analytischer Plausibilitätscheck im Zusammenspiel von P-QIA und mdaCV. Im Zusammenspiel mit der systematisch-forschungsfragengeleiteten Literaturpipeline ergibt sich damit ein methodischer Zugang, der etablierte Formen systematischer Reviews mit zusätzlichen Analyseschritten verbindet: Transparente Suchpfade, dokumentierte Screening- und Tagging-Schritte sowie standardisierte, GPT-unterstützte Inhaltsanalysen werden mit Netzwerk-, Pfad- und Korrelationsanalysen verknüpft. Die KI-Unterstützung fungiert dabei als strukturierende Assistenz; eine Ersetzung menschlicher Kontrolle ist nicht intendiert, und alle Zuordnungen (Kategorien, FU, Relevanz) werden in einem zweiten Tagging-Schritt kontrolliert, konsolidiert und stichprobenartig manuell überprüft. #todo revision
 
-- Sie macht sichtbar, dass die Literaturbasis nicht nur volumetrisch, sondern auch semantisch ausgewogen ist.
+- Sie macht sichtbar, dass die Literaturbasis volumetrisch erfasst ist und im gewählten Raum eine semantische Ausbalancierung erkennbar wird. #todo revision
 - Sie zeigt, welche Themenräume dicht besetzt sind und welche die deduktiven Kategorien besonders stark stützen.
-- Sie unterstreicht die Robustheit der Gesamtmethodik, indem sie die getrennten Analyseebenen (Suchbegriffe, Kategorien, FU) in einem kohärenten geometrischen Modell zusammenführt.
+- Sie unterstützt die Begründung der methodischen Kohärenz, indem sie die getrennten Analyseebenen (Suchbegriffe, Kategorien, FU) in einem geometrischen Modell zusammenführt. #todo revision
 
-Damit bestätigt die 3D-Clusteranalyse die theoretisch-probabilistische Struktur des Forschungsdesigns und bietet einen visuell-analytischen Beleg dafür, dass die deduktive Kodierung, die P-QIA und die mdaCV konsistent ineinandergreifen. Zudem kann sie als Koherenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. Damit gelingt eine umfassende, methodisch stringent abgesicherte Kartierung des Forschungsfeldes und infolgedessen eine engere Verbindung zwischen deduktiver Theoriearbeit und datenbasierter Validierung.
+Die 3D-Clusteranalyse stützt die theoretisch-probabilistische Struktur des Forschungsdesigns als visuell-analytische Evidenzspur, dass deduktive Kodierung, P-QIA und mdaCV konsistent ineinandergreifen. Zudem kann sie als Kohärenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. So entsteht eine Kartierung des Forschungsfeldes, die den Anschluss zwischen deduktiver Theoriearbeit und datenbasierter Plausibilisierung nachvollziehbar herstellt. #todo revision
 
-Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU$_{1}$–FU$_{7}$), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Statt auf hohe absolute Korrelationswerte abzuzielen, liegt der Schwerpunkt auf Mustererkennung, semantischen Relationen und der Validierung der deduktiven Struktur. Die vollständigen Korrelationsmatrizen sind im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)} dokumentiert [@hanisch-johannsen_wirkgefuge_2025-2].
+Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU$_{1}$–FU$_{7}$), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Der Schwerpunkt liegt auf Mustererkennung, semantischen Relationen und der Plausibilisierung der deduktiven Struktur; hohe absolute Korrelationswerte stehen dabei nicht im Vordergrund. Die vollständigen Korrelationsmatrizen sind im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)} dokumentiert [@hanisch-johannsen_wirkgefuge_2025-2]. #todo revision
 
 **Forschungsunterfragen × Forschungsunterfragen**
 
@@ -823,28 +823,45 @@ Die Logik wird in der Simulation als Familie von Verläufen sichtbar (vgl. \hype
 
 Für die Auswertung werden zwei Unsicherheitsmaße als Grundgrößen geführt:
 
-- $\Delta K$: kognitive Unsicherheit innerhalb der Kompetenzentwicklung; in der Simulation operationalisiert als Streuung der Kompetenzwerte pro Zeitschritt (z.B. Standardabweichung der simulierten Kompetenzwerte pro Quartal über alle Durchläufe).
-- $\Delta E$: emotionale Unsicherheit innerhalb der Kompetenzentwicklung; in der Simulation operationalisiert über die Streuung emotionaler bzw. bereitschaftsbezogener Dynamikkomponenten (z.B. Streuungsparameter der Quartalsänderung) und ergänzend über die Änderungsrate des mittleren Kompetenzverlaufs als Dynamikspur.
+- $\Delta K$\label{term:delta-k}: kognitive Unsicherheit innerhalb der Kompetenzentwicklung; in der Simulation operationalisiert als Streuung der Kompetenzwerte pro Zeitschritt (z.B. Standardabweichung der simulierten Kompetenzwerte pro Quartal über alle Durchläufe).
+- $\Delta E$\label{term:delta-e}: emotionale Unsicherheit innerhalb der Kompetenzentwicklung; in der Simulation operationalisiert über die Streuung emotionaler bzw. bereitschaftsbezogener Dynamikkomponenten (z.B. Streuungsparameter der Quartalsänderung) und ergänzend über die Änderungsrate des mittleren Kompetenzverlaufs als Dynamikspur.
 
-Auf dieser Basis wird der Bildungswirkfaktor als zeitabhängiges Aggregatmaß gefasst:
+Auf dieser Basis wird der Bildungswirkfaktor\label{term:bildungswirkfaktor} als zeitabhängiges Aggregatmaß gefasst:
 
 $$
 \nu(t) = \Delta E(t) \cdot \Delta K(t)
 $$ {#eq:bildungswirkfaktor}
 
-Der Bildungswirkindikator beschreibt die Veränderungsrate dieses Faktors:
+Der Bildungswirkindikator\label{term:bildungswirkindikator} beschreibt die Veränderungsrate dieses Faktors:
 
 $$
 \iota(t) = \frac{d\nu(t)}{dt}
 $$ {#eq:bildungswirkindikator}
 
-Für die Koppelungsprüfung zwischen Dynamikspur und Streuung wird ergänzend ein dynamischer Unsicherheitswert $C$ verwendet, der die Korrelationsstärke mit der Streuung verknüpft:
+Für die Koppelungsprüfung zwischen Dynamikspur und Streuung wird ergänzend ein dynamischer Unsicherheitswert $C$\label{term:unsicherheitswert-c} verwendet, der die Korrelationsstärke mit der Streuung verknüpft:
 
 $$
 C = \lvert r(\Delta E, \Delta K) \rvert \cdot \sigma(\Delta E) \cdot \sigma(\Delta K)
 $$ {#eq:bildungswirk_c}
 
 Die Auswertung von $\nu(t)$ und $\iota(t)$ erfolgt über Glättung, Ableitungen sowie die Identifikation von Minima, Maxima und Wendepunkten. Damit wird sichtbar, an welchen Stellen die Dynamik in Regenerations‑ oder Störungslogiken kippt und wo in einem formalen Sinn Interventionspunkte markiert werden können. Diese Indikatorik wird in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} als heuristische Ergänzung genutzt und in Kapitel \hyperref[sec:Ergebnisse-FU6]{5.3.7} in die Systemperspektive auf Kompetenzentwicklung rückgebunden.
+
+#todo revision: Begriffliche Zuordnung der markierten Zeitfenster systematisieren (4.4.3)
+Die Markierungen in den Abbildungen werden im Folgenden als benannte Zeitfenster geführt, um die Interpretation konsistent an die Indikatorik zu binden. Die Bezeichnungen sind als modellinterne Kategorien zu verstehen. Sie strukturieren, welche Form von Dynamikspur im jeweiligen Quartalabschnitt sichtbar wird und welche Art von Beobachtungs- bzw. Gestaltungsfrage daraus folgt. [@hanisch-johannsen_simulation_2025]
+
+- **Stabilisierungspunkt**\label{term:stabilisierungspunkt}: Zeitfenster, in dem $\iota(t)$ in Richtung Abnahme der Unsicherheitsdynamik tendiert und der geglättete Verlauf von $\nu(t)$ eine abflachende Entwicklung aufweist; das Zeitfenster wird für Monitoring und Konsolidierung genutzt.
+- **Präventionspunkt**\label{term:praeventionspunkt}: Zeitfenster, in dem $\iota(t)$ eine Zunahme der Unsicherheitsdynamik anzeigt; das Zeitfenster wird für frühzeitige Anpassungen und eine Prüfung von Unterstützungsbedingungen genutzt.
+- **Interventionspunkt**\label{term:interventionspunkt}: Zeitfenster um ein lokales Minimum von $\nu(t)$; das Zeitfenster dient der Prüfung, welche Kopplungen (z.B. Feedback, Strukturierung, Ressourcen) die Folgedynamik tragen.
+- **Regenerationspunkt**\label{term:regenerationspunkt}: Zeitfenster um ein lokales Maximum von $\nu(t)$; das Zeitfenster dient der Prüfung, welche Stabilisierungspfade (z.B. Rückkopplungsqualität, Entlastung, Anschlussfähigkeit) im Modell sichtbar werden.
+
+Table: Zuordnung von Zeitfenstern zu $\nu(t)$ und $\iota(t)$ \label{tab:sim-zuordnung-nu-iota}
+
+| Begriff | formales Kriterium (heuristisch) | Beobachtungsfokus | Anschluss im Text |
+| --- | --- | --- | --- |
+| Stabilisierungspunkt | $\iota(t)$ mit stabilisierender Tendenz; geglättetes $\nu(t)$ mit abnehmender Steigung | Stabilisierung/Monitoring | Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} |
+| Präventionspunkt | $\iota(t)$ mit ansteigender Tendenz; geglättetes $\nu(t)$ mit zunehmender Steigung | frühe Anpassung/Supportprüfung | Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} |
+| Interventionspunkt | lokales Minimum in $\nu(t)$ | Kopplungsträger identifizieren | Abschnitt \hyperref[sec:Simulation-Indikatoren]{4.4.3} |
+| Regenerationspunkt | lokales Maximum in $\nu(t)$ | Stabilisierungspfade identifizieren | Abschnitt \hyperref[sec:Simulation-Indikatoren]{4.4.3} |
 
 Die Indikatorik lässt sich als Verlaufsspur illustrieren (vgl. \hyperref[fig:sim-bildungswirkdynamik]{Abb.~\ref{fig:sim-bildungswirkdynamik}}). Zur Einordnung der verwendeten Grundgrößen werden ergänzend die im Beispiel angesetzten Unsicherheitskomponenten und die Unsicherheitsrelation dokumentiert (vgl. \hyperref[fig:sim-unsicherheiten]{Abb.~\ref{fig:sim-unsicherheiten}} und \hyperref[fig:sim-unsicherheitsrelation]{Abb.~\ref{fig:sim-unsicherheitsrelation}}).
 
@@ -880,12 +897,12 @@ Die kritische Methodenreflexion hat den Zweck, die eigene Arbeitsweise transpare
 
 Als Herleitungsgrundlage wird ein systemisch-konstruktivistisches Verständnis von Erkenntnis angesetzt, das bewährte Evaluationsmodelle (z.B. das CIPP-Modell) mit analytischen Verfahren wie Korrelations- und deduktiven Clusteranalysen koppelt. Diese Kombination ist strukturell aufeinander bezogen und damit theoriekompatibel. Die Auswahl der Methoden folgt der Forschungsfragengeleitetheit und einem systemisch-funktionalen Verständnis von Methodeneinsatz: Qualitative und quantitative Verfahren werden entlang der FU dort eingesetzt, wo sie zur Bearbeitung beitragen. Theoretische Begriffe (z.B. Kompetenz, Selbstorganisation, Nachhaltigkeit) werden auf konkrete Analyseebenen übertragen, etwa über Prädiktorvariablen (z.B. $PV_{1a}\\text{–}PV_3$) oder KI-gestützte Analysen. Sämtliche Analyseprozesse, von der Auswahl der Quellen über die Generierung und Anwendung der Prompts bis zur Auswertung und Rückführung in die FU, sind dokumentiert, versioniert und theoretisch hergeleitet; die Änderungshistorie ist über eine Versionsverwaltung (GitHub) als fortlaufende Protokollspur nachvollziehbar. Als kuratierende Hilfsmittel unterstützen digitale Werkzeuge dieses Vorgehen operativ (Zotero für Literatur- und Notizmanagement, Python für Berechnungen und Visualisierungen), wodurch Reproduzierbarkeit und interne Konsistenz als Leitkriterien mitgeführt werden. Die Dokumentation der KI-Nutzung (genutzte Systeme, Funktionen, Prompt-Stand, Revisionen) wird dabei als epistemische Validierungsstrategie geführt, um Nachvollziehbarkeit trotz begrenzter Detektierbarkeit KI-generierter Textanteile zu sichern. [@hanisch_nachhaltiges_2017, Kapitel 3.1; Kapitel 3.4; @hebbel-seeger_wissenschaftliches_2025, Seite 438-439]
 
-Bereits in der Zusammenstellung der Analyseeinheiten erfolgen bewusste Entscheidungen, zum Beispiel zur Nichtberücksichtigung von Masterarbeiten und reiner „grauer Literatur“ in bestimmten Clusteranalysen. Diese Schritte werden transparent dokumentiert und theoriebezogen begründet, wodurch sich die Validität der Aussagen erhöht.
+Bereits in der Zusammenstellung der Analyseeinheiten erfolgen bewusste Entscheidungen, zum Beispiel zur Nichtberücksichtigung von Masterarbeiten und reiner „grauer Literatur“ in bestimmten Clusteranalysen. Diese Schritte werden transparent dokumentiert und theoriebezogen begründet, wodurch Nachvollziehbarkeit und Plausibilisierung der Aussagen gestärkt werden. #todo revision
 
 Ein wesentlicher Bestandteil des methodischen Vorgehens ist die fortlaufende Selbstprüfung und Justierung. Dazu gehören die Prüfung der Wirksamkeit der Prompts, die Diskussion der Silhouette-Werte zur Clustertrennschärfe, aber auch die bewusste Unterscheidung zwischen Analysen 1. Ordnung (einzelne Quelle) und Analysen 2. Ordnung (übergreifende Auswertung, Rückführung auf die FU).
-Dieses methodisches Vorgehen erfüllt, trotz seiner systemisch-flexiblen Struktur, zentrale Anforderungen wissenschaftlicher Strenge. Die Methoden sind theoriebasiert, nachvollziehbar, funktional gewählt und systematisch eingesetzt. Zugleich werden klassische Evaluationslogiken als Ordnungsrahmen mitgeführt und in ein komplexitätssensibles Design übersetzt.
+Dieses methodische Vorgehen ist, trotz seiner systemisch-flexiblen Struktur, darauf ausgerichtet, zentrale Anforderungen wissenschaftlicher Strenge nachvollziehbar zu adressieren. Die Methoden sind theoriebasiert, transparent dargestellt, funktional gewählt und entlang der FU systematisch eingesetzt. Zugleich werden klassische Evaluationslogiken als Ordnungsrahmen mitgeführt und in ein komplexitätssensibles Design übersetzt. #todo revision
 
-Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist eigenständig, transparent dokumentiert und methodologisch weiterentwickelnd.
+Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist eigenständig angelegt und transparent dokumentiert. #todo revision
 
 ### 4.5.1 Methodenkritische SWOT-Analyse zum KI-gestützten Vorgehen {#sec:SWOT-KI-Methodik}
 
