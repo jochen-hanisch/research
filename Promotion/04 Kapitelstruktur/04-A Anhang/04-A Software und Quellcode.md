@@ -23,6 +23,7 @@ Die folgenden Hinweise sind als Minimalprotokoll gedacht. Sie beschreiben, welch
 - **Umgebung:** Python 3.x, Standardbibliothek plus die im jeweiligen Zenodo-Artefakt dokumentierten Abhängigkeiten. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-bildungswirkgefuge_2025]
 - **Ausführung:** Start über den in den Artefakten dokumentierten Einstiegspunkt (z.B. `python simulation-bildungswirkgefuege.py`). [@hanisch-johannsen_simulation_2025]
 - **Determinismus:** Bei Monte‑Carlo‑Anteilen wird ein Seed/Random-State dokumentiert, da Lauf-zu-Lauf-Varianz in Verläufen sichtbar werden kann und als Teil der Modellspur transparent zu führen ist. [@theis_grundlagen_2002, S. 9; @uskov_teaching_2024, S. 49; @rakhlin_stability_nodate, Seite 1-2]
+- **Dateninputs:** TEI liegt als aggregierter Export pro Handlungssituation vor (`Evaluation-01`…`Evaluation-32`), die konsolidierten Tabellen sind im Datenset auf Zenodo referenzierbar. [@hanisch-johannsen_tei-feedback_2025]
 - **Outputs:** Ergebnisartefakte sind grafische Verläufe (Monte‑Carlo‑Familien, $\nu(t)$/$\iota(t)$) sowie Kennwert-/Tabellenausgaben, die als Modellspur interpretiert werden. [@hanisch-johannsen_simulation_2025; @theis_grundlagen_2002, S. 7; @uskov_teaching_2024, S. 50]
 
 **Reproduzierbarkeitsgrenzen (methodische Einordnung)**
