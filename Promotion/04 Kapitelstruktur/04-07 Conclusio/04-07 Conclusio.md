@@ -91,6 +91,9 @@ Die Herleitung folgt der Logik des Gesamtaufbaus:
 4. **Empirische Verdichtung und Hypothesenbildung**: Kapitel 5 beantwortet die Forschungsunterfragen entlang der Kernbereiche und führt die Triangulation in Arbeitshypothesen über (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}). Kapitel 6 prüft diese Verdichtung als Interdependenzargumentation und klärt, weshalb positive und negative Wirkungsrichtungen strukturell gekoppelt sind (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 5. **Rechnerische Spur der Kopplungsdynamik**: Ergänzend wird in Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} eine Kopplungsindikatorik eingeführt, die Unsicherheiten aus den Ergebnissen in eine Zeitlogik überführt. Diese Indikatorik (vgl. \hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}) erhebt keinen empirischen Messanspruch; sie dient als formalisierte Verdichtung, um Kippstellen und Stabilisierung als modellinterne Spur darstellbar zu machen.
 
+#todo revision: Simulation als Beispiel für Manifest-Operativität markieren (7.2.2)
+Damit wird zugleich der Übergang zum Manifest gestützt: Interdependenz wird über eine operative Zeitlogik greifbar [@hanisch-johannsen_simulation_2025]. Genau an dieser Stelle können die Manifest-Thesen (7.1) exemplarisch auf „Kippstellen“ und „Stabilisierung“ referieren und den Reflexions- und Gestaltungsrahmen für Wirkungswahrscheinlichkeiten klar verorten.
+
 ### 7.2.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
 
 Die Ergebnisse machen das Wirkgefüge sichtbar, indem sie wiederkehrende Koppelungen pro Kernbereich rekonstruieren:
