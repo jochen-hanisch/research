@@ -12,21 +12,21 @@
       \node[process] (curriculum) {Handlungssituationen\\(32 curriculare Einheiten)};
       \node[process, right=of curriculum, xshift=1.4cm] (lms) {LMS-Kern\\Kurse, Ressourcen, Aufgaben, Feedback};
       \node[process, right=of lms, xshift=1.4cm] (cohort) {Ausbildungskurse\\(3 Kohortenräume)};
-      \node[process, above=of lms] (content) {Content\\Fachliteratur, Medien};
-      \node[process, below=of lms] (lernorte) {Lernorte\\Schule, Lehrrettungswache, Krankenhaus};
+      \node[process, above=of lms, yshift=0.6cm] (content) {Content\\Fachliteratur, Medien};
+      \node[process, below=of lms, yshift=-0.6cm] (lernorte) {Lernorte\\Schule, Lehrrettungswache, Krankenhaus};
 
       \draw[line] (curriculum) -- node[above, align=center]{curriculare Struktur} (lms);
       \draw[line] (lms) -- node[above, align=center]{Umsetzung \& Steuerung} (cohort);
-      \draw[line] (cohort) to[bend left=18] node[above]{Erkenntnisse, Feedback} (curriculum);
-      \draw[line] (curriculum) to[bend left=18] node[below]{Aufgaben, Standards} (cohort);
-      \draw[line] (content) -- node[right]{Materialien} (lms);
-      \draw[line] (lernorte) -- node[right]{Praxisimpulse} (lms);
-      \draw[dashedline] (lernorte) -- node[below, align=center]{Koordination} (cohort);
-      \draw[dashedline] (lernorte) -- node[below, align=center]{Anforderungen} (curriculum);
+      \draw[line] (curriculum) to[bend left=22] node[pos=0.55, above, yshift=4pt]{Aufgaben, Standards} (cohort);
+      \draw[line] (cohort) to[bend left=22] node[pos=0.45, below, yshift=-4pt]{Erkenntnisse, Feedback} (curriculum);
+      \draw[line] (content) -- node[pos=0.55, right, xshift=8pt]{Materialien} (lms);
+      \draw[line] (lernorte) -- node[pos=0.55, right, xshift=8pt, yshift=-2pt]{Praxisimpulse} (lms);
+      \draw[dashedline] (lernorte) -- node[pos=0.7, below, xshift=6pt]{Koordination} (cohort);
+      \draw[dashedline] (lernorte) -- node[pos=0.7, below, xshift=-6pt]{Anforderungen} (curriculum);
     \end{tikzpicture}%
   }
   \captionsetup{justification=justified,singlelinecheck=false}
-  \caption{Systemisches Modell des eingesetzten Learning Management}
+  \caption{Systemisches Modell des eingesetzten Learning Management Systems mit Rückkopplung zwischen curricularen Handlungssituationen, LMS-Kern und kohortenspezifischen Ausbildungskursen.}
   \caption*{\footnotesize Dargestellt ist die Architektur des Systems als Kopplung von curricularer Struktur (Handlungssituationen), LMS-Kern und kohortenspezifischen Ausbildungskursen. Content (Materialien) und Lernorte (Praxisimpulse) wirken in den LMS-Kern ein; gestrichelte Relationen markieren Koordination und Anforderungen der Lernorte gegenüber Kurs- und Curricularebene.}
   \label{fig:modell_LMS}
 \end{figure}
