@@ -62,8 +62,8 @@ header-includes:
   - \providecommand*{\figureautorefname}{Abbildung}
   - \providecommand*{\tableautorefname}{Tabelle}
   - \providecommand*{\equationautorefname}{Gleichung}
-  - \newcommand{\figsubcaption}[1]{\captionsetup{type=figure}\vspace{-0.6\baselineskip}{\begingroup\small\setstretch{1.0}\caption*{#1}\endgroup}\vspace{1.1\baselineskip}}
-  - \newcommand{\tabsubcaption}[1]{\captionsetup{type=table}\vspace{-0.6\baselineskip}{\begingroup\small\setstretch{1.0}\caption*{#1}\endgroup}\vspace{1.1\baselineskip}}
+  - \newcommand{\figsubcaption}[1]{{\begingroup\small\setstretch{1.0}#1\endgroup}}
+  - \newcommand{\tabsubcaption}[1]{{\begingroup\small\setstretch{1.0}#1\endgroup}}
   - \usepackage{draftwatermark}
   - \SetWatermarkText{Arbeitsversion}
 ---
