@@ -157,12 +157,11 @@ Aufbauend auf den in Abschnitt \hyperref[sec:Kontext-FG]{3.1} beschriebenen Ents
 	 
 Die Skizze dient im Folgenden als Referenzstruktur: Sie macht sichtbar, welche Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung) den späteren Ausführungen zugrunde liegen, ohne bereits Details der späteren Umsetzung vorwegzunehmen.
 
-Abbildung 1: Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 2016)
-
-+++++ Abbildung 1 hier einfügen +++++
+![Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 2016).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-konstruktionsskizze.png>){#fig:fg-didaktische-systemstruktur}
+\figsubcaption{Die Skizze dokumentiert die frühen Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung), die in den folgenden Abschnitten zur ausgearbeiteten Lernumgebung konkretisiert werden.}
 
 Priorität: NICE — historischer Ursprung/Anschaulichkeit; nicht argumentationskritisch.
-#todo (#40) Abbildung 1 ersetzen: tatsächliche Grafikdatei/Scan einbinden (inkl. Quelle/Datum), konsistente Caption + Subcaption (Was wird gezeigt? Warum ist sie für den Forschungsgegenstand relevant?).
+#todo (#40) Abbildung 1 prüfen: Scanqualität/Cropping, Quelle/Datum konsistent, Caption/Subcaption finalisieren.
 
 Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learning Management Systems. Die Skizze zeigt erste Überlegungen zur Verschränkung von Lernorten, Selbststeuerung und Aufgabenstruktur als Grundlage einer systemisch-konstruktivistisch orientierten Ausbildungsarchitektur.
 
@@ -190,11 +189,7 @@ Die konzeptionelle Grundstruktur des LMS wird in Abbildung \ref{fig:modell_LMS} 
 Die Struktur trennt curricular-inhaltliche Handlungssituationen ($n = 32$) von kohortenspezifischen Ausbildungskursen ($n = 3$). Diese Trennung ermöglicht eine flexible, aber kohärente Lernumgebung, in der individuelle Erkenntnisse aus kursinternen Prozessen systematisch in die übergeordnete Handlungsebene zurückgeführt werden können.
 
 Durch diese Gestaltung verbinden alle drei an der Ausbildung beteiligten Lernorte (Lehrrettungswache, Notfallsanitäterschule und Krankenhaus) gemäß der Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter in den Kursen der Handlungssituationen als interne und externe Akteure (§ 3 i.V.m. Anlage 1-3 NotSan-APrV\label{term:notsan-aprv}, 2023). Auf diese Weise wird die Gesamtheit der Personen, die eine unmittelbare Verantwortung für die Begleitung der jeweiligen Schülerinnen und Schüler übernommen haben, in alle Kurse eingetragen. Infolgedessen stehen für die inhaltlich-fachliche Ausbildung mehr Ressourcen zur Verfügung. Zugleich kann die administrativ-organisatorische Ressourcenbereitstellung bewusst pro Ausbildungskurs erfolgen. Ferner ist die zur Verfügungstellung passender Inhalte möglich, die nur einen Ausbildungskurs betreffen. Die Erkenntnisse aus den Arbeitsergebnissen der kursinternen Aufgabenbearbeitung fließen wiederum in die jeweilige Handlungssituation zurück. Damit entsteht eine hohe Durchlässigkeit von Erfahrungen und Erkenntnissen – sowohl in Richtung eines spezifischen Kurses als auch in Richtung der übergeordneten Handlungssituationen. Die Möglichkeit der Anwendung liegt in der Gestaltung von Rahmenbedingungen, die den unmittelbaren Lernort-Transfer (Lehrrettungswache – Notfallsanitäterschule – Krankenhaus) durch die Verschränkung der Lernorte sowie den damit verknüpften Erfahrungsaustausch und Erkenntnisgewinn systematisch sicherstellen.
-Abbildung 3 visualisiert die integrative Architektur des hier beschriebenen Learning Management Systems. Im Zentrum steht die funktionale Verknüpfung zweier Struktureinheiten: Handlungssituationen als inhaltlich-didaktische Strukturelemente (untere Ebene) und Ausbildungskurse als organisatorisch-administrative Einheiten (obere Ebene). Beide Einheiten sind nicht hierarchisch, sondern wechselseitig bezogen. Inhalte und Erkenntnisse aus den kursinternen Lernprozessen fließen in die Handlungssituationen zurück, während die Handlungssituationen den curricularen Rahmen für die Ausbildungskurse bilden. Diese Rückkopplung wurde in den vorhergehenden Abschnitten als Durchlässigkeit zwischen Struktur- und Anwendungsebene beschrieben.
-
-Abbildung 3:  Integrative Architektur des Learning Management Systems (eig. Darstellung).
-
-#todo Abbildung 3 hier einfügen: Priorität: MUST — zentrale Gesamtarchitektur (Handlungssituationen – Ausbildungskurse – Content/Lernorte) als Referenzrahmen für Kapitel 3/5/6/7.
+Abbildung \ref{fig:modell_LMS} visualisiert die integrative Architektur des hier beschriebenen Learning Management Systems. Im Zentrum steht die funktionale Verknüpfung zweier Struktureinheiten: Handlungssituationen als inhaltlich-didaktische Strukturelemente (untere Ebene) und Ausbildungskurse als organisatorisch-administrative Einheiten (obere Ebene). Beide Einheiten sind nicht hierarchisch, sondern wechselseitig bezogen. Inhalte und Erkenntnisse aus den kursinternen Lernprozessen fließen in die Handlungssituationen zurück, während die Handlungssituationen den curricularen Rahmen für die Ausbildungskurse bilden. Diese Rückkopplung wurde in den vorhergehenden Abschnitten als Durchlässigkeit zwischen Struktur- und Anwendungsebene beschrieben.
 
 Die Handlungssituationen (n = 32) bilden die curricular-inhaltliche Struktur gemäß Rahmenlehrplan NRW ab und bestehen aus standardisierten didaktischen Containern (Einführung, Ressourcen, Aufgaben, weiterführende Quellen, Lounge, Feedback, Organisation). Die Ausbildungskurse (n = 3) dienen der kohortenspezifischen Organisation und individuellen Ergebnissicherung. Content und Lernorte wirken wechselseitig auf die Handlungssituationen ein und sichern die curricular verankerte Theorie-Praxis-Verknüpfung im digitalen Raum.
 
@@ -204,10 +199,9 @@ Anhand von Abbildung 4 lässt sich die exemplarische Anwendung der zuvor beschri
 
 Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedingungen des Wirkgefüges und Sie zeigt, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System notwednigerweise technisch ermöglichend berücksichtig werden müssen. Ursprung dieser Darstellung ist die eigene Moodle-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
 
-Abbildung 4: Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz)
-
 Priorität: SHOULD — macht die Standardisierung/Containerstruktur operativ sichtbar; stärkt Nachvollziehbarkeit.
-#todo (#41) Abbildung 4 hier einfügen
+![Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-kursansicht-1.png>){#fig:fg-kursansicht}
+\figsubcaption{Die Abbildung zeigt die standardisierte Container-Navigation (links) sowie den inhaltsseitigen Aufbau (Kursdetails, Ressourcen etc.) als operatives Abbild der beschriebenen didaktischen Architektur.}
 
 Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
 
