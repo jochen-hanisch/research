@@ -55,9 +55,9 @@ Table: Konsequenzen für das LMS innerhalb der rechtlich-funktionalen Rahmung \l
 \tabsubcaption{Konsequenzen der rechtlich-funktionalen Rahmung für die LMS-Architektur. Zusammengeführt sind zentrale normative Anforderungen (u.a. NotSanG und Ausbildungs-/Prüfungsrahmen) und daraus abgeleitete Funktions- und Strukturbedarfe des Systems (Koordination der Lernorte, Dokumentation/Nachweis, Kommunikation, Qualitätssicherung).}
 ```
 
-Weiter mit Schule
+#todo Weiter mit Schule
 
-Weiter mit HRT
+#todo Weiter mit HRT
 
 #todo (#37) Platzhalter-Notizen („Weiter mit …“) durch ausformulierte Abschnitte ersetzen: (a) schulische/organisationale Einbettung (Träger, Schule, Lernorte, Verantwortlichkeiten) und (b) HRT-spezifische Anforderungen (Entscheidungsdruck, Fehlerfolgen, Kompetenz-/Transferlogik) als Begründung der besonderen Kontextbedingungen des Untersuchungsfalls.
 
@@ -157,7 +157,8 @@ Aufbauend auf den in Abschnitt \hyperref[sec:Kontext-FG]{3.1} beschriebenen Ents
 	 
 Die Skizze dient im Folgenden als Referenzstruktur: Sie macht sichtbar, welche Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung) den späteren Ausführungen zugrunde liegen, ohne bereits Details der späteren Umsetzung vorwegzunehmen.
 
-![Frühe Skizze zur didaktischen Systemstruktur (eig. Darstellung, 2016).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-konstruktionsskizze.png>){#fig:fg-didaktische-systemstruktur}
+![Frühe Skizze zur didaktischen Systemstruktur](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-konstruktionsskizze.png>){#fig:fg-didaktische-systemstruktur}
+
 \figsubcaption{Die Skizze dokumentiert die frühen Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung), die in den folgenden Abschnitten zur ausgearbeiteten Lernumgebung konkretisiert werden.}
 
 Priorität: NICE — historischer Ursprung/Anschaulichkeit; nicht argumentationskritisch.
@@ -173,9 +174,7 @@ Anfangs stand weniger ein fertiges Konzept als vielmehr die Idee eines Weges, de
 
 ![Trajektorie der Handlungssituationen im LMS.](<08 Metaquellen/08-01 Abbildungen/didaktik/ontologisch-systemische-trajektorie_konstruktivistisch-standardlernender.png>){#fig:fg-trajektorie}
 
-```{=latex}
 \figsubcaption{Beispielprofil. Die Abbildung visualisiert das LMS als Pfad durch Handlungssituationen: Lernen wird als sequenzielle, rückkopplungsfähige Prozessarchitektur modelliert.}
-```
 
 In dieser Form ist das Learning Management System nicht nur ein digitales Abbild der Ausbildung, sondern die konkrete Umsetzung eines pädagogischen Weges, der systemisch gedacht, curricular verankert und lernprozessbezogen gestaltet ist. Auf Grundlage der in Abschnitt \hyperref[sec:Bildungswiss-Verortung]{2.1} dargestellten didaktischen Paradigmen wurden zunächst die im Lehrplan als „erwünschte Wirkung“ bezeichneten Kompetenzbeschreibungen in das Kompetenzraster des Learning Management Systems übertragen. Darauf aufbauend erfolgte die systematische Zuordnung der in Abschnitt \hyperref[sec:Implementierung-Schule]{3.2.2} erwähnten handlungsleitenden Aufgaben, die bereits im Lehrplan mediendidaktisch formuliert vorlagen, zu den jeweiligen Handlungssituationen innerhalb der Kursstruktur. Auf diese Weise entstand eine digitale Architektur, die curriculare Kompetenzziele mit konkreten Lernhandlungen strukturiert, adressierbar und systematisch verknüpft mit den drei Lernorten Schule, Lehrrettungswache und Krankenhaus verbindet.
 Das didaktisch-digitale Fundament des hier skizzierten Learning Management Systems bilden 32 Kurse, die, wie Abbildung 2 verdeutlicht, als „Handlungssituationen im Gesundheitswesen“ die gesamten inhaltlichen Dimensionen der Lernfelder des Rahmenlehrplans NRW abbilden. Ergänzend wird pro Ausbildungskurs eine kursinterne Umgebung zur Verfügung gestellt, in der die individuellen Erkenntnisse und Arbeitsergebnisse der jeweiligen Kohorte gesichert und dokumentiert werden können. Besonders an dieser Organisationsform ist die bewusste Trennung zwischen inhaltlicher Struktur und organisatorischer Kurslogik, wodurch eine hohe Flexibilität entsteht, innerhalb derer Lernende bei der Absolvierung oder Wiederholung einzelner Ausbildungsabschnitte gezielt an ihre individuellen fachlich-inhaltlichen Lernstände anknüpfen können, ohne die Kohärenz der Gesamtstruktur zu verlieren.
