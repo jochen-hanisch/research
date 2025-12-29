@@ -104,7 +104,7 @@ flowchart TD
 
     %% Handlungsdimensionen & Zielbezug
     H["Handlungsdimensionen<br/>kognitiv<br/>psychomotorisch"]
-    I["Zielbezug<br/>Überwindung von Transformationsbarrieren"]
+    I["Zielbezug<br/>Überwindung von<br/>Transformationsbarrieren"]
 
     %% Operationalisierung
     E["Operationalisierung<br/>Linsen<br/>Indikatoren<br/>Nachweisformen"]
@@ -114,9 +114,12 @@ flowchart TD
     G["Rechts- & Verfahrenssicherheit<br/>Dokumentation<br/>Standard-Setting<br/>Kalibrierung"]
 
     %% Flüsse
-    A --> B
+    A --> D
     B --> D
     C --> D
+
+    %% Rechtsnormative Ableitung (optional visualisiert)
+    A -. konkretisiert .-> B
 
     D --> H
     D --> I
@@ -129,6 +132,7 @@ flowchart TD
 
     %% Linsen-Knoten (statt Einzellinsen)
     Linsen["Linsen aus § 17 Abs. 2 NotSan-APrV<br/>1 Lageeinschätzung<br/>2 Arbeitsdiagnose<br/>3 Gerätehandhabung<br/>4 Maßnahmen<br/>5 Dokumentation<br/>6 Transport & Übergabe"]
+    B --> Linsen
     Linsen --> E
 ```
 _Abbildung 1: Systemtheoretische Operationalisierung des Beherrschens in der Notfallsanitäter:innen-Ausbildung (eig. Darstellung)_
