@@ -3,7 +3,7 @@ author: Jochen Hanisch-Johannsen
 title: Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-08-13
-updated: 2025-08-16
+updated: 2025-12-29
 publish: true
 tags:
   - NotSanG
@@ -20,7 +20,7 @@ tags:
 published: 2025-08-16
 ---
 
-created: 13.8.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Bildungswissenschaft/Beherrschen.md)): 16.8.2025 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 13.8.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Bildungswissenschaft/Beherrschen.md)): 29.12.2025 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung**
 
@@ -129,7 +129,7 @@ flowchart TD
 
     %% Linsen-Knoten (statt Einzellinsen)
     Linsen["Linsen aus § 17 Abs. 2 NotSan-APrV<br/>1 Lageeinschätzung<br/>2 Arbeitsdiagnose<br/>3 Gerätehandhabung<br/>4 Maßnahmen<br/>5 Dokumentation<br/>6 Transport & Übergabe"]
-    E --> Linsen
+    Linsen --> E
 ```
 _Abbildung 1: Systemtheoretische Operationalisierung des Beherrschens in der Notfallsanitäter:innen-Ausbildung (eig. Darstellung)_
 _Die Abbildung zeigt ein Flussdiagramm zur systemtheoretischen Operationalisierung des Begriffs Beherrschen in der Notfallsanitäter:innen-Ausbildung. Ausgangspunkt sind die drei normativen und theoretischen Quellenebenen: das NotSanG (§ 2a „erlernt und beherrscht“), die NotSan-APrV (§ 17 Abs. 2 mit sechs Prüfungsperspektiven) sowie das Kompetenzmodell für High Responsibility Teams. Diese münden in die zentrale Definition von Beherrschen als Operation, die Unterscheidung, Analyse, Beurteilung und Ausführung umfasst. Von hier aus verzweigt das Diagramm in zwei Richtungen: einerseits die Handlungsdimensionen (kognitiv, psychomotorisch), andererseits den Zielbezug (Überwindung von Transformationsbarrieren). Beide Stränge führen in die Operationalisierung, die über Linsen, Indikatoren und Nachweisformen konkretisiert wird. Innerhalb dieses Blocks sind die sechs Prüfungsperspektiven der NotSan-APrV (Lageeinschätzung, Arbeitsdiagnose, Gerätehandhabung, Maßnahmen, Dokumentation, Transport/Übergabe) zusammengefasst. Die Operationalisierung leitet weiter zu Nachweis- und Bewertungsformaten (OSCE/OSPE, Fallvignetten, Audit-Trail), die schließlich in den Bereich der Rechts- und Verfahrenssicherheit übergehen (Dokumentation, Standard-Setting, Kalibrierung). Damit verdeutlicht die Abbildung den Weg vom offenen Rechtsbegriff über die systemtheoretische Definition hin zur pädagogischen und prüfmethodischen Operationalisierung._
