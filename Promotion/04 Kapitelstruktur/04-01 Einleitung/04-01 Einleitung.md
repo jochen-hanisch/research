@@ -333,9 +333,7 @@ Abbildung~\ref{fig:lesepfad-entdeckend} visualisiert diesen Zugang als systemisc
 
 Zur ersten Annäherung eignen sich insbesondere der empirische Befund in \hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}, die kontextuelle Einbettung des Systems in \hyperref[sec:Entwicklung-Einbettung]{Abschnitt 3.2}, die theoretische Linse zu Regeneration und Störung in \hyperref[sec:Regeneration-Stoerung]{Abschnitt 2.5.2}, die methodische Prüfung in \hyperref[sec:Datenanalyse]{Abschnitt 4.3} sowie die verdichtende Diskussion in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}. Der Abschluss in \hyperref[sec:Conclusio-Manifest]{Abschnitt 7.1} bietet eine zusammenführende Perspektive, die die zuvor hergestellten Bezüge bündelt.
 
-```{=latex}
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/lesepfad-entdeckend.tex}
-```
 
 Der explorative Lesepfad folgt bewusst keiner festgelegten Reihenfolge. Jede Station kann Ausgangspunkt weiterer Vertiefung sein und verweist implizit auf offene Zusammenhänge, die an anderen Stellen aufgegriffen und präzisiert werden. Auf diese Weise entsteht eine Lektürebewegung, in der Bedeutung, Erklärung und Einordnung schrittweise zueinander in Beziehung stehen. Kapitel \hyperref[sec:Einleitung]{1} kann dabei jederzeit als begrifflicher und konzeptioneller Referenzpunkt hinzugezogen werden.
 
