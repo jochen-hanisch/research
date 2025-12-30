@@ -141,8 +141,6 @@ Transformatorische Bildungstheorie rahmt Bildung als Prozess tiefgreifender Ver�
 Pragmatismus und Praxistheorien stützen Blick auf Handeln, Erfahrung und Praktiken und ermöglichen Analyse von Lernen als Vollzug in situativen Kontexten, Routinen und materialen Arrangements. [@huber_pragmatismus_2023, Seite 451; @huber_praxistheorien_2023, Seite 459]
 Reflexivität bezeichnet Haltung und Bereitschaft zum Reflektieren und stellt Verknüpfung zwischen Erfahrung, Deutung und Handeln her, die für theoretische Arbeit und für Professionalisierung als dauerhaftes Moment relevant bleibt. [@huber_reflexivitat_2023, Seite 485]
 
-#### Klassiker entlang zentraler Leitkategorien
-
 Die systemisch-konstruktivistische Rahmung dieses Abschnitts stützt sich auf drei zentrale Beiträge: Siebert, Reich und Arnold. Ihre Konzepte lassen sich entlang der Kategorien Kerngedanke, Argumentation, Schlussfolgerung und Weiterführung ordnen:
 
 - **Kerngedanke**: Alle drei Autoren verstehen Bildung als subjektzentrierten Prozess, der auf Selbsttätigkeit, Erfahrung und Kontextualisierung angewiesen ist. Siebert (2001) betont die dialogische Selbstaneignung von Welt, Reich (2008) fokussiert auf Mehrperspektivität und radikale Konstruktivität, Arnold (2010, 2015) entwickelt daraus eine systemisch strukturierte Kompetenzorientierung.
@@ -152,10 +150,9 @@ Die systemisch-konstruktivistische Rahmung dieses Abschnitts stützt sich auf dr
 
 [@siebert_lernen_2001; @reich_mehrperspektivische_2008; @arnold_systemische_2010; @arnold_systemische_2015]
 
-### Zwischenfazit zur systemisch-konstruktivistischen Theorie
-
 Die systemisch-konstruktivistische Theorie ermöglicht eine präzise begriffliche Modellierung von Bildungsprozessen im digitalen Raum. Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit markieren zentrale Leitlinien, die das Wirkgefüge zwischen Subjekt, Institution und Technologie strukturieren. Lernen wird als subjektbezogener Konstruktionsprozess gefasst, der in systemisch orchestrierten Bildungsräumen spezifische Bedingungen erfährt. Diese Perspektive erlaubt es, pädagogische Gestaltung nicht als Steuerung, sondern als Angebot für Anschlusskommunikation zu verstehen. Die hier entwickelten Annahmen bilden den theoretischen Rahmen für die spätere Dynamikmodellierung (Abschnitt 2.5), in der subjektive Trägervariablen und strukturelle Bedingungen als gekoppeltes System geführt werden.
 
+### 2.2.3 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
 
 \label{term:bildungstechnologie-digitalitaet}
 
