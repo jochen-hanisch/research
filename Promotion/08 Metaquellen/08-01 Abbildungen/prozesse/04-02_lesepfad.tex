@@ -1,0 +1,28 @@
+\begin{figure}[h!]
+\centering
+\begin{tikzpicture}[node distance=1.5cm and 2cm, on grid, auto,
+  every node/.style={rectangle, draw, align=center, minimum height=1.2cm, text width=3.5cm},
+  concept/.style={rectangle, draw=black, thick}
+  ]
+
+\node[concept] (beduerfnisse) {2.1\\Psychologische\\Grundlagen};
+\node[concept, below=of beduerfnisse] (bildungswiss) {2.2\\Bildungswiss.\\Rahmenmodelle};
+\node[concept, below=of bildungswiss] (medien) {2.3\\Medien- und\\Technikdimension};
+\node[concept, below=of medien] (techdef) {2.4\\Theorie- und\\Technologiekritik};
+\node[concept, below=of techdef] (modell) {2.5\\Systemmodell des\\Bildungswirkgefüges};
+
+% Linearer Lesepfad
+\draw[->, thick] (beduerfnisse) -- (bildungswiss);
+\draw[->, thick] (bildungswiss) -- (medien);
+\draw[->, thick] (medien) -- (techdef);
+\draw[->, thick] (techdef) -- (modell);
+
+% Rückwärtsschleifen für rekursiven Pfad
+\draw[->, dashed, bend left=35] (modell) to (beduerfnisse);
+\draw[->, dashed, bend left=25] (modell) to (bildungswiss);
+\draw[->, dashed, bend left=15] (modell) to (medien);
+
+\end{tikzpicture}
+\caption*{\footnotesize Zwei mögliche Lektürepfade durch Kapitel 2: Der lineare Pfad (schwarz, durchgezogen) folgt einer aufbauenden Struktur – von psychologischen Grundlagen über bildungswissenschaftliche und technikbezogene Modelle bis zur Systemarchitektur. Der systemische Pfad (grau, gestrichelt) betont die Rückkopplung vom Modell auf die vorgelagerten Abschnitte: Das Wirkgefüge fungiert als interpretatives Zentrum, das die theoretischen Positionen nachträglich strukturierend einordnet.}
+\caption{Strukturierte Lektürepfade durch Kapitel 2 – linear und rekursiv (eigene Darstellung).}
+\end{figure}

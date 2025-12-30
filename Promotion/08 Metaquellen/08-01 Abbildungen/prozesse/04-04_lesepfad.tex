@@ -1,0 +1,26 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=2.3cm and 2cm, on grid, auto,
+  every node/.style={rectangle, draw, align=center, minimum height=1.4cm, text width=4.4cm},
+  concept/.style={rectangle, draw=black, thick}
+  ]
+
+\node[concept] (paradigma) {4.1\\Erkenntnistheoretischer\\Rahmen};
+\node[concept, below=of paradigma] (erhebung) {4.2\\Empirische\\Zugänge};
+\node[concept, below=of erhebung] (analyse) {4.3\\Analytische\\Verfahren};
+\node[concept, below=of analyse] (simulation) {4.4\\Systemische\\Modellprüfung};
+\node[concept, below=of simulation] (reflexion) {4.5\\Methodenkritische\\Rückkopplung};
+
+\draw[->, thick] (paradigma) -- (erhebung);
+\draw[->, thick] (erhebung) -- (analyse);
+\draw[->, thick] (analyse) -- (simulation);
+\draw[->, thick] (simulation) -- (reflexion);
+
+\draw[->, dashed, bend left=45] (reflexion) to (paradigma);
+\draw[->, dashed, bend left=35] (simulation) to (analyse);
+
+\end{tikzpicture}
+\caption*{\footnotesize Zwei mögliche Lektürepfade durch Kapitel 4: Der lineare Pfad (schwarz, durchgezogen) folgt dem klassischen Forschungsprozess von der erkenntnistheoretischen Rahmung bis zur methodenkritischen Rückkopplung. Der systemische Pfad (grau, gestrichelt) betont zyklische Überprüfungen von Passung, Validität und Modellstimmigkeit.}
+\caption{Strukturierte Lektürepfade durch Kapitel 4 – linear und systemisch (eigene Darstellung).}
+\label{fig:lesepfad-04}
+\end{figure}

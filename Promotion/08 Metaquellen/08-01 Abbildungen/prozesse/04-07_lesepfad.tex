@@ -1,0 +1,26 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=2.3cm and 2cm, on grid, auto,
+  every node/.style={rectangle, draw, align=center, minimum height=1.4cm, text width=4.4cm},
+  concept/.style={rectangle, draw=black, thick}
+  ]
+
+\node[concept] (manifest) {7.1\\Systemische\\Positionierung};
+\node[concept, below=of manifest] (zusammenf) {7.2\\Ergebnissynthese};
+\node[concept, below=of zusammenf] (theorie) {7.3\\Modelltheoretische\\Schlüsse};
+\node[concept, below=of theorie] (grenzen) {7.4\\Systemgrenzen\\und Irritationen};
+\node[concept, below=of grenzen] (ausblick) {7.5\\Entwicklungslinien};
+
+\draw[->, thick] (manifest) -- (zusammenf);
+\draw[->, thick] (zusammenf) -- (theorie);
+\draw[->, thick] (theorie) -- (grenzen);
+\draw[->, thick] (grenzen) -- (ausblick);
+
+\draw[->, dashed, bend left=45] (ausblick) to (manifest);
+\draw[->, dashed, bend left=35] (grenzen) to (theorie);
+
+\end{tikzpicture}
+\caption*{\footnotesize Zwei Lektürepfade durch Kapitel 7: Der lineare Pfad (schwarz, durchgezogen) führt von der systemischen Positionierung über Synthese, Reflexion und Begrenzung zu Entwicklungsperspektiven. Der systemische Pfad (grau, gestrichelt) verweist auf zirkuläre Rückbindungen: Erkenntnisse modifizieren die Ausgangsposition.}
+\caption{Strukturierte Lektürepfade durch Kapitel 7 – linear und systemisch (eigene Darstellung).}
+\label{fig:lesepfad-07}
+\end{figure}

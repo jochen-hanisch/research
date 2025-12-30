@@ -1,0 +1,24 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=2.3cm and 2cm, on grid, auto,
+  every node/.style={rectangle, draw, align=center, minimum height=1.4cm, text width=4.4cm},
+  concept/.style={rectangle, draw=black, thick}
+  ]
+
+\node[concept] (ueberblick) {5.1\\Systemische\\Ergebnisperspektive};
+\node[concept, below=of ueberblick] (verteilung) {5.2\\Strukturelle\\Verteilung};
+\node[concept, below=of verteilung] (fu) {5.3\\Analytische\\Antwortstruktur};
+\node[concept, below=of fu] (zusammenf) {5.4\\Integrative\\Synthese};
+
+\draw[->, thick] (ueberblick) -- (verteilung);
+\draw[->, thick] (verteilung) -- (fu);
+\draw[->, thick] (fu) -- (zusammenf);
+
+\draw[->, dashed, bend left=45] (zusammenf) to (ueberblick);
+\draw[->, dashed, bend left=35] (fu) to (verteilung);
+
+\end{tikzpicture}
+\caption*{\footnotesize Zwei mögliche Lektürepfade durch Kapitel 5: Der lineare Pfad (schwarz, durchgezogen) rekonstruiert die Ergebnisse entlang ihrer Entfaltung. Der systemische Pfad (grau, gestrichelt) verweist auf interpretative Rückkopplungen – von der Synthese zur Einordnung und zur kategorialen Verteilung.}
+\caption{Strukturierte Lektürepfade durch Kapitel 5 – linear und systemisch (eigene Darstellung).}
+\label{fig:lesepfad-05}
+\end{figure}
