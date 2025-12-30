@@ -124,6 +124,7 @@ Pädagogik wird als disziplinärer Bezugspunkt markiert, der Begriffsgeschichte 
 Didaktik wird als wissenschaftlicher Terminus mit unterschiedlichen Bestimmungen geführt und als Theorie und Wissenschaft von Lehren und Lernen, Unterricht und Bildungsinhalten sowie Steuerung von Lernprozessen diskursiv ausdifferenziert. [@huber_didaktik_2023, Seite 107]
 Menschenbilder werden als bewusste oder unbewusste Vorstellungen gefasst, die Wahrnehmung, Bewertung und Handeln gegenüber Lernenden strukturieren und damit in didaktischen und institutionellen Entscheidungen wirksam werden. [@huber_menschenbilder_2023, Seite 369]
 
+
 ### 2.2.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}
 
 \label{term:systemisch-konstruktivistische-theorie}
@@ -140,7 +141,21 @@ Transformatorische Bildungstheorie rahmt Bildung als Prozess tiefgreifender Ver�
 Pragmatismus und Praxistheorien stützen Blick auf Handeln, Erfahrung und Praktiken und ermöglichen Analyse von Lernen als Vollzug in situativen Kontexten, Routinen und materialen Arrangements. [@huber_pragmatismus_2023, Seite 451; @huber_praxistheorien_2023, Seite 459]
 Reflexivität bezeichnet Haltung und Bereitschaft zum Reflektieren und stellt Verknüpfung zwischen Erfahrung, Deutung und Handeln her, die für theoretische Arbeit und für Professionalisierung als dauerhaftes Moment relevant bleibt. [@huber_reflexivitat_2023, Seite 485]
 
-### 2.2.3 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
+#### Klassiker entlang zentraler Leitkategorien
+
+Die systemisch-konstruktivistische Rahmung dieses Abschnitts stützt sich auf drei zentrale Beiträge: Siebert, Reich und Arnold. Ihre Konzepte lassen sich entlang der Kategorien Kerngedanke, Argumentation, Schlussfolgerung und Weiterführung ordnen:
+
+- **Kerngedanke**: Alle drei Autoren verstehen Bildung als subjektzentrierten Prozess, der auf Selbsttätigkeit, Erfahrung und Kontextualisierung angewiesen ist. Siebert (2001) betont die dialogische Selbstaneignung von Welt, Reich (2008) fokussiert auf Mehrperspektivität und radikale Konstruktivität, Arnold (2010, 2015) entwickelt daraus eine systemisch strukturierte Kompetenzorientierung.
+- **Argumentation**: Siebert führt Bildung als reflexive Selbstverhältnisklärung ein, Reich integriert Erkenntnistheorie in die Didaktik, Arnold modelliert Kompetenzentwicklung über Passungsverhältnisse zwischen Person, Aufgabe und Kontext.
+- **Schlussfolgerung**: Bildung wird nicht als vermittelbare Größe, sondern als emergente Struktur interpretiert. Lernen vollzieht sich in situativen Kontexten, ist von Emotion und Beziehung durchzogen und kann didaktisch nur indirekt stimuliert werden.
+- **Weiterführung**: Die Beiträge legen den theoretischen Grund für das Wirkgefüge-Modell in Abschnitt 2.5. Die Idee der strukturellen Kopplung (Reich), der biografisch geprägten Passung (Arnold) und der dialogischen Selbstaneignung (Siebert) bilden drei Trägerelemente des Modells.
+
+[@siebert_lernen_2001; @reich_mehrperspektivische_2008; @arnold_systemische_2010; @arnold_systemische_2015]
+
+### Zwischenfazit zur systemisch-konstruktivistischen Theorie
+
+Die systemisch-konstruktivistische Theorie ermöglicht eine präzise begriffliche Modellierung von Bildungsprozessen im digitalen Raum. Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit markieren zentrale Leitlinien, die das Wirkgefüge zwischen Subjekt, Institution und Technologie strukturieren. Lernen wird als subjektbezogener Konstruktionsprozess gefasst, der in systemisch orchestrierten Bildungsräumen spezifische Bedingungen erfährt. Diese Perspektive erlaubt es, pädagogische Gestaltung nicht als Steuerung, sondern als Angebot für Anschlusskommunikation zu verstehen. Die hier entwickelten Annahmen bilden den theoretischen Rahmen für die spätere Dynamikmodellierung (Abschnitt 2.5), in der subjektive Trägervariablen und strukturelle Bedingungen als gekoppeltes System geführt werden.
+
 
 \label{term:bildungstechnologie-digitalitaet}
 
