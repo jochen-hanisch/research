@@ -4,6 +4,12 @@
 
 Dieses Kapitel fasst die empirischen und modellbasierten Befunde zusammen, verbindet die in \hyperref[sec:Methodologie]{Kapitel 4} dargestellten Verfahren mit der anschließenden Interpretation in \hyperref[sec:Diskussion]{Kapitel 6} und orientiert die Darstellung an den im Kapitel dokumentierten Kernbereichen. Die Ergebnisse werden durchgängig an den in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an der in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} beschriebenen Architektur des Learning Management Systems gespiegelt.
 
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-05_lesepfad.tex}
+
+Hinweise betreffen Verweislogik zwischen Ergebnisdarstellung, Anhängen und Datenartefakten. Tabellen und Abbildungen tragen Referenzen, die Orientierung und Rückbindung an Methodologie und Theorie ermöglichen.
+
+Abschnitt \hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt Überblick und Einordnung. Abschnitt \hyperref[sec:Ergebnisse-Verteilung]{5.2} beschreibt Verteilung der Analysen nach Kernbereichen. Abschnitt \hyperref[sec:Ergebnisse-Forschungsfragen]{5.3} beantwortet Forschungsunterfragen.
+
 ## 5.1 Überblick und Einordnung {#sec:Ergebnisse-Ueberblick}
 
 Die Ergebnisse zeigen konsistent, dass Learning-Management-Systeme im digitalen Bildungsraum als soziotechnische Arrangements wirken, deren Wirkungen aus dem Zusammenspiel von didaktischen Merkmalen und technologischer Architektur, bildungswissenschaftlichen Mechanismen (Rückkopplung, Interaktion, Kultur/Normativität) und Akzeptanz- und Implementationsbedingungen entstehen. Diese Struktur wird in den P‑QIA-Metaanalysen pro Forschungsunterfrage (FU) sichtbar (Anhang \hyperref[sec:A-9]{A‑9}) und wird durch die beiden empirischen Zugänge (Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1] und Umfrage [@hanisch-johannsen_wirkgefuge_2025]) in den Nutzungsvollzug gespiegelt (Anhänge \hyperref[sec:A-7]{A‑7} und \hyperref[sec:A-12]{A‑12}).

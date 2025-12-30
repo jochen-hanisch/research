@@ -14,7 +14,15 @@
 
 #todo (#32) Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
 
----
+----
+
+**Zusammnefassung Kapitel 2**
+
+**Lesepfad Kapitel 2**
+
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-02_lesepfad.tex}
+
+**Hinweise Kapitel 2**
 
 In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel ist es, die zentralen Begriffe und Konzepte zu definieren, die als Grundlage für die spätere Modellierung und empirische Untersuchung dienen. Der Theorieteil gliedert sich in fünf Abschnitte, die jeweils unterschiedliche Perspektiven auf das digitale Bildungswirkgefüge einnehmen und miteinander verknüpfen. Hierzu werden zu jedem Abschnitt prägnante Zusammenfassungen und Übergänge formuliert. Grundlage ist eine Unterscheidung zwischen Begriff, Phänomen und Konstrukt.
 - **Begriff** fachsprachliche Benennung und Abgrenzung mit Blick auf Semantik, Traditionslinie und definitorische Entscheidung
@@ -22,6 +30,8 @@ In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel
 - **Konstrukt** theoretische Größe oder Mechanismus, der über Indikatoren und Datenspuren erschlossen wird
 
 Für die Einordnung und Abgrenzung der Leitbegriffe werden neben Forschungsbeiträgen auch lexikalische und begriffsgeschichtliche Referenzen herangezogen, insbesondere einschlägige pädagogische und psychologische Nachschlagewerke. [@tenorth_konstrukte_2007, Seite 418; @tenorth_medien_2007, Seiten 494-495; @wirtz_konstrukt_2020, Seite 983; @wirtz_kompetenz_2020, Seiten 964-965]
+
+**Abschnittsübersicht Kapitel 2**
 
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt psychologische Funktionslogiken, bildungswissenschaftliche Grundlagen, medienpädagogische Rahmungen sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges\label{term:digitales-bildungswirkgefuge}. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stelle jene theoretischen Grundannahmen betrachtet, die für das Wirkgefüge des untersuchten Learning Management Systems (LMS) konstitutiv sind. Im Mittelpunkt stehen die Definitionen von Bildung\label{term:bildung}, Digitalität\label{term:digitalitaet} und Kompetenzentwicklung\label{term:kompetenzentwicklung} im systemisch-konstruktivistischen Rahmen; sie werden so gefasst, dass sie sowohl subjektive Prozesse als auch strukturelle und technische Dimensionen des digitalen Bildungsraums erfassen.
 
@@ -143,12 +153,12 @@ Reflexivität bezeichnet Haltung und Bereitschaft zum Reflektieren und stellt Ve
 
 Die systemisch-konstruktivistische Rahmung dieses Abschnitts stützt sich auf drei zentrale Beiträge: Siebert, Reich und Arnold. Ihre Konzepte lassen sich entlang der Kategorien Kerngedanke, Argumentation, Schlussfolgerung und Weiterführung ordnen:
 
-- **Kerngedanke**: Alle drei Autoren verstehen Bildung als subjektzentrierten Prozess, der auf Selbsttätigkeit, Erfahrung und Kontextualisierung angewiesen ist. Siebert (2001) betont die dialogische Selbstaneignung von Welt, Reich (2008) fokussiert auf Mehrperspektivität und radikale Konstruktivität, Arnold (2010, 2015) entwickelt daraus eine systemisch strukturierte Kompetenzorientierung.
+- **Kerngedanke**: Alle drei Autoren verstehen Bildung als subjektzentrierten Prozess, der auf Selbsttätigkeit, Erfahrung und Kontextualisierung angewiesen ist. Siebert (2003) betont die dialogische Selbstaneignung von Welt, Reich (2006) fokussiert auf Mehrperspektivität und radikale Konstruktivität, Arnold (2010, 2015) entwickelt daraus eine systemisch strukturierte Kompetenzorientierung.
 - **Argumentation**: Siebert führt Bildung als reflexive Selbstverhältnisklärung ein, Reich integriert Erkenntnistheorie in die Didaktik, Arnold modelliert Kompetenzentwicklung über Passungsverhältnisse zwischen Person, Aufgabe und Kontext.
 - **Schlussfolgerung**: Bildung wird nicht als vermittelbare Größe, sondern als emergente Struktur interpretiert. Lernen vollzieht sich in situativen Kontexten, ist von Emotion und Beziehung durchzogen und kann didaktisch nur indirekt stimuliert werden.
 - **Weiterführung**: Die Beiträge legen den theoretischen Grund für das Wirkgefüge-Modell in Abschnitt 2.5. Die Idee der strukturellen Kopplung (Reich), der biografisch geprägten Passung (Arnold) und der dialogischen Selbstaneignung (Siebert) bilden drei Trägerelemente des Modells.
 
-[@siebert_lernen_2001; @reich_mehrperspektivische_2008; @arnold_systemische_2010; @arnold_systemische_2015]
+[@siebert_padagogischer_2003; @reich_konstruktivistische_2006; @arnold_systemische_2010; @arnold_systemische_2015]
 
 Die systemisch-konstruktivistische Theorie ermöglicht eine präzise begriffliche Modellierung von Bildungsprozessen im digitalen Raum. Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit markieren zentrale Leitlinien, die das Wirkgefüge zwischen Subjekt, Institution und Technologie strukturieren. Lernen wird als subjektbezogener Konstruktionsprozess gefasst, der in systemisch orchestrierten Bildungsräumen spezifische Bedingungen erfährt. Diese Perspektive erlaubt es, pädagogische Gestaltung nicht als Steuerung, sondern als Angebot für Anschlusskommunikation zu verstehen. Die hier entwickelten Annahmen bilden den theoretischen Rahmen für die spätere Dynamikmodellierung (Abschnitt 2.5), in der subjektive Trägervariablen und strukturelle Bedingungen als gekoppeltes System geführt werden.
 
@@ -178,9 +188,9 @@ Organisationslernen beschreibt Lernprozesse auf Organisationsebene und unterstü
 Fort und Weiterbildung verweisen auf Lernformen im Berufsleben und markieren Anschlussstellen für lebenslaufbezogene Kompetenzentwicklung in institutionellen Kontexten. [@huber_fort-_2023, Seite 199]
 Lehrerinnenbildung rahmt Professionalisierung als Feld, in dem Erfahrungen, Einflüsse und Wirkungen pädagogischer Praxis zurückwirken und in Ausbildung, Studium und Berufsvorbereitung bearbeitet werden. [@huber_lehrerinnenbildung_2023, Seite 321]
 
-Methodologisch liefert @osterwalder_methode_2004 eine begrifflich geschärfte Unterscheidung zwischen Technik, Methode und System, die für die didaktische Modellierung digitaler Lernumgebungen handlungsleitend ist.
+Methodologisch liefert @osterwalder_methode_2002 eine begrifflich geschärfte Unterscheidung zwischen Technik, Methode und System, die für die didaktische Modellierung digitaler Lernumgebungen handlungsleitend ist.
 
-Auch @protz_unterricht_2004 betont, dass Unterricht in seiner Struktur stets das Spannungsverhältnis von Planbarkeit und situativer Anschlussfähigkeit abbildet – ein Spannungsfeld, das sich in digitalisierten Settings besonders deutlich zeigt.
+Auch @benner_unterricht_2004 betont, dass Unterricht in seiner Struktur stets das Spannungsverhältnis von Planbarkeit und situativer Anschlussfähigkeit abbildet – ein Spannungsfeld, das sich in digitalisierten Settings besonders deutlich zeigt.
 
 ## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand {#sec:MedienpaedagogischeRahmung}
 
@@ -211,7 +221,7 @@ Der Exkurs dient der theoretischen Absicherung einer Grundannahme, die für die 
 
 @bilstein_arbeit_2020 rekonstruiert den Ausgangspunkt der Debatte über den Technologiebegriff\label{term:technologiebegriff} als Wissenschaft von Kausalverhältnissen, die praktischen Intentionen zugrunde liegen und Handeln erfolgreich machen sollen. Für soziale und damit auch pädagogische Handlungszusammenhänge bleibt diese Idee jedoch begrenzt, weil in pädagogischen Situationen mehrere selbstreferenzielle Akteur*innen aufeinandertreffen und weil sich Wirkannahmen einzelner Faktoren unter Komplexitätsbedingungen nicht generalisieren lassen. Als Konsequenz wird Technologie in der Pädagogik historisch häufig über ein Verdikt umgangen, zugleich bleibt die Frage bestehen, wie Organisationen und Professionen handlungsfähig bleiben, wenn allgemeine, zuverlässige Kausalgesetze nicht verfügbar sind. Der operative Ausweg liegt in der Arbeit mit Kausalplänen\label{term:kausalplan} als selektiven Konstellationen von Ursachen, die als gegeben oder als erwirkbar unterstellt werden und auf diese Weise Orientierung ermöglichen. In dieser Arbeit werden Kausalpläne als organisations‑ und professionsspezifische, vorläufig stabilisierte Unterstellungen von Wirkzusammenhängen verstanden, die faktisch handlungsleitend wirken, ohne normative Geltung zu beanspruchen, und unter Bedingungen struktureller Ungewissheit Orientierung ermöglichen und deshalb als Annahmestruktur explizit zu machen sowie zu dokumentieren sind. [@bilstein_arbeit_2020, Seite 238]
 
-Langewand (2004) macht deutlich, dass die Vermittlung von Theorie und Praxis nicht als Anwendung linearer Erkenntnisse zu verstehen ist, sondern als reflexive Passungsverhandlung unter Bedingungen wechselseitiger Irritation (@langewand_theorie_2004, S. 894–895).
+Langewand (2004) macht deutlich, dass die Vermittlung von Theorie und Praxis nicht als Anwendung linearer Erkenntnisse zu verstehen ist, sondern als reflexive Passungsverhandlung unter Bedingungen wechselseitiger Irritation (@benner_theorie_2004, S. 894–895).
 
 Diese Klärung ist für den Gegenstand der Dissertation unmittelbar relevant. Ein LMS wird in Organisationen häufig als Technologie im naheliegenden Sinne gelesen, also als Instrumentarium, mit dem Lehr‑Lern‑Prozesse effizienter, transparenter oder kontrollierbarer werden sollen. Der Technologiedefizit‑Diskurs verschiebt den Fokus von der instrumentellen Hoffnung auf Wirksamkeit hin zu den Fragen, wie einerseits unter Ungewissheit\label{term:ungewissheit} pädagogische Plausibilisierung möglich wird und andererseits digitale Systeme so gestaltet sowie genutzt werden, dass sie Komplexität reduzieren, ohne die Kontingenz\label{term:kontingenz} des Bildungsprozesses epistemisch zu verdecken. [@bilstein_arbeit_2020, Seite 238]
 
@@ -252,7 +262,7 @@ In diesem Kapitel wird das eigens entwickelte Modell vorgestellt. Es verbindet q
 #todo (#78) revision: Brücke Theorie → Simulation klarer (2.5)
 Für den methodischen Anschluss wird die Simulation als Monte-Carlo-Verfahren gefasst. Monte-Carlo-Methoden nutzen Zufallszahlen, um Prozesse approximativ zu lösen oder zu simulieren, und erlauben eine systematische Verbesserung der Approximation über zusätzlichen Rechenaufwand. [@theis_grundlagen_2002, Seite 1, „… eine Gruppe von numerischen Methoden, die Zufallszahlen zur approximativen Lösung oder zur Simulation verschiedener Prozesse einsetzen.“; @theis_grundlagen_2002, Seite 1, „unter Einsatz von mehr Rechenzeit ist die Lösung systematisch verbesserbar“]
 Zentral ist dabei, dass Zufallsgrößen als Verteilungen modelliert und Ergebnisse über ein Ensemble von „Kopien“ gemittelt werden. [@theis_grundlagen_2002, Seite 9, „Der Kern von Monte Carlo Simulationen ist das Erwürfeln irgendwelcher Zufallsgrößen. Man kann nun in die Erzeugung dieser Zufallszahlen die zu untersuchende Physik stecken, indem man sie in Form einer Verteilung modelliert. … Über dieses Ensemble an Kopien wird nun der Mittelwert gebildet.“]
-Für die Stabilisierung der Schätzungen gilt, dass der Fehler bei wachsendem Stichprobenumfang sinkt. [@theis_grundlagen_2002, Seite 15, „Somit erhält man den mittleren Teilchenabstand mit einem Fehler ∆ ∝ √1N.“]
+Für die Stabilisierung der Schätzungen gilt, dass der Fehler bei wachsendem Stichprobenumfang sinkt. [@theis_grundlagen_2002, Seite 15, „Somit erhält man den mittleren Teilchenabstand mit einem Fehler $\\Delta \\propto \\sqrt{1/N}$.“]
 Die Simulation (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}) ist dabei als methodischer Anschluss an dieses Kapitel zu lesen: Sie macht die hier eingeführten Koppelungssätze als dynamische Verläufe beobachtbar und führt Ungewissheit als modellinterne Streuung und Kippstellenlogik [@hanisch-johannsen_simulation_2025]. Dadurch wird das Modell anschlussfähig an die spätere Diskussion von Wirkungswahrscheinlichkeiten (Kapitel \hyperref[sec:Diskussion]{6}) und an die Kompetenzperspektive (FU$_{6}$).
 
 ### 2.5.1 Das Modell als dynamisches System {#sec:DynamischesSystem}

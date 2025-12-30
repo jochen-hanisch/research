@@ -6,11 +6,15 @@
 
 Die hier dargestellte Architektur und ihre rechtlich-didaktische Verortung werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} in den Interdependenzrahmen eingeordnet und bilden eine der empirischen Grundlagen für die manifestartige Verdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-03_lesepfad.tex}
+
 Folgerung für die Darstellung
 Konsequenzen klar zweiteilig gliedern:
 (a) rechtlich-funktional,
 (b) didaktisch-strukturell
 Learning Management System (LMS) = Schnittstelle zwischen Norm und Didaktik
+
+Abschnitt \hyperref[sec:Kontext-FG]{3.1} beschreibt Kontext und Rahmung des Forschungsgegenstandes. Abschnitt \hyperref[sec:Entwicklung-Einbettung]{3.2} beschreibt Entwicklung und Einbettung des Learning Management Systems im Feld.
 
 ## 3.1 Kontext Forschungsgegenstand {#sec:Kontext-FG}
 
