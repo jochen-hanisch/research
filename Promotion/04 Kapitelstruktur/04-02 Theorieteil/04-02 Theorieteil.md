@@ -21,6 +21,8 @@ In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel
 - **Phänomen** beobachtbare Erscheinungsform im Feld, etwa Praxis, Ereignis, Artefakt, Interaktion oder Dokument
 - **Konstrukt** theoretische Größe oder Mechanismus, der über Indikatoren und Datenspuren erschlossen wird
 
+Für die Einordnung und Abgrenzung der Leitbegriffe werden neben Forschungsbeiträgen auch lexikalische und begriffsgeschichtliche Referenzen herangezogen, insbesondere einschlägige pädagogische und psychologische Nachschlagewerke. [@tenorth_konstrukte_2007, Seite 418; @tenorth_medien_2007, Seiten 494-495; @wirtz_konstrukt_2020, Seite 983; @wirtz_kompetenz_2020, Seiten 964-965; @benner_technik_2004-1, Seiten 989-1015]
+
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt psychologische Funktionslogiken, bildungswissenschaftliche Grundlagen, medienpädagogische Rahmungen sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges\label{term:digitales-bildungswirkgefuge}. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stelle jene theoretischen Grundannahmen betrachtet, die für das Wirkgefüge des untersuchten Learning Management Systems (LMS) konstitutiv sind. Im Mittelpunkt stehen die Definitionen von Bildung\label{term:bildung}, Digitalität\label{term:digitalitaet} und Kompetenzentwicklung\label{term:kompetenzentwicklung} im systemisch-konstruktivistischen Rahmen; sie werden so gefasst, dass sie sowohl subjektive Prozesse als auch strukturelle und technische Dimensionen des digitalen Bildungsraums erfassen.
 
 \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.1} setzt beim psychischen System an. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen identifiziert, die das Wirkgefüge aus der Perspektive der handelnden Subjekte strukturieren. Diese Ebene beschreibt, wie Lernprozesse auf der individuellen Seite entstehen, reguliert werden und wie sie durch digitale Lernarchitekturen unterstützt oder behindert werden können. Damit wird begründet, weshalb das LMS in dieser Arbeit nicht als neutrale Infrastruktur, sondern als in psychische Prozesse eingreifende Struktur verstanden wird.
@@ -112,18 +114,23 @@ Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Dig
 \label{term:systemisch-konstruktivistische-theorie}
 
 Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
+Die begriffliche Klärung von Lernen wird dabei als pädagogische Deutungskategorie geführt, die im Verhältnis zu psychologischen und alltagssprachlichen Verwendungen zu bestimmen ist. [@benner_lernen_2004, Seiten 621-637]
 
 ### 2.2.3 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
 
 \label{term:bildungstechnologie-digitalitaet}
 
-Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen.
+Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen. Begriffs- und ideengeschichtlich wird dazu die Unterscheidung zwischen Technik als Bildungsproblem und technischer Bildung als Fach- und Berufsbildung herangezogen. [@benner_technik_2004-1, Seiten 989-1015]
 
 ### 2.2.4 Kompetenzentwicklung im digitalen Bildungsraum {#sec:Kompetenzentwicklung-digital}
 
 \label{term:kompetenzentwicklung-digital}
 
-Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander?
+Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander? Für die Einordnung der damit verbundenen Planungs- und Steuerungssemantiken wird der Lehrplanbegriff begriffsgeschichtlich herangezogen, einschließlich der Verschiebung von kanonischen Stofflogiken zu curricularen und kompetenzbezogenen Formaten. [@benner_lehrplan_2004, Seiten 566-602]
+
+Methodologisch liefert @osterwalder_methode_2004 eine begrifflich geschärfte Unterscheidung zwischen Technik, Methode und System, die für die didaktische Modellierung digitaler Lernumgebungen handlungsleitend ist.
+
+Auch @protz_unterricht_2004 betont, dass Unterricht in seiner Struktur stets das Spannungsverhältnis von Planbarkeit und situativer Anschlussfähigkeit abbildet – ein Spannungsfeld, das sich in digitalisierten Settings besonders deutlich zeigt.
 
 ## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand {#sec:MedienpaedagogischeRahmung}
 
@@ -132,6 +139,8 @@ Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz
 #todo (#36) Abschnitt ausformulieren: medienpädagogische Rahmung (z.B. Medienbildung/Medienkompetenz, Gestaltung digitaler Lernräume) als Brücke von Theorie (Kap. 2) zu Forschungsgegenstand (Kap. 3); explizit machen, welche theoretischen Bausteine später in Methodik/Analysen wieder aufgegriffen werden.
 
 Text
+
+Für den Anwendungskontext der Arbeit ist zudem die begriffliche Einordnung von Erwachsenenbildung anschlussfähig, weil sie das Feld zwischen Subjektorientierung, Institutionalisierung und gesellschaftlichen Erwartungsstrukturen markiert, in dem digitale Lernarchitekturen wirksam werden. [@benner_erwachsenenbildung_2004, Seiten 289-302]
 
 ## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}
 
@@ -143,7 +152,9 @@ Der Exkurs dient der theoretischen Absicherung einer Grundannahme, die für die 
 
 ### 2.4.1 Technologie, Kausalpläne und strukturelle Ungewissheit
 
-@bilstein_arbeit_2020 rekonstruiert den Ausgangspunkt der Debatte über den Technologiebegriff\label{term:technologiebegriff} als Wissenschaft von Kausalverhältnissen, die praktischen Intentionen zugrunde liegen und Handeln erfolgreich machen sollen. Für soziale und damit auch pädagogische Handlungszusammenhänge bleibt diese Idee jedoch begrenzt, weil in pädagogischen Situationen mehrere selbstreferenzielle Akteur*innen aufeinandertreffen und weil sich Wirkannahmen einzelner Faktoren unter Komplexitätsbedingungen nicht generalisieren lassen. Als Konsequenz wird Technologie in der Pädagogik historisch häufig über ein Verdikt umgangen, zugleich bleibt die Frage bestehen, wie Organisationen und Professionen handlungsfähig bleiben, wenn allgemeine, zuverlässige Kausalgesetze nicht verfügbar sind. Der operative Ausweg liegt in der Arbeit mit Kausalplänen\label{term:kausalplan} als selektiven Konstellationen von Ursachen, die als gegeben oder als erwirkbar unterstellt werden und auf diese Weise Orientierung ermöglichen. In dieser Arbeit werden Kausalpläne als organisations‑ und professionsspezifische, vorläufig stabilisierte Unterstellungen von Wirkzusammenhängen verstanden, die faktisch handlungsleitend wirken, ohne normative Geltung zu beanspruchen, und unter Bedingungen struktureller Ungewissheit Orientierung ermöglichen und deshalb als Annahmestruktur explizit zu machen sowie zu dokumentieren sind. [@bilstein_arbeit_2020, Seite 238]
+@bilstein_arbeit_2020 rekonstruiert den Ausgangspunkt der Debatte über den Technologiebegriff\label{term:technologiebegriff} als Wissenschaft von Kausalverhältnissen, die praktischen Intentionen zugrunde liegen und Handeln erfolgreich machen sollen. Für soziale und damit auch pädagogische Handlungszusammenhänge bleibt diese Idee jedoch begrenzt, weil in pädagogischen Situationen mehrere selbstreferenzielle Akteur*innen aufeinandertreffen und weil sich Wirkannahmen einzelner Faktoren unter Komplexitätsbedingungen nicht generalisieren lassen. Als Konsequenz wird Technologie in der Pädagogik historisch häufig über ein Verdikt umgangen, zugleich bleibt die Frage bestehen, wie Organisationen und Professionen handlungsfähig bleiben, wenn allgemeine, zuverlässige Kausalgesetze nicht verfügbar sind. Der operative Ausweg liegt in der Arbeit mit Kausalplänen\label{term:kausalplan} als selektiven Konstellationen von Ursachen, die als gegeben oder als erwirkbar unterstellt werden und auf diese Weise Orientierung ermöglichen. In dieser Arbeit werden Kausalpläne als organisations‑ und professionsspezifische, vorläufig stabilisierte Unterstellungen von Wirkzusammenhängen verstanden, die faktisch handlungsleitend wirken, ohne normative Geltung zu beanspruchen, und unter Bedingungen struktureller Ungewissheit Orientierung ermöglichen und deshalb als Annahmestruktur explizit zu machen sowie zu dokumentieren sind. [@bilstein_arbeit_2020, Seite 238; @benner_technik_2004-1, Seiten 989-1015]
+
+Langewand (2004) macht deutlich, dass die Vermittlung von Theorie und Praxis nicht als Anwendung linearer Erkenntnisse zu verstehen ist, sondern als reflexive Passungsverhandlung unter Bedingungen wechselseitiger Irritation (@langewand_theorie_2004, S. 894–895).
 
 Diese Klärung ist für den Gegenstand der Dissertation unmittelbar relevant. Ein LMS wird in Organisationen häufig als Technologie im naheliegenden Sinne gelesen, also als Instrumentarium, mit dem Lehr‑Lern‑Prozesse effizienter, transparenter oder kontrollierbarer werden sollen. Der Technologiedefizit‑Diskurs verschiebt den Fokus von der instrumentellen Hoffnung auf Wirksamkeit hin zu den Fragen, wie einerseits unter Ungewissheit\label{term:ungewissheit} pädagogische Plausibilisierung möglich wird und andererseits digitale Systeme so gestaltet sowie genutzt werden, dass sie Komplexität reduzieren, ohne die Kontingenz\label{term:kontingenz} des Bildungsprozesses epistemisch zu verdecken. [@bilstein_arbeit_2020, Seite 238]
 
