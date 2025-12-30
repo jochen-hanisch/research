@@ -1,0 +1,21 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=2.3cm and 2cm, on grid, auto,
+  every node/.style={rectangle, draw, align=center, minimum height=1.4cm, text width=4.4cm},
+  concept/.style={rectangle, draw=black, thick}
+  ]
+
+\node[concept] (rueckbindung) {6.1\\Systemische Rückbindung\\der Ergebnisse};
+\node[concept, below=of rueckbindung] (theorie) {6.2\\Theoriebezogene\\Modellverdichtung};
+\node[concept, below=of theorie] (praxis) {6.3\\Gestalterische\\Konsequenzen};
+
+\draw[->, thick] (rueckbindung) -- (theorie);
+\draw[->, thick] (theorie) -- (praxis);
+
+\draw[->, dashed, bend left=45] (praxis) to (rueckbindung);
+
+\end{tikzpicture}
+\caption*{\footnotesize Zwei Lektürepfade durch Kapitel 6: Der lineare Pfad (schwarz, durchgezogen) zeigt die argumentative Kette von Ergebnisrückbindung über Theoriemodifikation zur Gestaltung. Der systemische Pfad (grau, gestrichelt) betont die Rückkopplung gestalterischer Überlegungen auf theoretische Modelle und Forschungslogik.}
+\caption{Strukturierte Lektürepfade durch Kapitel 6 – linear und systemisch (eigene Darstellung).}
+\label{fig:lesepfad-06}
+\end{figure}

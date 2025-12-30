@@ -1,0 +1,28 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[node distance=2.3cm and 2cm, on grid, auto,
+  every node/.style={rectangle, draw, align=center, minimum height=1.4cm, text width=4.4cm},
+  concept/.style={rectangle, draw=black, thick}
+  ]
+
+\node[concept] (kontext) {3.1\\Systemischer\\Kontext};
+\node[concept, below=of kontext] (entwicklung) {3.2\\Einbettung und\\Entwicklungslinien};
+\node[concept, below=of entwicklung] (didarch) {3.3\\Didaktische\\Systemstruktur};
+\node[concept, below=of didarch] (operativ) {3.4\\Operative\\Systembausteine};
+\node[concept, below=of operativ] (eportfolio) {3.5\\E-Portfolio als\\Feedbackmodul};
+\node[concept, below=of eportfolio] (technik) {3.6\\Technische\\Systemkopplung};
+
+\draw[->, thick] (kontext) -- (entwicklung);
+\draw[->, thick] (entwicklung) -- (didarch);
+\draw[->, thick] (didarch) -- (operativ);
+\draw[->, thick] (operativ) -- (eportfolio);
+\draw[->, thick] (eportfolio) -- (technik);
+
+\draw[->, dashed, bend left=45] (didarch) to (kontext);
+\draw[->, dashed, bend left=35] (eportfolio) to (didarch);
+
+\end{tikzpicture}
+\caption*{\footnotesize Zwei mögliche Lektürepfade durch Kapitel 3: Der lineare Pfad (schwarz, durchgezogen) entfaltet die Struktur des Forschungsgegenstands von Kontext bis Technik. Der systemische Pfad (grau, gestrichelt) markiert Rückkopplungen zwischen Kontext, Didaktik und Feedbackmodulen – zentrale Koppelungen des digitalen Bildungswirkgefüges.}
+\caption{Strukturierte Lektürepfade durch Kapitel 3 – linear und systemisch (eigene Darstellung).}
+\label{fig:lesepfad-03}
+\end{figure}
