@@ -13,6 +13,12 @@ Für die innere Konsistenz der Diskussion wird ein evaluatives Raster zugrunde g
 
 des digitalen Bildungsraums sichtbar.
 
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-06_lesepfad.tex}
+
+Hinweise rahmen Diskussion als Rückbindung der Ergebnisse an Theorie, Forschungsfragen und Gestaltungslogiken. Darstellung bleibt an Evidenzlinien aus Kapitel 5, an Architekturbeschreibung aus Kapitel 3 und an Technologiedefizit aus Kapitel 2 gebunden.
+
+Abschnitt \hyperref[sec:Diskussion-Forschungsfragen]{6.1} bindet Diskussion an Forschungsfragen zurück. Abschnitt \hyperref[sec:Diskussion-Theorie]{6.2} führt theoretische Implikationen aus. Abschnitt \hyperref[sec:Diskussion-Praxis]{6.3} führt praktische und gestalterische Implikationen aus.
+
 ## 6.1 Rückbindung an die Forschungsfragen {#sec:Diskussion-Forschungsfragen}
 
 - Interpretation der Befunde entlang der Kernbereiche aus \hyperref[sec:Ergebnisse]{Kapitel 5}.

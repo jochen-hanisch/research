@@ -2,6 +2,14 @@
 
 # 7 Conclusio und Ausblick {#sec:Conclusio}
 
+Kapitel 7 bündelt Ergebnisse und Diskussion in verdichteten Aussagen, formuliert Konsequenzen und führt Ausblick auf Forschung und Praxis. Der Abschluss rahmt Interdependenz als Grundform des digitalen Bildungsraums und überführt die in den Kapiteln 2 bis 6 erarbeiteten Befunde in handlungsleitende Setzungen.
+
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-07_lesepfad.tex}
+
+Hinweise rahmen Verdichtung als Schlussform, die Theorie, Architektur, Methodologie, Ergebnisse und Diskussion zusammenführt. Aussageform bleibt an Interdependenzlogik und an dokumentierte Evidenzlinien gebunden.
+
+Abschnitt \hyperref[sec:Conclusio-Manifest]{7.1} formuliert manifestartigen Abschluss und Ausblick.
+
 ## 7.1 Manifestartiger Abschluss: Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
 Dieses Schlusskapitel formuliert das Manifest des digitalen Bildungsraums als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum als Feld gekoppelter Wirkungswahrscheinlichkeiten verstehen. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Kernannahme: Positive und negative Wirkgefügswahrscheinlichkeiten sind strukturell interdependent; sie ermöglichen, begrenzen und irritieren sich gegenseitig. Die Gestaltungsaufgabe liegt darin, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.

@@ -6,6 +6,12 @@ Kapitel 4 stellt die in dieser Arbeit entwickelte, eigenständige Methodologie 
 
 Die methodische Kopplung liefert die empirische Basis für die interdependente Argumentation in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} und die manifestartige Zuspitzung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-04_lesepfad.tex}``
+
+Hinweise bündeln Anforderungen an Nachvollziehbarkeit, Triangulation und Dokumentation. Darstellungen in Kapitel 4 führen Verfahren als forschungsfragengeleitete Kopplung, die Datenformen und Auswertungslogiken sichtbar macht.
+
+Abschnitt \hyperref[sec:Forschungsparadigma]{4.1} beschreibt Forschungsparadigma und methodologischen Ansatz. Abschnitt \hyperref[sec:Datenerhebung]{4.2} beschreibt Datenerhebungsverfahren. Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschreibt Datenanalyse. Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} beschreibt simulationsgestützte Modellierung. Abschnitt \hyperref[sec:Methoden-Reflexion]{4.5} beschreibt Reflexion der Methode.
+
 ## 4.1 Forschungsparadigma und methodologischer Ansatz {#sec:Forschungsparadigma}
 
 \label{term:systemisch-forschungsfragengeleitet}
@@ -494,7 +500,7 @@ Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissen
 Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU$_{4a}$ und FU$_{5}$ (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU$_{3}$ und den nutzungsbezogenen FU$_{2a}$/FU$_{4b}$. FU$_{1}$ und FU$_{6}$ liegen im mittleren einstelligen Prozentbereich, FU$_{2b}$ und FU$_{7}$ bilden kleinere, aber inhaltlich zentrale Vertiefungsfelder. Abbildung \ref{fig:primaranalysen-verteilung} visualisiert diese Gewichtung.
 
 ```{=latex}
-\input{08 Metaquellen/08-01 Abbildungen/statistik/primaranalysen-verteilung.tex}
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/primaranalysen-verteilung.tex}
 ```
 
 Für die Analysen zweiter Ordnung wird je Forschungsunterfrage ein FU-spezifischer Korpus aus dem Literaturverzeichnis gebildet: Alle Einträge, die den FU-Tag (`Promotion:FUx`) tragen und eine Analyse 1. Ordnung im Feld `annote` enthalten, werden extrahiert und in einer FU-spezifischen Arbeitsdatei zusammengeführt, wobei der jeweilige BibTeX-Key als Referenzanker mitgeführt wird. Diese Arbeitsdateien dienen der Reproduzierbarkeit und Nachvollziehbarkeit der FU-Korpora, sind jedoch nicht Bestandteil des Anhangs. Die FU-Korpora bilden die direkte Eingabe der P‑QIA-Metaanalyse (vgl. \hyperref[sec:P-QIA]{Abschnitt 4.3.4} sowie \hyperref[sec:A-3]{Anhang A.3}) und sichern, dass Ankerbeispiele und Zuordnungen reproduzierbar auf konkrete Quellen zurückverweisen.
