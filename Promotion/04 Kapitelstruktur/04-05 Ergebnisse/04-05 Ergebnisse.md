@@ -103,6 +103,13 @@ Gestalterisch folgen daraus die Salienzsteuerung zugunsten funktionaler Elemente
 
 Die P‑QIA-Ergebnisse zu FU4b rahmen diese Beobachtungen als infrastrukturelle Mechanismen. Interface- und Visualisierungsgestaltung, dialogische Feedbackfunktionen sowie Mess-/Analysepraktiken (Logdaten, Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1]) werden als gekoppelte Mechanismen beschrieben, mit denen Lernräume gestaltet, beobachtet und iterativ verbessert werden (Anhang \hyperref[sec:A-9-FU4b]{A‑9‑FU4b}). Gleichzeitig erscheinen Implementationshürden, technische Robustheit und Datenschutz/Offline-Funktionalität als Bedingungen dafür, ob die im Interface angelegten Mechanismen zuverlässig wirksam werden. Damit ordnet FU$_{4b}$ die Blickmuster als Mechanismenebene in das Wirkgefüge ein. Sichtbarkeit, Rückkopplung und technische Verlässlichkeit sind operative Hebel, über die sich Lernhandlungen im digitalen Bildungsraum stabilisieren oder entkoppeln.
 
+Implikationen für Skalierung, Stabilität und didaktische Architektur
+
+#todo Rückbindung an 3.3 Technische Architektur
+
+\hyperref[sec:TechnischeArchitektur]{Abschnitt 3.3}
+
+
 ### 5.3.7 FU$_{6}$: LMS als Kompetenzerwerbssystem {#sec:Ergebnisse-FU6}
 
 Der digitale Bildungsraum lässt sich im Rahmen der vorliegenden Analyse als erste Handlungssituation interpretieren, die normativen Anforderungen Raum gibt. Die invariante Aufgabenarchitektur zwingt Lernende zu Orientierung, Musterbildung und operativer Auswahl – exakt den Operationen, die § 4 NotSanG/Anlage 1 verlangt. Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1] belegt, dass diese Operationen schon im Interface sichtbar sind (Orientierung -> Stabilität -> Handlung), und die Umfrage [@hanisch-johannsen_wirkgefuge_2025] stützt die Relevanz von Struktur und Zugänglichkeit als Tendenz (Anhänge \hyperref[sec:A-7]{A‑7} und \hyperref[sec:A-12]{A‑12}). Die simulationsgestützte Modellierung in Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} verdichtet diese Systemlogik als Zeitverlauf und macht sichtbar, wie Kopplungen (Orientierung, Motivation/Neugier, Störung/Regeneration) in Kompetenzdynamiken übersetzbar werden. Die in \hyperref[tab:lms-konsequenzen]{Tabelle \ref{tab:lms-konsequenzen}} abgeleiteten rechtlich-funktionalen Anforderungen bilden dabei den normativen Rahmen, in dem diese Ergebnisse verortet werden.
