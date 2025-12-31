@@ -155,7 +155,61 @@ Gerade diese kontinuierliche Rückkopplungslogik bildet eine argumentative Brüc
 
 Perspektivisch ist diese Verschränkung als iterativer Kreislauf gedacht: Pro Handlungssituation werden Eingangsparameterstände (Design-/Kontextmerkmale) explizit geführt, TEI‑Rückmeldungen und ergänzende LMS‑Analytiken liefern heuristische Ableitungen zu Bruchstellen, Passungen und Verlaufstypiken, und die Simulation wird dadurch schrittweise dateninformiert ergänzt und in Folge‑Läufen gezielt variiert.
 
-## 3.3 Didaktische Architektur als Learning-Environment {#sec:DidaktischeArchitektur}
+## 3.3 Technische Architektur {#sec:TechnischeArchitektur}
+
+Der folgende Abschnitt beschreibt die technische Architektur des Learning-Management-Systems und folgt einerseites der Annahme eines technikdeterministischen Entwicklungsmodells, andererseits aber auch der Einsicht, dass Technik nicht als Selbstzweck, sondern als dienende Infrastruktur für didaktische Konzepte verstanden werden muss. Demnach sind technische Entscheidungen stets an die dahinterliegenden didaktischen Intentionen gebunden. Die technische Architektur folgt damit der Didaktik, nicht umgekehrt. Ihre Darstellung erfolgte eigenständig, da sie als infrastrukturelle Bedingung die Stabilität, Skalierbarkeit und Reichweite didaktischer Entscheidungen maßgeblich beeinflusst. Die technische Architektur des hier untersuchten Learning Management Systems hat sich im Laufe der Zeit in mehreren Entwicklungsphasen verändert. Diese Veränderungen sind eng mit den didaktischen Anforderungen und der institutionellen Einbettung des Systems verbunden. Im Folgenden werden die wesentlichen Entwicklungsphasen der technischen Architektur beschrieben, um die evolutionäre Natur des Systems zu verdeutlichen.
+
+### 3.3.1 Einordnung: Technik als infrastrukturelle Bedingung des Wirkgefüges
+
+Die technische Architektur des hier untersuchten Learning Management Systems ist als infrastrukturelle Grundlage zu verstehen, die die Umsetzung didaktischer Konzepte und organisatorischer Anforderungen ermöglicht. Technik wird dabei nicht als Selbstzweck betrachtet, sondern als dienende Infrastruktur, die den Lernprozess unterstützt und gestaltet. In diesem Sinne bildet die technische Architektur die Basis für die Realisierung der im vorherigen Abschnitt beschriebenen didaktischen Struktur. Die technische Architektur hat sich im Laufe der Zeit in mehreren Entwicklungsphasen verändert, die eng mit den didaktischen Anforderungen und der institutionellen Einbettung des Systems verbunden sind. Jede Phase brachte neue Herausforderungen und Möglichkeiten mit sich, die die technische Gestaltung des Systems beeinflussten. Die folgenden Abschnitte beschreiben die wesentlichen Entwicklungsphasen der technischen Architektur, um die evolutionäre Natur des Systems zu verdeutlichen.
+
+In Anlehnung an die technologische Klassifizierung digitaler Bildungsmedien bei @dyrna_methoden_2021 lassen sich die im platon.care-Setup verwendeten Systeme als tertiäre, technologiegestützte Bildungsmedien einordnen, die sich in *Infrastruktur* und *Bildungsressourcen/-werkzeuge* differenzieren. Die hier betrachtete Server- und Hosting-Umgebung (CPU/RAM/Storage, Netzwerk/Übertragung) ist demnach primär Teil der medientechnischen Infrastruktur; Moodle® ist als polymodulares Bildungswerkzeug im engeren Sinne ein Lernmanagementsystem, Nextcloud® als (kollaborativer) Shared-Workspace/Datei- und Artefaktverwaltung ein weiteres polymodulares Bildungswerkzeug, und Mahara® als E‑Portfolio-System ein Bildungswerkzeug zur Dokumentation, Reflexion und Artefaktorganisation. Diese Zuordnung dient im Folgenden als begriffliche Trennung, um technische Infrastrukturentscheidungen nicht mit didaktischen Methoden oder Einsatzszenarien zu vermischen.
+
+#todo diesen Punkt noch weiter spezifizieren, sobald Rückmeldnung von SoonSystems vorliegt (-> Hosting-Details, SLA, Backup, Redundanz, Verfügbarkeit, Datenschutz etc.)
+
+### 3.3.2 Epoche I: Eigenbetrieb im Heimnetzwerk (NAS-basierte Infrastruktur)
+
+Die erste technische Architektur des hier untersuchten Learning Management Systems wurde im Jahr 2016 als Heimnetzwerk mit Network-Attached-Storage (NAS) realisiert. Ziel war es, eine kostengünstige und zugleich funktionale Infrastruktur zu schaffen, die den Anforderungen der Ausbildung gerecht werden konnte. Die Wahl fiel auf ein Synology® DiskStation NAS, das als zentraler Server fungierte und die verschiedenen Komponenten des Systems beherbergte. Diese Architektur ermöglichte es, die grundlegenden Funktionen des Learning Management Systems bereitzustellen, darunter die Kursverwaltung, die Bereitstellung von Lernmaterialien und die Kommunikation zwischen Lehrenden und Lernenden. Die NAS-basierte Infrastruktur bot den Vorteil, dass sie relativ einfach zu konfigurieren und zu warten war. Zudem ermöglichte sie eine flexible Erweiterung der Speicherkapazität, was angesichts der wachsenden Datenmengen im Laufe der Zeit von Bedeutung war. Allerdings brachte diese Architektur auch einige Herausforderungen mit sich. Insbesondere die begrenzte Leistungsfähigkeit des NAS-Systems stellte eine Einschränkung dar, insbesondere bei steigenden Nutzerzahlen und komplexeren Anforderungen. Zudem war die Sicherheit der Daten ein wichtiger Aspekt, der sorgfältig berücksichtigt werden musste. Trotz dieser Herausforderungen bildete die NAS-basierte Infrastruktur die Grundlage für die ersten Jahre des Learning Management Systems und ermöglichte die Umsetzung der grundlegenden didaktischen Konzepte.
+
+### 3.3.3 Epoche II: Professionalisierung durch externe Hosting- und Servicepartner
+
+Durch die Corona-Pandemie und die damit verbundene Notwendigkeit, digitale Lernformate umfassend zu nutzen, stiegen die Anforderungen an die technische Infrastruktur des Learning Management Systems erheblich. Die zuvor genutzte NAS-basierte Infrastruktur stieß zunehmend an ihre Grenzen, insbesondere hinsichtlich der Skalierbarkeit, Verfügbarkeit und Sicherheit. Um diesen Herausforderungen gerecht zu werden, wurde im Jahr 2020 eine Umstellung auf eine professionell gehostete Lösung vorgenommen. Hierfür wurde ein externer Hosting-Partner beauftragt, der die technische Infrastruktur bereitstellte und betreute. Diese Umstellung ermöglichte es, die Leistungsfähigkeit des Systems deutlich zu erhöhen und eine stabile Verfügbarkeit auch bei steigenden Nutzerzahlen sicherzustellen. Zudem konnten durch den Einsatz professioneller Sicherheitsmaßnahmen die Datenschutzanforderungen besser erfüllt werden. Im Zuge der Professionalsierunge ist zudem das Kursverwaltungsprogramm easySoft® eingesetzt worden, das speziell für Bildungseinrichtungen entwickelt wurde und eine Vielzahl von Funktionen zur Organisation und Verwaltung von Kursen bietet. Ergänzt wurde das System durch die Integration von Nextcloud® für die Dateiverwaltung und Moodle® als Lernplattform. Die Kombination dieser drei Komponenten ermöglichte eine umfassende digitale Lernumgebung, die sowohl die organisatorischen als auch die didaktischen Anforderungen der Ausbildung abdecken konnte.
+
+Das  Learning-Management-System  und  die  beiden  Ergänzungen  Nextcloud®  und Moodle® sind technisch voneinander getrennt Hintergrund ist, dass die Schnittstelle des Kursverwaltungsprogramms easySoft® zur Moodle® Kurs- und Teilnehmendenverwal-
+tung von einem Software-Entwickler abhängig ist. Die beiden Applikationen Nextcloud® und Mahara® liegen auf anderen Servern, weswegen es zu technischen Unterschieden in der Hardware kommt. Grundsätzlich ist die Programm- und Aufgabenarchitektur wie 
+in Abbildung 4 organisiert.
+
+#todo Abbildung 4 aus Exposee prüfen: Scanqualität/Cropping, Quelle/Datum konsistent, Caption/Subcaption finalisieren. Vielleicht LaTeX-Grafik erstellen.
+
+Das Learning-Management-System wird, wie in diesem Fall Moodle®, als Applikation implementiert.  Als  Standartkonfiguration  ist  das  Linux-Apache-MySQL-PHP  (LAMP) Softwarepakte eingesetzt. Die Interaktion zwischen User und Server ist in Abbildung 5 
+skizziert. Anfragen der Benutzenden werden zunächst an einen Web-Server vermittelt, der zwischen mit der eigentlichen MySQL-Datenbank zusammenwirkt. Diese Konfiguration erlaubt zudem auf Anfrage Log-Protokolle, die ggf. bei einer rechtlichen Bewertung (z.B. einer nicht-bestandenen staatlichen Prüfung) Nachweise über die Aktivitäten der Teilnehmerin oder des Teilnehmers ermöglichen. Abbildung 5: User-Server-Interaktion (© netmountains®) 
+
+#todo Abbildung 5 aus Exposee prüfen: Scanqualität/Cropping, Quelle/Datum konsistent, Caption/Subcaption finalisieren. Vielleicht LaTeX-Grafik erstellen.
+
+Stand  September  2021  sind  innerhalb  des  platon.care-Kosmos ca. 750 Teilnehmende eingetragen, die jedoch nicht immer gleichzeitig auf die technischen Geräte zugreifen. Trotzdem lohnt sich ein Blick auf die Kennzahlen, wie sie in Tabelle 1 aufgelistet sind.
+
+Table: Technische Kennzahlen platon.care \label{tab:technische-kennzahlen-platon}
+
+|                  | Moodle®  | Nextcloud® | Mahara®  |
+|------------------|----------|------------|----------|
+| Anzahl CPU-Kerne | 4 Stück  | 8 Stück    | 4 Stück  |
+| Arbeitsspeicher  | 8 GB RAM | 32 GB RAM  | 8 GB RAM |
+| Datenspeicher    | 500 GB   | 1 TB       | 512 TB   |
+| Taktung          | 2,7 GHz  | 4,2 GHz    | —        |
+
+\tabsubcaption{Gegenüberstellung der technischen Kennzahlen (CPU-Kerne, Arbeitsspeicher, Datenspeicher, Taktung) der eingesetzten Systeme Moodle®, Nextcloud® und Mahara® im platon.care-Setup.}
+Quelle: Exposé, S. 16.
+
+Für eine ausreichende Usability werden seitens der  Moodle®-Plattform 10-20 Nutzer pro GB RAM (Moodle Pty Ltd., 2021a) empfohlen. Hinsichtlich der CPU-Leistung gibt es verschiedene Aussagen, auch hier haben sich 50-75 Benutzer pro CPU-Kern als Faust-
+regel etabliert (Moodle Pty Ltd., 2021b). Die Moodle® Empfehlung basiert auf dem best practice Verfahren. 
+ 
+Sollten die 750 User zeitgleich auf das Learning-Management-System zugreifen, könnte dieses eine nicht zu kompensierende Volllast auslösen und damit zu einem Einbruch der Performance, d.h. langsame Zugriffszeiten, führen. Die Frage nach der Auswirkung der technischen Rahmenbedingungen auf den Lernerfolg der Teilnehmenden ist demnach als relevant zu betrachten.
+
+### 3.3.4 Epoche III: Stabilisierungs- und Verstetigungsphase (Soon Systems)
+
+### 3.3.5 Vergleichende Einordnung der Entwicklungsphasen
+
+## 3.4 Didaktische Architektur als Learning-Environment {#sec:DidaktischeArchitektur}
 
 Aufbauend auf den in Abschnitt \hyperref[sec:Kontext-FG]{3.1} beschriebenen Entstehungskontext sowie den in Abschnitt \hyperref[sec:Entwicklung-Einbettung]{3.2} weitergeführten Entwicklungsschritten wird im Folgenden die didaktische Architektur des Learning-Management-Systems vorgestellt. Diese Konzeption beabsichtigte eine digitale Struktur zu schaffen, die nicht nur rechtliche Anforderungen der Ausbildung abbildet, sondern auch die didaktischen Prinzipien systemisch fundierter Kompetenzentwicklung integriert. In dieser Phase entstand auch die in Abbildung 1 gezeigte Skizze zur didaktischen Systemstruktur, die den Anspruch veranschaulicht, aus ersten Überlegungen zur digitalen Unterstützung eine funktionsfähige und kohärente Lernumgebung zu entwickeln.
 	 
@@ -172,7 +226,7 @@ Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learni
 
 Die Skizze bildete das konzeptionelle Fundament der ersten Entwicklungsphase und visualisiert die Idee, innerhalb eines digitalen Bildungsraums Handlungssituationen, Lernorte und Kursorganisation so miteinander zu verbinden, dass eine strukturierte und individuelle Kompetenzentwicklung möglich wird. Besonders herauszustellen ist dabei die Trennung zwischen inhaltlicher Struktur und organisatorischer Kurslogik, wodurch eine hohe Flexibilität bei gleichzeitiger Kohärenz erreicht werden sollte. Die frühe Berücksichtigung aller drei Lernorte sowie die intendierte Rückführung kursinterner Erkenntnisse in die übergeordneten Lerneinheiten legen den systemischen Anspruch dieser Struktur offen [@hanisch_wirkgefuge_2022, Abschnitt 2.3].
 
-### 3.3.1 Konzeptionelle Grundkonstruktion {#sec:Grundkonstruktion}
+### 3.4.1 Konzeptionelle Grundkonstruktion {#sec:Grundkonstruktion}
 
 Anfangs stand weniger ein fertiges Konzept als vielmehr die Idee eines Weges, der, inspiriert von der Vorstellung, eine Ausbildung zu entwickeln, die mit Haltung, Struktur und kontinuierlicher Entfaltung nicht nur Inhalte vermittelt, sondern berufliche Identität formt (i.A.a. [@miyamoto_buch_2005, Seite 64–69]). Diese Idee eines strukturierten und durchlässigen Pfads wurde zur Grundlage der didaktischen Systemstruktur und damit zur Ausgangsbasis für die Architektur des Learning Management Systems. Die Konzeption der Handlungssituationen als Kurseinheiten im LMS orientiert sich inhaltlich und strukturell am Rahmenlehrplan NRW\label{term:rahmenlehrplan-nrw} zur Ausbildung von Notfallsanitäter*innen, insbesondere an dessen systematischer Gliederung in insgesamt 10 Lernfelder [@mgpa_nrw_rahmenlehrplan_2016, Seite 3]. Diese Lernfelder beschreiben konkrete berufliche Anforderungen und bilden den Kern einer kompetenzorientierten Ausbildung, die durch die hier entwickelte, digitale Struktur diese Logik in ein modular aufgebautes, sequenziell organisiertes Kurssystem überträgt. So entstehen Handlungssituationen, die, ähnlich wie Etappen auf einem Weg, den Lernprozess begleiten, strukturieren und situativ adaptierbar machen. Diese Pfadidee wird modellbasiert als Trajektorie visualisiert (Abbildung \ref{fig:fg-trajektorie}; zur theoretischen Rahmung (Abschnitt \hyperref[sec:Systemisch-konstruktivistische-Theorie]{2.1.2}).
 
@@ -210,7 +264,7 @@ Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den B
 
 Sichtbar werden die strukturierten Inhaltsbereiche, die für alle Kurse einheitlich implementiert wurden und den Rahmen für lernprozessbegleitende Navigation, Dokumentation und Kommunikation bilden.
 
-### 3.3.2 Didaktisch-architektonische Umsetzung {#sec:DidaktischeUmsetzung}
+### 3.4.2 Didaktisch-architektonische Umsetzung {#sec:DidaktischeUmsetzung}
 
 Die didaktisch-architektonische Umsetzung basiert auf einer standardisierten Containerstruktur, die alle Handlungssituationen einheitlich gliedert und zugleich eine kohärente, adaptierbare Lernprozessgestaltung ermöglicht. Im Folgenden werden die acht Containerbereiche systematisch erläutert. Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation. Zur Stabilisierung der Leserführung folgt jeder Container demselben Muster. Didaktische Funktion im Gesamtlernprozess, theoriekonzeptionelle Referenz, technische Umsetzung in Moodle, Limitationen und Weiterentwicklungspotenziale, Umsetzung im Kurs NFS‑H‑01 sowie Funktion im Gesamtsystem.
 
@@ -402,11 +456,11 @@ Die Umfrage „Feedback für uns (z.B. NFS-H-01)“ ist als kurze, retrospektive
 
 **Funktion im Gesamtsystem:** Die konsequente Rollen- und Sichtbarkeitssteuerung (z.B. Lehrende/Dozent*in/Praxisanleitung/Prüfende) erfüllt dabei zwei Funktionen: Erstens werden organisatorische Prozesse dort transparent gemacht, wo sie für Lernende handlungsrelevant sind (z.B. Ablauf- und Verteilungsinformationen), und zweitens werden sensible Abstimmungs- und Prüfungsprozesse systemseitig vor unberechtigtem Zugriff geschützt. Insgesamt ermöglicht der Container „Kursorganisation“ damit eine Trennung von Lern- und Verwaltungslogik, ohne die kursinterne Kohärenz des digitalen Bildungsraums zu beeinträchtigen.
 
-### 3.3.3 Prüfungsarchitektur {#sec:Pruefungsarchitektur}
+### 3.4.3 Prüfungsarchitektur {#sec:Pruefungsarchitektur}
 
 Text
 
-### 3.3.4 Statistische Analyse curriculare Struktur {#sec:CurriculareAnalyse}
+### 3.4.4 Statistische Analyse curriculare Struktur {#sec:CurriculareAnalyse}
 
 Dieser Abschnitt ist als empirischer Kurzbeitrag im Stil wissenschaftlicher Studien angelegt und analysiert die curriculare Struktur des digitalen Bildungsraums „NFS-H“ mit dem Ziel, die empirische Nachvollziehbarkeit, interne Konsistenz und regulatorische Anschlussfähigkeit des Kursplans quantitativ zu überprüfen. Damit wird gezeigt, dass der zugrunde liegende Lehrplan nicht nur konzeptionell schlüssig, sondern auch datenbasiert strukturiert ist. Die vorliegende Analyse orientiert sich eng an zentralen Prinzipien der Curriculumsforschung. Sie greift das Konzept des Curriculum Alignment\label{term:curriculum-alignment} [biggs_enhancing_1996, Seiten 360–361] auf, das die Passung zwischen Lernzielen, Prüfungsanforderungen und curricularer Struktur thematisiert. Darüber hinaus folgt sie dem Ansatz des Programmatic Assessment\label{term:programmatic-assessment} ([@van_der_vleuten_model_2012], Abschnitt „Principles of assessment“), der die Konsistenz über multiple curriculare Elemente hinweg betont. Schließlich wird durch die systematische Quantifizierung didaktischer Strukturen ein Beitrag zur datenbasierten Modellierung von Bildungsarchitekturen geleistet. Die methodische Umsetzung über algorithmische Kürzelzuordnung, statistische Auswertung und Visualisierung stellt einen erweiterten Zugang dar, um curriculare Kohärenz empirisch zu fundieren, was insbesondere im Kontext digitaler Bildungsräume im Gesundheitswesen bedeutsam erscheint.
 
@@ -505,7 +559,7 @@ Ausblick
 
 Diese Analyse verdeutlicht exemplarisch, wie digitale Curricula im Gesundheitswesen systematisch und datenbasiert analysieren werden können. Die Verbindung zwischen regulatorischer Struktur (NotSan-APrV), inhaltlicher Codierung und quantitativer Auswertung liefert ein konsistentes Argument für die Validität digitaler Bildungsräume und deren Anschlussfähigkeit an curriculare Standards. Die Analyse ist ein methodischer Beitrag zur curricularen Forschung und belegt empirisch die Anschlussfähigkeit des digitalen Curriculums an die gesetzliche Struktur der NotSan-APrV. Die normative Fundierung wird mittels dieser Analyse statistisch nachgewiesen.
 
-## 3.4 Operative Architektur als Arbeits- und Lernumgebung {#sec:OperativeArchitektur}
+## 3.5 Operative Architektur als Arbeits- und Lernumgebung {#sec:OperativeArchitektur}
 
 Die bestehende didaktische Architektur des Learning Management Systems kann zur Berücksichtigung des operativen Bereichs um die lernprozessbezogene Struktur erweitert werden. Einerseits basiert der Aufbau bereits auf einer Organisationsstruktur, die in der Lehre aktiv genutzt wird und daher unmittelbar anschlussfähig ist. Andererseits ermöglicht die komplementäre Benutzung durch Lehrkräfte im operativen Alltag, das System nicht nur als didaktisches Werkzeug, sondern auch als erlebbares Arbeitsmittel zu nutzen. So können Lehrkräfte die Vorteile und Begrenzungen des Systems direkt erfahren. Zur kontextuellen Einordnung dieser operativen Architektur des hier beschriebenen Learning Management Systems können weiterhin zwei Aufsätze als Referenzrahmen dienen. Beide Studien zeigen, dass digitale Systeme nicht nur für Lehr-Lern-Prozesse, sondern auch für administrative, organisatorische und arbeitsplatzbezogene Zwecke eingesetzt werden können. Gleichzeitig verdeutlichen die Arbeiten die Grenzen bestehender Ansätze, die sich hauptsächlich in ihrer strukturellen Tiefe und curricularen Integration unterscheiden.
 
@@ -519,8 +573,6 @@ Im Vergleich dazu ist der hier betrachtete Anteil des Learning Management System
 
 Bereits in der didaktischen Architektur finden organisatorische Elemente ihren Raum. Neben der in \hyperref[sec:DidaktischeArchitektur]{Abschnitt 3.3} beschriebenen Containerstruktur existieren weitere Funktionen, die den operativen Betrieb unterstützen. Dazu zählen u.a. die Kursadministration, die Nutzerverwaltung, die Terminplanung und die Kommunikationswerkzeuge. Diese Funktionen sind integraler Bestandteil des Systems und ermöglichen eine nahtlose Verbindung zwischen Lernprozessen und organisatorischen Abläufen. So können Lehrende beispielsweise Kursmaterialien bereitstellen, Aufgaben verwalten und Feedback geben, während gleichzeitig administrative Aufgaben wie Teilnehmermanagement, Fortschrittsüberwachung und Berichterstattung durchgeführt werden können. Diese duale Funktionalität trägt dazu bei, dass das Learning Management System als didaktisches Werkzeug und als operatives Arbeitsmittel genutzt wird.
 
-## 3.5 E-Portfolio als Reflexions- und Transferinstrument {#sec:E-Portfolio}
+## 3.6 Exkurs: E-Portfolio als Reflexions- und Transferinstrument {#sec:E-Portfolio}
 
-## 3.6 Technische Rahmenbedingungen {#sec:TechnischeRahmen}
-
-@dyrna_methoden_2021 als technische Klassifizierung
+#todo Abschnitt ausformulieren (E-Portfolio als Reflexions- und Transferinstrument) und an die operative Architektur sowie die Kompetenzperspektive (FU6) anbinden.
