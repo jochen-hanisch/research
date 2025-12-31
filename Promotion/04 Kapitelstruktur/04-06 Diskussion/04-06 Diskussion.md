@@ -69,9 +69,7 @@ Eine zentrale Anschlussstelle an die pädagogisch‑psychologische Ebene bildet 
 
 ![Korrelationsdynamik von Neugier und Motivation über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/korrelationsdynamik-neugier-motivation_konstruktivistisch-standardlernender.png>){#fig:sim-korr-neugier-motivation}
 
-```{=latex}
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Dargestellt sind Roh‑ und normierte Differenzen sowie ein geglätteter Trend. Die Kurven markieren Phasen, in denen sich Neugier und Motivation im Modell stärker koppeln oder auseinanderlaufen.}
-```
 
 **Grundarchitektur der Wirkdimensionen (Startpunkt für die Interdependenz)**  
 Die Interdependenz-Thesen bauen auf wiederkehrenden Wirkdimensionen, die in den Kapiteln 2–5 empirisch und theoretisch belegt sind: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Sichtbarkeit. Diese Dimensionen sind die Basiselemente, aus denen positive und negative Wirkungswahrscheinlichkeiten abgeleitet und verschränkt werden.

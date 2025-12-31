@@ -55,9 +55,7 @@ Table: Konsequenzen für das LMS innerhalb der rechtlich-funktionalen Rahmung \l
 | Qualitätssicherung durch digitale Unterstützung                                     | LMS muss evaluierbare und standardisierte Prozesse zur Qualitätssicherung ermöglichen.                 | Seite  44-45 @bundesgesundheitsministerium_referentenentwurf_2012                 |
 | Anschlussfähigkeit an akademische Systeme                                           | LMS sollte Anschlussfähigkeit an hochschulische Systeme und Studiengänge berücksichtigen.              | @bundesgesundheitsministerium_gesundheitsberufe_2025                              |
 
-```{=latex}
 \tabsubcaption{Konsequenzen der rechtlich-funktionalen Rahmung für die LMS-Architektur. Zusammengeführt sind zentrale normative Anforderungen (u.a. NotSanG und Ausbildungs-/Prüfungsrahmen) und daraus abgeleitete Funktions- und Strukturbedarfe des Systems (Koordination der Lernorte, Dokumentation/Nachweis, Kommunikation, Qualitätssicherung).}
-```
 
 #todo Weiter mit Schule
 
@@ -122,9 +120,7 @@ Table: Retrospektiv-vergleichende Darstellung der LMS-Entwicklung im Kontext pan
 | Ergebnisbewertung   | LMS als Notlösung ohne nachhaltige Wirkung                                  | LMS als systemische Infrastruktur mit Verstetigungspotenzial                     |
 | Schlüsselbedingung  | „Institutional readiness“ erforderlich für Erfolg                           | Vorbereitung ab 2016 als Fundament nicht-planbarer pandemischer Handlungsfähigkeit |
 
-```{=latex}
 \tabsubcaption{Retrospektiver Vergleich der pandemiebedingten LMS-Umstellung (Literaturbefund) mit der dokumentierten Systementwicklung im Rahmen der Notfallsanitäter-Ausbildung (2016--2023). Die Gegenüberstellung fokussiert Ausgangspunkt, Infrastrukturvoraussetzungen, Herausforderungen und Bewertung und dient der Einordnung der Pandemie als Katalysator bereits vorbereiteter Systemarchitektur.}
-```
 
 Während das bei @gachanja_e-learning_2021 untersuchte E-Learning-Modell unter Bedingungen einer ad-hoc eingeführten digitalen Infrastruktur umgesetzt wurde, basierte das hier untersuchte System auf einem längerfristig entwickelten, curricular integrierten und technisch stabilen Ansatz. Die Gegenüberstellung macht deutlich, dass institutionelle Vorbereitung, systemische Vordisposition und die frühzeitige Einbettung digitaler Lernprozesse entscheidende Erfolgsfaktoren für die Funktionsfähigkeit eines Learning Management Systems unter Belastungsbedingungen darstellen. Besonders hervorzuheben ist dabei der Unterschied in der Bewertung der eingesetzten Systeme selbst. Während @gachanja_e-learning_2021 das LMS als temporäre Notlösung wahrgenommen haben, war das hier untersuchte System als integraler Bestandteil der schulischen Infrastruktur aufgebaut. Es zeigte seine Wirkungsfähigkeit zur Verstetigung über die Krise hinaus.
 
@@ -140,11 +136,15 @@ Die Anwendung des TEI soll im organisationalen Alltag praktikabel sein und umfas
 
 Für die vorliegende Arbeit liegt TEI als vollständige Folge aggregierter Exports pro Handlungssituation (`Evaluation-01`…`Evaluation-32`) vor. Die Exports umfassen je 46 Items. Die Rücklaufzahl variiert zwischen den Handlungssituationen [@hanisch-johannsen_tei-feedback_2025].
 
+Table: TEI-Rückläufe pro Handlungssituation \label{tab:tei-ruecklaeufe}
+
 | Handlungssituation (Beispiel) | Rücklauf n (Ausgefüllte Feedbacks) |
 | --- | --- |
 | `Evaluation-01` | `33` |
 | `Evaluation-12` | `58` |
 | `Evaluation-19` | `4` |
+
+\tabsubcaption{Beispielhafte Darstellung der Rückläufe des TEI pro Handlungssituation im hier untersuchten Learning Management System. Die Rücklaufzahlen variieren je nach Handlungssituation und spiegeln die Teilnahmebereitschaft der Lernenden wider.}
 
 Der vielleicht stärkste Vorteil liegt in der Organisations- und Teilnehmendenfreundlichkeit des Instruments. Wie oben dargestellt, kann das TEI innerhalb der Ausbildungsstruktur angewendet werden, wobei die Bearbeitungsdauer im Durchschnitt weniger als zehn Minuten beträgt; eine regelmäßige und belastungsarme Anwendung auch im stark getakteten Ausbildungsgeschehen wird somit eingeräumt. Zudem wurde das TEI so konzipiert, dass dieses direkt nach einem Trainingselement angewendet werden kann, also ein Umstand, der die Anschlussfähigkeit an die Struktur der Handlungssituationen im Learning Management System zusätzlich erhöht. Die empirisch belegte interne Konsistenz der Skalen (Cronbachs α = .73–.89) und die faktorenanalytisch abgesicherte Skalenstruktur bestätigen die methodische Qualität [@ritzmann_training_2014, Seite 49, 55].
 
@@ -198,7 +198,6 @@ Table: Technische Kennzahlen platon.care \label{tab:technische-kennzahlen-platon
 | Taktung          | 2,7 GHz  | 4,2 GHz    | —        |
 
 \tabsubcaption{Gegenüberstellung der technischen Kennzahlen (CPU-Kerne, Arbeitsspeicher, Datenspeicher, Taktung) der eingesetzten Systeme Moodle®, Nextcloud® und Mahara® im platon.care-Setup.}
-Quelle: Exposé, S. 16.
 
 Für eine ausreichende Usability werden seitens der  Moodle®-Plattform 10-20 Nutzer pro GB RAM (Moodle Pty Ltd., 2021a) empfohlen. Hinsichtlich der CPU-Leistung gibt es verschiedene Aussagen, auch hier haben sich 50-75 Benutzer pro CPU-Kern als Faust-
 regel etabliert (Moodle Pty Ltd., 2021b). Die Moodle® Empfehlung basiert auf dem best practice Verfahren. 
@@ -239,9 +238,7 @@ Das didaktisch-digitale Fundament des hier skizzierten Learning Management Syste
 
 Die konzeptionelle Grundstruktur des LMS wird in Abbildung \ref{fig:modell_LMS} als Schema visualisiert.
 
-```{=latex}
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-modell.tex}
-```
 
 Die Struktur trennt curricular-inhaltliche Handlungssituationen ($n = 32$) von kohortenspezifischen Ausbildungskursen ($n = 3$). Diese Trennung ermöglicht eine flexible, aber kohärente Lernumgebung, in der individuelle Erkenntnisse aus kursinternen Prozessen systematisch in die übergeordnete Handlungsebene zurückgeführt werden können.
 
@@ -257,7 +254,9 @@ Anhand von Abbildung 4 lässt sich die exemplarische Anwendung der zuvor beschri
 Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedingungen des Wirkgefüges und Sie zeigt, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System notwednigerweise technisch ermöglichend berücksichtig werden müssen. Ursprung dieser Darstellung ist die eigene Moodle-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
 
 Priorität: SHOULD — macht die Standardisierung/Containerstruktur operativ sichtbar; stärkt Nachvollziehbarkeit.
+
 ![Exemplarische Kursansicht im Learning Management System (eigene Moodle-Instanz).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-kursansicht-1.png>){#fig:fg-kursansicht}
+
 \figsubcaption{Die Abbildung zeigt die standardisierte Container-Navigation (links) sowie den inhaltsseitigen Aufbau (Kursdetails, Ressourcen etc.) als operatives Abbild der beschriebenen didaktischen Architektur.}
 
 Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
