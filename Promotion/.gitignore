@@ -7,6 +7,14 @@
 !literaturverzeichnis.md
 !build-dissertation.sh
 
+# Keep tooling scripts (outputs remain ignored by default)
+!tools/
+tools/**
+!tools/*.py
+!tools/*.json
+!tools/pandoc/
+!tools/pandoc/*.lua
+
 # Keep chapters (nur Hauptdateien) und Anhänge
 !04 Kapitelstruktur/
 04 Kapitelstruktur/**
