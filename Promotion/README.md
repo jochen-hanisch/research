@@ -50,3 +50,14 @@ Voraussetzungen (lokal installiert): `pandoc`, `pandoc-crossref`, `latexmk` und 
 
 - Fast build (Standard): `./build-dissertation.sh` oder `./build-dissertation.sh fast`
 - Full build (inkl. großer Anhänge): `./build-dissertation.sh full`
+
+## Zotero: Tags nach Kapitel/Abschnitt
+
+Um in Zotero zu sehen, **in welchen Abschnitten (`{#sec:...}`)** eine Quelle zitiert wird, kann das Tool `tools/zotero_tag_sections.py` die **Parent-Items** automatisch mit Tags wie `Promotion:sec:Beduerfnisse` versehen (aus den Pandoc-Citekeys in den Markdown-Kapiteln + den Zotero-Storage-Keys im `.bib`).
+
+- Audit/Dry Run (ohne Zotero-Schreibzugriff): `python3 tools/zotero_tag_sections.py --library-id <USER_ID> --citekeys-only`
+- Dry Run mit API-Resolve (ohne Schreiben, erzeugt Report): `python3 tools/zotero_tag_sections.py --library-id <USER_ID>`
+- Schreiben aktivieren: `python3 tools/zotero_tag_sections.py --library-id <USER_ID> --apply`
+
+API-Key: entweder per Prompt, oder via Env-Var `ZOTERO_API_KEY`.
+Tag-Schema: Standard ist `Promotion:sec:...`; alternativ z. B. `--tag-prefix "Promotion:#"` für `Promotion:#sec:...`.
