@@ -70,7 +70,7 @@ Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:met
 | **FU$_{6}$: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_forschungsmethoden_2023, Kapitel 5] sowie simulationsgestützte Modellierung zur dynamischen Plausibilisierung (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell; dynamische Verdichtung zentraler Kopplungen als Reflexionsfolie. |
 | **FU$_{7}$: Erweiterung von Kausalgesetzen** | Grounded-Theory-basierte „Einfall und Theorieentwicklung“ sowie Analyse des Technologiedefizits [@pentzold_praxis_2018, Einleitung; @luhmann_technologiedefizit_1982]. | Entwicklung und Ableitung eines kausalen Ursachen-Wirkungstheoriemodells. |
 
-\tabsubcaption{Übersicht der forschungsfragengeleiteten Methodenkopplung. Dargestellt ist die Zuordnung der Forschungsunterfragen (FU$_{1}$--FU$_{7}$) zu Bearbeitungsmethoden und den jeweiligen Erfüllungskriterien; die Tabelle dient als Orientierungsfolie für die Triangulation der Datensorten (Literatur/P-QIA, Eye-Tracking, UM1, Simulation).}
+\tabsubcaption{Übersicht der forschungsfragengeleiteten Methodenkopplung. Dargestellt ist die Zuordnung der Forschungsunterfragen (FU$_{1}$--FU$_{7}$) zu Bearbeitungsmethoden und den jeweiligen Erfüllungskriterien. Die Tabelle dient als Orientierungsfolie für die Triangulation der Datensorten (Literatur/P-QIA, Eye-Tracking, UM1, Simulation).}
 
 Die Tabelle fasst die Forschungsunterfragen zusammen und verknüpft sie mit den jeweils eingesetzten Methoden sowie ihren Erfüllungskriterien. Auf diese Weise wird nachvollziehbar, wie qualitative Literaturarbeit, empirische Erhebungen (Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1], Umfragen [@hanisch-johannsen_wirkgefuge_2025]) und simulationsbasierte Verfahren im Zusammenspiel verwendet wurden, um die unterschiedlichen Facetten des Lernmanagementsystems abzubilden. Die P‑QIA‑Auswertungen (Analysen dritter Ordnung; Abschnitt \hyperref[sec:P-QIA]{4.3.4}) werden FU‑übergreifend auf den Literaturkorpus angewandt; FU‑spezifische empirische Erhebungen dienen der Spiegelung und Triangulation der rekonstruierten Tendenzen.
 
@@ -523,7 +523,7 @@ Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Model
 
 Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekriterien (Intra-/Intercoder-Übereinstimmung) – die Stabilität zentraler Zuordnungen über wiederholte Läufe, Stichproben-Gegenlesungen und dokumentierte Grenzfallentscheidungen geprüft; Ziel ist nicht Scheingenauigkeit, sondern nachvollziehbare Regelbindung bei verbleibendem Interpretationsspielraum [@baur_qualitative_2022, Seite 695].
 
-Table: Cluster und Silhouette-Scores je FU \label{tab:cluster_silhouette}
+Table: Cluster und Silhouette-Scores je FU \label{tab:silhouette-scores}
 
 |FU|k|Silhouette|Interpretation nach @rousseeuw_silhouettes_1987|
 |---|---|---|---|
@@ -539,7 +539,7 @@ Table: Cluster und Silhouette-Scores je FU \label{tab:cluster_silhouette}
 
 \tabsubcaption{Übersicht des Silhouette-Scores je Forschungsunterfrage.}
 
-In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die **geometrische Trennschärfe** einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische **Faustregel** werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte für die Analysen 2. Ordnung eine durchgängig hohe Separierbarkeit der FU‑spezifischen Cluster.
+In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert in  als Maß für die **geometrische Trennschärfe** einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische **Faustregel** werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte für die Analysen 2. Ordnung eine durchgängig hohe Separierbarkeit der FU‑spezifischen Cluster.
 
 Wichtig ist die methodische Einordnung der Aussagekraft: Der Silhouette‑Wert validiert **nicht** die inhaltliche „Richtigkeit“ der Kategorien, sondern ausschließlich die Separierbarkeit der Segmente im verwendeten Repräsentationsraum. Sehr hohe Werte können zudem durch homogene Textbausteine oder stark formatierte/standardisierte Notizen begünstigt werden. Deshalb wird die Silhouette‑Prüfung hier als **Qualitätssicherungs‑ und Plausibilitätsindikator** eingesetzt und konsequent mit inhaltlicher Validierung (Codierschema, Ankerbeispiele, theoretische Einbettung) trianguliert. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Pipelines.
 
