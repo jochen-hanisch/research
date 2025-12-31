@@ -3,8 +3,6 @@
 
 # Keep repo plumbing and main manuscript sources
 !.gitignore
-!dissertation-full.pdf
-!dissertation-fast.pdf
 !README.md
 !literaturverzeichnis.md
 !build-dissertation.sh
