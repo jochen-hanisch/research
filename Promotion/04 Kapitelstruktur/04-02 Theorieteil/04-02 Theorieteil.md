@@ -264,14 +264,16 @@ In TAS-Logik werden die Kompetenzüberlegungen damit als Kopplungsargument:
 ## 2.3 Medienpädagogische Rahmung und Übergang zum Forschungsgegenstand {#sec:MedienpaedagogischeRahmung}
 
 \label{term:medienpaedagogische-rahmung}
+
 #todo (#36) Abschnitt ausformulieren: medienpädagogische Rahmung (z.B. Medienbildung/Medienkompetenz, Gestaltung digitaler Lernräume) als Brücke von Theorie (Kap. 2) zu Forschungsgegenstand (Kap. 3); explizit machen, welche theoretischen Bausteine später in Methodik/Analysen wieder aufgegriffen werden.
 
 ### 2.3.1 Einleitung und Übersicht zur medienpädagogischen Rahmung {#sec:Einleitung-MedienpaedagogischeRahmung}
 
 Dieser Abschnitt führt medienpädagogische Grundannahmen, Begriffe und Diskurse zusammen, die für die Analyse digitaler Lernarchitekturen leitend sind. Medienpädagogik wird dabei als Teildisziplin der Erziehungswissenschaft verstanden, die mediale Bedingungen von Bildung, Erziehung und Lernen reflektiert und damit Anschlussstellen für Gestaltung, Organisation und professionelle Praxis in digitalen Bildungsräumen bereitstellt. [@huber_einfuhrung_2023, Seite 1]
 
-Medienbildung wird als Prozess der Aneignung medialer Kulturtechniken, Kommunikationsformen und Gestaltungspraktiken gefasst und liefert damit Bezugsrahmen für Lernziele, Inhalte und Rahmung digitaler Lernarchitekturen. [@huber_medienbildung_2023, Seite 213]
-Medienkompetenz wird als Fähigkeit beschrieben, Medien kritisch, reflektiert und kreativ zu nutzen, und verbindet technische, kognitive und soziale Dimensionen, die in digitalen Lernräumen über Nutzung, Kommunikation und Gestaltung mitgeprägt werden. [@huber_medienkompetenz_2023, Seite 225]
+Medienbildung wird als Prozess der Aneignung medialer Kulturtechniken, Kommunikationsformen und Gestaltungspraktiken gefasst und liefert damit Bezugsrahmen für Lernziele, Inhalte und Rahmung digitaler Lernarchitekturen. [@moser_medienbildung_2011, Seite 137]
+
+Medienkompetenz wird als Fähigkeit beschrieben, Medien kritisch, reflektiert und kreativ zu nutzen, und verbindet technische, kognitive und soziale Dimensionen, die in digitalen Lernräumen über Nutzung, Kommunikation und Gestaltung mitgeprägt werden. [@moser_medienbildung_2011, Seite 175]
 
 Medienpädagogische Rahmung beschreibt Bildungsräume als durch Medialität strukturierte Konstellationen von Kommunikation, Interaktion und Gestaltung. Partizipation wird als Sammelbegriff für Teilhabe, Teilnahme, Einbindung und Beteiligung geführt und liefert Begriffe für Rollen, Rechte und Mitgestaltung in digitalen Lernräumen. [@huber_partizipation_2023, Seite 435]
 Dialog wird als Begriff mit Wurzeln in griechischer Tradition sichtbar und verweist auf Gesprächsformen, die Verständigung, Perspektivwechsel und gemeinsame Sinnbildung ermöglichen. [@huber_dialog_2023, Seite 99]
