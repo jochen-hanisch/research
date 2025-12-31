@@ -70,9 +70,7 @@ Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:met
 | **FU$_{6}$: LMS als Kompetenzerwerbssystem** | Systemische Theoriearbeit zur Verschränkung von Kompetenzforschung und LMS-Architektur [@doring_forschungsmethoden_2023, Kapitel 5] sowie simulationsgestützte Modellierung zur dynamischen Plausibilisierung (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). | Transfer und Einordnung der Ergebnisse in ein konsistentes Kompetenzentwicklungsmodell; dynamische Verdichtung zentraler Kopplungen als Reflexionsfolie. |
 | **FU$_{7}$: Erweiterung von Kausalgesetzen** | Grounded-Theory-basierte „Einfall und Theorieentwicklung“ sowie Analyse des Technologiedefizits [@pentzold_praxis_2018, Einleitung; @luhmann_technologiedefizit_1982]. | Entwicklung und Ableitung eines kausalen Ursachen-Wirkungstheoriemodells. |
 
-```{=latex}
 \tabsubcaption{Übersicht der forschungsfragengeleiteten Methodenkopplung. Dargestellt ist die Zuordnung der Forschungsunterfragen (FU$_{1}$--FU$_{7}$) zu Bearbeitungsmethoden und den jeweiligen Erfüllungskriterien; die Tabelle dient als Orientierungsfolie für die Triangulation der Datensorten (Literatur/P-QIA, Eye-Tracking, UM1, Simulation).}
-```
 
 Die Tabelle fasst die Forschungsunterfragen zusammen und verknüpft sie mit den jeweils eingesetzten Methoden sowie ihren Erfüllungskriterien. Auf diese Weise wird nachvollziehbar, wie qualitative Literaturarbeit, empirische Erhebungen (Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1], Umfragen [@hanisch-johannsen_wirkgefuge_2025]) und simulationsbasierte Verfahren im Zusammenspiel verwendet wurden, um die unterschiedlichen Facetten des Lernmanagementsystems abzubilden. Die P‑QIA‑Auswertungen (Analysen dritter Ordnung; Abschnitt \hyperref[sec:P-QIA]{4.3.4}) werden FU‑übergreifend auf den Literaturkorpus angewandt; FU‑spezifische empirische Erhebungen dienen der Spiegelung und Triangulation der rekonstruierten Tendenzen.
 
@@ -119,9 +117,7 @@ Die folgenden Zeit‑ und Kohärenzvisualisierungen (Abb.~\ref{fig:time-series},
 
 ![Zeitreihe der Publikationszahlen im Korpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_time_series_02-01_suchergebnisse.png>){#fig:time-series}
 
-```{=latex}
 \figsubcaption{Zeitreihe der jährlichen Veröffentlichungszahlen im Literaturkorpus (Quelle: 02-01 Suchergebnisse; $n=3728$, Stand: 2025-11-26). x-Achse: Jahr; y-Achse: Anzahl Veröffentlichungen; dient der volumetrischen Einordnung von Wachstums-, Konsolidierungs- und Reorganisationsphasen sowie der jahrgangsbezogenen Gewichtung in den folgenden Kohärenzanalysen.}
-```
 
 Die Zeitreihe der jährlichen Veröffentlichungszahlen beschreibt die volumetrische Entwicklung des untersuchten Literaturkorpus seit den späten 1970er-Jahren. Die Einordnung der sichtbaren Wachstums-, Konsolidierungs- und Reorganisationsphasen sowie ihre Bedeutung für die weitere Korpusdiagnostik erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -147,25 +143,19 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores \label{ta
 | 2025 | 192 | 4 | 0.9696 |
 | **Summe** | 3524 | — | — |
 
-```{=latex}
 \tabsubcaption{Jahresbezogene Kennwerte der Clusterkohärenz (Quelle: 02-01 Suchergebnisse). Spalten: Jahr, Fallzahl ($n$), gewählte Clusterzahl ($k$) und Silhouette-Score; Grundlage für die Drift-/Verdichtungsinterpretation und die Gewichtung der Jahrgänge in den folgenden Abbildungen.}
-```
 
 Die Tabelle dokumentiert die jahresbezogenen Kennwerte der Clusterkohärenz (Fallzahlen, $k$, Silhouette-Score) als Referenz für die nachfolgende Auswertung; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
 ![Silhouette-Scores und Fallzahlen pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png>){#fig:silhouette-scores}
 
-```{=latex}
 \figsubcaption{Gemeinsame Darstellung von Clusterkohärenz und Korpusvolumen pro Jahr (Quelle: 02-01 Suchergebnisse). Linke y-Achse: Silhouette-Score der jährlichen $k$-means-Clusterlösung; rechte y-Achse: Fallzahlen ($n$). Horizontale Referenzlinien markieren Quartile (Q1--Q3) der Silhouette-Verteilung und unterstützen die Identifikation von Verdichtungs- vs. Driftphasen.}
-```
 
 Die Abbildung stellt Silhouette-Scores und Fallzahlen je Jahr dar und dient als Grundlage für die Auswertung der Kohärenz- und Driftphasen; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
 ![Volumengewichtete Abweichung $\Delta SC_n$ der Clusterkohärenz pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/delta-sc-n-pro-jahr.png>){#fig:delta-silhouette}
 
-```{=latex}
 \figsubcaption{Volumengewichtete Abweichung der jährlichen Clusterkohärenz vom Referenzniveau (Quelle: 02-01 Suchergebnisse). $\Delta SC_n$ operationalisiert die Differenz des Silhouette-Scores zum Median, gewichtet mit $n/\max(n)$; 0-Linie: Neutralniveau, gestrichelte Linie: Median. Positive Balken markieren überproportional kohärente Jahrgänge (Verdichtung), negative Balken unterproportionale Kohärenz bei hohem Volumen (Drift/Reorganisation).}
-```
 
 Die Abbildung dokumentiert die volumengewichtete Abweichung $\Delta SC_n$ als ergänzende Kennzahl zur Kohärenzdiagnostik; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -188,9 +178,7 @@ Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 | `S:03`        | Online-Lernumgebung        | Virtuelle Lernumgebung, Digitale Umgebung |
 | `S:05`        | E-Learning                 | Elektronisches Lernen, Digitales Lernen   |
 
-```{=latex}
 \tabsubcaption{Primäre Suchbegriffe der Zotero-Suchordnerlogik. Aufgeführt sind Ordner-IDs, Kernbegriffe und Synonyme/Varianten; diese Ebene adressiert den unmittelbaren Forschungsgegenstand und wird mit hoher Sichtungsquote priorisiert.}
-```
 
 Die primären Suchbegriffe adressieren den unmittelbaren Forschungsgegenstand. Sie bündeln alle Kombinationen, in denen das LMS oder der digitale Bildungsraum direkt benannt ist. Für diese Cluster gilt eine hohe Sichtungsquote (mindestens 80 %), weil sie die Kernbefunde zur Wirkweise des eingesetzten Systems liefern und den Ausgangspunkt für die Ableitung der Forschungsunterfragen bilden.
 
@@ -207,9 +195,7 @@ Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 | `S:09`        | Digitales Lernen    | Digital Learning (dt.), technologiegestütztes Lernen |
 | `S:12`        | Digital Learning    | Digitales Lernen (engl.), tech-enhanced learning     |
 
-```{=latex}
 \tabsubcaption{Sekundäre Suchbegriffe zur Kontextualisierung des LMS-Feldes. Die Begriffe erweitern den Suchraum um Formate und Bildungstechnologie-Kontexte; die Sichtungsquote wird gegenüber der Primärebene reduziert, um Sensitivität ohne thematische Verwässerung zu sichern.}
-```
 
 Sekundäre Begriffe erweitern den Blick auf didaktische und organisatorische Kontexte. Sie erfassen hybride Arrangements, mediale Settings und bildungstechnologische Konzepte, die das LMS funktional einbetten. Die Sichtungsquote liegt hier bei 50 %, weil diese Ebene vor allem der Kontextualisierung und der Identifikation flankierender Mechanismen dient.
 
@@ -222,9 +208,7 @@ Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 | `S:10`        | Online Lernen   | Lernen im Netz, Web-basiertes Lernen    |
 | `S:11`        | Online Learning | Online-based education, remote learning |
 
-```{=latex}
 \tabsubcaption{Tertiäre Suchbegriffe als periphere Suchraumerweiterung. Die Begriffe dienen der Trend- und Randfeldvalidierung (niedrige Sichtungsquote) und markieren Anschlussstellen an angrenzende Diskurse.}
-```
 
 Tertiäre Begriffe erschließen angrenzende Innovations- und Technologiefelder, die Impulse für zukünftige Erweiterungen liefern. Sie besitzen die niedrigste Sichtungsquote (15 %), werden jedoch zur Validierung neuer Trends genutzt und helfen, emergente Muster in der Literatur frühzeitig zu erkennen.
 
@@ -232,9 +216,7 @@ Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von de
 
 ![Bool’sche Logik der Suchordner und Quotensteuerung.](<08 Metaquellen/08-01 Abbildungen/methodik/Boolsche-Logik Suchordner.png>){#fig:bool-logik}
 
-```{=latex}
 \figsubcaption{Screenshot einer exemplarischen Zotero-Suchordnerdefinition (Boolean-Suchstring inkl. Positiv-/Negativtags und Ausschlussregeln) als Operationalisierung der quotierten Sichtung. Dargestellt ist der Ablauf von Trefferliste über Screeningquote (primär/sekundär/tertiär) und Tagging bis zur Übergabe in die Analysepipeline; die Abbildung dokumentiert die Replizierbarkeit der Such- und Selektionslogik.}
-```
 
 Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanagementprogramms. Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine beispielhafte Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
 
@@ -259,17 +241,13 @@ Alle folgenden Visualisierungen sind als deskriptive Korpusdiagnostik zu lesen (
 
 ![Gesamtüberblick der Suchergebnisse.](<08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png>){#fig:summary-suchergebnisse}
 
-```{=latex}
 \figsubcaption{Aggregierte Strukturkennzahlen der Suchergebnisse (Quelle: 02-01 Suchergebnisse; Stand: 2025-11-26). Dargestellt sind mittlere Korrelationen je Korrelationstyp ($n=10$ Matrizen); Balkenhöhe: Durchschnittskorrelation, Farbskala: Korrelationswert. Die Übersicht dient als Schnellcheck, welche Ebenen (FU, Suchbegriffe, Indizes, Kategorien) besonders stark gekoppelt sind und wo Entkopplungen auftreten.}
-```
 
 Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relevanzstufen dominieren, Deutsch/Englisch tragen den Hauptanteil, Artikel und Bücher sind die wichtigsten Dokumententypen. Damit ist die Datengrundlage formal solide, sprachlich fokussiert und nur gering durch Randsprachen oder Grauliteratur verzerrt.
 
 ![Verteilung der Kategorien im Quellenkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png>){#fig:categories-suchergebnisse}
 
-```{=latex}
 \figsubcaption{Textsortenzuordnung der analysierten Quellen (Quelle: 02-01 Suchergebnisse; $n=1109$, Stand: 2025-11-26). Balken: absolute Häufigkeiten der Kategorien Kerngedanke, Argumentation, Weiterführung und Schlussfolgerung; Grundlage für die Einordnung der argumentativen Tiefe des Korpus und für nachfolgende Pfad- und Korrelationsanalysen.}
-```
 
 Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (vgl. Abb.~\ref{fig:categories-suchergebnisse}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
 
@@ -287,17 +265,13 @@ Limitationen: geringere räumliche Präzision als Laborsysteme; Sensitivität f�
 
 ![Stichprobenverteilung der Eye-Tracking-Teilnehmenden nach Ausbildungsjahr](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_verteilung_konfidenz.png>){#fig:eyetracking-verteilung}
 
-```{=latex}
 \figsubcaption{Dargestellt sind Anteile je Ausbildungsjahr mit 95\,\%-Konfidenzintervallen im Vergleich zur Grundgesamtheit.}
-```
 
 Die Stichprobenverteilung (vgl. Abb.~\ref{fig:eyetracking-verteilung}) zeigt, dass in jedem Ausbildungsjahrgang acht Personen in die Eye-Tracking-Analyse einbezogen wurden ($n_\text{pro Jahrgang} = 8$) und damit jeweils ein Drittel der Kohorte im ersten Jahr (N = 24) sowie einen substantiellen Anteil in den kleineren Jahrgängen (zweites Jahr N = 11, drittes Jahr N = 10) abbilden. Die 95 %-Konfidenzintervalle verdeutlichen die erwarteten Unsicherheiten bei kleinen Grundgesamtheiten, bestätigen aber zugleich, dass die Stichprobe im Rahmen der vorhandenen Kohortengrößen breit gestreut ist. Für die qualitativen, bildbasierten Analysen genügt diese Verteilung, um typische Muster pro Jahrgang sichtbar zu machen, ohne einen Anspruch auf inferenzstatistische Repräsentativität zu erheben [@hanisch-johannsen_wirkgefuge_2025-1].
 
 ![Kumulative Zahl potenziell generierter Eye-Tracking-Bilder](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_bildanzahl.png>){#fig:eyetracking-bildanzahl}
 
-```{=latex}
 \figsubcaption{Kombiniert werden Stimuli, Jahrgänge und Visualisierungstypen (Heatmaps, Viewmaps, Fog-Views, Screenshots); die Abbildung quantifiziert die Materialmenge der bildbasierten Auswertung.}
-```
 
 Die kumulative Bildanzahl (Abb.~\ref{fig:eyetracking-bildanzahl}) illustriert den Umfang der generierten Visualisierungen: Pro Jahrgang entstehen aus den elf Stimuli und drei Visualisierungstypen (Heatmap, Viewmap, Fog-View) bereits mehrere Hundert potenzielle Bilder; hochgerechnet auf alle Jahrgänge ergibt sich ein vierstelliger Bildkorpus. Vor diesem Hintergrund wird die Entscheidung für eine selektive, qualitativ-interpretative Auswertung nachvollziehbar: Statt alle Visualisierungen metrisch auszuwerten, werden zentrale Stimuli und Jahrgänge exemplarisch vertieft analysiert und mit den Umfragebefunden trianguliert [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025]. Die Kosten-Nutzen-Abwägung fällt damit zugunsten eines theoriegeleiteten, fokussierten Vorgehens aus, das die bildbasierte Stärke des Materials nutzt, ohne in eine unbegründete Quantifizierung zu kippen.
 
@@ -307,9 +281,7 @@ Die folgenden beiden Abbildungen (Pfaddiagramm und Suchbegriffsnetz) fungieren d
 
 ![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png>){#fig:path-diagram}
 
-```{=latex}
 \figsubcaption{Sankey-Pfaddiagramm der Korpusströme (Quelle: 02-01 Suchergebnisse). Knotenebenen von links nach rechts: Forschungsunterfragen (FU) $\rightarrow$ Textsorten (Kerngedanke/Argumentation/Weiterführung/Schlussfolgerung) $\rightarrow$ deduktive Kategorien $\rightarrow$ Dokumenttypen; Kantenbreite kodiert relative Häufigkeiten und macht dominante Argumentationspfade sowie Randströme sichtbar.}
-```
 
 Das Pfaddiagramm dokumentiert die Datenflüsse und Kategorien im Quellenkorpus als Visualisierung der Korpusstruktur; die inhaltliche Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -317,9 +289,7 @@ Die anschließende Netzwerkdarstellung fokussiert auf die Suchbegriffe und ihre 
 
 ![Netzwerkdarstellung der Beziehungen zwischen Suchbegriffen, Tags und Kategorien.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png>){#fig:network-suchergebnisse}
 
-```{=latex}
 \figsubcaption{Netzwerk/Embedding der Suchbegriffe im zweidimensionalen Raum (Quelle: 02-01 Suchergebnisse). Achsen: technologische vs. pädagogische Dimension; Knotengröße: relative Suchgewichtung/Frequenz; Knotentyp/Farbe: primäre, sekundäre, tertiäre Begriffe; Kanten: semantische Nähe als Ko-Vorkommen in der Tag- und Suchlogik.}
-```
 
 Die Netzwerkdarstellung dokumentiert die Beziehungen zwischen Suchbegriffen, Tags und Kategorien als zweidimensionale Übersicht des Suchraums; die inhaltliche Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}. Eine hochauflösende Darstellung des Netzwerks sowie ergänzende strukturbezogene Visualisierungen (Sankey-Diagramm) finden sich im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)}.
 
@@ -391,9 +361,7 @@ Table: Stimulusauswahl \label{tab:stimulus-auswahl}
 |  F11‑S3  | Weiterführende Quellen   |  FU$_{4b}$/FU$_{2a}$   | Auffindbarkeit/Link-Salienz  |
 |  F14‑S3  | Lernmaterial, Sicherheit |   FU$_{4b}$/FU$_{6}$   | Salienz Sicherheit           |
 
-```{=latex}
 \tabsubcaption{Auswahl repräsentativer Eye-Tracking-Stimuli für die qualitative AOI-Analyse. Spalten: Stimulus-ID, inhaltlicher Ausschnitt, primär adressierte FU sowie Analysefokus; Auswertung in Abschnitt \hyperref[sec:EyeTracking-Umfrage-Vergleich]{4.3.9}.}
-```
 
 Datengrundlage der Stimulus-Visualisierungen: [@hanisch-johannsen_wirkgefuge_2025-1].
 
@@ -499,9 +467,7 @@ Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissen
 
 Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU$_{4a}$ und FU$_{5}$ (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU$_{3}$ und den nutzungsbezogenen FU$_{2a}$/FU$_{4b}$. FU$_{1}$ und FU$_{6}$ liegen im mittleren einstelligen Prozentbereich, FU$_{2b}$ und FU$_{7}$ bilden kleinere, aber inhaltlich zentrale Vertiefungsfelder. Abbildung \ref{fig:primaranalysen-verteilung} visualisiert diese Gewichtung.
 
-```{=latex}
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/primaranalysen-verteilung.tex}
-```
 
 Für die Analysen zweiter Ordnung wird je Forschungsunterfrage ein FU-spezifischer Korpus aus dem Literaturverzeichnis gebildet: Alle Einträge, die den FU-Tag (`Promotion:FUx`) tragen und eine Analyse 1. Ordnung im Feld `annote` enthalten, werden extrahiert und in einer FU-spezifischen Arbeitsdatei zusammengeführt, wobei der jeweilige BibTeX-Key als Referenzanker mitgeführt wird. Diese Arbeitsdateien dienen der Reproduzierbarkeit und Nachvollziehbarkeit der FU-Korpora, sind jedoch nicht Bestandteil des Anhangs. Die FU-Korpora bilden die direkte Eingabe der P‑QIA-Metaanalyse (vgl. \hyperref[sec:P-QIA]{Abschnitt 4.3.4} sowie \hyperref[sec:A-3]{Anhang A.3}) und sichern, dass Ankerbeispiele und Zuordnungen reproduzierbar auf konkrete Quellen zurückverweisen.
 
@@ -549,15 +515,15 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 7. **Kodierung des Materials (Mayring)** – Anwendung des Manuals, Dokumentation von Grenzfällen und Abgrenzungsentscheidungen.
 8. **Synthese, Metamodellierung und Theoriebildung (Mayring + P-QIA)** – Rückbindung an die FU und Dokumentation der Kennwerte.
 
-```{=latex}
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/p-qia-flow.tex}
-```
 
 **Validierung und empirische Kennwerte**
 
 Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
 
 Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekriterien (Intra-/Intercoder-Übereinstimmung) – die Stabilität zentraler Zuordnungen über wiederholte Läufe, Stichproben-Gegenlesungen und dokumentierte Grenzfallentscheidungen geprüft; Ziel ist nicht Scheingenauigkeit, sondern nachvollziehbare Regelbindung bei verbleibendem Interpretationsspielraum [@baur_qualitative_2022, Seite 695].
+
+Table: Cluster und Silhouette-Scores je FU \label{tab:cluster_silhouette}
 
 |FU|k|Silhouette|Interpretation nach @rousseeuw_silhouettes_1987|
 |---|---|---|---|
@@ -570,6 +536,8 @@ Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekri
 |FU$_{5}$|14|0.88|starke Clusterstruktur|
 |FU$_{6}$|12|0.89|starke Clusterstruktur|
 |FU$_{7}$|10|0.93|sehr starke Clustertrennung|
+
+\tabsubcaption{Übersicht des Silhouette-Scores je Forschungsunterfrage.}
 
 In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die **geometrische Trennschärfe** einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische **Faustregel** werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte für die Analysen 2. Ordnung eine durchgängig hohe Separierbarkeit der FU‑spezifischen Cluster.
 
@@ -621,7 +589,7 @@ Allein der Silhouette-Score erfasst nur die geometrische Separierbarkeit von Clu
 **Formel zur Definition der Verlustfunktion:**
 
 $$
-\epsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
+    \epsilon = (1 - S) + \frac{n_{\text{Soll}} - n_{\text{Ist}}}{n_{\text{Soll}}}
 $$ {#eq:verlust}
 
 Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 3583$ ergibt $\epsilon \approx 0{,}0252$. Der Wert zeigt, dass trotz kleiner Datenlücken eine hohe Integrität erreicht wird. Die Verlustfunktion eignet sich insbesondere als Frühwarnsystem (Verlust von Quellen, unplausible Score-Sprünge) und als zusätzlicher Qualitätsindikator in reproduzierbaren Pipelines.
@@ -635,7 +603,7 @@ Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV 
 **k-means-Verfahren (Kurzüberblick):** Für die Clusterbildung wird das klassische $k$-means genutzt (Euklidische Distanz, Lloyd-Iteration), mit $k$ aus Silhouette/Elbow und theoriegeleiteter Justierung sowie Initialisierung per mehrfachem Random Start zur Vermeidung lokaler Minima [@litzel_was_2018; @sud_k-means_2020]. Stabilität und Feature-Selektion werden über Wiederholungen/Stability-Checks reflektiert [@mavroeidis_novel_2011; @rakhlin_stability_nodate], die beschriebenen Limitationen (Sensitivität auf Ausreißer, sphärische Clusterannahme) werden berücksichtigt [@noauthor_drawbacks_2023; @noauthor_what_2024]. Die Zielfunktion lautet:
 
 $$
-\arg\min_{\{\mu_j\}, \{C_j\}} \sum_{j=1}^{k} \sum_{x_i \in C_j} \lVert x_i - \mu_j \rVert_2^2
+    \arg\min_{\{\mu_j\}, \{C_j\}} \sum_{j=1}^{k} \sum_{x_i \in C_j} \lVert x_i - \mu_j \rVert_2^2
 $$ {#eq:kmeans}
 
 Beispielhaft wurde für den Literaturkorpus ($n = 3733$) k = 4 gewählt, mit 20 Random Starts und Standard-Lloyd-Iteration (Konvergenz < 30 Iterationen); der Silhouette-Score lag bei $S \approx 0{,}9884$.
@@ -646,9 +614,7 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 ![Deduktive k-means-Clusteranalyse des Quellenkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/clusteranalyse-kmeans-deduktiv-02-01-suchergebnisse.png>){#fig:clusteranalyse-kmeans}
 
-```{=latex}
 \figsubcaption{3D-Projektion der deduktiven $k$-means-Clusterlösung (Quelle: 02-01 Suchergebnisse; $n=3733$, $k=4$, Silhouette-Score: $0{,}9884$). Achsen: Suchbegriffe, Kategorien, Forschungsunterfragen; Farbe: Clusterzugehörigkeit; Punktgröße: Clusterumfang; Labels: dominante Tag- und Eintragstyp-Kombinationen je Cluster.}
-```
 
 Die deduktive 3D-Clusterlösung wird in Abb.~\ref{fig:clusteranalyse-kmeans} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien sowie Forschungsfragen dokumentiert und dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
 
@@ -827,9 +793,7 @@ Die Logik wird in der Simulation als Familie von Verläufen sichtbar (vgl. \hype
 
 ![Monte‑Carlo‑Simulation des Kompetenzniveaus über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/monte-carlo-simulation_konstruktivistisch-standardlernender.png>){#fig:sim-montecarlo}
 
-```{=latex}
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“, $n=25$ Durchläufe. Dargestellt sind einzelne Simulationsverläufe über die Quartale. Die Streuung bildet die Bandbreite plausibler Entwicklungsdynamiken im Modell ab.}
-```
 
 ### 4.4.3 Unsicherheitsrelationen und Wirkungsindikatoren {#sec:Simulation-Indikatoren}
 
@@ -841,19 +805,19 @@ Für die Auswertung werden zwei Unsicherheitsmaße als Grundgrößen geführt:
 Auf dieser Basis wird der Bildungswirkfaktor\label{term:bildungswirkfaktor} als zeitabhängiges Aggregatmaß gefasst:
 
 $$
-\nu(t) = \Delta E(t) \cdot \Delta K(t)
+    \nu(t) = \Delta E(t) \cdot \Delta K(t)
 $$ {#eq:bildungswirkfaktor}
 
 Der Bildungswirkindikator\label{term:bildungswirkindikator} beschreibt die Veränderungsrate dieses Faktors:
 
 $$
-\iota(t) = \frac{d\nu(t)}{dt}
+    \iota(t) = \frac{d\nu(t)}{dt}
 $$ {#eq:bildungswirkindikator}
 
 Für die Koppelungsprüfung zwischen Dynamikspur und Streuung wird ergänzend ein dynamischer Unsicherheitswert $C$\label{term:unsicherheitswert-c} verwendet, der die Korrelationsstärke mit der Streuung verknüpft:
 
 $$
-C = \lvert r(\Delta E, \Delta K) \rvert \cdot \sigma(\Delta E) \cdot \sigma(\Delta K)
+    C = \lvert r(\Delta E, \Delta K) \rvert \cdot \sigma(\Delta E) \cdot \sigma(\Delta K)
 $$ {#eq:bildungswirk_c}
 
 Die Auswertung von $\nu(t)$ und $\iota(t)$ erfolgt über Glättung, Ableitungen sowie die Identifikation von Minima, Maxima und Wendepunkten. Damit wird sichtbar, an welchen Stellen die Dynamik in Regenerations‑ oder Störungslogiken kippt und wo in einem formalen Sinn Interventionspunkte markiert werden können. Diese Indikatorik wird in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} als heuristische Ergänzung genutzt und in Kapitel \hyperref[sec:Ergebnisse-FU6]{5.3.7} in die Systemperspektive auf Kompetenzentwicklung rückgebunden.
@@ -875,25 +839,21 @@ Table: Zuordnung von Zeitfenstern zu $\nu(t)$ und $\iota(t)$ \label{tab:sim-zuor
 | Interventionspunkt | lokales Minimum in $\nu(t)$ | Kopplungsträger identifizieren | Abschnitt \hyperref[sec:Simulation-Indikatoren]{4.4.3} |
 | Regenerationspunkt | lokales Maximum in $\nu(t)$ | Stabilisierungspfade identifizieren | Abschnitt \hyperref[sec:Simulation-Indikatoren]{4.4.3} |
 
+\tabsubcaption{Zuordnung von Zeitfenstern zu Indikatorikmerkmalen in der Simulation. Die Begriffe dienen der konsistenten Interpretation der Indikatorik im Modellbeispiel und in der weiteren Arbeit.}
+
 Die Indikatorik lässt sich als Verlaufsspur illustrieren (vgl. \hyperref[fig:sim-bildungswirkdynamik]{Abb.~\ref{fig:sim-bildungswirkdynamik}}). Zur Einordnung der verwendeten Grundgrößen werden ergänzend die im Beispiel angesetzten Unsicherheitskomponenten und die Unsicherheitsrelation dokumentiert (vgl. \hyperref[fig:sim-unsicherheiten]{Abb.~\ref{fig:sim-unsicherheiten}} und \hyperref[fig:sim-unsicherheitsrelation]{Abb.~\ref{fig:sim-unsicherheitsrelation}}).
 
 ![Bildungswirkfaktor $\nu(t)$ und Bildungswirkindikator $\iota(t)$ über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/bildungswirkdynamik_konstruktivistisch-standardlernender.png>){#fig:sim-bildungswirkdynamik}
 
-```{=latex}
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Dargestellt sind $\nu(t)$ als Aggregatmaß aus $\Delta E(t)$ und $\Delta K(t)$ (Gl.~\eqref{eq:bildungswirkfaktor}) sowie $\iota(t)$ als Veränderungsrate (Gl.~\eqref{eq:bildungswirkindikator}) über die Quartale. Markierungen weisen exemplarisch auf Zeitfenster hin, in denen im Modell Stabilisierung oder Kippdynamiken auftreten.}
-```
 
 ![Nebenabbildung: Unsicherheitskomponenten im Modellbeispiel.](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheiten_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheiten}
 
-```{=latex}
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Gezeigt sind exemplarische Komponenten (Parameter-/Streuungsanteile), die als Bausteine der modellinternen Unsicherheitsgrößen $\Delta K(t)$ und $\Delta E(t)$ geführt werden (vgl. \hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}).}
-```
 
 ![Nebenabbildung: Dynamische Unsicherheitsrelation im Modellbeispiel.](<08 Metaquellen/08-01 Abbildungen/didaktik/unsicherheitsrelation_konstruktivistisch-standardlernender.png>){#fig:sim-unsicherheitsrelation}
 
-```{=latex}
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Gegenübergestellt werden das Produkt der Unsicherheitsgrößen und der dynamische Unsicherheitswert $C$ als Hilfsgröße zur Abschätzung der Kopplungsnähe zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}).}
-```
 
 ### 4.4.4 Passung zum Wirkgefüge-Konzept {#sec:Simulation-Passung}
 
@@ -929,9 +889,7 @@ Table: SWOT-Analyse des KI-gestützten methodischen Vorgehens \label{tab:swot_ki
 | **Chancen** | Ergänzung klassischer Verfahren um Prüfgrößen (Silhouette, mdaCV); methodische Innovation (P-QIA, mdaCV); Erschließung großer Literaturkorpora; Förderung kollaborativer, versionierter Erkenntnissysteme. | Anwendung auf alle relevanten FU; Vergleich unterschiedlicher Modellläufe; Veröffentlichung von Skripten und Dokumentation; Einbettung in eine datenbasierte Curriculumsforschung. |
 | **Risiken** | Scheinobjektivität der Kennwerte; ethische Fragen (Delegation von Bewertung, Datenumgang); Abhängigkeit von Modellarchitekturen/Infrastruktur; Replikationsrisiken; Unterschätzung manueller Kontextkenntnis; sprachliche Homogenisierung und epistemische Verflachung [@hebbel-seeger_wissenschaftliches_2025, Seite 439-440]. | Reflexionspassagen im Methodikteil; Benennung von Grenzen und Annahmen; manuelle Stichproben-Codierungen; Auswahl datenschutzkonformer Umgebungen; Replikationsstrategien bei Modellaktualisierungen; Stil-/Begriffs-Constraints; menschliche Endredaktion; Vergleich mehrerer Prompt-Läufe. |
 
-```{=latex}
 \tabsubcaption{SWOT-Analyse des KI-gestützten Vorgehens als methodisches Reflexionsinstrument. Gegenübergestellt werden interne Faktoren (Stärken/Schwächen) und externe Rahmenbedingungen (Chancen/Risiken) sowie jeweils mitgeführte Maßnahmen zur Absicherung von Transparenz, Reproduzierbarkeit und epistemischer Vorsicht.}
-```
 
 Die Tabelle bündelt damit die zentralen Befunde und zeigt, welche Maßnahmen unmittelbar mitgeführt werden. Die Stärken (Transparenz, Reproduzierbarkeit und Trennschärfe) werden neben den abstrakten Zuschreibungen in Sensitivitätsanalysen, Versionierungen und reproduzierbaren Dokumentationsketten aktiv genutzt.
 
