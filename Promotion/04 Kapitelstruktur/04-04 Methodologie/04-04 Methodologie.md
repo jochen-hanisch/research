@@ -56,7 +56,9 @@ Konkret werden Methoden aus den Forschungsfragen abgeleitet; jede Frage bestimmt
 
 Auf dieser Grundlage beschreibt Abschnitt 4.2 die konkrete Umsetzung der Datenerhebungsverfahren. Die dort erläuterten Schritte – von der systematischen Literaturrecherche über das Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1] bis zur LMS‑Umfrage [@hanisch-johannsen_wirkgefuge_2025] – sind direkt aus der hier beschriebenen Paradigma‑Logik abgeleitet und folgen der systemischen Kopplung der Forschungsunterfragen.
 
-Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen {#tab:methoden_FU}
+Die Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen ist in Tabelle~\ref{tab:methoden_FU} zusammengefasst und dient als orientierender Überblick für die in Abschnitt 4.2 folgende Operationalisierung.
+
+Table: Zuordnung der Bearbeitungsmethoden zu den Forschungsunterfragen \label{tab:methoden_FU}
 
 | Forschungsunterfrage | Bearbeitungsmethode | Erfüllungskriterien |
 | --- | --- | --- |
@@ -145,7 +147,7 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores \label{ta
 
 \tabsubcaption{Jahresbezogene Kennwerte der Clusterkohärenz (Quelle: 02-01 Suchergebnisse). Spalten: Jahr, Fallzahl ($n$), gewählte Clusterzahl ($k$) und Silhouette-Score; Grundlage für die Drift-/Verdichtungsinterpretation und die Gewichtung der Jahrgänge in den folgenden Abbildungen.}
 
-Die Tabelle dokumentiert die jahresbezogenen Kennwerte der Clusterkohärenz (Fallzahlen, $k$, Silhouette-Score) als Referenz für die nachfolgende Auswertung; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
+Tabelle~\ref{tab:cluster_silhouette} dokumentiert die jahresbezogenen Kennwerte der Clusterkohärenz (Fallzahlen, $k$, Silhouette-Score) als Referenz für die nachfolgende Auswertung; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
 ![Silhouette-Scores und Fallzahlen pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png>){#fig:silhouette-scores}
 
@@ -161,13 +163,15 @@ Die Abbildung dokumentiert die volumengewichtete Abweichung $\Delta SC_n$ als er
 
 ### 4.2.2 Systematisches Literaturmanagement {#sec:Systematisches-Literaturmanagement}
 
-Zur Vorbereitung der Datenanalyse wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die folgende Tabelle zeigt die vollständige Struktur der Suchordner:
+Zur Vorbereitung der Datenanalyse wurden in Zotero 12 priorisierte Suchordner (0 bis b) angelegt. Jeder Ordner enthält eine Kombination aus Eintragstyp und Schlagwortkette. Die Titel wurden in der festgelegten Reihenfolge geprüft und beim ersten Treffer mit dem entsprechenden Tag versehen. Die Systematik der Suchordner ist in Tabelle~\ref{tab:primaere_suchbegriffe}, Tabelle~\ref{tab:sekundaere_suchbegriffe} und Tabelle~\ref{tab:tertiäre_suchbegriffe} dokumentiert.
 
 Anhang X: Struktur der Suchordner in Zotero nach semantischen Ebenen
 
-Die folgende Tabelle dokumentiert die finale Systematik der Zotero-Suchordner. Diese ist entlang primärer, sekundärer und tertiärer Suchbegriffe gegliedert. Jeder Ordner beinhaltet strukturierte Suchen nach Eintragstypen und thematischen Schlagwörtern. Die ID der Ordner (z. B. `S:01`) korrespondiert mit der Ordnerstruktur in Zotero und wurde zur Tag-Kodierung verwendet.
+Die dargestellte Suchordnerlogik ist entlang primärer, sekundärer und tertiärer Suchbegriffe gegliedert. Jeder Ordner beinhaltet strukturierte Suchen nach Eintragstypen und thematischen Schlagwörtern. Die ID der Ordner (z. B. `S:01`) korrespondiert mit der Ordnerstruktur in Zotero und wurde zur Tag-Kodierung verwendet.
 
 **Primäre Suchbegriffe**
+
+Tabelle~\ref{tab:primaere_suchbegriffe} listet die primären Suchbegriffe (Kernbezug zum Forschungsgegenstand) inklusive Synonymen und Varianten.
 
 Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 
@@ -183,6 +187,8 @@ Table: Übersicht Primäre Suchbegriffe \label{tab:primaere_suchbegriffe}
 Die primären Suchbegriffe adressieren den unmittelbaren Forschungsgegenstand. Sie bündeln alle Kombinationen, in denen das LMS oder der digitale Bildungsraum direkt benannt ist. Für diese Cluster gilt eine hohe Sichtungsquote (mindestens 80 %), weil sie die Kernbefunde zur Wirkweise des eingesetzten Systems liefern und den Ausgangspunkt für die Ableitung der Forschungsunterfragen bilden.
 
 **Sekundäre Suchbegriffe**
+
+Tabelle~\ref{tab:sekundaere_suchbegriffe} zeigt die sekundären Suchbegriffe zur Kontextualisierung des LMS-Feldes (Formate und bildungstechnologische Kontexte).
 
 Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 
@@ -200,6 +206,8 @@ Table: Übersicht Sekundäre Suchbegriffe \label{tab:sekundaere_suchbegriffe}
 Sekundäre Begriffe erweitern den Blick auf didaktische und organisatorische Kontexte. Sie erfassen hybride Arrangements, mediale Settings und bildungstechnologische Konzepte, die das LMS funktional einbetten. Die Sichtungsquote liegt hier bei 50 %, weil diese Ebene vor allem der Kontextualisierung und der Identifikation flankierender Mechanismen dient.
 
 **Tertiäre Suchbegriffe**
+
+Tabelle~\ref{tab:tertiäre_suchbegriffe} führt die tertiären Suchbegriffe als periphere Suchraumerweiterung zur Trend- und Randfeldvalidierung auf.
 
 Table: Übersicht Tertiäre Suchbegriffe \label{tab:tertiäre_suchbegriffe}
 
@@ -350,6 +358,8 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 - Heatmap: Kernel‑Dichte‑basierte Fixationsdichtekarte; zeigt Hotspots/Coldspots und relative Aufmerksamkeitsverteilung.
 - Viewmap/Gaze‑Plot: Sequenzielle Darstellung von Fixationen (Kreise proportional zur Fixationsdauer) und Pfaden; macht Pfadtypik, Orientierungswechsel und Rekursionen sichtbar.
 - Fog‑View: Invertierte Fixationsdarstellung; markiert systematisch ignorierte UI‑Zonen (Nebel über nicht fixierten Bereichen).
+
+Die Auswahl der in der Untersuchung verwendeten Stimuli, ihr primärer Bezug zu den Forschungsunterfragen sowie der jeweilige Analysefokus sind in Tabelle~\ref{tab:stimulus-auswahl} zusammengefasst.
 
 Table: Stimulusauswahl \label{tab:stimulus-auswahl}
 
@@ -522,6 +532,8 @@ Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 Die Datei [[P-QIA Statistik]] dokumentiert Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
 
 Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekriterien (Intra-/Intercoder-Übereinstimmung) – die Stabilität zentraler Zuordnungen über wiederholte Läufe, Stichproben-Gegenlesungen und dokumentierte Grenzfallentscheidungen geprüft; Ziel ist nicht Scheingenauigkeit, sondern nachvollziehbare Regelbindung bei verbleibendem Interpretationsspielraum [@baur_qualitative_2022, Seite 695].
+
+Die zentralen Kennwerte (gewählte *k*-Werte und Silhouette-Scores) sind je Forschungsunterfrage in Tabelle~\ref{tab:silhouette-scores} ausgewiesen.
 
 Table: Cluster und Silhouette-Scores je FU \label{tab:silhouette-scores}
 
@@ -830,6 +842,8 @@ Die Markierungen in den Abbildungen werden im Folgenden als benannte Zeitfenster
 - **Interventionspunkt**\label{term:interventionspunkt}: Zeitfenster um ein lokales Minimum von $\nu(t)$; das Zeitfenster dient der Prüfung, welche Kopplungen (z.B. Feedback, Strukturierung, Ressourcen) die Folgedynamik tragen.
 - **Regenerationspunkt**\label{term:regenerationspunkt}: Zeitfenster um ein lokales Maximum von $\nu(t)$; das Zeitfenster dient der Prüfung, welche Stabilisierungspfade (z.B. Rückkopplungsqualität, Entlastung, Anschlussfähigkeit) im Modell sichtbar werden.
 
+Die oben eingeführten Zeitfensterbegriffe werden in Tabelle~\ref{tab:sim-zuordnung-nu-iota} mit heuristischen Kriterien und Beobachtungsfoki verknüpft, um die Auswertung konsistent an die Indikatorik zu binden.
+
 Table: Zuordnung von Zeitfenstern zu $\nu(t)$ und $\iota(t)$ \label{tab:sim-zuordnung-nu-iota}
 
 | Begriff | formales Kriterium (heuristisch) | Beobachtungsfokus | Anschluss im Text |
@@ -879,6 +893,8 @@ Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung de
 ### 4.5.1 Methodenkritische SWOT-Analyse zum KI-gestützten Vorgehen {#sec:SWOT-KI-Methodik}
 
 Die SWOT-Analyse wird im Rahmen dieser Arbeit als methodisches Reflexionsinstrument eingesetzt, um die Anwendung generativer KI in der literatur- und datengestützten Analyse systematisch zu bewerten. Sie dient neben der Auflistung von Aspekten, weiterhin strukturiert die Auseinandersetzung mit methodischer Robustheit, epistemologischen Potenzialen und Grenzen des gewählten Vorgehens. Damit werden die systemtheoretisch motivierte Forschungsperspektive und eine strategische Betrachtung der methodischen Güte miteinander verknüpft. Hierbei finden interne Faktoren (Stärken, Schwächen) und externe Rahmenbedingungen (Chancen, Risiken) Berücksichtigung. Orientierung bieten die Leitlinien zur SWOT-Analyse im wissenschaftlichen Kontext bei @niederberger_swot-analyse_2015, Seite 35–38 und @hogan_swot-analyse_2009, Seite 258–259.
+
+Die methodenkritischen Stärken, Schwächen, Chancen und Risiken des KI-gestützten Vorgehens werden in Tabelle~\ref{tab:swot_ki_methodik} zusammengeführt und anschließend entlang epistemischer und prozessualer Validierungsfragen eingeordnet.
 
 Table: SWOT-Analyse des KI-gestützten methodischen Vorgehens \label{tab:swot_ki_methodik}
 
