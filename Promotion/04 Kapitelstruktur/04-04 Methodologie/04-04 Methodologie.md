@@ -107,6 +107,12 @@ Auf Basis dieser aufbereiteten Informationen erfolgt ein zweites, vertiefendes 2
 
 Im Anschluss werden die kodierten Daten exportiert und in einer statistischen und graphischen Auswertungsumgebung weiterverarbeitet. Dort entstehen unter anderem Netzwerkvisualisierungen der Tag-Struktur sowie Netzwerk-Plotanalysen, die Co-Vorkommen von Kategorien, Forschungsunterfragen und zentralen Konzepten sichtbar machen. Auf dieser Basis wird ein Pfaddiagramm der Datenflüsse im Korpus rekonstruiert, das die Hauptströme von den Suchpfaden über Kerngedanke und Argumentation hin zu Technologieintegration, Lehr-/Lerneffektivität und weiteren Kategorien nachzeichnet. Die so gewonnenen Pfade dienen der Synthese: Sie markieren jene Segmente des Diskurses, in denen sich theoretische und empirische Verdichtungen zeigen, und bilden die Grundlage für die abschließende Modellbildung und theoretische Strukturierung des digitalen Bildungsraums.
 
+#todo (#98) Galvan & Galvan (2025) als Schreib-/Synthese-Referenz explizit einbinden: Kurzpassage ergänzen, die den Übergang von Korpus/Tagging zur narrativen Synthese ausweist (Review-Matrix → thematische Cluster → Argumentationslinien → kurze Zwischenfazits).
+
+#todo (#99) Review-Matrix (publikationsreif) als Tabelle im Anhang anlegen: Spalten z.B. Quelle | Kontext/Setting | Methode/Design | zentrale Befunde | Limitationen/Qualitätsnotizen | Beitrag zu FU/Modell; Ableitung aus Zotero-Export (`keywords`, `annote`) dokumentieren.
+
+#todo (#100) Abgrenzung klären: Vorgehen zwischen „Literature Review als Synthese-/Schreiblogik“ (Galvan) und „systematischem Review“ (z.B. PRISMA) positionieren (Ziel, Geltungsbereich, keine Meta-Analyse-Behauptung).
+
 Der gesamte Prozess – von Beginn (Google-Alert beziehungsweise zufällige Quelle) über Screening, doppeltes Tagging und KI-Unterstützung bis hin zu Netzwerk- und Pfadanalysen – ist damit als zirkulärer, transparent dokumentierter Recherche- und Analysepfad angelegt. Er stellt sicher, dass die in dieser Arbeit entwickelten Aussagen zu digitalen Bildungsräumen nicht auf Einzelstudien, sondern auf einem systematisch erschlossenen und strukturell ausgewerteten Literaturfeld beruhen.
 
 Die folgende Abbildung (Abb.~\ref{fig:lit-workflow}) fasst diesen Workflow schematisch zusammen und dient als Referenzrahmen für die in Abschnitt 4.3 beschriebenen Auswertungen; für das Verständnis der weiteren Darstellung sind vor allem die Übergänge zwischen Suche, Tagging und Export relevant.
