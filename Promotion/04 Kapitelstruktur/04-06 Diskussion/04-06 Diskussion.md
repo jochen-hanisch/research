@@ -31,6 +31,10 @@ Abschnitt \hyperref[sec:Diskussion-Forschungsfragen]{6.1} bindet Diskussion an F
 
 #todo (#12) Abschnitt ergänzen, der den Beitrag der Arbeit zur Strukturierung des Forschungsfeldes (Zeitreihe, Cluster-/Netzwerkanalysen, systemische Forschungslücke) als theoretisch-methodische Leistung bündelt.
 
+### 6.2.3 Agiles Lernen als Erklärungsmuster emergenter Systemwirkungen {#sec:Diskussion-AgilesLernen}
+
+Agiles Lernen fungiert hier als erklärendes Bindeglied zwischen Theorie und beobachteten Systemwirkungen: Wenn Wirkungen im digitalen Bildungsraum nicht linear-planbar, sondern rückgekoppelt und kontextabhängig verlaufen, werden iterative Lernzyklen (Planung–Handeln–Feedback–Reflexion) zu einer plausiblen Struktur, um Anschlussfähigkeit unter Kontingenzbedingungen zu stabilisieren. Damit lässt sich sowohl didaktische Gestaltung (Lernarchitektur) als auch Systementwicklung (Passungsherstellung) als fortlaufender, feedbackbasierter Anpassungsprozess rekonstruieren, ohne daraus eine Steuerungsillusion abzuleiten. (Vgl. Abschnitt \hyperref[sec:Kompetenzentwicklung-digital]{2.2.4} und Abschnitt \hyperref[sec:Systementkopplungen]{2.5.3}). [@hanisch_agiles_2023]
+
 ## 6.3 Praktische und gestalterische Implikationen {#sec:Diskussion-Praxis}
 
 - Konsequenzen für die didaktische und operative Gestaltung von Learning Management System (LMS). 
