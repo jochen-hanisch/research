@@ -107,11 +107,11 @@ Auf Basis dieser aufbereiteten Informationen erfolgt ein zweites, vertiefendes 2
 
 Im Anschluss werden die kodierten Daten exportiert und in einer statistischen und graphischen Auswertungsumgebung weiterverarbeitet. Dort entstehen unter anderem Netzwerkvisualisierungen der Tag-Struktur sowie Netzwerk-Plotanalysen, die Co-Vorkommen von Kategorien, Forschungsunterfragen und zentralen Konzepten sichtbar machen. Auf dieser Basis wird ein Pfaddiagramm der Datenflüsse im Korpus rekonstruiert, das die Hauptströme von den Suchpfaden über Kerngedanke und Argumentation hin zu Technologieintegration, Lehr-/Lerneffektivität und weiteren Kategorien nachzeichnet. Die so gewonnenen Pfade dienen der Synthese: Sie markieren jene Segmente des Diskurses, in denen sich theoretische und empirische Verdichtungen zeigen, und bilden die Grundlage für die abschließende Modellbildung und theoretische Strukturierung des digitalen Bildungsraums.
 
-#todo (#98) Galvan & Galvan (2025) als Schreib-/Synthese-Referenz explizit einbinden: Kurzpassage ergänzen, die den Übergang von Korpus/Tagging zur narrativen Synthese ausweist (Review-Matrix → thematische Cluster → Argumentationslinien → kurze Zwischenfazits).
+#todo (#103, 2026-01-03) Galvan & Galvan (2025) als Schreib-/Synthese-Referenz explizit einbinden: Kurzpassage ergänzen, die den Übergang von Korpus/Tagging zur narrativen Synthese ausweist (Review-Matrix → thematische Cluster → Argumentationslinien → kurze Zwischenfazits).
 
-#todo (#99) Review-Matrix (publikationsreif) als Tabelle im Anhang anlegen: Spalten z.B. Quelle | Kontext/Setting | Methode/Design | zentrale Befunde | Limitationen/Qualitätsnotizen | Beitrag zu FU/Modell; Ableitung aus Zotero-Export (`keywords`, `annote`) dokumentieren.
+#todo (#104, 2026-01-03) Review-Matrix (publikationsreif) als Tabelle im Anhang anlegen: Spalten z.B. Quelle | Kontext/Setting | Methode/Design | zentrale Befunde | Limitationen/Qualitätsnotizen | Beitrag zu FU/Modell; Ableitung aus Zotero-Export (`keywords`, `annote`) dokumentieren.
 
-#todo (#100) Abgrenzung klären: Vorgehen zwischen „Literature Review als Synthese-/Schreiblogik“ (Galvan) und „systematischem Review“ (z.B. PRISMA) positionieren (Ziel, Geltungsbereich, keine Meta-Analyse-Behauptung).
+#todo (#105, 2026-01-03) Abgrenzung klären: Vorgehen zwischen „Literature Review als Synthese-/Schreiblogik“ (Galvan) und „systematischem Review“ (z.B. PRISMA) positionieren (Ziel, Geltungsbereich, keine Meta-Analyse-Behauptung).
 
 Der gesamte Prozess – von Beginn (Google-Alert beziehungsweise zufällige Quelle) über Screening, doppeltes Tagging und KI-Unterstützung bis hin zu Netzwerk- und Pfadanalysen – ist damit als zirkulärer, transparent dokumentierter Recherche- und Analysepfad angelegt. Er stellt sicher, dass die in dieser Arbeit entwickelten Aussagen zu digitalen Bildungsräumen nicht auf Einzelstudien, sondern auf einem systematisch erschlossenen und strukturell ausgewerteten Literaturfeld beruhen.
 
@@ -119,7 +119,7 @@ Die folgende Abbildung (Abb.~\ref{fig:lit-workflow}) fasst diesen Workflow schem
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/lit_workflow.tex}
 
-#todo (#81) prüfen ob alle Abbildung auch eingebunden sind
+#todo (#81, 2025-12-25) prüfen ob alle Abbildung auch eingebunden sind
 
 Die folgenden Zeit‑ und Kohärenzvisualisierungen (Abb.~\ref{fig:time-series}, Abb.~\ref{fig:silhouette-scores} und Abb.~\ref{fig:delta-silhouette}) dienen der volumetrischen und strukturellen Einordnung des Literaturkorpus und bilden die Basis für die anschließende Korpusdiagnostik.
 
@@ -234,7 +234,7 @@ Die Bool’sche Logik der Suchordner folgt einem konsistenten Ablauf, der von de
 
 Diese Abbildung verdeutlicht die Suchorderstrategie innerhalb des Literaturmanagementprogramms. Das zugehörige Zotero-Suchordner-Fenster dokumentiert eine beispielhafte Bool’sche Suchdefinition für Zeitschriftenartikel im Schnittfeld von learning, management und system, ergänzt um die deutschsprachige Variante „Lernmanagementsystem“ und flankiert von negativen Tags (z.B. `Promotion:Ausschluss`, `#2–#b`) sowie dem Ausschluss übergeordneter Sammlungen (z.B. `S:01`). Damit werden nur begutachtete Fachbeiträge selektiert, die thematisch zum Kernfeld gehören, während redundante oder bereits als irrelevant bewertete Einträge ausgenommen bleiben. Methodisch verortet sich diese Definition in der qualitativ-kriterialen Dokumentenselektion nach @doring_forschungsmethoden_2023, Kapitel 10.6 und konkretisiert das dreistufige Suchmodell aus primären, sekundären und tertiären Begriffen: transparent, replizierbar und über die Tag-Struktur skalierbar.
 
-#todo (#55) Suchordnerstrategie weiter ausführen und anpassen
+#todo (#55, 2025-12-19) Suchordnerstrategie weiter ausführen und anpassen
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:Visualisierungen-Literaturbasis}
 
@@ -335,7 +335,7 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 
 **Setup und Durchführung**
 
-#todo (#56): Flussdiagramm ergänzen
+#todo (#56, 2025-12-19): Flussdiagramm ergänzen
 
 - Remote‑Studie mit Desktop/Laptop und Frontkamera.  
 - 9‑Punkt‑Kalibrierung; RealEye‑Validierung unmittelbar vor dem Stimulus.  
@@ -347,7 +347,7 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 
 **Metriken und Verarbeitung**
 
-#todo (#57): Fließtextüberführung ergänzen
+#todo (#57, 2025-12-19): Fließtextüberführung ergänzen
 
 - Export ausschließlich als Heatmap, Viewmap und Fog‑View (keine CSV/Rohdaten).  
 - AOI‑Ebene: visuelle Interpretation aggregierter Muster (Hotspots, Pfade, Coldspots).  
@@ -359,7 +359,7 @@ Webcam-basiertes Tracking unterliegt Geräteheterogenität, Licht, Kopfhaltung u
 
 **Visualisierungstypen und Funktionen**
 
-#todo (#58): Fließtextüberführung ergänzen
+#todo (#58, 2025-12-19): Fließtextüberführung ergänzen
 
 - Heatmap: Kernel‑Dichte‑basierte Fixationsdichtekarte; zeigt Hotspots/Coldspots und relative Aufmerksamkeitsverteilung.
 - Viewmap/Gaze‑Plot: Sequenzielle Darstellung von Fixationen (Kreise proportional zur Fixationsdauer) und Pfaden; macht Pfadtypik, Orientierungswechsel und Rekursionen sichtbar.
@@ -393,13 +393,13 @@ Auswertungsvorgehen (FU‑geführt)
 
 **Einschränkungen und Bias**
 
-#todo (#59): Flussdiagramm ergänzen
+#todo (#59, 2025-12-19): Flussdiagramm ergänzen
 
 - Webcam‑Tracking liefert geringere Präzision als stationäre Systeme; Genauigkeit sinkt bei Bewegung oder suboptimalen Lichtverhältnissen.  
 - Interpretationen basieren auf relativen Mustern, nicht auf punktgenauen Blickpositionen.  
 - Fehlende Rohdaten limitieren inferenzstatistische Analysen; qualitative Befundung bleibt jedoch belastbar.  
 - Ergebnisse sind indikativ, nicht repräsentativ; die Stichprobengröße wird transparent gemacht und in Abschnitt 4.3.9 mit Konfidenzintervallen ergänzt.
-- KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo (#60)), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
+- KI‑gestützte Bildauswertung: Falls KI‑Modelle zur Bildbeschreibung genutzt werden, dienen sie ausschließlich als Assistenz (kein automatisiertes Urteil); Modell/Version wird dokumentiert (#todo (#60, 2025-12-19)), und alle Interpretationen werden manuell gegengeprüft (COPE/DFG‑konform).
 
 ### 4.2.5 Umfrage zum LMS: Instrument, Gewichtungen und Auswertung {#sec:Umfrage-LMS}
 
@@ -453,11 +453,11 @@ Der Rückgang im Jahr 2024 kann trotz weiterhin hoher Publikationszahlen als Reo
 
 Methodologisch zeigt die Zeitreihe, weshalb eine Kombination aus volumetrischer Betrachtung, Kohärenzanalysen (Silhouette\label{term:silhouette-score}), Sensitivitätsmaßen ($\Delta SC_n$) und deduktiver Strukturierung notwendig ist. Die reine Publikationszahl erlaubt keine Aussage über die semantische Struktur des Feldes. Erst im Zusammenspiel mit der Clusterkohärenz wird erkennbar, welche Jahre ein belastbares epistemisches Fundament darstellen (2018–2022) und welche Jahre aufgrund struktureller Transformation mit besonderer Sensitivität zu interpretieren sind (2023–2024). Diese Differenzierung ist für die retrospektive Gewichtung der Jahrgänge zentral und legitimiert den Einsatz der P-QIA, der mdaCV sowie der epistemischen Verlustfunktion als integrative Validierungsinstanzen des ausgewerteten Literaturraums.
 
-Die Auswahl folgte einem dokumentierten, algorithmisch gestützten Verfahren auf Basis rekonstruierten Dichtefeldern innerhalb deduktiv-numerischer Vektorräume. Der Einfluss manueller Schwerpunktsetzungen wird über die dokumentierten Screening- und Tagging-Schritte transparent gehalten. Die Aussagen aus diesem Literaturfeld werden damit als konsistente Referenzbasis für die weitere Auswertung geführt. #todo (#82) revision
+Die Auswahl folgte einem dokumentierten, algorithmisch gestützten Verfahren auf Basis rekonstruierten Dichtefeldern innerhalb deduktiv-numerischer Vektorräume. Der Einfluss manueller Schwerpunktsetzungen wird über die dokumentierten Screening- und Tagging-Schritte transparent gehalten. Die Aussagen aus diesem Literaturfeld werden damit als konsistente Referenzbasis für die weitere Auswertung geführt. #todo (#82, 2025-12-25) revision
 
 Die Summenzeile (Tabelle~\ref{tab:cluster_silhouette}) dokumentiert die 3 524 für die Kohärenzberechnung herangezogenen Dokumente. Bis 2016 bleiben die Fallzahlen niedrig, die Silhouette-Scores liegen aber durchgängig bei $\approx 1{,}0$ und weisen auf hochgradig fokussierte Cluster hin. In den Jahren 2018–2022 steigt das Volumen stark an, während die Scores auf hohem Niveau bleiben ($\geq 0{,}985$); diese Phase bildet den stabilen epistemischen Kern des Korpus. Der Einbruch auf $0{,}9208$ im Jahr 2024 markiert die stärkste semantische Drift durch die rasche Ausweitung neuer Themen (z. B. KI-basierte Lernmodelle), bevor 2025 eine moderate Rezentrierung der Cluster sichtbar wird. Insgesamt zeigt die Tabelle, dass hohe Fallzahlen nicht automatisch Kohärenzverlust bedeuten, Wachstumsphasen aber interpretativ besonders sorgfältig eingeordnet werden müssen.
 
-Im Zusammenspiel von Silhouette-Scores und Fallzahlen (Abb.~\ref{fig:silhouette-scores}) wird die semantische Stabilität des recherchierten Literaturfeldes über die Zeit sichtbar. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen sehr hohe Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur eng gefasst ist und zusätzliche Dokumente inhaltlich stark ähnlich anschließen. Der Zeitraum 2018–2022 kombiniert hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden einen stabilen Referenzbereich des Korpus (hohe Dichte, hohe Trennschärfe, erkennbare Clusterzentren). #todo (#83) revision
+Im Zusammenspiel von Silhouette-Scores und Fallzahlen (Abb.~\ref{fig:silhouette-scores}) wird die semantische Stabilität des recherchierten Literaturfeldes über die Zeit sichtbar. In den Jahren 2010–2016 liegen trotz geringer Fallzahlen sehr hohe Silhouette-Scores vor ($\approx 1.0$). Methodisch interpretiert markiert dies eine Phase, in der die thematische Struktur eng gefasst ist und zusätzliche Dokumente inhaltlich stark ähnlich anschließen. Der Zeitraum 2018–2022 kombiniert hohe Fallzahlen mit durchgängig über dem Median liegenden Werten ($Q_2 \approx 0{,}99$). Diese Jahre bilden einen stabilen Referenzbereich des Korpus (hohe Dichte, hohe Trennschärfe, erkennbare Clusterzentren). #todo (#83, 2025-12-25) revision
 
 Ab 2023 sinkt der Score trotz weiterhin sehr hoher Fallzahlen. Der Tiefpunkt ($0,9208$ im Jahr 2024) zeigt eine semantische Drift, das heißt eine zunehmende Heterogenität des Feldes, ohne dass die Relevanz oder Qualität des Korpus abnimmt. Vielmehr reorganisieren sich die thematischen Schwerpunkte in einem dynamischen Diskursfeld (z. B. Learning Analytics, KI-basierte Lernsysteme, generative Modelle). Die moderate Erholung 2025 verweist auf eine mögliche Neuordnung der semantischen Zentren. Die quartilsbasierten Referenzlinien ($Q_1 \approx 0{,}9686$, $Q_3 = 1{,}0000$) und die Fatigue-Schwelle von $0,96$ markieren die Übergänge zwischen kohärenten Verdichtungsphasen und beginnender Fragmentierung. Damit lässt sich die Aussagekraft einzelner Jahrgänge systematisch gewichten, belastbare Kohärenzphasen identifizieren und die Qualität der algorithmischen Clusterbildung retrospektiv validieren.
 
@@ -614,7 +614,7 @@ Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 
 
 ### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:Datenanalyse-Synthese}
 
-#todo (#61): ist das hier an der richtigen Stelle? Prüfen, $k$-meas n ggf. in 4.3.5 integrieren
+#todo (#61, 2025-12-19): ist das hier an der richtigen Stelle? Prüfen, $k$-meas n ggf. in 4.3.5 integrieren
 
 Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen des folgenden Abschnitts.
 
@@ -636,7 +636,7 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 Die deduktive 3D-Clusterlösung wird in Abb.~\ref{fig:clusteranalyse-kmeans} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien sowie Forschungsfragen dokumentiert und dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
 
-Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der hohe Silhouette-Score ($S = 0{,}9884$) spricht für eine ausgeprägte Trennschärfe in der gewählten Repräsentation und wird hier als Hinweis gelesen, dass die deduktive Vorstrukturierung im Korpus konsistent greift. #todo (#84) revision
+Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der hohe Silhouette-Score ($S = 0{,}9884$) spricht für eine ausgeprägte Trennschärfe in der gewählten Repräsentation und wird hier als Hinweis gelesen, dass die deduktive Vorstrukturierung im Korpus konsistent greift. #todo (#84, 2025-12-25) revision
 
 **Analyse der Achsendimensionen**
 
@@ -655,33 +655,33 @@ Die vier identifizierten Cluster sind deutlich voneinander abgegrenzt und bilden
 3. Cluster 3 (grau): Bereich der technologiegestützten Lehr-Lern-Effektivität, oft verknüpft mit FU$_{2a}$/FU$_{2b}$. Enthält Quellen, die empirische Wirkmechanismen, Vergleichsstudien und Evaluationsdesigns behandeln.
 4. Cluster 4 (braun): Theoretische Kernliteratur (Kerngedanke der Promotion), mit starker Anbindung an Technologieintegration, Forschungsansätze und FU$_{7}$. Auffällige Dichte an Basismodellen (TPACK, SDT, Systemtheorie).
 
-#todo (#62) TPACK, SDT, Systemtheorie erklären bzw. referenzieren
+#todo (#62, 2025-12-19) TPACK, SDT, Systemtheorie erklären bzw. referenzieren
 
-Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen diskriminierende Kraft besitzen und spricht gegen eine rein zufällige Gruppierung; zugleich lassen sich strukturelle Kohärenzen im Diskurs als Raumstruktur darstellen. #todo (#85) revision
+Die Dreidimensionalität verdeutlicht, dass die deduktiven Achsen diskriminierende Kraft besitzen und spricht gegen eine rein zufällige Gruppierung; zugleich lassen sich strukturelle Kohärenzen im Diskurs als Raumstruktur darstellen. #todo (#85, 2025-12-25) revision
 
 Methodologische Einordnung
 
 Die Visualisierung erfüllt folgende Funktionen innerhalb der mdaCV:
 
-- Plausibilisierung der Deduktionslogik: Die drei Achsen sind theoriebasiert definiert. Ihre Trennung im Raum unterstützt die Einordnung, wie sich inhaltliche und methodische Ebenen der Literatur im Korpus verhalten. #todo (#86) revision
+- Plausibilisierung der Deduktionslogik: Die drei Achsen sind theoriebasiert definiert. Ihre Trennung im Raum unterstützt die Einordnung, wie sich inhaltliche und methodische Ebenen der Literatur im Korpus verhalten. #todo (#86, 2025-12-25) revision
 - Erkennung diskursiver Schwerpunktfelder: Die Cluster bilden unterschiedlich konzentrierte semantische Regionen ab (z.B. online learning $\to$ FU$_{4a}$/FU$_{6}$ vs. technologische Integration $\to$ FU$_{3}$/FU$_{7}$).
-- Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die hohen Silhouette-Werte deuten darauf hin, dass Tags, Kategorien und FU-Zuordnungen im gewählten Raum trennscharf greifen; Überlappungen erscheinen in dieser Projektion begrenzt. #todo (#87) revision
+- Überprüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die hohen Silhouette-Werte deuten darauf hin, dass Tags, Kategorien und FU-Zuordnungen im gewählten Raum trennscharf greifen; Überlappungen erscheinen in dieser Projektion begrenzt. #todo (#87, 2025-12-25) revision
 
 Epistemische Funktion im Forschungsdesign
 
-Die hohe Trennschärfe legt nahe, dass das Literaturfeld im gewählten Raum strukturell differenziert abgebildet wird. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden. #todo (#88) revision
+Die hohe Trennschärfe legt nahe, dass das Literaturfeld im gewählten Raum strukturell differenziert abgebildet wird. Gleichzeitig ermöglichen die geometrischen Abstände eine Abschätzung, wie stark einzelne FU durch bestimmte Themenbereiche getragen werden. #todo (#88, 2025-12-25) revision
 
 Bedeutung für die Gesamtanalyse
 
-Die 3D-Clusteranalyse fungiert als abschließender, visuell-analytischer Plausibilitätscheck im Zusammenspiel von P-QIA und mdaCV. Im Zusammenspiel mit der systematisch-forschungsfragengeleiteten Literaturpipeline ergibt sich damit ein methodischer Zugang, der etablierte Formen systematischer Reviews mit zusätzlichen Analyseschritten verbindet: Transparente Suchpfade, dokumentierte Screening- und Tagging-Schritte sowie standardisierte, GPT-unterstützte Inhaltsanalysen werden mit Netzwerk-, Pfad- und Korrelationsanalysen verknüpft. Die KI-Unterstützung fungiert dabei als strukturierende Assistenz; eine Ersetzung menschlicher Kontrolle ist nicht intendiert, und alle Zuordnungen (Kategorien, FU, Relevanz) werden in einem zweiten Tagging-Schritt kontrolliert, konsolidiert und stichprobenartig manuell überprüft. #todo (#89) revision
+Die 3D-Clusteranalyse fungiert als abschließender, visuell-analytischer Plausibilitätscheck im Zusammenspiel von P-QIA und mdaCV. Im Zusammenspiel mit der systematisch-forschungsfragengeleiteten Literaturpipeline ergibt sich damit ein methodischer Zugang, der etablierte Formen systematischer Reviews mit zusätzlichen Analyseschritten verbindet: Transparente Suchpfade, dokumentierte Screening- und Tagging-Schritte sowie standardisierte, GPT-unterstützte Inhaltsanalysen werden mit Netzwerk-, Pfad- und Korrelationsanalysen verknüpft. Die KI-Unterstützung fungiert dabei als strukturierende Assistenz; eine Ersetzung menschlicher Kontrolle ist nicht intendiert, und alle Zuordnungen (Kategorien, FU, Relevanz) werden in einem zweiten Tagging-Schritt kontrolliert, konsolidiert und stichprobenartig manuell überprüft. #todo (#89, 2025-12-25) revision
 
-- Sie macht sichtbar, dass die Literaturbasis volumetrisch erfasst ist und im gewählten Raum eine semantische Ausbalancierung erkennbar wird. #todo (#90) revision
+- Sie macht sichtbar, dass die Literaturbasis volumetrisch erfasst ist und im gewählten Raum eine semantische Ausbalancierung erkennbar wird. #todo (#90, 2025-12-25) revision
 - Sie zeigt, welche Themenräume dicht besetzt sind und welche die deduktiven Kategorien besonders stark stützen.
-- Sie unterstützt die Begründung der methodischen Kohärenz, indem sie die getrennten Analyseebenen (Suchbegriffe, Kategorien, FU) in einem geometrischen Modell zusammenführt. #todo (#91) revision
+- Sie unterstützt die Begründung der methodischen Kohärenz, indem sie die getrennten Analyseebenen (Suchbegriffe, Kategorien, FU) in einem geometrischen Modell zusammenführt. #todo (#91, 2025-12-25) revision
 
-Die 3D-Clusteranalyse stützt die theoretisch-probabilistische Struktur des Forschungsdesigns als visuell-analytische Evidenzspur, dass deduktive Kodierung, P-QIA und mdaCV konsistent ineinandergreifen. Zudem kann sie als Kohärenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. So entsteht eine Kartierung des Forschungsfeldes, die den Anschluss zwischen deduktiver Theoriearbeit und datenbasierter Plausibilisierung nachvollziehbar herstellt. #todo (#92) revision
+Die 3D-Clusteranalyse stützt die theoretisch-probabilistische Struktur des Forschungsdesigns als visuell-analytische Evidenzspur, dass deduktive Kodierung, P-QIA und mdaCV konsistent ineinandergreifen. Zudem kann sie als Kohärenzmaß der probabilistischen Analyse dienen, indem sie die semantische Struktur und Differenzierung des Literaturkorpus entlang der zentralen Analyseachsen verdeutlicht. So entsteht eine Kartierung des Forschungsfeldes, die den Anschluss zwischen deduktiver Theoriearbeit und datenbasierter Plausibilisierung nachvollziehbar herstellt. #todo (#92, 2025-12-25) revision
 
-Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU$_{1}$–FU$_{7}$), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Der Schwerpunkt liegt auf Mustererkennung, semantischen Relationen und der Plausibilisierung der deduktiven Struktur; hohe absolute Korrelationswerte stehen dabei nicht im Vordergrund. Die vollständigen Korrelationsmatrizen sind im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)} dokumentiert [@hanisch-johannsen_wirkgefuge_2025-2]. #todo (#93) revision
+Die korrelativen Visualisierungen stellen die semantischen Beziehungen zwischen den zentralen Analyseebenen des Literaturkorpus dar: Forschungsunterfragen (FU$_{1}$–FU$_{7}$), Kategorien, Indizes und Suchbegriffe. Sie ergänzen die dreidimensionale Clusteranalyse, indem sie die Stärke, Richtung und Verteilung der Beziehungen zwischen den deduktiv definierten Dimensionen sichtbar machen. Methodisch handelt es sich um eine quasi-multivariate Strukturanalyse, die die deduktive Architektur der mdaCV mit einer fein granulierten Beziehungssicht verbindet. Der Schwerpunkt liegt auf Mustererkennung, semantischen Relationen und der Plausibilisierung der deduktiven Struktur; hohe absolute Korrelationswerte stehen dabei nicht im Vordergrund. Die vollständigen Korrelationsmatrizen sind im \hyperref[sec:A-4]{Korrelationsatlas (Anhang A-4)} dokumentiert [@hanisch-johannsen_wirkgefuge_2025-2]. #todo (#93, 2025-12-25) revision
 
 **Forschungsunterfragen × Forschungsunterfragen**
 
@@ -773,7 +773,7 @@ Die Auswertung koppelt Eye-Tracking-Befunde mit den Selbstauskünften der LMS-Um
 - **Triangulation:** Kongruenzen (z.B. hohe berichtete Nützlichkeit + hohe Dwell Time auf relevanten AOIs) stützen die Wirksamkeit der UI; Divergenzen (z.B. berichtet hoher Nutzen, aber geringe AOI-Aufmerksamkeit) markieren Interface-/Passungsbrüche und fließen in die Diskussion ein [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025]. Subgruppenanalysen (v.a. Jahrgänge sowie Teilnahme am Eye‑Tracking: Ja/Nein) liefern Kontext für differenzierte Einordnung.
 - **Limitierungen:** Ökologische Validität des Labors, potenzielle Reaktivität, breite KIs in kleinen Kursen, Selbstselektion in der Umfrage [@hanisch-johannsen_wirkgefuge_2025]. Diese Punkte werden in Kapitel 4.2.4/4.2.5 adressiert und in der Ergebnisinterpretation transparent gemacht.
 
-#todo (#63) Eye-Tracking-Stichprobe und Stimulusreferenzen (F10-S3, F11-S3, F14-S3, Gesamt-Visuals) hier knapp einfügen; Triangulation mit Umfragezahlen benennen.
+#todo (#63, 2025-12-19) Eye-Tracking-Stichprobe und Stimulusreferenzen (F10-S3, F11-S3, F14-S3, Gesamt-Visuals) hier knapp einfügen; Triangulation mit Umfragezahlen benennen.
 
 Eine systematische Reflexion der Eye-Tracking-Daten [@hanisch-johannsen_wirkgefuge_2025-1] erfolgt im Rahmen der methodenkritischen SWOT-Analyse (vgl. Abschnitt 4.5.1), um Potenziale und Limitationen der empirischen Erhebung im Zusammenspiel mit generativer KI zu analysieren.
 
@@ -840,7 +840,7 @@ $$ {#eq:bildungswirk_c}
 
 Die Auswertung von $\nu(t)$ und $\iota(t)$ erfolgt über Glättung, Ableitungen sowie die Identifikation von Minima, Maxima und Wendepunkten. Damit wird sichtbar, an welchen Stellen die Dynamik in Regenerations‑ oder Störungslogiken kippt und wo in einem formalen Sinn Interventionspunkte markiert werden können. Diese Indikatorik wird in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} als heuristische Ergänzung genutzt und in Kapitel \hyperref[sec:Ergebnisse-FU6]{5.3.7} in die Systemperspektive auf Kompetenzentwicklung rückgebunden.
 
-#todo (#94) revision: Begriffliche Zuordnung der markierten Zeitfenster systematisieren (4.4.3)
+#todo (#94, 2025-12-25) revision: Begriffliche Zuordnung der markierten Zeitfenster systematisieren (4.4.3)
 Die Markierungen in den Abbildungen werden im Folgenden als benannte Zeitfenster geführt, um die Interpretation konsistent an die Indikatorik zu binden. Die Bezeichnungen sind als modellinterne Kategorien zu verstehen. Sie strukturieren, welche Form von Dynamikspur im jeweiligen Quartalabschnitt sichtbar wird und welche Art von Beobachtungs- bzw. Gestaltungsfrage daraus folgt. [@hanisch-johannsen_simulation_2025]
 
 - **Stabilisierungspunkt**\label{term:stabilisierungspunkt}: Zeitfenster, in dem $\iota(t)$ in Richtung Abnahme der Unsicherheitsdynamik tendiert und der geglättete Verlauf von $\nu(t)$ eine abflachende Entwicklung aufweist; das Zeitfenster wird für Monitoring und Konsolidierung genutzt.
@@ -889,12 +889,12 @@ Die kritische Methodenreflexion hat den Zweck, die eigene Arbeitsweise transpare
 
 Als Herleitungsgrundlage wird ein systemisch-konstruktivistisches Verständnis von Erkenntnis angesetzt, das bewährte Evaluationsmodelle (z.B. das CIPP-Modell) mit analytischen Verfahren wie Korrelations- und deduktiven Clusteranalysen koppelt. Diese Kombination ist strukturell aufeinander bezogen und damit theoriekompatibel. Die Auswahl der Methoden folgt der Forschungsfragengeleitetheit und einem systemisch-funktionalen Verständnis von Methodeneinsatz: Qualitative und quantitative Verfahren werden entlang der FU dort eingesetzt, wo sie zur Bearbeitung beitragen. Theoretische Begriffe (z.B. Kompetenz, Selbstorganisation, Nachhaltigkeit) werden auf konkrete Analyseebenen übertragen, etwa über Prädiktorvariablen (z.B. $PV_{1a}\\text{–}PV_3$) oder KI-gestützte Analysen. Sämtliche Analyseprozesse, von der Auswahl der Quellen über die Generierung und Anwendung der Prompts bis zur Auswertung und Rückführung in die FU, sind dokumentiert, versioniert und theoretisch hergeleitet; die Änderungshistorie ist über eine Versionsverwaltung (GitHub) als fortlaufende Protokollspur nachvollziehbar. Als kuratierende Hilfsmittel unterstützen digitale Werkzeuge dieses Vorgehen operativ (Zotero für Literatur- und Notizmanagement, Python für Berechnungen und Visualisierungen), wodurch Reproduzierbarkeit und interne Konsistenz als Leitkriterien mitgeführt werden. Die Dokumentation der KI-Nutzung (genutzte Systeme, Funktionen, Prompt-Stand, Revisionen) wird dabei als epistemische Validierungsstrategie geführt, um Nachvollziehbarkeit trotz begrenzter Detektierbarkeit KI-generierter Textanteile zu sichern. [@hanisch_nachhaltiges_2017, Kapitel 3.1; Kapitel 3.4; @hebbel-seeger_wissenschaftliches_2025, Seite 438-439]
 
-Bereits in der Zusammenstellung der Analyseeinheiten erfolgen bewusste Entscheidungen, zum Beispiel zur Nichtberücksichtigung von Masterarbeiten und reiner „grauer Literatur“ in bestimmten Clusteranalysen. Diese Schritte werden transparent dokumentiert und theoriebezogen begründet, wodurch Nachvollziehbarkeit und Plausibilisierung der Aussagen gestärkt werden. #todo (#95) revision
+Bereits in der Zusammenstellung der Analyseeinheiten erfolgen bewusste Entscheidungen, zum Beispiel zur Nichtberücksichtigung von Masterarbeiten und reiner „grauer Literatur“ in bestimmten Clusteranalysen. Diese Schritte werden transparent dokumentiert und theoriebezogen begründet, wodurch Nachvollziehbarkeit und Plausibilisierung der Aussagen gestärkt werden. #todo (#95, 2025-12-25) revision
 
 Ein wesentlicher Bestandteil des methodischen Vorgehens ist die fortlaufende Selbstprüfung und Justierung. Dazu gehören die Prüfung der Wirksamkeit der Prompts, die Diskussion der Silhouette-Werte zur Clustertrennschärfe, aber auch die bewusste Unterscheidung zwischen Analysen 1. Ordnung (einzelne Quelle) und Analysen 2. Ordnung (übergreifende Auswertung, Rückführung auf die FU).
-Dieses methodische Vorgehen ist, trotz seiner systemisch-flexiblen Struktur, darauf ausgerichtet, zentrale Anforderungen wissenschaftlicher Strenge nachvollziehbar zu adressieren. Die Methoden sind theoriebasiert, transparent dargestellt, funktional gewählt und entlang der FU systematisch eingesetzt. Zugleich werden klassische Evaluationslogiken als Ordnungsrahmen mitgeführt und in ein komplexitätssensibles Design übersetzt. #todo (#96) revision
+Dieses methodische Vorgehen ist, trotz seiner systemisch-flexiblen Struktur, darauf ausgerichtet, zentrale Anforderungen wissenschaftlicher Strenge nachvollziehbar zu adressieren. Die Methoden sind theoriebasiert, transparent dargestellt, funktional gewählt und entlang der FU systematisch eingesetzt. Zugleich werden klassische Evaluationslogiken als Ordnungsrahmen mitgeführt und in ein komplexitätssensibles Design übersetzt. #todo (#96, 2025-12-25) revision
 
-Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist eigenständig angelegt und transparent dokumentiert. #todo (#97) revision
+Infolgedessen liegt die wissenschaftliche Eigenleistung in der Strukturierung des Analyseprozesses, der Definition und Trennung der Ordnungsebenen (1. Ordnung: Analyse, 2. Ordnung: Bewertung), der methodologischen Fundierung (deduktiv und theoriebasiert) sowie in der reflexiven Kontrolle des Systems. Dieses Vorgehen ist eigenständig angelegt und transparent dokumentiert. #todo (#97, 2025-12-25) revision
 
 ### 4.5.1 Methodenkritische SWOT-Analyse zum KI-gestützten Vorgehen {#sec:SWOT-KI-Methodik}
 
