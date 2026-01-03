@@ -206,7 +206,7 @@ Sollten die 750 User zeitgleich auf das Learning-Management-System zugreifen, k√
 
 ### 3.3.4 Epoche III: Stabilisierungs- und Verstetigungsphase (Soon Systems)
 
-### 3.3.5 Vergleichende Einordnung der Entwicklungsphasen
+### 3.3.5 Vergleichende Einordnung der Entwicklungsphasen {#sec:VergleichendeEntwicklungsphasen}
 
 ## 3.4 Didaktische Architektur als Learning-Environment {#sec:DidaktischeArchitektur}
 
