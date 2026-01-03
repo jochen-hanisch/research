@@ -14,11 +14,11 @@ Die aktuellen Novellierungen in der Ausbildung der Gesundheitsberufe\label{term:
 
 ## 1.1 Erkenntnisinteresse, Problemstellung und Relevanz {#sec:Erkenntnisinteresse-Komplex}
 
-#todo (#15): - Erkenntnisinteresse skizzieren
+#todo (#15, 2025-12-19): - Erkenntnisinteresse skizzieren
 
 Die Ausbildung im Rettungsdienst wurde durch das Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters (NotSanG)\label{term:notsang} zum 01.01.2014 gem. § 5 (1) NotSanG [-@bundesrepublik_deutschland_gesetz_2023] von einer zweijährigen zu einer dreijährigen Qualifikation geändert. Der Gesetzgeber transformierte hierdurch die Tätigkeit weg von einem Assistenzberuf hin zu einer beruflichen Qualifikation, in deren Mittelpunkt das kompetenzorientierte und selbstverantwortliche Handeln nach § 4 NotSanG [-@bundesrepublik_deutschland_gesetz_2023] als Ausbildungsziel definiert wurde. Der Referentenentwurf [-@bundesgesundheitsministerium_referentenentwurf_2012] zum NotSanG verdeutlicht die intendierte Absicht [@bundesgesundheitsministerium_referentenentwurf_2012, Seite 44-45]: Die Auszubildenden sollen insbesondere interdisziplinäre Fachlichkeit erlangen, die zur selbstständigen Lösung aller berufsrelevanter Handlungen sowie deren kritischen und selbstreflektiven Ergebnisbeurteilungen notwendig erscheinen.
 
-#todo (#16) Definition von NotSanG bzw. NotSan (Erstnennung) ergänzen, Verweis auf Anhang Begriffe setzen.
+#todo (#16, 2025-12-19) Definition von NotSanG bzw. NotSan (Erstnennung) ergänzen, Verweis auf Anhang Begriffe setzen.
 
 Um insbesondere den anerkennungsrechtlichen Erfordernissen aus § 6 (2) 1 [-@bundesrepublik_deutschland_gesetz_2023], namentlich dem "Vorhandensein der für die Ausbildung erforderlichen Räume und Einrichtungen sowie ausreichender Lehr- und Lernmittel" [@bundesrepublik_deutschland_gesetz_2023] gerecht zu werden, ist in der Ausbildung von Notfallsanitäterinnen und Notfallsanitätern\label{term:notfallsan} die Verwendung eines digitalen Learning Management System (LMS)\label{term:lms} implementiert. Damit wird die Bereitstellung von Lernmaterialien, die Unterstützung kollaborativer Lernprozesse und die Förderung selbstorganisierter Kompetenzentwicklung ermöglicht [@moodle_pty_ltd_was_2019].
 
@@ -32,9 +32,9 @@ für die nachhaltige Sicherung der selbstorganisierten Gruppenarbeitsergebnisse 
 
 ### 1.1.1 Erkenntnisinteresse {#sec:Erkenntnisinteresse}
 
-Im Anwendungsfeld einer Ausbildungseinrichtung wird die Ausbildung von Notfallsanitäterinnen und Notfallsanitätern (NFS, NotSan) seit Beginn des ersten Jahrgangs im März 2017 durchgeführt. Im Zuge der Konzeption beruflich-currikulater Berufsbildung im Kontext von High Responsibility Teams (HRT)\label{term:hrt} in den Gesundheitsberufen, wurde direkt zu Beginn eine digitale Lernumgebung in Form eines LMS implementiert. Dieses System dient der Bereitstellung von Lernmaterialien, der Unterstützung kollaborativer Lernprozesse und der Förderung selbstorganisierter Kompetenzentwicklung. Erste Evaluationen deuten darauf hin, dass das LMS einen erkennbaren Einfluss auf die Lernprozesse und die Kompetenzentwicklung der Studierenden hat. Allerdings bleiben die zugrunde liegenden Wirkmechanismen und Interaktionen zwischen den technologischen, didaktischen und sozialen Komponenten weitgehend unklar. #todo (#73) revision
+Im Anwendungsfeld einer Ausbildungseinrichtung wird die Ausbildung von Notfallsanitäterinnen und Notfallsanitätern (NFS, NotSan) seit Beginn des ersten Jahrgangs im März 2017 durchgeführt. Im Zuge der Konzeption beruflich-currikulater Berufsbildung im Kontext von High Responsibility Teams (HRT)\label{term:hrt} in den Gesundheitsberufen, wurde direkt zu Beginn eine digitale Lernumgebung in Form eines LMS implementiert. Dieses System dient der Bereitstellung von Lernmaterialien, der Unterstützung kollaborativer Lernprozesse und der Förderung selbstorganisierter Kompetenzentwicklung. Erste Evaluationen deuten darauf hin, dass das LMS einen erkennbaren Einfluss auf die Lernprozesse und die Kompetenzentwicklung der Studierenden hat. Allerdings bleiben die zugrunde liegenden Wirkmechanismen und Interaktionen zwischen den technologischen, didaktischen und sozialen Komponenten weitgehend unklar. #todo (#73, 2025-12-25) revision
 
-#todo (#17) Prüfen, ob HRT, LMS und digitaler Bildungsraum ausreichend definiert und im Anhang verlinkt sind.
+#todo (#17, 2025-12-19) Prüfen, ob HRT, LMS und digitaler Bildungsraum ausreichend definiert und im Anhang verlinkt sind.
 
 Das zentrale Erkenntnisinteresse dieser Forschungsarbeit besteht darin, das Wirkgefüge\label{term:wirkgefege} eines eingesetzten LMS im digitalen Bildungsraum\label{term:digitaler-bildungsraum} der Gesundheitsberufe systematisch zu analysieren. Im Mittelpunkt steht die Frage, wie Lern-, Handlungs- und Kompetenzentwicklungsprozesse durch das Zusammenspiel technologischer, didaktischer und sozialer Mechanismen beeinflusst werden und welche emergenten Muster sich dabei ausbilden – gerade weil Gesundheitsberufe zwischen engen regulatorischen Vorgaben, multiprofessionellen Lernsettings und hohen Anforderungen an dokumentierte Kompetenzentwicklung vermittelt werden müssen [@hanisch_notfallsanitater_2020; @pentzold_praxis_2018].
 
@@ -42,25 +42,25 @@ Von besonderem Interesse ist, wie Akteurinnen, d.h. Lernende, Lehrende und Organ
 
 Im Rahmen dieses Forschungsansatzes wird infolgedessen davon ausgegangen, dass die Anwendung der systemisch‑konstruktivistischen Theorie für die curriculare Gestaltung und Durchführung von Lernprozessen relevant ist und zugleich eine tragfähige Grundlage für Architektur und Betrieb von Learning‑Management‑Systemen bereitstellt. Daher wird untersucht, inwiefern die LMS‑Struktur, ihre Nutzungsdynamiken und die durch sie erzeugten Rückkopplungen Aufschluss darüber geben, wie Kompetenzen im digitalen Bildungsraum entstehen und stabilisiert werden.
 
-#todo (#74) revision: Simulation als formalisierte Verdichtung ergänzen (Einleitung)
+#todo (#74, 2025-12-25) revision: Simulation als formalisierte Verdichtung ergänzen (Einleitung)
 Dieses Erkenntnisinteresse wird in der Arbeit zusätzlich formalisiert eingelöst: Die simulationsgestützte Modellierung des Bildungswirkgefüges (Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}) dient als rechnerische Verdichtung, um Koppelungen und Rückkopplungen (z.B. Orientierung → Handlung → Feedback) als Zeitverläufe darstellbar zu machen [@hanisch-johannsen_simulation_2025]. Die Simulation erhebt keinen Messanspruch; sie fungiert als Strukturprüfung, die sichtbar macht, welche Dynamikformen aus plausibilisierten Kausalplänen folgen können und an welchen Stellen Regeneration, Störung oder Entkopplung als Risiken auftreten.
 
-#todo (#75) revision: Reichweite der Zielperspektive sprachlich erden (1.1.1)
+#todo (#75, 2025-12-25) revision: Reichweite der Zielperspektive sprachlich erden (1.1.1)
 Dieser Arbeit liegt damit ein zweifach fokussiertes Erkenntnisinteresse zugrunde: Beobachtbare Wirkmechanismen sollen systematisch identifiziert und theoretisch erklärbar gemacht werden. Darauf aufbauend werden Orientierungs- und Gestaltungsimpulse abgeleitet, die die Weiterentwicklung digitaler Bildungsräume im Sinne plausibilisierter Wirkannahmen unterstützen. Eine Vorhersage einzelner Verläufe ist damit nicht verbunden.
 
 Zur Beantwortung der Forschungsfragen wurde ein mehrstufiger, systematischer Literaturprozess implementiert, der kontinuierliche Google-Alerts und zufällige Quellenfunde mit strukturierten Schlagwortsuchen, einem dreistufigen Screening (Titel-, Abstract- und Inhaltsprüfung), zweifachem Tagging, einer KI-gestützten Inhaltsanalyse sowie anschließenden Netzwerk- und Pfadanalysen verbindet. Auf diese Weise entstand ein rekonstruiertes Literaturfeld, in dem einzelne Studien ebenso wie die strukturellen Wirkgefüge des Diskurses sichtbar werden (vgl. \hyperref[sec:Systematische-Literaturrecherche]{Abschnitt 4.2.1}).
 
-#todo (#18) Kurz ergänzen, dass aus diesem Literaturprozess die thematischen Indizes (z.B. Technologieintegration, Lehr-/Lerneffektivität, Bildungstheorien, kollaboratives Lernen, Bewertungsmethoden, Datenschutz/IT-Sicherheit, Systemanpassung, Krisenreaktion, Forschungsansätze) abgeleitet werden, die im Theorieteil und in Kapitel 4 als strukturierende Schlagwortsystematik genutzt werden.
+#todo (#18, 2025-12-19) Kurz ergänzen, dass aus diesem Literaturprozess die thematischen Indizes (z.B. Technologieintegration, Lehr-/Lerneffektivität, Bildungstheorien, kollaboratives Lernen, Bewertungsmethoden, Datenschutz/IT-Sicherheit, Systemanpassung, Krisenreaktion, Forschungsansätze) abgeleitet werden, die im Theorieteil und in Kapitel 4 als strukturierende Schlagwortsystematik genutzt werden.
 
 ### 1.1.2 Problemstellung {#sec:Problemstellung}
 
-#todo (#19) Abschnitt ausformulieren: Problemstellung knapp, gutachtentauglich und gegenstandsnah (Kontext Gesundheitsberufe/HRT, LMS als sozio-technisch-didaktische Struktur, empirisch beobachtetes Wirkungspotenzial vs. ungeklärte Mechanismen); mit 2–4 zentralen Belegen.
+#todo (#19, 2025-12-19) Abschnitt ausformulieren: Problemstellung knapp, gutachtentauglich und gegenstandsnah (Kontext Gesundheitsberufe/HRT, LMS als sozio-technisch-didaktische Struktur, empirisch beobachtetes Wirkungspotenzial vs. ungeklärte Mechanismen); mit 2–4 zentralen Belegen.
 
 Text
 
 ### 1.1.3 Thematische Relevanz {#sec:Themenrelevanz}
 
-#todo (#20) Abschnitt ausformulieren: thematische Relevanz (bildungswissenschaftlich + bildungstechnologisch) und Abgrenzung (warum genau dieses LMS/Setting, warum Fokus auf Wirkgefüge statt Funktionsliste); Anschluss an Prüfungsordnung/Umfang herstellen.
+#todo (#20, 2025-12-19) Abschnitt ausformulieren: thematische Relevanz (bildungswissenschaftlich + bildungstechnologisch) und Abgrenzung (warum genau dieses LMS/Setting, warum Fokus auf Wirkgefüge statt Funktionsliste); Anschluss an Prüfungsordnung/Umfang herstellen.
 
 Text
 
@@ -93,10 +93,10 @@ Die Einlösung der hier formulierten Absicht, Zielsetzung und erwünschten Wirku
 - [ ] Überblick über die bisherigen Studien und relevante Literatur zum Thema.
 - [ ] legt den Stand der Forschung dar und entwickelt die Fragestellung. 
 
-#todo (#21): - Forschungsstand und Forschungslücke prägnant benennen.
-#todo (#22) Vor Finalisierung: Checklisten-/Platzhalter-Elemente (Checkboxen, „Text“) in Fließtext überführen; Stand der Forschung als strukturierte Synthese (nicht nur Einzelstudien), Forschungslücke explizit aus mehreren Belegen + bibliometrischen Befunden ableiten.
-#todo (#101) Stand der Forschung „Galvan-orientiert“ ausformulieren: explizite Synthese-/Schreibleistung sichtbar machen (Review-Matrix → thematische Cluster → Vergleich/Kontrast → Verdichtung), inkl. Konvergenzen/Divergenzen, methodischen Grenzen und Kontextabhängigkeiten (statt additiver Autor:innen-Reihung); Querverweis auf Kapitel 4.2.1/#todo (#98–#100).
-#todo (#102) Kurzpositionierung ergänzen: „systematische Suche“ (Workflow/Screening) + „narrative Synthese“ (Literature Review) unterscheiden und begründen; Galvan & Galvan (2025) als Schreibhandbuch zitieren und gegenüber PRISMA/meta-analytischen Standards abgrenzen (keine Meta-Analyse-Behauptung).
+#todo (#21, 2025-12-19): - Forschungsstand und Forschungslücke prägnant benennen.
+#todo (#22, 2025-12-19) Vor Finalisierung: Checklisten-/Platzhalter-Elemente (Checkboxen, „Text“) in Fließtext überführen; Stand der Forschung als strukturierte Synthese (nicht nur Einzelstudien), Forschungslücke explizit aus mehreren Belegen + bibliometrischen Befunden ableiten.
+#todo (#101, 2026-01-03) Stand der Forschung „Galvan-orientiert“ ausformulieren: explizite Synthese-/Schreibleistung sichtbar machen (Review-Matrix → thematische Cluster → Vergleich/Kontrast → Verdichtung), inkl. Konvergenzen/Divergenzen, methodischen Grenzen und Kontextabhängigkeiten (statt additiver Autor:innen-Reihung); Querverweis auf Kapitel 4.2.1/#todo (#103–#105).
+#todo (#102, 2026-01-03) Kurzpositionierung ergänzen: „systematische Suche“ (Workflow/Screening) + „narrative Synthese“ (Literature Review) unterscheiden und begründen; Galvan & Galvan (2025) als Schreibhandbuch zitieren und gegenüber PRISMA/meta-analytischen Standards abgrenzen (keine Meta-Analyse-Behauptung).
 
 Die systematische Literaturrecherche zeigt, dass bisherige Studien vor allem auf die Evaluation einzelner LMS-Funktionen und deren unmittelbare Auswirkungen auf Lernende fokussieren. Es existieren zahlreiche Untersuchungen, die die Effektivität von E-Learning-Plattformen in der medizinischen Ausbildung bewerten [@ataei_effective_2020; @jones_evaluation_2021]. Diese Studien liefern wertvolle Einblicke in spezifische Aspekte wie Benutzerfreundlichkeit, Zugänglichkeit und Lernmotivation. Allerdings fehlt es an umfassenden Analysen, die die komplexen Wechselwirkungen zwischen technologischen, didaktischen und sozialen Komponenten eines LMS im Kontext der Kompetenzentwicklung systematisch untersuchen.
 
@@ -105,13 +105,13 @@ Die Untersuchung legt nahe, dass künftige Forschungen sich verstärkt auf die A
 Der menschliche Bildungsprozess ist von einer ständigen Wechselwirkung zwischen grundlegenden emotionalen und kognitiven Bedürfnissen sowie den Unsicherheiten geprägt, die beim Lernen und der Kompetenzentwicklung auftreten. Bedürfnisse wie Bindung, Selbstwerterhöhung und die Vermeidung von Unlust bilden die Basis für eine dynamische Kausalkette, die das Lernverhalten antreibt. Aus den Bedürfnissen heraus entstehen Unsicherheiten im Lernprozess und in der Kompetenzmessung, die das Handeln der Lernenden prägen. Diese Handlungen zielen darauf ab, die Unsicherheiten zu verringern und das Bedürfnis nach Selbstverwirklichung zu befriedigen. In dieser kontinuierlichen Zirkulation beeinflussen sich Bedürfnisse, Konzepte und Handlungen wechselseitig und treiben den Lernprozess stetig voran.
 
 ### 1.3.1 Theoretische und empirische Vorüberlegungen {#sec:TheoretischeVoruberlegungen}
-#todo (#23): - Methodische Vorüberlegungen andeuten
+#todo (#23, 2025-12-19): - Methodische Vorüberlegungen andeuten
 
 Text
 
 ### 1.3.2 Literaturrecherche {#sec:Literaturrecherche}
 
-#todo (#24) Formulierung dieses Eingangssatzes glätten (fehlendes Verb ergänzen, z.B. „Der dokumentierte Literaturprozess bildet die Ausgangsbasis der bibliometrischen Analyse.“).
+#todo (#24, 2025-12-19) Formulierung dieses Eingangssatzes glätten (fehlendes Verb ergänzen, z.B. „Der dokumentierte Literaturprozess bildet die Ausgangsbasis der bibliometrischen Analyse.“).
 
 Die systematische Literatursuche zum 23. April 2022 orientiert sich an den Qualitätskriterien von Döring [@doring_forschungsmethoden_2023] und kombiniert das Suchnetzwerk nach @vom_brocke_standing_2015 mit einem mehrstufigen Dokumentationsprozess in Zotero und Obsidian. Ausgehend von den im Exposé [@hanisch_wirkgefuge_2022] abgeleiteten Suchclustern werden primäre Begriffe (z.B. „Learning Management System“, „digitaler Bildungsraum“, „Kompetenzentwicklung“) genutzt, um Quellen zu identifizieren, die unmittelbar den Forschungsgegenstand adressieren. Sekundäre Begriffe (z.B. „digital“, „blended“, „hybride Lernarrangements“) dienen der Kontextualisierung über didaktische und organisatorische Fragen der Lernraumgestaltung hinaus. Tertiäre Begriffe (z.B. „E-Learning“, „Online-Plattform“, „EdTech-Infrastruktur“, „Open-Source-Lernplattformen“) erschließen angrenzende technologische Rahmungen und Innovationspfade. Die Cluster werden mit 35 % (primär), 40 % (sekundär) bzw. 25 % (tertiär) gewichtet. Die prozentuale Gewichtung bestimmt zugleich die Mindestquote der zu sichtenden Trefferlisten: Primäre Kombinationen werden zu 80 % vollständig analysiert, sekundäre zu 50 %, tertiäre zu 15 %. Damit lässt sich das Spannungsfeld aus Vollständigkeit und Praktikabilität transparent steuern.
 
@@ -268,8 +268,8 @@ Diese drei Befunde bilden gemeinsam die empirisch‑quantitative Basis für die 
 
 ## 1.4 Herleitung Haupt- und Unterforschungsfragen {#sec:FU-Herleitung}
 
-#todo (#25): - Herleitung der Forschungsfragen vorbereiten.
-#todo (#26): prüfen: Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet (Schnell et al., 2013, S. 7).
+#todo (#25, 2025-12-19): - Herleitung der Forschungsfragen vorbereiten.
+#todo (#26, 2025-12-19): prüfen: Insbesondere kommt der Operationalisierung eine wesentliche Bedeutung zu: die beobachtbaren Indikatoren werden dem theoretischem Begriff zugeordnet (Schnell et al., 2013, S. 7).
 
 Die Forschungsfragen leiten sich direkt aus dem dargestellten Erkenntnisinteresse und der identifizierten Forschungslücke ab. Im Zentrum steht die systemische Analyse des Wirkgefüges eines LMS im digitalen Bildungsraum der Gesundheitsberufe. Dabei wird untersucht, wie technologische, didaktische und soziale Faktoren interagieren und welche Mechanismen die Kompetenzentwicklung der Akteurinnen beeinflussen. Die Forschungsfragen sind so formuliert, dass sie sowohl retrospektive als auch prospektive Dimensionen abdecken und damit dem doppelt gerichteten Wissenschaftliche und praxisorientierte Erkenntnisinteressen.
 
@@ -299,7 +299,7 @@ Der hier skizzierte Entwicklungspfad folgt einer deduktiv gestützten Progressio
 
 Die detaillierte Zuordnung dieser Unterfragen zu den Datenerhebungen und Erfüllungskriterien erfolgt in Kapitel 4.2; die interdependente Argumentation wird in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} aufgegriffen und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig verdichtet.
 
-#todo (#27) Kurzhinweis auf Eye-Tracking-Design (Remote, Bildexport-only, FU-gekoppeltes 7-Schritte-Raster) einfügen, Verweis auf Abschnitt 4.2.4.
+#todo (#27, 2025-12-19) Kurzhinweis auf Eye-Tracking-Design (Remote, Bildexport-only, FU-gekoppeltes 7-Schritte-Raster) einfügen, Verweis auf Abschnitt 4.2.4.
 
 ## 1.5 Aufbau und Lesepfade {#sec:Aufbau-Arbeit}
 

@@ -4,15 +4,15 @@
 
 ---
 
-#todo (#28) Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
+#todo (#28, 2025-12-19) Vor Finalisierung: Arbeits-/Prozessnotizen aus dem Kapitel entfernen/auslagern (Theorieteil = Fließtext + Belege + kurze Zwischenfazits).
 
-#todo (#29) 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes. Reihenfolge nach den Kategorien Kerngedanke - Argumentation - Schlussfolgerung - Weiterführung.
+#todo (#29, 2025-12-19) 2.1.2 Klassiker (Arnold/Reich/Siebert) entlang weniger Leitkategorien verdichten; danach Abgleich mit aktuellen Linien nach Indizes. Reihenfolge nach den Kategorien Kerngedanke - Argumentation - Schlussfolgerung - Weiterführung.
 
-#todo (#30) 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
+#todo (#30, 2025-12-19) 2.1.3/2.1.4: Pro zentralem Index 2–3 Kernquellen synthetisieren (thematische Linien statt Autor:innen-Parade).
 
-#todo (#31) Ende 2.1: kurzes Zwischenfazit (welche Bausteine gehen in Modell 2.3, welche werden in Kap. 4 wieder aufgegriffen).
+#todo (#31, 2025-12-19) Ende 2.1: kurzes Zwischenfazit (welche Bausteine gehen in Modell 2.3, welche werden in Kap. 4 wieder aufgegriffen).
 
-#todo (#32) Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
+#todo (#32, 2025-12-19) Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
 
 ----
 
@@ -45,11 +45,11 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 
 \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} schließlich bündelt die vorangegangenen Ebenen in einem Modell der systemischen Dynamik des digitalen Bildungswirkgefüges. Das Modell übersetzt psychologische Trägervariablen, bildungswissenschaftliche Wirkgefüge und medienpädagogische Gestaltungslogiken in Variablen, Kopplungen und Rückkopplungen und ermöglicht so eine dynamische Analyse der Wechselwirkungen zwischen Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS‑Architektur. Der abschließende Modellteil bildet den theoretischen Übergang zu \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, in dem das Modell im konkreten Setting eines Ausbildungs‑LMS rekonstruiert und empirisch anschlussfähig gemacht wird.
 
-#todo (#33) Quellen zur systemisch-konstruktivistischen Bildungswissenschaft, Medienpädagogik und Luhmanns Technologielücke ergänzen (z.B. Arnold, Reich, Siebert, Kerres, Tulodziecki, Luhmann) und mit den jeweiligen Abschnitten (2.1–2.5) verschränken.
+#todo (#33, 2025-12-19) Quellen zur systemisch-konstruktivistischen Bildungswissenschaft, Medienpädagogik und Luhmanns Technologielücke ergänzen (z.B. Arnold, Reich, Siebert, Kerres, Tulodziecki, Luhmann) und mit den jeweiligen Abschnitten (2.1–2.5) verschränken.
 
 Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig operationalisiert.
 
-#todo (#34) Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
+#todo (#34, 2025-12-19) Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
 
 ## 2.1 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
 \label{term:traegervariablen}
@@ -126,7 +126,7 @@ Für die Gestaltung folgt daraus die Lesart digitaler Systeme als Vorbereitung v
 
 Diese Perspektive wird in der simulationsgestützten Modellierung als begriffliche und operative Folie weitergeführt. PE werden dort als kategoriale, variierende Einflussimpulse operationalisiert, um die Dynamik von Kompetenzentwicklung im Zeitverlauf als gekoppelten Prozess darstellbar zu machen (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). [@hanisch-johannsen_simulation_2025]
 
-#todo (#77) revision PE Kategorien als operationales Raster dokumentieren (2.1.4)
+#todo (#77, 2025-12-25) revision PE Kategorien als operationales Raster dokumentieren (2.1.4)
 Für die spätere Operationalisierung werden persönliche Ereignisse im Modell als Kategorien geführt, die sich an der Richtung der zugrunde liegenden Attribution (eher intern/eher extern) und an der Valenz (stabilisierend/modulierend/destabilisierend) orientieren. Das Raster dient der transparenten Dokumentation, wie PE in der Simulation parametriert werden. Es besitzt den Status eines heuristischen Ordnungsschemas innerhalb der Modellierung und bildet die Grundlage dafür, PE bezogene Dynamiken in Verläufen, Unsicherheitsgrößen und Kippstelleninterpretationen nachvollziehbar zu machen. [@hanisch-johannsen_simulation_2025]
 
 Table Kategorien persönlicher Ereignisse (PE) als Modellraster \label{tab:pe-kategorien}
@@ -159,7 +159,7 @@ Für die Modellierung folgt daraus eine heuristische Parametrisierung. Wir model
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 
-#todo (#35) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
+#todo (#35, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
 
 Die bildungswissenschaftliche Verortung führt zentrale Grundannahmen, Grundbegriffe und Diskurse zusammen, die für Analyse des digitalen Bildungswirkgefüges leitend sind. Bildungswissenschaft wird dabei als Feld verstanden, das Begriffsarbeit, Theorienbildung und Diskursarbeit in enger Kopplung an institutionelle Praxis führt und damit Voraussetzungen für Modellierung und empirische Anschlussfähigkeit bereitstellt. [@huber_einfuhrung_2023, Seite 1]
 Wissenschaftstheorie rahmt diese Arbeit als Reflexion über Möglichkeiten und Grenzen wissenschaftlicher Erkenntnisgewinnung sowie als Prüfung von Begriffs und Theorienbildung, Methoden und Kriterien von Erkenntnisfortschritt. [@huber_wissenschaftstheorie_2023, Seite 685]
@@ -359,7 +359,7 @@ Abschnitt 2.5 führt den Übergang von Begriffen zu dynamischen Modellannahmen
 Unter Ungewissheitsbedingungen werden lineare Steuerungsannahmen fragil, weil Kontextwechsel, persönliche Ereignisse und Variationen in Trägervariablen Wirkpfade umlenken. Methodisch folgt daraus, dass Ergebnisse als robust/fragil unter Variation prüfbar sein müssen und deterministische Kausalität als Aussageform begrenzt bleibt. [@voelkle_one_2012, Seite 24]
 Monte‑Carlo‑Simulationen werden dafür als Verfahren genutzt, um Verteilungen, Streuungen und Kippstellen sichtbar zu machen und damit Kausalpläne als vorläufige, irritierbare Annahmestrukturen zu führen. [@theis_grundlagen_2002, Seite 1; @hanisch-johannsen_simulation_2025]
 
-#todo (#78) revision: Brücke Theorie → Simulation klarer (2.5)
+#todo (#78, 2025-12-25) revision: Brücke Theorie → Simulation klarer (2.5)
 Für den methodischen Anschluss wird die Simulation als Monte-Carlo-Verfahren gefasst. Monte-Carlo-Methoden nutzen Zufallszahlen, um Prozesse approximativ zu lösen oder zu simulieren, und erlauben eine systematische Verbesserung der Approximation über zusätzlichen Rechenaufwand. [@theis_grundlagen_2002, Seite 1, „… eine Gruppe von numerischen Methoden, die Zufallszahlen zur approximativen Lösung oder zur Simulation verschiedener Prozesse einsetzen.“; @theis_grundlagen_2002, Seite 1, „unter Einsatz von mehr Rechenzeit ist die Lösung systematisch verbesserbar“]
 Zentral ist dabei, dass Zufallsgrößen als Verteilungen modelliert und Ergebnisse über ein Ensemble von „Kopien“ gemittelt werden. [@theis_grundlagen_2002, Seite 9, „Der Kern von Monte Carlo Simulationen ist das Erwürfeln irgendwelcher Zufallsgrößen. Man kann nun in die Erzeugung dieser Zufallszahlen die zu untersuchende Physik stecken, indem man sie in Form einer Verteilung modelliert. … Über dieses Ensemble an Kopien wird nun der Mittelwert gebildet.“]
 Für die Stabilisierung der Schätzungen gilt, dass der Fehler bei wachsendem Stichprobenumfang sinkt. [@theis_grundlagen_2002, Seite 15, „Somit erhält man den mittleren Teilchenabstand mit einem Fehler $\\Delta \\propto \\sqrt{1/N}$.“]
