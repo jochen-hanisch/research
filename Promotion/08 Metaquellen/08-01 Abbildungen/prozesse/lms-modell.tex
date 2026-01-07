@@ -1,28 +1,25 @@
 \begin{figure}[H]
   \centering
+  \input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-tikz-style.tex}
   \resizebox{\linewidth}{!}{%
     \begin{tikzpicture}[
-      node distance=1.4cm and 2.0cm,
-      font=\scriptsize,
-      >=Latex,
-      process/.style={rectangle, draw=black!35, fill=black!2, rounded corners=6pt, align=center, minimum width=3.4cm, minimum height=1.1cm},
-      line/.style={->, thick, draw=black!35},
-      dashedline/.style={->, thick, draw=black!35, dashed}
+      lms,
+      node distance=1.4cm and 2.0cm
     ]
-      \node[process] (curriculum) {Handlungssituationen\\(32 curriculare Einheiten)};
-      \node[process, right=of curriculum, xshift=1.4cm] (lms) {LMS-Kern\\Kurse, Ressourcen, Aufgaben, Feedback};
-      \node[process, right=of lms, xshift=1.4cm] (cohort) {Ausbildungskurse\\(3 Kohortenräume)};
-      \node[process, above=of lms, yshift=0.6cm] (content) {Content\\Fachliteratur, Medien};
-      \node[process, below=of lms, yshift=-0.6cm] (lernorte) {Lernorte\\Schule, Lehrrettungswache, Krankenhaus};
+      \node[lmsBox, minimum width=3.4cm, minimum height=1.1cm] (curriculum) {Handlungssituationen\\(32 curriculare Einheiten)};
+      \node[lmsBox, minimum width=3.4cm, minimum height=1.1cm, right=of curriculum, xshift=1.4cm] (lms) {LMS-Kern\\Kurse, Ressourcen, Aufgaben, Feedback};
+      \node[lmsBox, minimum width=3.4cm, minimum height=1.1cm, right=of lms, xshift=1.4cm] (cohort) {Ausbildungskurse\\(3 Kohortenräume)};
+      \node[lmsBox, minimum width=3.4cm, minimum height=1.1cm, above=of lms, yshift=0.6cm] (content) {Content\\Fachliteratur, Medien};
+      \node[lmsBox, minimum width=3.4cm, minimum height=1.1cm, below=of lms, yshift=-0.6cm] (lernorte) {Lernorte\\Schule, Lehrrettungswache, Krankenhaus};
 
-      \draw[line] (curriculum) -- node[above, align=center]{curriculare Struktur} (lms);
-      \draw[line] (lms) -- node[above, align=center]{Umsetzung \& Steuerung} (cohort);
-      \draw[line] (curriculum) to[bend left=22] node[pos=0.55, above, yshift=4pt]{Aufgaben, Standards} (cohort);
-      \draw[line] (cohort) to[bend left=22] node[pos=0.45, below, yshift=-4pt]{Erkenntnisse, Feedback} (curriculum);
-      \draw[line] (content) -- node[pos=0.55, right, xshift=8pt]{Materialien} (lms);
-      \draw[line] (lernorte) -- node[pos=0.55, right, xshift=8pt, yshift=-2pt]{Praxisimpulse} (lms);
-      \draw[dashedline] (lernorte) -- node[pos=0.7, below, xshift=6pt]{Koordination} (cohort);
-      \draw[dashedline] (lernorte) -- node[pos=0.7, below, xshift=-6pt]{Anforderungen} (curriculum);
+      \draw[lmsArrow] (curriculum) -- node[above, align=center]{curriculare Struktur} (lms);
+      \draw[lmsArrow] (lms) -- node[above, align=center]{Umsetzung \& Steuerung} (cohort);
+      \draw[lmsArrow] (curriculum) to[bend left=22] node[pos=0.55, above, yshift=4pt]{Aufgaben, Standards} (cohort);
+      \draw[lmsArrow] (cohort) to[bend left=22] node[pos=0.45, below, yshift=-4pt]{Erkenntnisse, Feedback} (curriculum);
+      \draw[lmsArrow] (content) -- node[pos=0.55, right, xshift=8pt]{Materialien} (lms);
+      \draw[lmsArrow] (lernorte) -- node[pos=0.55, right, xshift=8pt, yshift=-2pt]{Praxisimpulse} (lms);
+      \draw[lmsArrowDashed] (lernorte) -- node[pos=0.7, below, xshift=6pt]{Koordination} (cohort);
+      \draw[lmsArrowDashed] (lernorte) -- node[pos=0.7, below, xshift=-6pt]{Anforderungen} (curriculum);
     \end{tikzpicture}%
   }
   \captionsetup{justification=justified,singlelinecheck=false}

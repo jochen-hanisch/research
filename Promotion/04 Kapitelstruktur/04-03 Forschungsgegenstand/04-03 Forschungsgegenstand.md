@@ -175,18 +175,26 @@ Die erste technische Architektur des hier untersuchten Learning Management Syste
 
 Durch die Corona-Pandemie und die damit verbundene Notwendigkeit, digitale Lernformate umfassend zu nutzen, stiegen die Anforderungen an die technische Infrastruktur des Learning Management Systems erheblich. Die zuvor genutzte NAS-basierte Infrastruktur stieß zunehmend an ihre Grenzen, insbesondere hinsichtlich der Skalierbarkeit, Verfügbarkeit und Sicherheit. Um diesen Herausforderungen gerecht zu werden, wurde im Jahr 2020 eine Umstellung auf eine professionell gehostete Lösung vorgenommen. Hierfür wurde ein externer Hosting-Partner beauftragt, der die technische Infrastruktur bereitstellte und betreute. Diese Umstellung ermöglichte es, die Leistungsfähigkeit des Systems deutlich zu erhöhen und eine stabile Verfügbarkeit auch bei steigenden Nutzerzahlen sicherzustellen. Zudem konnten durch den Einsatz professioneller Sicherheitsmaßnahmen die Datenschutzanforderungen besser erfüllt werden. Im Zuge der Professionalsierunge ist zudem das Kursverwaltungsprogramm easySoft® eingesetzt worden, das speziell für Bildungseinrichtungen entwickelt wurde und eine Vielzahl von Funktionen zur Organisation und Verwaltung von Kursen bietet. Ergänzt wurde das System durch die Integration von Nextcloud® für die Dateiverwaltung und Moodle® als Lernplattform. Die Kombination dieser drei Komponenten ermöglichte eine umfassende digitale Lernumgebung, die sowohl die organisatorischen als auch die didaktischen Anforderungen der Ausbildung abdecken konnte.
 
-Das  Learning-Management-System  und  die  beiden  Ergänzungen  Nextcloud®  und Moodle® sind technisch voneinander getrennt Hintergrund ist, dass die Schnittstelle des Kursverwaltungsprogramms easySoft® zur Moodle® Kurs- und Teilnehmendenverwal-
-tung von einem Software-Entwickler abhängig ist. Die beiden Applikationen Nextcloud® und Mahara® liegen auf anderen Servern, weswegen es zu technischen Unterschieden in der Hardware kommt. Grundsätzlich ist die Programm- und Aufgabenarchitektur wie 
-in Abbildung 4 organisiert.
+Das  Learning-Management-System  und  die  beiden  Ergänzungen  Nextcloud®  und Moodle® sind technisch voneinander getrennt. Hintergrund ist, dass die Schnittstelle des Kursverwaltungsprogramms easySoft® zur Moodle® Kurs- und Teilnehmendenverwaltung von einem Software-Entwickler abhängig ist. Die beiden Applikationen Nextcloud® und Mahara® liegen auf anderen Servern, weswegen es zu technischen Unterschieden in der Hardware kommt. Grundsätzlich ist die Programm- und Aufgabenarchitektur wie 
+in Abbildung \ref{fig:fg-organisationsarchitektur-lms} organisiert.
 
-#todo Abbildung 4 aus Exposee prüfen: Scanqualität/Cropping, Quelle/Datum konsistent, Caption/Subcaption finalisieren. Vielleicht LaTeX-Grafik erstellen.
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-organisationsarchitektur.tex}
 
-Das Learning-Management-System wird, wie in diesem Fall Moodle®, als Applikation implementiert.  Als  Standartkonfiguration  ist  das  Linux-Apache-MySQL-PHP  (LAMP) Softwarepakte eingesetzt. Die Interaktion zwischen User und Server ist in Abbildung 5 
-skizziert. Anfragen der Benutzenden werden zunächst an einen Web-Server vermittelt, der zwischen mit der eigentlichen MySQL-Datenbank zusammenwirkt. Diese Konfiguration erlaubt zudem auf Anfrage Log-Protokolle, die ggf. bei einer rechtlichen Bewertung (z.B. einer nicht-bestandenen staatlichen Prüfung) Nachweise über die Aktivitäten der Teilnehmerin oder des Teilnehmers ermöglichen. Abbildung 5: User-Server-Interaktion (© netmountains®) 
+Die Logik dieser Professionalisierungsphase lässt sich durch ein Anforderungsprofil aus Ausschreibungsperspektive plausibilisieren: @hanisch-johannsen_anforderungsdokument_2025 rahmt die „technische Umsetzung des E‑Learning‑Angebots sowie assoziierter Services“ als extern zu vergebenden Auftrag und bündelt dafür Anforderungen in vier Anforderungsfeldern:
 
-#todo Abbildung 5 aus Exposee prüfen: Scanqualität/Cropping, Quelle/Datum konsistent, Caption/Subcaption finalisieren. Vielleicht LaTeX-Grafik erstellen.
+1. Plattformbetrieb/Hosting (Domain, Zertifikate, Webspace/DB, Serverstandort Deutschland, Monitoring, Updates/Bugfixing, datenschutzgerechter Betrieb),
+2. LMS‑Kernfunktionen und Nutzerführung (Responsive Design, Kurs-/Curriculumdarstellung, Lernfortschritt, Lernpfade/bedingte Freischaltung, Suche/Einschreibung, Kursformate),
+3. didaktische Erweiterungen (fallbasiertes Lernen/POL inkl. Feedbacklogik, Entscheidungsbäume, Medienintegration, Verlinkung von Theorie‑Einheiten) und
+4. Integrationen/Services (Zertifikate, LimeSurvey, Video‑Conferencing, easySoft inkl. Rollen-/Kurszuordnung, Rückmeldung von Abschlüssen, SSO, Schulung und Content‑Service).
 
-Stand  September  2021  sind  innerhalb  des  platon.care-Kosmos ca. 750 Teilnehmende eingetragen, die jedoch nicht immer gleichzeitig auf die technischen Geräte zugreifen. Trotzdem lohnt sich ein Blick auf die Kennzahlen, wie sie in Tabelle 1 aufgelistet sind.
+Das Anforderungsdokument erhebt nicht den Anspruch eines formalisierten Lastenhefts (u.a. ohne explizite Muss/Soll‑Priorisierung, Rollen- und Berechtigungskonzept sowie ausformuliertes Datenschutz-/Sicherheitskonzept). Für die vorliegende Arbeit fungiert das Anforderungsdokument als *Boundary Object* (Grenzobjekt), weil die Ausschreibung notwendige Anforderungen im Feld sichtbar macht. In einem Artefakt führt das Dokument drei Logiken zusammen: Compliance‑Anforderungen (Nachweisbarkeit, Datenschutz, Verfügbarkeit), Organisationslogik (Kurs-/Curriculumsverwaltung) und didaktische Steuerungslogik (Lernpfade, POL, Feedback). Die Zusammenführung der drei Logiken stützt die im Kapitel verfolgte These, dass das LMS im Untersuchungsfall als Schnittstelle zwischen Norm und Didaktik fungiert und technische Architekturentscheidungen an artikulierte Funktions- und Qualitätsansprüche rückgebunden sind.
+
+Das Learning-Management-System wird, wie in diesem Fall Moodle®, als Applikation implementiert.  Als  Standartkonfiguration  ist  das  Linux-Apache-MySQL-PHP  (LAMP) Softwarepakte eingesetzt. Die Interaktion zwischen User und Server ist in Abbildung \ref{fig:fg-user-server-interaktion} 
+skizziert. Anfragen der Benutzenden werden zunächst an einen Web-Server vermittelt, der zwischen mit der eigentlichen MySQL-Datenbank zusammenwirkt. Diese Konfiguration erlaubt zudem auf Anfrage Log-Protokolle, die ggf. bei einer rechtlichen Bewertung (z.B. einer nicht-bestandenen staatlichen Prüfung) Nachweise über die Aktivitäten der Teilnehmerin oder des Teilnehmers ermöglichen.
+
+\input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-user-server-interaktion.tex}
+
+Stand  September  2021  sind  innerhalb  des  LMS-Kosmos ca. 750 Teilnehmende eingetragen, die jedoch nicht immer gleichzeitig auf die technischen Geräte zugreifen. Trotzdem lohnt sich ein Blick auf die Kennzahlen, wie sie in Tabelle 1 aufgelistet sind.
 
 Table: Technische Kennzahlen platon.care \label{tab:technische-kennzahlen-platon}
 
@@ -197,12 +205,9 @@ Table: Technische Kennzahlen platon.care \label{tab:technische-kennzahlen-platon
 | Datenspeicher    | 500 GB   | 1 TB       | 512 TB   |
 | Taktung          | 2,7 GHz  | 4,2 GHz    | —        |
 
-\tabsubcaption{Gegenüberstellung der technischen Kennzahlen (CPU-Kerne, Arbeitsspeicher, Datenspeicher, Taktung) der eingesetzten Systeme Moodle®, Nextcloud® und Mahara® im platon.care-Setup.}
+\tabsubcaption{Gegenüberstellung der technischen Kennzahlen (CPU-Kerne, Arbeitsspeicher, Datenspeicher, Taktung) der eingesetzten Systeme Moodle®, Nextcloud® und Mahara® im LMS-Setup.}
 
-Für eine ausreichende Usability werden seitens der  Moodle®-Plattform 10-20 Nutzer pro GB RAM (Moodle Pty Ltd., 2021a) empfohlen. Hinsichtlich der CPU-Leistung gibt es verschiedene Aussagen, auch hier haben sich 50-75 Benutzer pro CPU-Kern als Faust-
-regel etabliert (Moodle Pty Ltd., 2021b). Die Moodle® Empfehlung basiert auf dem best practice Verfahren. 
- 
-Sollten die 750 User zeitgleich auf das Learning-Management-System zugreifen, könnte dieses eine nicht zu kompensierende Volllast auslösen und damit zu einem Einbruch der Performance, d.h. langsame Zugriffszeiten, führen. Die Frage nach der Auswirkung der technischen Rahmenbedingungen auf den Lernerfolg der Teilnehmenden ist demnach als relevant zu betrachten.
+Für eine ausreichende Usability werden seitens der  Moodle®-Plattform 10-20 Nutzer pro GB RAM (Moodle Pty Ltd., 2021a) empfohlen. Hinsichtlich der CPU-Leistung gibt es verschiedene Aussagen, auch hier haben sich 50-75 Benutzer pro CPU-Kern als Faustregel etabliert (Moodle Pty Ltd., 2021b). Die Moodle® Empfehlung basiert auf dem best practice Verfahren. Sollten die 750 User zeitgleich auf das Learning-Management-System zugreifen, könnte dieses eine nicht zu kompensierende Volllast auslösen und damit zu einem Einbruch der Performance, d.h. langsame Zugriffszeiten, führen. Die Frage nach der Auswirkung der technischen Rahmenbedingungen auf den Lernerfolg der Teilnehmenden ist demnach als relevant zu betrachten.
 
 ### 3.3.4 Epoche III: Stabilisierungs- und Verstetigungsphase (Soon Systems)
 
@@ -249,7 +254,8 @@ Die Handlungssituationen (n = 32) bilden die curricular-inhaltliche Struktur gem
 
 Jede Handlungssituation besteht aus einem wiederkehrenden Satz von didaktisch strukturierten Containern: Einführung, Ressourcen, Aufgaben, weiterführende Quellen, Lounge, Feedback und Organisation. Diese Container wurden hier bereits als das organisationale, digitale Fundament, und damit als Trägerelemente der Aufgabenlogik beschrieben und bilden die standardisierte Grundlage für die Bearbeitung durch die Lernenden. Die Ausbildungskurse dagegen dienen der kohortenspezifischen Dokumentation, Reflexion und Organisation und sind der Ort für kursinterne Bearbeitung, individuelle Ergebnisfesthaltung und administrative Steuerung.
 Die äußeren Bereiche, Content auf der linken und Lernorte auf der rechten Seite, bilden die beiden zentralen Bezugsrahmen des digitalen Bildungsraums. Content umfasst bspw. Fachliteratur, Theoriegrundlagen und didaktische Ressourcen, Lernorte stehen für die in § 3 i.V.m. Anlage 1–3 NotSan-APrV festgelegten Ausbildungseinrichtungen Lehrrettungswache, Notfallsanitäterschule und Krankenhaus. Die Pfeilführung in der Abbildung verdeutlicht, dass beide Bereiche nicht statisch sind, sondern aktiv in die Handlungssituationen hineinwirken und gleichzeitig von dort Erkenntnisse und Rückmeldungen zurückerhalten – ein zentrales Prinzip des hier beschriebenen Lernraums.
-Anhand von Abbildung 4 lässt sich die exemplarische Anwendung der zuvor beschriebenen didaktischen Architektur verdeutlichen, in der die theoretischen Überlegungen in die Kursansicht überführt wurden, die allen im Rahmen der beruflichen Qualifikation genutzten Kurse zugrunde liegt.
+
+Anhand von Abbildung \ref{fig:fg-kursansicht} lässt sich die exemplarische Anwendung der zuvor beschriebenen didaktischen Architektur verdeutlichen, in der die theoretischen Überlegungen in die Kursansicht überführt wurden, die allen im Rahmen der beruflichen Qualifikation genutzten Kurse zugrunde liegt.
 
 Die folgende Abbildung verdeutlicht als Dokumentation die operativen Rahmenbedingungen des Wirkgefüges und Sie zeigt, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System notwednigerweise technisch ermöglichend berücksichtig werden müssen. Ursprung dieser Darstellung ist die eigene Moodle-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
 
@@ -259,9 +265,7 @@ Priorität: SHOULD — macht die Standardisierung/Containerstruktur operativ sic
 
 \figsubcaption{Die Abbildung zeigt die standardisierte Container-Navigation (links) sowie den inhaltsseitigen Aufbau (Kursdetails, Ressourcen etc.) als operatives Abbild der beschriebenen didaktischen Architektur.}
 
-Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen.
-
-Sichtbar werden die strukturierten Inhaltsbereiche, die für alle Kurse einheitlich implementiert wurden und den Rahmen für lernprozessbegleitende Navigation, Dokumentation und Kommunikation bilden.
+Die Darstellung zeigt die standardisierte Containerstruktur, bestehend aus den Bereichen Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation mit den jeweils zugeordneten Aktivitäten und Materialien. Diese Struktur dient der konsistenten Gestaltung aller Handlungssituationen und macht die strukturierten Inhaltsbereiche sichtbar, die für alle Kurse einheitlich implementiert wurden und den Rahmen für lernprozessbegleitende Navigation, Dokumentation und Kommunikation bilden.
 
 ### 3.4.2 Didaktisch-architektonische Umsetzung {#sec:DidaktischeUmsetzung}
 
@@ -289,7 +293,9 @@ Diese Containerarchitektur ist als genuin eigene Forschungsleistung zu werten, d
 
 **Technische Umsetzung:** Die Kursstruktur setzt die Containerlogik zudem konkret in typische Moodle‑Aktivitäten um.
 
-- **Schwarzes Brett (NFS‑H‑01)** (Forum) als Ankündigungskanal („Nachrichten und Ankündigungen seitens der Lernbegleiter“).
+**Schwarzes Brett (NFS‑H‑01)**
+
+Forum als Ankündigungskanal („Nachrichten und Ankündigungen seitens der Lernbegleiter“).
 
 **Didaktische Besonderheiten/Herausforderungen:** Für die volle Wirksamkeit der Einführung ist die Existenz eines Willkommenstextes nicht allein entscheidend. Wesentlich ist dessen Rahmung. Eine explizite Wochen- bzw. Terminstruktur (40 UE werden sonst primär als Zahl wahrgenommen), klare Kommunikationsregeln (wo wird angekündigt, wo diskutiert, wo wird informell geklärt) und ein kurzes Technik‑Onboarding (Abgabewege, Forumsetikette, Videokonferenzpraxis) stabilisieren den Einstieg und reduzieren vermeidbare Reibungen im Lernprozess.
 
