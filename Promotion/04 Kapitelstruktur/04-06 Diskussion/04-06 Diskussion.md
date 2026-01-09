@@ -60,7 +60,7 @@ Ein zentraler begrifflicher Schritt besteht darin, den systemtheoretischen Grund
 
 Im Fokus steht die Beschreibung eines Interdependenzgefüges, in dem positive und negative Wirkungswahrscheinlichkeiten sich gegenseitig ermöglichen, begrenzen, stabilisieren, irritieren und hervorbringen. Damit entsteht eine wissenschaftliche Grundlage, die an luhmannschen Denkkategorien anschließt und für den Kontext digitaler Bildungsräume weiterentwickelt wird.
 
-**Rechnerische Spur: Kopplungsindikatorik aus Unsicherheiten {#sec:Diskussion-Kopplungsindikatorik}**
+**Rechnerische Spur: Kopplungsindikatorik aus Unsicherheiten**[]{#sec:Diskussion-Kopplungsindikatorik}
 
 Der interdependente Rahmen bleibt zunächst konzeptuell. Eine ergänzende Perspektive entsteht dort, wo die in Kapitel \hyperref[sec:Ergebnisse]{5} rekonstruierten Unsicherheiten als Kopplungsphänomene explizit geführt und in eine Zeitlogik übersetzt werden. Die Leitidee ist eine „rechnerische Spur“: Aus Befundmustern werden Unsicherheitsquellen extrahiert, theoriegeleitet gebündelt und im Modell als dynamische Größen fortgeschrieben (vgl. \hyperref[sec:Simulation-Kompetenzentwicklung]{Abschnitt 4.4}).
 
