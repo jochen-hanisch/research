@@ -4,13 +4,13 @@
 
 Dieser Anhang fasst die Ergebnisse der LMS-Umfrage (UM1) überblicksartig zusammen. Die detaillierten Item-Auswertungen (je Jahrgang inkl. Kennwerten, Artefakt-Hinweisen und Kurzdiagnosen) liegen als Arbeitsmaterial vor; im Haupttext werden die Werte in den Ergebnislinien und Hypothesen nur als Tendenzen verwendet.
 
-### Datenbasis und Hinweis zur Interpretation
+**Datenbasis und Hinweis zur Interpretation**
 
 - Skala: 1–5 (Likert), sofern nicht anders angegeben.
 - Auswertung: deskriptiv pro Jahrgang (Jg. 21, Jg. 22, Jg. 23).
 - Stichprobengrößen: sehr klein bis klein; Unterschiede zwischen Jahrgängen sind als Tendenzen zu lesen.
 
-### Kurzvergleich der Items (Mittelwerte je Jahrgang)
+**Kurzvergleich der Items (Mittelwerte je Jahrgang)**
 
 | Item | Frage (Kurz) | Jg.21 | Jg.22 | Jg.23 |
 | --- | --- | ---: | ---: | ---: |
@@ -29,7 +29,6 @@ Dieser Anhang fasst die Ergebnisse der LMS-Umfrage (UM1) überblicksartig zusamm
 | Q13 | Wie einfach ist es, auf verschiedene Ressourcen im LMS zuzugreifen? | 3.67 | 3.90 | 3.06 |
 | Q14 | Wie nahtlos integriert das LMS externe Lernmaterialien oder -werkzeuge? | 2.33 | 3.60 | 2.72 |
 
-### Freitext (Anmerkungen/Feedback): inhaltliche Tendenzen
+**Freitext (Anmerkungen/Feedback): inhaltliche Tendenzen**
 
 Es liegen wenige Freitextkommentare vor. In der Tendenz adressieren sie (a) den Einfluss der UI-Anordnung auf das Verhalten, (b) Unterschiede zwischen „aufgeräumten“ und „überfrachteten“ Screens sowie (c) die Relevanz von Einfachheit/Reduktion zur Unterstützung von Selbst- und Gruppenorganisation.
-
