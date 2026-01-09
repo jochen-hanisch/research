@@ -161,7 +161,7 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 - Pro Kategorie: 2–5 Sätze Verdichtung (wiederkehrende Muster, Spannungsfelder, Bedingungen), anschließend 1–2 Anker (Zitat oder sehr nahe Paraphrase) mit Quellenangabe.
 - Keine Meta-Sätze ohne Benennung der Muster (z.B. nicht nur „verdichtet sich zu Mustern“, sondern die Muster explizit benennen).
 
-### **Template: FU‑Abschnitt (zum Kopieren)**
+**Template: FU‑Abschnitt (zum Kopieren)**
 
 ```markdown
 **FUx – Analyse dritter Ordnung (P‑QIA)**
