@@ -143,8 +143,10 @@ header-includes:
 | HRT             | High Responsibility Teams                                               |
 | NH              | Nebenhypothese                                                          |
 | NotSan-APrV     | Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen          |
+| APrV            | Ausbildungs- und Prüfungsverordnung (Kurzform; hier i.d.R. NotSan-APrV) |
 | NotSanG         | Notfallsanitätergesetz                                                  |
 | NotSan / NFS    | Notfallsanitäter:in                                                     |
+| NFS-H           | Digitaler Bildungsraum „Notfallsanitäter:in – Handlungssituationen“     |
 | PE              | Persönliche Ereignisse                                                  |
 | PEE             | Persönlicher Erfolg extern                                              |
 | PFE             | Persönlicher Fehlschlag extern                                          |
@@ -173,8 +175,8 @@ Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis
 | $\iota$ | Bildungswirkindikator; Steigung des Bildungswirkfaktors. |
 | $k$ | Anzahl der Cluster im k-Means-Algorithmus. |
 | $\nu$ | Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. |
-| $C$ | Dynamischer Unsicherheitswert zur Koppelungsprüfung zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}). |
-| $r$ | Korrelationskoeffizient (hier: Korrelation zwischen $\Delta E$ und $\Delta K$). |
+| $C$ | Dynamischer Unsicherheitswert zur Kopplungsprüfung zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}). |
+| $r$ | Korrelationskoeffizient (Pearson). |
 | $\sigma$ | Standardabweichung (hier: Streuung von $\Delta E$ bzw. $\Delta K$). |
 | $S$ | Silhouette-Score als Maß der Clusterdifferenzierung. |
 | $t$ | Zeitvariable der Dynamikmodelle. |
@@ -189,7 +191,7 @@ Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis
 | \eqref{eq:kmeans} | Zielfunktion des k‑Means-Algorithmus zur Minimierung der quadrierten Abstände der Datenpunkte zu ihren jeweiligen Clusterzentren. |
 | \eqref{eq:bildungswirkfaktor} | Bildungswirkfaktor $\nu(t)$ als zeitabhängiges Aggregatmaß aus emotionaler und kognitiver Unsicherheit ($\Delta E(t)\cdot\Delta K(t)$). |
 | \eqref{eq:bildungswirkindikator} | Bildungswirkindikator $\iota(t)$ als zeitliche Änderungsrate des Bildungswirkfaktors ($d\nu(t)/dt$). |
-| \eqref{eq:bildungswirk_c} | Dynamischer Unsicherheitswert $C$ zur Koppelungsprüfung zwischen $\Delta E$ und $\Delta K$ (Korrelationsstärke und Streuung). |
+| \eqref{eq:bildungswirk_c} | Dynamischer Unsicherheitswert $C$ zur Kopplungsprüfung zwischen $\Delta E$ und $\Delta K$ (Korrelationsstärke und Streuung). |
 
 \newpage
 
