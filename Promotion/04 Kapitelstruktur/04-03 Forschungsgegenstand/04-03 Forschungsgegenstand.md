@@ -512,7 +512,7 @@ Die k-means-Perspektive bündelt die Kursprofile im Anteilsraum und macht sichtb
 
 ![K-Means-Clusteranalyse der Kursanteile nach Themenbereichen (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/kmeans_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-kmeans-themenanteile}
 
-\figsubcaption{3D-Darstellung der 32 Kurse im Raum der Themenanteile (medizinisch, rettungsdienstlich, bezugswissenschaftlich) mit farblicher Zuordnung der k-means-Cluster; die Grafik verdeutlicht, ob sich Kurse anhand ihrer normativ codierten Themenprofile in konsistente Gruppen verdichten.}
+\figsubcaption{3D-Darstellung der 32 Kurse im Raum der Themenanteile (medizinisch, rettungsdienstlich, bezugswissenschaftlich) mit farblicher Zuordnung der k-means-Cluster; die Grafik verdeutlicht, wie sich Kurse anhand ihrer normativ codierten Themenprofile im Anteilsraum zu Gruppen bündeln.}
 
 Die Projektion verdeutlicht, wie sich die Kursanteile im dreidimensionalen Anteilsraum verteilen und welche Kursprofile in der Clusterung zusammengefasst werden.
 
@@ -553,8 +553,6 @@ Abb.~\ref{fig:fg-vergleich-kompetenzgewichtung} stellt die normativen Vorgaben d
 \figsubcaption{Boxplot der Aufgabenanzahl je Kurs, gruppiert nach Themenbereichen (medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung); zeigt Median, Streuung und Ausreißer als Indikatoren für die interne Differenzierung der Aufgabenlast.}
 
 Die Boxplot-Darstellung in Abb.~\ref{fig:fg-aufgaben-pro-themenbereich} zeigt die Anzahl der Aufgaben in den 32 Kursen, gruppiert nach den Bezugskategorien (medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung) [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44–45]. Dargestellt sind Median, Streuung und Ausreißer pro Kategorie.
-
-Abbildung 15: Verteilung der Kursdauer pro Themenbereich (eig. Darstellung)
 
 ![Verteilung der Kursdauer pro Themenbereich (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/verteilung-der-kursdauer-pro-themenbereich_notsan-aprv-vergleich.png>){#fig:fg-kursdauer-pro-themenbereich}
 
