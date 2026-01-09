@@ -47,6 +47,8 @@ Die Ergebnisse verdeutlichen, dass digitale Bildungsräume sich kaum als neutral
 
 Dieser interdependente Zugriff ergänzt die Betrachtung des digitalen Bildungsraums um eine strukturelle Tiefendimension: Das LMS wirkt nicht einseitig; es eröffnet einen systemischen Möglichkeitsraum, in dem konstruktive und dysfunktionale Effekte untrennbar miteinander verschränkt sind. Das Wirkgefüge entsteht durch diese Differenzform – nicht durch die Dominanz eines der beiden Pole. Die in \hyperref[sec:Technologiedefizit]{Abschnitt 2.4} herausgearbeitete Grenze deterministischer Wirksamkeit fungiert in der Diskussion als Prüfrahmen, der Steuerungsillusionen begrenzt und die Befunde konsequent als kontingente, unter Ungewissheit geführte Kausalpläne lesbar macht. Damit wird Interdependenz als Fortführung derselben Logik geführt und direkt an die methodische Absicherung rückgebunden (Abschnitt \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
 
+Eine konkrete, im Material bereits dokumentierte Rückkopplungsform dieses Wirkgefüges ist die Verbindung von Curriculumentwicklung und datenbasierter Rekonstruktion curricularer Struktur: Die in \hyperref[sec:CurriculareStruktur]{Abschnitt 3.4.4} beschriebene Quantifizierung der Kursstruktur wird in \hyperref[sec:CurricularesAlignment]{Abschnitt 5.1.1} ergebnisbezogen eingeordnet und fungiert damit als Feedback- und Reflexionsinstanz, die curriculare Entscheidungen iterativ stabilisieren oder irritieren kann. Curriculare Architektur, statistische Analyse und didaktische Umsetzung sind in dieser Perspektive nicht linear geschaltet, sondern als rekursiver Wirkzusammenhang modellierbar.
+
 Ein zentraler begrifflicher Schritt besteht darin, den systemtheoretischen Grundbegriff der **Interdependenz der Wirkgefügswahrscheinlichkeiten** in den Mittelpunkt zu stellen. Dieser Begriff ist
 
 - systemtheoretisch exakt (Luhmann, jedoch in dieser Form nicht operationalisiert),
@@ -58,7 +60,7 @@ Ein zentraler begrifflicher Schritt besteht darin, den systemtheoretischen Grund
 
 Im Fokus steht die Beschreibung eines Interdependenzgefüges, in dem positive und negative Wirkungswahrscheinlichkeiten sich gegenseitig ermöglichen, begrenzen, stabilisieren, irritieren und hervorbringen. Damit entsteht eine wissenschaftliche Grundlage, die an luhmannschen Denkkategorien anschließt und für den Kontext digitaler Bildungsräume weiterentwickelt wird.
 
-### 6.3.1.1 Rechnerische Spur: Kopplungsindikatorik aus Unsicherheiten {#sec:Diskussion-Kopplungsindikatorik}
+**Rechnerische Spur: Kopplungsindikatorik aus Unsicherheiten {#sec:Diskussion-Kopplungsindikatorik}**
 
 Der interdependente Rahmen bleibt zunächst konzeptuell. Eine ergänzende Perspektive entsteht dort, wo die in Kapitel \hyperref[sec:Ergebnisse]{5} rekonstruierten Unsicherheiten als Kopplungsphänomene explizit geführt und in eine Zeitlogik übersetzt werden. Die Leitidee ist eine „rechnerische Spur“: Aus Befundmustern werden Unsicherheitsquellen extrahiert, theoriegeleitet gebündelt und im Modell als dynamische Größen fortgeschrieben (vgl. \hyperref[sec:Simulation-Kompetenzentwicklung]{Abschnitt 4.4}).
 
@@ -81,7 +83,7 @@ Die Interdependenz-Thesen bauen auf wiederkehrenden Wirkdimensionen, die in den 
 1. **Was Interdependenz systemtheoretisch bedeutet**  
 Interdependenz meint weder Gleichgewicht noch Harmonie. Gemeint ist die strukturelle Kopplung zweier unterschiedlicher, aber wechselseitig notwendiger Operationen oder Zustände, die nur im Verhältnis zueinander Sinn ergeben: positive Wirkgefügswahrscheinlichkeiten und negative Wirkgefügswahrscheinlichkeiten. Sie sind wechselseitig bedingt und strukturell abhängig. Sie bilden das Interdependenzgefüge des digitalen Bildungsraums\label{term:interdependenz}. Damit entsteht eine ontologisch saubere Struktur: Der digitale Bildungsraum ist als Interdependenz beider Wirkgefügestrukturen fassbar; zusammen konstituieren sie das Wirkgefüge als Ganzes. Diese Interdependenz ist kein Add-on – sie ist das Wirkgefüge.
 
-2. **Warum das keine bloße Opposition ist**  
+2. **Weshalb das keine bloße Opposition ist**  
 Interdependenz heißt systemtheoretisch: A kann ohne B nicht verstanden werden, B kann ohne A nicht existieren, die Grenze zwischen A und B ist nur funktional, und die Beziehung erzeugt eine operative Einheit. Das löst das Dilemma, keinen Gegenpol oder Kampfbegriff zu setzen, sondern ein Wirkgefüge zu beschreiben, dessen interne Differenzen sich wechselseitig bedingen.
 
 3. **Was daraus für das Modell entsteht**  
