@@ -466,13 +466,13 @@ Die Umfrage „Feedback für uns (z.B. NFS-H-01)“ ist als kurze, retrospektive
 
 Text
 
-### 3.4.4 Statistische Analyse curriculare Struktur {#sec:CurriculareAnalyse}
+### 3.4.4 Deskriptive Struktur der curricularen Architektur {#sec:CurriculareStruktur}
 
-Dieser Abschnitt ist als empirischer Kurzbeitrag im Stil wissenschaftlicher Studien angelegt und analysiert die curriculare Struktur des digitalen Bildungsraums „NFS-H“ mit dem Ziel, die empirische Nachvollziehbarkeit, interne Konsistenz und regulatorische Anschlussfähigkeit des Kursplans quantitativ zu überprüfen. Damit wird gezeigt, dass der zugrunde liegende Lehrplan nicht nur konzeptionell schlüssig, sondern auch datenbasiert strukturiert ist. Die vorliegende Analyse orientiert sich eng an zentralen Prinzipien der Curriculumsforschung. Sie greift das Konzept des Curriculum Alignment\label{term:curriculum-alignment} [@biggs_enhancing_1996, Seiten 360–361] auf, das die Passung zwischen Lernzielen, Prüfungsanforderungen und curricularer Struktur thematisiert. Darüber hinaus folgt sie dem Ansatz des Programmatic Assessment\label{term:programmatic-assessment} ([@van_der_vleuten_model_2012], Abschnitt „Principles of assessment“), der die Konsistenz über multiple curriculare Elemente hinweg betont. Schließlich wird durch die systematische Quantifizierung didaktischer Strukturen ein Beitrag zur datenbasierten Modellierung von Bildungsarchitekturen geleistet. Die methodische Umsetzung über algorithmische Kürzelzuordnung, statistische Auswertung und Visualisierung stellt einen erweiterten Zugang dar, um curriculare Kohärenz empirisch zu fundieren, was insbesondere im Kontext digitaler Bildungsräume im Gesundheitswesen bedeutsam erscheint.
+Dieser Abschnitt beschreibt die curriculare Struktur des digitalen Bildungsraums „NFS-H“ quantitativ. Ausgewiesen werden Verteilungen nach Themenbereichen und Kompetenzfeldern sowie ergänzende Kennwerte (u.a. Kursdauer, Aufgabenanzahl) und Visualisierungen, die die Kursstruktur entlang der in der NotSan-APrV vorgegebenen Bezugsgrößen dokumentieren.
 
 Zielstellung
 
-Die statistische Analyse untersucht, inwiefern das hinterlegte Curriculum durchgängig den Anforderungen an Validität, Reliabilität und Konsistenz genügt. Die 32 digital abgebildeten Handlungssituationen („NFS-H-Kurse“) werden entlang der Anlage 1 NotSan-APrV strukturell ausgewertet. Im Fokus stehen dabei die empirische Zuordnung zu Themenbereichen und Kompetenzfeldern, die Vergleichbarkeit mit den APrV-Vorgaben sowie die statistische Konsistenz der curricularen Struktur [@hanisch-johannsen_systematische_2025].
+Die Auswertung beschreibt die 32 digital abgebildeten Handlungssituationen („NFS-H-Kurse“) entlang der Anlage 1 NotSan-APrV. Im Fokus stehen die Zuordnung zu Themenbereichen und Kompetenzfeldern, die Verteilung der Kursanteile sowie zusammenfassende Kennwerte der Kursstruktur [@hanisch-johannsen_systematische_2025].
 
 Methodik
 
@@ -482,7 +482,7 @@ Berechnung und Visualisierung
 
 Als Analyseschritte folgten:
 
-1.	Ermittlung der Korrelation zwischen Aufgabenanzahl und Kursdauer (r = 0,66) zur Prüfung innerer Konsistenz.
+1.	Ermittlung des Zusammenhangs zwischen Aufgabenanzahl und Kursdauer (r = 0,66).
 2.	Gruppierung nach Themenbereich: Mittelwert, Median und Standardabweichung für Aufgabenanzahl und Dauer.
 3.	Kompetenzbereichszuordnung auf Basis aggregierter Kürzelverteilung.
 4.	Visualisierung der Verteilungen über Boxplots.
@@ -491,22 +491,22 @@ Als Analyseschritte folgten:
 
 Ergebnisse
 
-Die statistische Analyse der 32 Kurse liefert differenzierte Kennzahlen zur inhaltlichen Gewichtung nach Themenbereichen:
+Die Auswertung der 32 Kurse liefert Kennzahlen zur inhaltlichen Gewichtung nach Themenbereichen:
 
-•	Bezugswissenschaftlich: 13 Kurse, Ø Dauer = 21,3 Tage, Ø Aufgaben = 21,7
-•	Medizinisch: 12 Kurse, Ø Dauer = 27,2 Tage, Ø Aufgaben = 26,8
-•	Rettungsdienstlich: 7 Kurse, Ø Dauer = 57,0 Tage, Ø Aufgaben = 33,3
-•	Einweisung/Prüfung (Sonderkategorie): 2 Kurse, getrennt ausgewertet
+- Bezugswissenschaftlich: 13 Kurse, Ø Dauer = 21,3 Tage, Ø Aufgaben = 21,7
+- Medizinisch: 12 Kurse, Ø Dauer = 27,2 Tage, Ø Aufgaben = 26,8
+- Rettungsdienstlich: 7 Kurse, Ø Dauer = 57,0 Tage, Ø Aufgaben = 33,3
+- Einweisung/Prüfung (Sonderkategorie): 2 Kurse, getrennt ausgewertet
 
-Diese Ergebnisse zeigen eine auffällige inhaltliche Kongruenz mit der Stundenverteilung der Anlage 1 NotSan-APrV (vgl. Abb.~\ref{fig:fg-aprv-themenbereiche}):
+Die folgenden Kennwerte lassen einen Vergleich mit der normativen Stundenverteilung der Anlage 1 NotSan-APrV zu (vgl. Abb.~\ref{fig:fg-aprv-themenbereiche}):
 
-•	Rettungsdienstlich: 47 % (APrV) vs. empirisch Ø 57,0 Tage (höchster Kursmittelwert)
-•	Medizinisch: 27 % (APrV) vs. Ø 27,2 Tage (nächsthöherer Mittelwert)
-•	Bezugswissenschaftlich: 26 % (APrV) vs. Ø 21,3 Tage
+- Rettungsdienstlich: 47 % (APrV) vs. empirisch Ø 57,0 Tage (höchster Kursmittelwert)
+- Medizinisch: 27 % (APrV) vs. Ø 27,2 Tage (nächsthöherer Mittelwert)
+- Bezugswissenschaftlich: 26 % (APrV) vs. Ø 21,3 Tage
 
-Auch die Verteilung der Kompetenzbereiche wurde rekonstruiert und grafisch aufbereitet (vgl. Abb.~\ref{fig:fg-aprv-kompetenzbereiche}). Die direkte Gegenüberstellung der empirischen Anteile mit der APrV-Gewichtung ist in Abb.~\ref{fig:fg-vergleich-themengewichtung} (Themenbereiche) und Abb.~\ref{fig:fg-vergleich-kompetenzgewichtung} (Kompetenzbereiche) dargestellt. Die Aufgabenverteilung nach Themenbereich ist in Abb.~\ref{fig:fg-aufgaben-pro-themenbereich} visualisiert; die Dauerverteilung nach Themenbereich folgt ergänzend als Boxplot (noch einzufügen).
+Auch die Verteilung der Kompetenzbereiche ist als Gegenüberstellung zur normativen Referenz ausgewiesen (vgl. Abb.~\ref{fig:fg-aprv-kompetenzbereiche} sowie Abb.~\ref{fig:fg-vergleich-kompetenzgewichtung}). Die Aufgabenverteilung nach Themenbereich ist in Abb.~\ref{fig:fg-aufgaben-pro-themenbereich} visualisiert; die Kursdauerverteilung nach Themenbereich in Abb.~\ref{fig:fg-kursdauer-pro-themenbereich}.
 
-Ergänzend lässt sich die Struktur der 32 Kurse als mehrdimensionaler Raum der Themenanteile (medizinisch, rettungsdienstlich, bezugswissenschaftlich) visualisieren. Abb.~\ref{fig:fg-kmeans-themenanteile} zeigt eine k-means-Clusterlösung im 3D-Raum der Kursanteile; Abb.~\ref{fig:fg-dendrogramm-themenanteile} ergänzt dies um eine hierarchische Ähnlichkeitsstruktur (Ward-Linkage). Beide Darstellungen dienen hier nicht der Hypothesentestung, sondern der explorativen Plausibilisierung, ob sich die Kurse entlang der normativen Themenlogik in konsistente Gruppen ordnen lassen.
+Ergänzend lässt sich die Struktur der 32 Kurse als mehrdimensionaler Raum der Themenanteile (medizinisch, rettungsdienstlich, bezugswissenschaftlich) visualisieren. Abb.~\ref{fig:fg-kmeans-themenanteile} zeigt eine k-means-Clusterlösung im 3D-Raum der Kursanteile; Abb.~\ref{fig:fg-dendrogramm-themenanteile} ergänzt dies um eine hierarchische Ähnlichkeitsstruktur (Ward-Linkage).
 
 Die k-means-Perspektive bündelt die Kursprofile im Anteilsraum und macht sichtbar, ob einzelne Kurse als Ausreißer oder Grenzfälle zwischen Themenprofilen erscheinen.
 
@@ -514,7 +514,7 @@ Die k-means-Perspektive bündelt die Kursprofile im Anteilsraum und macht sichtb
 
 \figsubcaption{3D-Darstellung der 32 Kurse im Raum der Themenanteile (medizinisch, rettungsdienstlich, bezugswissenschaftlich) mit farblicher Zuordnung der k-means-Cluster; die Grafik verdeutlicht, ob sich Kurse anhand ihrer normativ codierten Themenprofile in konsistente Gruppen verdichten.}
 
-Die Projektion legt nahe, dass sich die Kursanteile nicht gleichförmig verteilen, sondern entlang weniger dominanter Themenkombinationen bündeln. Für die vorliegende Argumentation wird dies als Plausibilisierung gelesen, dass die algorithmische Kürzelzuordnung zu stabilen Profilen führt und damit die nachfolgenden Vergleiche (normativ vs. empirisch) auf einer konsistenten Datenbasis aufsetzen.
+Die Projektion verdeutlicht, wie sich die Kursanteile im dreidimensionalen Anteilsraum verteilen und welche Kursprofile in der Clusterung zusammengefasst werden.
 
 Als komplementäre Sicht wird die gleiche Struktur über eine hierarchische Clusterung dargestellt. Das Dendrogramm macht sichtbar, in welchen Abständen (Distanzen) Kurse zusammengeführt werden und an welchen Stellen sich übergeordnete Gruppen ergeben.
 
@@ -522,9 +522,7 @@ Als komplementäre Sicht wird die gleiche Struktur über eine hierarchische Clus
 
 \figsubcaption{Hierarchische Clusterstruktur der Kursanteile (Ward-Linkage) als Ähnlichkeitsbaum; die Höhe der Verknüpfungen (Distanz) markiert, welche Kurse thematisch nahe beieinanderliegen und wo sich größere Gruppen entlang der Themenprofile bilden.}
 
-Im Zusammenspiel beider Visualisierungen wird nachvollziehbar, dass die thematischen Kursprofile (als aggregierte APrV-Kürzelanteile) in sich geordnet sind und sich zu wenigen, konsistenten Profilfamilien arrangieren lassen. Die folgenden Abbildungen fokussieren deshalb wieder den normativen Abgleich: Zunächst werden die APrV-Vorgaben als Referenzrahmen dargestellt und anschließend die empirisch rekonstruierten Anteile des digitalen Curriculums gegenübergestellt.
-
-Priorität: MUST — Kern-Evidenz im „Studien“-\hyperref[sec:CurriculareAnalyse]{Abschnitt 3.4.4} (Curriculum-Alignment).
+Im Zusammenspiel beider Visualisierungen wird eine komplementäre Perspektive auf die Kursprofile sichtbar: einmal als Gruppierung im Anteilsraum, einmal als hierarchische Ähnlichkeitsstruktur.
 
 ![Anteil der Themenbereiche nach NotSan-APrV (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/anteil-der-themenbereiche-nach-aprv_notsan-aprv-vergleich.png>){#fig:fg-aprv-themenbereiche}
 
@@ -538,53 +536,33 @@ Abb.~\ref{fig:fg-aprv-themenbereiche} visualisiert die prozentuale Verteilung de
 
 Abb.~\ref{fig:fg-aprv-kompetenzbereiche} zeigt, bezogen auf den Gesamtumfang der Ausbildung, die in der NotSan-APrV verankerte Kompetenzgewichtung. Die vier Kompetenzbereiche – fachlich (24 %), sozial (15 %), personal (11 %) und methodisch (50 %) – definieren die Zielstruktur beruflicher Handlungskompetenz im Rettungsdienst [@bundesgesundheitsministerium_referentenentwurf_2012, Seite 47]. Der besonders hohe Anteil methodischer Kompetenzen spiegelt die Bedeutung strukturierter Vorgehensweisen, Entscheidungsalgorithmen und standardisierter Handlungsroutinen im beruflichen Alltag wider. Fachliche, soziale und personale Anteile ergänzen diesen Schwerpunkt um domänenspezifisches Wissen, Interaktionsfähigkeit und individuelle Reflexionsfähigkeit.
 
-Priorität: MUST — Kern-Evidenz im „Studien“-\hyperref[sec:CurriculareAnalyse]{Abschnitt 3.4.4} (Curriculum-Alignment).
-
 ![Vergleich der Themengewichtung: NotSan-APrV vs. NFS-H-Lehrplan (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/vergleich-themengewichtung-aprv-schatzung-vs-nfs-h-lehrplan_notsan-aprv-vergleich.png>){#fig:fg-vergleich-themengewichtung}
 
-\figsubcaption{Gegenüberstellung der normativen Themengewichtung (NotSan-APrV) mit der empirisch rekonstruierten Verteilung im digitalen Curriculum (NFS-H); visualisiert die Passung zwischen regulatorischer Vorgabe und realisierter Kurslogik.}
+\figsubcaption{Gegenüberstellung der normativen Themengewichtung (NotSan-APrV) mit der empirisch rekonstruierten Verteilung im digitalen Curriculum (NFS-H).}
 
-Die Balkengrafik in Abb.~\ref{fig:fg-vergleich-themengewichtung} kontrastiert die normativ vorgegebene Verteilung der Themenbereiche gemäß NotSan-APrV mit der empirisch erhobenen Verteilung im digitalen Curriculum „NFS-H“. Während die APrV eine Gewichtung von 47 % rettungsdienstlich, 27 % medizinisch und 26 % bezugswissenschaftlich vorgibt [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44, 47], zeigt die Umsetzung im Curriculum eine nahezu deckungsgleiche Relation (Ø Kursdauer: 57,0 / 27,2 / 21,3 Tage). Die hohe Übereinstimmung verdeutlicht, dass die digitale Bildungsarchitektur nicht nur formal regelkonform ist, sondern auch inhaltlich anschlussfähig zur gesetzlichen Grundlage gestaltet wurde. Damit wird eine zentrale Voraussetzung für die curriculare Validität erfüllt.
+Die Balkengrafik in Abb.~\ref{fig:fg-vergleich-themengewichtung} stellt die normativ vorgegebene Verteilung der Themenbereiche gemäß NotSan-APrV der empirisch rekonstruierten Verteilung im digitalen Curriculum „NFS-H“ gegenüber [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44, 47].
 
 ![Vergleich der Kompetenzgewichtung: NotSan-APrV vs. NFS-H-Lehrplan (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/vergleich-kompetenzgewichtung-aprv-schatzung-vs-nfs-h-lehrplan_notsan-aprv-vergleich.png>){#fig:fg-vergleich-kompetenzgewichtung}
 
-\figsubcaption{Gegenüberstellung der normativen Kompetenzgewichtung (NotSan-APrV) mit den empirisch rekonstruierten Anteilen im digitalen Curriculum; zeigt, ob die kompetenzorientierte Zielstruktur in der Kursarchitektur abgebildet ist.}
+\figsubcaption{Gegenüberstellung der normativen Kompetenzgewichtung (NotSan-APrV) mit den empirisch rekonstruierten Anteilen im digitalen Curriculum.}
 
-Abb.~\ref{fig:fg-vergleich-kompetenzgewichtung} vergleicht die vier Kompetenzbereiche fachlich, sozial, personal und methodisch hinsichtlich ihres relativen Anteils an der curricularen Kursdauer. Die normativen Vorgaben der NotSan-APrV (z.B. 50 % methodisch, 24 % fachlich) werden den empirisch ermittelten Anteilen im Curriculum gegenübergestellt. Die Daten zeigen, dass die Gewichtung der Kompetenzbereiche im digitalen Lehrplan des „NFS-H“ weitgehend der gesetzlich intendierten Verteilung [@bundesgesundheitsministerium_referentenentwurf_2012, Seite 47] entspricht. Die methodische Dominanz in beiden Perspektiven legt nahe, dass die Ausbildung nicht nur auf inhaltliche Vermittlung, sondern auch auf handlungsbezogene Umsetzung im Sinne einer professionellen Handlungskompetenz zielt. Die Parallelität unterstützt somit die Annahme einer curriculären Implementierung.
+Abb.~\ref{fig:fg-vergleich-kompetenzgewichtung} stellt die normativen Vorgaben der NotSan-APrV den empirisch ermittelten Anteilen im Curriculum gegenüber [@bundesgesundheitsministerium_referentenentwurf_2012, Seite 47].
 
 ![Verteilung der Aufgaben pro Themenbereich (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/verteilung-der-aufgaben-pro-themenbereich_notsan-aprv-vergleich.png>){#fig:fg-aufgaben-pro-themenbereich}
 
 \figsubcaption{Boxplot der Aufgabenanzahl je Kurs, gruppiert nach Themenbereichen (medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung); zeigt Median, Streuung und Ausreißer als Indikatoren für die interne Differenzierung der Aufgabenlast.}
 
-Die Boxplot-Darstellung in Abb.~\ref{fig:fg-aufgaben-pro-themenbereich} zeigt die Anzahl der Aufgaben in den 32 Kursen, gruppiert nach den Bezugskategorien (medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung) [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44–45]. Erkennbar ist, dass die rettungsdienstlichen Kurse mit einem Median von über 30 Aufgaben eine deutlich höhere Aufgabenlast aufweisen als die anderen Bereiche. Die bezugswissenschaftlichen Module liegen im unteren Bereich, während medizinische Kurse ein mittleres Aufgabenvolumen abbilden. Die geringe Streuung innerhalb der Themenbereiche und die ausgeprägte Differenzierung zwischen ihnen weisen auf eine strukturierte und differenzierte didaktische Konzeption hin.
+Die Boxplot-Darstellung in Abb.~\ref{fig:fg-aufgaben-pro-themenbereich} zeigt die Anzahl der Aufgaben in den 32 Kursen, gruppiert nach den Bezugskategorien (medizinisch, rettungsdienstlich, bezugswissenschaftlich sowie Einführung/Prüfung) [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44–45]. Dargestellt sind Median, Streuung und Ausreißer pro Kategorie.
 
 Abbildung 15: Verteilung der Kursdauer pro Themenbereich (eig. Darstellung)
 
-Priorität: MUST — Kern-Evidenz im „Studien“-\hyperref[sec:CurriculareAnalyse]{Abschnitt 3.4.4} (Curriculum-Alignment).
- 
 ![Verteilung der Kursdauer pro Themenbereich (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/verteilung-der-kursdauer-pro-themenbereich_notsan-aprv-vergleich.png>){#fig:fg-kursdauer-pro-themenbereich}
 
 \figsubcaption{Boxplot der Kursdauer (in Tagen) je Kurs, gruppiert nach Themenbereichen; zeigt Median, Streuung und Ausreißer als Indikatoren für die zeitliche Allokation und die interne Varianz der Kurslogik.}
 
-Die Boxplot-Darstellung in Abb.~\ref{fig:fg-kursdauer-pro-themenbereich} visualisiert die Dauer der 32 Kurse in Tagen, differenziert nach den vier Bezugskategorien [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44–45]. Auffällig ist der signifikant höhere Medianwert der rettungsdienstlichen Kurse (Ø 57 Tage), was den inhaltlich-praktischen Anforderungen dieses Bereichs entspricht. Medizinische und bezugswissenschaftliche Kurse weisen deutlich kürzere und zugleich eng beieinanderliegende Dauerverteilungen auf. Die Einführung und Prüfung bilden als Sonderkategorie zwei randständige Ausreißer mit jeweils kurzer Laufzeit. Insgesamt belegt die Verteilung eine hohe curriculare Abstimmung hinsichtlich zeitlicher Allokation und thematischer Komplexität.
+Die Boxplot-Darstellung in Abb.~\ref{fig:fg-kursdauer-pro-themenbereich} visualisiert die Dauer der 32 Kurse in Tagen, differenziert nach den vier Bezugskategorien [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44–45]. Dargestellt sind Median, Streuung und Ausreißer pro Kategorie.
 
-Diese Übereinstimmungen belegen, dass der Aufbau des Curriculums nicht nur konzeptionell plausibel, sondern auch statistisch nachvollziehbar ist.
-
-Bewertung
-
-Die curriculare Struktur des digitalen Bildungsraums NFS-H erfüllt zentrale Anforderungen an Qualität und Transparenz:
-
-•	Die mittlere Kursdauer ist innerhalb der Kategorien homogen (SD jeweils < 28 Tage), mit klarer Abgrenzung zwischen den Bereichen.
-•	Der hohe Anteil rettungsdienstlicher Module (Ø 57 Tage) korrespondiert exakt mit dem APrV-Anteil von 47 %.
-•	Die Zuordnung der Inhalte auf Basis systematisch codierter APrV-Kürzel vermeidet subjektive Verzerrungen.
-•	Die Korrelation zwischen Kursdauer und Aufgabenanzahl (r = 0,66) weist auf eine innere Konsistenz der Lernstruktur hin.
-
-Somit ist belegt, dass der untersuchte Bildungsraum sowohl reliabel (Wiederholbarkeit der Muster), valide (inhaltliche Deckung mit normativen Grundlagen) als auch konsistent (strukturelle Kohärenz zwischen Plan und Umsetzung) aufgebaut ist. Die Ergebnisse erlauben darüber hinaus eine operationalisierte Bewertung digitaler Curricula auf Grundlage regulatorischer Anforderungen. Zudem zeigen die dargestellten Ergebnisse eine hohe strukturelle Konsistenz des untersuchten Curriculums und spiegeln in ihrer quantitativen Ausprägung die gesetzlich intendierte Bildungslogik der NotSan-APrV wider. Auf diese Weise ergibt sich eine direkte Verbindung zwischen den empirisch beobachteten Anteilen und den Ausbildungszielen, die im Referentenentwurf von 2012 definiert wurden.
-
-Die prozentuale Verteilung der Themenbereiche „medizinisch” (27 %), „rettungsdienstlich” (47 %) und „bezugswissenschaftlich” (26 %) im APrV-Grundlagenkorpus findet sich beinahe deckungsgleich in der realen Kursstruktur wieder (vgl. Abb.~\ref{fig:fg-aprv-themenbereiche} und Abb.~\ref{fig:fg-vergleich-themengewichtung}). Diese Übereinstimmung stützt die Annahme, dass das analysierte Curriculum den staatlich definierten Anspruch auf eine bedarfsorientierte Daseinsvorsorge (Seite 44 NotSan-APrV) sowohl formal aufnimmt als auch in Kurslogik und Zeitstruktur operationalisiert und umsetzt. Auch die Auswertung der vier Kompetenzbereiche zeigt eine deutliche Parallelität zu den in der APrV formulierten Anforderungen (vgl. Abb.~\ref{fig:fg-aprv-kompetenzbereiche} und Abb.~\ref{fig:fg-vergleich-kompetenzgewichtung}). Die hohe Gewichtung methodischer Kompetenzen (50 %) und die Integration fachlicher, sozialer und personaler Aspekte verdeutlichen, dass die Ausbildung systematisch darauf ausgerichtet ist, die „zur Berufsausübung notwendige Handlungssicherheit“ (S. 47) zu vermitteln, inhaltlich und didaktisch sowie curricular. Die geringe Streuung innerhalb der Themenkategorien (SD < 28 Tage), die hohe Korrelation zwischen Kursdauer und Aufgabenanzahl (r = 0,66) sowie die klare Zuordenbarkeit der Inhalte über algorithmische APrV-Kürzel sprechen für einen systematisch konstruierten Lehrplan, der somit den regulatorischen Vorgaben formal, inhaltlich und strukturell entspricht.
-Ausblick
-
-Diese Analyse verdeutlicht exemplarisch, wie digitale Curricula im Gesundheitswesen systematisch und datenbasiert analysieren werden können. Die Verbindung zwischen regulatorischer Struktur (NotSan-APrV), inhaltlicher Codierung und quantitativer Auswertung liefert ein konsistentes Argument für die Validität digitaler Bildungsräume und deren Anschlussfähigkeit an curriculare Standards. Die Analyse ist ein methodischer Beitrag zur curricularen Forschung und belegt empirisch die Anschlussfähigkeit des digitalen Curriculums an die gesetzliche Struktur der NotSan-APrV. Die normative Fundierung wird mittels dieser Analyse statistisch nachgewiesen.
+Die Einordnung der in diesem Abschnitt dokumentierten Kennwerte erfolgt im Ergebniskapitel (Abschnitt \hyperref[sec:CurricularesAlignment]{5.1.1}).
 
 ## 3.5 Operative Architektur als Arbeits- und Lernumgebung {#sec:OperativeArchitektur}
 
