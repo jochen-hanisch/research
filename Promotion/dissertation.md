@@ -236,12 +236,16 @@ Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit
 
 **Schreibweisen für Literatur- und Abbildungsverweise**
 
-Im Fließtext werden die Begriffe "Kapitel", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben (z.B. "wie in Kapitel 2.2 dargestellt", "siehe Tabelle 4"). Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
+Im Fließtext werden die Begriffe "Kapitel", "Abschnitt", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben. Interne Verweise werden dabei konsequent als klickbare Querverweise gesetzt und in `\hyperref` geschrieben (z.B. `\hyperref[sec:Diskussion-Methodenreflexion]{Abschnitt 6.4}` oder `\hyperref[sec:Theorieteil]{Kapitel 2}`).
+
+Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
 
 - S.   = Seite (z.B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
 - Kap. = Kapitel (z.B. "[@doring_forschungsmethoden_2023, Kapitel 2.2]")
-- Abb. = Abbildung (z.B. "siehe Abbildung 3")
-- Tab. = Tabelle (z.B. "vgl. Tab.~\\ref{tab:methoden_FU}")
+- Abb. = Abbildung (z.B. `\hyperref[fig:beispiel]{Abb.~\ref{fig:beispiel}}`)
+- Tab. = Tabelle (z.B. `\hyperref[tab:methoden_FU]{Tab.~\ref{tab:methoden_FU}}`)
+
+Auch bei ausgeschriebenen Formen werden die Referenzen in `\hyperref` gesetzt (z.B. `\hyperref[fig:beispiel]{Abbildung~\ref{fig:beispiel}}`, `\hyperref[tab:methoden_FU]{Tabelle~\ref{tab:methoden_FU}}`, `\hyperref[eq:verlust]{Gl.~\eqref{eq:verlust}}`).
 
 Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird nach Möglichkeit die ausgeschriebene Form "zum Beispiel" verwendet; nur in Ausnahmefällen wird "bspw." genutzt.
 
