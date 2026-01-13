@@ -1,0 +1,34 @@
+\begin{figure}[H]
+  \centering
+  \input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-tikz-style.tex}
+  \resizebox{\linewidth}{!}{%
+    \begin{tikzpicture}[lms, node distance=12mm and 18mm]
+      % Clients
+      \node[lmsClient] (c1) {Client\\(Kurs)};
+      \node[lmsClient, below=of c1] (c2) {Client\\(Listen)};
+      \node[lmsClient, below=of c2] (c3) {Client\\(Auswertung)};
+
+      % Server + DB
+      \node[lmsServer, right=55mm of c2] (srv) {Web-\\Server};
+      \node[lmsDb, right=28mm of srv] (db) {DB};
+
+      % Labels
+      \node[above=2mm of srv, font=\scriptsize\bfseries, text=lmsGray] {Applikation};
+      \node[above=2mm of db, font=\scriptsize\bfseries, text=lmsGray] {Datenhaltung};
+
+      % Flows (client <-> server)
+      \draw[lmsArrow] (c1.east) -- node[above, sloped]{Daten abgeben} (srv.west);
+      \draw[lmsArrow] (c2.east) -- node[above, sloped]{Daten filtern} (srv.west);
+      \draw[lmsArrow] (c3.east) -- node[above, sloped]{Statistik erzeugen} (srv.west);
+
+      % Server <-> DB
+      \draw[lmsArrow] (srv.east) -- node[above]{Daten verwalten} (db.west);
+      \draw[lmsArrowDashed] (db.west) -- node[below]{Antworten/Resultate} (srv.east);
+    \end{tikzpicture}%
+  }
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{User-Server-Interaktion.}
+  \caption*{\footnotesize Schematisierte Interaktion zwischen Client, Webserver/Applikationsserver und Datenbank. Die Darstellung dient der Veranschaulichung der Log- und Nachweisfähigkeit auf Systemebene.}
+  \label{fig:fg-user-server-interaktion}
+\end{figure}
+
