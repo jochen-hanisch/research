@@ -101,6 +101,7 @@ import bibtexparser
 import pandas as pd
 import numpy as np
 from scipy.stats import pearsonr
+from typing import Any
 
 import subprocess
 from slugify import slugify
@@ -318,8 +319,10 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
                     x_valid, y_valid = x_data[valid], y_data[valid]
 
                     if x_valid.nunique() > 1 and y_valid.nunique() > 1:
-                        corr, p_value = pearsonr(x_valid, y_valid)
-                        if pd.notnull(corr):
+                        result: Any = pearsonr(x_valid, y_valid)
+                        corr = float(getattr(result, "statistic", result[0]))
+                        p_value = float(getattr(result, "pvalue", result[1]))
+                        if np.isfinite(corr):
                             abs_corr = abs(corr)
                             significance = 'Signifikant' if p_value < 0.05 else 'Nicht signifikant'
                             hover_color = colors['brightArea'] if p_value < 0.05 else colors['depthArea']
@@ -367,7 +370,7 @@ def visualize_bivariate_correlation(df, x_terms, y_terms, title, x_label, y_labe
 
     # Tabelle im Terminal ausgeben
     print(f"Korrelationen für: {title}")
-    print(tabulate(correlation_df[['x_term', 'y_term', 'correlation', 'p_value', 'significance']],
+    print(tabulate(correlation_df[['x_term', 'y_term', 'correlation', 'p_value', 'significance']].values.tolist(),
                    headers=['Variable X', 'Variable Y', 'Korrelation', 'p-Wert', 'Signifikanz'],
                    tablefmt='grid'))
 
@@ -705,8 +708,10 @@ def analyze_correlation_quality(df, x_terms, y_terms):
                     x_valid, y_valid = x_data[valid], y_data[valid]
 
                     if x_valid.nunique() > 1 and y_valid.nunique() > 1:
-                        corr, p_value = pearsonr(x_valid, y_valid)
-                        if pd.notnull(corr):
+                        result: Any = pearsonr(x_valid, y_valid)
+                        corr = float(getattr(result, "statistic", result[0]))
+                        p_value = float(getattr(result, "pvalue", result[1]))
+                        if np.isfinite(corr):
                             correlation_data.append({
                                 "x_term": x_term,
                                 "y_term": y_term,
