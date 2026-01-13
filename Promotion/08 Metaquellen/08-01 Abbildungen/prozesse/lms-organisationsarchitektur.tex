@@ -1,0 +1,33 @@
+\begin{figure}[H]
+  \centering
+  \input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-tikz-style.tex}
+  \resizebox{\linewidth}{!}{%
+    \begin{tikzpicture}[lms]
+      % Left column: actors
+      \node[lmsBox, minimum width=34mm, minimum height=16mm] (extern) {\large extern};
+      \node[lmsBox, minimum width=34mm, minimum height=16mm, below=10mm of extern] (intern) {\large intern};
+
+      % Counts (content nodes)
+      \node[lmsBox, minimum width=28mm, minimum height=12mm, right=32mm of extern, yshift=-3mm] (hsCount) {\Large n=32};
+      \node[lmsBox, minimum width=62mm, minimum height=12mm, right=20mm of hsCount] (akCount) {\Large n=3};
+
+      % Titles
+      \node[lmsLabel, fill=lmsPurple, font=\large\bfseries, anchor=west] (hsTitle) at ([xshift=-26mm,yshift=9mm]hsCount.west) {Handlungssituation};
+      \node[lmsLabel, fill=lmsOrange, font=\large\bfseries, anchor=west] (akTitle) at ([xshift=-18mm,yshift=9mm]akCount.west) {Ausbildungskurs};
+
+      % Frames (fit around title + content) – avoids overlaps by construction
+      \node[draw=lmsOrange, rounded corners=10pt, fill=lmsOrange!10, fit=(akTitle)(akCount), inner sep=10pt] (akFrame) {};
+      \node[draw=lmsPurple, rounded corners=10pt, fill=lmsPurple!8, fit=(hsTitle)(hsCount)(akFrame), inner sep=12pt] (hsFrame) {};
+
+      % Outer frame + header
+      \node[font=\large\bfseries, text=lmsBlue, anchor=west] (outerTitle) at ([xshift=6pt,yshift=12pt]extern.north west) {Learning Management System};
+      \begin{scope}[on background layer]
+        \node[draw=lmsBlue, rounded corners=10pt, fill=lmsBlue!6, fit=(outerTitle)(extern)(intern)(hsFrame), inner sep=14pt] (outer) {};
+      \end{scope}
+    \end{tikzpicture}%
+  }
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{Organisationsarchitektur des Learning-Management-Systems.}
+  \caption*{\footnotesize Schematische Darstellung der Organisationsarchitektur des LMS: Trennung von Handlungssituationen ($n = 32$) und Ausbildungskursen ($n = 3$) sowie Differenzierung interner und externer Akteursgruppen.}
+  \label{fig:fg-organisationsarchitektur-lms}
+\end{figure}

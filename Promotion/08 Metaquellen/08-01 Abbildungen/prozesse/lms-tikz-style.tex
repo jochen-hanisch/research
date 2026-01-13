@@ -1,0 +1,77 @@
+% Shared TikZ styles for LMS-related schematic figures
+% Intentionally light-weight: safe to \input{} inside figure files.
+\usetikzlibrary{arrows.meta,backgrounds,calc,fit,positioning,shapes.geometric,shapes.misc}
+
+% CI palette (defaults; overridden if already defined elsewhere)
+\providecolor{ciPrimaryLine}{HTML}{1E5D8A}
+\providecolor{ciSecondaryLine}{HTML}{4A403C}
+\providecolor{ciAccent}{HTML}{89572A}
+\providecolor{ciNeutral}{HTML}{595959}
+\providecolor{ciGlint}{HTML}{E0E0E0}
+\providecolor{ciNegative}{HTML}{892A5C}
+
+\colorlet{lmsBlue}{ciPrimaryLine}
+\colorlet{lmsPurple}{ciNegative}
+\colorlet{lmsOrange}{ciAccent}
+\colorlet{lmsGray}{ciNeutral}
+\colorlet{lmsLight}{white}
+
+\tikzset{
+  lms/.style={
+    font=\scriptsize,
+    line width=0.55pt,
+    draw=lmsGray,
+    >=Latex,
+  },
+  lmsBox/.style={
+    rectangle,
+    rounded corners=6pt,
+    draw=lmsGray,
+    fill=lmsLight,
+    align=center,
+    inner sep=6pt,
+    minimum height=10mm,
+  },
+  lmsLabel/.style={
+    font=\scriptsize\bfseries,
+    text=white,
+    inner sep=6pt,
+    rounded corners=6pt,
+    align=left,
+  },
+  lmsArrow/.style={-{Latex[length=3mm,width=2mm]}, draw=lmsGray, line width=0.6pt},
+  lmsArrowDashed/.style={lmsArrow, dashed},
+  lmsDb/.style={
+    cylinder,
+    cylinder uses custom fill,
+    cylinder body fill=lmsLight,
+    cylinder end fill=white,
+    shape border rotate=90,
+    aspect=0.25,
+    draw=lmsGray,
+    minimum height=12mm,
+    minimum width=12mm,
+    align=center,
+    inner sep=3pt,
+  },
+  lmsServer/.style={
+    rectangle,
+    rounded corners=2pt,
+    draw=lmsGray,
+    fill=lmsLight,
+    minimum width=14mm,
+    minimum height=18mm,
+    align=center,
+    inner sep=3pt,
+  },
+  lmsClient/.style={
+    rectangle,
+    rounded corners=2pt,
+    draw=lmsGray,
+    fill=white,
+    minimum width=16mm,
+    minimum height=11mm,
+    align=center,
+    inner sep=2pt,
+  },
+}
