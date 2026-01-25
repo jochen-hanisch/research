@@ -17,7 +17,7 @@ published: []
 project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 17.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.11.2024 | publishd:  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 17.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.11.2024 | publishd:  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 # Einleitung
 
