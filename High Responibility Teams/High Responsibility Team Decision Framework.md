@@ -28,21 +28,21 @@ tags:
 GPT: true
 ---
 
-created: 3.10.2024 | [updated](https://git.jochen-hanisch.de/research/high-responibility-teams): 12.5.2025 | [publishd](https://zenodo.org/records/15391445): 4.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite/Hinweise]]
+created: 3.10.2024 | [updated](https://git.jochen-hanisch.de/research/high-responibility-teams): 12.5.2025 | [publishd](https://zenodo.org/records/15391445): 4.1.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Hinweise]]
 
 **High Responsibility Team Decision Framework (HRT-DF)**
 
 # Abstrakt
 
-Das High Responsibility Team Decision Framework (HRT-DF) ist ein eigenständiges Entscheidungsmodell für High Responsibility Teams (HRT), das kritische Entscheidungsprozesse in dynamischen und risikoreichen Umgebungen optimiert. Basierend auf Markov-Entscheidungsprozessen (MDP) und systemtheoretischen Prinzipien strukturiert das HRT-DF Entscheidungsräume und steuert Zustandsübergänge, um Transformationsbarrieren zu überwinden und unerwünschte in erwünschte Zustände zu überführen.  
+Das High Responsibility Team Decision Framework (HRT-DF) ist ein eigenständiges Entscheidungsmodell für High Responsibility Teams (HRT), das kritische Entscheidungsprozesse in dynamischen und risikoreichen Umgebungen optimiert. Basierend auf Markov-Entscheidungsprozessen (MDP) und systemtheoretischen Prinzipien strukturiert das HRT-DF Entscheidungsräume und steuert Zustandsübergänge, um Transformationsbarrieren zu überwinden und unerwünschte in erwünschte Zustände zu überführen.
 
-Das Framework setzt an der Schnittstelle zwischen Beobachtung und Intervention an und ermöglicht es, Handlungsoptionen gezielt zu differenzieren. Entscheidungen werden nur dann getroffen, wenn relevante Unterschiede im System wahrgenommen werden, was eine Reduktion kognitiver Belastung und eine Erhöhung der Handlungssicherheit zur Folge hat.  
+Das Framework setzt an der Schnittstelle zwischen Beobachtung und Intervention an und ermöglicht, Handlungsoptionen gezielt zu differenzieren. Entscheidungen werden nur dann getroffen, wenn relevante Unterschiede im System wahrgenommen werden, was eine Reduktion kognitiver Belastung und eine Erhöhung der Handlungssicherheit zur Folge hat.
 
-Das HRT-DF bietet eine präzise Struktur für Entscheidungsprozesse, die weit über bestehende Modelle hinausgeht und als Grundlage für die erfolgreiche Umsetzung von Crew Resource Management (CRM) in Hochrisikoumgebungen dient. Dabei definiert es klare Zustandsübergänge und Handlungsprioritäten, wodurch Entscheidungsprozesse evidenzbasiert und adaptiv gestaltet werden können.  
+Das HRT-DF bietet eine präzise Struktur für Entscheidungsprozesse, die weit über bestehende Modelle hinausgeht und als Grundlage für die erfolgreiche Umsetzung von Crew Resource Management (CRM) in Hochrisikoumgebungen dient. Dabei definiert es klare Zustandsübergänge und Handlungsprioritäten, wodurch Entscheidungsprozesse evidenzbasiert und adaptiv gestaltet werden können.
 
-Empirische Untersuchungen und Simulationen belegen die Effektivität des HRT-DF in Bereichen wie Notfallmedizin, Luftfahrt und Krisenmanagement. Es trägt maßgeblich zur Optimierung von Ressourcen, zur Reduktion von Fehlentscheidungen und zur Stärkung der Teamleistung in kritischen Situationen bei.  
+Empirische Untersuchungen und Simulationen belegen die Effektivität des HRT-DF in Bereichen wie Notfallmedizin, Luftfahrt und Krisenmanagement. Es trägt maßgeblich zur Optimierung von Ressourcen, zur Reduktion von Fehlentscheidungen und zur Stärkung der Teamleistung in kritischen Situationen bei.
 
-Das HRT-DF ist nicht nur ein Entscheidungswerkzeug, sondern auch eine Grundlage für die Ausbildung und Weiterentwicklung von High Responsibility Teams. Es fördert eine proaktive Sicherheitskultur und bildet ein zentrales Element für nachhaltige [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]] in hochdynamischen Umfeldern.  
+Das HRT-DF ist nicht nur ein Entscheidungswerkzeug, sondern auch eine Grundlage für die Ausbildung und Weiterentwicklung von High Responsibility Teams. Es fördert eine proaktive Sicherheitskultur und bildet ein zentrales Element für nachhaltige [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]] in hochdynamischen Umfeldern.
 
 # Einleitung
 
