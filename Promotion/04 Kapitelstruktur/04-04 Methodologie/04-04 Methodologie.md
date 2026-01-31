@@ -634,7 +634,7 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 \figsubcaption{3D-Projektion der deduktiven $k$-means-Clusterlösung (Quelle: 02-01 Suchergebnisse; $n=3733$, $k=4$, Silhouette-Score: $0{,}9884$). Achsen: Suchbegriffe, Kategorien, Forschungsunterfragen; Farbe: Clusterzugehörigkeit; Punktgröße: Clusterumfang; Labels: dominante Tag- und Eintragstyp-Kombinationen je Cluster.}
 
-Die deduktive 3D-Clusterlösung wird in Abb.~\ref{fig:clusteranalyse-kmeans} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien sowie Forschungsfragen dokumentiert und dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
+Die deduktive 3D-Clusterlösung wird in Abbildung~\ref{fig:clusteranalyse-kmeans} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien sowie Forschungsfragen dokumentiert und dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
 
 Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, während die farbliche Kodierung die thematische Zusammensetzung gemäß der zugrunde liegenden Tag-Struktur auswählt. Der hohe Silhouette-Score ($S = 0{,}9884$) spricht für eine ausgeprägte Trennschärfe in der gewählten Repräsentation und wird hier als Hinweis gelesen, dass die deduktive Vorstrukturierung im Korpus konsistent greift. #todo (#84, 2025-12-25) revision
 
