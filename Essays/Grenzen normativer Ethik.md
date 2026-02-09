@@ -71,29 +71,24 @@ Erst im Anschluss bildet sich Ethik als autopoietische Reflexionssemantik aus. E
 Normative Zuschreibungen von außen können in diesem Prozess Irritationen erzeugen und kommunikative Anschlussfähigkeit entfalten. Sie können jedoch keine interne Ethikproduktion steuern oder ersetzen, da autopoietische Systeme ihre Operationen ausschließlich an eigene Operationen anschließen. Die Unkontrollierbarkeit sozialer Systeme ist dabei keine Schwäche, sondern die Bedingung ihrer Emergenz.
 
 ```mermaid
-stateDiagram-v2
-    direction TD
+graph TD
+    U[Umweltkomplexität, Risiko, Zurechnung] --> P[Profession als Systemleistung]
 
-    Umweltkomplexität --> Strukturelle_Kopplung
-    Strukturelle_Kopplung --> Operative_Geschlossenheit
-    Operative_Geschlossenheit --> Profession
+    P --> W[Wirkung und Rückkopplung]
+    W --> P
 
-    Profession --> Professionszuschreibung
-    Professionszuschreibung --> Umweltkomplexität
+    W --> E[Ethik als Reflexionssemantik]
+    E --> S[Entscheidungsstabilisierung]
+    S --> P
 
-    Profession --> Ethische_Autopoiesis
-    Ethische_Autopoiesis --> Profession
+    P --> Z[Professionszuschreibung, Legitimation]
+    Z --> U
+    Z -. Ressourcen, Autonomie .-> P
 
-    Ethische_Autopoiesis --> Reflexionssemantik
-    Reflexionssemantik --> Entscheidungsstabilisierung
-    Entscheidungsstabilisierung --> Profession
-
-    state Profession {
-        [*] --> Entscheidungsoperationen
-        Entscheidungsoperationen --> Verantwortungszuschreibung
-        Verantwortungszuschreibung --> Entscheidungsoperationen
-    }
+    N[Normative Setzungen, Kodizes] -. Irritation, Anschluss .-> P
+    N -. symbolische Legitimation .-> Z
 ```
+_Abbildung: Schematische Kausalkette professioneller Emergenz und Ethikproduktion (vgl. [[Allgemein beruflich/Research/Systemtheorie/Professionalisierung|Professionalisierungsansatz]])._
 
 ### 3. Professionssoziologische Bedingungen der Möglichkeit
 Klassische Professionssoziologie beschreibt Professionalisierung als Prozess der Zuständigkeits- und Jurisdiktionsbildung. Professionen etablieren exklusive Zuständigkeiten und begründen diese Zuständigkeiten durch Expertise, Ausbildung, Zertifizierung und Selbstregulation (Abbott, 1988). Freidson betont professionelle Autonomie und die Kontrolle über Standards der eigenen Arbeit als zentrale Bedingung (Freidson, 2001). Evetts unterscheidet berufsorganisatorische und professionelle Logiken und beschreibt Spannungen zwischen organisationaler Steuerung und professioneller Autonomie (Evetts, 2011).
