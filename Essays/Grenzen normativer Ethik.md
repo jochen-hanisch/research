@@ -15,7 +15,7 @@ created: 9.2.2026 | [updated](https://github.com/jochen-hanisch/research/blob/ma
 # Über die ethische Konstruktion systemtheoretischer Profession
 
 ## Einleitung
-Die folgende Argumentation prüft einen verbreiteten Zugriff in der professionsbezogenen Ethikforschung: Normative Ethik wird häufig als vorgängiger Rahmen behandelt, der eine Berufsgruppe durch Kodizes, Leitlinien oder Konsensverfahren auf eine gemeinsame Soll-Orientierung verpflichtet. Ein systemtheoretisch und konstruktivistisch gerahmter Professionsbegriff führt zu einer anderen Ordnung: Profession erscheint als operative Systemleistung, Ethik erscheint als emergentes Nebenprodukt professioneller Operationen unter Kontingenz, Risiko und Verantwortungszuschreibung. Normative Setzungen können diese Emergenz nicht ersetzen. Normative Setzungen können lediglich Zuschreibungen erzeugen, die sich kommunikativ stabilisieren, ohne eine entsprechende operative Grundlage zu besitzen.
+Die folgende Argumentation setzt theoriezentriert an: In einem systemtheoretisch und konstruktivistisch gerahmten Professionsbegriff erscheint Profession als operative Systemleistung, und Ethik entsteht als emergente Reflexionssemantik professioneller Operationen unter Kontingenz, Risiko und Verantwortungszuschreibung. Normative Setzungen können diese Emergenz nicht ersetzen; sie können lediglich Zuschreibungen erzeugen, die sich kommunikativ stabilisieren, ohne eine entsprechende operative Grundlage zu besitzen. Vor diesem Hintergrund wird ein verbreiteter Zugriff in der professionsbezogenen Ethikforschung geprüft, der normative Ethik als vorgängigen Rahmen behandelt und Berufsgruppen über Kodizes, Leitlinien oder Konsensverfahren (z.B. Delphi) auf eine gemeinsame Soll-Orientierung verpflichtet.
 
 Die Argumentation verbindet zwei Perspektiven.
 
@@ -28,6 +28,8 @@ In einem Feld, das überwiegend deskriptiv beforscht wird, entsteht eine struktu
 
 Die zentrale Frage lautet daher: Unter welchen Bedingungen ist eine normative Ethik für ein Feld epistemisch redlich, wenn Professionalisierung als Systemleistung noch nicht operativ ausgewiesen ist und Forschungslagen primär deskriptiv bleiben.
 
+Die These des Textes ist dabei nicht an ein bestimmtes Verfahren gebunden. Normativ-konsensorientierte Verfahren (z.B. Konsensverfahren, Leitlinienprozesse, Kodizes) fungieren im Folgenden lediglich als Fallbeispiele, um die Differenz zwischen Zuschreibung (normatives Dokument) und Emergenz (professionelle Ethik als Systemleistung) sichtbar zu machen; Delphi dient dabei pars pro toto als ausgearbeitetes Beispiel.
+
 ## Begriffsarbeit
 ### Normativität
 Normativität bezeichnet Sollensansprüche, die Handeln orientieren und begründen sollen. Normative Aussagen zielen auf Geltung. Normative Aussagen benötigen eine Begründungsform, die über Beschreibung hinausgeht. Normative Aussagen können pragmatisch legitimiert werden, wenn ein Kollektiv Regeln für Koordination benötigt. Normative Aussagen können wissenschaftlich legitimiert werden, wenn die Bedingungen der Geltung transparent ausgewiesen werden.
@@ -37,6 +39,12 @@ Deskription bezeichnet die Beschreibung von Zuständen, Praktiken, Selbstbericht
 
 ### Konstruktion
 Konstruktion bezeichnet Prozesse der Sinnherstellung und Stabilisierung sozialer Wirklichkeit. Konstruktion ist keine Beliebigkeit. Konstruktion beschreibt Mechanismen, über die Zuschreibungen, Kategorien und Institutionen handlungswirksam werden (Berger & Luckmann, 1966; Gergen, 1999).
+
+### Moral (systemtheoretisch)
+Moral ist in der Systemtheorie keine Normenlehre und keine Ethik. Moral bezeichnet eine Beobachtungsform von Kommunikation, die sich an der Unterscheidung Achtung/Missachtung orientiert. Moral adressiert Personen kommunikativ, personalisiert Erwartungen und kann dadurch Anschlussmöglichkeiten verengen, weil sie schnell Schuld, Vorwurf und Rechtfertigungsdruck erzeugt. Moral „trifft“ psychische oder lebende Systeme nicht kausal; sie irritiert sie kommunikativ und koppelt sich an Erwartungen, Verantwortung und Anerkennung.
+
+### Ethik (systemtheoretisch)
+Ethik ist in dieser Perspektive keine Steuerungsinstanz, sondern eine reflexive Semantik: eine Beobachtung zweiter Ordnung, die beschreibt, wie moralische Kommunikation funktioniert, welche Paradoxien sie erzeugt und wie sie legitimiert wird. Wenn Kommunikation im Medium Sinn operiert und Semantiken stabilisierte Sinnangebote darstellen, dann lässt sich Ethik als spezialisierte Sinnkonstruktion verstehen, die moralische Kommunikation ordnet. Für professionelle Kontexte heißt das: Ethik entsteht nur dort, wo das professionelle System diese Sinnform intern reproduziert; externe normative Setzungen können sie höchstens als Sinnangebot irritieren.
 
 ### Profession im systemtheoretischen Zugriff
 Ein systemtheoretischer Professionsbegriff fokussiert weniger Status und mehr Operation. Profession bezeichnet dann eine Form der Entscheidungs- und Verantwortungsfähigkeit in einem funktional differenzierten Umfeld. Professionen stabilisieren Erwartungssicherheit, indem sie in Situationen hoher Kontingenz Entscheidungen treffen, die an Zurechnung gekoppelt sind. Klassische Professionssoziologie beschreibt dafür Jurisdiktionen, Zuständigkeitsgrenzen und Konkurrenzordnungen (Abbott, 1988) sowie Autonomie und Selbstkontrolle als zentrale Strukturmerkmale (Freidson, 2001). Systemtheorie ergänzt diese Perspektive durch die Frage nach operativer Geschlossenheit, Anschlussfähigkeit und Selbstreferenz als Bedingungen stabiler Reproduktion (Luhmann, 1995).
@@ -53,7 +61,7 @@ Soziale Wirklichkeit entsteht durch fortgesetzte Zuschreibung, Institutionalisie
 Diese Perspektive erlaubt eine präzise Diagnose: Ein normatives Dokument kann in der Kommunikation hoch wirksam sein, auch wenn keine operative Praxisbasis existiert. Ein normatives Dokument kann Stabilität durch Symbolik erzeugen.
 
 ### 2. Systemtheoretische Emergenz von Normen
-Autopoietische Systeme (hier: professionelle Entscheidungs‑ und Verantwortungsregime) reproduzieren Operationen durch Anschluss an eigene Operationen. Systeme erzeugen Sinnformen, die interne Anschlussfähigkeit sichern. Normen und Werte erscheinen in der Systemtheorie als Semantiken, die Komplexität reduzieren und Erwartungen stabilisieren. Normen entstehen als systeminterne Lösung für wiederkehrende Entscheidungslagen, die Zurechnung erfordern (Luhmann, 1995). Eine Profession als spezifische Form systemischer Entscheidungsfähigkeit erzeugt daher normative Orientierungen, sobald professionelle Operationen wiederholt mit Verantwortung, Risiko und Ungewissheit konfrontiert werden.
+Autopoietische Systeme (hier: professionelle Entscheidungs‑ und Verantwortungsregime) reproduzieren Operationen durch Anschluss an eigene Operationen. Systeme erzeugen Sinnformen, die interne Anschlussfähigkeit sichern. Normen und Werte erscheinen in der Systemtheorie als Semantiken, die Komplexität reduzieren und Erwartungen stabilisieren. Normen entstehen als systeminterne Lösung für wiederkehrende Entscheidungslagen, die Zurechnung erfordern (Luhmann, 1995). Moralische Kommunikation fungiert dabei als spezifische Beobachtungsform (Achtung/Missachtung), die Verantwortung personalisiert und damit sowohl Anschluss ermöglicht als auch eskalationsanfällig ist. Ethik entsteht in dieser Perspektive nicht als externe Vorgabe, sondern als reflexive Semantik, die moralische Kommunikation im System bearbeitbar macht.
 
 Daraus folgt eine Umkehrung gängiger Logik: Ethik ist kein Startpunkt einer Profession. Ethik ist ein Produkt professioneller Operationen. Eine Profession produziert Ethik, sobald professionelle Praxis stabile Muster der Verantwortungszuschreibung ausbildet.
 
@@ -88,15 +96,28 @@ graph TD
     N[Normative Setzungen, Kodizes] -. Irritation, Anschluss .-> P
     N -. symbolische Legitimation .-> Z
 ```
-_Abbildung: Schematische Kausalkette professioneller Emergenz und Ethikproduktion (vgl. [[Allgemein beruflich/Research/Systemtheorie/Professionalisierung|Professionalisierungsansatz]])._
+_Abbildung 1: Schematische Kausalkette professioneller Emergenz und Ethikproduktion (i.V.m. [[Professionalisierung]]). Das Diagramm zeigt eine Kausalkette professioneller Emergenz: Aus Umweltkomplexität, Risiko, Zurechnung (U) bildet sich Profession als Systemleistung (P) heraus. Profession (P) erzeugt Wirkung und Rückkopplung (W); diese Rückkopplung fließt wieder in Profession (P) ein und stabilisiert/kalibriert weitere Operationen. Aus Wirkung/Rückkopplung (W) entsteht Ethik als Reflexionssemantik (E), die Entscheidungsstabilisierung (S) leistet und damit wiederum Profession (P) stützt.
+Parallel dazu erzeugt Profession (P) Professionszuschreibung/Legitimation (Z); diese Zuschreibung wirkt in die Umwelt zurück (Z → U) und wirkt zugleich (gestrichelt) fördernd auf die Systemleistung (Z → P) über Ressourcen- und Autonomieeffekte. Normative Setzungen/Kodizes (N) sind als externe Inputs modelliert: Sie können Profession (P) irritieren/anschlussfähig machen und Zuschreibung/Legitimation (Z) symbolisch stützen, ersetzen aber nicht die interne Ethikproduktion._
 
 ### 3. Professionssoziologische Bedingungen der Möglichkeit
 Klassische Professionssoziologie beschreibt Professionalisierung als Prozess der Zuständigkeits- und Jurisdiktionsbildung. Professionen etablieren exklusive Zuständigkeiten und begründen diese Zuständigkeiten durch Expertise, Ausbildung, Zertifizierung und Selbstregulation (Abbott, 1988). Freidson betont professionelle Autonomie und die Kontrolle über Standards der eigenen Arbeit als zentrale Bedingung (Freidson, 2001). Evetts unterscheidet berufsorganisatorische und professionelle Logiken und beschreibt Spannungen zwischen organisationaler Steuerung und professioneller Autonomie (Evetts, 2011).
 
 Diese Bedingungen sind nicht dekorativ. Diese Bedingungen definieren die Möglichkeit, dass eine Profession normative Orientierungen aus eigener Praxis heraus stabilisiert. Eine Berufsgruppe ohne autonome Jurisdiktion und ohne stabile Selbstregulation kann Normen kommunizieren. Eine Berufsgruppe ohne autonome Jurisdiktion und ohne stabile Selbstregulation kann Ethik nicht als eigene Systemleistung institutionalisieren.
 
-## Konsequenz für normativ-konsensorientierte Verfahren
-### Delphi als Konsensverfahren
+## Fallbeispiele: Normativ-konsensorientierte Verfahren
+
+Normativ-konsensorientierte Verfahren treten in unterschiedlichen Formaten auf. Gemeinsam ist ihnen, dass sie Sollensansprüche kommunikativ stabilisieren und damit Anschlussfähigkeit erzeugen können, ohne die operative Bedingung professioneller Ethikproduktion zu ersetzen.
+
+Typische Verfahrenstypen sind:
+
+1. **Konsensverfahren** (z.B. Delphi, Konsensuskonferenz, Nominal Group, RAND/UCLA): Aggregation und Stabilisierung von Urteilen unter Unsicherheit.
+2. **Leitlinien- und Standardisierungsverfahren** (z.B. Leitliniengruppen, Expertenpanels, Standardsets): Verdichtung von Erwartungen in handlungsleitende Regeln.
+3. **Kodifizierungs- und Ethikkodexverfahren** (z.B. Berufsordnungen, Kodizes, Rahmenempfehlungen): Formale Soll-Formulierungen zur Koordination und Legitimation.
+4. **Positions- und Policy-Papiere** (z.B. Stellungnahmen, Positionspapiere, Konsenspapiere): symbolische Setzungen mit politischer und organisationaler Verwendbarkeit.
+
+Die folgenden Ausführungen nutzen Delphi pars pro toto als Illustration der zuvor hergeleiteten These, nicht als Zielpunkt der Argumentation.
+
+### Beispiel: Delphi als Konsensverfahren
 Delphi-Verfahren werden häufig als strukturierte Expertinnen- und Expertenbefragung genutzt. Delphi-Verfahren nutzen Iteration, Feedback und Aggregation, um Urteile in komplexen Feldern zu strukturieren (Dalkey & Helmer, 1963; Linstone & Turoff, 1975). Viele Anwendungen zielen auf Konsens. Konsens ist methodisch möglich. Konsens ist nicht automatisch epistemische Geltung.
 
 Ein Delphi-Design mit a priori definierten Konsenskriterien verschiebt den Status des Verfahrens: Das Verfahren produziert eine normative Setzung, wenn das Verfahren keinen legitimen Endzustand für stabilen Dissens vorsieht. Der Verfahrensstatus bleibt formal Delphi. Die Verfahrensfunktion entspricht dann einer Normsetzungsmaschine.
@@ -137,7 +158,7 @@ Die Argumentation richtet sich nicht gegen Ethik. Die Argumentation richtet sich
 Eine professionsethische Semantik kann in einem Feld ohne professionelle Autonomie eine wichtige Koordinationsleistung erbringen. Diese Koordinationsleistung ist praktisch relevant. Diese Koordinationsleistung ist epistemisch begrenzt. Eine Koordinationsleistung ersetzt keine professionelle Ethik als Systemleistung.
 
 ## Schluss
-Eine systemtheoretisch gefasste Profession produziert Ethik aus ihrer operativen Praxis. Normative Setzungen können diese Produktion nicht substituieren. Konsensorientierte Verfahren können normative Dokumente liefern. Konsensorientierte Verfahren liefern keine emergente Professionsethik. Ein deskriptives Forschungsfeld besitzt daher eine Begründungspflicht, sobald normative Produkte als quasi-wissenschaftliche Ergebnisse kommuniziert werden.
+Eine systemtheoretisch gefasste Profession produziert Ethik aus ihrer operativen Praxis. Normative Setzungen können diese Produktion nicht substituieren. Normativ-konsensorientierte Verfahren (z.B. Konsensverfahren, Leitlinienprozesse, Kodizes, Positionspapiere) können normative Dokumente liefern. Sie liefern jedoch keine emergente Professionsethik. Ein deskriptives Forschungsfeld besitzt daher eine Begründungspflicht, sobald normative Produkte als quasi-wissenschaftliche Ergebnisse kommuniziert werden.
 
 # Quelle(n)
 
