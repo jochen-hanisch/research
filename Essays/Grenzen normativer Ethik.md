@@ -1,6 +1,6 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Essay über die Grenzen normativer Ethik in einem nicht-professionalisierten, überwiegend deskriptiv beforschten Feld
+title: Über die ethische Konstruktion systemtheoretischer Profession
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2026-02-09
 updated: 2026-02-09
@@ -41,6 +41,8 @@ Konstruktion bezeichnet Prozesse der Sinnherstellung und Stabilisierung sozialer
 ### Profession im systemtheoretischen Zugriff
 Ein systemtheoretischer Professionsbegriff fokussiert weniger Status und mehr Operation. Profession bezeichnet dann eine Form der Entscheidungs- und Verantwortungsfähigkeit in einem funktional differenzierten Umfeld. Professionen stabilisieren Erwartungssicherheit, indem sie in Situationen hoher Kontingenz Entscheidungen treffen, die an Zurechnung gekoppelt sind. Klassische Professionssoziologie beschreibt dafür Jurisdiktionen, Zuständigkeitsgrenzen und Konkurrenzordnungen (Abbott, 1988) sowie Autonomie und Selbstkontrolle als zentrale Strukturmerkmale (Freidson, 2001). Systemtheorie ergänzt diese Perspektive durch die Frage nach operativer Geschlossenheit, Anschlussfähigkeit und Selbstreferenz als Bedingungen stabiler Reproduktion (Luhmann, 1995).
 
+„System“ meint hier kein eigenständiges Funktionssystem, sondern ein innerhalb von Funktionssystemen (und häufig organisationsförmig) ausgebildetes, operativ geschlossenes Entscheidungs‑ und Verantwortungsregime (Subregime/Systemleistung). In dieser Lesart ist Profession keine Statuskategorie, sondern eine spezifische Form wiederkehrender Operation unter Risiko, Kontingenz und Zurechnung.
+
 ## These
 Eine Profession im systemtheoretischen Sinn bringt Ethik als eigene Systemleistung hervor. Ethik entsteht als interne Semantik der Verantwortungszuschreibung, die professionelle Operationen unter Risiko und Kontingenz stabilisiert. Externe normative Setzungen können diese Leistung nicht erzeugen. Externe normative Setzungen können eine Ethik lediglich zuschreiben.
 
@@ -51,9 +53,47 @@ Soziale Wirklichkeit entsteht durch fortgesetzte Zuschreibung, Institutionalisie
 Diese Perspektive erlaubt eine präzise Diagnose: Ein normatives Dokument kann in der Kommunikation hoch wirksam sein, auch wenn keine operative Praxisbasis existiert. Ein normatives Dokument kann Stabilität durch Symbolik erzeugen.
 
 ### 2. Systemtheoretische Emergenz von Normen
-Autopoietische Systeme reproduzieren Operationen durch Anschluss an eigene Operationen. Systeme erzeugen Sinnformen, die interne Anschlussfähigkeit sichern. Normen und Werte erscheinen in der Systemtheorie als Semantiken, die Komplexität reduzieren und Erwartungen stabilisieren. Normen entstehen als systeminterne Lösung für wiederkehrende Entscheidungslagen, die Zurechnung erfordern (Luhmann, 1995). Eine Profession als spezifische Form systemischer Entscheidungsfähigkeit erzeugt daher normative Orientierungen, sobald professionelle Operationen wiederholt mit Verantwortung, Risiko und Ungewissheit konfrontiert werden.
+Autopoietische Systeme (hier: professionelle Entscheidungs‑ und Verantwortungsregime) reproduzieren Operationen durch Anschluss an eigene Operationen. Systeme erzeugen Sinnformen, die interne Anschlussfähigkeit sichern. Normen und Werte erscheinen in der Systemtheorie als Semantiken, die Komplexität reduzieren und Erwartungen stabilisieren. Normen entstehen als systeminterne Lösung für wiederkehrende Entscheidungslagen, die Zurechnung erfordern (Luhmann, 1995). Eine Profession als spezifische Form systemischer Entscheidungsfähigkeit erzeugt daher normative Orientierungen, sobald professionelle Operationen wiederholt mit Verantwortung, Risiko und Ungewissheit konfrontiert werden.
 
 Daraus folgt eine Umkehrung gängiger Logik: Ethik ist kein Startpunkt einer Profession. Ethik ist ein Produkt professioneller Operationen. Eine Profession produziert Ethik, sobald professionelle Praxis stabile Muster der Verantwortungszuschreibung ausbildet.
+
+### 4. Systemtheoretische Kausalkette professioneller Emergenz
+Die Entstehung professioneller Ethik lässt sich systemtheoretisch als mehrstufiger Emergenzprozess beschreiben, der ohne vorgängige normative Setzungen auskommt und sich aus Umweltbezügen und operativer Stabilisierung speist.
+
+Am Anfang steht Umweltkomplexität. Wiederkehrende Anforderungen, Zeitdruck, Risiko und Verantwortungszuschreibung erzeugen Erwartungsdruck auf soziale Arrangements. Dieser Erwartungsdruck führt zur Ausbildung struktureller Kopplungen zwischen unterschiedlichen Funktionssystemen und organisationalen Kontexten, etwa zwischen Recht, Medizin, Organisation und situativer Praxis.
+
+Aus struktureller Kopplung entsteht operative Geschlossenheit. Wiederholte Entscheidungsanforderungen stabilisieren eigene Entscheidungsoperationen, die intern anschlussfähig werden. Diese Operationen bilden ein eigenständiges Entscheidungs- und Verantwortungsregime aus. In dieser Phase lässt sich von Profession im systemtheoretischen Sinn sprechen. Profession erscheint hier als emergente Systemleistung, die ihre Stabilität aus der Wiederholbarkeit eigener Operationen gewinnt.
+
+Auf Grundlage dieser operativen Geschlossenheit erfolgt eine umweltbezogene Professionszuschreibung. Die Umwelt beobachtet stabile Entscheidungsleistungen und beschreibt diese als professionell. Diese Zuschreibung ist nachgelagert. Sie folgt der beobachtbaren Systemleistung und wirkt beschreibend, nicht konstitutiv.
+
+Erst im Anschluss bildet sich Ethik als autopoietische Reflexionssemantik aus. Ethik entsteht als systeminterne Sinnform, die Verantwortungszuschreibung, Entscheidungsparadoxien und Erwartungsenttäuschungen bearbeitbar macht. Diese Ethik reproduziert sich über die eigenen Operationen des Systems und bleibt an dessen Autopoiesis gebunden.
+
+Normative Zuschreibungen von außen können in diesem Prozess Irritationen erzeugen und kommunikative Anschlussfähigkeit entfalten. Sie können jedoch keine interne Ethikproduktion steuern oder ersetzen, da autopoietische Systeme ihre Operationen ausschließlich an eigene Operationen anschließen. Die Unkontrollierbarkeit sozialer Systeme ist dabei keine Schwäche, sondern die Bedingung ihrer Emergenz.
+
+```mermaid
+stateDiagram-v2
+    direction TD
+
+    Umweltkomplexität --> Strukturelle_Kopplung
+    Strukturelle_Kopplung --> Operative_Geschlossenheit
+    Operative_Geschlossenheit --> Profession
+
+    Profession --> Professionszuschreibung
+    Professionszuschreibung --> Umweltkomplexität
+
+    Profession --> Ethische_Autopoiesis
+    Ethische_Autopoiesis --> Profession
+
+    Ethische_Autopoiesis --> Reflexionssemantik
+    Reflexionssemantik --> Entscheidungsstabilisierung
+    Entscheidungsstabilisierung --> Profession
+
+    state Profession {
+        [*] --> Entscheidungsoperationen
+        Entscheidungsoperationen --> Verantwortungszuschreibung
+        Verantwortungszuschreibung --> Entscheidungsoperationen
+    }
+```
 
 ### 3. Professionssoziologische Bedingungen der Möglichkeit
 Klassische Professionssoziologie beschreibt Professionalisierung als Prozess der Zuständigkeits- und Jurisdiktionsbildung. Professionen etablieren exklusive Zuständigkeiten und begründen diese Zuständigkeiten durch Expertise, Ausbildung, Zertifizierung und Selbstregulation (Abbott, 1988). Freidson betont professionelle Autonomie und die Kontrolle über Standards der eigenen Arbeit als zentrale Bedingung (Freidson, 2001). Evetts unterscheidet berufsorganisatorische und professionelle Logiken und beschreibt Spannungen zwischen organisationaler Steuerung und professioneller Autonomie (Evetts, 2011).
@@ -104,20 +144,13 @@ Eine professionsethische Semantik kann in einem Feld ohne professionelle Autonom
 ## Schluss
 Eine systemtheoretisch gefasste Profession produziert Ethik aus ihrer operativen Praxis. Normative Setzungen können diese Produktion nicht substituieren. Konsensorientierte Verfahren können normative Dokumente liefern. Konsensorientierte Verfahren liefern keine emergente Professionsethik. Ein deskriptives Forschungsfeld besitzt daher eine Begründungspflicht, sobald normative Produkte als quasi-wissenschaftliche Ergebnisse kommuniziert werden.
 
-## Literatur
+# Quelle(n)
+
 Abbott, A. (1988). *The system of professions: An essay on the division of expert labor*. University of Chicago Press.
-
 Berger, P. L., & Luckmann, T. (1966). *The social construction of reality: A treatise in the sociology of knowledge*. Anchor Books.
-
 Dalkey, N., & Helmer, O. (1963). An experimental application of the Delphi method to the use of experts. *Management Science, 9*(3), 458–467.
-
 Evetts, J. (2011). A new professionalism? Challenges and opportunities. *Current Sociology, 59*(4), 406–422.
-
 Freidson, E. (2001). *Professionalism: The third logic*. University of Chicago Press.
-
 Gergen, K. J. (1999). *An invitation to social construction*. Sage.
-
 Linstone, H. A., & Turoff, M. (Eds.). (1975). *The Delphi method: Techniques and applications*. Addison-Wesley.
-
 Luhmann, N. (1995). *Social systems* (J. Bednarz Jr. & D. Baecker, Trans.). Stanford University Press. (Original work published 1984)
-
