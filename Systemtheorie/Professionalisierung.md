@@ -3,7 +3,7 @@ author: Jochen Hanisch
 title: Systemtheoretischer Professionalisierungsansatz
 Repository: 
 created: 2024-12-05
-updated: 2025-07-21
+updated: 2026-02-09
 publish: true
 tags:
   - Professionalisierung
@@ -17,7 +17,7 @@ project: []
 GPT: true
 ---
 
-created: 05.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 21.7.2025 | [published](https://zenodo.org/records/16284826): 27.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
+created: 05.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 9.1.2026 | [published](https://zenodo.org/records/16284826): 27.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
 
 **Systemtheoretischer Professionalisierungsansatz**
 
@@ -35,7 +35,9 @@ Das Erkenntnisinteresse liegt insbesondere in der Fähigkeit, Professionen opera
 
 Professionen sind autopoetische [[Systeme]] mit einfacher, asymmetrisch-strukturellen Kopplung, die mittels der [[Elementaroperationen]] ihre System-Umwelt-Unterscheidung konstruieren und dadurch wirksam werden.
 
-Der systemtheoretische Ansatz zur Definition von Professionen basiert auf wenigen, aber hochdynamischen Kennzeichen. Autopoiesis, asymmetrische Kopplung, [[Elementaroperationen]] und die System-Umwelt-Unterscheidung interagieren in einem zyklischen Prozess und verleihen Professionen ihre strukturelle Stabilität sowie ihre Fähigkeit zur kontinuierlichen Weiterentwicklung. Professionen zeichnen sich durch spezifische systemische Merkmale aus, die ihre Funktionsweise, Stabilität und gesellschaftliche Wirksamkeit bestimmen. Diese Merkmale lassen sich auf vier zentrale Prämissen zurückführen:  
+‚Autopoietisches System‘ meint hier ein innerhalb von Funktionssystemen (und häufig organisationsförmig) ausgebildetes, operativ geschlossenes Entscheidungs‑ und Verantwortungsregime (Subregime/Systemleistung).
+
+Der systemtheoretische Ansatz zur Definition von Professionen basiert auf wenigen, aber hochdynamischen Kennzeichen. Autopoiesis, asymmetrische Kopplung, [[Elementaroperationen]] und die System-Umwelt-Unterscheidung interagieren in einem zyklischen Prozess und verleihen Professionen ihre strukturelle Stabilität sowie ihre Fähigkeit zur kontinuierlichen Weiterentwicklung. Professionen zeichnen sich durch spezifische systemische Merkmale aus, die ihre Funktionsweise, Stabilität und gesellschaftliche Wirksamkeit bestimmen. Diese Merkmale lassen sich auf vier zentrale Prämissen zurückführen:
 
 **1. System-Umwelt-Unterscheidung**  
 Professionen sind in der Lage, relevante Differenzen zwischen ihrem eigenen System und der Umwelt zu erkennen, zu beschreiben und zu interpretieren. Diese Differenzierung bildet die Grundlage für Entscheidungen und Handlungen, die innerhalb des Systems getroffen werden und sich gleichzeitig auf die Umwelt auswirken. Die Fähigkeit zur System-Umwelt-Unterscheidung ermöglicht es, komplexe Umweltanforderungen zu strukturieren und selektiv zu verarbeiten.  
@@ -196,7 +198,7 @@ Professionen übernehmen zudem eine wichtige Rolle bei der Reduktion von Komplex
 
 Die historische Entwicklung von Professionen zeigt, dass ihre gesellschaftliche Stellung durch die Fähigkeit zur Übernahme von Verantwortung und zur Legitimation von Entscheidungen geprägt ist. Professionen besitzen die Kompetenz, in hochsensiblen Bereichen wie Gesundheit, Recht und Bildung tiefgreifende Entscheidungen zu treffen, die das Leben und Wohl von Individuen maßgeblich beeinflussen. Diese Legitimation resultiert jedoch nicht aus einer systemischen Eigenlogik, sondern ist das Produkt gesellschaftlicher und kultureller Prozesse, die den Professionen diese Rolle zuschreiben.  
 
-Systemtheoretisch betrachtet sind Professionen keine eigenständigen sozialen [[Systeme]], sondern Rollen innerhalb von Funktionssystemen. Ihre Bedeutung und Legitimation gewinnen sie durch ihre Reflexivität, ihre Vermittlungsrolle und ihre Fähigkeit zur System-Umwelt-Unterscheidung. Obwohl sie keine autarken Einheiten darstellen, übernehmen Professionen eine zentrale gesellschaftliche Funktion, indem sie an den Schnittstellen verschiedener Funktionssysteme agieren und zur Integration und Stabilisierung sozialer Prozesse beitragen.
+Systemtheoretisch betrachtet sind Professionen keine eigenständigen Funktionssysteme, sondern Rollen innerhalb von Funktionssystemen. Ihre Bedeutung und Legitimation gewinnen sie durch ihre Reflexivität, ihre Vermittlungsrolle und ihre Fähigkeit zur System-Umwelt-Unterscheidung. Obwohl sie keine autarken Einheiten darstellen, übernehmen Professionen eine zentrale gesellschaftliche Funktion, indem sie an den Schnittstellen verschiedener Funktionssysteme agieren und zur Integration und Stabilisierung sozialer Prozesse beitragen.
 
 ## 2.3 Systemtheoretischer Professionsansatz  
 
