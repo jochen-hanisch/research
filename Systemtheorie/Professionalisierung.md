@@ -73,7 +73,7 @@ Die Wirksamkeit professionellen Handelns ergibt sich aus der Fähigkeit, durch [
 Das Systemtheoretische Professionalisierungsmodell beschreibt die systemischen Wechselwirkungen von Professionen durch System-Umwelt-Unterscheidungen, [[Elementaroperationen]] und asymmetrisch-strukturelle Kopplung. Im Zentrum steht die [[Wirkung]], die aus Differenzierung und Entscheidungsgrundlagen hervorgeht. Sie beeinflusst [[Systeme]] durch Rückkopplung, Anpassung und Einflussnahme.
 
 ```mermaid
-flowchart TD
+graph TD
 
 %% System-Umwelt-Unterscheidung
 subgraph A[System-Umwelt-Unterscheidung]
@@ -83,15 +83,15 @@ end
 
 %% Wirkung
 subgraph B[Wirkung]
-    B1[Einfluss auf externe [[Systeme]]]
+    B1[Einfluss auf externe Systeme]
     B2[Rückkopplung von Konsequenzen]
 end
 
 %% Elementar-Operationen
-subgraph C[[[Elementaroperationen]]]
-    C1[[[Feedback]]]
-    C2[[[Reflexion]]]
-    C3[[[Re-entry]]]
+subgraph C[Elementaroperationen]
+    C1[Feedback]
+    C2[Reflexion]
+    C3[Re-entry]
 end
 
 %% Asymmetrisch-strukturelle Kopplung
@@ -100,22 +100,21 @@ subgraph D[Asymmetrisch-strukturelle Kopplung]
     D2[Verantwortung und Legitimation]
 end
 
-%% Verbindungen zwischen Subgraphen
-A --> B
-B --> C
-C --> B
-B --> D
-D --> A
-
 %% Interne Verbindungen
 A1 --> A2
 B1 --> B2
-C1 ==> C2
-C2 ==> C3
-C3 ==> C1
-C --> A
-C --> D
+C1 --> C2
+C2 --> C3
+C3 --> C1
 D1 --> D2
+
+%% Verbindungen zwischen Subsystemen
+A2 --> B1
+B2 --> C1
+C3 --> A1
+B2 --> D1
+C3 --> D2
+D2 --> A1
 
 ```
 _Abbildung 1: Ganzheitliches Modell der Professionalisierung auf Basis systemtheoretischer Prinzipien (eig. Abbildung)_
