@@ -118,7 +118,7 @@ Das Modell versteht digitale Bildungsräume als Wirkgefüge, deren zentrale Stru
 - Bewertung der eingesetzten Methoden (\hyperref[sec:Methodologie]{Kapitel 4}) und ihrer Grenzen.
 - Diskurs über Validität, Reliabilität und Generalisierbarkeit der Befunde.
 
-#todo (#14) In einem Unterabschnitt explizit den methodischen Mehrwert der entwickelten Literaturpipeline (systematische Suche, Tagging, KI-Unterstützung, mdaCV) gegenüber klassischen Reviews herausarbeiten und als eigenständigen Beitrag der Dissertation markieren.
+#todo (#14) In einem Unterabschnitt explizit den methodischen Mehrwert der entwickelten Literaturpipeline (systematische Suche, Tagging, LLM-Unterstützung, mdaCV) gegenüber klassischen Reviews herausarbeiten und als eigenständigen Beitrag der Dissertation markieren.
 
 ### 6.4.1 Konstrukte, Selbstbericht und Datenspur {#sec:Diskussion-Konstrukte-Datenspur}
 
