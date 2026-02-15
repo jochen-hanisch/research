@@ -246,6 +246,7 @@ Für die Gestaltung folgt daraus die Lesart digitaler Systeme als Vorbereitung v
 Diese Perspektive wird in der simulationsgestützten Modellierung als begriffliche und operative Folie weitergeführt. PE werden dort als kategoriale, variierende Einflussimpulse operationalisiert, um die Sensitivität der modellierten Annahmestruktur unter Variation solcher Impulse als zeitliche Verläufe darstellbar zu machen; es wird damit nicht „Kompetenzentwicklung“ als empirische Wirklichkeit simuliert, sondern die Robustheit und Kippstellenlogik der theoretischen Kopplungsannahmen exploriert (Abschnitt \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}). [@hanisch-johannsen_simulation_2025]
 
 #todo (#77, 2025-12-25) revision PE Kategorien als operationales Raster dokumentieren (2.1.4)
+
 Für die spätere Operationalisierung werden persönliche Ereignisse im Modell als Kategorien geführt, die sich an der Richtung der zugrunde liegenden Attribution (eher intern/eher extern) und an der Valenz (stabilisierend/modulierend/destabilisierend) orientieren. Das Raster dient der transparenten Dokumentation, wie PE in der Simulation parametriert werden. Es besitzt den Status eines heuristischen Ordnungsschemas innerhalb der Modellierung und bildet die Grundlage dafür, PE bezogene Dynamiken in Verläufen, Unsicherheitsgrößen und Kippstelleninterpretationen nachvollziehbar zu machen. [@hanisch-johannsen_simulation_2025]
 
 Table Kategorien persönlicher Ereignisse (PE) als Modellraster \label{tab:pe-kategorien}
@@ -305,6 +306,7 @@ Wissenschaftstheorie rahmt diese Arbeit als Reflexion über Möglichkeiten und G
 Im Hintergrund steht Theorie Praxis Problem, das aus Wissensformen, Können und Legitimation akademischer Ausbildung hervorgeht und damit Verhältnis von Disziplin und Profession sowie Verhältnis von Begründung und Handeln in pädagogischen Feldern strukturiert. [@huber_theorie-praxis-problem_2023, Seite 621]
 
 ### 2.2.1 Einleitung und Übersicht zur Theorie {#sec:Einleitung-Theorie}
+
 \label{term:einleitung-theorie}
 
 Als Leitfragen
@@ -321,6 +323,7 @@ Didaktik wird als wissenschaftlicher Terminus mit unterschiedlichen Bestimmungen
 Menschenbilder werden als bewusste oder unbewusste Vorstellungen gefasst, die Wahrnehmung, Bewertung und Handeln gegenüber Lernenden strukturieren und damit in didaktischen und institutionellen Entscheidungen wirksam werden. [@huber_menschenbilder_2023, Seite 369]
 
 ### 2.2.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}
+
 \label{term:systemisch-konstruktivistische-theorie}
 
 ---
@@ -380,6 +383,9 @@ Daraus ergibt sich als didaktische Konsequenz eine Gestaltung, die Anschlussfäh
 
 ### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Instruktionistisch}
 \label{term:paradigma-instruktionistisch}
+
+#todo (#79, 2026-02-15) 2.2.3–2.2.5 stilistisch entglätten (nach inhaltlicher Vertiefung): Zwischenschritte/Begründungen sichtbar machen (nicht nur Raster erfüllen), Symmetrie an geeigneten Stellen brechen, formelhafte Übergänge („Deckungsgleich/Verschieden“) durch argumentatives Gewichtungsvokabular ersetzen.
+#todo (#80, 2026-02-15) 2.2.3–2.2.5 inhaltlich vertiefen: pro Paradigma prüfen, ob tatsächlich rekonstruiert (Wirkannahmen + Kausalpläne) statt klassifiziert; konstruktivistische Lesart jeweils explizit herleiten; Differenzen als Wirkannahmen klar ausbuchstabieren; Belege prüfen/vertiefen.
 
 Die instruktionistische Position wird hier als Kontrastfolie rekonstruiert, um die Reichweite systemisch‑konstruktivistischer Annahmen präzise zu bestimmen. Die Rekonstruktion folgt den identischen sieben Dimensionen:
 
@@ -514,6 +520,10 @@ Zeigen, dass Lernparadigmen immer in anthropologische und gesellschaftstheoretis
 ### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 \label{term:paradigmen-modellparameter}
 
+#todo (#81, 2026-02-15) 2.2.7 operationalisieren: für jeden Parameter eine kurze Arbeitsdefinition + Mess-/Simulationslogik notieren (z.B. „Rückkopplungsdichte“ als Frequenz/Vielfalt von Feedbackkanälen; „Irritationsintensität“ klar abgrenzen von „Offenheit“).
+
+#todo (#82, 2026-02-15) Autor*innenschaft sichtbar machen: an 1–2 Stellen begründet Position beziehen (analytische Gewichtung/Notwendigkeit des Zugriffs), ohne normative „Paradigma-besser“-Behauptung.
+
 Hier erfolgt der Übergang zur Dynamik:
 
 	•	Grad externer Steuerung
@@ -541,6 +551,8 @@ Die rekonstruierten paradigmatischen Differenzen werden im Folgenden als medienp
 ## 2.3 Medienpädagogische Rahmung {#sec:MedienpaedagogischeRahmung}
 
 \label{term:medienpaedagogische-rahmung}
+
+#todo (#83, 2026-02-15) 2.3 Korpus-Referenzierung theorielogisch integrieren: Schlagwortachsen nicht als Themenliste stehen lassen, sondern konsequent als Spuren von Wirkannahmen/Kausalplänen (Begründungslogiken → Architekturentscheidungen) entfalten; korpus-analytische Formulierungen reduzieren.
 
 ---
 
@@ -596,6 +608,8 @@ Kerres und de Witt formulieren didaktische Prinzipien auf der Grundlage einer pr
 ### 2.3.5 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
 
 \label{term:bildungstechnologie-digitalitaet}
+
+#todo (#84, 2026-02-15) 2.3.5 argumentativ zuspitzen: Bildungstechnologie/Digitalität nicht primär beschreiben, sondern als Bündel impliziter Wirkannahmen (Steuerbarkeit, Messbarkeit, Skalierung, Sichtbarkeit, Datenlogiken) rekonstruieren und an LMS-Architekturentscheidungen rückbinden.
 
 Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen. Begriffs- und ideengeschichtlich wird dazu die Unterscheidung zwischen Technik als Bildungsproblem und technischer Bildung als Fach- und Berufsbildung herangezogen. [@benner_technik_2004-1, Seite 987, „Im folgenden Beitrag wird zunächst der Begriff »technische Bildung« allgemein und ideengeschichtlich als Technik und Bildung diskutiert. In einem zweiten Teil wird die technische Bildung als Fachbildung … exemplifiziert“]
 Digitalisierung wird für Lehr und Lernprozesse als didaktische Veränderung verstanden, die Anforderungen an Gestaltung, Organisation und professionelle Handlungspraxis verschiebt und damit Lernarchitektur, Rollen und Formen von Kommunikation neu ordnet. [@gloerfeld_auswirkungen_2020]
@@ -766,6 +780,7 @@ Unter Ungewissheitsbedingungen werden lineare Steuerungsannahmen fragil, weil Ko
 Monte‑Carlo‑Simulationen werden dafür als Verfahren genutzt, um Verteilungen, Streuungen und Kippstellen sichtbar zu machen und damit Kausalpläne als vorläufige, irritierbare Annahmestrukturen zu führen. [@theis_grundlagen_2002, Seite 1; @hanisch-johannsen_simulation_2025]
 
 #todo (#78, 2025-12-25) revision: Brücke Theorie → Simulation klarer (2.5)
+
 Für den methodischen Anschluss wird die Simulation als Monte-Carlo-Verfahren gefasst. Monte-Carlo-Methoden nutzen Zufallszahlen, um Prozesse approximativ zu lösen oder zu simulieren, und erlauben eine systematische Verbesserung der Approximation über zusätzlichen Rechenaufwand. [@theis_grundlagen_2002, Seite 1, „… eine Gruppe von numerischen Methoden, die Zufallszahlen zur approximativen Lösung oder zur Simulation verschiedener Prozesse einsetzen.“; @theis_grundlagen_2002, Seite 1, „unter Einsatz von mehr Rechenzeit ist die Lösung systematisch verbesserbar“]
 Zentral ist dabei, dass Zufallsgrößen als Verteilungen modelliert und Ergebnisse über ein Ensemble von „Kopien“ gemittelt werden. [@theis_grundlagen_2002, Seite 9, „Der Kern von Monte Carlo Simulationen ist das Erwürfeln irgendwelcher Zufallsgrößen. Man kann nun in die Erzeugung dieser Zufallszahlen die zu untersuchende Physik stecken, indem man sie in Form einer Verteilung modelliert. … Über dieses Ensemble an Kopien wird nun der Mittelwert gebildet.“]
 Für die Stabilisierung der Schätzungen gilt, dass der Fehler bei wachsendem Stichprobenumfang sinkt. [@theis_grundlagen_2002, Seite 15, „Somit erhält man den mittleren Teilchenabstand mit einem Fehler $\\Delta \\propto \\sqrt{1/N}$.“]
