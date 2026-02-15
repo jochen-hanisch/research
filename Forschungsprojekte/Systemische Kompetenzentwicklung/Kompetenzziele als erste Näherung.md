@@ -1,0 +1,1 @@
+In einem Spinnennetz aufzeigen, Operationalisieren, vgl. die Moodle-Kompetenzziele
