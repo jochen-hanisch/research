@@ -8,7 +8,7 @@ Dieser Anhang dokumentiert die Auswertungslinie „Technologieintegration“ als
 
 Der Index `Technologieintegration` wird nicht nachträglich kodiert, sondern als bereits in den Analysen 1. Ordnung vergebenes Tag verwendet. Damit ist die Auswertungslinie als reproduzierbare Korpusausschnittsbildung definiert,d.h. jede Quelle, deren Analyse 1. Ordnung den Index `Technologieintegration` begründet, zählt zum Technologieintegrations‑Korpus; die Begründungen selbst sind Teil der Evidenzspur. (Zotero-Exportlogik: FU‑Tags/Indizes im Feld `keywords`, Analyse im Feld `annote`.) 
 
-**Mapping auf Abschnitt 2.4 (Technologiedefizit als Sensibilisierungsfolie)**
+**Mapping auf Abschnitt~\ref{sec:Technologiedefizit} (Technologiedefizit als Sensibilisierungsfolie)**
 
 Die Indexbegründungen werden als Kausalplan‑Indikatoren gelesen und entlang der in Abschnitt \hyperref[sec:Technologiedefizit]{2.4} etablierten Sensibilisierungsfolie geordnet. Das Mapping dient nicht der „Auflösung“ des Technologiedefizits, sondern der Rekonstruktion wiederkehrender Integrationsprobleme als Strukturmuster:
 

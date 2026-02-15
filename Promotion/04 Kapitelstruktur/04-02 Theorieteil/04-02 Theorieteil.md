@@ -43,6 +43,10 @@ Digitale Lernsysteme werden häufig implementiert, ohne dass die zugrunde liegen
 **Synthese**  
 Lehrparadigmen lassen sich als unterschiedliche Annahmestrukturen modellieren, die in der Architektur eines LMS unterschiedliche Wirkgefüge erzeugen. Damit wird die nachfolgende Modellierung nicht Add-on, sondern Konsequenz der Analyse.
 
+Kapitel 2 folgt einer gestuften Ebenenlogik, die vom psychischen System über bildungswissenschaftliche und medienpädagogische Rahmungen bis zur systemtheoretischen Modellintegration führt.
+
+---
+
 ### Analytische Vergleichsdimensionen (Paradigmenanalyse)
 
 Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimensionen rekonstruiert:
@@ -143,6 +147,12 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-
 
 ## 2.1 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
 \label{term:traegervariablen}
+
+---
+
+Abschnitt 2.1 entfaltet pädagogisch-psychologische Grundannahmen und bestimmt Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse sowie dispositionale Merkmale als Trägervariablen von Lernhandeln. Auf dieser Ebene wird Lernen als subjektiver Prozess unter Bedingungen begrenzter Aufmerksamkeit, Motivation und Selbststeuerung gefasst. Funktion dieses Abschnitts ist die Grundlegung der Kopplungsbedingungen: Lernarchitekturen werden als Strukturangebote modelliert, die an diese Variablen anschließen und deren Wahrscheinlichkeitsverteilungen verschieben, ohne sie deterministisch zu steuern.
+
+---
 
 Dieser Abschnitt setzt Trägervariablen so, dass sie im Modell als Kräfte sichtbar werden, die Lernhandeln plausibel machen und zugleich begrenzen. Wir nehmen Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse und dispositionale Merkmale als Bedingungen, unter denen Lernende ein Angebot annehmen, abweisen oder umdeuten. Das LMS wird dabei als Lernraum verstanden, der diese Bedingungen voraussetzt und über Struktur, Rückmeldung und Beziehungssignale als Irritations‑ und Anschlussbedingungen in die Modelllogik übersetzt. So entsteht eine Argumentationslinie, die von psychologischen Grundannahmen zu modellierbaren Kopplungen führt.
 
@@ -268,6 +278,8 @@ CAVE: Größere Kapitelumbaumaßnahmen in 2.2 zur Schärfung
 4.	Sie stabilisiert die Argumentationsstetigkeit.
 5.	Sie macht 2.2 zu einer logischen Infrastruktur.
 
+Abschnitt 2.2 rahmt diese subjektbezogene Ebene bildungswissenschaftlich, indem zentrale Begriffe, Wirkannahmen und Steuerungssemantiken expliziert werden. Die systemisch-konstruktivistische Referenz dient als epistemischer Anker, vor dem alternative Lehrparadigmen als unterschiedliche Annahmestrukturen rekonstruiert und in modellierbare Parameter überführt werden.
+
 ---
 
 Die bildungswissenschaftliche Verortung führt zentrale Grundannahmen, Grundbegriffe und Diskurse zusammen, die für Analyse des digitalen Bildungswirkgefüges leitend sind. Bildungswissenschaft wird dabei als Feld verstanden, das Begriffsarbeit, Theorienbildung und Diskursarbeit in enger Kopplung an institutionelle Praxis führt und damit Voraussetzungen für Modellierung und empirische Anschlussfähigkeit bereitstellt. [@huber_einfuhrung_2023, Seite 1]
@@ -333,11 +345,11 @@ Die systemisch-konstruktivistische Rahmung dieses Abschnitts stützt sich auf dr
 - **Kerngedanke**: Alle drei Autoren verstehen Bildung als subjektzentrierten Prozess, der auf Selbsttätigkeit, Erfahrung und Kontextualisierung angewiesen ist. Siebert (2003) betont die dialogische Selbstaneignung von Welt, Reich (2006) fokussiert auf Mehrperspektivität und radikale Konstruktivität, Arnold (2010, 2015) entwickelt daraus eine systemisch strukturierte Kompetenzorientierung.
 - **Argumentation**: Siebert führt Bildung als reflexive Selbstverhältnisklärung ein, Reich integriert Erkenntnistheorie in die Didaktik, Arnold modelliert Kompetenzentwicklung über Passungsverhältnisse zwischen Person, Aufgabe und Kontext.
 - **Schlussfolgerung**: Bildung wird als emergente Struktur interpretiert. Lernen vollzieht sich in situativen Kontexten, ist von Emotion und Beziehung durchzogen und kann didaktisch nur indirekt stimuliert werden.
-- **Weiterführung**: Die Beiträge legen den theoretischen Grund für das Wirkgefüge-Modell in Abschnitt 2.5. Die Idee der strukturellen Kopplung (Reich), der biografisch geprägten Passung (Arnold) und der dialogischen Selbstaneignung (Siebert) bilden drei Trägerelemente des Modells.
+- **Weiterführung**: Die Beiträge legen den theoretischen Grund für das Wirkgefüge-Modell in Abschnitt~\ref{sec:SystemischeDynamik}. Die Idee der strukturellen Kopplung (Reich), der biografisch geprägten Passung (Arnold) und der dialogischen Selbstaneignung (Siebert) bilden drei Trägerelemente des Modells.
 
 [@siebert_padagogischer_2003; @reich_konstruktivistische_2006; @arnold_systemische_2010; @arnold_systemische_2015]
 
-Die systemisch-konstruktivistische Theorie ermöglicht eine präzise begriffliche Modellierung von Bildungsprozessen im digitalen Raum. Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit markieren zentrale Leitlinien, die das Wirkgefüge zwischen Subjekt, Institution und Technologie strukturieren. Lernen wird als subjektbezogener Konstruktionsprozess gefasst, der in systemisch orchestrierten Bildungsräumen spezifische Bedingungen erfährt. Diese Perspektive erlaubt es, pädagogische Gestaltung als Angebot für Anschlusskommunikation zu verstehen und Steuerungssemantiken begrifflich zu relativieren. Die hier entwickelten Annahmen bilden den theoretischen Rahmen für die spätere Dynamikmodellierung (Abschnitt 2.5), in der subjektive Trägervariablen und strukturelle Bedingungen als gekoppeltes System geführt werden.
+Die systemisch-konstruktivistische Theorie ermöglicht eine präzise begriffliche Modellierung von Bildungsprozessen im digitalen Raum. Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit markieren zentrale Leitlinien, die das Wirkgefüge zwischen Subjekt, Institution und Technologie strukturieren. Lernen wird als subjektbezogener Konstruktionsprozess gefasst, der in systemisch orchestrierten Bildungsräumen spezifische Bedingungen erfährt. Diese Perspektive erlaubt es, pädagogische Gestaltung als Angebot für Anschlusskommunikation zu verstehen und Steuerungssemantiken begrifflich zu relativieren. Die hier entwickelten Annahmen bilden den theoretischen Rahmen für die spätere Dynamikmodellierung (Abschnitt~\ref{sec:SystemischeDynamik}), in der subjektive Trägervariablen und strukturelle Bedingungen als gekoppeltes System geführt werden.
 
 Der theoretische Anschluss lässt sich als argumentativer Übergang verdichten: Lernen wird als fortlaufende Konstruktion von Wirklichkeit verstanden, die sich im Vollzug von Erfahrung und Kontextualisierung aufbaut. Siebert formuliert dies programmatisch, indem er „die These [stärken]“ will, „dass Wirklichkeitskonstruktion ein lebenslanger Lernprozess ist“, und dies an der zugespitzten Aussage konkretisiert: „Unsere Wirklichkeit besteht aus dem, was wir gelernt haben.“ [@siebert_padagogischer_2003, Seite 29]
 
@@ -347,7 +359,7 @@ Daraus ergibt sich als didaktische Konsequenz eine Gestaltung, die Anschlussfäh
 
 ⸻
 
-### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart
+### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Instruktionistisch}
 
 Analyse entlang identischer Vergleichsdimensionen:
 
@@ -363,7 +375,7 @@ Kein normativer Ton. Nur Wirkannahmen und Architekturfolgen.
 
 ⸻
 
-### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart
+### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Kognitivistisch}
 
 	•	Wissen als mentale Struktur
 	•	Lernen als Informationsverarbeitung
@@ -374,7 +386,7 @@ Kein normativer Ton. Nur Wirkannahmen und Architekturfolgen.
 
 ⸻
 
-### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen
+### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen {#sec:Paradigma-Situativ}
 
 	•	Lernen als Teilnahme
 	•	Gemeinschaft und Aushandlung
@@ -385,7 +397,7 @@ Kein normativer Ton. Nur Wirkannahmen und Architekturfolgen.
 
 ⸻
 
-### 2.2.6 Anthropologische und normative Tiefendimensionen
+### 2.2.6 Anthropologische und normative Tiefendimensionen {#sec:Tiefendimensionen}
 
 Hier nicht als „Paradigmen“, sondern als Rahmenschichten:
 
@@ -414,7 +426,7 @@ Zeigen, dass Lernparadigmen immer in anthropologische und gesellschaftstheoretis
 
 ⸻
 
-### 2.2.7 Paradigmatische Differenzen als Modellparameter
+### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 
 Hier erfolgt der Übergang zur Dynamik:
 
@@ -444,6 +456,12 @@ Die rekonstruierten paradigmatischen Differenzen werden im Folgenden als medienp
 
 \label{term:medienpaedagogische-rahmung}
 
+---
+
+Abschnitt 2.3 präzisiert diese Wirkannahmen unter der Perspektive der Medialität und der mediendidaktischen Gestaltung; digitale Lernräume erscheinen hier als sozio-technische Architekturen, in denen sich theoretische Setzungen in Rollen, Rückkopplungen, Sichtbarkeiten und Evaluationsformen materialisieren. 
+
+---
+
 Dieser Abschnitt führt medienpädagogische Grundannahmen, Begriffe und Diskurse zusammen, die für die Analyse digitaler Lernarchitekturen leitend sind. Medienpädagogik wird dabei als Teildisziplin der Erziehungswissenschaft verstanden, die mediale Bedingungen von Bildung, Erziehung und Lernen reflektiert und damit Anschlussstellen für Gestaltung, Organisation und professionelle Praxis in digitalen Bildungsräumen bereitstellt. [@huber_einfuhrung_2023, Seite 1]
 
 Die medienpädagogische Rahmung wird in dieser Arbeit korpusbasiert entlang jener Schlagwortachsen geführt, die in den Analysen 1. Ordnung wiederkehrend als Begründungs- und Evidenzspuren auftauchen: `Bildungstheorien` (Begriffsrahmen und epistemische Setzungen), `Lernsystemarchitektur` (Struktur- und Medialitätsbedingungen des LMS), `Technologieintegration` und `Systemanpassung` (Einbettung, Stabilisierung, Kontextabhängigkeit), `Lehr- und Lerneffektivität` und `Bewertungsmethoden` (Wirkannahmen, Mess- und Indikatorlogiken), `Kollaboratives Lernen` (Interaktions- und Regulationsformen), `Datenschutz und IT-Sicherheit` (normative und governancebezogene Randbedingungen), `Krisenreaktion im Bildungsbereich` (Beschleuniger und Sichtbarmacher von Steuerungsüberhängen) sowie `Forschungsansätze` (methodische Zugriffskontraste und Evidenzlogiken). Diese Achsen sind im Theorieteil nicht als bloße Themenliste gedacht, sondern als Kontrastfolie, um Deckungsgleichheiten und Verschiedenheiten im Korpus sichtbar zu machen und so Tool‑Determinismus sowie unmittelbare Wirksamkeitsbehauptungen begrifflich zu begrenzen. [@dittler_technologiedefizite_2009; @luhmann_technologiedefizit_1982; @bilstein_arbeit_2020]
@@ -454,7 +472,7 @@ Verschieden ist zweitens, auf welcher Ebene diese Rahmung verhandelt wird und wi
 
 Für den Theorieteil bedeutet das erstens, dass `Bildungstheorien` als Begründungsebene fungieren, auf der digitale Bildungsräume überhaupt als Bildungsräume beschreibbar werden. Deckungsgleich ist hier die Kopplung von Wirkannahmen an soziale Regulation, Reflexivität und relationale Steuerung statt an isolierte Funktionslisten; verschieden sind die jeweils bevorzugten Mechanismen (z. B. Gruppenregulation, Reflexionsverfahren, Motivationsmodelle) und damit auch die pädagogischen Stellschrauben, die plausibilisiert werden. [@vuorenmaa_how_2024; @andrayani_role_2025; @rieser_gemeinsame_2025]
 
-Zweitens rahmen `Lernsystemarchitektur`, `Technologieintegration` und `Systemanpassung` die Frage, wie digitale Lernräume als strukturierte Umgebungen entstehen: Deckungsgleich wird Plattformnutzung als Einbettungs‑ und Passungsleistung rekonstruiert (didaktisch, organisational, technisch), während Wirkungserwartungen kontingent bleiben und empirisch irritierbar geführt werden. Verschieden ist, ob der Schwerpunkt eher auf infrastruktureller Stabilisierung, organisationaler Implementationslogik oder didaktischer Feinsteuerung liegt. Diese Perspektive ist kompatibel mit der in Abschnitt 2.4 entwickelten Begrenzung von Steuerungsversprechen und trägt den Übergang in die dynamische Modelllogik von Abschnitt 2.5. [@makwasha_documenting_2025; @hubener_trialogische_2025; @di_bari_remote_2025; @biel_plattformubergreifendes_2025; @dittler_technologiedefizite_2009; @bilstein_arbeit_2020]
+Zweitens rahmen `Lernsystemarchitektur`, `Technologieintegration` und `Systemanpassung` die Frage, wie digitale Lernräume als strukturierte Umgebungen entstehen: Deckungsgleich wird Plattformnutzung als Einbettungs‑ und Passungsleistung rekonstruiert (didaktisch, organisational, technisch), während Wirkungserwartungen kontingent bleiben und empirisch irritierbar geführt werden. Verschieden ist, ob der Schwerpunkt eher auf infrastruktureller Stabilisierung, organisationaler Implementationslogik oder didaktischer Feinsteuerung liegt. Diese Perspektive ist kompatibel mit der in Abschnitt~\ref{sec:Technologiedefizit} entwickelten Begrenzung von Steuerungsversprechen und trägt den Übergang in die dynamische Modelllogik von Abschnitt~\ref{sec:SystemischeDynamik}. [@makwasha_documenting_2025; @hubener_trialogische_2025; @di_bari_remote_2025; @biel_plattformubergreifendes_2025; @dittler_technologiedefizite_2009; @bilstein_arbeit_2020]
 
 Eine konkrete, medienpädagogisch anschlussfähige Ausformulierung dieser didaktischen Einbettung liefern Kotitschke und Stifter mit der „AVIVA+ Moodle-Matrix“: Deckungsgleich zum Korpusrahmen wird Moodle als prozessualer Lernraum verstanden (nicht als Tool-Sammlung), dessen Qualität über Orchestrierung von Lernphasen, Sozialformen und Rückkopplungspunkten entsteht. Spezifisch ist hier der Beitrag, weil er diese Rahmung als handhabbare Heuristik operationalisiert und damit besonders gut geeignet ist, „Einbettung“ nicht nur abstrakt zu fordern, sondern als lehrseitige Verantwortungsstruktur (Prozesskohärenz, diagnostische Deutung von Datenspuren, Übersetzung von Rückmeldungen) zu beschreiben. [@kotitschke_moodle_2026]
 
@@ -570,6 +588,12 @@ Vor diesem Hintergrund wird eine wiederkehrende Ambivalenz digitaler Bildungsrä
 
 ## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}
 
+---
+
+Abschnitt 2.4 setzt mit dem Technologiedefizit eine systemtheoretische Begrenzung, die direkte Steuerungsversprechen relativiert und die Kontingenz pädagogischer Wirkung expliziert.
+
+---
+
 Digitale Systeme können Bildungsprozesse in hoch relevanter Weise strukturieren; eine unreflektierte Technikaffinität läuft jedoch Gefahr, Bildung zu überschatten, wenn Wirkungserwartungen als deterministische Zweck‑Mittel‑Ketten missverstanden werden. Genau an dieser Stelle wird der Technologiedefizit‑Diskurs anschlussfähig, weil er die Grenze markiert, an der Technologieversprechen (im Sinne planbarer Steuerung) in pädagogischen Kontexten in Ungewissheit übergehen und deshalb in Reflexions‑ und Dokumentationslogiken überführt werden müssen. [@dittler_technologiedefizite_2009, Seite 78]
 
 Die Begriffsbestimmung des Technologiedefizits \label{term:technologiedefizit} geht auf @luhmann_technologiedefizit_1982 zurück, die Technologie als „Wissenschaft von den Kausalverhältnissen“ [@luhmann_technologiedefizit_1982, Seite 11] lesen, welche Handeln in Richtung vorhersehbarer Wirkungen ausrichten sollen. Die Autor*innen machen deutlich, dass ein Plan mehr als die eigene Absicht meint: Er bezeichnet eine selektive Konstellation angenommener Kausalzusammenhänge, die als stabilisierende Orientierung fungieren, obwohl sie unter Kontingenzbedingungen stets ins Rutschen geraten können. Sie heben außerdem hervor, dass das Technologiedefizit sowohl auf fehlende Apparate als auch auf psychisch-individuelle und soziale Dimensionen bezogen werden muss, in denen Verbindung, Reflexion und Selbstordnung ausbleiben, wenn Technik als bloße Funktionalistisierung gelesen wird. Damit liefert diese frühe Analyse die begriffliche Grundierung für den hier entwickelten Exkurs, in dem Kausalpläne als resultierende Annahmestrukturen explizit zu machen sind, um die damit verbundenen Steuerungsillusionen zu vermeiden. [@luhmann_technologiedefizit_1982, Seiten 11–18, 27–28]
@@ -596,7 +620,7 @@ Diese Klärung ist für den Gegenstand der Dissertation unmittelbar relevant. Ei
 
 Eine anschlussfähige Perspektive besteht darin, digitale Lehre als didaktische (Re‑)Organisation von Handlungsmöglichkeiten zu führen. In dieser Perspektive wird Digitalität als Bedingung beschrieben, unter der Handlungsfähigkeit gestaltungsabhängig wird. [@mayrberger_mediendidaktik_2023, Seite 127]
 
-Für das Thema dieser Arbeit lässt sich daraus eine klare Anschlusslogik formulieren. Wenn das LMS als digitaler Bildungsraum modelliert wird, dann erfordert die Analyse mehr als die Beschreibung von Funktionen und Features als „Interventionen“ mit anschließender Wirksamkeitsableitung. Erforderlich ist eine doppelte Bewegung: erstens die theoretische Herleitung plausibler Wirkannahmen (z. B. über Bedürfnisse, Emotionen und Kompetenzentwicklung in Abschnitt 2.1/2.2), zweitens die methodische Bearbeitung von Ungewissheit über triangulative Evidenzlinien und dokumentierte Kausalpläne, die im Verlauf der Arbeit als Prüflogik geführt werden. [@dittler_technologiedefizite_2009, Seite 78]
+Für das Thema dieser Arbeit lässt sich daraus eine klare Anschlusslogik formulieren. Wenn das LMS als digitaler Bildungsraum modelliert wird, dann erfordert die Analyse mehr als die Beschreibung von Funktionen und Features als „Interventionen“ mit anschließender Wirksamkeitsableitung. Erforderlich ist eine doppelte Bewegung: erstens die theoretische Herleitung plausibler Wirkannahmen (z. B. über Bedürfnisse, Emotionen und Kompetenzentwicklung in Abschnitt~\ref{sec:PadagogischPsychologischeGrundannahmen} und Abschnitt~\ref{sec:Bildungswiss-Verortung}), zweitens die methodische Bearbeitung von Ungewissheit über triangulative Evidenzlinien und dokumentierte Kausalpläne, die im Verlauf der Arbeit als Prüflogik geführt werden. [@dittler_technologiedefizite_2009, Seite 78]
 
 ### 2.4.3 Digitalisierung als diskursive Verschiebung im Umgang mit dem Defizit
 
@@ -624,6 +648,12 @@ Damit schiebt dieser Exkurs einen epistemischen Riegel vor jede Form von Steueru
 
 ## 2.5 Systemische Dynamik des digitalen Bildungswirkgefüges {#sec:SystemischeDynamik}
 
+---
+
+Abschnitt 2.5 bündelt die zuvor entwickelten Ebenen in einem Modell systemischer Dynamik, in dem psychische Trägervariablen, bildungswissenschaftliche Wirkannahmen, mediale Strukturbedingungen und Steuerungsgrenzen als gekoppeltes Wirkgefüge formal integriert werden.
+
+---
+
 Dieser Abschnitt löst die in \hyperref[sec:MedienpaedagogischeRahmung]{Abschnitt 2.3} formulierte Gefahr einer Überblendung von Bildung durch Technik (und ihre begriffliche Absicherung im \hyperref[sec:Technologiedefizit]{Technologiedefizit‑Exkurs 2.4}) dadurch auf, dass das LMS als Kopplungsarchitektur im digitalen Bildungswirkgefüge modelliert wird: Technik wird als Strukturangebot geführt, dessen Wirkungen über Rückkopplungen mit Bedürfnissen, Emotionen, Kompetenzentwicklung und organisationalen Praktiken emergieren. Damit bleibt Gestaltung möglich, ohne Steuerbarkeit zu behaupten; Wirkung wird als relational, nicht‑linear und nur probabilistisch stabilisierbar gefasst.
 
 In diesem Kapitel wird das eigens entwickelte Modell vorgestellt. Es verbindet qualitative Theoriearbeit mit Simulationen und beschreibt die dynamische Kopplung von Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS-Architektur. Der Anspruch besteht darin, die im Theorieteil hergeleiteten Trägervariablen begrifflich zu rahmen und als zeitliche Kopplungen zu führen, in denen Orientierung, Handlung und Rückkopplung als wiederkehrende Schleifen sichtbar werden. In diesem Sinn wird das Wirkgefüge als Modellform gewählt, weil es Wirkungen als relational, rückgekoppelt und damit grundsätzlich nicht‑linear beschreibt und die im vorherigen Abschnitt eingeführte Ungewissheit konsequent in eine indikatorfähige Logik überführt [@deci_selbstbestimmungstheorie_1993; @dittler_technologiedefizite_2009, Seite 78].
@@ -632,7 +662,7 @@ Wahrscheinlichkeitsmodulation bezeichnet in dieser Arbeit die Veränderung von I
 Im Text wird diese Modulationslogik terminologisch über Formulierungen wie „Verschiebung von Anschlussbedingungen“, „Modulation von Kopplungsoptionen“ und „Plausibilisierung von Kompetenzzuschreibungen“ ausgedrückt.
 Methodisch ist dabei zentral, dass Simulationen als Verfahren genutzt werden, um unter Variation von Bedingungen Robustheiten, Grenzen und Kippstellen sichtbar zu machen; die Beweissemantik einzelner Kausalannahmen wird damit in eine Prüflogik überführt. Entsprechend wird Monte‑Carlo‑Simulation in der Methodendiskussion u.a. als Ansatz genutzt, um zu prüfen, „to what extent results are robust against violations of normality“ [@voelkle_one_2012, Seite 24].
 
-Abschnitt 2.5 führt den Übergang von Begriffen zu dynamischen Modellannahmen, indem Bildungswirkungen als zeitliche Kopplungen geführt werden (Rückkopplung, Regeneration, Störung). Das Modell rahmt damit Wirkungen als relational und nicht‑linear. [@dittler_technologiedefizite_2009, Seite 78]
+Abschnitt~\ref{sec:SystemischeDynamik} führt den Übergang von Begriffen zu dynamischen Modellannahmen, indem Bildungswirkungen als zeitliche Kopplungen geführt werden (Rückkopplung, Regeneration, Störung). Das Modell rahmt damit Wirkungen als relational und nicht‑linear. [@dittler_technologiedefizite_2009, Seite 78]
 Unter Ungewissheitsbedingungen werden lineare Steuerungsannahmen fragil, weil Kontextwechsel, persönliche Ereignisse und Variationen in Trägervariablen Wirkpfade umlenken. Methodisch folgt daraus, dass Ergebnisse als robust/fragil unter Variation prüfbar sein müssen und deterministische Kausalität als Aussageform begrenzt bleibt. [@voelkle_one_2012, Seite 24]
 Monte‑Carlo‑Simulationen werden dafür als Verfahren genutzt, um Verteilungen, Streuungen und Kippstellen sichtbar zu machen und damit Kausalpläne als vorläufige, irritierbare Annahmestrukturen zu führen. [@theis_grundlagen_2002, Seite 1; @hanisch-johannsen_simulation_2025]
 
