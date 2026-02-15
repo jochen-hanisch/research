@@ -1,0 +1,422 @@
+# Finalisierung – Veröffentlichungs-Check
+
+Stand: 2025-12-24
+
+## Heuristik „veröffentlicht“
+- Frontmatter enthält `publish: true` **und** `published: YYYY-MM-DD`.
+
+## Merkmale aus veröffentlichten Notizen (Baseline)
+- Frontmatter-Schlüssel sind i.d.R. vorhanden: `author`, `title`, `Repository`, `created`, `updated`, `publish`, `tags`, `published` (optional: `project`, `status`, `GPT`).
+- Im Text gibt es meist eine Metadatenzeile (z.B. `created: ... | updated: ... | published: ... | ...`).
+- Typische Abschnittsstruktur: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`.
+- Am Ende fast immer: Quellenabschnitt (z.B. `# Quelle(n)`) und ein Tag-Block (`---` + Hashtags).
+
+## Offene Notizen (noch nicht veröffentlicht): 86
+
+### Bildungswissenschaft
+- [[Research/Bildungswissenschaft/Aufgabe|Aufgabe]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Begriffsbestimmung|Grundlagen der Begriffsarbeit]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `tags`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Bildungsmechanik|Bildungsmechanik]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+- [[Research/Bildungswissenschaft/Bildungsraum|Allgemeine Relativitätstheorie im Bildungsraum]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Bildungsraumzeit|Bildungsraumzeit]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Bildungswirkfaktor|Bildungswirkfaktor]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Erkenntnis|"Wissenschaftliche Notiz: Erkenntnis"]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `created`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Fraktale Didaktik|Fraktale Didaktik]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `created`, `updated`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+- [[Research/Bildungswissenschaft/Kompetenz-Phasenübergangsmodell|Mathematische Modellierung von Kompetenzentwicklung und Phasenübergängen]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+- [[Research/Bildungswissenschaft/Kompetenz|Übersicht der Forschungsunterfragen]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Kompetenzentwicklung|Was ist Kompetenzentwicklung? Eine begriffliche Klärung]] (publish: true; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `created`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`
+- [[Research/Bildungswissenschaft/Kompetenzentwicklungsunsicherheit|Kompetenzentwicklungsunsicherheit]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Kompetenzmess-, Kompetenzentwicklungs-, emotionale, kognitive und Neugierunsicherheiten|Kompetenzmess-, Kompetenzentwicklungs-, emotionale, kognitive und Neugierunsicherheiten]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Kompetenzmessunsicherheit|Kompetenzmessunsicherheit]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Kompetenzniveau|Kompetenzniveau]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Kompetenzvolumen|Kompetenzvolumen]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Kopplungshypothese|Bedürfnisbasierte Kopplungshypothese der Bildung]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `tags`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Lernprozessunsicherheit|Dreidimensionale Unsicherheitsrelation im Bildungsprozess]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/PLATON (Akronym)|Akronym-Entwicklung PLATON]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Systemisch-interdependente Lernlatenz-Attribution|Systemisch-interdependente Lernlatenz-Attribution]] (publish: false; status: draft)
+  - #todo Frontmatter ergänzen/prüfen: `title`, `Repository`, `tags`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Technologiedefizit|Technologiedefizit (Erziehung)]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Transferaktive Kompetenzentwicklung|Mechanismen der horizontalen Genübertragung in Bildungsprozessen Anwendung und Prozessbeschreibung]] (publish: true)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Wirk-Tensor|Wirkungs-Tensor $W_{\mu\nu}$]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Wirkung|Wirkung]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `created`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Wirkungsgefüge, Wirkprinzip|Wirkungsgefüge, Wirkprinzip]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Bildungswissenschaft/Wirkungskriterienbasierte Entscheidungsfindung|Wirkungskriterium]] (publish: true)
+  - (keine #todo nach Baseline-Checklist)
+- [[Research/Bildungswissenschaft/Zyklus|Zyklus]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+
+### Forschungsprojekte
+- [[Research/Forschungsprojekte/Erleben und Empfinden Prüfungen/Ergebnisse notsanumfrage - Geprüfte|Ergebnisse notsanumfrage - Geprüfte]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `title`, `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Forschungsprojekte/Erleben und Empfinden Prüfungen/Projektbeschreibung notsanumfrage|Projektbeschreibung notsanumfrage]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Forschungsprojekte/Fundamentalgleichungen der Bildung/Dreidimensionale Krümmung|Analyse der dreidimensionalen Krümmung im Bildungsraum]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Forschungsprojekte/Fundamentalgleichungen der Bildung/Dynamischer Unsicherheitswert|"Wissenschaftliche Notiz: Dynamischer Unsicherheitswert"]] (publish: None; status: draft)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `created`, `updated`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Forschungsprojekte/Fundamentalgleichungen der Bildung/Logische Validierung|Logische Validierung]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `title`, `Repository`, `publish`, `tags`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Forschungsprojekte/Fundamentalgleichungen der Bildung/Übersicht und Struktur Bildungsmechanik|Übersicht Bildungsmechanik]] (publish: false; status: In Bearbeitung)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Forschungsprojekte/Grundsymbole/Design Grundsymbole|Studiendesign Untersuchung der Universalität der Grundsymbole]] (publish: true)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Forschungsprojekte/HRT meets/Projektbeschreibung HRT meets|Projektbeschreibung HRT meets...]] (publish: true; status: published)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Forschungsprojekte/Systemische Kompetenzentwicklung HRT/Archetypen der Lernenden in der Simulation|Archetypen der Lernenden in der Simulation]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`, `tags`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+
+### High Responibility Teams
+- [[Research/High Responibility Teams/High Responsibility Team Decision Framework|High Responsibility Team Decision Framework (HRT-DF)]] (publish: true)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Kritik`
+
+### Interventionen
+- [[Research/Interventionen/Asynchrone Terminkoordination|Framework der asynchron-ausschlussbasierten Terminsuche]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Interventionen/Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)|"Erkenntnisbasierter Aufgabenzyklus: EBA-Zyklus"]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Interventionen/Kommunikative Interventionsstrategie|KITS – Kommunikative Interventionsstrategie in toxischen Gesprächen]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `tags`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+- [[Research/Interventionen/Lernprozess-Codon|Lernprozess-Codon]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `title`, `tags`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+
+### Methodologie
+- [[Research/Methodologie/Analytische Clustervalidierung|Deduktiv-statistische Clustervalidierung]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Folgerungen`, `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Epistemolismus|"Epistemolismus denken: Zur Sichtbarmachung wissenschaftlicher Prozesse in versionierten Erkenntnisräumen"]] (publish: true)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Folgerungen`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Forschungsfrage|Forschungsfrage und Operationalisierung]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Forschungshypothese|Operationalisierung und Forschungshypothesen]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Fragebogen|Fragebogen]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/LEGO® SERIOUS PLAY® - Beobachtung dritter Ordnung|LEGO® SERIOUS PLAY® – Beobachtung dritter Ordnung]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Qualitative Metaanalyse|Qualitative Metaanalyse]] (publish: false; status: open)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Systemisch-dynamische Analyse der Kompetenzentwicklung|Systemisch-dynamische Analyse der Kompetenzentwicklung]] (publish: false; status: draft)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Methodologie/Theoretischen Validierung|Theoretische Validierung wissenschaftlicher Modelle]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Methodologie/Umgang mit Begriffen|"Begriffe klären – Denken ermöglichen: Eine Handreichung für den wissenschaftlichen Sprachgebrauch in Lehre und Studium"]] (publish: true; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+
+### Modelle
+- [[Research/Modelle/H-Fibonacci-Fraktalmodell|H-Fibonacci-Fraktalmodell]] (publish: false; status: draft)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `tags`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+
+### Pädagogische Psychologie
+- [[Research/Pädagogische Psychologie/Bindung|Bindung]] (publish: false; status: open)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Kopplungshypothese|Bedürfnisbasierte Kopplungshypothese der Bildung]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `tags`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Motivation|Motivation]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Neugier-Tensor|Neugier-Tensor]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Neugier|Bedürfnisse]] (publish: true)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Pädagogische Psychologie|Pädagogische Psychologie]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Persönliche Ereignisse|Persönliche Ereignisse (PE)]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Schema|Schemata, Grundbedürfnisse und Modi in der Schematherapie]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Pädagogische Psychologie/Tetrad-Modell|Tetrad-Modell]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `created`, `updated`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+
+### Promotion
+- [[Research/Promotion/00 Projektstruktur/00-03 Theorieansatz/Gedanken/Beweis Lernprozessunsicherheit zu Kompetenzunsicherheit|Mathematische Beweisführung zur Verknüpfung von Lernprozessunsicherheiten und Kompetenzunsicherheiten]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Promotion/00 Projektstruktur/00-05 Dokumentation/Analyse der Dissertation-Timeline|Zeitplan Dissertation]] (publish: false; status: In Bearbeitung)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Promotion/00 Projektstruktur/00-05 Dokumentation/Bearbeitungsverlauf Dissertation|Aktueller Arbeitsstand der Dissertation (öffentliches Git-Repository)]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Promotion/03 Quellenanalyse/03-03 Clustermodelle/Evaluation Forschungsunterfragen|"Evaluation der Forschungsunterfragen – thematische Reichweite"]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `created`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Promotion/03 Quellenanalyse/03-03 Clustermodelle/Evaluation Suchbegriffe|"Evaluation der Suchbegriffe – Reichweite und Kohärenz"]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `created`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+- [[Research/Promotion/03 Quellenanalyse/03-03 Clustermodelle/KI-gestützte Codierung|"Fokus: Die KI-gestützte Codierung als überlegene Analyseleistung"]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `created`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Quellenabschnitt ergänzen (z.B. `# Quelle(n)` + Liste)
+
+### Systemtheorie
+- [[Research/Systemtheorie/Beobachtung dritter Ordnung|"**Beobachtung dritter Ordnung: Re-Entry als Motor der Selbsttransformation**"]] (publish: true)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Feedback|Feedback – Eine systemische und zirkuläre Perspektive]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Interdependenz|"Interdependenz: Definition und Herleitung auf systemtheoretischer Grundlage Herrmann Haken"]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Kritikalität|Kritikalität]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `title`, `tags`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Re-entry|Reentry - Ein zentraler Mechanismus für Lern- und Systemprozesse]] (publish: [])
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Systemische Stabilitätsfunktion|Stabilitätsfunktion S(c)]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Herleitung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Systemischer Möglichkeitsraum|Stabilitätsfunktion S(c)]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `author`, `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Herleitung`, `Folgerungen`, `Implikationen`, `Kritik`, `Zusammenfassung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Systemtheorie/Wirkungsraum|Wirkungsraum]] (publish: false; status: published)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
+
+### Theorien und Theoreme
+- [[Research/Theorien und Theoreme/Behavioristische Ansatz|Behavioristische Ansatz]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Didaktik des Lernkarteikastens als systemisch-digitale Intervention|Didaktik des Lernkarteikastens als systemisch-digitale Intervention]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Implikationen`
+- [[Research/Theorien und Theoreme/Erziehungswissenschaftliches Funktionssystem Rettungsdienst|Rettungsdienst als Funktionssystem - eine erziehungswissenschaftliche Grundlegung pädiatrischer Versorgung]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `tags`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Humanistischer Ansatz|Humanistischer Ansatz in der Bildung]] (publish: false; status: in-progress)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Instruktionale Ansatz|Instruktionismus]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Kognitivistischer Ansatz|Kognitivismus]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Kommunikationsökologie|Kommunikation]] (publish: false; status: post)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+- [[Research/Theorien und Theoreme/Konstruktivistische Ansatz|Konstruktivismus]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Ressourcen-Interdependenz-Modell|Ressourcen-Interdependenz-Modell]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `title`, `tags`
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Herleitung`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Soziokultureller Ansatz|Soziokultureller Ansatz (Vygotskij)]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+- [[Research/Theorien und Theoreme/Systemischer Ansatz|Systemischer Ansatz]] (publish: false)
+  - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
+  - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
+  - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Herleitung`, `Kritik`
+  - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
+
