@@ -14,7 +14,94 @@
 
 #todo (#32, 2025-12-19) Reproduzierbarkeit: im Methodik-Anhang knapp dokumentieren (Indizes genutzt, Kernquellen selektiert, Prompt ausgewertet, index-spezifisch synthetisiert).
 
-----
+#todo (#35, 2026-02-15) Risiko „Doppelung“ prüfen: Leitfrage-Teil kurz halten und im weiteren Kapitel (v. a. 2.2–2.5) konsequent darauf zurückverweisen, statt eine zweite Einleitung zu erzeugen.
+
+#todo (#36, 2026-02-15) Risiko „Begriffsunschärfe“ prüfen: Lehrparadigmen vs. Lerntheorien vs. didaktische Modelle vs. Bildungstheorien (Abgrenzung/Arbeitsdefinition in 2.2.0 oder 2.2.1 festhalten).
+
+---
+
+## Leitfrage & Leitlogik für Kapitel 2 (Teil 1)
+
+**Leitfrage (Arbeitsfassung)**
+
+Welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung sind in unterschiedlichen Lehrparadigmen unterstellt – und wie übersetzen sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS)?
+
+Die Leitfrage enthält zwei Ebenen:
+1. **Epistemische Ebene**: Welche impliziten Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung werden jeweils vorausgesetzt?
+2. **Architekturelle Ebene**: Wie werden diese Annahmen in konkrete Architekturentscheidungen eines LMS eingeschrieben?
+
+Damit wird Kapitel 2 nicht zur Paradigmenübersicht, sondern zur theorieanalytischen Rekonstruktion impliziter Wirkannahmen als *architekturwirksame Kausalpläne* (anschlussfähig u. a. an den Technologiedefizit-Diskurs).
+
+### Argumentative Grundstruktur (These–Antithese–Synthese)
+
+**These**  
+Lehrparadigmen enthalten implizite Wirkannahmen über Lernen. Diese betreffen u. a. Wissensbegriff, Steuerbarkeit von Lernprozessen, Rollen von Lehrenden/Lernenden, Verhältnis von Input/Output, Bedeutung von Kontext sowie den Status von Evaluation. Diese Annahmen sind nicht bloß „Theorie“, sondern strukturieren didaktische Architekturentscheidungen.
+
+**Antithese**  
+Digitale Lernsysteme werden häufig implementiert, ohne dass die zugrunde liegenden Wirkannahmen expliziert werden. Dadurch entstehen Steuerungsillusionen oder inkonsistente Architekturen (paradigmatisch widersprüchliche Konstruktionsentscheidungen).
+
+**Synthese**  
+Lehrparadigmen lassen sich als unterschiedliche Annahmestrukturen modellieren, die in der Architektur eines LMS unterschiedliche Wirkgefüge erzeugen. Damit wird die nachfolgende Modellierung nicht Add-on, sondern Konsequenz der Analyse.
+
+### Analytische Vergleichsdimensionen (Paradigmenanalyse)
+
+Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimensionen rekonstruiert:
+1. Wissensverständnis  
+2. Lernmechanismus  
+3. Steuerungslogik  
+4. Rolle der Irritation  
+5. Rolle von Feedback  
+6. Evaluation  
+7. Architekturimplikation für ein LMS
+
+### Paradigmen als Wirkannahmen (Skizze)
+
+**Instruktionistische Wirkannahmen**
+- Wissen als übertragbare Einheit; Lernen als Rezeption
+- Steuerung durch Sequenzierung; Evaluation als Outputkontrolle
+- LMS-Implikation: lineare Kursstruktur, Tests, klare Progression
+
+**Kognitivistische Wirkannahmen**
+- Wissen als mentale Struktur; Lernen als Informationsverarbeitung
+- Steuerung durch Aktivierung/Strukturierung (Scaffolding)
+- LMS-Implikation: Advance Organizer, adaptive Aufgaben, Unterstützungslogiken
+
+**Situative / sozialkonstruktivistische Wirkannahmen**
+- Wissen als situierte Praxis; Lernen als Teilnahme
+- Steuerung über soziale Einbettung und Aushandlung
+- LMS-Implikation: Foren, kollaborative Artefakte, Rollen-/Gruppenlogiken
+
+**Systemisch-konstruktivistische Referenzrahmung**
+- Wissen als selbstreferenzielle Konstruktion; Lernen als Irritationsverarbeitung
+- Steuerung nur indirekt über Strukturangebote; Evaluation als Beobachtung von Anschlussfähigkeit
+- LMS-Implikation: Feedbackschleifen, Reflexionsräume, Reentry-/Rekursionsstrukturen
+
+### Brücke zum Wirkgefüge / Parametrisierung
+
+Paradigmen unterscheiden sich nicht nur normativ, sondern dynamisch: Sie implizieren unterschiedliche Kopplungslogiken (z. B. linear, adaptiv, sozial-regulativ, selbstreferenziell). Diese Differenzen lassen sich als Modellparameter führen, z. B.:
+- Grad externer Steuerung
+- Varianz und Taktung von Rückkopplung
+- Kontextsensitivität
+- Irritationsintensität
+- Stabilität vs. Offenheit von Lernpfaden
+
+### Gliederungsvorschlag für Unterabschnitt 2.2.5 (Lehrparadigmen als implizite Wirkannahmen)
+
+2.2.5 Lehrparadigmen als implizite Wirkannahmen (in konstruktivistischer Lesart)  
+2.2.5.1 Begriffs- und Abgrenzungsklammer (Lehrparadigma/Lerntheorie/didaktisches Modell/Bildungstheorie)  
+2.2.5.2 Analytische Vergleichsdimensionen  
+2.2.5.3 Kognitivistische Wirkannahmen in konstruktivistischer Lesart  
+2.2.5.4 Instruktionistische Wirkannahmen in konstruktivistischer Lesart  
+2.2.5.5 Situierte / sozialkonstruktivistische Wirkannahmen in konstruktivistischer Lesart  
+2.2.5.6 Paradigmatische Differenzen als Modellparameter
+
+### Wissenschaftstheoretischer Gewinn (Kurz)
+
+Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturentscheidungen theorieabhängig und (3) vermeidet normative Paradigmenhierarchien zugunsten einer Analyse unterschiedlicher Dynamiken und Wirkgefüge.
+
+---
+
+**Ab hier: bisherige Ausarbeitung (unverändert)**
 
 **Zusammnefassung Kapitel 2**
 
@@ -24,7 +111,10 @@
 
 **Hinweise Kapitel 2**
 
+Kapitel 2 wird nicht als historische oder systematische Übersicht von Lehrparadigmen geführt, sondern als theorieanalytische Rekonstruktion ihrer *impliziten Wirkannahmen* – und zwar mit Blick auf ihre architekturwirksamen Konsequenzen im Learning Management System (LMS). Leitend ist die Frage, welche Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung jeweils vorausgesetzt werden und wie sie sich in Strukturentscheidungen (Sequenzierung, Rückmeldung, Rollenlogiken, Sichtbarkeit, Evaluation) übersetzen. Die folgenden Abschnitte (2.1–2.5) dienen damit zugleich der begrifflichen Klärung und der Parametrisierung jenes Wirkgefüges, das später modelliert und im konkreten System rekonstruiert wird.
+
 In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel ist es, die zentralen Begriffe und Konzepte zu definieren, die als Grundlage für die spätere Modellierung und empirische Untersuchung dienen. Der Theorieteil gliedert sich in fünf Abschnitte, die jeweils unterschiedliche Perspektiven auf das digitale Bildungswirkgefüge einnehmen und miteinander verknüpfen. Hierzu werden zu jedem Abschnitt prägnante Zusammenfassungen und Übergänge formuliert. Grundlage ist eine Unterscheidung zwischen Begriff, Phänomen und Konstrukt.
+
 - **Begriff** fachsprachliche Benennung und Abgrenzung mit Blick auf Semantik, Traditionslinie und definitorische Entscheidung
 - **Phänomen** beobachtbare Erscheinungsform im Feld, etwa Praxis, Ereignis, Artefakt, Interaktion oder Dokument
 - **Konstrukt** theoretische Größe oder Mechanismus, der über Indikatoren und Datenspuren erschlossen wird
@@ -168,22 +258,57 @@ Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Di
 
 #todo (#35, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
 
+---
+
+CAVE: Größere Kapitelumbaumaßnahmen in 2.2 zur Schärfung
+
+1.	Sie verhindert Theorielisten.
+2.	Sie erzeugt eine klare Hierarchie.
+3.	Sie bindet alle Paradigmen an deine Leitfrage.
+4.	Sie stabilisiert die Argumentationsstetigkeit.
+5.	Sie macht 2.2 zu einer logischen Infrastruktur.
+
+---
+
 Die bildungswissenschaftliche Verortung führt zentrale Grundannahmen, Grundbegriffe und Diskurse zusammen, die für Analyse des digitalen Bildungswirkgefüges leitend sind. Bildungswissenschaft wird dabei als Feld verstanden, das Begriffsarbeit, Theorienbildung und Diskursarbeit in enger Kopplung an institutionelle Praxis führt und damit Voraussetzungen für Modellierung und empirische Anschlussfähigkeit bereitstellt. [@huber_einfuhrung_2023, Seite 1]
 Wissenschaftstheorie rahmt diese Arbeit als Reflexion über Möglichkeiten und Grenzen wissenschaftlicher Erkenntnisgewinnung sowie als Prüfung von Begriffs und Theorienbildung, Methoden und Kriterien von Erkenntnisfortschritt. [@huber_wissenschaftstheorie_2023, Seite 685]
 Im Hintergrund steht Theorie Praxis Problem, das aus Wissensformen, Können und Legitimation akademischer Ausbildung hervorgeht und damit Verhältnis von Disziplin und Profession sowie Verhältnis von Begründung und Handeln in pädagogischen Feldern strukturiert. [@huber_theorie-praxis-problem_2023, Seite 621]
 
 ### 2.2.1 Einleitung und Übersicht zur Theorie {#sec:Einleitung-Theorie}
 
-Hier werden die Leitfragen des Kapitels erläutert: Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren? Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert? Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
+Als Leitfragen
+
+- Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren?
+- Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert?
+
+Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
+
 Bildung wird als zentraler und zugleich schillernder Begriff sichtbar, der in Alltags und Wissenschaftsdiskursen in vielfältigen Bedeutungen geführt wird und in erziehungswissenschaftlicher Perspektive Wechselwirkungen zwischen Mensch und Welt thematisiert. [@huber_bildung_2023, Seite 59]
 Pädagogik wird als disziplinärer Bezugspunkt markiert, der Begriffsgeschichte und institutionelle Praxis gleichermaßen berührt und damit Leitvokabular für Deutung von Lernen, Erziehen und Bilden bereitstellt. [@huber_padagogik_2023, Seite 401]
+
 Didaktik wird als wissenschaftlicher Terminus mit unterschiedlichen Bestimmungen geführt und als Theorie und Wissenschaft von Lehren und Lernen, Unterricht und Bildungsinhalten sowie Steuerung von Lernprozessen diskursiv ausdifferenziert. [@huber_didaktik_2023, Seite 107]
 Menschenbilder werden als bewusste oder unbewusste Vorstellungen gefasst, die Wahrnehmung, Bewertung und Handeln gegenüber Lernenden strukturieren und damit in didaktischen und institutionellen Entscheidungen wirksam werden. [@huber_menschenbilder_2023, Seite 369]
 
-
 ### 2.2.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}
-
 \label{term:systemisch-konstruktivistische-theorie}
+
+---
+
+Funktion: Epistemische Grundlage des Kapitels.
+
+Inhaltlich:
+	•	Lernen als selbstreferenzieller Konstruktionsprozess
+	•	Operative Geschlossenheit und strukturelle Kopplung
+	•	Irritation als Auslöser von Reorganisation
+	•	Anschlussfähigkeit statt Steuerbarkeit
+	•	Bildung als emergente Struktur
+	•	Technologiedefizit als Begrenzung direkter Kausalsteuerung
+
+Abschluss dieses Abschnitts:
+
+Andere Lehrparadigmen werden im Folgenden nicht historisch referiert, sondern im Vergleich zu dieser Referenzrahmung als alternative Wirkannahmen rekonstruiert.
+
+---
 
 Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
 Die begriffliche Klärung von Lernen wird dabei als pädagogische Deutungskategorie geführt, die im Verhältnis zu psychologischen und alltagssprachlichen Verwendungen zu bestimmen ist. [@benner_lernen_2004, Seite 621, „Zum pädagogischen Gegenstand wird Lernen erst im Kontext kultureller Deutungen und organisatorischer Instrumentierungen“]
@@ -220,70 +345,100 @@ Damit wird direkte Steuerung über lineare Lehr‑Lern‑Ketten begrifflich begr
 
 Daraus ergibt sich als didaktische Konsequenz eine Gestaltung, die Anschlussfähigkeit strukturiert: Lernarchitekturen (inkl. LMS) werden als Strukturangebote modelliert, die Selbsttätigkeit, Reflexion, Beziehung und Kontextualisierung ermöglichen und dadurch Kopplungsoptionen zwischen psychischen und sozialen Prozessen reorganisieren. [@siebert_padagogischer_2003, Seite 29; @pfannstiel_psychologische_2022, Seite 591]
 
-### 2.2.3 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
+⸻
 
-\label{term:bildungstechnologie-digitalitaet}
+### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart
 
-Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen. Begriffs- und ideengeschichtlich wird dazu die Unterscheidung zwischen Technik als Bildungsproblem und technischer Bildung als Fach- und Berufsbildung herangezogen. [@benner_technik_2004-1, Seite 987, „Im folgenden Beitrag wird zunächst der Begriff »technische Bildung« allgemein und ideengeschichtlich als Technik und Bildung diskutiert. In einem zweiten Teil wird die technische Bildung als Fachbildung … exemplifiziert“]
-Digitalisierung wird für Lehr und Lernprozesse als didaktische Veränderung verstanden, die Anforderungen an Gestaltung, Organisation und professionelle Handlungspraxis verschiebt und damit Lernarchitektur, Rollen und Formen von Kommunikation neu ordnet. [@gloerfeld_auswirkungen_2020]
+Analyse entlang identischer Vergleichsdimensionen:
 
-Damit wird Digitalität als Transformationsbedingung beschrieben, unter der Handlungsfähigkeit als Zielgröße pädagogischer Gestaltung neu bestimmt werden muss: Mayrberger fragt vor diesem Hintergrund, „unter welchen persönlichen und organisationalen Bedingungen eine stetige Handlungsfähigkeit aller beteiligter Akteur:innen … im Zuge der digitalen Transformation der Hochschulbildung … gestärkt und gefördert werden könne“. [@mayrberger_mediendidaktik_2023, Seite 127]
+	1.	Wissensverständnis
+	2.	Lernmechanismus
+	3.	Steuerungslogik
+	4.	Rolle von Feedback
+	5.	Evaluationsverständnis
+	6.	Architekturimplikationen für ein LMS
+	7.	Dynamische Differenz zur Referenzrahmung
 
-Fernunterricht und Distance Learning markieren dabei Konstellationen, in denen räumliche Distanz über mediale Arrangements bearbeitet wird und Unterricht, Betreuung und Rückmeldung über technische Infrastrukturen gebunden werden. [@huber_fernunterrichtdistance_2023, Seite 189]
+Kein normativer Ton. Nur Wirkannahmen und Architekturfolgen.
 
-Schule wird als institutioneller Rahmen systematisch organisierten Lehrens und Lernens gefasst, der historisch und kulturell variierende Formen annimmt und in digitalen Transformationsprozessen in Organisations, Rollen und Medienfragen neu konturiert wird. [@huber_schule_2023, Seite 533]
+⸻
 
-Schulentwicklung beschreibt dauerhafte, bewusste und absichtsvolle Veränderungsprozesse von Schule und Unterricht und liefert damit Bezugsrahmen für Einführung, Stabilisierung und Bewertung digitaler Lernarchitekturen. [@huber_schulentwicklung_2023, Seite 541]
+### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart
 
-Der Bildungstechnologie‑Abschnitt arbeitet Technik als strukturbildende Bedingung von Bildungsprozessen heraus, in der die Werkzeugmetapher als Teilaspekt mitgeführt wird. Schütte und Gonon rekonstruieren dies ideen‑ und begriffsgeschichtlich und markieren an der Technikdebatte, dass Technik weder ignoriert noch „einfach vom Werkzeug her zu verstehen“ sei. [@benner_technik_2004-1, Seite 992]
+	•	Wissen als mentale Struktur
+	•	Lernen als Informationsverarbeitung
+	•	Scaffolding und Strukturierung
+	•	Adaptive Systeme
+	•	Begrenzung aus Perspektive operativer Geschlossenheit
+	•	LMS-Implikationen
 
-Zugleich bleibt pädagogische Struktur eine Gestaltungs‑ und Verständigungsleistung: Kerres kritisiert die verbreitete Tendenz, Wirkungen des Digitalen als selbstverständlich zu setzen und dabei Gestaltungsoptionen zu verdecken; unter digitalen Bedingungen bleibt soziale Beziehung in Lernmaterialien zudem „besonders schwierig zu erzeugen“. Dadurch wird die Gleichsetzung technischer Codierung und pädagogischer Wirksamkeit begrifflich begrenzt. [@kerres_bildung_2020, Seite 1; @pfannstiel_psychologische_2022, Seite 591]
+⸻
 
-Damit wird Bildungstechnologie in dieser Arbeit als Übersetzungsleistung konturiert: Technische Möglichkeiten (Vernetzung, Sichtbarkeit, Daten) werden didaktisch so gerahmt, dass Handlungsfähigkeit und Anschlusskommunikation als anschlussfähige Formen plausibel werden. Kerres formuliert hierfür eine sozio‑konstruktivistische Alternative, in der Wirkungen des Digitalen als „Ergebnis sozialer Aushandlungsprozesse“ verstanden werden. Medienpädagogisch folgt daraus eine Reflexionspflicht über kulturelle und soziale Implikationen digitaler Medien sowie über deren Funktion. [@kerres_bildung_2020, Seite 7; @mayrberger_mediendidaktik_2023, Seite 127; @mayer_pragmatismus_2004, Seite 2]
+### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen
 
-### 2.2.4 Kompetenzentwicklung im digitalen Bildungsraum {#sec:Kompetenzentwicklung-digital}
+	•	Lernen als Teilnahme
+	•	Gemeinschaft und Aushandlung
+	•	Soziale Regulation
+	•	Nähe zur Referenzrahmung
+	•	Differenz im Systembegriff
+	•	LMS-Implikationen (Foren, Gruppenlogiken, Artefakte)
 
-\label{term:kompetenzentwicklung-digital}
+⸻
 
-Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander? Für die Einordnung der damit verbundenen Planungs- und Steuerungssemantiken wird der Lehrplanbegriff begriffsgeschichtlich herangezogen, einschließlich der Verschiebung von kanonischen Stofflogiken zu curricularen und kompetenzbezogenen Formaten. [@benner_lehrplan_2004, Seite 600, „Diese Wendung vom Lehrplan hin zum Curriculum ist ein Konzeptionswandel“]
-Für eine kompetenztheoretische Modellierung ist dabei zentral, dass Lernen als situationsgebundene Konstruktion von Einsicht und Handlungsfähigkeit geführt wird und die Metapher passiver Informationsaufnahme dafür zu kurz greift. Dehnbostel fasst dies im Kontext situierten Lernens explizit so, „dass Lernen nicht eine passive Informationsaufnahme, sondern eine stets ordnend-wertende Konstruktion von Einsicht und Handlungsfähigkeit darstellt“, und verbindet dies mit der Forderung nach einer „Abkehr von bloß fachsystematisch strukturierten … Bildungsgängen“ zugunsten von Kompetenzentwicklungsaufgaben. [@dehnbostel_e-learning_2021, Seite 58]
+### 2.2.6 Anthropologische und normative Tiefendimensionen
 
-#### Agiles Lernen als didaktisch-funktionaler Mechanismus
+Hier nicht als „Paradigmen“, sondern als Rahmenschichten:
 
-Agiles Lernen kann in diesem Zusammenhang als strukturierender Mechanismus verstanden werden, der kompetenzbezogenes Lernhandeln über wiederkehrende Problemlösungs‑, Feedback‑ und Reflexionssequenzen rahmt. In der Übertragung agiler Prinzipien (u.a. Iteration, Transparenz, Priorisierung, kontinuierliche Verbesserung) auf Lernarchitekturen werden Lernhandlungen in überschaubaren Zyklen (z.B. Sprint‑Logik, Review, Retrospektive) gerahmt, so dass Lernende ihre Strategien unter Rückmeldung anpassen und Handlungsfähigkeit schrittweise in der Anschlusskommunikation plausibilisiert wird. [@hanisch_agiles_2023]
-Systemtheoretisch wird agiles Lernen dabei ausdrücklich als didaktischer Kausalplan geführt: Es institutionalisiert Ungewissheit als Gestaltungsbedingung (Iteration/Irritation/Revision) und ersetzt keine begrenzte Steuerbarkeit durch ein neues Steuerungsversprechen. [@luhmann_technologiedefizit_1982; @dittler_technologiedefizite_2009, Seite 78]
+**Humanismus**
 
-Im Wirkgefüge des digitalen Bildungsraums nimmt agiles Lernen damit eine Brückenfunktion ein: Es koppelt Bedürfnisorientierung (\hyperref[sec:Beduerfnisse]{2.1.1}) und dispositionale Varianz (\hyperref[sec:Dispositionen]{2.1.5}) an eine Lernarchitektur, die systemische Ungewissheit nicht ausblendet, sondern als Gestaltungsbedingung führt. Iterative Zyklen übersetzen systemisches Denken (Abschnitt \hyperref[sec:Systemisch-konstruktivistische-Theorie]{2.2.2} und Abschnitt \hyperref[sec:DynamischesSystem]{2.5.1}) in eine operative Didaktik: Rückkopplung wird nicht nur als Begleitidee, sondern als Strukturprinzip geführt, über das kompetenzbezogene Anschlussentscheidungen und Lernhandlungen in Zyklen plausibilisiert und nachjustiert werden können. Damit werden digitale Lernräume nicht als statische „Container“, sondern als temporäre Resonanzräume sichtbar, in denen Sichtbarkeit, Feedback und Selbststeuerung die Passung zwischen Anforderungen, Ressourcen und Lernweg fortlaufend nachjustieren. [@hanisch_agiles_2023]
+	•	Autonomie
+	•	Mündigkeit
+	•	Subjektbegriff
+	•	Menschenbild
 
-Für die weitere Arbeit wird agiles Lernen deshalb nicht als Add‑on, sondern als theoriekompatibles Teilmodell behandelt, das didaktische Anschlussfähigkeit unter Kontingenzbedingungen operationalisiert. Empirisch und architekturell wird dieser Gedanke im Forschungskapitel dort wieder aufgenommen, wo Systementwicklung selbst als iterativer Passungsprozess rekonstruiert wird (Abschnitt \hyperref[sec:VergleichendeEntwicklungsphasen]{3.3.5}); theoretisch wird er in der Diskussion als Erklärungsmuster emergenter Systemwirkungen wieder eingespielt (Abschnitt \hyperref[sec:Diskussion-AgilesLernen]{6.2.3}). [@hanisch_agiles_2023]
+**Kritische Theorie und Subjektivierung**
 
-Kompetenzentwicklung erhält im bildungswissenschaftlichen Diskurs Anschluss über Professionalisierung, Diagnostik, Qualität, Leistung, Lernfreude und soziale sowie emotionale Dimensionen von Lernen. Professionalität und Professionalisierung verweisen auf Diskurse zu Anforderungen, Wissen, Handeln und Verantwortung in pädagogischen Berufen. [@huber_professionalitatprofessionalisierung_2023, Seite 467]
+	•	Macht
+	•	Institution
+	•	Diskurs
+	•	Subjektformierung
 
-Pädagogische Diagnostik wird als zentrales Handlungselement von Lehrpersonen gefasst und liefert Begriffe für Beobachtung, Beurteilung und Förderung, die im digitalen Bildungsraum als Daten und Rückmeldepraktiken materialisiert werden. [@huber_diagnostik_2023, Seite 91]
-Leistung wird als zentraler Begriff für Struktur und Funktion von Bildungssystemen geführt und verbindet Bewertungspraktiken, Selektion und Anerkennung mit Lernprozessen und Bildungszielen. [@huber_leistung_2023, Seite 337]
+**Transformatorische Bildungstheorie**
 
-Lernfreude wird als Zielperspektive pädagogischer Gestaltung markiert und verweist auf Affekt, Motivation und Lernkultur, die durch Unterricht, Feedback und Rahmung beeinflusst werden. [@huber_lernfreude_2023, Seite 353]
+	•	Irritation
+	•	Perspektivwechsel
+	•	Neuordnung von Welt- und Selbstverhältnissen
 
-Sozial emotionale Kompetenz verbindet emotionale und soziale Fähigkeiten mit Lern und Handlungsanforderungen und unterstützt Modellierung von Kooperation, Kommunikation und Selbstregulation in digitalen Lernsettings. [@huber_sozial-emotionale_2023, Seite 557]
-Sozialisationstheorie liefert Deutung von Lernverläufen als Einbettung in soziale Kontexte und als Prozess der Aneignung von Rollen, Normen und Handlungsmustern, die in digitalen Lernräumen über Interaktion und Plattformlogiken mitgeprägt werden. [@huber_sozialisation_2023, Seite 565]
+Funktion dieses Abschnitts:
+Zeigen, dass Lernparadigmen immer in anthropologische und gesellschaftstheoretische Tiefenannahmen eingebettet sind.
 
-Qualität wird als Kontingenzformel und als Steuerungsbegriff geführt und verbindet normative Erwartungen, professionelle Praxis und institutionelle Evaluation, die im digitalen Umbau in Indikatoren, Standards und Dokumentationsformen übersetzt werden. [@huber_qualitat_2023, Seite 477]
+⸻
 
-Organisationslernen beschreibt Lernprozesse auf Organisationsebene und unterstützt Analyse von Veränderungsdynamiken, die mit Einführung, Nutzung und Anpassung von Lernplattformen verbunden sind. [@huber_organisationslernen_2023, Seite 393]
+### 2.2.7 Paradigmatische Differenzen als Modellparameter
 
-Fort und Weiterbildung verweisen auf Lernformen im Berufsleben und markieren Anschlussstellen für lebenslaufbezogene Kompetenzentwicklung in institutionellen Kontexten. [@huber_fort-_2023, Seite 199]
+Hier erfolgt der Übergang zur Dynamik:
 
-Lehrerinnenbildung rahmt Professionalisierung als Feld, in dem Erfahrungen, Einflüsse und Wirkungen pädagogischer Praxis zurückwirken und in Ausbildung, Studium und Berufsvorbereitung bearbeitet werden. [@huber_lehrerinnenbildung_2023, Seite 321]
+	•	Grad externer Steuerung
+	•	Rückkopplungsdichte
+	•	Kontextsensitivität
+	•	Irritationsintensität
+	•	Offenheit vs. Sequenzierung
+	•	Rolle von Evaluation
 
-Methodologisch liefert @osterwalder_methode_2002 eine begrifflich geschärfte Unterscheidung zwischen Technik, Methode und System, die für die didaktische Modellierung digitaler Lernumgebungen handlungsleitend ist.
+Dieser Abschnitt ist deine Eigenleistung.
 
-Auch @benner_unterricht_2004 betont, dass Unterricht in seiner Struktur stets das Spannungsverhältnis von Planbarkeit und situativer Anschlussfähigkeit abbildet – ein Spannungsfeld, das sich in digitalisierten Settings besonders deutlich zeigt.
+Er bereitet:
+	•	2.5 (systemische Dynamik)
+	•	Kapitel 3 (Architektur)
+	•	Kapitel 4 (Simulation)
 
-Die Kompetenzüberlegungen führen Kompetenzentwicklung als Vollzug in Situationen (Performanz) und zugleich als reflexive Selbst‑ und Weltverhältnisklärung. Damit wird Kompetenz als handlungsfähige, kontextgebundene Konstruktion geführt; die Metapher des „Stoffbesitzes“ bleibt dafür zu eng. [@dehnbostel_e-learning_2021, Seite 58]
+explizit vor.
 
-Für die Erfassung von Kompetenzen im digitalen Raum rücken Indikatoren, Daten und Prüfungsformate in den Vordergrund; diese Übersetzungen bleiben interpretationsbedürftig und erzeugen leicht eine Scheingenauigkeit, wenn Messdaten als direkte Kompetenzabbildung verstanden werden. Malone zeigt dies exemplarisch an der „Äquivalenzproblematik“ computerbasierter Tests: Häufig handelt es sich um „beinahe direkte Übertragungen“ von Papier‑Bleistift‑Verfahren, und Äquivalenz muss erst über Korrelationen, Reliabilität, externe Kriterien und Faktorenstruktur geprüft werden. Methodisch folgt daraus die Notwendigkeit, Diagnostik und Bewertung als Praxisformen zu führen, die ihre Voraussetzungen (Modelle, Kriterien, Kontext) ausdrücklich ausweisen. [@niegemann_technologiegestutztes_2020, Seite 497; @huber_diagnostik_2023, Seite 91; @huber_qualitat_2023, Seite 477]
+---
 
-Daraus ergibt sich die Modellierung des LMS als Kopplungsarchitektur, die Aufgabenformate, Feedbackschleifen und Sichtbarkeiten so miteinander verschränkt, dass Kompetenzzuschreibungen in der Anschlusskommunikation plausibilisiert werden (z. B. durch Reflexionsanlässe, Dokumentation, formative Rückmeldung). Hornung‑Prähauser und Wieden‑Bischof verorten hierfür E‑Portfolios explizit als technisch unterstützte SOL‑Innovation und diskutieren mediendidaktische Rahmenbedingungen und Herausforderungen dieser Kopplung. [@hugger_selbstorganisiertes_2010, Seite 245]
+#todo Kapitelstruktur überarbeiten
+
+Die rekonstruierten paradigmatischen Differenzen werden im Folgenden als medienpädagogische Gestaltungslogiken weitergeführt und konkretisiert. Medienpädagogik fungiert dabei als disziplinäre Perspektive, in der sich diese Parameter in Architektur-, Interaktions- und Evaluationsentscheidungen materialisieren.
 
 ## 2.3 Medienpädagogische Rahmung {#sec:MedienpaedagogischeRahmung}
 
@@ -329,7 +484,73 @@ Medienbildung bezeichnet die Aneignung medialer Kulturtechniken, Medienkompetenz
 
 Kerres und de Witt formulieren didaktische Prinzipien auf der Grundlage einer pragmatistischen Handlungs- und Erfahrungstheorie; Mayrberger hebt Bedingungen hervor, unter denen Handlungsfähigkeit im digitalen Hochschulumbruch gestärkt wird. Deckungsgleich ist damit die Abwehr technikdeterministischer Wirkversprechen zugunsten einer reflexiven, auf Anschlusskommunikation und Ermöglichung gerichteten Mediendidaktik. Verschieden ist die Schwerpunktsetzung: Kerres/de Witt konturieren stärker Prinzipien didaktischer Integration, während Mayrberger stärker Agency‑, Partizipations- und Rahmungsbedingungen in institutionellen Umbruchsituationen akzentuiert. [@mayer_pragmatismus_2004, Seite 2; @mayrberger_mediendidaktik_2023, Seite 127]
 
-### 2.3.5 Empirische Befunde als theorieinterne Konsolidierung
+
+### 2.3.5 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
+
+\label{term:bildungstechnologie-digitalitaet}
+
+Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen. Begriffs- und ideengeschichtlich wird dazu die Unterscheidung zwischen Technik als Bildungsproblem und technischer Bildung als Fach- und Berufsbildung herangezogen. [@benner_technik_2004-1, Seite 987, „Im folgenden Beitrag wird zunächst der Begriff »technische Bildung« allgemein und ideengeschichtlich als Technik und Bildung diskutiert. In einem zweiten Teil wird die technische Bildung als Fachbildung … exemplifiziert“]
+Digitalisierung wird für Lehr und Lernprozesse als didaktische Veränderung verstanden, die Anforderungen an Gestaltung, Organisation und professionelle Handlungspraxis verschiebt und damit Lernarchitektur, Rollen und Formen von Kommunikation neu ordnet. [@gloerfeld_auswirkungen_2020]
+
+Damit wird Digitalität als Transformationsbedingung beschrieben, unter der Handlungsfähigkeit als Zielgröße pädagogischer Gestaltung neu bestimmt werden muss: Mayrberger fragt vor diesem Hintergrund, „unter welchen persönlichen und organisationalen Bedingungen eine stetige Handlungsfähigkeit aller beteiligter Akteur:innen … im Zuge der digitalen Transformation der Hochschulbildung … gestärkt und gefördert werden könne“. [@mayrberger_mediendidaktik_2023, Seite 127]
+
+Fernunterricht und Distance Learning markieren dabei Konstellationen, in denen räumliche Distanz über mediale Arrangements bearbeitet wird und Unterricht, Betreuung und Rückmeldung über technische Infrastrukturen gebunden werden. [@huber_fernunterrichtdistance_2023, Seite 189]
+
+Schule wird als institutioneller Rahmen systematisch organisierten Lehrens und Lernens gefasst, der historisch und kulturell variierende Formen annimmt und in digitalen Transformationsprozessen in Organisations, Rollen und Medienfragen neu konturiert wird. [@huber_schule_2023, Seite 533]
+
+Schulentwicklung beschreibt dauerhafte, bewusste und absichtsvolle Veränderungsprozesse von Schule und Unterricht und liefert damit Bezugsrahmen für Einführung, Stabilisierung und Bewertung digitaler Lernarchitekturen. [@huber_schulentwicklung_2023, Seite 541]
+
+Der Bildungstechnologie‑Abschnitt arbeitet Technik als strukturbildende Bedingung von Bildungsprozessen heraus, in der die Werkzeugmetapher als Teilaspekt mitgeführt wird. Schütte und Gonon rekonstruieren dies ideen‑ und begriffsgeschichtlich und markieren an der Technikdebatte, dass Technik weder ignoriert noch „einfach vom Werkzeug her zu verstehen“ sei. [@benner_technik_2004-1, Seite 992]
+
+Zugleich bleibt pädagogische Struktur eine Gestaltungs‑ und Verständigungsleistung: Kerres kritisiert die verbreitete Tendenz, Wirkungen des Digitalen als selbstverständlich zu setzen und dabei Gestaltungsoptionen zu verdecken; unter digitalen Bedingungen bleibt soziale Beziehung in Lernmaterialien zudem „besonders schwierig zu erzeugen“. Dadurch wird die Gleichsetzung technischer Codierung und pädagogischer Wirksamkeit begrifflich begrenzt. [@kerres_bildung_2020, Seite 1; @pfannstiel_psychologische_2022, Seite 591]
+
+Damit wird Bildungstechnologie in dieser Arbeit als Übersetzungsleistung konturiert: Technische Möglichkeiten (Vernetzung, Sichtbarkeit, Daten) werden didaktisch so gerahmt, dass Handlungsfähigkeit und Anschlusskommunikation als anschlussfähige Formen plausibel werden. Kerres formuliert hierfür eine sozio‑konstruktivistische Alternative, in der Wirkungen des Digitalen als „Ergebnis sozialer Aushandlungsprozesse“ verstanden werden. Medienpädagogisch folgt daraus eine Reflexionspflicht über kulturelle und soziale Implikationen digitaler Medien sowie über deren Funktion. [@kerres_bildung_2020, Seite 7; @mayrberger_mediendidaktik_2023, Seite 127; @mayer_pragmatismus_2004, Seite 2]
+
+### 2.3.6 Kompetenzentwicklung im digitalen Bildungsraum {#sec:Kompetenzentwicklung-digital}
+
+\label{term:kompetenzentwicklung-digital}
+
+Es folgt die Verknüpfung zu kompetenztheoretischen Ansätzen: Welche Performanz- und Reflexionsprozesse adressieren LMS, und wie greifen Prüfungsarchitekturen, Feedbackschleifen und Kompetenzmessung systemisch ineinander? Für die Einordnung der damit verbundenen Planungs- und Steuerungssemantiken wird der Lehrplanbegriff begriffsgeschichtlich herangezogen, einschließlich der Verschiebung von kanonischen Stofflogiken zu curricularen und kompetenzbezogenen Formaten. [@benner_lehrplan_2004, Seite 600, „Diese Wendung vom Lehrplan hin zum Curriculum ist ein Konzeptionswandel“]
+Für eine kompetenztheoretische Modellierung ist dabei zentral, dass Lernen als situationsgebundene Konstruktion von Einsicht und Handlungsfähigkeit geführt wird und die Metapher passiver Informationsaufnahme dafür zu kurz greift. Dehnbostel fasst dies im Kontext situierten Lernens explizit so, „dass Lernen nicht eine passive Informationsaufnahme, sondern eine stets ordnend-wertende Konstruktion von Einsicht und Handlungsfähigkeit darstellt“, und verbindet dies mit der Forderung nach einer „Abkehr von bloß fachsystematisch strukturierten … Bildungsgängen“ zugunsten von Kompetenzentwicklungsaufgaben. [@dehnbostel_e-learning_2021, Seite 58]
+
+#### Agiles Lernen als didaktisch-funktionaler Mechanismus
+
+Agiles Lernen kann in diesem Zusammenhang als strukturierender Mechanismus verstanden werden, der kompetenzbezogenes Lernhandeln über wiederkehrende Problemlösungs‑, Feedback‑ und Reflexionssequenzen rahmt. In der Übertragung agiler Prinzipien (u.a. Iteration, Transparenz, Priorisierung, kontinuierliche Verbesserung) auf Lernarchitekturen werden Lernhandlungen in überschaubaren Zyklen (z.B. Sprint‑Logik, Review, Retrospektive) gerahmt, so dass Lernende ihre Strategien unter Rückmeldung anpassen und Handlungsfähigkeit schrittweise in der Anschlusskommunikation plausibilisiert wird. [@hanisch_agiles_2023]
+Systemtheoretisch wird agiles Lernen dabei ausdrücklich als didaktischer Kausalplan geführt: Es institutionalisiert Ungewissheit als Gestaltungsbedingung (Iteration/Irritation/Revision) und ersetzt keine begrenzte Steuerbarkeit durch ein neues Steuerungsversprechen. [@luhmann_technologiedefizit_1982; @dittler_technologiedefizite_2009, Seite 78]
+
+Im Wirkgefüge des digitalen Bildungsraums nimmt agiles Lernen damit eine Brückenfunktion ein: Es koppelt Bedürfnisorientierung (\hyperref[sec:Beduerfnisse]{2.1.1}) und dispositionale Varianz (\hyperref[sec:Dispositionen]{2.1.5}) an eine Lernarchitektur, die systemische Ungewissheit nicht ausblendet, sondern als Gestaltungsbedingung führt. Iterative Zyklen übersetzen systemisches Denken (Abschnitt \hyperref[sec:Systemisch-konstruktivistische-Theorie]{2.2.2} und Abschnitt \hyperref[sec:DynamischesSystem]{2.5.1}) in eine operative Didaktik: Rückkopplung wird nicht nur als Begleitidee, sondern als Strukturprinzip geführt, über das kompetenzbezogene Anschlussentscheidungen und Lernhandlungen in Zyklen plausibilisiert und nachjustiert werden können. Damit werden digitale Lernräume nicht als statische „Container“, sondern als temporäre Resonanzräume sichtbar, in denen Sichtbarkeit, Feedback und Selbststeuerung die Passung zwischen Anforderungen, Ressourcen und Lernweg fortlaufend nachjustieren. [@hanisch_agiles_2023]
+
+Für die weitere Arbeit wird agiles Lernen deshalb nicht als Add‑on, sondern als theoriekompatibles Teilmodell behandelt, das didaktische Anschlussfähigkeit unter Kontingenzbedingungen operationalisiert. Empirisch und architekturell wird dieser Gedanke im Forschungskapitel dort wieder aufgenommen, wo Systementwicklung selbst als iterativer Passungsprozess rekonstruiert wird (Abschnitt \hyperref[sec:VergleichendeEntwicklungsphasen]{3.3.5}); theoretisch wird er in der Diskussion als Erklärungsmuster emergenter Systemwirkungen wieder eingespielt (Abschnitt \hyperref[sec:Diskussion-AgilesLernen]{6.2.3}). [@hanisch_agiles_2023]
+
+Kompetenzentwicklung erhält im bildungswissenschaftlichen Diskurs Anschluss über Professionalisierung, Diagnostik, Qualität, Leistung, Lernfreude und soziale sowie emotionale Dimensionen von Lernen. Professionalität und Professionalisierung verweisen auf Diskurse zu Anforderungen, Wissen, Handeln und Verantwortung in pädagogischen Berufen. [@huber_professionalitatprofessionalisierung_2023, Seite 467]
+
+Pädagogische Diagnostik wird als zentrales Handlungselement von Lehrpersonen gefasst und liefert Begriffe für Beobachtung, Beurteilung und Förderung, die im digitalen Bildungsraum als Daten und Rückmeldepraktiken materialisiert werden. [@huber_diagnostik_2023, Seite 91]
+Leistung wird als zentraler Begriff für Struktur und Funktion von Bildungssystemen geführt und verbindet Bewertungspraktiken, Selektion und Anerkennung mit Lernprozessen und Bildungszielen. [@huber_leistung_2023, Seite 337]
+
+Lernfreude wird als Zielperspektive pädagogischer Gestaltung markiert und verweist auf Affekt, Motivation und Lernkultur, die durch Unterricht, Feedback und Rahmung beeinflusst werden. [@huber_lernfreude_2023, Seite 353]
+
+Sozial emotionale Kompetenz verbindet emotionale und soziale Fähigkeiten mit Lern und Handlungsanforderungen und unterstützt Modellierung von Kooperation, Kommunikation und Selbstregulation in digitalen Lernsettings. [@huber_sozial-emotionale_2023, Seite 557]
+Sozialisationstheorie liefert Deutung von Lernverläufen als Einbettung in soziale Kontexte und als Prozess der Aneignung von Rollen, Normen und Handlungsmustern, die in digitalen Lernräumen über Interaktion und Plattformlogiken mitgeprägt werden. [@huber_sozialisation_2023, Seite 565]
+
+Qualität wird als Kontingenzformel und als Steuerungsbegriff geführt und verbindet normative Erwartungen, professionelle Praxis und institutionelle Evaluation, die im digitalen Umbau in Indikatoren, Standards und Dokumentationsformen übersetzt werden. [@huber_qualitat_2023, Seite 477]
+
+Organisationslernen beschreibt Lernprozesse auf Organisationsebene und unterstützt Analyse von Veränderungsdynamiken, die mit Einführung, Nutzung und Anpassung von Lernplattformen verbunden sind. [@huber_organisationslernen_2023, Seite 393]
+
+Fort und Weiterbildung verweisen auf Lernformen im Berufsleben und markieren Anschlussstellen für lebenslaufbezogene Kompetenzentwicklung in institutionellen Kontexten. [@huber_fort-_2023, Seite 199]
+
+Lehrerinnenbildung rahmt Professionalisierung als Feld, in dem Erfahrungen, Einflüsse und Wirkungen pädagogischer Praxis zurückwirken und in Ausbildung, Studium und Berufsvorbereitung bearbeitet werden. [@huber_lehrerinnenbildung_2023, Seite 321]
+
+Methodologisch liefert @osterwalder_methode_2002 eine begrifflich geschärfte Unterscheidung zwischen Technik, Methode und System, die für die didaktische Modellierung digitaler Lernumgebungen handlungsleitend ist.
+
+Auch @benner_unterricht_2004 betont, dass Unterricht in seiner Struktur stets das Spannungsverhältnis von Planbarkeit und situativer Anschlussfähigkeit abbildet – ein Spannungsfeld, das sich in digitalisierten Settings besonders deutlich zeigt.
+
+Die Kompetenzüberlegungen führen Kompetenzentwicklung als Vollzug in Situationen (Performanz) und zugleich als reflexive Selbst‑ und Weltverhältnisklärung. Damit wird Kompetenz als handlungsfähige, kontextgebundene Konstruktion geführt; die Metapher des „Stoffbesitzes“ bleibt dafür zu eng. [@dehnbostel_e-learning_2021, Seite 58]
+
+Für die Erfassung von Kompetenzen im digitalen Raum rücken Indikatoren, Daten und Prüfungsformate in den Vordergrund; diese Übersetzungen bleiben interpretationsbedürftig und erzeugen leicht eine Scheingenauigkeit, wenn Messdaten als direkte Kompetenzabbildung verstanden werden. Malone zeigt dies exemplarisch an der „Äquivalenzproblematik“ computerbasierter Tests: Häufig handelt es sich um „beinahe direkte Übertragungen“ von Papier‑Bleistift‑Verfahren, und Äquivalenz muss erst über Korrelationen, Reliabilität, externe Kriterien und Faktorenstruktur geprüft werden. Methodisch folgt daraus die Notwendigkeit, Diagnostik und Bewertung als Praxisformen zu führen, die ihre Voraussetzungen (Modelle, Kriterien, Kontext) ausdrücklich ausweisen. [@niegemann_technologiegestutztes_2020, Seite 497; @huber_diagnostik_2023, Seite 91; @huber_qualitat_2023, Seite 477]
+
+Daraus ergibt sich die Modellierung des LMS als Kopplungsarchitektur, die Aufgabenformate, Feedbackschleifen und Sichtbarkeiten so miteinander verschränkt, dass Kompetenzzuschreibungen in der Anschlusskommunikation plausibilisiert werden (z. B. durch Reflexionsanlässe, Dokumentation, formative Rückmeldung). Hornung‑Prähauser und Wieden‑Bischof verorten hierfür E‑Portfolios explizit als technisch unterstützte SOL‑Innovation und diskutieren mediendidaktische Rahmenbedingungen und Herausforderungen dieser Kopplung. [@hugger_selbstorganisiertes_2010, Seite 245]
+
+### 2.3.7 Empirische Befunde als theorieinterne Konsolidierung
 
 Die empirischen Befunde – CSCL-Studien, Peer Tutoring, ARCS-Analysen – stabilisieren die medienpädagogische Theorie, weil sie zeigen, wie sozial-regulative, reflexive und relationale Steuerung unter digitalen Bedingungen wirkt. Unterrichtskritik und Erwachsenenbildung – beide mit `Bildungstheorien` und `Promotion:sec:Einleitung-MedienpaedagogischeRahmung` kodiert – liefern explizite Belege dafür, dass medienpädagogische Kritik und reflexive Kontextualisierung strukturell zur Disziplin gehören. [@huber_unterrichtskritik_2023, Seite 653; @huber_erwachsenenbildung_2023, Seite 155]
 
