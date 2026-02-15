@@ -1,6 +1,7 @@
 \newpage
 
 # 2 Theorieteil {#sec:Theorieteil}
+\label{term:theorieteil}
 
 ---
 
@@ -304,6 +305,7 @@ Wissenschaftstheorie rahmt diese Arbeit als Reflexion über Möglichkeiten und G
 Im Hintergrund steht Theorie Praxis Problem, das aus Wissensformen, Können und Legitimation akademischer Ausbildung hervorgeht und damit Verhältnis von Disziplin und Profession sowie Verhältnis von Begründung und Handeln in pädagogischen Feldern strukturiert. [@huber_theorie-praxis-problem_2023, Seite 621]
 
 ### 2.2.1 Einleitung und Übersicht zur Theorie {#sec:Einleitung-Theorie}
+\label{term:einleitung-theorie}
 
 Als Leitfragen
 
@@ -743,6 +745,7 @@ Das LMS wird als Teil eines Wirkgefüges untersucht, in dem Designentscheidungen
 Damit schiebt dieser Exkurs einen epistemischen Riegel vor jede Form von Steuerungsillusion, ohne Gestaltungsansprüche abzuräumen. Das LMS kann Kompetenzentwicklung unterstützen oder behindern, doch die wissenschaftliche Tragfähigkeit entsteht erst dort, wo die begrenzte Steuerbarkeit explizit wird und die methodische Bearbeitung von Ungewissheit als Teil des Erkenntnisprozesses ausgewiesen ist. Genau daraus folgt der Übergang in das Modell der systemischen Dynamik (Abschnitt \hyperref[sec:SystemischeDynamik]{2.5}), das Wirkungen als gekoppelte, rückgekoppelte und damit grundsätzlich nicht‑lineare Prozesse führt, die empirisch anschlussfähig, zugleich aber nur probabilistisch stabilisierbar sind. [@dittler_technologiedefizite_2009, Seite 78]
 
 ## 2.5 Systemische Dynamik des digitalen Bildungswirkgefüges {#sec:SystemischeDynamik}
+\label{term:systemische-dynamik}
 
 ---
 
