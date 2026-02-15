@@ -27,6 +27,7 @@
 Welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung sind in unterschiedlichen Lehrparadigmen unterstellt – und wie übersetzen sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS)?
 
 Die Leitfrage enthält zwei Ebenen:
+
 1. **Epistemische Ebene**: Welche impliziten Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung werden jeweils vorausgesetzt?
 2. **Architekturelle Ebene**: Wie werden diese Annahmen in konkrete Architekturentscheidungen eines LMS eingeschrieben?
 
@@ -34,13 +35,16 @@ Damit wird Kapitel 2 nicht zur Paradigmenübersicht, sondern zur theorieanalyt
 
 ### Argumentative Grundstruktur (These–Antithese–Synthese)
 
-**These**  
+**These**
+
 Lehrparadigmen enthalten implizite Wirkannahmen über Lernen. Diese betreffen u. a. Wissensbegriff, Steuerbarkeit von Lernprozessen, Rollen von Lehrenden/Lernenden, Verhältnis von Input/Output, Bedeutung von Kontext sowie den Status von Evaluation. Diese Annahmen sind nicht bloß „Theorie“, sondern strukturieren didaktische Architekturentscheidungen.
 
-**Antithese**  
+**Antithese**
+
 Digitale Lernsysteme werden häufig implementiert, ohne dass die zugrunde liegenden Wirkannahmen expliziert werden. Dadurch entstehen Steuerungsillusionen oder inkonsistente Architekturen (paradigmatisch widersprüchliche Konstruktionsentscheidungen).
 
-**Synthese**  
+**Synthese**
+
 Lehrparadigmen lassen sich als unterschiedliche Annahmestrukturen modellieren, die in der Architektur eines LMS unterschiedliche Wirkgefüge erzeugen. Damit wird die nachfolgende Modellierung nicht Add-on, sondern Konsequenz der Analyse.
 
 Kapitel 2 folgt einer gestuften Ebenenlogik, die vom psychischen System über bildungswissenschaftliche und medienpädagogische Rahmungen bis zur systemtheoretischen Modellintegration führt.
@@ -50,6 +54,7 @@ Kapitel 2 folgt einer gestuften Ebenenlogik, die vom psychischen System über bi
 ### Analytische Vergleichsdimensionen (Paradigmenanalyse)
 
 Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimensionen rekonstruiert:
+
 1. Wissensverständnis  
 2. Lernmechanismus  
 3. Steuerungslogik  
@@ -61,21 +66,25 @@ Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimen
 ### Paradigmen als Wirkannahmen (Skizze)
 
 **Instruktionistische Wirkannahmen**
+
 - Wissen als übertragbare Einheit; Lernen als Rezeption
 - Steuerung durch Sequenzierung; Evaluation als Outputkontrolle
 - LMS-Implikation: lineare Kursstruktur, Tests, klare Progression
 
 **Kognitivistische Wirkannahmen**
+
 - Wissen als mentale Struktur; Lernen als Informationsverarbeitung
 - Steuerung durch Aktivierung/Strukturierung (Scaffolding)
 - LMS-Implikation: Advance Organizer, adaptive Aufgaben, Unterstützungslogiken
 
 **Situative / sozialkonstruktivistische Wirkannahmen**
+
 - Wissen als situierte Praxis; Lernen als Teilnahme
 - Steuerung über soziale Einbettung und Aushandlung
 - LMS-Implikation: Foren, kollaborative Artefakte, Rollen-/Gruppenlogiken
 
 **Systemisch-konstruktivistische Referenzrahmung**
+
 - Wissen als selbstreferenzielle Konstruktion; Lernen als Irritationsverarbeitung
 - Steuerung nur indirekt über Strukturangebote; Evaluation als Beobachtung von Anschlussfähigkeit
 - LMS-Implikation: Feedbackschleifen, Reflexionsräume, Reentry-/Rekursionsstrukturen
@@ -103,9 +112,9 @@ Paradigmen unterscheiden sich nicht nur normativ, sondern dynamisch: Sie implizi
 
 Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturentscheidungen theorieabhängig und (3) vermeidet normative Paradigmenhierarchien zugunsten einer Analyse unterschiedlicher Dynamiken und Wirkgefüge.
 
----
-
 **Ab hier: bisherige Ausarbeitung (unverändert)**
+
+---
 
 **Zusammnefassung Kapitel 2**
 
