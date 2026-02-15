@@ -12,7 +12,7 @@ import sys
 SEC_ID_RE = re.compile(r"\{#(sec:[^}]+)\}")
 ZOTERO_STORAGE_KEY_RE = re.compile(r"/Zotero/storage/([A-Z0-9]{8})/")
 CITEKEY_RE = re.compile(r"(?<![\\w-])@([A-Za-z0-9][A-Za-z0-9_:\\-]*)(?![\\w-])")
-CHAPTER_ID_RE = re.compile(r"^(\\d{2}-\\d{2})\\b")
+CHAPTER_ID_RE = re.compile(r"^(\d{2}-\d{2})\b")
 
 
 def eprint(msg: str) -> None:
