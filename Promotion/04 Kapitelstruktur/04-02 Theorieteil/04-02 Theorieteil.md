@@ -490,30 +490,15 @@ Interpretationshinweis: Die Tabelle zeigt wahrscheinliche Architekturfolgen der 
 ### 2.2.6 Anthropologische und normative Tiefendimensionen {#sec:Tiefendimensionen}
 \label{term:tiefendimensionen}
 
-Hier nicht als „Paradigmen“, sondern als Rahmenschichten:
+Dieser Abschnitt führt keine weiteren Lehrparadigmen ein, sondern rekonstruiert jene anthropologischen und normativen Tiefenannahmen, in denen die zuvor analysierten Wirkannahmen jeweils verankert sind. Lernparadigmen operieren nie voraussetzungslos; sie implizieren Menschenbilder, Autonomievorstellungen und gesellschaftstheoretische Deutungen, die ihre Steuerungslogiken rahmen.
 
-**Humanismus**
+Im humanistischen Deutungshorizont steht der Subjektbegriff im Zentrum. Autonomie, Mündigkeit und Verantwortungsfähigkeit markieren hier normative Bezugspunkte pädagogischen Handelns. Lernen wird in dieser Perspektive auf Selbsttätigkeit, Selbstverhältnisklärung und Persönlichkeitsentwicklung bezogen. Damit verschiebt sich die Bewertung von Steuerungsansprüchen: Pädagogische Intervention muss sich daran messen lassen, inwiefern sie Selbstbestimmung ermöglicht oder einschränkt. Digitale Lernarchitekturen geraten vor diesem Hintergrund in eine Spannung zwischen Strukturierung und Offenheit, zwischen Anleitung und Ermöglichung.
 
-	•	Autonomie
-	•	Mündigkeit
-	•	Subjektbegriff
-	•	Menschenbild
+Kritische Theorie und Subjektivierungsansätze erweitern diesen Horizont um macht‑ und diskurstheoretische Dimensionen. Bildung wird hier als in institutionelle Ordnungen, Bewertungsregime und gesellschaftliche Ungleichheitsstrukturen eingebettet verstanden. Lernumgebungen produzieren nicht nur Wissen, sondern auch Subjektformen, Rollen und Erwartungsstrukturen. Architekturentscheidungen in einem LMS – etwa Sichtbarkeiten, Bewertungslogiken oder Datenpraktiken – können somit als machtvolle Strukturierungen gelesen werden, die Teilhabe ermöglichen oder begrenzen. Steuerungslogiken sind in dieser Perspektive stets auch Herrschafts- und Normierungslogiken.
 
-**Kritische Theorie und Subjektivierung**
+Transformatorische Bildungstheorien akzentuieren schließlich die Möglichkeit tiefgreifender Veränderungen von Welt‑ und Selbstverhältnissen. Irritation erhält hier eine normative Aufladung: Sie fungiert als Anlass für Perspektivwechsel und Neuordnung bisheriger Deutungsmuster. Lernprozesse werden nicht lediglich als Kompetenzzuwachs, sondern als qualitative Veränderung von Orientierungsrahmen interpretiert. Für digitale Bildungsräume bedeutet dies, dass Gestaltung nicht allein auf Effizienz oder Performanz abzielen kann, sondern Räume eröffnen muss, in denen biografisch bedeutsame Neuorientierungen denkbar werden.
 
-	•	Macht
-	•	Institution
-	•	Diskurs
-	•	Subjektformierung
-
-**Transformatorische Bildungstheorie**
-
-	•	Irritation
-	•	Perspektivwechsel
-	•	Neuordnung von Welt- und Selbstverhältnissen
-
-Funktion dieses Abschnitts:
-Zeigen, dass Lernparadigmen immer in anthropologische und gesellschaftstheoretische Tiefenannahmen eingebettet sind.
+Die Funktion dieses Abschnitts liegt somit darin, die paradigmatischen Wirkannahmen aus Abschnitt 2.2.3 bis 2.2.5 in ihren anthropologischen und gesellschaftstheoretischen Voraussetzungen transparent zu machen. Auf diese Weise wird sichtbar, dass Unterschiede zwischen Paradigmen nicht nur auf didaktischer Ebene liegen, sondern in divergierenden Vorstellungen vom Menschen, von Autonomie, von Macht und von Bildung selbst gründen. Diese Tiefendimensionen rahmen die spätere Parametrisierung, ohne selbst als eigenständige Modellparameter geführt zu werden.
 
 ⸻
 
