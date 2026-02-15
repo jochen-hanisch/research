@@ -285,7 +285,7 @@ Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Di
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 \label{term:bildungswiss-verortung}
 
-#todo (#35, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
+#todo (#112, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
 
 ---
 
@@ -384,8 +384,8 @@ Daraus ergibt sich als didaktische Konsequenz eine Gestaltung, die Anschlussfäh
 ### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Instruktionistisch}
 \label{term:paradigma-instruktionistisch}
 
-#todo (#79, 2026-02-15) 2.2.3–2.2.5 stilistisch entglätten (nach inhaltlicher Vertiefung): Zwischenschritte/Begründungen sichtbar machen (nicht nur Raster erfüllen), Symmetrie an geeigneten Stellen brechen, formelhafte Übergänge („Deckungsgleich/Verschieden“) durch argumentatives Gewichtungsvokabular ersetzen.
-#todo (#80, 2026-02-15) 2.2.3–2.2.5 inhaltlich vertiefen: pro Paradigma prüfen, ob tatsächlich rekonstruiert (Wirkannahmen + Kausalpläne) statt klassifiziert; konstruktivistische Lesart jeweils explizit herleiten; Differenzen als Wirkannahmen klar ausbuchstabieren; Belege prüfen/vertiefen.
+#todo (#106, 2026-02-15) 2.2.3–2.2.5 stilistisch entglätten (nach inhaltlicher Vertiefung): Zwischenschritte/Begründungen sichtbar machen (nicht nur Raster erfüllen), Symmetrie an geeigneten Stellen brechen, formelhafte Übergänge („Deckungsgleich/Verschieden“) durch argumentatives Gewichtungsvokabular ersetzen.
+#todo (#107, 2026-02-15) 2.2.3–2.2.5 inhaltlich vertiefen: pro Paradigma prüfen, ob tatsächlich rekonstruiert (Wirkannahmen + Kausalpläne) statt klassifiziert; konstruktivistische Lesart jeweils explizit herleiten; Differenzen als Wirkannahmen klar ausbuchstabieren; Belege prüfen/vertiefen.
 
 Die instruktionistische Position wird hier als Kontrastfolie rekonstruiert, um die Reichweite systemisch‑konstruktivistischer Annahmen präzise zu bestimmen. Die Rekonstruktion folgt den identischen sieben Dimensionen:
 
@@ -520,9 +520,9 @@ Zeigen, dass Lernparadigmen immer in anthropologische und gesellschaftstheoretis
 ### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 \label{term:paradigmen-modellparameter}
 
-#todo (#81, 2026-02-15) 2.2.7 operationalisieren: für jeden Parameter eine kurze Arbeitsdefinition + Mess-/Simulationslogik notieren (z.B. „Rückkopplungsdichte“ als Frequenz/Vielfalt von Feedbackkanälen; „Irritationsintensität“ klar abgrenzen von „Offenheit“).
+#todo (#108, 2026-02-15) 2.2.7 operationalisieren: für jeden Parameter eine kurze Arbeitsdefinition + Mess-/Simulationslogik notieren (z.B. „Rückkopplungsdichte“ als Frequenz/Vielfalt von Feedbackkanälen; „Irritationsintensität“ klar abgrenzen von „Offenheit“).
 
-#todo (#82, 2026-02-15) Autor*innenschaft sichtbar machen: an 1–2 Stellen begründet Position beziehen (analytische Gewichtung/Notwendigkeit des Zugriffs), ohne normative „Paradigma-besser“-Behauptung.
+#todo (#109, 2026-02-15) Autor*innenschaft sichtbar machen: an 1–2 Stellen begründet Position beziehen (analytische Gewichtung/Notwendigkeit des Zugriffs), ohne normative „Paradigma-besser“-Behauptung.
 
 Hier erfolgt der Übergang zur Dynamik:
 
@@ -552,7 +552,7 @@ Die rekonstruierten paradigmatischen Differenzen werden im Folgenden als medienp
 
 \label{term:medienpaedagogische-rahmung}
 
-#todo (#83, 2026-02-15) 2.3 Korpus-Referenzierung theorielogisch integrieren: Schlagwortachsen nicht als Themenliste stehen lassen, sondern konsequent als Spuren von Wirkannahmen/Kausalplänen (Begründungslogiken → Architekturentscheidungen) entfalten; korpus-analytische Formulierungen reduzieren.
+#todo (#110, 2026-02-15) 2.3 Korpus-Referenzierung theorielogisch integrieren: Schlagwortachsen nicht als Themenliste stehen lassen, sondern konsequent als Spuren von Wirkannahmen/Kausalplänen (Begründungslogiken → Architekturentscheidungen) entfalten; korpus-analytische Formulierungen reduzieren.
 
 ---
 
@@ -609,7 +609,7 @@ Kerres und de Witt formulieren didaktische Prinzipien auf der Grundlage einer pr
 
 \label{term:bildungstechnologie-digitalitaet}
 
-#todo (#84, 2026-02-15) 2.3.5 argumentativ zuspitzen: Bildungstechnologie/Digitalität nicht primär beschreiben, sondern als Bündel impliziter Wirkannahmen (Steuerbarkeit, Messbarkeit, Skalierung, Sichtbarkeit, Datenlogiken) rekonstruieren und an LMS-Architekturentscheidungen rückbinden.
+#todo (#111, 2026-02-15) 2.3.5 argumentativ zuspitzen: Bildungstechnologie/Digitalität nicht primär beschreiben, sondern als Bündel impliziter Wirkannahmen (Steuerbarkeit, Messbarkeit, Skalierung, Sichtbarkeit, Datenlogiken) rekonstruieren und an LMS-Architekturentscheidungen rückbinden.
 
 Die technische Seite digitaler Bildung – binäre Codierung, multimediale Verarbeitung, ubiquitäre Vernetzung – wird mit pädagogischen Anforderungen verschränkt. Der funktional-technologische Bildungsbegriff (z.B. @wiater_bildung_2022) dient als Ausgangspunkt, um den Schwerpunkt dieser Arbeit auf didaktisch-strukturelle Gestaltung zu begründen. Begriffs- und ideengeschichtlich wird dazu die Unterscheidung zwischen Technik als Bildungsproblem und technischer Bildung als Fach- und Berufsbildung herangezogen. [@benner_technik_2004-1, Seite 987, „Im folgenden Beitrag wird zunächst der Begriff »technische Bildung« allgemein und ideengeschichtlich als Technik und Bildung diskutiert. In einem zweiten Teil wird die technische Bildung als Fachbildung … exemplifiziert“]
 Digitalisierung wird für Lehr und Lernprozesse als didaktische Veränderung verstanden, die Anforderungen an Gestaltung, Organisation und professionelle Handlungspraxis verschiebt und damit Lernarchitektur, Rollen und Formen von Kommunikation neu ordnet. [@gloerfeld_auswirkungen_2020]
