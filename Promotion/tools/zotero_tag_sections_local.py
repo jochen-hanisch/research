@@ -12,6 +12,7 @@ import sys
 SEC_ID_RE = re.compile(r"\{#(sec:[^}]+)\}")
 ZOTERO_STORAGE_KEY_RE = re.compile(r"/Zotero/storage/([A-Z0-9]{8})/")
 CITEKEY_RE = re.compile(r"(?<![\\w-])@([A-Za-z0-9][A-Za-z0-9_:\\-]*)(?![\\w-])")
+CHAPTER_ID_RE = re.compile(r"^(\\d{2}-\\d{2})\\b")
 
 
 def eprint(msg: str) -> None:
@@ -60,6 +61,37 @@ def parse_markdown_citations(md_paths: list[str]) -> dict[str, set[str]]:
         except FileNotFoundError:
             eprint(f"Missing Markdown file: {md_path} (line {line_no})")
     return citekey_to_sections
+
+
+def chapter_id_from_path(md_path: str):
+    base = os.path.basename(md_path)
+    m = CHAPTER_ID_RE.match(base)
+    if m:
+        return m.group(1)
+    parent = os.path.basename(os.path.dirname(md_path))
+    m = CHAPTER_ID_RE.match(parent)
+    if m:
+        return m.group(1)
+    return None
+
+
+def parse_markdown_chapter_citations(md_paths: list[str]) -> dict[str, set[str]]:
+    citekey_to_chapters: dict[str, set[str]] = {}
+    for md_path in md_paths:
+        chapter_id = chapter_id_from_path(md_path)
+        if not chapter_id:
+            continue
+        try:
+            with open(md_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    for m in CITEKEY_RE.finditer(line):
+                        citekey = m.group(1)
+                        citekey_to_chapters.setdefault(citekey, set()).add(chapter_id)
+        except UnicodeDecodeError:
+            eprint(f"Skip non-utf8 Markdown: {md_path}")
+        except FileNotFoundError:
+            eprint(f"Missing Markdown file: {md_path}")
+    return citekey_to_chapters
 
 
 def parse_bib_storage_keys(bib_path: str) -> dict[str, set[str]]:
@@ -111,6 +143,11 @@ def main() -> int:
         default="Promotion:",
         help="Tag prefix (default: Promotion:)",
     )
+    ap.add_argument(
+        "--tag-chapters",
+        action="store_true",
+        help="Also tag cited items with chapter IDs inferred from Markdown filenames (e.g., Promotion:chap:04-02).",
+    )
     ap.add_argument("--apply", action="store_true", help="Write tags (otherwise dry-run)")
     ap.add_argument(
         "--out",
@@ -118,6 +155,7 @@ def main() -> int:
         help="CSV output path (default: tools/zotero_promotion_section_tags.local.csv)",
     )
     args = ap.parse_args()
+    chapter_prefix = f"{args.tag_prefix}chap:"
 
     md_paths = iter_markdown_files(args.md_root)
     if not md_paths:
@@ -131,8 +169,9 @@ def main() -> int:
         return 2
 
     citekey_to_sections = parse_markdown_citations(md_paths)
-    if not citekey_to_sections:
-        eprint("No citekeys found inside labeled sections ({#sec:...}).")
+    citekey_to_chapters = parse_markdown_chapter_citations(md_paths) if args.tag_chapters else {}
+    if not citekey_to_sections and not citekey_to_chapters:
+        eprint("No citekeys found (neither inside labeled sections {#sec:...} nor for chapter tagging).")
         return 2
 
     storage_by_citekey = parse_bib_storage_keys(args.bib)
@@ -140,17 +179,25 @@ def main() -> int:
     attachment_to_tags: dict[str, set[str]] = {}
     missing_in_bib = 0
     missing_storage = 0
-    for citekey, sections in sorted(citekey_to_sections.items()):
+    citekeys_all = set(citekey_to_sections.keys()) | set(citekey_to_chapters.keys())
+    for citekey in sorted(citekeys_all):
+        sections = citekey_to_sections.get(citekey) or set()
+        chapters = citekey_to_chapters.get(citekey) or set()
         section_tags = {f"{args.tag_prefix}{sec}" for sec in sections}
+        chapter_tags = {f"{chapter_prefix}{c}" for c in chapters}
+        all_tags = section_tags | chapter_tags
         storage_keys = storage_by_citekey.get(citekey) or set()
         if citekey not in storage_by_citekey:
             missing_in_bib += 1
         if not storage_keys:
             missing_storage += 1
         for storage_key in storage_keys:
-            attachment_to_tags.setdefault(storage_key, set()).update(section_tags)
+            attachment_to_tags.setdefault(storage_key, set()).update(all_tags)
 
-    con = sqlite3.connect(args.db, timeout=10)
+    if args.apply:
+        con = sqlite3.connect(args.db, timeout=10)
+    else:
+        con = sqlite3.connect(f"file:{args.db}?mode=ro", uri=True, timeout=10)
     con.row_factory = sqlite3.Row
     con.execute("PRAGMA foreign_keys=ON")
     con.execute("PRAGMA busy_timeout=10000")
