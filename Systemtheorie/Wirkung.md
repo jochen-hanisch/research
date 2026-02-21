@@ -9,9 +9,7 @@ published:
 tags:
 ---
 
-
 created: 21.2.2026 | [updated](): 21.2.2026 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
-
 
 # Einleitung
 
@@ -32,7 +30,6 @@ Wirkung bezeichnet eine im Verlauf beobachtbare Differenz zwischen Zuständen, d
 Eine Differenz liegt vor, wenn zwischen mindestens zwei Zuständen ein unterscheidbarer Unterschied markiert werden kann. Nicht jede Differenz ist jedoch Wirkung. Zur Wirkung wird eine Differenz erst dann, wenn sie anschlussrelevant wird, das heißt, wenn sie weitere Operationen eines Systems verändert oder die Wahrscheinlichkeit zukünftiger Zustände verschiebt.
 
 Wirkung ist damit weder als notwendige Verknüpfung zwischen Ereignissen noch als übertragene Kraft zu verstehen. Wirkung bezeichnet vielmehr eine verlaufsmodifizierende Differenz innerhalb eines relationalen Gefüges.
-
 
 # 2 Herleitung
 
@@ -66,17 +63,13 @@ Spencer Brown bestimmt mit dem Begriff der Unterscheidung die elementare Operati
 
 Hier erreicht der Wirkbegriff seine formale Verdichtung: Wirkung bezeichnet eine Differenz, die anschlussrelevant wird und weitere Differenzen im Verlauf generiert. Damit wird Wirkung als verlaufsmodifizierende Differenz innerhalb eines relationalen Gefüges bestimmbar.
 
-
 ## 2.6 Prozessdimension: Wirken
 
 Während „Wirkung“ die anschlussrelevante Differenz bezeichnet, verweist „wirken“ auf die prozessuale Dimension ihrer Hervorbringung. Wirken beschreibt den operativen Verlauf, in dem durch Unterscheidungen, Irritationen und Anschlussoperationen Differenzen entstehen, stabilisiert oder transformiert werden.
 
 Wirken ist damit keine Übertragung von Kraft, sondern die zeitliche Entfaltung operativer Differenzerzeugung innerhalb eines relationalen Gefüges. Es bezeichnet die Dynamik, durch die Zustände sich verändern und Anschlusswahrscheinlichkeiten verschoben werden. Wirkung ist das als relevant markierte Resultat dieses Verlaufs; Wirken ist dessen operative Vollzugsform.
 
-
-
 ## 2.7 Strukturdiagramm: Wirkung als verlaufsmodifizierende Differenz
-
 
 ```mermaid
 flowchart TD
@@ -98,21 +91,40 @@ flowchart TD
     J --> K[Verlaufsmodifikation]
     K --> F
 ```
+
 Das Diagramm visualisiert die begriffliche Herleitung und die formale Struktur des Wirkbegriffs. In der oberen Ebene wird die argumentative Verdichtung dargestellt: von der alltagssprachlichen Ursache‑Wirkung‑Relation über die erkenntnistheoretische Problematisierung (Hume) und die physikalische Relationalität bis hin zur systemtheoretischen Operationslogik und der formalen Fundierung bei Spencer Brown und Bateson.
 
 Die untere Ebene zeigt die operative Struktur: Ausgangspunkt ist eine Differenz. Erst wenn diese Differenz anschlussrelevant wird, entsteht Wirkung. Bleibt Anschluss aus, handelt es sich lediglich um eine Zustandsdifferenz ohne operative Konsequenz. Wird Anschluss generiert, entfaltet sich Wirken als prozessuale Dynamik, die den weiteren Verlauf modifiziert und wiederum neue Differenzen erzeugt. Das Diagramm bildet somit die zyklische Struktur von Differenz, Anschluss und Verlaufsmodifikation ab.
 
 # 3 Folgerungen
 
+Aus der Definition von Wirkung als verlaufsmodifizierende, anschlussrelevante Differenz ergeben sich folgende notwendige Konsequenzen:
+
+## 3.1 Ontologische Folgerung (A)
+
+Wenn Wirkung eine anschlussrelevante Differenz ist, folgt, dass nicht jede Zustandsänderung Wirkung darstellt. Eine Zustandsänderung ist als Differenz zu bestimmen; zur Wirkung wird sie ausschließlich dann, wenn sie weitere Zustandsverläufe verändert.
+
+Damit ist Wirkung kategorial von bloßer Differenz zu unterscheiden. Jede Wirkung ist Differenz; nicht jede Differenz ist Wirkung.
+
+## 3.2 Epistemologische Folgerung (B)
+
+Wenn Wirkung eine Differenz bezeichnet, die weitere Differenzen erzeugt, folgt, dass Wirkung nicht unmittelbar als solche beobachtbar ist. Beobachtbar sind Zustände und Zustandsverläufe; Wirkung wird über den Vergleich mindestens zweier Zustände sowie deren Anschlussrelation bestimmt.
+
+Die Zuschreibung von Wirkung setzt somit die Markierung von Differenz und die Feststellung von Anschluss voraus.
+
+## 3.3 Systemisch‑operative Folgerung (C)
+
+Wenn Wirkung als anschlussrelevante Differenz innerhalb eines Systems bestimmt wird, folgt, dass Wirkung nicht zwischen Systemen übertragen wird, sondern als systeminterne Modifikation entsteht.
+
+Eine Differenz wird zur Wirkung, sofern sie weitere Operationen verändert oder die Wahrscheinlichkeit zukünftiger Zustände verschiebt. Wirkung ist daher operativ bestimmt und nicht als notwendige Kausalverknüpfung zu verstehen.
+
 # 4 Implikationen
 
 # 5 Kritik
 
-
 # 6 Zusammenfassung
 
 # Quelle(n)
-
 
 ---
 
