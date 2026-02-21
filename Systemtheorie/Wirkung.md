@@ -33,6 +33,10 @@ Wirkung ist damit weder als notwendige Verknüpfung zwischen Ereignissen noch al
 
 # 2 Herleitung
 
+Die Herleitung des Wirkbegriffs erfolgt schrittweise entlang unterschiedlicher theoretischer Bezugsebenen. Ziel ist keine historische Rekonstruktion, sondern eine systematische Verdichtung. Ausgangspunkt bildet die alltagssprachliche Semantik, da sie den impliziten Hintergrund vieler wissenschaftlicher Verwendungen markiert. Darauf aufbauend wird die erkenntnistheoretische Problematisierung entfaltet, welche die Annahme notwendiger Verknüpfungen relativiert. Die physikalische Perspektive führt eine relationale Bestimmung von Zustandsänderungen ein. In der systemtheoretischen Reformulierung wird Wirkung operativ bestimmt. Abschließend erfolgt eine formaltheoretische Präzisierung über den Begriff der Differenz.
+
+Die Abfolge folgt einer begrifflichen Bewegung von intuitiver Veränderungszuschreibung hin zu einer strukturell bestimmten, operativ anschlussfähigen Differenzbestimmung. Jede Ebene reduziert implizite Annahmen und erhöht zugleich die formale Präzision des Begriffs.
+
 ## 2.1 Alltagssprachliche Grundsemantik (Duden)
 
 Der Duden definiert Wirkung als „durch eine verursachende Kraft bewirkte Veränderung, Beeinflussung, bewirktes Ergebnis“. Diese Bestimmung enthält drei strukturelle Elemente: eine verursachende Instanz, eine Veränderung sowie ein Ergebnis. Wirkung erscheint hier als lineare Ursache‑Wirkung‑Relation. Diese Semantik ist kraftbasiert und impliziert eine notwendige Verknüpfung zwischen Ereignissen.
