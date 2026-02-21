@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch
 title: Wirkungswahrscheinlichkeit
-Repository: 
+Repository:
 created: 2024-09-26
 updated: 2024-12-10
 publish: true
@@ -17,15 +17,13 @@ tags:
   - Systemdynamik
   - werkannalgorithmen
 published: 2024-10-26
-project: []
-status: published
 ---
 
-created: 26.09.2024 | updated: 26.10.2024 | published: 26.10.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 26.09.2024 | updated: 26.10.2024 | published: 26.10.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions)  | [[Hinweise]]
 
 # 1 Definition
 
-Die Wirkungswahrscheinlichkeit beschreibt die Wahrscheinlichkeit, mit der eine bestimmte [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] innerhalb eines definierten [[Wirkungsraum|Wirkungsraums]] auftritt. Sie wird durch die quantitativen Werte von Einflussfaktoren bestimmt, die in einem System miteinander interagieren, und gibt an, wie stark ein Ereignis (z. B. eine Handlung oder Intervention) das Verhalten des Systems verändert. Im Gegensatz zur klassischen Wahrscheinlichkeit berücksichtigt die Wirkungswahrscheinlichkeit sowohl positive als auch negative Einflüsse. Diese werden durch Wahrscheinlichkeitswerte im Bereich von -1 bis +1 dargestellt. Positive Werte zeigen die Wahrscheinlichkeit einer erwünschten Wirkung an, während negative Werte die Wahrscheinlichkeit einer unerwünschten Wirkung darstellen. Der Wert 0 bezeichnet eine neutrale Wirkung oder das Fehlen einer signifikanten Veränderung. Die Wirkungswahrscheinlichkeit dient zur Berechnung des Nettoeffekts von gleichzeitig auftretenden fördernden und hemmenden Einflüssen, indem sie die Gesamtwirkung eines Ereignisses im System abbildet.
+Die Wirkungswahrscheinlichkeit beschreibt die Wahrscheinlichkeit, mit der eine bestimmte [[Wirkung]] innerhalb eines definierten [[Wirkungsraum|Wirkungsraums]] auftritt. Sie wird durch die quantitativen Werte von Einflussfaktoren bestimmt, die in einem System miteinander interagieren, und gibt an, wie stark ein Ereignis (z. B. eine Handlung oder Intervention) das Verhalten des Systems verändert. Im Gegensatz zur klassischen Wahrscheinlichkeit berücksichtigt die Wirkungswahrscheinlichkeit sowohl positive als auch negative Einflüsse. Diese werden durch Wahrscheinlichkeitswerte im Bereich von -1 bis +1 dargestellt. Positive Werte zeigen die Wahrscheinlichkeit einer erwünschten Wirkung an, während negative Werte die Wahrscheinlichkeit einer unerwünschten Wirkung darstellen. Der Wert 0 bezeichnet eine neutrale Wirkung oder das Fehlen einer signifikanten Veränderung. Die Wirkungswahrscheinlichkeit dient zur Berechnung des Nettoeffekts von gleichzeitig auftretenden fördernden und hemmenden Einflüssen, indem sie die Gesamtwirkung eines Ereignisses im System abbildet.
 
 # 2 Herleitung
 

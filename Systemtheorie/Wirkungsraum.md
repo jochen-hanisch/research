@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch
 title: Wirkungsraum
-project: 
+project:
 created: 2024-09-27
 updated: 2024-12-10
 publish: false
@@ -16,7 +16,6 @@ tags:
   - Forschung
   - Bildungswissenschaft
   - Wirkungsraum
-status: published
 ---
 
 created: 27.09.2024 | updated: 26.11.2024 | published: 26.11.2024 | [[Hinweise]]
