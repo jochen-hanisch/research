@@ -28,7 +28,7 @@ Gefüge ist folglich die strukturelle Bedingung der Möglichkeit von Wirkung. Oh
 
 ## Werkstoffkundliche Präzisierung des Gefügebegriffs
 
-Eine präzise Analogie findet sich in der Werkstoffkunde. Dort bezeichnet „Gefüge“ nicht die atomare Gitterstruktur eines einzelnen Kristalls, sondern die Anordnung, Größe, Form und relationale Kopplung der Kristallite innerhalb eines Werkstoffes. Sichtbar wird dieses Gefüge erst durch einen methodischen Eingriff: Eine geschliffene, polierte und geätzte Schnittfläche, das sogenannte Schliffbild, macht die Korngrenzen, Wachstumsrichtungen und Helligkeitsunterschiede zwischen den einzelnen Kristallen erkennbar (Domke, 2001).
+Eine präzise Analogie findet sich in der Werkstoffkunde. Dort bezeichnet „Gefüge“ nicht die atomare Gitterstruktur eines einzelnen Kristalls, sondern die Anordnung, Größe, Form und relationale Kopplung der Kristallite innerhalb eines Werkstoffes (Bargel & Schulze, 1994; Domke, 2001). Sichtbar wird dieses Gefüge erst durch einen methodischen Eingriff: Eine geschliffene, polierte und geätzte Schnittfläche, das sogenannte Schliffbild, macht die Korngrenzen, Wachstumsrichtungen und Helligkeitsunterschiede zwischen den einzelnen Kristallen erkennbar (Domke, 2001).
 
 Entscheidend ist: Die mechanischen Eigenschaften eines Werkstoffes ergeben sich nicht aus dem isolierten Kristall, sondern aus dem Gefüge. Korngröße, Korngrenzen und bevorzugte Wachstumsrichtungen beeinflussen Festigkeit, Zähigkeit und Rissausbreitung. Wirkung entsteht somit nicht aus dem Einzelteil, sondern aus der relationalen Struktur der Teile.
 
@@ -50,10 +50,29 @@ Akteur*innen erzeugen durch ihre Operationen kontinuierlich Differenzen, beispie
 
 Gefügedesign kann daher als Gestaltung von Anschlussbedingungen verstanden werden. Es zielt nicht auf die Erzeugung bestimmter Effekte, sondern auf die Erhöhung der Wahrscheinlichkeit verlaufsmodifizierender Anschlüsse. Wirkung erscheint in dieser Perspektive als emergentes Resultat differenzieller Prozesse innerhalb eines relational stabilisierten Gefüges.
 
+## Dynamik des Gefüges: Quantität, Qualität, Zeit
+
+Gefüge ist stets dynamisch. Seine Veränderung lässt sich entlang dreier Achsen modellieren: Quantität, Qualität und Zeit. Diese Achsen bilden einen dreidimensionalen Zustandsraum, in dem sich die Entwicklung eines Gefüges als Trajektorie beschreiben lässt.
+
+### Quantität
+
+Quantität bezeichnet die Frequenz und Dichte von Operationen innerhalb des Gefüges. Operationalisierbar ist sie beispielsweise über die Anzahl von Beiträgen, die Interaktionsdichte, die Anzahl aktiver Akteurinnen und Akteure oder die Häufigkeit von Feedbackzyklen. Formal lässt sich Quantität als Anzahl von Operationen pro Zeiteinheit bestimmen.
+
+### Qualität
+
+Qualität bezeichnet die Anschlussfähigkeit erzeugter Differenzen. Sie zeigt sich im Modifikationsgrad nachfolgender Operationen, in Bezugnahmen auf vorangegangene Beiträge, in der Entscheidungsrelevanz oder in der strukturellen Passung zum bestehenden Gefüge. Qualität beschreibt damit die Intensität, mit der eine Differenz weitere Operationen beeinflusst.
+
+### Zeit
+
+Zeit bildet die Verlaufsdimension des Gefüges. Sie umfasst Sequenzierung, Rhythmus, Wiederholung und Stabilisierung. Erst durch zeitliche Verdichtung entsteht ein lernbares oder organisationswirksames Gefüge. Einzelne Operationen gewinnen Wirkung durch ihre Einbettung in zeitlich strukturierte Anschlussketten.
+
+Ein Gefügezustand zu einem Zeitpunkt t kann als Funktion von Quantität und Qualität beschrieben werden. Die Entwicklung über die Zeit erzeugt eine Bahn im Zustandsraum. Wirkung entsteht als Ergebnis dieser Bewegung. Gefügedesign beeinflusst damit nicht einzelne Effekte direkt, sondern verschiebt die Wahrscheinlichkeitsräume möglicher Verlaufsentwicklungen.
+
 # 5 Kritik
 
 # 6 Zusammenfassung
 
 # Quelle(n)
 
-- Domke, W. (2001). Werkstoffkunde und Werkstoffprüfung (10., verb. Aufl.). Girardet.
+- Bargel, H.-J., & Schulze, G. (Hrsg.). (1994). Werkstoffkunde (6., überarb. Aufl.). VDI-Verlag.
+- Domke, Wilhelm. (1994). Werkstoffkunde und Werkstoffprüfung (10. Aufl.). Cornelsen Verlag.
