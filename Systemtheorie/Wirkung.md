@@ -19,7 +19,7 @@ tags:
   - Wirkungswahrscheinlichkeit
 ---
 
-created: 21.2.2026 | [updated](): 22.2.2026 | [published](https://zenodo.org/records/18728202): 22.2.2026 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 21.2.2026 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Wirkung.md): 22.2.2026 | [published](https://zenodo.org/records/18728202): 22.2.2026 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
