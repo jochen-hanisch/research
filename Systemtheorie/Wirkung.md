@@ -130,19 +130,19 @@ Die untere Ebene zeigt die operative Struktur: Ausgangspunkt ist eine Differenz.
 
 Aus der Definition von Wirkung als verlaufsmodifizierende, anschlussrelevante Differenz ergeben sich folgende notwendige Konsequenzen:
 
-## 3.1 Ontologische Folgerung (A)
+## 3.1 Ontologische Folgerung
 
 Nicht jede Zustandsänderung ist schon Wirkung. Eine Zustandsänderung ist zunächst eine Differenz; zur Wirkung wird sie ausschließlich dann, wenn sie weitere Zustandsverläufe verändert oder Anschlusswahrscheinlichkeiten verschiebt. Der Begriff zwingt damit zu einer sauberen Unterscheidung zwischen „es ist anders geworden“ und „es ist so anders geworden, dass es weiterwirkt“.
 
 Damit ist Wirkung kategorial von bloßer Differenz zu unterscheiden. Jede Wirkung ist Differenz; nicht jede Differenz ist Wirkung.
 
-## 3.2 Epistemologische Folgerung (B)
+## 3.2 Epistemologische Folgerung
 
 Wirkung ist nicht unmittelbar als solche beobachtbar. Beobachtbar sind Zustände und Zustandsverläufe; Wirkung wird über den Vergleich mindestens zweier Zustände sowie deren Anschlussrelation bestimmt. Wer „Wirkung“ behauptet, behauptet damit immer auch eine bestimmte Rekonstruktion: Welche Differenz wurde markiert, auf welche Konstellation wurde sie bezogen, und woran zeigt sich der Anschluss?
 
 Die Zuschreibung von Wirkung setzt somit die Markierung von Differenz und die Feststellung von Anschluss voraus.
 
-## 3.3 Systemisch‑operative Folgerung (C)
+## 3.3 Systemisch‑operative Folgerung
 
 Wirkung wird nicht „zwischen Systemen“ übertragen wie ein Paket. Sie entsteht als systeminterne Modifikation von Operationsverläufen – auch dann, wenn mehrere Systeme strukturell gekoppelt sind und sich wechselseitig irritieren. Für Praxis und Forschung heißt das: Man kann Einflüsse beschreiben, Interventionen ansetzen und Kopplungen analysieren, aber die Entstehung von Wirkung bleibt an die jeweilige Anschlusslogik gebunden.
 
@@ -193,7 +193,6 @@ Unter Bedingungen kontingenter, anschlussrelevanter Wirkung kann Verantwortung n
 Verantwortung ist damit als Verantwortung für die Gestaltung von Bedingungen zu präzisieren. Verantwortlich ist die Strukturierung von Relationen, Anschlussmöglichkeiten und Wahrscheinlichkeitsräumen, innerhalb derer Differenzen wirksam werden können. In medizinischen wie pädagogischen Kontexten bedeutet dies ein Primat der Gefügegestaltung gegenüber dem Anspruch determinierter Resultate.
 
 Diese Perspektive entlastet nicht von Verantwortung, sondern präzisiert sie: Verantwortung bezieht sich auf die reflexive Gestaltung operativer Bedingungen unter Anerkennung von Kontingenz.
-
 
 # 5 Kritik
 
