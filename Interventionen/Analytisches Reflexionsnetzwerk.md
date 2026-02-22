@@ -50,7 +50,7 @@ Ziel des Analytischen Reflexionsnetzwerks ist die methodisch fundierte Strukturi
 Das Analytische Reflexionsnetzwerk (ARN) bezeichnet eine wissenschaftlich fundierte Methode zur strukturierenden Analyse pädagogischer Interventionen. Die Methode basiert auf einem dreidimensionalen Beobachtungsraum, in dem jede Handlungseinheit anhand von drei eindeutig definierbaren Koordinaten erfasst wird:
 
 1. **Handlungsfeld** – die fachlich oder institutionell definierte Kategorie der Handlung (z. B. diagnostische Maßnahme, Kommunikation, Dokumentation),
-2. **Reflexionsdimension** – die jeweils zugeordnete Perspektive entlang der sieben Fragen des After-Action-Review (z. B. Zielklarheit, Wahrnehmung, Wirkung),
+2. **Reflexionsdimension** – die jeweils zugeordnete Perspektive entlang der sieben Fragen des After-Action-Review (z. B. Zielklarheit, Wahrnehmung, [[Wirkung]]),
 3. **Zeitverlauf** – der chronologisch kodierbare Zeitpunkt oder Zeitraum der beobachteten Handlung.
 
 Das Analytische Reflexionsnetzwerk ermöglicht die systematische Sichtbarmachung, Kontextualisierung und reflexive Bewertung professioneller Handlung in komplexen Anwendungsfeldern. Die Methode dient der qualitativen und quantitativen Analyse beobachteter Praxisanteile und unterstützt die evidenzbasierte Entwicklung individueller oder kollektiver Kompetenz.
@@ -67,7 +67,7 @@ Im Zentrum steht die Ermöglichung von Reflexion über berufliches Handeln im Mo
 
 Das Analytische Reflexionsnetzwerk (ARN) basiert auf grundlegenden psychologischen Konzepten der Selbstregulation, der Motivation sowie des kognitiv- und sozialpsychologischen Lernverständnisses. Pädagogisches Handeln wird innerhalb dieser Perspektive als intentional gesteuerter, beobachtbarer und reflexiv rekonstruierbarer Prozess verstanden, der sich durch Wahrnehmung, Entscheidung und Handlung in dynamischen Lernsituationen vollzieht (Zimmerman, 2002).
 
-Zentrale theoretische Bezugsrahmen bilden dabei die Theorie der Selbstregulation (Bandura, 1991), die motivationspsychologische Unterscheidung intrinsischer und extrinsischer Handlungsmotivation (Deci & Ryan, 1985) sowie kognitive Informationsverarbeitungsmodelle des Lernens, insbesondere das sozialkognitive Lernen durch Beobachtung (Bandura, 1977). Die AAR-Fragen im ARN adressieren gezielt diese psychologischen Steuerungsprozesse (Hagemann, 2001): Die Frage nach Zielklarheit (F1) berührt intendierte Handlungsergebnisse, die Frage nach Wahrnehmung (F2) thematisiert selektive Aufmerksamkeit und Situation Awareness, während Fragen zu Wirkung (F4), Kontext (F5) oder Teamverhalten (F6) explizit auf Bewertungen, Attributionen und Interaktionsprozesse abzielen.
+Zentrale theoretische Bezugsrahmen bilden dabei die Theorie der Selbstregulation (Bandura, 1991), die motivationspsychologische Unterscheidung intrinsischer und extrinsischer Handlungsmotivation (Deci & Ryan, 1985) sowie kognitive Informationsverarbeitungsmodelle des Lernens, insbesondere das sozialkognitive Lernen durch Beobachtung (Bandura, 1977). Die AAR-Fragen im ARN adressieren gezielt diese psychologischen Steuerungsprozesse (Hagemann, 2001): Die Frage nach Zielklarheit (F1) berührt intendierte Handlungsergebnisse, die Frage nach Wahrnehmung (F2) thematisiert selektive Aufmerksamkeit und Situation Awareness, während Fragen zu [[Wirkung]] (F4), Kontext (F5) oder Teamverhalten (F6) explizit auf Bewertungen, Attributionen und Interaktionsprozesse abzielen.
 
 Reflexion wird in dieser Perspektive nicht als nachgelagerte Handlung, sondern als integraler Bestandteil der lernpsychologischen Selbststeuerung verstanden (Schiefele & Pekrun, 1996). Durch die Markerstruktur des ARN können individuelle und kollektive Verarbeitungsprozesse externalisiert, rekonstruiert und in wiederholbare Reflexionsschleifen überführt werden.
 
@@ -75,9 +75,9 @@ Die psychologische Perspektive begründet somit den Einsatz des ARN als struktur
 
 ## 2.3 Reflexions- und erkenntnistheoretische Perspektive
 
-Das Analytische Reflexionsnetzwerk (ARN) stützt sich auf erkenntnistheoretische Positionen, die berufliches Handeln als strukturierte Erfahrung interpretieren und Reflexion als epistemische Praxis zur Re-Konstruktion von Bedeutung, Absicht und Wirkung begreifen. Innerhalb dieser Perspektive ist professionelles Wissen nicht nur deklarativ oder prozedural, sondern in hohem Maße kontextgebunden, erfahrungsbasiert und prinzipiell rekonstruierbar (Schön, 1983).
+Das Analytische Reflexionsnetzwerk (ARN) stützt sich auf erkenntnistheoretische Positionen, die berufliches Handeln als strukturierte Erfahrung interpretieren und Reflexion als epistemische Praxis zur Re-Konstruktion von Bedeutung, Absicht und [[Wirkung]] begreifen. Innerhalb dieser Perspektive ist professionelles Wissen nicht nur deklarativ oder prozedural, sondern in hohem Maße kontextgebunden, erfahrungsbasiert und prinzipiell rekonstruierbar (Schön, 1983).
 
-Reflexion über berufliches Handeln wird im ARN nicht als retrospektives Urteil verstanden, sondern als dialogische Auseinandersetzung mit Deutungsmustern, Widersprüchen und impliziten Handlungslogiken (Boud, Keogh & Walker, 1985). Die systematische Zuordnung beobachteter Handlungseinheiten zu reflexiven Leitfragen (z. B. Ziel, Wirkung, Teamverhalten) erlaubt die Auflösung linearer Deutungsmodelle zugunsten eines mehrdimensionalen Reflexionsraums (Hagemann, 2001). Dieser Raum fördert nicht nur das Verständnis für situative Komplexität, sondern auch die Entfaltung epistemischer Verantwortung (Koller, 2012).
+Reflexion über berufliches Handeln wird im ARN nicht als retrospektives Urteil verstanden, sondern als dialogische Auseinandersetzung mit Deutungsmustern, Widersprüchen und impliziten Handlungslogiken (Boud, Keogh & Walker, 1985). Die systematische Zuordnung beobachteter Handlungseinheiten zu reflexiven Leitfragen (z. B. Ziel, [[Wirkung]], Teamverhalten) erlaubt die Auflösung linearer Deutungsmodelle zugunsten eines mehrdimensionalen Reflexionsraums (Hagemann, 2001). Dieser Raum fördert nicht nur das Verständnis für situative Komplexität, sondern auch die Entfaltung epistemischer Verantwortung (Koller, 2012).
 
 In bildungstheoretischer Perspektive folgt das ARN dem Anspruch, subjektives Erfahrungswissen in systematisch strukturierter Form bearbeitbar zu machen – als Voraussetzung für Erkenntnisgewinn, Selbstverständigung und professionelle Urteilskraft (Mezirow, 1991; Helsper, 2004). Die methodische Trennung von Zeit, Handlungsbereich und Reflexionsdimension schafft epistemische Ordnungsraster, ohne subjektive Erfahrung zu entwerten – im Gegenteil: Die rekonstruierte Position des Subjekts im Raum strukturierter Handlung wird zum Gegenstand erkenntnisorientierter Beobachtung.
 
@@ -89,7 +89,7 @@ Die strukturelle Modellierung des Analytischen Reflexionsnetzwerks (ARN) basiert
 
 - Die **X-Achse** umfasst institutionell oder curriculumbasiert definierte Handlungsbereiche (z. B. diagnostisches Vorgehen, Maßnahmenwahl, Übergabeprozesse). Diese Struktur orientiert sich an den normativen Vorgaben einer Ausbildung oder Prüfung und bildet die fachlich-praktische Bezugsfläche.
   
-- Die **Y-Achse** enthält die sieben leitenden Reflexionsdimensionen des After-Action-Review (z. B. Zielklärung, Wahrnehmung, Wirkung, Kontext, Teamverhalten). Diese Dimensionen dienen der theoriebasierten Interpretation und Bewertung beobachteten Handelns.
+- Die **Y-Achse** enthält die sieben leitenden Reflexionsdimensionen des After-Action-Review (z. B. Zielklärung, Wahrnehmung, [[Wirkung]], Kontext, Teamverhalten). Diese Dimensionen dienen der theoriebasierten Interpretation und Bewertung beobachteten Handelns.
 
 - Die **Z-Achse** markiert den **zeitlichen Verlauf** der Intervention, entweder als Echtzeitlinie (in Minuten oder Sequenzen) oder als Markercode in einem Audio-/ Videodokument. Die Zeitachse ermöglicht die Kontextualisierung von Handlungen im Ablauf und erlaubt diachrone Musteranalysen.
 
@@ -107,7 +107,7 @@ Die nachfolgenden Beispiele beschreiben konkrete Anwendungskontexte des Analytis
 
 In der Abschlussbesprechung eines mehrjährigen Modellprojekts zur rettungsdienstlichen Ausbildung berichten Praxisanleiter:innen von „ständigen Wiederholungsschleifen“ bei bestimmten Handlungsmustern – etwa bei Diagnosestellung unter Zeitdruck. Diese Einzelbeobachtungen verdichten sich durch systematische Markeranalysen im ARN: Mehr als 400 markerbasierte Rückmeldungen aus Fieldsupervision, Prüfung und Simulation werden in einem gemeinsamen Datenraum aggregiert.
 
-Die daraus entstehende Heatmap zeigt eine auffällige Unterrepräsentation von Reflexionsdimension **F1 (Zielklärung)** in den Handlungsfeldern „Diagnostik“ und „Kommunikation mit Dritten“. Gleichzeitig zeigt sich eine hohe Markerhäufung in **F4 (Wirkung)** während der Übergabe. Diese Muster führen zur Umstrukturierung des Curriculums: Ein neuer Schwerpunkt „Zielkommunikation unter dynamischen Bedingungen“ wird entwickelt, validiert und integriert.
+Die daraus entstehende Heatmap zeigt eine auffällige Unterrepräsentation von Reflexionsdimension **F1 (Zielklärung)** in den Handlungsfeldern „Diagnostik“ und „Kommunikation mit Dritten“. Gleichzeitig zeigt sich eine hohe Markerhäufung in **F4 ([[Wirkung]])** während der Übergabe. Diese Muster führen zur Umstrukturierung des Curriculums: Ein neuer Schwerpunkt „Zielkommunikation unter dynamischen Bedingungen“ wird entwickelt, validiert und integriert.
 
 ### Beispiel 2: Videobasiertes Szenarientraining
 
@@ -135,15 +135,15 @@ Während einer Abschlussprüfung in der Notfallsanitäter:innenausbildung dokume
 Beispielhafte Marker:
 
 - `[Diagnostik] / [F1 Ziel] / [Min 01:00]`: „Ziel der Maßnahme wird nicht ausgesprochen“  
-- `[Sofortmaßnahmen] / [F4 Wirkung] / [Min 04:20]`: „Medikation zeigt Wirkung, keine verbale Rückmeldung“
+- `[Sofortmaßnahmen] / [F4 [[Wirkung]]] / [Min 04:20]`: „Medikation zeigt [[Wirkung]], keine verbale Rückmeldung“
 
-Nach Prüfungsende wird das Markerprotokoll als Grundlage für das Reflexionsgespräch genutzt. Die Auswertung erfolgt nicht linear, sondern entlang thematischer Achsen: „Wie wurde Wirkung wahrgenommen und kommuniziert?“ oder „Wo blieb Zielorientierung unklar?“ So entsteht ein dialogischer Raum jenseits von „richtig/falsch“, aber mit Bezug zur Leistung.
+Nach Prüfungsende wird das Markerprotokoll als Grundlage für das Reflexionsgespräch genutzt. Die Auswertung erfolgt nicht linear, sondern entlang thematischer Achsen: „Wie wurde [[Wirkung]] wahrgenommen und kommuniziert?“ oder „Wo blieb Zielorientierung unklar?“ So entsteht ein dialogischer Raum jenseits von „richtig/falsch“, aber mit Bezug zur Leistung.
 
 ### Beispiel 5: Einsatzsupervision in der Berufspraxis
 
 Ein bereits examinierter Notfallsanitäter wird im Rahmen einer [[Einsatzsupervision]] durch eine erfahrene Kollegin begleitet. Während eines psychiatrischen Einsatzes übernimmt er zügig die Gesprächsführung, ohne jedoch vorher Zielklärung im Team herzustellen. Nach dem Einsatz reflektieren beide gemeinsam, unterstützt durch eine digitale Markerstruktur, die die Supervisierende live mitgeführt hat:
 
-- `[Kommunikation im Team] / [F1 Ziel] / [Min 01:00]`: „Ziel der Maßnahme nicht verbalisiert – Wirkung auf Kolleg:innen unklar“  
+- `[Kommunikation im Team] / [F1 Ziel] / [Min 01:00]`: „Ziel der Maßnahme nicht verbalisiert – [[Wirkung]] auf Kolleg:innen unklar“  
 - `[Patienteninteraktion] / [F6 Verhalten] / [Min 05:30]`: „Sprache beruhigend – Körpersprache konfrontativ“
 
 Die [[Einsatzsupervision]] nutzt das ARN, um berufliche Routinen sichtbar zu machen und zu hinterfragen. Ziel ist keine Bewertung, sondern eine Öffnung reflexiver Räume, also kollegial, theoriegeleitet und auf professionelle Weiterentwicklung hin ausgerichtet.
@@ -312,7 +312,7 @@ Die Markerlogik erlaubt die gezielte Verknüpfung von situativer Wahrnehmung (F2
 Die didaktische Anordnung des ARN stützt sich nicht auf intuitive Beobachtung, sondern auf eine systematisch begründete Struktur (vgl. Terhart, 2011; Arnold & Gomes, 2021). Damit wird ein theoriegeleiteter Zugriff auf Praxis möglich – unabhängig von Fachdisziplin oder Handlungsfeld.
 
 **Folgerung 6: Bildungstheoretische Begriffe lassen sich formalisieren.**  
-Zentrale Konzepte wie Zielklärung, Wirkung, Kontextsensitivität oder Transfer (F1–F7) sind nicht nur reflektierbar, sondern innerhalb eines mathematisch beschreibbaren Markerraums positionierbar (vgl. Koller, 2012; Mezirow, 1991). Reflexionskategorien werden zu messbaren Elementen professioneller Entwicklung.
+Zentrale Konzepte wie Zielklärung, [[Wirkung]], Kontextsensitivität oder Transfer (F1–F7) sind nicht nur reflektierbar, sondern innerhalb eines mathematisch beschreibbaren Markerraums positionierbar (vgl. Koller, 2012; Mezirow, 1991). Reflexionskategorien werden zu messbaren Elementen professioneller Entwicklung.
 
 **Folgerung 7: Reflexionsräume sind konstruierbar.**  
 Durch Aggregation von Markerstrukturen über Zeit, Personen oder Gruppen hinweg entstehen rekonstruierbare Reflexionsräume, die lernbiografisch, evaluativ oder curriculumsbezogen analysiert werden können (vgl. Bandura, 1977; Boud et al., 1985).
