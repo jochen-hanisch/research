@@ -19,7 +19,7 @@ tags:
   - Wirkungswahrscheinlichkeit
 ---
 
-created: 21.2.2026 | [updated](): 22.2.2026 | [published](https://zenodo.org/records/18728202):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 21.2.2026 | [updated](): 22.2.2026 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
@@ -257,3 +257,7 @@ Der Wirkbegriff erhält damit eine formale, theoretisch anschlussfähige und int
 - Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft*. Suhrkamp.
 - Niedrig, H. (1992). Übersicht über die fundamentalen Wechselwirkungen. In H. Niedrig (Hrsg.), *Physik* (S. 1–15). Springer.
 - Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
+
+---
+
+#Begriff #Definition #Research #Wahrscheinlichkeitstheorie #Systemtheorie #Psychologie #Forschung #Bildungswissenschaft #Wirkungsraum #Wirkungswahrscheinlichkeit
