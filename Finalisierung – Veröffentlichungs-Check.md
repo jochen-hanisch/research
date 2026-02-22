@@ -117,7 +117,7 @@ Stand: 2025-12-24
 - [[Research/Bildungswissenschaft/Transferaktive Kompetenzentwicklung|Mechanismen der horizontalen Genübertragung in Bildungsprozessen Anwendung und Prozessbeschreibung]] (publish: true)
   - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Kritik`
   - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
-- [[Research/Bildungswissenschaft/Wirk-Tensor|Wirkungs-Tensor $W_{\mu\nu}$]] (publish: [])
+- [[Wirk-Tensor|Wirkungs-Tensor $W_{\mu\nu}$]] (publish: [])
   - #todo Frontmatter ergänzen/prüfen: `Repository`, `publish`
   - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
   - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Definition`, `Kritik`
@@ -127,12 +127,12 @@ Stand: 2025-12-24
   - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
   - #todo Standardabschnitte ergänzen/ausarbeiten: `Implikationen`, `Kritik`
   - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
-- [[Research/Bildungswissenschaft/Wirkungsgefüge, Wirkprinzip|Wirkungsgefüge, Wirkprinzip]] (publish: false)
+- [[Wirkungsgefüge, Wirkprinzip|Wirkungsgefüge, Wirkprinzip]] (publish: false)
   - #todo Frontmatter ergänzen/prüfen: `Repository`, `updated`
   - #todo Metadatenzeile im Text ergänzen (created/updated/published/Links)
   - #todo Standardabschnitte ergänzen/ausarbeiten: `Einleitung`, `Implikationen`, `Kritik`
   - #todo Tag-Block am Ende ergänzen (--- + Hashtags)
-- [[Research/Bildungswissenschaft/Wirkungskriterienbasierte Entscheidungsfindung|Wirkungskriterium]] (publish: true)
+- [[Wirkungskriterienbasierte Entscheidungsfindung|Wirkungskriterium]] (publish: true)
   - (keine #todo nach Baseline-Checklist)
 - [[Research/Bildungswissenschaft/Zyklus|Zyklus]] (publish: false; status: in-progress)
   - #todo Frontmatter ergänzen/prüfen: `Repository`
