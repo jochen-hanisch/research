@@ -45,7 +45,7 @@ Zwei Präzisierungen sind dafür zentral. Erstens ist „Konstellation“ nicht 
 
 Für Modellierungen kann es hilfreich sein, dieses Bündel als [[Wirkungsraum]] zu fassen: als den (konzeptionellen) Bereich, in dem relevante Einflüsse zusammenkommen und sich in ihren fördernden und hemmenden Anteilen überlagern. Der Wirkbegriff selbst hängt aber nicht an einer bestimmten Modellform; entscheidend bleibt die Anschlussrelevanz im Verlauf.
 
-Praktisch lässt sich der Unterschied an einfachen Beispielen markieren. Eine neue Medikationsroutine kann eine messbare Zustandsänderung erzeugen (z. B. weniger Schmerzen); zur Wirkung im hier verwendeten Sinn wird sie erst, wenn diese Änderung weitere Operationen verändert (z. B. mehr Mobilität, andere Therapieentscheidungen, veränderte Interaktionsmuster im Alltag). Ähnlich in pädagogischen Kontexten: Eine Unterrichtsmethode ist nicht schon „wirksam“, weil ein Testwert steigt, sondern dann, wenn sich Lernanschlüsse stabilisieren, vertiefen oder neue Lernwege eröffnen.
+Praktisch lässt sich der Unterschied an einfachen Beispielen markieren. Eine neue Medikationsroutine kann eine messbare Zustandsänderung erzeugen (z.B. weniger Schmerzen); zur Wirkung im hier verwendeten Sinn wird sie erst, wenn diese Änderung weitere Operationen verändert (z.B. mehr Mobilität, andere Therapieentscheidungen, veränderte Interaktionsmuster im Alltag). Ähnlich in pädagogischen Kontexten: Eine Unterrichtsmethode ist nicht schon „wirksam“, weil ein Testwert steigt, sondern dann, wenn sich Lernanschlüsse stabilisieren, vertiefen oder neue Lernwege eröffnen.
 
 Der Wirkbegriff verbindet damit Realitätsbezug und Zuschreibung, ohne beides zu verwechseln. Differenzen sind nicht beliebig; zugleich ist „Wirkung“ kein naturhaftes Etikett, das an einem Ereignis klebt. Wirkung ist eine begründete Zurechnung zu einer Konstellation, die sich an Anschlussveränderungen im Verlauf prüfen lässt.
 
@@ -154,7 +154,7 @@ Aus dem bestimmten Wirkbegriff ergeben sich Implikationen für Theorie, Methodol
 
 ## 4.1 Methodologische Implikation
 
-Methodologisch folgt: Wirkung ist nicht punktuell messbar. Die Identifikation von Wirkung erfordert Verlaufsbeobachtung – mindestens in dem Sinn, dass Anschlussveränderungen sichtbar werden müssen. Vorher‑Nachher‑Vergleiche können ausreichen, aber nur dann, wenn sie mehr leisten als ein Differenzsignal: Sie müssen die Anschlussstruktur mit abbilden (z. B. Stabilität, Folgeentscheidungen, Rückkopplungen, Abbruch‑ oder Verstärkungseffekte).
+Methodologisch folgt: Wirkung ist nicht punktuell messbar. Die Identifikation von Wirkung erfordert Verlaufsbeobachtung – mindestens in dem Sinn, dass Anschlussveränderungen sichtbar werden müssen. Vorher‑Nachher‑Vergleiche können ausreichen, aber nur dann, wenn sie mehr leisten als ein Differenzsignal: Sie müssen die Anschlussstruktur mit abbilden (z.B. Stabilität, Folgeentscheidungen, Rückkopplungen, Abbruch‑ oder Verstärkungseffekte).
 
 Wirkungsanalyse muss daher Differenzketten rekonstruieren: Es ist zu prüfen, ob eine Zustandsänderung weitere Operationen verändert oder Anschlusswahrscheinlichkeiten verschiebt. Wirkungsmessung wird damit zur Analyse von Verlaufsstrukturen.
 
@@ -235,6 +235,8 @@ Der entwickelte Wirkbegriff bestimmt Wirkung als verlaufsmodifizierende, anschlu
 Die Herleitung zeigt eine begriffliche Verdichtung über mehrere Ebenen: Die alltagssprachliche Veränderungssemantik wird erkenntnistheoretisch relativiert, relational präzisiert und systemtheoretisch operativ reformuliert. In der formaltheoretischen Fundierung erhält Wirkung ihre strukturelle Bestimmung als Differenz, die weitere Differenzen generiert.
 
 Realitätsbezogen bleibt Wirkung als Zustands‑ bzw. Strukturveränderung bestimmbar. Epistemologisch ist sie über Differenzmarkierung und Anschlussanalyse erschließbar. Systemisch ist sie als interne Modifikation von Operationsverläufen zu verstehen. Diese dreifache Perspektive integriert Realitätsbezug, Beobachtungslogik und Operationsstruktur.
+
+Damit ist der Begriff kompatibel mit etablierten Kausalverständnissen, die Effekte als Differenzen zwischen Zuständen fassen (z.B. in der Kausalinferenz). Zugleich wird diese Differenzbestimmung um eine Anschlussdimension erweitert: Wirkung liegt nicht schon in der Zustandsdifferenz selbst, sondern in der verlaufsrelevanten Verschiebung von Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten.
 
 Die daraus abgeleiteten Implikationen betreffen Methodologie, Modellbildung, Wahrscheinlichkeitstheorie, Didaktik und Verantwortung. Wirkungsmessung erfordert Verlaufsanalyse, Wirkmodelle sind als Gefügemodelle zu konzipieren, Aussagen über Wirkung beziehen sich auf Wahrscheinlichkeitsverschiebungen. Verantwortung richtet sich auf die reflexive Gestaltung von Bedingungen innerhalb kontingenter Strukturen.
 
