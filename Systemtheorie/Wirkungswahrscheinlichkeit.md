@@ -150,7 +150,7 @@ Abbildung 3 und Abbildung 4 stellen den Effekt der Multiplikation zweier Wahrsch
 
 *Abbildung 3: Positive, negative (verschoben) und multiplizierte Normalverteilungen (OpenAI, persönliche Kommunikation, 26.09.2024)*
 
-Abbildung 3 zeigt die Kombination einer positiven und einer verschobenen negativen Normalverteilung, wobei das Multiplikationsprodukt als veränderte Gesamtwahrscheinlichkeit dargestellt wird. Diese Visualisierung zeigt, dass gegensätzliche Effekte gleichzeitig innerhalb eines Systems bestehen und durch die Multiplikation präzise modelliert werden können. Die gleichzeitige Existenz von positiven und negativen Wahrscheinlichkeiten führt zu einer **Dämpfung** der Gesamtwahrscheinlichkeit, da negative Werte die positive [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] reduzieren.
+Abbildung 3 zeigt die Kombination einer positiven und einer verschobenen negativen Normalverteilung, wobei das Multiplikationsprodukt als veränderte Gesamtwahrscheinlichkeit dargestellt wird. Diese Visualisierung zeigt, dass gegensätzliche Effekte gleichzeitig innerhalb eines Systems bestehen und durch die Multiplikation präzise modelliert werden können. Die gleichzeitige Existenz von positiven und negativen Wahrscheinlichkeiten führt zu einer **Dämpfung** der Gesamtwahrscheinlichkeit, da negative Werte die positive [[Wirkung]] reduzieren.
 
 ![[Positive, Reduzierte Negative (verschoben) und Multiplizierte Normalverteilungen 2.png]]
 *Abbildung 4: Positive, reduzierte negative (verschoben) und multiplizierte Normalverteilungen (OpenAI, persönliche Kommunikation, 26.09.2024)*
@@ -301,7 +301,7 @@ Diese Beispiele verdeutlichen, wie die Wirkungswahrscheinlichkeit in verschieden
 
 Die Wahrscheinlichkeiten von Ereignissen im [[Wirkungsraum]] sind nicht als absolute positive oder negative Ergebnisse zu interpretieren, sondern als Ausdruck der Wechselwirkungen und des Gesamtverhaltens innerhalb des Systems. Die Interpretation der Wahrscheinlichkeiten erfolgt nicht durch eine einfache Dichotomie von „gut“ und „schlecht“, sondern durch das Verständnis der Interaktionen, die durch Addition, Multiplikation oder Korrelation beschrieben werden.
 
-$P(A)$ und $P(B)$ beschreiben die Interaktion zwischen den Ereignissen $A$ und $B$ im Rahmen ihrer systemischen [[Allgemein beruflich/Research/Systemtheorie/Wirkung]].
+$P(A)$ und $P(B)$ beschreiben die Interaktion zwischen den Ereignissen $A$ und $B$ im Rahmen ihrer systemischen [[Wirkung]].
 
 Das Interpretationstheorem beschreibt, dass Wahrscheinlichkeiten in einem komplexen System nicht als absolute positive oder negative Ergebnisse interpretiert werden dürfen. Stattdessen repräsentieren sie die Wechselwirkungen und dynamischen Interaktionen innerhalb des Systems. Eine Gesamtwahrscheinlichkeit zeigt nicht einfach, ob ein Ergebnis gut oder schlecht ist, sondern beschreibt, wie die verschiedenen Ereignisse im [[Wirkungsraum]] miteinander agieren und das Gesamtverhalten des Systems beeinflussen.
 
@@ -367,7 +367,7 @@ Die Konzepte der Wirkungswahrscheinlichkeit und der negativen Wahrscheinlichkeit
 
 ## 6 Zusammenfassung
 
-Die Wirkungswahrscheinlichkeit beschreibt die Wahrscheinlichkeit, mit der eine bestimmte [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] innerhalb eines definierten [[Wirkungsraum|Wirkungsraums]] auftritt. Sie berücksichtigt sowohl positive als auch negative Einflüsse und wird durch Wahrscheinlichkeitswerte im Bereich von -1 bis +1 dargestellt. Positive Werte zeigen die Wahrscheinlichkeit einer erwünschten Wirkung an, während negative Werte die Wahrscheinlichkeit einer unerwünschten Wirkung darstellen. Der Wert 0 bezeichnet eine neutrale Wirkung oder das Fehlen einer signifikanten Veränderung.
+Die Wirkungswahrscheinlichkeit beschreibt die Wahrscheinlichkeit, mit der eine bestimmte [[Wirkung]] innerhalb eines definierten [[Wirkungsraum|Wirkungsraums]] auftritt. Sie berücksichtigt sowohl positive als auch negative Einflüsse und wird durch Wahrscheinlichkeitswerte im Bereich von -1 bis +1 dargestellt. Positive Werte zeigen die Wahrscheinlichkeit einer erwünschten Wirkung an, während negative Werte die Wahrscheinlichkeit einer unerwünschten Wirkung darstellen. Der Wert 0 bezeichnet eine neutrale Wirkung oder das Fehlen einer signifikanten Veränderung.
 
 Die Wirkungswahrscheinlichkeit dient zur Berechnung des Nettoeffekts von gleichzeitig auftretenden fördernden und hemmenden Einflüssen und ermöglicht eine differenzierte Analyse der Auswirkungen von Ereignissen auf das Verhalten eines Systems. Die Notiz behandelt die Grundlagen der Wirkungswahrscheinlichkeit, die Einführung negativer Wahrscheinlichkeiten und deren Anwendung in verschiedenen Disziplinen wie Wirtschaft, Psychologie und Umweltwissenschaften.
 
