@@ -16,6 +16,18 @@ created: 22.2.2026 | [updated](https://github.com/jochen-hanisch/research/blob/m
 # 1 Definition
 
 
+Gefüge bezeichnet die relationale Gesamtanordnung einer endlichen Menge strukturierter Elemente innerhalb eines Systems.
+
+Zur formalen Präzisierung sei $E = \{e_1, e_2, \dots, e_n\}$ eine endliche Menge strukturierter Elemente. Ein Gefüge G ist bestimmbar als
+
+$$
+G = (E, R)
+$$
+
+mit $R \subseteq E \times E.$
+
+R bezeichnet die Menge stabilisierter Relationen zwischen Elementen. Eine Relation $(e_i, e_j) \in R$ gilt als stabilisiert, wenn Operationen von ei die Anschlussbedingungen von ej über mehr als einen isolierten Einzelvorgang hinweg modifizieren.
+
 # 2 Herleitung
 
 Ausgangspunkt der Herleitung ist die Unterscheidung zwischen Struktur und Gefüge. Struktur bezeichnet die Binnenordnung eines einzelnen Elements. Ein Forum in einem Learning-Management-System besitzt beispielsweise eine interne Struktur (Threadlogik, Antworthierarchie, Rollenrechte). Eine Aufgabe besitzt ebenfalls eine interne Struktur (Abgabemodalität, Bewertungslogik, Feedbackmechanismus). Diese Elemente sind jeweils in sich strukturiert.
@@ -38,7 +50,6 @@ Das Schliffbild fungiert dabei als Beobachtung zweiter Ordnung. Erst durch gezie
 
 
 # 3 Folgerungen
-
 
 # 4 Implikationen
 
