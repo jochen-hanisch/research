@@ -1,15 +1,24 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: Festlegungen
+title: Wirkung
 Repository: https://github.com/jochen-hanisch/research
 created: 2026-02-21
-updated: 2026-02-21
+updated: 2026-02-22
 publish: false
 published:
 tags:
+  - Begriff
+  - Definition
+  - Research
+  - Wahrscheinlichkeitstheorie
+  - Systemtheorie
+  - Psychologie
+  - Forschung
+  - Bildungswissenschaft
+  - Wirkungsraum
 ---
 
-created: 21.2.2026 | [updated](): 21.2.2026 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 21.2.2026 | [updated](): 22.2.2026 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
@@ -25,7 +34,7 @@ Die nachfolgende Herleitung entfaltet diesen Begriff schrittweise – von der al
 
 # 1 Definition
 
-Wirkung bezeichnet eine im Verlauf beobachtbare Differenz zwischen Zuständen, die auf eine Konstellation bezogen wird und weitere Zustandsverläufe verändert.
+Wirkung bezeichnet eine im Verlauf rekonstruierbare Differenz zwischen Zuständen, die auf eine Konstellation bezogen wird und weitere Zustandsverläufe verändert.
 
 Eine Differenz liegt vor, wenn zwischen mindestens zwei Zuständen ein unterscheidbarer Unterschied markiert werden kann. Nicht jede Differenz ist jedoch Wirkung. Zur Wirkung wird eine Differenz erst dann, wenn sie anschlussrelevant wird, das heißt, wenn sie weitere Operationen eines Systems verändert oder die Wahrscheinlichkeit zukünftiger Zustände verschiebt.
 
@@ -53,11 +62,11 @@ Diese Einsicht entzieht der Wirkung jede metaphysische Notwendigkeit und verschi
 
 In der modernen Physik werden Kräfte als Wechselwirkungen verstanden. Wirkung entsteht nicht durch einseitige Einwirkung, sondern innerhalb relationaler Strukturen. Felder vermitteln Zustandsänderungen; Energiezustände bestimmen mögliche Verläufe. Damit verschiebt sich das Wirkverständnis von isolierter Ursache zu strukturvermittelter Dynamik.
 
-Wirkung erscheint hier als Zustandsänderung innerhalb eines Gefüges von Relationen.
+In dieser Perspektive wird „Wirkung“ häufig als Zustandsänderung innerhalb eines Gefüges von Relationen beschrieben. Für den hier entwickelten Wirkbegriff ist Zustandsänderung jedoch nur die notwendige Differenzbasis: Zur Wirkung im strengen Sinn wird eine Zustandsdifferenz erst dann, wenn sie anschlussrelevant wird, also weitere Operationen verändert oder Anschlusswahrscheinlichkeiten verschiebt.
 
 ## 2.4 Systemtheoretische Semantik (Operation und Anschluss)
 
-Die Systemtheorie ersetzt die Kraftmetapher durch Operationslogik. Systeme operieren selbstreferenziell; Umwelt kann lediglich irritieren. Eine Veränderung entsteht nur, wenn das System die Irritation in eigene Operationen überführt.
+Die Systemtheorie ersetzt die Kraftmetapher durch Operationslogik. Systeme operieren selbstreferenziell; Umwelt kann lediglich irritieren. Eine systeminterne Veränderung entsteht nur, wenn das System die Irritation in eigene Operationen überführt.
 
 Wirkung ist damit keine Übertragung, sondern eine systeminterne Differenz, die anschlussrelevant wird. Entscheidend ist nicht die bloße Zustandsänderung, sondern die Veränderung weiterer Operationen.
 
@@ -154,7 +163,7 @@ Erfolg kann nicht als garantierte Wirkung einer Maßnahme verstanden werden. Ver
 
 Wenn Wirkung als kontingente, anschlussrelevante Differenz verstanden wird, folgt, dass Verantwortung nicht auf garantierbare Ergebnisse bezogen werden kann. Da Wirkung keine notwendige Kausalfolge darstellt, kann Verantwortung nicht als Ergebnisverantwortung im Sinne sicherer Wirkungsproduktion bestimmt werden.
 
-Verantwortung verschiebt sich vielmehr auf die Gestaltung von Bedingungen. Verantwortlich ist die Strukturierung von Relationen, Anschlussmöglichkeiten und Wahrscheinlichkeitsräumen, innerhalb derer Differenzen wirksam werden können. In medizinischen wie pädagogischen Kontexten bedeutet dies eine Verantwortung für Gefügegestaltung statt für determinierte Resultate.
+Verantwortung ist damit als Verantwortung für die Gestaltung von Bedingungen zu präzisieren. Verantwortlich ist die Strukturierung von Relationen, Anschlussmöglichkeiten und Wahrscheinlichkeitsräumen, innerhalb derer Differenzen wirksam werden können. In medizinischen wie pädagogischen Kontexten bedeutet dies ein Primat der Gefügegestaltung gegenüber dem Anspruch determinierter Resultate.
 
 Diese Perspektive entlastet nicht von Verantwortung, sondern präzisiert sie: Verantwortung bezieht sich auf die reflexive Gestaltung operativer Bedingungen unter Anerkennung von Kontingenz.
 
@@ -171,7 +180,7 @@ Wenn Wirkung als anschlussrelevante Differenz bestimmt wird, droht der Vorwurf, 
 
 **Antwort und Präzisierung:**
 
-Der entwickelte Wirkbegriff negiert nicht die Realität von Zustandsveränderungen. Ontologisch bleibt die Differenz als reale Strukturveränderung bestehen. Die Anschlussdimension präzisiert lediglich, unter welchen Bedingungen eine Differenz als Wirkung bestimmt wird. Wirkung ist damit weder bloße Projektion noch metaphysische Kraft, sondern operativ erzeugte und real wirksame Strukturmodifikation.
+Der entwickelte Wirkbegriff negiert nicht die Realität von Zustandsveränderungen. Realitätsbezogen bleibt die Differenz als Zustands‑ bzw. Strukturveränderung bestimmbar. Die Anschlussdimension präzisiert lediglich, unter welchen Bedingungen eine Differenz als Wirkung bestimmt wird. Wirkung ist damit weder bloße Projektion noch metaphysische Kraft, sondern operativ erzeugte und real wirksame Strukturmodifikation.
 
 ## 5.2 Kausalitätstheoretische Kritik: Aufgabe von Ursache-Wirkung-Logik
 
@@ -201,7 +210,7 @@ Die Verschiebung von Ergebnisverantwortung hin zu Strukturverantwortung könnte 
 
 **Antwort und Präzisierung:**
 
-Die Theorie verschiebt Verantwortung nicht, sondern differenziert sie. Ergebnisgarantien werden durch Bedingungen der Kontingenz begrenzt. Verantwortung besteht in der reflektierten Gestaltung von Gefügen und Wahrscheinlichkeitsräumen. Diese Perspektive erhöht die ethische Präzision, da sie zwischen intendierter Maßnahme und tatsächlichem Verlauf unterscheidet.
+Die Theorie verschiebt Verantwortung nicht im Sinne einer Entlastung, sondern präzisiert ihren Bezugspunkt. Ergebnisgarantien werden unter Bedingungen von Kontingenz begrenzt; Verantwortung besteht in der reflektierten Gestaltung von Gefügen und Wahrscheinlichkeitsräumen, die Anschlussmöglichkeiten eröffnen oder einschränken. Diese Perspektive erhöht die ethische Präzision, da sie zwischen intendierter Maßnahme, gestalteten Bedingungen und tatsächlichem Verlauf unterscheidet.
 
 ## 5.5 Systemtheorie‑interne Kritik: Reduktion auf Anschluss
 
@@ -227,7 +236,6 @@ Die daraus abgeleiteten Implikationen betreffen Methodologie, Modellbildung, Wah
 
 Der Wirkbegriff erhält damit eine formale, theoretisch anschlussfähige und interdisziplinär tragfähige Gestalt. Er erlaubt die Beschreibung dynamischer Prozesse, ohne auf kraftbasierte Kausalannahmen zurückzugreifen, und eröffnet eine differenzierte Analyse komplexer Bildungs- und Versorgungskontexte.
 
-
 # Quelle(n)
 
 - Bateson, G. (1985). *Geist und Natur. Eine notwendige Einheit* (Übers. aus dem Engl.). Suhrkamp. (Originalarbeit veröffentlicht 1979)
@@ -237,7 +245,3 @@ Der Wirkbegriff erhält damit eine formale, theoretisch anschlussfähige und int
 - Luhmann, N. (1984). *Soziale Systeme. Grundriß einer allgemeinen Theorie*. Suhrkamp.
 - Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft*. Suhrkamp.
 - Niedrig, H. (1992). Übersicht über die fundamentalen Wechselwirkungen. In H. Niedrig (Hrsg.), *Physik* (S. 1–15). Springer.
-
----
-
-#Begriff #Definition #Research #Wahrscheinlichkeitstheorie #Systemtheorie #Psychologie #Forschung #Bildungswissenschaft #Wirkungsraum
