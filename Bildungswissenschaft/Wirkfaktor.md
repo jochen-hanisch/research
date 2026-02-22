@@ -17,16 +17,16 @@ author: Jochen Hanisch-Johannsen
 
 # 1 Definition
 
-Ein Wirkfaktor ist ein Mechanismus, eine Eigenschaft oder ein Merkmal, das maßgeblich dazu beiträgt, eine bestimmte Veränderung oder [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] in einem System hervorzurufen. Wirkfaktoren können allgemeiner oder spezifischer Natur sein und wirken in verschiedenen Kontexten wie psychotherapeutischen, technischen oder systemtheoretischen Feldern. Sie beschreiben die Gesamtheit der Kräfte, Mechanismen oder Merkmale, die systemisch oder kausal zu einer beobachtbaren Veränderung oder einem bestimmten Ergebnis führen.
+Ein Wirkfaktor ist ein Mechanismus, eine Eigenschaft oder ein Merkmal, das maßgeblich dazu beiträgt, eine bestimmte Veränderung oder [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] in einem System hervorzurufen. Wirkfaktoren können allgemeiner oder spezifischer Natur sein und wirken in verschiedenen Kontexten wie psychotherapeutischen, technischen oder systemtheoretischen Feldern. Sie beschreiben die Gesamtheit der Kräfte, Mechanismen oder Merkmale, die systemisch oder kausal zu einer beobachtbaren Veränderung oder einem bestimmten Ergebnis führen.
 
-Wirkfaktoren lassen sich evidenzbasiert untersuchen und sind Teil eines dynamischen Prozesses, der durch positive und negative Rückkopplungen beeinflusst wird. Sie interagieren mit anderen Faktoren im System und werden sowohl durch Unabhängigkeiten als auch durch Interdependenzen (Abhängigkeiten) geformt. In der Wahrscheinlichkeitstheorie steuern sie die Wahrscheinlichkeit, mit der eine bestimmte [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] eintritt, während sie in der Systemtheorie die Interaktionen und Wechselwirkungen innerhalb eines Systems prägen.
+Wirkfaktoren lassen sich evidenzbasiert untersuchen und sind Teil eines dynamischen Prozesses, der durch positive und negative Rückkopplungen beeinflusst wird. Sie interagieren mit anderen Faktoren im System und werden sowohl durch Unabhängigkeiten als auch durch Interdependenzen (Abhängigkeiten) geformt. In der Wahrscheinlichkeitstheorie steuern sie die Wahrscheinlichkeit, mit der eine bestimmte [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] eintritt, während sie in der Systemtheorie die Interaktionen und Wechselwirkungen innerhalb eines Systems prägen.
 # 2 Herleitung
 
 ## 2.1 Technische Systeme
 
 In technischen Systemen bezieht sich der Begriff Wirkfaktor auf Teilfunktionen oder Mechanismen, die zur Gesamtwirkung eines Systems beitragen. Diese Teilfunktionen wirken zusammen und bilden die Wirkstruktur eines Systems, indem sie die Effekte und Merkmale des Systems optimieren oder verändern.
 
-Technische Wirkfaktoren sind oft mit den Begriffen Kraftfluss und Funktionalität verknüpft, da sie die Übertragung von Energie, Impuls oder Information innerhalb eines Systems beschreiben. In diesem Zusammenhang beschreibt der Wirkfaktor die Funktionalitäten und Merkmale, die durch ein Zusammenspiel von Kräften und Mechanismen eine systemische [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] erzeugen.
+Technische Wirkfaktoren sind oft mit den Begriffen Kraftfluss und Funktionalität verknüpft, da sie die Übertragung von Energie, Impuls oder Information innerhalb eines Systems beschreiben. In diesem Zusammenhang beschreibt der Wirkfaktor die Funktionalitäten und Merkmale, die durch ein Zusammenspiel von Kräften und Mechanismen eine systemische [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] erzeugen.
 
 > "Technisch betrachtet ist ein [[Wirkungsgefüge, Wirkprinzip|Wirkgefüge]] die Gemeinsamkeit von Effekten und Merkmalen" (Dubbel & Beitz, 1995, F 3).
 
@@ -54,11 +54,11 @@ In der Systemtheorie wird häufig der Begriff der strukturellen Kopplung verwend
 > "Wirkfaktoren beschreiben die Interaktionen innerhalb eines Systems, die durch Rückkopplungen und Interdependenzen zu neuen Verhaltensweisen führen" (Luhmann, 1997, S. 45).
 ## 2. 4 Wahrscheinlichkeitstheoretische Perspektive
 
-In der Wahrscheinlichkeitstheorie bestimmen Wirkfaktoren, mit welcher Wahrscheinlichkeit eine Veränderung oder [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] eintritt. Diese Faktoren steuern die Wahrscheinlichkeit, indem sie die Interaktionen und Wechselwirkungen im System beeinflussen. Durch die Einführung negativer Wahrscheinlichkeiten können unerwünschte Wirkungen erklärt und modelliert werden.
+In der Wahrscheinlichkeitstheorie bestimmen Wirkfaktoren, mit welcher Wahrscheinlichkeit eine Veränderung oder [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] eintritt. Diese Faktoren steuern die Wahrscheinlichkeit, indem sie die Interaktionen und Wechselwirkungen im System beeinflussen. Durch die Einführung negativer Wahrscheinlichkeiten können unerwünschte Wirkungen erklärt und modelliert werden.
 
 Negative Wahrscheinlichkeiten werden eingesetzt, um komplexe Zustände abzubilden, bei denen erwünschte und unerwünschte Wirkungen gleichzeitig auftreten. Dabei bilden Wirkfaktoren die mathematische Grundlage für die Berechnung der Gesamtwahrscheinlichkeit im [[Wirkungsraum]].
 
-> "Die Wahrscheinlichkeit einer [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] wird durch die zugrunde liegenden Mechanismen und Faktoren, die das System formen, gesteuert" (Wirtz, 2020, S. 1930).
+> "Die Wahrscheinlichkeit einer [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] wird durch die zugrunde liegenden Mechanismen und Faktoren, die das System formen, gesteuert" (Wirtz, 2020, S. 1930).
 # 3 Folgerungen
 
 - **Interdependenz und Emergenz**: Wirkfaktoren sind oft abhängig von anderen Faktoren im System und tragen zur Emergenz neuer Eigenschaften oder Verhaltensweisen bei.
@@ -67,7 +67,7 @@ Negative Wahrscheinlichkeiten werden eingesetzt, um komplexe Zustände abzubilde
 - **Modellierung von Wahrscheinlichkeiten**: Wirkfaktoren beeinflussen die Wahrscheinlichkeiten, mit denen bestimmte Ereignisse eintreten, indem sie die Struktur der Wirkungsprozesse in einem System modellieren.
 # 4 Zusammenfassung
 
-Ein Wirkfaktor beschreibt die treibenden Mechanismen, Eigenschaften oder Merkmale, die eine beobachtbare Veränderung oder [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] in einem System hervorrufen. Wirkfaktoren wirken durch Interdependenzen, Rückkopplungen und emergente Phänomene und lassen sich in verschiedenen Disziplinen (z.B. Psychotherapie, Technik, Systemtheorie) anwenden. Sie beeinflussen die Wahrscheinlichkeit, mit der eine [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] eintritt, und formen die dynamischen Prozesse in einem System.
+Ein Wirkfaktor beschreibt die treibenden Mechanismen, Eigenschaften oder Merkmale, die eine beobachtbare Veränderung oder [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] in einem System hervorrufen. Wirkfaktoren wirken durch Interdependenzen, Rückkopplungen und emergente Phänomene und lassen sich in verschiedenen Disziplinen (z.B. Psychotherapie, Technik, Systemtheorie) anwenden. Sie beeinflussen die Wahrscheinlichkeit, mit der eine [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] eintritt, und formen die dynamischen Prozesse in einem System.
 # Quelle(n)
 
 - Dubbel, H., & Beitz, W. (1995). **Wirkungsgefüge und Wirkprinzipien**. Springer Verlag, F 3.  
