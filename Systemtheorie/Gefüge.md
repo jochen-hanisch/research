@@ -26,6 +26,17 @@ Erst innerhalb eines solchen Gefüges können Differenzen wirksam werden. Wenn e
 
 Gefüge ist folglich die strukturelle Bedingung der Möglichkeit von Wirkung. Ohne Gefüge bleibt Differenz isoliert. Ohne Differenzen bleibt Gefüge statisch. Wirkung entsteht dort, wo Differenz im Gefüge anschlussfähig wird und weitere Operationen modifiziert.
 
+## Werkstoffkundliche Präzisierung des Gefügebegriffs
+
+Eine präzise Analogie findet sich in der Werkstoffkunde. Dort bezeichnet „Gefüge“ nicht die atomare Gitterstruktur eines einzelnen Kristalls, sondern die Anordnung, Größe, Form und relationale Kopplung der Kristallite innerhalb eines Werkstoffes. Sichtbar wird dieses Gefüge erst durch einen methodischen Eingriff: Eine geschliffene, polierte und geätzte Schnittfläche, das sogenannte Schliffbild, macht die Korngrenzen, Wachstumsrichtungen und Helligkeitsunterschiede zwischen den einzelnen Kristallen erkennbar (Domke, 2001).
+
+Entscheidend ist: Die mechanischen Eigenschaften eines Werkstoffes ergeben sich nicht aus dem isolierten Kristall, sondern aus dem Gefüge. Korngröße, Korngrenzen und bevorzugte Wachstumsrichtungen beeinflussen Festigkeit, Zähigkeit und Rissausbreitung. Wirkung entsteht somit nicht aus dem Einzelteil, sondern aus der relationalen Struktur der Teile.
+
+Übertragen auf soziale oder digitale Systeme bedeutet dies: Die Binnenstruktur eines Elements (z. B. Forum, Aufgabe, Rolle) entspricht dem Kristallgitter. Das Gefüge entspricht der stabilisierten Anordnung dieser Elemente zueinander. Eigenschaften eines Systems – etwa Lernwirksamkeit, Anschlussdynamik oder Entscheidungsstabilität – ergeben sich nicht aus einzelnen Operationen, sondern aus dem relationalen Muster ihrer Kopplung.
+
+Das Schliffbild fungiert dabei als Beobachtung zweiter Ordnung. Erst durch gezielte Analyseverfahren werden Gefüge sichtbar. In Bildungszusammenhängen übernehmen Evaluation, Datenanalyse oder strukturierte Prozessbeobachtung eine funktional äquivalente Rolle. Gefüge ist damit nicht unmittelbar gegeben, sondern wird durch Beobachtung als relationale Struktur rekonstruierbar.
+
+
 # 3 Folgerungen
 
 
@@ -45,3 +56,4 @@ Gefügedesign kann daher als Gestaltung von Anschlussbedingungen verstanden werd
 
 # Quelle(n)
 
+- Domke, W. (2001). Werkstoffkunde und Werkstoffprüfung (10., verb. Aufl.). Girardet.
