@@ -23,6 +23,7 @@
 	•	explizit eine Passage formulieren, die deine 2017er Arbeit als empirischen Vorläufer der Gefüge-Theorie einordnet,
 	•	oder prüfen, ob du sie in der Dissertation als frühe Gefügeanalyse positionieren solltest,
 	•	oder wir gehen noch tiefer und prüfen, ob „Nachhaltigkeit“ in deiner damaligen Arbeit ebenfalls als Anschlussstabilisierung gelesen werden kann.
+-> Anschluss an Kapitel 04-01 an der Stelle, wo ich meine Vorarbeiten einführe
 
 ---
 
