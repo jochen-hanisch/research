@@ -22,7 +22,7 @@ publish: false
 
 Der Bildungswirkfaktor ($\nu$) ist eine spezifische Variante des allgemeinen [[Wirkfaktor|Wirkfaktors]], die zur Messung der Stärke und Richtung der [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]] in Bildungsprozessen dient. Er bewertet die Effizienz und Effektivität des Lernens, indem er die Geschwindigkeit und den Umfang der Kompetenzentwicklung unter Berücksichtigung interner und externer Einflüsse quantifiziert. Der Bildungswirkfaktor basiert auf der Steigung der Kompetenzentwicklungskurve und stellt dar, in welchem Ausmaß die Kompetenzentwicklung im zeitlichen Verlauf erfolgt.
 
-Im Kontext der [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] repräsentiert der Bildungswirkfaktor die Intensität und Qualität von Veränderungen im System, die durch Bildungsprozesse initiiert werden. Die Wirkung beschreibt die systemische Veränderung, die durch den Bildungswirkfaktor verursacht wird und sich im Gesamtergebnis des Systems manifestiert. Der Bildungswirkfaktor bietet somit eine Grundlage für die quantitative Beschreibung der Wirkung in einem Bildungsumfeld. Ein stabiler Bildungswirkfaktor weist auf eine kontrollierte Entwicklung hin, während starke Schwankungen auf instabile und schwer vorhersehbare Lernprozesse hindeuten.
+Im Kontext der [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] repräsentiert der Bildungswirkfaktor die Intensität und Qualität von Veränderungen im System, die durch Bildungsprozesse initiiert werden. Die Wirkung beschreibt die systemische Veränderung, die durch den Bildungswirkfaktor verursacht wird und sich im Gesamtergebnis des Systems manifestiert. Der Bildungswirkfaktor bietet somit eine Grundlage für die quantitative Beschreibung der Wirkung in einem Bildungsumfeld. Ein stabiler Bildungswirkfaktor weist auf eine kontrollierte Entwicklung hin, während starke Schwankungen auf instabile und schwer vorhersehbare Lernprozesse hindeuten.
 # 2 Herleitung
 
 ## 2.1 Mathematische Herleitung
@@ -45,7 +45,7 @@ Die Struktur der $\nu$-Kurve ist entscheidend für die Interpretation der Lernpr
 
 ## 2.4 Systemische Verknüpfung
 
-Der Bildungswirkfaktor steht in direktem Zusammenhang mit der [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung|systemischen Wirkung]] und der Unsicherheit in der Kompetenzmessung $\Delta K$ sowie der Unsicherheit in der [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung|Kompetenzentwicklung]] $\Delta E$. Diese Beziehung wird in der Simulation durch die Unschärferelation $\Delta E \cdot \Delta K \geq C$ beschrieben. Eine starke Kopplung führt zu instabilen Prozessen:
+Der Bildungswirkfaktor steht in direktem Zusammenhang mit der [[Allgemein beruflich/Research/Systemtheorie/Wirkung|systemischen Wirkung]] und der Unsicherheit in der Kompetenzmessung $\Delta K$ sowie der Unsicherheit in der [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung|Kompetenzentwicklung]] $\Delta E$. Diese Beziehung wird in der Simulation durch die Unschärferelation $\Delta E \cdot \Delta K \geq C$ beschrieben. Eine starke Kopplung führt zu instabilen Prozessen:
 $$\nu = \Delta K \cdot \Delta E$$
 Ein hoher Wert des Bildungswirkfaktors $\nu$ zeigt an, dass starke Kopplungen vorliegen, die die Lernprozesse verkomplizieren und die Wirkung innerhalb des Systems schwer vorhersagbar machen.
 ## 2.5 Bezug zum allgemeinen Wirkfaktor
@@ -60,13 +60,13 @@ Im Gegensatz zum allgemeinen [[Wirkfaktor]], der in verschiedenen Kontexten zur 
    Ein hoher oder stark schwankender Bildungswirkfaktor deutet auf instabile Lernphasen hin, die durch externe Faktoren wie persönliche Ereignisse oder methodische Schwächen ausgelöst werden können.
 
 - **Verbindung zur Wirkung**:  
-   Der Bildungswirkfaktor beeinflusst direkt die beobachtbare [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] innerhalb des Bildungssystems. Positive Werte verstärken die gewünschte Wirkung, während negative Werte hemmend wirken. Die Unsicherheitskopplung und deren Ausmaß bestimmen, wie stark der Bildungswirkfaktor die resultierende Wirkung im System verändert.
+   Der Bildungswirkfaktor beeinflusst direkt die beobachtbare [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] innerhalb des Bildungssystems. Positive Werte verstärken die gewünschte Wirkung, während negative Werte hemmend wirken. Die Unsicherheitskopplung und deren Ausmaß bestimmen, wie stark der Bildungswirkfaktor die resultierende Wirkung im System verändert.
 
 - **Systemische Relevanz**:  
    Da der Bildungswirkfaktor als spezialisierter [[Wirkfaktor]] fungiert, interagiert er mit anderen Einflussgrößen im System, wie z. B. Lernbereitschaft oder Lernumgebung. Dadurch wird die tatsächliche Wirkung immer im Kontext mehrerer Faktoren generiert.
 # 4 Zusammenfassung
 
-Der Bildungswirkfaktor $(\nu)$ beschreibt die Stärke der Bildungsprozesse in Bezug auf die [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]]. Er wird durch die zeitliche Ableitung des Kompetenzniveaus berechnet und gibt die Änderungsrate der Kompetenzentwicklung wieder. Ein stabiler $\nu$-Wert zeigt eine kontrollierte Entwicklung, während instabile oder stark schwankende Werte auf Unsicherheiten und instabile Lernprozesse hinweisen. Der Bildungswirkfaktor ist eine spezialisierte Form des allgemeinen [[Wirkfaktor]], da er gezielt die dynamischen Prozesse innerhalb eines Bildungskontextes abbildet und die resultierende [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] im System beschreibt.
+Der Bildungswirkfaktor $(\nu)$ beschreibt die Stärke der Bildungsprozesse in Bezug auf die [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]]. Er wird durch die zeitliche Ableitung des Kompetenzniveaus berechnet und gibt die Änderungsrate der Kompetenzentwicklung wieder. Ein stabiler $\nu$-Wert zeigt eine kontrollierte Entwicklung, während instabile oder stark schwankende Werte auf Unsicherheiten und instabile Lernprozesse hinweisen. Der Bildungswirkfaktor ist eine spezialisierte Form des allgemeinen [[Wirkfaktor]], da er gezielt die dynamischen Prozesse innerhalb eines Bildungskontextes abbildet und die resultierende [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] im System beschreibt.
 # Quelle(n)
 
 - Arnold, R. (2014). **Systemische Pädagogik: Grundlagen und Anwendungen.** Schneider Verlag Hohengehren.  

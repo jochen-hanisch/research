@@ -70,7 +70,7 @@ Die Wirksamkeit professionellen Handelns ergibt sich aus der Fähigkeit, durch [
 
 ## 1.2 Schematische Darstellung
 
-Das Systemtheoretische Professionalisierungsmodell beschreibt die systemischen Wechselwirkungen von Professionen durch System-Umwelt-Unterscheidungen, [[Elementaroperationen]] und asymmetrisch-strukturelle Kopplung. Im Zentrum steht die [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]], die aus Differenzierung und Entscheidungsgrundlagen hervorgeht. Sie beeinflusst [[Systeme]] durch Rückkopplung, Anpassung und Einflussnahme.
+Das Systemtheoretische Professionalisierungsmodell beschreibt die systemischen Wechselwirkungen von Professionen durch System-Umwelt-Unterscheidungen, [[Elementaroperationen]] und asymmetrisch-strukturelle Kopplung. Im Zentrum steht die [[Allgemein beruflich/Research/Systemtheorie/Wirkung]], die aus Differenzierung und Entscheidungsgrundlagen hervorgeht. Sie beeinflusst [[Systeme]] durch Rückkopplung, Anpassung und Einflussnahme.
 
 ```mermaid
 graph TD
@@ -147,7 +147,7 @@ Der hier entwickelte systemtheoretische Professionalisierungsansatz integriert d
    Professionen zeichnen sich durch ihre Fähigkeit aus, komplexe Umweltanforderungen wahrzunehmen, zu beschreiben und zu interpretieren. Diese Differenzierungsfähigkeit ist die Grundlage für handlungsrelevante Entscheidungen und die Legitimation professioneller Eingriffe.
 
 2. Wirkung
-   Professionen erzeugen weitreichende und ambivalente Wirkungen, die sowohl in ihrer zeitlichen Dimension (kurz- und langfristige Konsequenzen) als auch in ihrer Intensität (positiv oder negativ) herausstechen. Diese [[Allgemein beruflich/Research/Bildungswissenschaft/Wirkung]] macht die gesellschaftliche Relevanz von Professionen deutlich und geht der Verantwortung voraus, die sie übernehmen müssen.
+   Professionen erzeugen weitreichende und ambivalente Wirkungen, die sowohl in ihrer zeitlichen Dimension (kurz- und langfristige Konsequenzen) als auch in ihrer Intensität (positiv oder negativ) herausstechen. Diese [[Allgemein beruflich/Research/Systemtheorie/Wirkung]] macht die gesellschaftliche Relevanz von Professionen deutlich und geht der Verantwortung voraus, die sie übernehmen müssen.
 
 3. Entwicklungsdynamik
    Professionen entwickeln sich kontinuierlich durch das Zusammenspiel der Trias aus [[Feedback]], [[Reflexion]] und Reentry. Diese Mechanismen ermöglichen die aktive Transformation von Systemen und die Anpassung an neue gesellschaftliche Anforderungen.

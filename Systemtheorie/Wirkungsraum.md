@@ -25,6 +25,8 @@ created: 27.09.2024 | updated: 26.11.2024 | published: 26.11.2024 | [[Hinweise]]
 Der Wirkungsraum ist ein konzeptioneller Rahmen, der die Wahrscheinlichkeiten und Wechselwirkungen von Ereignissen innerhalb eines Systems beschreibt. Er dient zur präzisen Modellierung simultan auftretender positiver und negativer Effekte und bildet die mathematische Grundlage für die Berechnung von Gesamtwirkungen im System. Der Wirkungsraum stellt dabei nicht nur einen statischen Bereich dar, sondern ein dynamisches Modell, das die Interdependenzen und gegenseitigen Einflüsse zwischen verschiedenen Systemelementen berücksichtigt.
 
 Wahrscheinlichkeiten innerhalb des Wirkungsraums nehmen Werte zwischen -1 und +1 an, wobei positive Werte erwünschte Ereignisse und negative Werte unerwünschte Ereignisse repräsentieren. Der besondere Wert **0** repräsentiert eine neutrale Wirkung, bei der weder fördernde noch hemmende Einflüsse vorherrschen. Dies bedeutet, dass ein Ereignis, dessen Wahrscheinlichkeit im Wirkungsraum 0 beträgt, keine spürbare Wirkung auf das System ausübt oder eine Balance zwischen den positiven und negativen Effekten darstellt.
+
+Als Begriff steht der Wirkungsraum damit in direktem Zusammenhang mit [[Wirkung]] (als anschlussrelevante, verlaufsmodifizierende Differenz) und mit der [[Wirkungswahrscheinlichkeit]] als möglicher Operationalisierung, um fördernde und hemmende Verschiebungen im Verlauf formal zu beschreiben.
 # 2 Herleitung
 
 ## 2.1 Mathematische Perspektive
