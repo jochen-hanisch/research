@@ -1,7 +1,7 @@
 ---
 author: Jochen Hanisch
 title: Wirkungswahrscheinlichkeit
-Repository:
+Repository: https://github.com/jochen-hanisch/research/tree/main
 created: 2024-09-26
 updated: 2024-12-10
 publish: true
@@ -19,7 +19,7 @@ tags:
 published: 2024-10-26
 ---
 
-created: 26.09.2024 | updated: 26.10.2024 | published: 26.10.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions)  | [[Hinweise]]
+created: 26.09.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Wirkungswahrscheinlichkeit.md): 26.10.2024 | published: 26.10.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions)  | [[Hinweise]]
 
 # 1 Definition
 
