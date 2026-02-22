@@ -27,7 +27,7 @@ Der Begriff der Wirkung gehört zu den zentralen, zugleich jedoch selten explizi
 
 In der Medizin wird Wirkung typischerweise als messbarer Effekt eines Wirkstoffs oder therapeutischen Verfahrens verstanden. Im Mittelpunkt stehen beobachtbare Veränderungen, Dosis‑Wirkungs‑Beziehungen und Reproduzierbarkeit. In der empirischen Wirkungsforschung bezeichnet Wirkung meist eine statistisch erfassbare Veränderung, die auf eine Intervention zurückgeführt wird. Sozial‑ und bildungswissenschaftliche Diskurse erweitern diesen Rahmen um Kontextabhängigkeit, Nachhaltigkeit und gesellschaftliche Relevanz, ohne jedoch den Wirkbegriff selbst grundlegend zu klären.
 
-Gemeinsam ist diesen Perspektiven die Orientierung an Veränderung, Relationalität und Zuschreibung. Unterschiedlich sind hingegen die impliziten Annahmen über Kausalität, Notwendigkeit und Determination. Klassische Ursache‑Wirkung‑Modelle unterstellen häufig eine lineare Verknüpfung zwischen Ereignissen, während komplexe Systeme, insbesondere soziale und pädagogische Kontexte, durch Kontingenz, Mehrdimensionalität und Selbstreferenzialität gekennzeichnet sind.
+Gemeinsam ist diesen Perspektiven die Orientierung an Veränderung, Relationalität und Zuschreibung. Unterschiedlich sind hingegen die impliziten Annahmen über Kausalität, Notwendigkeit und Determination. Klassische Ursache‑Wirkung‑Modelle unterstellen häufig eine lineare Verknüpfung zwischen Ereignissen, während komplexe Systeme, insbesondere soziale und pädagogische Kontexte, durch Kontingenz, Mehrdimensionalität und Selbstreferenzialität gekennzeichnet sind (Luhmann, 1984, 1997).
 
 Vor diesem Hintergrund verfolgt die vorliegende Begriffsarbeit das Ziel, einen disziplinübergreifend anschlussfähigen Wirkbegriff zu entwickeln, der weder auf eine kraftbasierte Kausalmetapher reduziert noch in bloßer Beobachterrelativität aufgelöst wird. Ausgangspunkt ist die formale Bestimmung von Differenz, die unter Bedingungen von Anschlussrelevanz zur Wirkung wird. Damit wird Wirkung als verlaufsmodifizierende Differenz innerhalb eines relationalen Gefüges gefasst.
 
@@ -57,13 +57,13 @@ Die Abfolge folgt einer begrifflichen Bewegung von intuitiver Veränderungszusch
 
 ## 2.1 Alltagssprachliche Grundsemantik (Duden)
 
-Der Duden definiert Wirkung als „durch eine verursachende Kraft bewirkte Veränderung, Beeinflussung, bewirktes Ergebnis“. Diese Bestimmung enthält drei strukturelle Elemente: eine verursachende Instanz, eine Veränderung sowie ein Ergebnis. Wirkung erscheint hier als lineare Ursache‑Wirkung‑Relation. Diese Semantik ist kraftbasiert und impliziert eine notwendige Verknüpfung zwischen Ereignissen.
+Der Duden definiert Wirkung als „durch eine verursachende Kraft bewirkte Veränderung, Beeinflussung, bewirktes Ergebnis“ (Dudenredaktion, 2023). Diese Bestimmung enthält drei strukturelle Elemente: eine verursachende Instanz, eine Veränderung sowie ein Ergebnis. Wirkung erscheint hier als lineare Ursache‑Wirkung‑Relation. Diese Semantik ist kraftbasiert und impliziert eine notwendige Verknüpfung zwischen Ereignissen.
 
 Für die vorliegende Arbeit ist diese Definition Ausgangspunkt, jedoch epistemisch zu eng. Sie liefert das Motiv der Veränderung, bleibt jedoch hinsichtlich Kontingenz, Beobachterabhängigkeit und relationaler Vermittlung unterbestimmt.
 
 ## 2.2 Erkenntnistheoretische Problematisierung (Hume)
 
-David Hume zeigt, dass in der Beobachtung lediglich zeitliche Abfolge und regelmäßige Kopplung von Ereignissen wahrgenommen werden, nicht jedoch eine notwendige Verbindung. Kausalität erscheint damit als Zuschreibung stabiler Regularitäten. Wirkung ist demnach keine unmittelbar beobachtbare Kraft, sondern eine interpretative Struktur, die aus wiederholten Mustern abgeleitet wird.
+David Hume zeigt, dass in der Beobachtung lediglich zeitliche Abfolge und regelmäßige Kopplung von Ereignissen wahrgenommen werden, nicht jedoch eine notwendige Verbindung (Hume, 1748/1993). Kausalität erscheint damit als Zuschreibung stabiler Regularitäten. Wirkung ist demnach keine unmittelbar beobachtbare Kraft, sondern eine interpretative Struktur, die aus wiederholten Mustern abgeleitet wird.
 
 Diese Einsicht entzieht der Wirkung jede metaphysische Notwendigkeit und verschiebt sie in den Bereich der Beobachtung und Erwartungsbildung.
 
@@ -71,13 +71,13 @@ Wichtig ist: Diese Verschiebung leugnet nicht, dass in der Welt etwas passiert. 
 
 ## 2.3 Physikalische Perspektive (Wechselwirkung)
 
-In der modernen Physik werden Kräfte als Wechselwirkungen verstanden. Wirkung entsteht nicht durch einseitige Einwirkung, sondern innerhalb relationaler Strukturen. Felder vermitteln Zustandsänderungen; Energiezustände bestimmen mögliche Verläufe. Damit verschiebt sich das Wirkverständnis von isolierter Ursache zu strukturvermittelter Dynamik.
+In der modernen Physik werden Kräfte als Wechselwirkungen verstanden (Niedrig, 1992). Wirkung entsteht nicht durch einseitige Einwirkung, sondern innerhalb relationaler Strukturen. Felder vermitteln Zustandsänderungen; Energiezustände bestimmen mögliche Verläufe. Damit verschiebt sich das Wirkverständnis von isolierter Ursache zu strukturvermittelter Dynamik.
 
 In dieser Perspektive wird „Wirkung“ häufig als Zustandsänderung innerhalb eines Gefüges von Relationen beschrieben. Für den hier entwickelten Wirkbegriff ist Zustandsänderung jedoch nur die notwendige Differenzbasis: Zur Wirkung im strengen Sinn wird eine Zustandsdifferenz erst dann, wenn sie anschlussrelevant wird, also weitere Operationen verändert oder Anschlusswahrscheinlichkeiten verschiebt.
 
 ## 2.4 Systemtheoretische Semantik (Operation und Anschluss)
 
-Die Systemtheorie ersetzt die Kraftmetapher durch Operationslogik. Systeme operieren selbstreferenziell; Umwelt kann lediglich irritieren. Eine systeminterne Veränderung entsteht nur, wenn das System die Irritation in eigene Operationen überführt.
+Die Systemtheorie ersetzt die Kraftmetapher durch Operationslogik. Systeme operieren selbstreferenziell; Umwelt kann lediglich irritieren (Luhmann, 1984). Eine systeminterne Veränderung entsteht nur, wenn das System die Irritation in eigene Operationen überführt.
 
 Wirkung ist damit keine Übertragung, sondern eine systeminterne Differenz, die anschlussrelevant wird. Entscheidend ist nicht die bloße Zustandsänderung, sondern die Veränderung weiterer Operationen.
 
@@ -85,7 +85,7 @@ Damit wird eine verbreitete Intuition korrigiert: „Wir haben X getan, also hat
 
 ## 2.5 Formale Fundierung (Spencer Brown und Bateson)
 
-Spencer Brown bestimmt mit dem Begriff der Unterscheidung die elementare Operation jeder Formbildung. Eine Differenz entsteht durch Markierung. Gregory Bateson präzisiert: Information ist „a difference that makes a difference“. Nicht jede Differenz ist wirksam; wirksam wird sie erst, wenn sie weitere Differenzen erzeugt.
+Spencer Brown bestimmt mit dem Begriff der Unterscheidung die elementare Operation jeder Formbildung (Brown, 1972). Eine Differenz entsteht durch Markierung. Gregory Bateson präzisiert: Information ist „a difference that makes a difference“ (Bateson, 1979/1985). Nicht jede Differenz ist wirksam; wirksam wird sie erst, wenn sie weitere Differenzen erzeugt.
 
 Hier erreicht der Wirkbegriff seine formale Verdichtung: Wirkung bezeichnet eine Differenz, die anschlussrelevant wird und weitere Differenzen im Verlauf generiert. Damit wird Wirkung als verlaufsmodifizierende Differenz innerhalb eines relationalen Gefüges bestimmbar.
 
@@ -95,9 +95,9 @@ Während „Wirkung“ die anschlussrelevante Differenz bezeichnet, verweist „
 
 Wirken ist damit keine Übertragung von Kraft, sondern die zeitliche Entfaltung operativer Differenzerzeugung innerhalb eines relationalen Gefüges. Es bezeichnet die Dynamik, durch die Zustände sich verändern und Anschlusswahrscheinlichkeiten verschoben werden. Wirkung ist das als relevant markierte Resultat dieses Verlaufs; Wirken ist dessen operative Vollzugsform.
 
-Im praktischen Sprachgebrauch zeigt sich diese Prozessdimension oft daran, dass Wirkungen zeitversetzt eintreten und sich erst im Nachlauf einer Intervention, einer Entscheidung oder eines Ereignisses stabilisieren. Gerade dort, wo Rückkopplungen wirksam werden, kann dieselbe Konstellation kurzfristig „erwünschte“ Effekte erzeugen und mittel‑ bis langfristig unerwünschte Nebenwirkungen nachziehen – oder umgekehrt. Deshalb ist Wirkung im strengen Sinn nicht mit dem ersten sichtbaren Effekt gleichzusetzen, sondern mit der anschlussrelevanten Veränderung von Verlaufsstrukturen.
+Im praktischen Sprachgebrauch zeigt sich diese Prozessdimension oft daran, dass Wirkungen zeitversetzt eintreten und sich erst im Nachlauf einer Intervention, einer Entscheidung oder eines Ereignisses stabilisieren. Gerade dort, wo Rückkopplungen wirksam werden, kann dieselbe Konstellation kurzfristig „erwünschte“ Effekte erzeugen und mittel‑ bis langfristig unerwünschte Nebenwirkungen nachziehen – oder umgekehrt. Deshalb ist Wirkung im strengen Sinn nicht mit dem ersten sichtbaren Effekt gleichzusetzen, sondern mit der anschlussrelevanten Veränderung von Verlaufsstrukturen (Hanisch, 2020).
 
-Emergenz markiert dabei eine Grenze naiver Erwartung: Wirkungen können als Eigenschaften des Gesamtsystems auftreten, obwohl sie aus den Einzelelementen nicht ohne Weiteres ableitbar sind. Das spricht nicht gegen Wirkung, sondern gegen zu einfache Modelle ihrer Entstehung. Es erklärt auch, warum Wirkungszuschreibungen häufig mit Unsicherheit umgehen müssen, statt sie nur zu „reduzieren“.
+Emergenz markiert dabei eine Grenze naiver Erwartung: Wirkungen können als Eigenschaften des Gesamtsystems auftreten, obwohl sie aus den Einzelelementen nicht ohne Weiteres ableitbar sind (Luhmann, 1997). Das spricht nicht gegen Wirkung, sondern gegen zu einfache Modelle ihrer Entstehung. Es erklärt auch, warum Wirkungszuschreibungen häufig mit Unsicherheit umgehen müssen, statt sie nur zu „reduzieren“.
 
 ## 2.7 Strukturdiagramm: Wirkung als verlaufsmodifizierende Differenz
 
@@ -176,15 +176,15 @@ Theoretische und empirische Modelle müssen daher mit Wahrscheinlichkeitsräumen
 
 In dieser Lesart ist „wirksam“ kein Alles‑oder‑Nichts‑Prädikat. Plausibler ist eine Abstufung: Eine Konstellation kann die Wahrscheinlichkeit bestimmter Anschlüsse deutlich erhöhen, leicht erhöhen oder auch senken. Für die Kommunikation von Ergebnissen bedeutet das: Statt „hat gewirkt“ sind Aussagen wie „macht X unter Bedingungen Y wahrscheinlicher“ häufig präziser.
 
-Für eine formale Modellierung lässt sich diese probabilistische Perspektive mit dem Begriff des [[Wirkungsraum]]s verbinden: Als Modellrahmen macht er explizit, dass gleichzeitig fördernde und hemmende Einflüsse auftreten können. Die [[Wirkungswahrscheinlichkeit]] bietet dann eine Operationalisierung, um Verschiebungen im Anschlussgeschehen zu beschreiben. Wichtig ist dabei, „Wahrscheinlichkeit“ nicht vorschnell im engeren, klassischen Sinn zu lesen: Der in diesen Notizen verwendete Wertebereich von −1 bis +1 ist eine vorzeichenbehaftete Maßzahl, die Richtung (erwünscht/unerwünscht relativ zu einem Kriterium) und Intensität abbildet.
+Für eine formale Modellierung lässt sich diese probabilistische Perspektive mit dem Begriff des [[Wirkungsraum]]s verbinden: Als Modellrahmen macht er explizit, dass gleichzeitig fördernde und hemmende Einflüsse auftreten können. Die [[Wirkungswahrscheinlichkeit]] bietet dann eine Operationalisierung, um Verschiebungen im Anschlussgeschehen zu beschreiben. Wichtig ist dabei, „Wahrscheinlichkeit“ nicht vorschnell im engeren, klassischen Sinn zu lesen: Der in diesen Notizen verwendete Wertebereich von −1 bis +1 ist eine vorzeichenbehaftete Maßzahl, die Richtung (erwünscht/unerwünscht relativ zu einem Kriterium) und Intensität abbildet (vgl. Feynman, 1987).
 
 ## 4.4 Bildungstheoretische Implikation
 
-Für pädagogische Kontexte folgt, dass Lernen nicht erzeugt, sondern nur wahrscheinlicher gemacht werden kann. Didaktische Gestaltung bedeutet Strukturierung von Anschlussmöglichkeiten.
+Für pädagogische Kontexte folgt, dass Lernen nicht erzeugt, sondern nur wahrscheinlicher gemacht werden kann (Vygotsky, 1978). Didaktische Gestaltung bedeutet Strukturierung von Anschlussmöglichkeiten.
 
 Erfolg kann nicht als garantierte Wirkung einer Maßnahme verstanden werden. Verantwortlich ist die Gestaltung der Bedingungen, unter denen Differenzen anschlussrelevant werden können.
 
-Didaktisch rückt damit die Frage in den Vordergrund, welche Anschlüsse vorbereitet werden: Welche Unterscheidungen sollen Lernende treffen können? Welche Übungsformen stabilisieren diese Unterscheidungen? Welche Rückmeldeschleifen ermöglichen Korrektur, Vertiefung oder Transfer? Wirkung zeigt sich dann weniger in einem punktuellen Output, sondern in der Qualität der Anschlussfähigkeit.
+Didaktisch rückt damit die Frage in den Vordergrund, welche Anschlüsse vorbereitet werden: Welche Unterscheidungen sollen Lernende treffen können? Welche Übungsformen stabilisieren diese Unterscheidungen? Welche Rückmeldeschleifen ermöglichen Korrektur, Vertiefung oder Transfer? Wirkung zeigt sich dann weniger in einem punktuellen Output, sondern in der Qualität der Anschlussfähigkeit (Deci & Ryan, 1985; Bandura, 1997).
 
 ## 4.5 Verantwortungstheoretische Implikation
 
@@ -236,7 +236,7 @@ Die Herleitung zeigt eine begriffliche Verdichtung über mehrere Ebenen: Die all
 
 Realitätsbezogen bleibt Wirkung als Zustands‑ bzw. Strukturveränderung bestimmbar. Epistemologisch ist sie über Differenzmarkierung und Anschlussanalyse erschließbar. Systemisch ist sie als interne Modifikation von Operationsverläufen zu verstehen. Diese dreifache Perspektive integriert Realitätsbezug, Beobachtungslogik und Operationsstruktur.
 
-Damit ist der Begriff kompatibel mit etablierten Kausalverständnissen, die Effekte als Differenzen zwischen Zuständen fassen (z.B. in der Kausalinferenz). Zugleich wird diese Differenzbestimmung um eine Anschlussdimension erweitert: Wirkung liegt nicht schon in der Zustandsdifferenz selbst, sondern in der verlaufsrelevanten Verschiebung von Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten.
+Damit ist der Begriff kompatibel mit etablierten Kausalverständnissen, die Effekte als Differenzen zwischen Zuständen fassen (z.B. in der Kausalinferenz; Imbens & Rubin, 2015). Zugleich wird diese Differenzbestimmung um eine Anschlussdimension erweitert: Wirkung liegt nicht schon in der Zustandsdifferenz selbst, sondern in der verlaufsrelevanten Verschiebung von Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten.
 
 Die daraus abgeleiteten Implikationen betreffen Methodologie, Modellbildung, Wahrscheinlichkeitstheorie, Didaktik und Verantwortung. Wirkungsmessung erfordert Verlaufsanalyse, Wirkmodelle sind als Gefügemodelle zu konzipieren, Aussagen über Wirkung beziehen sich auf Wahrscheinlichkeitsverschiebungen. Verantwortung richtet sich auf die reflexive Gestaltung von Bedingungen innerhalb kontingenter Strukturen.
 
@@ -252,6 +252,7 @@ Der Wirkbegriff erhält damit eine formale, theoretisch anschlussfähige und int
 - Feynman, R. P. (1987). *Negative Probability*. In H. Wolfe (Ed.), *Quantum Implications: Essays in Honour of David Bohm*. Routledge & Kegan Paul.
 - Hanisch, J. (2020). *Notfallsanitäter. Systemische Interventionskompetenz durch High Responsibility Teams in kritischen Situationen: Eine qualitative Inhaltsanalyse der berufsausbildenden Grundlagenliteratur*. GRIN Publishing GmbH.
 - Hume, D. (1993). *Eine Untersuchung über den menschlichen Verstand* (Übers. von J. Kulenkampff). Meiner. (Originalarbeit veröffentlicht 1748)
+- Imbens, G. W., & Rubin, D. B. (2015). *Causal inference for statistics, social, and biomedical sciences: An introduction*. Cambridge University Press.
 - Luhmann, N. (1984). *Soziale Systeme. Grundriß einer allgemeinen Theorie*. Suhrkamp.
 - Luhmann, N. (1997). *Die Gesellschaft der Gesellschaft*. Suhrkamp.
 - Niedrig, H. (1992). Übersicht über die fundamentalen Wechselwirkungen. In H. Niedrig (Hrsg.), *Physik* (S. 1–15). Springer.
