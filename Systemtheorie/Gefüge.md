@@ -48,36 +48,52 @@ Entscheidend ist: Die mechanischen Eigenschaften eines Werkstoffes ergeben sich 
 
 Das Schliffbild fungiert dabei als Beobachtung zweiter Ordnung. Erst durch gezielte Analyseverfahren werden Gefüge sichtbar. In Bildungszusammenhängen übernehmen Evaluation, Datenanalyse oder strukturierte Prozessbeobachtung eine funktional äquivalente Rolle. Gefüge ist damit nicht unmittelbar gegeben, sondern wird durch Beobachtung als relationale Struktur rekonstruierbar.
 
-
 # 3 Folgerungen
+
+## 3.1 Gefüge als Bedingung von Wirkung
+
+Wirkung ist verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges. Eine isolierte Operation erzeugt lediglich eine Differenz. Erst wenn diese Differenz über die Relationen $R$ weitere Operationen strukturell modifiziert, entsteht Wirkung. Gefüge fungiert damit als Bedingungsstruktur für Anschluss.
+
+## 3.2 Emergenz systemischer Eigenschaften
+
+Eigenschaften eines Systems sind nicht Eigenschaften einzelner Elemente $e_i$, sondern Resultate der Relationenkonfiguration $R$. Systemische Stabilität, Lernwirksamkeit oder Entscheidungsdynamik entstehen aus der Topologie der Relationen. Diese Eigenschaften sind emergent, da sie nicht auf ein einzelnes Element reduzierbar sind.
+
+## 3.3 Anschlusswahrscheinlichkeit
+
+Die Konfiguration $R$ bestimmt die Wahrscheinlichkeit, mit der Differenzen weitere Operationen modifizieren. Eine Verdichtung stabilisierter Relationen erhöht die Anschlusswahrscheinlichkeit. Eine geringe oder fragile Relationenkonfiguration reduziert sie. Gefüge beschreibt somit einen strukturierten Wahrscheinlichkeitsraum möglicher Verlaufsentwicklungen.
+
+## 3.4 Dynamik und Zustandsraum
+
+Ein Gefügezustand zu einem Zeitpunkt $t$ lässt sich als $G(t) = (E(t), R(t))$ bestimmen. Die Veränderung von $R(t)$ über die Zeit erzeugt eine Trajektorie im Zustandsraum. Wirkung entsteht als Ergebnis dieser Bewegung. Quantität, Qualität und Zeit wirken dabei als Dimensionen, entlang derer sich Gefügedynamik beobachten und analysieren lässt.
 
 # 4 Implikationen
 
-## Gefügedesign und Wirkungswahrscheinlichkeit
+## 4.1 Gefügedesign und Wirkungswahrscheinlichkeit
 
-Die bewusste Gestaltung eines Gefüges beeinflusst nicht einzelne Wirkungen direkt, sondern die Anschlusswahrscheinlichkeit von Differenzen. In einem Learning-Management-System mit wiederkehrender Ordnungsstruktur, kohärenter Binnenlogik der einzelnen Aktivitäten und stabilisierten Relationen zwischen Materialien, Aufgaben, Feedbackmechanismen und Kommunikationsräumen entsteht ein lernbares Gefüge. Dieses Gefüge reduziert Kontingenz, stabilisiert Erwartungen und erhöht die Orientierung der Akteur*innen.
+Die bewusste Gestaltung eines Gefüges entspricht der gezielten Konfiguration der Relationenkonfiguration $R$ innerhalb von $G = (E, R)$. Gestaltung betrifft somit nicht isolierte Wirkungen, sondern die strukturellen Anschlussbedingungen zwischen Elementen $e_i \in E$.
 
-Akteur*innen erzeugen durch ihre Operationen kontinuierlich Differenzen, beispielsweise durch Forenbeiträge, Wiki-Einträge oder Aufgabenbearbeitungen. Diese Differenzen entfalten jedoch nur dann Wirkung, wenn sie im Gefüge anschlussfähig sind. Die Größe einer Differenz bestimmt nicht ihre Wirkung. Entscheidend ist ihre strukturelle Passung und die Wahrscheinlichkeit, mit der sie weitere Operationen modifiziert.
+Akteur*innen erzeugen durch ihre Operationen kontinuierlich Differenzen, beispielsweise durch Forenbeiträge, Wiki-Einträge oder Aufgabenbearbeitungen. Diese Differenzen entfalten nur dann Wirkung, wenn sie über Relationen $(e_i, e_j) \in R$ Anschluss erzeugen. Die Größe einer Differenz bestimmt nicht ihre Wirkung. Entscheidend ist ihre strukturelle Passung und die Wahrscheinlichkeit, mit der sie weitere Operationen modifiziert.
 
-Gefügedesign kann daher als Gestaltung von Anschlussbedingungen verstanden werden. Es zielt nicht auf die Erzeugung bestimmter Effekte, sondern auf die Erhöhung der Wahrscheinlichkeit verlaufsmodifizierender Anschlüsse. Wirkung erscheint in dieser Perspektive als emergentes Resultat differenzieller Prozesse innerhalb eines relational stabilisierten Gefüges.
+Gefügedesign zielt auf die Erhöhung der Wahrscheinlichkeit, dass Modifikationen entlang von $R$ fortgeschrieben werden.
 
-## Dynamik des Gefüges: Quantität, Qualität, Zeit
+
+## 4.2 Dynamik des Gefüges: Quantität, Qualität, Zeit
 
 Gefüge ist stets dynamisch. Seine Veränderung lässt sich entlang dreier Achsen modellieren: Quantität, Qualität und Zeit. Diese Achsen bilden einen dreidimensionalen Zustandsraum, in dem sich die Entwicklung eines Gefüges als Trajektorie beschreiben lässt.
 
-### Quantität
+### 4.2.1Quantität
 
 Quantität bezeichnet die Frequenz und Dichte von Operationen innerhalb des Gefüges. Operationalisierbar ist sie beispielsweise über die Anzahl von Beiträgen, die Interaktionsdichte, die Anzahl aktiver Akteurinnen und Akteure oder die Häufigkeit von Feedbackzyklen. Formal lässt sich Quantität als Anzahl von Operationen pro Zeiteinheit bestimmen.
 
-### Qualität
+### 4.2.2 Qualität
 
 Qualität bezeichnet die Anschlussfähigkeit erzeugter Differenzen. Sie zeigt sich im Modifikationsgrad nachfolgender Operationen, in Bezugnahmen auf vorangegangene Beiträge, in der Entscheidungsrelevanz oder in der strukturellen Passung zum bestehenden Gefüge. Qualität beschreibt damit die Intensität, mit der eine Differenz weitere Operationen beeinflusst.
 
-### Zeit
+### 4.2.3 Zeit
 
 Zeit bildet die Verlaufsdimension des Gefüges. Sie umfasst Sequenzierung, Rhythmus, Wiederholung und Stabilisierung. Erst durch zeitliche Verdichtung entsteht ein lernbares oder organisationswirksames Gefüge. Einzelne Operationen gewinnen Wirkung durch ihre Einbettung in zeitlich strukturierte Anschlussketten.
 
-Ein Gefügezustand zu einem Zeitpunkt t kann als Funktion von Quantität und Qualität beschrieben werden. Die Entwicklung über die Zeit erzeugt eine Bahn im Zustandsraum. Wirkung entsteht als Ergebnis dieser Bewegung. Gefügedesign beeinflusst damit nicht einzelne Effekte direkt, sondern verschiebt die Wahrscheinlichkeitsräume möglicher Verlaufsentwicklungen.
+Ein Gefügezustand zu einem Zeitpunkt $t$ lässt sich als $G(t) = (E(t), R(t))$ bestimmen. Die Entwicklung über die Zeit erzeugt eine Bahn im Zustandsraum. Wirkung entsteht als Ergebnis dieser Bewegung. Gefügedesign beeinflusst die Entwicklung von $R(t)$ über die Zeit und verschiebt dadurch die Wahrscheinlichkeitsräume möglicher Verlaufsentwicklungen.
 
 # 5 Kritik
 
