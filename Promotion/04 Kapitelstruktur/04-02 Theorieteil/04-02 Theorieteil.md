@@ -174,9 +174,11 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-
 
 Für die weitere Argumentation werden drei Basisbegriffe vorab fixiert, weil sie in den Abschnitten 2.2–2.5 als begriffliche Klammer dienen (vgl. Begriffstableau im Anhang):
 
-- **Wirkung** bezeichnet hier beobachtbare Veränderungen von Lern‑, Handlungs‑ und Kompetenzentwicklungsprozessen, die aus gekoppelten Bedingungen im Bildungsraum hervorgehen (nicht als direkte, linear zurechenbare „Maßnahmenwirkung“).
-- **Gefüge** meint eine relationale Anordnung von Elementen und ihren Wechselbezügen; es beschreibt also keine Summe von Bestandteilen, sondern ihre Kopplungen (didaktisch, sozial, technisch, organisatorisch).
-- **Wirkgefüge** fasst diese Kopplungen als System von Wechselwirkungen, in dem unterschiedliche Wirkpfade (fördernd/hemmend) zugleich möglich sind und sich über Rückkopplungen stabilisieren oder kippen können.
+- **Wirkung** bezeichnet eine im Verlauf rekonstruierbare, anschlussrelevante Differenz zwischen Zuständen, die auf eine Konstellation zugerechnet wird und weitere Zustandsverläufe modifiziert (u.a. als Verschiebung von Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten; nicht als direkte, linear zurechenbare „Maßnahmenwirkung“). [@hanisch-johannsen_wirkung_2026]
+- **Gefüge** bezeichnet die relationale Gesamtanordnung strukturierter Elemente innerhalb eines Systems (heuristisch: $G=(E,R)$), wobei „stabilisierte Relationen“ solche Kopplungen sind, die Anschlussbedingungen über mehr als einen isolierten Einzelvorgang hinweg modifizieren. [@hanisch-johannsen_gefuege_2026]
+- **Wirkgefüge** fasst ein Gefüge unter der Perspektive von Wirkung: als Wechselwirkungszusammenhang, in dem sich unterschiedliche Wirkpfade (fördernd/hemmend) über Rückkopplungen überlagern und stabilisieren oder kippen können. [@wirtz_wirkungsgefuge_2020; @hanisch-johannsen_wirkung_2026]
+
+Im Zusammenspiel heißt das: Wirkung ist verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges. [@hanisch-johannsen_wirkung_2026; @hanisch-johannsen_gefuege_2026]
 
 Diese Dreierfigur erlaubt es, Lehrparadigmen nicht als „Methodenfamilien“, sondern als Bündel impliziter Wirkannahmen zu lesen: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt?
 
