@@ -170,7 +170,7 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-
 
 #todo (#34, 2025-12-19) Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
 
-### 2.1.4 Zentrale Begriffe und Konzepte
+### 2.1.4 Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
 Für die weitere Argumentation werden drei Basisbegriffe (Wirkung, Gefüge, Wirkgefüge) systematisch hergeleitet und anschließend definitorisch fixiert. Die Begriffe dienen in den Abschnitten 2.2–2.5 als begriffliche Klammer (vgl. \hyperref[tab:A-1]{Begriffstableau im Anhang}).
 
@@ -192,12 +192,12 @@ In dieser Arbeit wird Wirkung als Beobachtungs‑ und Zurechnungskategorie gefas
 
 #### Gefüge
 
-**Herleitung.** Um Wirkung nicht als Eigenschaft eines isolierten Elements zu missverstehen, wird „Gefüge“ als Strukturbegriff vorgeschaltet. Dabei ist eine Unterscheidung zentral:
+**Herleitung.** Um Wirkung nicht als Eigenschaft isolierter Elemente zu missverstehen, wird „Gefüge“ als Strukturbegriff vorgeschaltet. Dabei ist eine Unterscheidung zentral:
 
 - **Struktur** bezeichnet die Binnenordnung eines einzelnen Elements (z.B. Aufgabenlogik, Forenstruktur, Bewertungs‑/Feedbackregeln).
 - **Gefüge** bezeichnet demgegenüber die relationale Anordnung mehrerer strukturierter Elemente zueinander (z.B. wie Aufgabe–Forum–Feedback–Rollen–Zeitlogik–Sichtbarkeit gekoppelt werden).
 
-Anschaulich ist die werkstoffkundliche Analogie: Nicht das einzelne Korn, sondern die Anordnung der Körner (Korngrenzen, Verteilung, Orientierung) prägt die Materialeigenschaften – und wird erst im „Schliffbild“ sichtbar. Entsprechend gilt für digitale Bildungsräume: Nicht ein Feature (Forum, Aufgabe, Feedback), sondern die Kopplung dieser Elemente bildet die Bedingungsstruktur dafür, ob Differenzen anschlussfähig werden, welche Anschlusswege „kurz“ oder „lang“ sind und welche Rückkopplungen überhaupt entstehen können. [@duden_duden_2021; @bargel_werkstoffkunde_1994; @domke_werkstoffkunde_1994]
+Für den Forschungsgegenstand wird diese Perspektive in Kapitel \hyperref[sec:Forschungsgegenstand]{3} unmittelbar anschlussfähig gemacht, indem die LMS‑Architektur aus einer Gefügeperspektive rekonstruiert wird (Abschnitt \hyperref[sec:Gefuegeperspektive-FG]{3.0}). [@duden_duden_2021]
 
 **Definition.** *Gefüge bezeichnet die relationale Gesamtanordnung von Elementen und ihren Wechselbezügen; es meint nicht die Summe der Bestandteile, sondern die Ordnung ihrer Kopplungen.* [@duden_duden_2021]
 
