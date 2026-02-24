@@ -172,15 +172,29 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-
 
 ### 2.1.4 Zentrale Begriffe und Konzepte
 
-Für die weitere Argumentation werden drei Basisbegriffe vorab fixiert, weil sie in den Abschnitten 2.2–2.5 als begriffliche Klammer dienen (vgl. Begriffstableau im Anhang):
+Für die weitere Argumentation werden drei Basisbegriffe (Wirkung, Gefüge, Wirkgefüge) systematisch hergeleitet und anschließend definitorisch fixiert. Die Begriffe dienen in den Abschnitten 2.2–2.5 als begriffliche Klammer (vgl. Begriffstableau im Anhang).
 
-- **Wirkung** bezeichnet eine im Verlauf rekonstruierbare, anschlussrelevante Differenz zwischen Zuständen, die auf eine Konstellation zugerechnet wird und weitere Zustandsverläufe modifiziert (u.a. als Verschiebung von Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten; nicht als direkte, linear zurechenbare „Maßnahmenwirkung“). [@hanisch-johannsen_wirkung_2026]
-- **Gefüge** bezeichnet die relationale Gesamtanordnung von Elementen und ihren Wechselbezügen; es meint nicht die Summe der Bestandteile, sondern die Ordnung ihrer Kopplungen. [@duden_duden_2021; @bargel_werkstoffkunde_1994]
-- **Wirkgefüge** fasst ein Gefüge unter der Perspektive von Wirkung: als Wechselwirkungszusammenhang, in dem sich unterschiedliche Wirkpfade (fördernd/hemmend) über Rückkopplungen überlagern und stabilisieren oder kippen können. [@wirtz_wirkungsgefuge_2020; @hanisch-johannsen_wirkung_2026]
+#### Wirkung
 
-Im Zusammenspiel heißt das: Wirkung ist verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges. [@hanisch-johannsen_wirkung_2026]
+**Herleitung.** „Wirkung“ wird in Bildungs‑, Sozial‑ und Gesundheitsdiskursen oft wie ein selbsterklärender Begriff verwendet (meist im Sinn von „Effekt“). Unter Bedingungen von Komplexität und Kontingenz (insbesondere in pädagogischen Settings) führt eine implizite, lineare Ursache‑Wirkung‑Semantik jedoch schnell zu Kurzschlüssen: Nicht jeder beobachtbare Unterschied ist bereits „Wirkung“, und Wirkungen sind selten eindeutig einem Einzelfaktor zurechenbar. Plausibler ist es, Wirkung als Zurechnung einer Differenz zu einer Konstellation zu verstehen – und zwar dort, wo diese Differenz im weiteren Verlauf anschlussrelevant wird, also Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten verschiebt. [@hanisch-johannsen_wirkung_2026]
 
-Diese Dreierfigur erlaubt es, Lehrparadigmen nicht als „Methodenfamilien“, sondern als Bündel impliziter Wirkannahmen zu lesen: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt?
+**Definition.** *Wirkung bezeichnet eine im Verlauf rekonstruierbare, anschlussrelevante Differenz zwischen Zuständen, die auf eine Konstellation bezogen wird und weitere Zustandsverläufe modifiziert.* [@hanisch-johannsen_wirkung_2026]
+
+#### Gefüge
+
+**Herleitung.** Um Wirkung nicht als Eigenschaft eines isolierten Elements zu missverstehen, wird „Gefüge“ als Strukturbegriff vorgeschaltet: Ein Gefüge bezeichnet nicht die Binnenstruktur eines einzelnen Elements, sondern die relationale Anordnung mehrerer Elemente zueinander. Anschaulich ist die werkstoffkundliche Analogie: Nicht das einzelne Korn, sondern die Anordnung der Körner (Korngrenzen, Verteilung, Orientierung) prägt die Materialeigenschaften. Entsprechend gilt für digitale Bildungsräume: Nicht ein Feature (Forum, Aufgabe, Feedback), sondern die Kopplung dieser Elemente (Rollen, Zeitlogiken, Sichtbarkeiten, Rückmeldungen) bildet die Bedingungsstruktur dafür, ob Differenzen anschlussfähig werden. [@duden_duden_2021; @bargel_werkstoffkunde_1994; @domke_werkstoffkunde_1994]
+
+**Definition.** *Gefüge bezeichnet die relationale Gesamtanordnung von Elementen und ihren Wechselbezügen; es meint nicht die Summe der Bestandteile, sondern die Ordnung ihrer Kopplungen.* [@duden_duden_2021]
+
+#### Wirkgefüge
+
+**Herleitung.** Ein Wirkgefüge fokussiert das Gefüge unter der Perspektive von Wirkung: Welche Kopplungen erzeugen welche (fördernden und hemmenden) Wirkpfade, wie überlagern sich diese, und wo treten Rückkopplungen, Stabilisierung oder Kippstellen auf? Damit wird der Blick von „wirkt X?“ auf „welche Wirkpfade werden im Zusammenspiel wahrscheinlicher/ unwahrscheinlicher?“ verschoben. Genau diese Verschiebung ist für die Analyse von LMS‑Architekturen leitend, weil pädagogische Wirkzusammenhänge typischerweise über mehrere, gleichzeitig wirksame Bedingungen vermittelt sind. [@wirtz_wirkungsgefuge_2020; @hanisch-johannsen_wirkung_2026]
+
+**Definition.** *Wirkgefüge bezeichnet den Wechselwirkungszusammenhang eines Gefüges unter der Perspektive von Wirkung; es umfasst zugleich fördernde und hemmende Wirkpfade und ihre Rückkopplungen.* [@wirtz_wirkungsgefuge_2020]
+
+#### Verbindung und Anschluss an die Theorie
+
+Im Zusammenspiel heißt das: Wirkung wird als verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges fassbar – und das Wirkgefüge ist der Rahmen, in dem mehrere Wirkpfade (und ihre Rückkopplungen) begrifflich und später modelllogisch geführt werden können. Diese Dreierfigur erlaubt es, Lehrparadigmen nicht als „Methodenfamilien“, sondern als Bündel impliziter Wirkannahmen zu rekonstruieren: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt? [@hanisch-johannsen_wirkung_2026]
 
 
 ## 2.2 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
