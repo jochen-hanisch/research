@@ -16,6 +16,14 @@ Learning Management System (LMS) = Schnittstelle zwischen Norm und Didaktik
 
 Abschnitt \hyperref[sec:Kontext-FG]{3.1} beschreibt Kontext und Rahmung des Forschungsgegenstandes. Abschnitt \hyperref[sec:Entwicklung-Einbettung]{3.2} beschreibt Entwicklung und Einbettung des Learning Management Systems im Feld.
 
+## 3.0 Begriffsrahmung: Gefügeperspektive auf die LMS-Architektur {#sec:Gefuegeperspektive-FG}
+
+Die Darstellung des Forschungsgegenstandes erfolgt nicht als Funktionsliste, sondern als Rekonstruktion einer Kopplungsordnung: Das LMS wird als *Gefüge*\label{term:gefuege} im Sinn der in Kapitel \hyperref[sec:Theorieteil]{2} entwickelten Begriffsarbeit beschrieben. Die Begriffsdefinitionen (Wirkung, Gefüge, Wirkgefüge) werden dabei ausschließlich in Abschnitt \hyperref[sec:Begriffe-Wirkung-Gefuege]{2.1.4} festgelegt; im vorliegenden Kapitel wird die Perspektive auf die Systemarchitektur angewendet. Im Fokus steht damit, wie strukturierte Elemente (z.B. Aufgaben, Foren, Feedback, Rollen‑ und Sichtbarkeitsregeln, Zeitlogiken) zueinander gekoppelt sind und welche Anschlussbedingungen diese Kopplungen für Lernhandlungen bereitstellen.
+
+Anschaulich lässt sich der Gefügebegriff über eine werkstoffkundliche Analogie präzisieren: Nicht das einzelne „Korn“, sondern die Anordnung der Körner (Korngrenzen, Verteilung, Orientierung) prägt die Eigenschaften eines Materials – und wird erst über ein „Schliffbild“ sichtbar. Übertragen auf digitale Bildungsräume heißt das: Nicht ein einzelnes Feature ist für sich „wirksam“, sondern die Kopplung mehrerer Elemente im Nutzungsverlauf (z.B. wie Aufgabenstellung, Rückmeldung, Sichtbarkeit und soziale Bezugnahmen zusammen eine Anschlusskette ermöglichen oder blockieren). [@bargel_werkstoffkunde_1994; @domke_werkstoffkunde_1994]
+
+Für die weiteren Abschnitte bedeutet das: Kontext (3.1) und Entwicklung/Einbettung (3.2) werden so beschrieben, dass die jeweils relevanten Kopplungen zwischen Norm, Didaktik und technischer Architektur als Gefüge sichtbar werden und später als Wirkgefüge‑Analyse anschlussfähig bleiben.
+
 ## 3.1 Kontext Forschungsgegenstand {#sec:Kontext-FG}
 
 ### 3.1.1 Rechtlich-funktionale Rahmung {#sec:RechtlicheRahmung}
