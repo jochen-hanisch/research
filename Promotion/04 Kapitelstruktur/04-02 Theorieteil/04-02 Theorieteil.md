@@ -130,13 +130,15 @@ Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturents
 
 ---
 
-**Zusammnefassung Kapitel 2**
+Zusammenfassung Kapitel 2
 
-**Lesepfad Kapitel 2**
+## 2.1 Einführung in das Kapitel
+
+### 2.1.1 Lesepfad
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/04-02_lesepfad.tex}
 
-**Hinweise Kapitel 2**
+### 2.1.2 Hinweise Kapitel 2
 
 Kapitel 2 wird nicht als historische oder systematische Übersicht von Lehrparadigmen geführt, sondern als theorieanalytische Rekonstruktion ihrer *impliziten Wirkannahmen* – und zwar mit Blick auf ihre architekturwirksamen Konsequenzen im Learning Management System (LMS). Leitend ist die Frage, welche Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung jeweils vorausgesetzt werden und wie sie sich in Strukturentscheidungen (Sequenzierung, Rückmeldung, Rollenlogiken, Sichtbarkeit, Evaluation) übersetzen. Die folgenden Abschnitte (2.1–2.5) dienen damit zugleich der begrifflichen Klärung und der Parametrisierung jenes Wirkgefüges, das später modelliert und im konkreten System rekonstruiert wird.
 
@@ -148,11 +150,11 @@ In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel
 
 Für die Einordnung und Abgrenzung der Leitbegriffe werden neben Forschungsbeiträgen auch lexikalische und begriffsgeschichtliche Referenzen herangezogen, insbesondere einschlägige pädagogische und psychologische Nachschlagewerke. [@tenorth_konstrukte_2007, Seite 418; @tenorth_medien_2007, Seiten 494-495; @wirtz_konstrukt_2020, Seite 983; @wirtz_kompetenz_2020, Seiten 964-965]
 
-**Abschnittsübersicht Kapitel 2**
+### 2.1.3 Abschnittsübersicht
 
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt psychologische Funktionslogiken, bildungswissenschaftliche Grundlagen, medienpädagogische Rahmungen sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges\label{term:digitales-bildungswirkgefuge}. Anstelle eines traditionellen Lehrbuchüberblicks werden an dieser Stelle jene theoretischen Grundannahmen betrachtet, die für das Wirkgefüge des untersuchten Learning Management Systems (LMS) konstitutiv sind. Im Mittelpunkt stehen die Definitionen von Bildung\label{term:bildung}, Digitalität\label{term:digitalitaet} und Kompetenzentwicklung\label{term:kompetenzentwicklung} im systemisch-konstruktivistischen Rahmen; sie werden so gefasst, dass sie sowohl subjektive Prozesse als auch strukturelle und technische Dimensionen des digitalen Bildungsraums erfassen.
 
-\hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.1} setzt beim psychischen System an. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen identifiziert, die das Wirkgefüge aus der Perspektive der handelnden Subjekte strukturieren. Diese Ebene beschreibt, wie Lernprozesse auf der individuellen Seite entstehen, reguliert werden und wie sie durch digitale Lernarchitekturen unterstützt oder behindert werden können. Damit wird begründet, weshalb das LMS in dieser Arbeit nicht als direkt „eingreifende“ Instanz, sondern als Strukturangebot verstanden wird, das Irritations‑ und Anschlussbedingungen bereitstellt und damit Anschlussmöglichkeiten von Lernhandeln unter konkreten Kontextbedingungen verschiebt.
+\hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.2} setzt beim psychischen System an. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen identifiziert, die das Wirkgefüge aus der Perspektive der handelnden Subjekte strukturieren. Diese Ebene beschreibt, wie Lernprozesse auf der individuellen Seite entstehen, reguliert werden und wie sie durch digitale Lernarchitekturen unterstützt oder behindert werden können. Damit wird begründet, weshalb das LMS in dieser Arbeit nicht als direkt „eingreifende“ Instanz, sondern als Strukturangebot verstanden wird, das Irritations‑ und Anschlussbedingungen bereitstellt und damit Anschlussmöglichkeiten von Lernhandeln unter konkreten Kontextbedingungen verschiebt.
 
 \hyperref[sec:Bildungswiss-Verortung]{Abschnitt 2.2} rahmt diese subjektbezogenen Mechanismen bildungswissenschaftlich. Im Fokus stehen systemisch‑konstruktivistische Bildungsansätze, die Lernen als selbstreferenziellen, kontextgebundenen Konstruktionsprozess verstehen und Bildungsräume als Wirkgefüge von Akteuren, Inhalten und Strukturen beschreiben. Die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung werden als sozio‑technisches Wirkgefüge\label{term:sozio-technisches-wirkgefuge} gefasst. Auf dieser Ebene wird begründet, wie individuelle Trägervariablen in bildungswissenschaftliche Kategorien übersetzt werden und warum das LMS als Teil eines Bildungsraums zu analysieren ist, wobei die Werkzeugperspektive als Teilaspekt mitgeführt wird.
 
@@ -168,12 +170,24 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-
 
 #todo (#34, 2025-12-19) Theoretische Verankerung der Eye-Tracking-Auswertung ergänzen (Aufmerksamkeitslenkung, Salienz/Gestaltgesetze, visuelle Informationsverarbeitung) als Brücke zu Abschnitt 4.2.4.
 
-## 2.1 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
+### 2.1.4 Zentrale Begriffe und Konzepte
+
+Für die weitere Argumentation werden drei Basisbegriffe vorab fixiert, weil sie in den Abschnitten 2.2–2.5 als begriffliche Klammer dienen (vgl. Begriffstableau im Anhang):
+
+- **Wirkung** bezeichnet hier beobachtbare Veränderungen von Lern‑, Handlungs‑ und Kompetenzentwicklungsprozessen, die aus gekoppelten Bedingungen im Bildungsraum hervorgehen (nicht als direkte, linear zurechenbare „Maßnahmenwirkung“).
+- **Gefüge** meint eine relationale Anordnung von Elementen und ihren Wechselbezügen; es beschreibt also keine Summe von Bestandteilen, sondern ihre Kopplungen (didaktisch, sozial, technisch, organisatorisch).
+- **Wirkgefüge** fasst diese Kopplungen als System von Wechselwirkungen, in dem unterschiedliche Wirkpfade (fördernd/hemmend) zugleich möglich sind und sich über Rückkopplungen stabilisieren oder kippen können.
+
+Diese Dreierfigur erlaubt es, Lehrparadigmen nicht als „Methodenfamilien“, sondern als Bündel impliziter Wirkannahmen zu lesen: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt?
+
+
+
+## 2.2 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
 \label{term:traegervariablen}
 
 ---
 
-Abschnitt 2.1 entfaltet pädagogisch-psychologische Grundannahmen und bestimmt Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse sowie dispositionale Merkmale als Trägervariablen von Lernhandeln. Auf dieser Ebene wird Lernen als subjektiver Prozess unter Bedingungen begrenzter Aufmerksamkeit, Motivation und Selbststeuerung gefasst. Funktion dieses Abschnitts ist die Grundlegung der Kopplungsbedingungen: Lernarchitekturen werden als Strukturangebote modelliert, die an diese Variablen anschließen und deren Wahrscheinlichkeitsverteilungen verschieben, ohne sie deterministisch zu steuern.
+Abschnitt 2.2 entfaltet pädagogisch-psychologische Grundannahmen und bestimmt Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse sowie dispositionale Merkmale als Trägervariablen von Lernhandeln. Auf dieser Ebene wird Lernen als subjektiver Prozess unter Bedingungen begrenzter Aufmerksamkeit, Motivation und Selbststeuerung gefasst. Funktion dieses Abschnitts ist die Grundlegung der Kopplungsbedingungen: Lernarchitekturen werden als Strukturangebote modelliert, die an diese Variablen anschließen und deren Wahrscheinlichkeitsverteilungen verschieben, ohne sie deterministisch zu steuern.
 
 ---
 
@@ -181,7 +195,7 @@ Dieser Abschnitt setzt Trägervariablen so, dass sie im Modell als Kräfte sicht
 
 Die folgenden Unterabschnitte folgen dabei der Dreischichtung Begriff–Phänomen–Konstrukt: Jede Trägervariable wird (1) begrifflich abgegrenzt, (2) als phänomenale Datenspur/Erfahrungsdimension im digitalen Lernvollzug plausibilisiert und (3) für die Modelllogik als Wahrscheinlichkeitsbedingung operationalisiert. [@tenorth_konstrukte_2007; @wirtz_konstrukt_2020]
 
-### 2.1.1 Bedürfnisse als Grundlage {#sec:Beduerfnisse}
+### 2.2.1 Bedürfnisse als Grundlage {#sec:Beduerfnisse}
 
 \label{term:Beduerfnisse}
 
@@ -199,7 +213,7 @@ Ausgangspunkt ist, dass Bedürfnisse als primäre Handlungsantriebe wirken. @mas
 Dabei bleibt Bedürfnisbefriedigung kontextgebunden und ist in digitalen Arrangements an Beziehung, Sichtbarkeit und Rückmeldung gebunden. @pfannstiel_psychologische_2022 betont für digitale Lernumgebungen, dass soziale Beziehung aktiv hergestellt werden muss. [@pfannstiel_psychologische_2022, Seite 591]
 Für die Gestaltung folgt daraus die Lesart des LMS als Passungsraum: Es setzt Bedürfnisse als Voraussetzung und bietet strukturierte Wahlmöglichkeiten, lernbezogenes Feedback und soziale Einbettung so an, dass Autonomie, Kompetenzerleben und Eingebundenheit plausibel werden. @dittler_technologiedefizite_2009 dient hier als Korrektiv, weil technologische Strukturen keine Wirkung garantieren und Anschlussbedingungen bereitstellen, unter denen Wirkannahmen plausibilisiert werden können. [@dittler_technologiedefizite_2009, Seite 78]
 
-### 2.1.2 Emotionen als Vermittler {#sec:Emotionen}
+### 2.2.2 Emotionen als Vermittler {#sec:Emotionen}
 
 \label{term:Emotionen}
 
@@ -215,7 +229,7 @@ Ausgangspunkt ist, dass Emotionen Aufmerksamkeit und Lernen regulieren. Sie stru
 Dabei können digitale Lernräume emotionale Resonanz dämpfen. @pfannstiel_psychologische_2022 beschreibt soziale Beziehung in digitalen Arrangements als besonders schwierig herzustellen. Dazu kommt die empirische Pointe, dass selbst positive Emotionen mit geringerer Aufmerksamkeit für relevante Inhalte zusammenfallen können. [@pfannstiel_psychologische_2022, Seite 591; @niegemann_emotionen_2020, Seite 426]
 Für die Gestaltung folgt daraus eine Designaufgabe, die emotionale Aktivierung als begrenzte, kontextabhängige Kopplung führt: Emotionen können kognitive Aktivitäten einschließlich Aufmerksamkeits‑ und Gedächtnisprozesse ermöglichen und aufrechterhalten, wenn Gestaltung lernrelevant bleibt und Kontrollerleben stützt. Dann wird es plausibel, Support, Orientierung und Überforderungsreduktion als emotionale und kognitive Kopplungen zugleich zu führen. [@pfannstiel_psychologische_2022, Seite 585; @ladel_emotionen_2018, Seite 141; @niegemann_emotionen_2020, Seite 429]
 
-### 2.1.3 Neugier als Konzept {#sec:Neugier}
+### 2.2.3 Neugier als Konzept {#sec:Neugier}
 
 \label{term:Neugier}
 
