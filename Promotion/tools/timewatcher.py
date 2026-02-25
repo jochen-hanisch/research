@@ -79,11 +79,55 @@ def detect_repo_slug(repo_override: str) -> str:
     return "jochen-hanisch/research"
 
 
-def git_status_porcelain(repo_top: str) -> List[str]:
+IGNORE_GIT_STATUS_PATHS = {
+    # This file is large and often auto-updated (e.g. by Zotero). It can create noisy
+    # diffs and distract from writing-focused tracking, so we ignore it by default.
+    "Promotion/08 Metaquellen/Matadaten/Literaturverzeichnis.bib",
+}
+
+
+def _strip_optional_quotes(p: str) -> str:
+    p = p.strip()
+    if len(p) >= 2 and ((p[0] == p[-1] == '"') or (p[0] == p[-1] == "'")):
+        return p[1:-1]
+    return p
+
+
+def _should_ignore_status_line(line: str) -> bool:
+    if line.startswith("## "):
+        return False
+    if len(line) < 4:
+        return False
+
+    path_part = line[3:].strip()
+    if not path_part:
+        return False
+
+    # Handle rename/copy: "R  old -> new"
+    if " -> " in path_part:
+        left, right = path_part.split(" -> ", 1)
+        left = _strip_optional_quotes(left)
+        right = _strip_optional_quotes(right)
+        return left in IGNORE_GIT_STATUS_PATHS or right in IGNORE_GIT_STATUS_PATHS
+
+    path_part = _strip_optional_quotes(path_part)
+    return path_part in IGNORE_GIT_STATUS_PATHS
+
+
+def git_status_porcelain(repo_top: str) -> Tuple[List[str], int]:
     rc, out = try_run(["git", "status", "-sb", "--porcelain"], cwd=repo_top)
     if rc != 0:
-        return []
-    return [line.rstrip("\n") for line in out.splitlines() if line.strip()]
+        return ([], 0)
+
+    lines = [line.rstrip("\n") for line in out.splitlines() if line.strip()]
+    ignored = 0
+    kept: List[str] = []
+    for line in lines:
+        if _should_ignore_status_line(line):
+            ignored += 1
+            continue
+        kept.append(line)
+    return (kept, ignored)
 
 
 def extract_todos_with_rg(repo_top: str) -> Iterable[Tuple[str, int, str]]:
@@ -271,7 +315,7 @@ def main() -> int:
     repo = detect_repo_slug(args.repo)
     cache_p = cache_path(repo_top)
 
-    status_lines = git_status_porcelain(repo_top)
+    status_lines, ignored_status_lines = git_status_porcelain(repo_top)
     untracked = [l for l in status_lines if l.startswith("?? ")]
 
     # Todos
@@ -405,6 +449,8 @@ def main() -> int:
         print("CLEAN_OR_UNKNOWN")
     else:
         print(f"CHANGES\t{len(status_lines)}")
+        if ignored_status_lines:
+            print(f"IGNORED\t{ignored_status_lines}")
         print(f"UNTRACKED\t{len(untracked)}")
         for l in untracked[:10]:
             print(f"UNTRACKED_ITEM\t{l[3:]}")
