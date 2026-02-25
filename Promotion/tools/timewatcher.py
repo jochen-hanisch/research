@@ -181,7 +181,20 @@ def gh_issue_body(repo: str, number: int) -> Optional[str]:
 
 
 def cache_path(repo_top: str) -> str:
-    return os.path.join(repo_top, "Promotion", ".build-fast", "timewatcher_cache.json")
+    # IMPORTANT: Do not write caches into the git working tree. Automations often run in
+    # separate worktrees; writing under repo_top would create drift/untracked changes.
+    slug = "repo"
+    try:
+        origin_rc, origin_out = try_run(["git", "config", "--get", "remote.origin.url"], cwd=repo_top)
+        if origin_rc == 0:
+            parsed = parse_github_repo(origin_out.strip())
+            if parsed:
+                slug = parsed.replace("/", "__")
+    except Exception:
+        pass
+
+    codex_home = os.environ.get("CODEX_HOME") or os.path.join(os.path.expanduser("~"), ".codex")
+    return os.path.join(codex_home, "tmp", f"timewatcher_cache_{slug}.json")
 
 
 def load_cache(repo_top: str) -> Optional[dict]:
@@ -256,6 +269,7 @@ def main() -> int:
         today = dt.date.today()
     repo_top = git_root()
     repo = detect_repo_slug(args.repo)
+    cache_p = cache_path(repo_top)
 
     status_lines = git_status_porcelain(repo_top)
     untracked = [l for l in status_lines if l.startswith("?? ")]
@@ -368,6 +382,8 @@ def main() -> int:
     else:
         print("DATE_SOURCE\tsystem")
     print(f"REPO\t{repo}")
+    print(f"REPO_TOP\t{repo_top}")
+    print(f"CACHE_PATH\t{cache_p}")
     if project and project.get("url"):
         print(f"PROJECT\t{project.get('title','').strip()}\t{project.get('url')}")
         try:
