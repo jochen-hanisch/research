@@ -30,16 +30,16 @@ Strukturelle Konsistenz zeigt sich zusätzlich in den Kennwerten der internen Ku
 
 Die explorativen Strukturabbildungen (Abb.~\ref{fig:fg-kmeans-themenanteile}, Abb.~\ref{fig:fg-dendrogramm-themenanteile}) ergänzen diese Bewertung, indem sie Kursprofile im Anteilsraum als Cluster bzw. hierarchische Ähnlichkeitsgruppen sichtbar machen. In Kombination mit der algorithmischen Kürzelzuordnung und der dokumentierten Auswertungspipeline [@hanisch-johannsen_systematische_2025] ergibt sich damit ein robustes Ergebnis. Die curriculare Architektur des digitalen Bildungsraums ist intern konsistent, normativ gerahmt und als datenbasiert rekonstruierbare Bildungsarchitektur prüfungsfest begründbar.
 
-Für das Bildungswirkgefüge ist dieses Ergebnis operativ nützlich, da die curriculare Strukturanalyse als Rückkopplungsinstanz dient. Sie liefert erstens Feedback darüber, wie die intendierte Architektur in der Kurslogik tatsächlich realisiert ist, zweitens eine theoriegeleitete Reflexionsfolie, um diese Realisierung an normative und didaktische Zielgrößen zurückzubinden (Alignment/Programmatic Assessment), und drittens eine Reentry‑Spur, weil die dokumentierten Muster als Steuerungsinformation in die Weiterentwicklung von Handlungssituationen, Aufgabenformaten und Prüfungsarchitektur zurückgeführt werden können.
+Für das Bildungswirkgefüge ist dieses Ergebnis operativ nützlich, da die curriculare Strukturanalyse als Rückkopplungsinstanz dient. Sie liefert ein erstens Feedback darüber, wie die intendierte Architektur in der Kurslogik tatsächlich realisiert ist, zweitens eine theoriegeleitete Reflexionsfolie, um diese Realisierung an normative und didaktische Zielgrößen zurückzubinden (Alignment/Programmatic Assessment), und drittens eine Reentry‑Spur, weil die dokumentierten Muster als Steuerungsinformation in die Weiterentwicklung von Handlungssituationen, Aufgabenformaten und Prüfungsarchitektur zurückgeführt werden können.
 
 ## 5.2 Verteilung der Analysen nach Kernbereichen {#sec:Ergebnisse-Verteilung}
 
 Die detaillierte Verteilung der insgesamt 786 ausgewerteten Analysen erster Ordnung auf die einzelnen Forschungsunterfragen (FU$_{1}$–FU$_{7}$) ist in \hyperref[sec:Primaranalysen]{Abschnitt 4.3.2} dokumentiert (Abbildung \ref{fig:primaranalysen-verteilung}). Für die Ergebnisdarstellung werden die Forschungsunterfragen zu vier Kernbereichen gebündelt:
 
-- **Kernarchitektur (FU$_{3}$, FU$_{4a}$, FU$_{5}$)** – mit rund 57 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des Learning Management System (LMS)).  
-- **Nutzungserleben & Gestaltung (FU$_{1}$, FU$_{2a}$, FU$_{4b}$)** – knapp 30 % der Analysen zu Akzeptanz, subjektivem Lernerleben und technisch-gestalterischen Mechanismen.  
-- **Kompetenzorientierung (FU$_{6}$)** – gut 8 % der Analysen zur Rolle des LMS als Kompetenzerwerbssystem.  
-- **Rollen & Strategien (FU$_{2b}$, FU$_{7}$)** – rund 4 % der Analysen, die vertiefende Einsichten in Lehrendensicht und strategische Gestaltungsentscheidungen liefern.
+- **Kernarchitektur (FU$_{3}$, FU$_{4a}$, FU$_{5}$):** mit rund 57 % der Analysen der empirische Schwerpunkt der Arbeit (Konzeption, Mechanismen, Möglichkeiten/Grenzen des Learning Management System (LMS)).  
+- **Nutzungserleben & Gestaltung (FU$_{1}$, FU$_{2a}$, FU$_{4b}$):** knapp 30 % der Analysen zu Akzeptanz, subjektivem Lernerleben und technisch-gestalterischen Mechanismen.  
+- **Kompetenzorientierung (FU$_{6}$):** gut 8 % der Analysen zur Rolle des LMS als Kompetenzerwerbssystem.  
+- **Rollen & Strategien (FU$_{2b}$, FU$_{7}$):** rund 4 % der Analysen, die vertiefende Einsichten in Lehrendensicht und strategische Gestaltungsentscheidungen liefern.
 
 Diese Bündelung dient als Strukturierungsrahmen für die Präsentation der Ergebnisse und macht transparent, welche Themenfelder auf einer breiten quantitativen Materialbasis beruhen und wo stärker qualitativ-interpretative Verdichtung im Vordergrund steht.
 
