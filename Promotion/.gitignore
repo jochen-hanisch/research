@@ -15,6 +15,12 @@ tools/**
 !tools/pandoc/
 !tools/pandoc/*.lua
 
+# Local-only tools (do not track in git)
+tools/zotero_audit_missing_attachments.py
+tools/zotero_extract_wirkung_definitions_to_notes.py
+tools/zotero_fix_invalid_note_item_keys.py
+tools/zotero_reattach_handbuch_medienpaedagogik_2008.py
+
 # Keep chapters (nur Hauptdateien) und Anhänge
 !04 Kapitelstruktur/
 04 Kapitelstruktur/**
