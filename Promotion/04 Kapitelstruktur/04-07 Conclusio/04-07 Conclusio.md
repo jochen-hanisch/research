@@ -51,20 +51,55 @@ Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrs
 
 3. Feedback/Rückkopplung  
    - (+) Feedback stabilisiert Lernpfade und erhöht Selbstwirksamkeit.  
-	   - (–) Überdichte Rückkopplung kann Übersteuerung und Signalrauschen erzeugen.  
+   - (–) Überdichte oder uneindeutige Rückkopplung erzeugt Übersteuerung, Signalrauschen und reaktives Handeln.  
    - Interdependenz: Stabilität entsteht aus Rückkopplung; zu viel Rückkopplung destabilisiert Aufmerksamkeit.
 
 4. Steuerung/Agency  
-   - (+) Adaptive Steuerung richtet Ressourcen auf Ziele aus.  
-   - (–) Steuerung kann zu Heteronomie und instrumentellem Verhalten führen.  
-   - Interdependenz: Zielgerichtetheit benötigt Steuerung; Steuerung begrenzt Autonomie.
+   - (+) Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent.  
+   - (–) Steuerung kippt in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren.  
+   - Interdependenz: Zielgerichtetheit benötigt Steuerung; Steuerung begrenzt Autonomie und erzeugt Gegenstrategien.
 
-5. Reflexivität/Handlungskopplung  
-   - (+) Reflexive Interfaces eröffnen Einsicht in eigene Lernhandlungen.  
-   - (–) Reflexionslast kann zu Entscheidungsverzögerung oder Zynismus führen.  
-   - Interdependenz: Reflexivität erhöht Handlungsklarheit; zu viel Reflexionsanforderung blockiert Handlung.
+5. Lernort‑Kohärenz/Transfer  
+   - (+) Kohärenz verknüpft Inhalte, Aufgaben und Praxis und erhöht Transferwahrscheinlichkeit.  
+   - (–) Brüche/Fragmentierung erzeugen Kontextverlust, Medienbrüche und Parallelwelten.  
+   - Interdependenz: Transfer braucht Kohärenz; Kohärenz entsteht nur durch Selektions‑/Standardisierungsarbeit, die Vielfalt begrenzt.
 
-Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. Vertrauen/Überwachung, Offenheit/Fragmentierung) ergänzen. Entscheidend ist, dass jede Dimension als Interdependenzformel ausformuliert wird: positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Kopplung, die beide notwendig miteinander verschränkt.
+6. Zeit/Verfügbarkeit  
+   - (+) Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen.  
+   - (–) Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung.  
+   - Interdependenz: Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
+
+7. Interaktion/Kollaboration  
+   - (+) Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards.  
+   - (–) Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken.  
+   - Interdependenz: Kooperation braucht Interaktionsangebote; diese Angebote erzeugen Koordinationskosten und verteilte Belastungen.
+
+8. Salienz vs. Funktion (Aufmerksamkeitsarchitektur)  
+   - (+) Saliente Signale führen Blick/Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar.  
+   - (–) Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen.  
+   - Interdependenz: Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
+
+9. Expertise‑Adaptivität/Passung  
+   - (+) Adaptivität/Scaffolding passt Komplexität an Expertise an, reduziert Fehler und senkt Einstiegshürden.  
+   - (–) Fehlanpassung führt zu Bevormundung (bei Experts) oder Überforderung (bei Novices) und verstärkt Ungleichheit.  
+   - Interdependenz: Passung benötigt Modelle über Nutzer*innen; Modellierung erzeugt Klassifikation, Bias und neue Exklusionslinien.
+
+10. Reflexivität/Evaluation  
+   - (+) Reflexive Metriken/Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung.  
+   - (–) Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus.  
+   - Interdependenz: Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
+
+11. Kompetenzarena/Handlungsfähigkeit  
+   - (+) Kompetenzaufbau erweitert Handlungsspielräume, stärkt Selbststeuerung und kollektive Problemlösefähigkeit.  
+   - (–) Kompetenzanforderungen erzeugen Hierarchien, Abwertung von Nicht‑Können und verteilte Vulnerabilität.  
+   - Interdependenz: Handlungsfähigkeit entsteht durch Kompetenz; Kompetenz wird erst in Anforderungen sichtbar, die zugleich Ungleichheit produzieren.
+
+12. Vertrauensbildung/Beobachtbarkeit  
+   - (+) Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft.  
+   - (–) Misstrauen/Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung.  
+   - Interdependenz: Vertrauen benötigt beobachtbare Verlässlichkeit; Beobachtbarkeit kann als Kontrolle gelesen werden und Vertrauen unterminieren.
+
+Diese Thesen bilden das Kurzformat‑Gerüst: Jede Dimension wird als Interdependenzformel ausformuliert (positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Kopplung, die beide notwendig miteinander verschränkt).
 
 **Gestaltungsprinzipien für das Manifest**
 
@@ -78,7 +113,7 @@ Diese Thesen sind exemplarisch; sie lassen sich um weitere Dimensionen (z. B. 
 - Kurzformat (10–12 Thesen): Jede These folgt der Struktur „Dimension – positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Interdependenzsatz – Gestaltungsimpuls“.
 - Langformat (Abschnittsweise Ausarbeitung): Jede Dimension erhält einen kurzen Absatz mit empirischer Verankerung (Kap. 5), theoretischer Rahmung (Kap. 2/3) und Designhinweis (Kap. 6.3).
 - Scharnier zum Ausblick: Die Manifestthesen fungieren als programmatischer Orientierungsrahmen für Forschung und Praxis; der Ausblick (7.5) kann auf Forschungsdesiderate pro Dimension verweisen.
-#todo (#9) Kurzformat mit 10–12 Interdependenz-Thesen aus den genannten Dimensionen ausformulieren (Positiv/Negativ/Kopplung/Gestaltungsimpuls).
+#todo (#9) Pro These: Gestaltungsimpuls + empirische Verankerung (Kap. 5) ergänzen.
 
 Damit liegt das Gerüst für den manifestartigen Schluss vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
