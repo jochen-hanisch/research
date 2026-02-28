@@ -39,65 +39,29 @@ Interdependenz bedeutet hier: Weder die positive noch die negative Wirkungswahrs
 
 **Thesen des interdependenten Wirkgefüges (Grundgerüst)**
 
-1. Sichtbarkeit/Transparenz  
-   - (+) Sichtbarkeit erzeugt Orientierung und Anschlussfähigkeit.  
-   - (–) Hypertransparenz erzeugt Überwachung und Selbstdisziplinierung.  
-   - Interdependenz: Orientierung existiert nur via Sichtbarkeit; Sichtbarkeit erzeugt Selektionsmacht und Kontrollpotenzial.
+1. **Sichtbarkeit/Transparenz.** Sichtbarkeit erzeugt Orientierung, Anschlussfähigkeit und verlässliche Erwartungsbildung. Hypertransparenz verschiebt dieselbe Sichtbarkeit in Überwachung, Selbstdisziplinierung und taktische Selbstdarstellung. Interdependenz: Orientierung und Vertrauen entstehen nur via Sichtbarkeit; Sichtbarkeit erzeugt zugleich Selektions‑ und Kontrollpotenziale.
 
-2. Strukturierung/Entlastung  
-   - (+) Strukturierende Vorgaben entlasten kognitiv und eröffnen Handlungspfade.  
-   - (–) Überstrukturierung engt Agency ein und erzeugt Abhängigkeiten.  
-   - Interdependenz: Entlastung bedarf Struktur; Struktur erzeugt Pfadabhängigkeit.
+2. **Strukturierung/Entlastung.** Struktur reduziert Suchkosten, senkt kognitive Last und macht Lernpfade handhabbar. Überstrukturierung verengt Agency, verstärkt Pfadabhängigkeit und produziert Abhängigkeiten. Interdependenz: Entlastung braucht Struktur; Struktur stabilisiert, indem sie Alternativen begrenzt und Abweichungen kostenintensiv macht.
 
-3. Feedback/Rückkopplung  
-   - (+) Feedback stabilisiert Lernpfade und erhöht Selbstwirksamkeit.  
-   - (–) Überdichte oder uneindeutige Rückkopplung erzeugt Übersteuerung, Signalrauschen und reaktives Handeln.  
-   - Interdependenz: Stabilität entsteht aus Rückkopplung; zu viel Rückkopplung destabilisiert Aufmerksamkeit.
+3. **Rückkopplung/Feedback.** Feedback kalibriert Lernen und Koordination, stabilisiert Pfade und erhöht Selbstwirksamkeit. Überdichte oder uneindeutige Rückkopplung erzeugt Übersteuerung, Signalrauschen, Leistungsdruck und reaktives Handeln. Interdependenz: Stabilisierung entsteht aus Rückkopplung; Rückkopplung erhöht Steuerungsdruck und kann Aufmerksamkeit destabilisieren.
 
-4. Steuerung/Agency  
-   - (+) Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent.  
-   - (–) Steuerung kippt in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren.  
-   - Interdependenz: Zielgerichtetheit benötigt Steuerung; Steuerung begrenzt Autonomie und erzeugt Gegenstrategien.
+4. **Steuerung/Agency.** Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent. Steuerung kann in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren kippen. Interdependenz: Zielgerichtetheit benötigt Steuerung; Steuerung begrenzt Autonomie und erzeugt Gegenstrategien.
 
-5. Lernort‑Kohärenz/Transfer  
-   - (+) Kohärenz verknüpft Inhalte, Aufgaben und Praxis und erhöht Transferwahrscheinlichkeit.  
-   - (–) Brüche/Fragmentierung erzeugen Kontextverlust, Medienbrüche und Parallelwelten.  
-   - Interdependenz: Transfer braucht Kohärenz; Kohärenz entsteht nur durch Selektions‑/Standardisierungsarbeit, die Vielfalt begrenzt.
+5. **Lernort‑Kohärenz/Transfer.** Kohärenz verknüpft Inhalte, Aufgaben und Praxis und erhöht Transferwahrscheinlichkeit. Brüche und Fragmentierung erzeugen Kontextverlust, Medienbrüche und Parallelwelten. Interdependenz: Transfer braucht Kohärenz; Kohärenz entsteht nur durch Selektions‑ und Standardisierungsarbeit, die Vielfalt begrenzt.
 
-6. Zeit/Verfügbarkeit  
-   - (+) Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen.  
-   - (–) Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung.  
-   - Interdependenz: Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
+6. **Zeit/Verfügbarkeit.** Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen. Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung. Interdependenz: Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
 
-7. Interaktion/Kollaboration  
-   - (+) Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards.  
-   - (–) Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken.  
-   - Interdependenz: Kooperation braucht Interaktionsangebote; diese Angebote erzeugen Koordinationskosten und verteilte Belastungen.
+7. **Interaktion/Kollaboration.** Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards. Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken. Interdependenz: Kooperation braucht Interaktionsangebote; diese Angebote erzeugen Koordinationskosten und verteilte Belastungen.
 
-8. Salienz vs. Funktion (Aufmerksamkeitsarchitektur)  
-   - (+) Saliente Signale führen Blick/Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar.  
-   - (–) Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen.  
-   - Interdependenz: Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
+8. **Salienz vs. Funktion (Aufmerksamkeitsarchitektur).** Saliente Signale führen Blick und Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar. Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen. Interdependenz: Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
 
-9. Expertise‑Adaptivität/Passung  
-   - (+) Adaptivität/Scaffolding passt Komplexität an Expertise an, reduziert Fehler und senkt Einstiegshürden.  
-   - (–) Fehlanpassung führt zu Bevormundung (bei Experts) oder Überforderung (bei Novices) und verstärkt Ungleichheit.  
-   - Interdependenz: Passung benötigt Modelle über Nutzer*innen; Modellierung erzeugt Klassifikation, Bias und neue Exklusionslinien.
+9. **Expertise‑Adaptivität/Passung.** Adaptivität und Scaffolding passen Komplexität an Expertise an, reduzieren Fehler und senken Einstiegshürden. Fehlanpassung führt zu Bevormundung (bei Experts) oder Überforderung (bei Novices) und verstärkt Ungleichheit. Interdependenz: Passung benötigt Modelle über Nutzer*innen; Modellierung erzeugt Klassifikation, Bias und neue Exklusionslinien.
 
-10. Reflexivität/Evaluation  
-   - (+) Reflexive Metriken/Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung.  
-   - (–) Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus.  
-   - Interdependenz: Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
+10. **Reflexivität/Evaluation.** Reflexive Metriken und Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung. Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus. Interdependenz: Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
 
-11. Kompetenzarena/Handlungsfähigkeit  
-   - (+) Kompetenzaufbau erweitert Handlungsspielräume, stärkt Selbststeuerung und kollektive Problemlösefähigkeit.  
-   - (–) Kompetenzanforderungen erzeugen Hierarchien, Abwertung von Nicht‑Können und verteilte Vulnerabilität.  
-   - Interdependenz: Handlungsfähigkeit entsteht durch Kompetenz; Kompetenz wird erst in Anforderungen sichtbar, die zugleich Ungleichheit produzieren.
+11. **Kompetenzarena/Handlungsfähigkeit.** Kompetenzaufbau erweitert Handlungsspielräume, stärkt Selbststeuerung und kollektive Problemlösefähigkeit. Kompetenzanforderungen erzeugen Hierarchien, Abwertung von Nicht‑Können und verteilte Vulnerabilität. Interdependenz: Handlungsfähigkeit entsteht durch Kompetenz; Kompetenz wird erst in Anforderungen sichtbar, die zugleich Ungleichheit produzieren.
 
-12. Vertrauensbildung/Beobachtbarkeit  
-   - (+) Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft.  
-   - (–) Misstrauen/Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung.  
-   - Interdependenz: Vertrauen benötigt beobachtbare Verlässlichkeit; Beobachtbarkeit kann als Kontrolle gelesen werden und Vertrauen unterminieren.
+12. **Vertrauensbildung/Beobachtbarkeit.** Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft. Misstrauen und Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung. Interdependenz: Vertrauen benötigt beobachtbare Verlässlichkeit; Beobachtbarkeit kann als Kontrolle gelesen werden und Vertrauen unterminieren.
 
 Diese Thesen bilden das Kurzformat‑Gerüst: Jede Dimension wird als Interdependenzformel ausformuliert (positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Kopplung, die beide notwendig miteinander verschränkt).
 
