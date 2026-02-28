@@ -102,7 +102,7 @@ Vorschlag für die nächsten Schritte:
 - Für jede Dimension formulieren: a) positive Wirkgefügswahrscheinlichkeit, b) negative Wirkgefügswahrscheinlichkeit, c) Interdependenzformel, die beide verbindet. Beispiel: Transparenz (+) ermöglicht Orientierung; Übertransparenz (–) erzeugt Überwachung; Orientierung existiert nur, weil Sichtbarkeit hergestellt wird, und Sichtbarkeit erzeugt Selektionspotenzial.
 - Diese Interdependenzstrukturen bilden das Feld des digitalen Bildungsraums; entscheidend ist ihr Zusammenhang.
 Weiterführung (\hyperref[sec:Conclusio]{Kap. 7}): siehe Issue #9 (Interdependenz-Thesen ausformulieren).
-#todo (#13) Wirkdimensionen (10–12) aus dem Gesamtdokument extrahieren, pro Dimension eine Interdependenzformel (Positiv/Negativ/Kopplung) entwickeln und das Grundgerüst für Kap. 7 (Manifest) daraus bauen.
+Das Grundgerüst der Wirkdimensionen (10–12) ist in \hyperref[sec:Conclusio-Manifest]{Kapitel 7.1} als Thesen des interdependenten Wirkgefüges ausgearbeitet und bildet die manifestartige Schlussverdichtung.
 
 **Arbeitsblock (#13): Manifest-Gerüst – Wirkdimensionen (12) inkl. (+/–/Kopplung)** *(Stand: 28.02.2026)*
 
