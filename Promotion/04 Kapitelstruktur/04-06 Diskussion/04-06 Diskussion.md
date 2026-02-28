@@ -104,6 +104,70 @@ Vorschlag für die nächsten Schritte:
 Weiterführung (\hyperref[sec:Conclusio]{Kap. 7}): siehe Issue #9 (Interdependenz-Thesen ausformulieren).
 #todo (#13) Wirkdimensionen (10–12) aus dem Gesamtdokument extrahieren, pro Dimension eine Interdependenzformel (Positiv/Negativ/Kopplung) entwickeln und das Grundgerüst für Kap. 7 (Manifest) daraus bauen.
 
+**Arbeitsblock (#13): Manifest-Gerüst – Wirkdimensionen (12) inkl. (+/–/Kopplung)** *(Stand: 28.02.2026)*
+
+1. **Sichtbarkeit/Transparenz**  
+`+` Sichtbarkeit erzeugt Orientierung, Anschlussfähigkeit und verlässliche Erwartungsbildung.  
+`–` Hypertransparenz verschiebt Sichtbarkeit in Überwachung, Selbstdisziplinierung und taktische Selbstdarstellung.  
+`Kopplung:` Orientierung/Vertrauen entstehen nur via Sichtbarkeit; Sichtbarkeit erzeugt zugleich Selektions‑ und Kontrollpotenziale.
+
+2. **Strukturierung/Entlastung**  
+`+` Struktur reduziert Suchkosten, senkt kognitive Last und macht Lernpfade handhabbar.  
+`–` Überstrukturierung verengt Agency, verstärkt Pfadabhängigkeit und produziert Abhängigkeiten.  
+`Kopplung:` Entlastung braucht Struktur; Struktur stabilisiert, indem sie Alternativen begrenzt und Abweichungen kostenintensiv macht.
+
+3. **Rückkopplung/Feedback**  
+`+` Feedback kalibriert Lernen/Koordination, stabilisiert Pfade und erhöht Selbstwirksamkeit.  
+`–` Überdichte oder uneindeutige Rückkopplung erzeugt Signalrauschen, Leistungsdruck und reaktives Handeln.  
+`Kopplung:` Stabilisierung entsteht aus Rückkopplung; Rückkopplung erhöht Steuerungsdruck und kann Aufmerksamkeit destabilisieren.
+
+4. **Steuerung/Agency**  
+`+` Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent.  
+`–` Steuerung kippt in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren.  
+`Kopplung:` Zielgerichtetheit benötigt Steuerung; Steuerung begrenzt Autonomie und erzeugt Gegenstrategien.
+
+5. **Lernort‑Kohärenz/Transfer**  
+`+` Kohärenz verknüpft Inhalte, Aufgaben und Praxis und erhöht Transferwahrscheinlichkeit.  
+`–` Brüche/Fragmentierung erzeugen Kontextverlust, Medienbrüche und Parallelwelten.  
+`Kopplung:` Transfer braucht Kohärenz; Kohärenz entsteht nur durch Selektions‑/Standardisierungsarbeit, die Vielfalt begrenzt.
+
+6. **Zeit/Verfügbarkeit**  
+`+` Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen.  
+`–` Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung.  
+`Kopplung:` Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
+
+7. **Interaktion/Kollaboration**  
+`+` Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards.  
+`–` Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken.  
+`Kopplung:` Kooperation braucht Interaktionsangebote; diese Angebote erzeugen Koordinationskosten und verteilte Belastungen.
+
+8. **Salienz vs. Funktion (Aufmerksamkeitsarchitektur)**  
+`+` Saliente Signale führen Blick/Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar.  
+`–` Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen.  
+`Kopplung:` Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
+
+9. **Expertise‑Adaptivität/Passung**  
+`+` Adaptivität/Scaffolding passt Komplexität an Expertise an, reduziert Fehler und senkt Einstiegshürden.  
+`–` Fehlanpassung führt zu Bevormundung (bei Experts) oder Überforderung (bei Novices) und verstärkt Ungleichheit.  
+`Kopplung:` Passung benötigt Modelle über Nutzer*innen; Modellierung erzeugt Klassifikation, Bias und neue Exklusionslinien.
+
+10. **Reflexivität/Evaluation**  
+`+` Reflexive Metriken/Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung.  
+`–` Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus.  
+`Kopplung:` Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
+
+11. **Kompetenzarena/Handlungsfähigkeit**  
+`+` Kompetenzaufbau erweitert Handlungsspielräume, stärkt Selbststeuerung und kollektive Problemlösefähigkeit.  
+`–` Kompetenzanforderungen erzeugen Hierarchien, Abwertung von Nicht‑Können und verteilte Vulnerabilität.  
+`Kopplung:` Handlungsfähigkeit entsteht durch Kompetenz; Kompetenz wird erst in Anforderungen sichtbar, die zugleich Ungleichheit produzieren.
+
+12. **Vertrauensbildung/Beobachtbarkeit**  
+`+` Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft.  
+`–` Misstrauen/Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung.  
+`Kopplung:` Vertrauen benötigt beobachtbare Verlässlichkeit; Beobachtbarkeit kann als Kontrolle gelesen werden und Vertrauen unterminieren.
+
+→ Als Block nach Kap. 7 spiegeln: `04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md` (Abschnitt 7.1).
+
 6. **Mögliche Titel für \hyperref[sec:Conclusio]{Kapitel 7}**  
 Vorschläge für das manifestartige Kapitel:
 - „Interdependente Wirkgefüge: Positive und negative Wirkungswahrscheinlichkeiten im digitalen Bildungsraum“
