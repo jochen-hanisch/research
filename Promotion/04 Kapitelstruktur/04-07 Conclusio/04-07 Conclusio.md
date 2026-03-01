@@ -44,27 +44,51 @@ Die folgenden Thesen verdichten den digitalen Bildungsraum als Gefüge wiederkeh
 
 1. **Sichtbarkeit/Transparenz:** Sichtbarkeit erzeugt Orientierung, Anschlussfähigkeit und verlässliche Erwartungsbildung. Hypertransparenz kann dieselbe Sichtbarkeit in Überwachung, Selbstdisziplinierung und taktische Selbstdarstellung überführen. Die Kopplung liegt darin, dass Orientierung und Vertrauen nur über Sichtbarkeit entstehen; zugleich eröffnet Sichtbarkeit Selektions‑ und Kontrollpotenziale.
 
+   Gestalterisch folgt daraus, Sichtbarkeit graduell zu steuern (Tiefe, Adressat*innen, Zeitpunkt) und sie an klare Rollen‑ und Datenschutzregeln zu binden, statt Transparenz pauschal zu erhöhen. In den Ergebnissen wird diese Dimension als Orientierungs‑ und Aufmerksamkeitsmechanismus über UI‑Zonen greifbar (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
+
 2. **Strukturierung/Entlastung:** Struktur reduziert Suchkosten, senkt kognitive Last und macht Lernpfade handhabbar. Überstrukturierung verengt Agency, verstärkt Pfadabhängigkeit und produziert Abhängigkeiten. Strukturell gilt, dass Entlastung Struktur braucht; Struktur stabilisiert, indem sie Alternativen begrenzt und Abweichungen kostenintensiv macht.
+
+   Praktisch heißt das, Struktur als „Leitplanke“ zu entwerfen (klare Navigation, sichtbare Progression, minimale Pflichtpfade) und zugleich Wahlräume für unterschiedliche Lernwege vorzusehen. In Kap. 5 zeigen Akteur*innenurteile, dass Orientierung, Navigation und kognitive Entlastung zu den zentralen Bedingungen von Akzeptanz und Nutzung gehören (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
 
 3. **Rückkopplung/Feedback:** Feedback kalibriert Lernen und Koordination, stabilisiert Pfade und erhöht Selbstwirksamkeit. Überdichte oder uneindeutige Rückkopplung erzeugt Übersteuerung, Signalrauschen, Leistungsdruck und reaktives Handeln. Die Interdependenz zeigt sich daran, dass Stabilisierung Rückkopplung braucht, Rückkopplung aber zugleich Steuerungsdruck erhöht und Aufmerksamkeit destabilisieren kann.
 
+   Konsequent ist daher ein Feedbackdesign mit Rhythmus und Klarheit (wenige, eindeutige Rückmeldesignale mit klarer Anschlussoption) sowie eine Indikatorik, die Lernen stützt, statt Verhalten zu verzerren. Empirisch werden Rückkopplungsschleifen als Mechanismen sichtbar, die Daten und Feedback in didaktische Entscheidungen übersetzen (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
+
 4. **Steuerung/Agency:** Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent. Sie kann zugleich in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren kippen. Damit wird sichtbar, dass Zielgerichtetheit Steuerung benötigt; Steuerung begrenzt Autonomie und erzeugt Gegenstrategien.
+
+   Gestalterisch bietet sich an, Steuerung als Orientierungshilfe kenntlich zu machen (Defaults, Prioritäten, Begründungen) und sie durch explizite Ausstiegspfad‑Optionen zu ergänzen, damit Agency erhalten bleibt. In Kap. 5 wird Steuerung als Mechanismenlinie u. a. über Learning Analytics, Prompts und Personalisierung sichtbar (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
 5. **Lernort‑Kohärenz/Transfer:** Kohärenz verknüpft Inhalte, Aufgaben und Praxis und erhöht Transferwahrscheinlichkeit. Brüche und Fragmentierung erzeugen Kontextverlust, Medienbrüche und Parallelwelten. Die Kopplung besteht darin, dass Transfer Kohärenz braucht; Kohärenz entsteht jedoch nur durch Selektions‑ und Standardisierungsarbeit, die Vielfalt begrenzt.
 
+   Als Gestaltungsimpuls bietet sich an, Lernphasen, Aufgabenpraxis und Rückkopplungspunkte als durchgehende Prozesslogik zu orchestrieren, damit Lernhandlungen in anschlussfähige Praxis‑ und Kompetenzbezüge übersetzt werden können. Empirisch ist diese Linie in der AVIVA+‑Orchestrierung und der Sicherung von Prozesskohärenz im Lernverlauf angelegt (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
+
 6. **Zeit/Verfügbarkeit:** Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen. Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung. Strukturell sind beide Seiten gekoppelt. Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
+
+   Daraus folgt ein Zeitdesign, das Verfügbarkeit mit klaren Regeln verbindet (Antwortfenster, Benachrichtigungslogik, „ruhige Zeiten“) und Entgrenzung aktiv begrenzt. In Kap. 5 erscheint Flexibilität über orts‑ und zeitunabhängige Nutzung als zentrales Nutzenargument in den Akzeptanzbedingungen (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
 
 7. **Interaktion/Kollaboration:** Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards. Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken. Die Interdependenz liegt darin, dass Kooperation Interaktionsangebote braucht, diese Angebote aber Koordinationskosten und verteilte Belastungen erzeugen.
 
-8. **Salienz vs. Funktion (Aufmerksamkeitsarchitektur):** Saliente Signale führen Blick und Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar. Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen. Hier zeigt sich die Kopplung. Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
+   Gestalterisch spricht das für klare Kooperationsskripts, Rollen und erwartbare Artefakte, während Interaktionspflichten sparsam eingesetzt werden sollten, damit Koordinationslast kalkulierbar bleibt. In Kap. 5 werden Interaktion und Kollaboration als wiederkehrende Bedingungen für Effekte auf Lernende rekonstruiert (\hyperref[sec:Ergebnisse-FU2a]{Abschnitt 5.3.5}).
+
+8. **Salienz vs. Funktion (Aufmerksamkeitsarchitektur):** Saliente Signale führen Blick und Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar. Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen. Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
+
+   Ein naheliegender Gestaltungsimpuls ist, Salienz auf wenige handlungsrelevante Zonen zu konzentrieren (Progression, nächste Aktion, Feedback) und ablenkende Reize systematisch zu reduzieren. Empirisch werden Salienzsteuerung, Hotspots/Coldspots und expertiseabhängige Blickmuster als relevante Mechanismen der UI‑Wirkung sichtbar (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
 
 9. **Expertise‑Adaptivität/Passung:** Adaptivität und Scaffolding passen Komplexität an Expertise an, reduzieren Fehler und senken Einstiegshürden. Fehlanpassung führt zu Bevormundung (bei Experts) oder Überforderung (bei Novices) und verstärkt Ungleichheit. Strukturell gekoppelt ist das an Modellierung. Passung benötigt Modelle über Nutzer*innen; Modellierung erzeugt Klassifikation, Bias und neue Exklusionslinien.
 
-10. **Reflexivität/Evaluation:** Reflexive Metriken und Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung. Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus. Die Kopplung ist hierbei zentral. Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
+   Sinnvoll ist daher eine Adaptivität, die als wählbare Unterstützung umgesetzt wird (gestufte Hilfen, progressive Offenlegung, einfache Umschaltbarkeit) und deren Annahmen sichtbar bleiben, damit Fehlanpassung korrigierbar ist. Empirisch wird Passung sowohl als Merkmalslogik (Usability, Barrierefreiheit, Adaptivität) als auch über Expertisegradienten im Nutzungsvollzug greifbar (\hyperref[sec:Ergebnisse-FU3]{Abschnitt 5.3.1}; \hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
+
+10. **Reflexivität/Evaluation:** Reflexive Metriken und Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung. Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus. Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
+
+   Gestalterisch spricht das für wenige, didaktisch begründete Indikatoren, die als lernunterstützende Rückmeldung gerahmt und konsequent mit Kontext und Grenzen versehen werden, damit sie nicht als Ersatz für Qualität wirken. Empirisch wird Evaluation als Ermöglichungs‑ und Begrenzungsmechanismus beschrieben, der nur über Datenkreisläufe und Qualitätslogiken Stabilisierung plausibilisiert (\hyperref[sec:Ergebnisse-FU5]{Abschnitt 5.3.3}).
 
 11. **Kompetenzarena/Handlungsfähigkeit:** Kompetenzaufbau erweitert Handlungsspielräume, stärkt Selbststeuerung und kollektive Problemlösefähigkeit. Kompetenzanforderungen erzeugen Hierarchien, Abwertung von Nicht‑Können und verteilte Vulnerabilität. Gekoppelt ist beides dadurch, dass Handlungsfähigkeit Kompetenz voraussetzt, Kompetenz aber erst in Anforderungen sichtbar wird, die zugleich Ungleichheit produzieren.
 
+   Als Gestaltungsimpuls bietet sich an, Kompetenzanforderungen als gestufte Lernaufgaben mit Supportstrukturen zu formulieren und Sichtbarkeit von Leistung so zu organisieren, dass sie Entwicklung unterstützt statt zu sanktionieren. Empirisch modelliert FU$_{6}$ das LMS als Kompetenzerwerbssystem, dessen Wirksamkeit an Passung, Steuerung und Rückkopplung gekoppelt ist (\hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
+
 12. **Vertrauensbildung/Beobachtbarkeit:** Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft. Misstrauen und Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung. Die Interdependenz liegt darin, dass Vertrauen beobachtbare Verlässlichkeit benötigt; Beobachtbarkeit kann jedoch als Kontrolle gelesen werden und Vertrauen unterminieren.
+
+   Gestalterisch folgt daraus, Beobachtbarkeit auf Lernunterstützung zu begrenzen (Zweckbindung, Datenminimierung, Rollenrechte) und Governance so zu gestalten, dass Teilnehmende Kontrolle über Sichtbarkeit und Datenspuren behalten. In Kap. 5 werden Kultur‑ und Ethikrahmungen als Bedingungen benannt, die bestimmen, ob Rückkopplung und Kollaboration als legitim, sicher und praktikabel gelten (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
 Damit ist der Verdichtungsrahmen gesetzt. Jede Dimension wird als Interdependenzformel ausformuliert (positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Kopplung, die beide notwendig miteinander verschränkt). Auf dieser Basis lassen sich die folgenden Gestaltungsprinzipien als Kopplungsarbeit präzisieren und anschließend pro These mit empirischer Verankerung und Gestaltungsimpuls ausarbeiten.
 
@@ -80,7 +104,6 @@ Damit ist der Verdichtungsrahmen gesetzt. Jede Dimension wird als Interdependenz
 - Kurzformat (10–12 Thesen): Jede These folgt der Struktur „Dimension – positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Interdependenzsatz – Gestaltungsimpuls“.
 - Langformat (Abschnittsweise Ausarbeitung): Jede Dimension erhält einen kurzen Absatz mit empirischer Verankerung (Kap. 5), theoretischer Rahmung (Kap. 2/3) und Designhinweis (Kap. 6.3).
 - Scharnier zum Ausblick: Die Thesen fungieren als programmatischer Orientierungsrahmen für Forschung und Praxis; der Ausblick (7.5) kann auf Forschungsdesiderate pro Dimension verweisen.
-#todo (#9) Pro These: Gestaltungsimpuls + empirische Verankerung (Kap. 5) ergänzen.
 
 Damit liegt das Gerüst für die thesenhafte Schlussverdichtung vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, weiter verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
