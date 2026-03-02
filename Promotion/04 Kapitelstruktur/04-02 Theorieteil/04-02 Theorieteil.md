@@ -184,13 +184,15 @@ Für den Theorieaufbau dieser Arbeit ist deshalb eine engere Fassung nötig, die
 - **Zurechnung**: Wirkung ist immer auch eine begründete Bezugnahme auf eine Konstellation (Bedingungsbündel) und damit eine beobachtungs‑ und argumentationsgebundene Zuschreibung (ohne deshalb beliebig zu werden).
 - **Anschlussrelevanz im Verlauf**: Zur Wirkung wird eine Differenz dort, wo sie weitere Zustandsverläufe modifiziert, also Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten verschiebt (z.B. welche Lernhandlungen möglich/naheliegend werden, welche Rückkopplungen entstehen, welche Stabilisierungspfade sich öffnen/schließen).
 
-Diese Präzisierung erlaubt es, Wirkbehauptungen nicht als „Technologieeffekte“ zu behandeln, sondern als verlaufsbezogene, konstellationsgebundene Aussagen, die später im Wirkgefüge und über methodische Prüflogiken (Triangulation, Kausalpläne) geführt werden. [@hanisch-johannsen_wirkung_2026]
+Diese Präzisierung erlaubt es, Wirkbehauptungen nicht als „Technologieeffekte“ zu behandeln, sondern als verlaufsbezogene, konstellationsgebundene Aussagen, die später im Wirkgefüge und über methodische Prüflogiken (Triangulation, Kausalpläne) geführt werden.
 
-**Definition.** *Wirkung bezeichnet eine im Verlauf rekonstruierbare, anschlussrelevante Differenz zwischen Zuständen, die auf eine Konstellation bezogen wird und weitere Zustandsverläufe modifiziert.* [@hanisch-johannsen_wirkung_2026]
+**Definition.** *Wirkung bezeichnet eine im Verlauf rekonstruierbare, anschlussrelevante Differenz zwischen Zuständen, die auf eine Konstellation bezogen wird und weitere Zustandsverläufe modifiziert.*
 
-In dieser Arbeit wird Wirkung als Beobachtungs‑ und Zurechnungskategorie gefasst, die an der Rekonstruktion von Anschlussveränderungen zu prüfen ist. [@hanisch-johannsen_wirkung_2026]
+In dieser Arbeit wird Wirkung als Beobachtungs‑ und Zurechnungskategorie gefasst, die an der Rekonstruktion von Anschlussveränderungen zu prüfen ist.
 
 #### Gefüge
+
+\label{term:gefuege}
 
 **Herleitung.** Um Wirkung nicht als Eigenschaft isolierter Elemente zu missverstehen, wird „Gefüge“ als Strukturbegriff vorgeschaltet. Dabei ist eine Unterscheidung zentral:
 
@@ -207,13 +209,13 @@ In dieser Arbeit wird Gefüge als analytische Beschreibung der Kopplungsordnung 
 
 **Herleitung.** Ein Wirkgefüge fokussiert das Gefüge unter der Perspektive von Wirkung: Welche Kopplungen erzeugen welche (fördernden und hemmenden) Wirkpfade, wie überlagern sich diese, und wo treten Rückkopplungen, Stabilisierung oder Kippstellen auf? Damit wird der Blick von „wirkt X?“ auf „welche Wirkpfade werden im Zusammenspiel wahrscheinlicher/ unwahrscheinlicher?“ verschoben. Diese Verschiebung ist für die Analyse von LMS‑Architekturen leitend, weil pädagogische Wirkzusammenhänge typischerweise über mehrere, gleichzeitig wirksame Bedingungen vermittelt sind.
 
-Zugleich wird damit ein verbreiteter Engpass vermieden: Ein „Wirkprinzip“ (ein einzelner Mechanismus) erklärt in komplexen Bildungssettings selten hinreichend, *warum* etwas „wirkt“; entscheidend ist das Zusammenwirken mehrerer Bedingungen im Zeitverlauf (z.B. Strukturierung ↔ Motivation ↔ Rückmeldung ↔ Sichtbarkeit ↔ soziale Einbettung). Ein Wirkgefüge benennt genau diese Interdependenzen und macht damit auch systematische Nebenwirkungen, Dämpfungen und Verstärkungen beschreibbar. [@wirtz_wirkungsgefuge_2020; @hanisch-johannsen_wirkung_2026]
+Zugleich wird damit ein verbreiteter Engpass vermieden: Ein „Wirkprinzip“ (ein einzelner Mechanismus) erklärt in komplexen Bildungssettings selten hinreichend, *warum* etwas „wirkt“; entscheidend ist das Zusammenwirken mehrerer Bedingungen im Zeitverlauf (z.B. Strukturierung \(\leftrightarrow\) Motivation \(\leftrightarrow\) Rückmeldung \(\leftrightarrow\) Sichtbarkeit \(\leftrightarrow\) soziale Einbettung). Ein Wirkgefüge benennt genau diese Interdependenzen und macht damit auch systematische Nebenwirkungen, Dämpfungen und Verstärkungen beschreibbar. [@wirtz_wirkungsgefuge_2020]
 
 **Definition.** *Wirkgefüge bezeichnet den Wechselwirkungszusammenhang eines Gefüges unter der Perspektive von Wirkung; es umfasst zugleich fördernde und hemmende Wirkpfade und ihre Rückkopplungen.* [@wirtz_wirkungsgefuge_2020]
 
 #### Verbindung und Anschluss an die Theorie
 
-Im Zusammenspiel heißt das: Wirkung wird als verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges fassbar – und das Wirkgefüge ist der Rahmen, in dem mehrere Wirkpfade (und ihre Rückkopplungen) begrifflich und später modelllogisch geführt werden können. Diese Dreierfigur erlaubt es, Lehrparadigmen nicht als „Methodenfamilien“, sondern als Bündel impliziter Wirkannahmen zu rekonstruieren: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt? [@hanisch-johannsen_wirkung_2026]
+Im Zusammenspiel heißt das: Wirkung wird als verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges fassbar – und das Wirkgefüge ist der Rahmen, in dem mehrere Wirkpfade (und ihre Rückkopplungen) begrifflich und später modelllogisch geführt werden können. Diese Dreierfigur erlaubt es, Lehrparadigmen als Bündel impliziter Wirkannahmen zu rekonstruieren: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt?
 
 
 ## 2.2 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
@@ -433,7 +435,7 @@ Damit wird direkte Steuerung über lineare Lehr‑Lern‑Ketten begrifflich begr
 
 Daraus ergibt sich als didaktische Konsequenz eine Gestaltung, die Anschlussfähigkeit strukturiert: Lernarchitekturen (inkl. LMS) werden als Strukturangebote modelliert, die Selbsttätigkeit, Reflexion, Beziehung und Kontextualisierung ermöglichen und dadurch Kopplungsoptionen zwischen psychischen und sozialen Prozessen reorganisieren. [@siebert_padagogischer_2003, Seite 29; @pfannstiel_psychologische_2022, Seite 591]
 
-⸻
+---
 
 ### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Instruktionistisch}
 \label{term:paradigma-instruktionistisch}
@@ -464,7 +466,7 @@ Evaluation fokussiert vorwiegend Zielerreichung und Reproduktionsleistung. Konst
 7. **Architekturimplikation LMS**  
 Instruktionistisch naheliegend sind lineare Lernpfade, verpflichtende Sequenzen, testgetriebene Freischaltungen, standardisierte Checkpoints und starke Teacher‑Control. Diese Architektur kann handlungspraktisch sinnvoll sein, bleibt aber als Kausalplan unter Ungewissheit zu führen. [@dittler_technologiedefizite_2009, Seiten 78-79]
 
-⸻
+---
 
 ### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Kognitivistisch}
 \label{term:paradigma-kognitivistisch}
@@ -492,7 +494,7 @@ Evaluation fokussiert häufig Leistungsindikatoren, Verarbeitungsmaße und Outco
 7. **Architekturimplikation LMS**  
 Naheliegend sind adaptive Aufgabenpfade, gestufte Hilfen, kognitiv entlastete Materialgestaltung, formatives Feedback und lernstandsnahe Diagnoseelemente. Die Stärke liegt in differenzierter Lernunterstützung; die Grenze liegt in einer möglichen Verwechslung von Messbarkeit und Bildungswirksamkeit. [@pfannstiel_psychologische_2022, Seiten 586-587, 594; @dittler_technologiedefizite_2009, Seiten 77-79]
 
-⸻
+---
 
 ### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Situativ}
 \label{term:paradigma-situativ}
@@ -520,7 +522,7 @@ Evaluation muss neben individueller Leistung auch Prozessqualität, Kooperations
 7. **Architekturimplikation LMS**  
 Erforderlich sind kollaborative Artefakträume, Foren, Peer‑Feedback‑Workflows, Rollen-/Gruppenlogiken und nachvollziehbare Prozessdokumentation. In konstruktivistischer Lesart werden diese Funktionen als Ermöglichungsbedingungen, nicht als Wirkgarantien geführt. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 64, 78; @dittler_technologiedefizite_2009, Seiten 77-79]
 
-⸻
+---
 
 #### Vergleichstabelle der Paradigmen (vollständig, 7 Dimensionen) {#sec:Paradigmen-Vergleichstabelle}
 \label{term:paradigmen-vergleichstabelle}
@@ -539,7 +541,7 @@ Die Tabelle verdichtet die vorstehende Analyse in ein vergleichbares Raster. Sie
 
 Interpretationshinweis: Die Tabelle zeigt wahrscheinliche Architekturfolgen der jeweiligen Wirkannahmen. Sie ersetzt nicht die Kontextprüfung im Feld und ist entsprechend als heuristische Vergleichsfolie zu verwenden. [@dittler_technologiedefizite_2009]
 
-⸻
+---
 
 ### 2.2.6 Anthropologische und normative Tiefendimensionen {#sec:Tiefendimensionen}
 \label{term:tiefendimensionen}
@@ -554,7 +556,7 @@ Transformatorische Bildungstheorien akzentuieren schließlich die Möglichkeit t
 
 Die Funktion dieses Abschnitts liegt somit darin, die paradigmatischen Wirkannahmen aus Abschnitt 2.2.3 bis 2.2.5 in ihren anthropologischen und gesellschaftstheoretischen Voraussetzungen transparent zu machen. Auf diese Weise wird sichtbar, dass Unterschiede zwischen Paradigmen nicht nur auf didaktischer Ebene liegen, sondern in divergierenden Vorstellungen vom Menschen, von Autonomie, von Macht und von Bildung selbst gründen. Diese Tiefendimensionen rahmen die spätere Parametrisierung, ohne selbst als eigenständige Modellparameter geführt zu werden.
 
-⸻
+---
 
 ### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 \label{term:paradigmen-modellparameter}
