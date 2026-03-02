@@ -12,13 +12,13 @@ Abschnitt \hyperref[sec:Conclusio-Manifest]{7.1} bündelt die zentralen Einsicht
 
 ## 7.1 Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
-Dieses Schlusskapitel fasst den digitalen Bildungsraum als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Thesen, die den digitalen Bildungsraum als Feld gekoppelter Wirkungswahrscheinlichkeiten rekonstruieren. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Eine Kernannahme ist, dass positive und negative Wirkgefügswahrscheinlichkeiten strukturell interdependent sind und sich wechselseitig ermöglichen, begrenzen und irritieren. Gestaltungsaufgabe ist, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
+Dieses Schlusskapitel fasst den digitalen Bildungsraum als interdependentes Wirkgefüge. Es bündelt die theoretische Präzisierung aus \hyperref[sec:Diskussion-Interdependenz]{6.3.1} in handlungsleitenden Leitsätzen, die den digitalen Bildungsraum als Feld gekoppelter Wirkungswahrscheinlichkeiten rekonstruieren. Es schließt an die Forschungsfrage (\hyperref[fh]{Kapitel 1}), die theoretischen Grundlagen (\hyperref[sec:Theorieteil]{Kapitel 2}), die Architektur des Forschungsgegenstands (\hyperref[sec:Forschungsgegenstand]{Kapitel 3}), das methodische Vorgehen (\hyperref[sec:Methodologie]{Kapitel 4}) und die Ergebnisse (\hyperref[sec:Ergebnisse]{Kapitel 5}) an. Eine Kernannahme ist, dass positive und negative Wirkgefügswahrscheinlichkeiten strukturell interdependent sind und sich wechselseitig ermöglichen, begrenzen und irritieren. Gestaltungsaufgabe ist, diese Interdependenzen sichtbar, steuerbar und reflexiv zu machen.
 
 ### 7.1.1 Was den digitalen Bildungsraum im Inneren zusammenhält {#sec:Conclusio-Welt-im-Inneren}
 
 Frei nach Goethes *Faust* ist entscheidend, „was die Welt im Inneren zusammenhält“. Gemeint ist hier, was den digitalen Bildungsraum als Wirkgefüge stabilisiert, bevor einzelne Funktionen oder Oberflächen überhaupt als „wirksam“ erscheinen.
 
-Im Material dieser Arbeit zeigt sich ein Dreiklang, der die Interdependenzen bündelt und als Leseanweisung für die folgenden Thesen dient (\hyperref[sec:Ergebnisse]{Kapitel 5} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}):
+Im Material dieser Arbeit zeigt sich ein Dreiklang, der die Interdependenzen bündelt und als Leseanweisung für die folgenden Leitsätze dient (\hyperref[sec:Ergebnisse]{Kapitel 5} und \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}):
 
 - **Wirkungsrahmen der Setzungen:** Die in \hyperref[sec:Vermutungen]{Abschnitt 1.2.1} und \hyperref[sec:Zielsetzung]{Abschnitt 1.2.2} formulierten Setzungen werden im Material als wiederkehrende Wirkungsbeobachtungen greifbar und in \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1} verdichtet.
 - **Handlungs- und Rückkopplungsschleifen:** Orientierung geht in Handlung über und Handlung erzeugt Rückmeldung; diese Schleife stabilisiert Lernpfade, kann aber ebenso übersteuern oder entkoppeln (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6} sowie \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
@@ -38,9 +38,9 @@ Interdependenz bedeutet hier, dass weder die positive noch die negative Wirkungs
 - Operativität: Wirkgefüge zeigen sich in Handlungen (Orientieren, Entscheiden, Steuern) und in deren Ermöglichungs- und Störungsbedingungen.
 - Gestaltung als Kopplungsarbeit: Didaktik und Technik gestalten Koppelungen zwischen Wirkungsrichtungen.
 
-Die folgenden Thesen verdichten den digitalen Bildungsraum als Gefüge wiederkehrender Wirkdimensionen. Jede Dimension benennt eine Spannungsform, in der sich fördernde und hemmende Wirkungswahrscheinlichkeiten zugleich ausbilden; die Zuschreibung ist strukturell und nicht evaluativ. Interdependenz bezeichnet die Kopplung dieser Wirkungsrichtungen. Bedingungen, die Orientierung, Lernen oder Kooperation ermöglichen, tragen in derselben Operation Nebenwirkungen mit, die Anschlussfähigkeit begrenzen oder irritieren können.
+Die folgenden Leitsätze verdichten den digitalen Bildungsraum als Gefüge wiederkehrender Wirkdimensionen. Jede Dimension benennt eine Spannungsform, in der sich fördernde und hemmende Wirkungswahrscheinlichkeiten zugleich ausbilden; die Zuschreibung ist strukturell und nicht evaluativ. Interdependenz bezeichnet die Kopplung dieser Wirkungsrichtungen. Bedingungen, die Orientierung, Lernen oder Kooperation ermöglichen, tragen in derselben Operation Nebenwirkungen mit, die Anschlussfähigkeit begrenzen oder irritieren können.
 
-**Thesen des interdependenten Wirkgefüges**
+**Leitsätze des interdependenten Wirkgefüges**
 
 1. **Sichtbarkeit/Transparenz:** Sichtbarkeit erzeugt Orientierung, Anschlussfähigkeit und verlässliche Erwartungsbildung. Hypertransparenz kann dieselbe Sichtbarkeit in Überwachung, Selbstdisziplinierung und taktische Selbstdarstellung überführen. Die Kopplung liegt darin, dass Orientierung und Vertrauen nur über Sichtbarkeit entstehen; zugleich eröffnet Sichtbarkeit Selektions‑ und Kontrollpotenziale.
 
@@ -101,11 +101,11 @@ Damit ist der Verdichtungsrahmen gesetzt. Jede Dimension wird als Interdependenz
 
 **Form der Verdichtung**
 
-- Kurzformat (10–12 Thesen): Jede These folgt der Struktur „Dimension – positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Interdependenzsatz – Gestaltungsimpuls“.
+- Kurzformat (10–12 Leitsätze): Jeder Leitsatz folgt der Struktur „Dimension – positive Wirkungswahrscheinlichkeit – negative Wirkungswahrscheinlichkeit – Interdependenzsatz – Gestaltungsimpuls“.
 - Langformat (Abschnittsweise Ausarbeitung): Jede Dimension erhält einen kurzen Absatz mit empirischer Verankerung (Kap. 5), theoretischer Rahmung (Kap. 2/3) und Designhinweis (Kap. 6.3).
-- Scharnier zum Ausblick: Die Thesen fungieren als programmatischer Orientierungsrahmen für Forschung und Praxis; der Ausblick (7.5) kann auf Forschungsdesiderate pro Dimension verweisen.
+- Scharnier zum Ausblick: Die Leitsätze fungieren als programmatischer Orientierungsrahmen für Forschung und Praxis; der Ausblick (7.5) kann auf Forschungsdesiderate pro Dimension verweisen.
 
-Damit liegt das Gerüst für die thesenhafte Schlussverdichtung vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Thesen aufgreifen, weiter verdichten und in Forschungs- sowie Praxisimplikationen überführen.
+Damit liegt das Gerüst für die leitsatzförmige Schlussverdichtung vor. Die nachfolgenden Unterkapitel (7.1–7.5) können die Leitsätze aufgreifen, weiter verdichten und in Forschungs- sowie Praxisimplikationen überführen.
 
 ## 7.2 Zusammenfassung der zentralen Ergebnisse {#sec:Conclusio-Zusammenfassung}
 
@@ -125,8 +125,7 @@ Die Herleitung folgt der Logik des Gesamtaufbaus:
 4. **Empirische Verdichtung und Hypothesenbildung**: Kapitel 5 beantwortet die Forschungsunterfragen entlang der Kernbereiche und führt die Triangulation in Arbeitshypothesen über (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}). Kapitel 6 prüft diese Verdichtung als Interdependenzargumentation und klärt, weshalb positive und negative Wirkungsrichtungen strukturell gekoppelt sind (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 5. **Rechnerische Spur der Kopplungsdynamik**: Ergänzend wird in Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} eine Kopplungsindikatorik eingeführt, die Unsicherheiten aus den Ergebnissen in eine Zeitlogik überführt. Diese Indikatorik (\hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}) erhebt keinen empirischen Messanspruch; sie dient als formalisierte Verdichtung, um Kippstellen und Stabilisierung als modellinterne Spur darstellbar zu machen.
 
-#todo (#100) revision: Simulation als Beispiel für Operativität der Schlussverdichtung markieren (7.2.2)
-Damit wird zugleich der Übergang zur Schlussverdichtung gestützt. Interdependenz wird über eine operative Zeitlogik greifbar [@hanisch-johannsen_simulation_2025]. Genau an dieser Stelle können die Thesen (7.1) exemplarisch auf „Kippstellen“ und „Stabilisierung“ referieren und den Reflexions- und Gestaltungsrahmen für Wirkungswahrscheinlichkeiten klar verorten.
+Die Simulation zeigt exemplarisch, wie diese Schlussverdichtung operativ wird: Die Kopplungsindikatorik überführt Unsicherheiten aus den Ergebnissen in eine Zeitlogik und macht so Kippstellen und Stabilisierung als prüfbare Spur der Verdichtung sichtbar [@hanisch-johannsen_simulation_2025]. Damit wird zugleich der Übergang zur Schlussverdichtung gestützt. Genau an dieser Stelle können die Leitsätze aus Abschnitt 7.1 exemplarisch auf „Kippstellen“ und „Stabilisierung“ referieren und den Reflexions- und Gestaltungsrahmen für Wirkungswahrscheinlichkeiten klar verorten.
 
 ### 7.2.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
 
