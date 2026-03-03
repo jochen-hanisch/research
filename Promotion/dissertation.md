@@ -12,6 +12,7 @@ header-includes:
   - \usepackage{newunicodechar}
   - \newunicodechar{�}{?}
   - \newunicodechar{→}{$\rightarrow$}
+  - \newunicodechar{↔}{$\leftrightarrow$}
   - \usepackage{unicode-math}
   - \setmainfont{STIX Two Text}
   - \setsansfont{STIX Two Text}
