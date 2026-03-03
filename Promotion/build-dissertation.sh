@@ -38,17 +38,13 @@ FILES=(
   "04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md"
   literaturverzeichnis.md
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md"
-  # Reihenfolge der Anhänge: Nach Erstnennung innerhalb der Dissertation (links: Anhang-Nummer)
+  # Reihenfolge der Anhänge: Nach Erstnennung innerhalb der Hauptkapitel
   "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md" # A-1
-  "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md" # A-2
-  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md" # A-3
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md" # A-9
+  "04 Kapitelstruktur/04-A Anhang/04-A Technologieintegration.md" # A-14
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" # A-5
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" # A-6
   "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" # A-11
-  "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
-  "04 Kapitelstruktur/04-A Anhang/04-A Technologieintegration.md" # A-14
-  "04 Kapitelstruktur/04-A Anhang/04-A Software und Quellcode.md" # A-15
   "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md" # A-8
 )
 
@@ -66,10 +62,15 @@ else
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas_stub.md")
 fi
 
-# Umfrage-Prompt/Vorlage und Ergebnisse (Anhänge A-10 / A-12)
+# Anhänge nach weiterer Erstnennung in den Hauptkapiteln
 FILES+=(
   "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Prompt.md" # A-10
+  "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md" # A-2
+  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md" # A-3
+  "04 Kapitelstruktur/04-A Anhang/04-A Software und Quellcode.md" # A-15
   "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Ergebnisse.md" # A-12
+  # A-13 wird aktuell in den Hauptkapiteln nicht direkt referenziert.
+  "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
 )
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
