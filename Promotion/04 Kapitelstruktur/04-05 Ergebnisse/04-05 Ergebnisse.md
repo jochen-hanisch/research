@@ -14,7 +14,7 @@ Abschnitt \hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt Überblick und Einordnu
 
 Die Ergebnisse zeigen konsistent, dass Learning-Management-Systeme im digitalen Bildungsraum als soziotechnische Arrangements wirken, deren Wirkungen aus dem Zusammenspiel von didaktischen Merkmalen und technologischer Architektur, bildungswissenschaftlichen Mechanismen (Rückkopplung, Interaktion, Kultur/Normativität) und Akzeptanz- und Implementationsbedingungen entstehen. Diese Struktur wird in den P‑QIA-Metaanalysen pro Forschungsunterfrage (FU) sichtbar (Anhang \hyperref[sec:A-9]{A‑9}) und durch die beiden empirischen Zugänge (Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1] sowie Umfrage [@hanisch-johannsen_wirkgefuge_2025]) in den Nutzungsvollzug gespiegelt (Anhänge \hyperref[sec:A-7]{A‑7} und \hyperref[sec:A-12]{A‑12}).
 
-Begrifflich sind diese Befundlinien an den in Kapitel \hyperref[sec:Theorieteil]{2} hergeleiteten Wirkungsbegriff und die Gefüge‑/Wirkgefügeperspektive angeschlossen (siehe Abschnitt \hyperref[sec:Begriffe-Wirkung-Gefuege]{2.1.4}).
+Begrifflich sind diese Befundlinien an den in Kapitel \hyperref[sec:Theorieteil]{2} hergeleiteten Wirkungsbegriff und die Gefüge‑/Wirkgefügeperspektive angeschlossen (siehe Abschnitt \hyperref[sec:Begriffe-Wirkung-Gefuege]{„Zentrale Begriffe und Konzepte“}).
 
 Zur Nachvollziehbarkeit sind die im Ergebnisteil verwendeten, nicht-personenbezogenen, datenschutzrechtlich unkritischen Datenartefakte (aggregierte Eye‑Tracking‑Visualisierungen; bereinigter Umfragedatensatz inkl. Analyse-Tabellen) auf Zenodo archiviert [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025].
 
