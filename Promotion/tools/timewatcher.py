@@ -114,12 +114,16 @@ def _should_ignore_status_line(line: str) -> bool:
     return path_part in IGNORE_GIT_STATUS_PATHS
 
 
-def git_status_porcelain(repo_top: str) -> Tuple[List[str], int]:
+def git_status_porcelain(repo_top: str) -> Tuple[str, List[str], int]:
     rc, out = try_run(["git", "status", "-sb", "--porcelain"], cwd=repo_top)
     if rc != 0:
-        return ([], 0)
+        return ("", [], 0)
 
     lines = [line.rstrip("\n") for line in out.splitlines() if line.strip()]
+    branch = ""
+    if lines and lines[0].startswith("## "):
+        branch = lines[0]
+        lines = lines[1:]
     ignored = 0
     kept: List[str] = []
     for line in lines:
@@ -127,7 +131,7 @@ def git_status_porcelain(repo_top: str) -> Tuple[List[str], int]:
             ignored += 1
             continue
         kept.append(line)
-    return (kept, ignored)
+    return (branch, kept, ignored)
 
 
 def extract_todos_with_rg(repo_top: str) -> Iterable[Tuple[str, int, str]]:
@@ -315,7 +319,7 @@ def main() -> int:
     repo = detect_repo_slug(args.repo)
     cache_p = cache_path(repo_top)
 
-    status_lines, ignored_status_lines = git_status_porcelain(repo_top)
+    branch_line, status_lines, ignored_status_lines = git_status_porcelain(repo_top)
     untracked = [l for l in status_lines if l.startswith("?? ")]
 
     # Todos
@@ -445,6 +449,8 @@ def main() -> int:
 
     print("")
     print("GIT_STATUS")
+    if branch_line:
+        print(f"BRANCH\t{branch_line[3:]}")
     if not status_lines:
         print("CLEAN_OR_UNKNOWN")
     else:
