@@ -173,13 +173,13 @@ Diese Perspektive erklärt, wie didaktische Sinnordnung, technische Operationslo
 
 ### 7.3.1 Ordnungsstruktur der Schlussverdichtung
 
-Die Kopplung von Suchergebnissen, Schlagworten, Folgen und Implikationen wird im Folgenden als strukturelle Kopplung im Sinne der Systemtheorie gefasst (@luhmann_gesellschaft_2015; @luhmann_soziale_2018). Die Ebenen bleiben eigenlogisch und werden wechselseitig anschlussfähig gemacht. Abbildung~\ref{fig:schlagworte-mapping} visualisiert diese Kopplungsarchitektur und zeigt, wie die im Rahmen der Analysen erster Ordnung gewonnenen Schlagworte als Elemente der Korpusstruktur in Beziehung zur synthetischen Ebene der Folgen und zu den daraus nachgelagerten Implikationen gesetzt werden.
+Die Kopplung von Suchergebnissen, Schlagworten, Folgen und Implikationen wird im Folgenden als strukturelle Kopplung im Sinne der Systemtheorie gefasst (@luhmann_gesellschaft_2015; @luhmann_soziale_2018). Die Ebenen bleiben eigenlogisch und werden wechselseitig anschlussfähig gemacht. \hyperref[fig:schlagworte-mapping]{Abbildung~\ref{fig:schlagworte-mapping}} visualisiert diese Kopplungsarchitektur und zeigt, wie die im Rahmen der Analysen erster Ordnung gewonnenen Schlagworte als Elemente der Korpusstruktur in Beziehung zur synthetischen Ebene der Folgen und zu den daraus nachgelagerten Implikationen gesetzt werden.
 
 ```{=latex}
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/schlagworte-mapping.tex}
 ```
 
-Die in Abbildung~\ref{fig:schlagworte-mapping} dargestellten Kopplungen sind ausdrücklich nicht kausal zu verstehen. Die Schlagworte fungieren als strukturierende Begriffsanker der Analysen erster Ordnung und markieren wiederkehrende semantische Verdichtungen im Literaturkorpus. Sie dienen der begrifflichen Orientierung und der Rückbindung der Synthese an das Material. Die im Literaturkorpus sichtbar gewordenen Korrelationsmuster der Indizes dienten dabei als heuristische Orientierung (Abb.~\ref{fig:A-kor-indizes}) [@hanisch-johannsen_wirkgefuge_2025-2], entlang derer die empirischen Befunde zu den dargestellten Folgen zusammengeführt wurden. Implikationen sind diesen Folgen nachgelagert.
+Die in \hyperref[fig:schlagworte-mapping]{Abbildung~\ref{fig:schlagworte-mapping}} dargestellten Kopplungen sind ausdrücklich nicht kausal zu verstehen. Die Schlagworte fungieren als strukturierende Begriffsanker der Analysen erster Ordnung und markieren wiederkehrende semantische Verdichtungen im Literaturkorpus. Sie dienen der begrifflichen Orientierung und der Rückbindung der Synthese an das Material. Die im Literaturkorpus sichtbar gewordenen Korrelationsmuster der Indizes dienten dabei als heuristische Orientierung (\hyperref[fig:A-kor-indizes]{Abbildung~\ref{fig:A-kor-indizes}}) [@hanisch-johannsen_wirkgefuge_2025-2], entlang derer die empirischen Befunde zu den dargestellten Folgen zusammengeführt wurden. Implikationen sind diesen Folgen nachgelagert.
 
 ### 7.3.2 Folgerungen aus den Ergebnissen {#sec:Conclusio-Folgerungen}
 
