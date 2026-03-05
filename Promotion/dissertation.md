@@ -238,23 +238,23 @@ Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit
 
 **Schreibweisen für Literatur- und Abbildungsverweise**
 
-Im Fließtext werden die Begriffe "Kapitel", "Abschnitt", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben. Interne Verweise werden dabei konsequent als klickbare Querverweise gesetzt und in `\hyperref` geschrieben (z.B. `\hyperref[sec:Diskussion-Methodenreflexion]{Abschnitt 6.4}` oder `\hyperref[sec:Theorieteil]{Kapitel 2}`).
+Im Fließtext werden die Begriffe "Kapitel", "Abschnitt", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben. Interne Verweise werden dabei konsequent als klickbare Querverweise gesetzt und in `\hyperref` geschrieben (z. B. `\hyperref[sec:Diskussion-Methodenreflexion]{Abschnitt 6.4}` oder `\hyperref[sec:Theorieteil]{Kapitel 2}`).
 
 Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
 
-- S.   = Seite (z.B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
-- Kap. = Kapitel (z.B. "[@doring_forschungsmethoden_2023, Kapitel 2.2]")
-- Abb. = Abbildung (z.B. `\hyperref[fig:beispiel]{Abb.~\ref{fig:beispiel}}`)
-- Tab. = Tabelle (z.B. `\hyperref[tab:methoden_FU]{Tab.~\ref{tab:methoden_FU}}`)
+- S.   = Seite (z. B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
+- Kap. = Kapitel (z. B. "[@doring_forschungsmethoden_2023, Kapitel 2.2]")
+- Abb. = Abbildung (z. B. `\hyperref[fig:beispiel]{Abb.~\ref{fig:beispiel}}`)
+- Tab. = Tabelle (z. B. `\hyperref[tab:methoden_FU]{Tab.~\ref{tab:methoden_FU}}`)
 
-Auch bei ausgeschriebenen Formen werden die Referenzen in `\hyperref` gesetzt (z.B. `\hyperref[fig:beispiel]{Abbildung~\ref{fig:beispiel}}`, `\hyperref[tab:methoden_FU]{Tabelle~\ref{tab:methoden_FU}}`, `\hyperref[eq:verlust]{Gl.~\eqref{eq:verlust}}`).
+Auch bei ausgeschriebenen Formen werden die Referenzen in `\hyperref` gesetzt (z. B. `\hyperref[fig:beispiel]{Abbildung~\ref{fig:beispiel}}`, `\hyperref[tab:methoden_FU]{Tabelle~\ref{tab:methoden_FU}}`, `\hyperref[eq:verlust]{Gl.~\eqref{eq:verlust}}`).
 
-Die Abkürzung "z.B." ("zum Beispiel") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird nach Möglichkeit die ausgeschriebene Form "zum Beispiel" verwendet; nur in Ausnahmefällen wird "bspw." genutzt.
+Die Abkürzung "z. B." ("beispielsweise") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird grundsätzlich die ausgeschriebene Form "beispielsweise" verwendet; die Formen "zum Beispiel", "z. B." im Fließtext und "bspw." werden in der Arbeit nicht verwendet.
 
 ## Hinweis zur Begriffsbestimmung {#sec:begriffsbestimmung}
 
 In dieser Arbeit erfolgen die Definition, Herleitung und Begründung zentraler Begriffe an den Stellen, an denen die jeweilige Terminologie erstmalig eingeführt wird. Diese Vorgehensweise gewährleistet eine Erklärung der Begriffsverwendung im spezifischen Kontext des jeweiligen Bezugsrahmens und verdeutlicht die Relevanz des Begriffs für die jeweilige Diskussion.
-Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt. Eine weitergehende Unterscheidung unterschiedlicher Definitionstypen (z.B. Nominal‑ vs. Realdefinition) sowie deren formale Analyse wird, in Anlehnung an die einschlägige Methodikliteratur, nicht vertieft, da sie für die empirische Forschungspraxis nachrangig ist. [@doring_forschungsmethoden_2023, Seite 226-227]
+Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretischem Rahmen und Begriffsnutzung, was zur Stärkung der Verständlichkeit und Kohärenz der Argumentation beiträgt. Eine weitergehende Unterscheidung unterschiedlicher Definitionstypen (z. B. Nominal‑ vs. Realdefinition) sowie deren formale Analyse wird, in Anlehnung an die einschlägige Methodikliteratur, nicht vertieft, da sie für die empirische Forschungspraxis nachrangig ist. [@doring_forschungsmethoden_2023, Seite 226-227]
 
 Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doring_forschungsmethoden_2023, Seite 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
 
@@ -262,13 +262,13 @@ Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten eine
 
 ## Hinweis zum Einsatz generativer Sprachmodelle (LLM) {#sec:hinweis-ki}
 
-In dieser Arbeit wurden generative KI-Systeme (Large-Language-Modelle; im Workflow u.a. als „GPT“ bezeichnet) als kognitive Assistenz in Recherche-, Auswertungs- und Schreibprozessen eingesetzt. Der Einsatz erfolgte methodengeleitet, forschungsfragenorientiert und mit dem Ziel, große Materialmengen (Literaturkorpus, Protokolle, Artefakte) konsistent zu strukturieren, nicht jedoch, um menschliche Urteils- und Verantwortungsfunktionen zu ersetzen. Sofern im Folgenden konkret diese Systeme gemeint sind, wird präzisierend von Large-Language-Modellen (LLM) beziehungsweise generativen Sprachmodellen gesprochen; „KI“ bleibt als Oberbegriff für das weitere Feld bestehen. Die Begriffsverwendung folgt dabei dem Prinzip maximaler Präzision: Es wird jeweils die spezifischste zutreffende Bezeichnung verwendet (z.B. „LLM“), und erst bei Bedarf auf übergeordnete Begriffe (z.B. „KI“) zurückgegangen. Der Einsatz der LLM ist in der Methodologie transparent hergeleitet und als Teil der Reproduzierbarkeitslogik dokumentiert (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3}, \hyperref[sec:SWOT-KI-Methodik]{4.5.1} und \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
+In dieser Arbeit wurden generative KI-Systeme (Large-Language-Modelle; im Workflow u.a. als „GPT“ bezeichnet) als kognitive Assistenz in Recherche-, Auswertungs- und Schreibprozessen eingesetzt. Der Einsatz erfolgte methodengeleitet, forschungsfragenorientiert und mit dem Ziel, große Materialmengen (Literaturkorpus, Protokolle, Artefakte) konsistent zu strukturieren, nicht jedoch, um menschliche Urteils- und Verantwortungsfunktionen zu ersetzen. Sofern im Folgenden konkret diese Systeme gemeint sind, wird präzisierend von Large-Language-Modellen (LLM) beziehungsweise generativen Sprachmodellen gesprochen; „KI“ bleibt als Oberbegriff für das weitere Feld bestehen. Die Begriffsverwendung folgt dabei dem Prinzip maximaler Präzision: Es wird jeweils die spezifischste zutreffende Bezeichnung verwendet (z. B. „LLM“), und erst bei Bedarf auf übergeordnete Begriffe (z. B. „KI“) zurückgegangen. Der Einsatz der LLM ist in der Methodologie transparent hergeleitet und als Teil der Reproduzierbarkeitslogik dokumentiert (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3}, \hyperref[sec:SWOT-KI-Methodik]{4.5.1} und \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
 
 Konkret wurden LLM-basierte Systeme vor allem für
 
 1. strukturierte Zusammenfassungen und Extraktion von Kernaussagen aus Quellen,
 2. die promptbasierte, kategoriengeleitete Vorstrukturierung von Primär- und Sekundäranalysen,
-3. die Konsistenzunterstützung bei qualitativen Codierungen (z.B. beschreibende Auswertung von Eye‑Tracking‑Artefakten) sowie
+3. die Konsistenzunterstützung bei qualitativen Codierungen (z. B. beschreibende Auswertung von Eye‑Tracking‑Artefakten) sowie
 4. textliche Formulierungs- und Redaktionsunterstützung genutzt.
 
 Alle LLM-Outputs wurden als vorläufige Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, bei Bedarf korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt der Workflow der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
