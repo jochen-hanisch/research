@@ -8,7 +8,7 @@ Kapitel 7 bündelt Ergebnisse und Diskussion in verdichteten Aussagen, zieht Kon
 
 Die folgenden Hinweise rahmen diese Schlussverdichtung, in der Theorie, Architektur, Methodologie, Ergebnisse und Diskussion zusammengeführt werden. Die Aussageform bleibt an die Interdependenzlogik und an dokumentierte Evidenzlinien gebunden.
 
-Abschnitt \hyperref[sec:Conclusio-Manifest]{7.1} bündelt die zentralen Einsichten in thesenhafter Verdichtung und führt einen Ausblick auf Forschung und Praxis.
+Abschnitt~\hyperref[sec:Conclusio-Manifest]{7.1} bündelt die zentralen Einsichten in thesenhafter Verdichtung und führt einen Ausblick auf Forschung und Praxis.
 
 ## 7.1 Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
