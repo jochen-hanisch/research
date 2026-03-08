@@ -97,6 +97,8 @@ Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturents
 
 Kapitel 2 ist nicht als historische oder systematische Übersicht von Lehrparadigmen angelegt, sondern als theorieanalytische Rekonstruktion ihrer *impliziten Wirkannahmen* mit Blick auf die architekturwirksamen Konsequenzen im Learning Management System (LMS). Im Zentrum steht die Frage, welche Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung jeweils vorausgesetzt werden und wie sie sich in Strukturentscheidungen wie Sequenzierung, Rückmeldung, Rollenlogiken, Sichtbarkeit und Evaluation niederschlagen. Die folgenden Abschnitte (2.1–2.5) dienen damit zugleich der begrifflichen Klärung und der Parametrisierung jenes Zusammenhangs, der später modelliert und im konkreten System rekonstruiert wird.
 
+#todo (Fahrplan) Titelachse „Merkmale, Effekte, Mechanismen, Reaktionen“ in Kapitel 2 expliziter sichtbar machen; prüfen, ob die vier Begriffe bereits hier als orientierende Analyseperspektiven eingeführt werden sollen.
+
 Als bildungswissenschaftliche Referenzrahmung führt der Theorieteil die systemisch-konstruktivistischen Linien von Siebert, Reich und Arnold über gemeinsame Leitgedanken zusammen: Lernen erscheint hier als selbsttätige Konstruktion, als kontextgebundener Prozess und als Geschehen, das sich nur begrenzt direkt steuern lässt. Diese Verdichtung bildet im frühen Theorieteil den Hintergrund für die psychologischen Trägervariablen und wird in Abschnitt 2.2 bildungswissenschaftlich weiter entfaltet. [@siebert_padagogischer_2003; @reich_konstruktivistische_2006; @arnold_systemische_2010; @arnold_systemische_2015]
 
 In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel ist es, jene zentralen Begriffe und Konzepte zu klären, auf denen die spätere Modellierung und empirische Untersuchung aufbauen. Der Theorieteil gliedert sich in fünf Abschnitte, die unterschiedliche Perspektiven auf das digitale Bildungswirkgefüge eröffnen und zugleich aufeinander bezogen sind. Grundlage ist dabei die Unterscheidung zwischen Begriff, Phänomen und Konstrukt.
@@ -120,6 +122,8 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} bündelt schließlich die vorangegangenen Ebenen in einem Modell der systemischen Dynamik des digitalen Bildungswirkgefüges. Das Modell übersetzt psychologische Trägervariablen, bildungswissenschaftliche Wirkgefüge und medienpädagogische Gestaltungslogiken in Variablen, Kopplungen und Rückkopplungen und ermöglicht so eine dynamische Analyse der Wechselwirkungen zwischen Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS‑Architektur. Der abschließende Modellteil bildet den theoretischen Übergang zu \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, in dem das Modell im konkreten Setting eines Ausbildungs‑LMS rekonstruiert und empirisch anschlussfähig gemacht wird.
 
 Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig operationalisiert.
+
+#todo (Fahrplan) Kontext „Lehre in Gesundheitsberufen“ im Theorieteil an 1-2 Stellen gezielt rückbinden, damit der Anwendungsraum nicht erst in Kapitel 3 sichtbar wird.
 
 ## Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
@@ -267,11 +271,15 @@ Dabei bleiben Dispositionen schwer objektivierbar. In digitalen Umgebungen werde
 
 Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Dispositionen als Wahrscheinlichkeitsbedingungen modelliert und diese an konkrete Gestaltungs‑ und Unterstützungsangebote gekoppelt werden. @niegemann_motivationsdesign_2020 markiert motivierende Gestaltung als Bündel aus Aufmerksamkeit, Relevanz, Erfolgszuversicht und Zufriedenheit. Damit ist dispositionale Varianz systematisch adressiert und im Modell als relevante Streuung geführt. Selbstorganisiertes Lernen kann dabei durch internetbasierte multimediale Bildungstechnologien unterstützt werden, wenn die Lernwelt an Vorerfahrungen und Bedürfnisse anschließt. [@hugger_selbstorganisiertes_2010, Seite 245; @niegemann_motivationsdesign_2020, Seite 393]
 
+#todo (Fahrplan) Kompetenz im frühen Theorieteil stärker als eigener Wirkfaktor ausarbeiten; prüfen, ob dazu vor 2.1.5 ein eigener Unterabschnitt sinnvoll ist oder ob Kompetenz hier systematisch mitgeführt werden soll.
+
 ### 2.1.6 Zwischenfazit {#sec:Zwischenfazit-21}
 
 Abschnitt 2.1 hat jene subjektbezogenen Trägervariablen bestimmt, über die das spätere Modell beschrieben wird: Bedürfnisse markieren Passungs- und Unterstützungsbedingungen, Emotionen regulieren Aufmerksamkeit und Belastung, Neugier beschreibt die Balance von Exploration und Orientierung, persönliche Ereignisse fungieren als variable Kontextimpulse, und dispositionale Merkmale erklären unterschiedliche Anschlusswahrscheinlichkeiten. Zusammengenommen begründen diese Bausteine, das LMS als Strukturangebot mit spezifischen Wechsel- und Rückwirkungen zu fassen.
 
 In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} gehen damit vor allem Variablenlogiken, Annahmen über Wechselwirkungen und Sensitivitäten gegenüber Kontextwechseln ein. Für Kapitel 4 bleiben insbesondere jene Linien wichtig, die sich empirisch an Aufgabenstruktur, Feedback, Sichtbarkeit, Unterstützungsarchitektur und biografisch variierenden Nutzungsverläufen rekonstruieren lassen. Das Zwischenfazit von Abschnitt 2.1 benennt damit die Bedingungen, unter denen digitale Lernarchitekturen fördernde oder hemmende Wirkpfade eröffnen.
+
+#todo (Fahrplan) Forschungsfragen-Bezug prüfen: FU2/FU4/FU6 im Zwischenfazit oder in kurzen Übergangssätzen sichtbarer an die theoretischen Bausteine von 2.1 rückbinden.
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 \label{term:bildungswiss-verortung}
