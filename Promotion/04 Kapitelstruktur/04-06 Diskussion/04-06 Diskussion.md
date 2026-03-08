@@ -83,6 +83,7 @@ Eine zentrale Anschlussstelle an die pädagogisch‑psychologische Ebene bildet 
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Dargestellt sind Roh‑ und normierte Differenzen sowie ein geglätteter Trend. Die Kurven markieren Phasen, in denen sich Neugier und Motivation im Modell stärker koppeln oder auseinanderlaufen.}
 
 **Grundarchitektur der Wirkdimensionen (Startpunkt für die Interdependenz)**  
+#todo (#115) Interdependenzblock in 6.3.1 als wissenschaftlichen Fließtext verdichten: nummerierte Metaabschnitte in argumentativ geführte Prosa überführen, systemtheoretische Verortung und epistemische Funktion klar herausarbeiten.
 Die Interdependenz-Thesen bauen auf wiederkehrenden Wirkdimensionen, die in den Kapiteln \hyperref[sec:Theorieteil]{2}–\hyperref[sec:Ergebnisse]{5} empirisch und theoretisch belegt sind: Sichtbarkeit/Transparenz, Strukturierung/Entlastung, Rückkopplung/Feedback, Steuerung/Agency, Lernort-Kohärenz/Transfer, Zeit/Verfügbarkeit, Interaktion/Kollaboration, Salienz vs. Funktion, Expertise-Adaptivität, Reflexivität/Evaluation, Kompetenzarena/Handlungsfähigkeit, Vertrauensbildung/Sichtbarkeit. Diese Dimensionen sind die Basiselemente, aus denen positive und negative Wirkungswahrscheinlichkeiten abgeleitet und verschränkt werden.
 
 1. **Was Interdependenz systemtheoretisch bedeutet**  
@@ -105,6 +106,7 @@ Vorschlag für die nächsten Schritte:
 Weiterführung (\hyperref[sec:Conclusio]{Kap. 7}): siehe Issue #9 (Interdependenz-Thesen ausformulieren).
 Das Grundgerüst der Wirkdimensionen (10–12) ist in \hyperref[sec:Conclusio-Manifest]{Kapitel 7.1} als Thesen des interdependenten Wirkgefüges ausgearbeitet und bildet die manifestartige Schlussverdichtung.
 
+#todo (#116) Manifest-Gerüst in 6.3.1 bereinigen und sauber an Kapitel 7 rückbinden: Arbeitsblock, Spiegelhinweise, Titelvorschläge und Meta-Kommentare entfernen; nur eine knappe, gutachtentaugliche Rückbindung stehen lassen.
 **Arbeitsblock (#13): Manifest-Gerüst – Wirkdimensionen (12) inkl. (+/–/Kopplung)** *(Stand: 28.02.2026)*
 
 1. **Sichtbarkeit/Transparenz**  
