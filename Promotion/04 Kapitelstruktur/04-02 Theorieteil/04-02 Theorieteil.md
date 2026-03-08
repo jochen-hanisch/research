@@ -109,6 +109,8 @@ Für die Einordnung und Abgrenzung der Leitbegriffe werden neben Forschungsbeitr
 
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt psychologische Funktionslogiken, bildungswissenschaftliche Grundlagen, medienpädagogische Rahmungen sowie das eigens entwickelte Modell des digitalen Bildungswirkgefüges\label{term:digitales-bildungswirkgefuge}. Statt eines traditionellen Lehrbuchüberblicks rückt er jene theoretischen Grundannahmen in den Vordergrund, die für die Analyse des untersuchten Learning Management Systems (LMS) maßgeblich sind. Im Mittelpunkt stehen die Definitionen von Bildung\label{term:bildung}, Digitalität\label{term:digitalitaet} und Kompetenzentwicklung\label{term:kompetenzentwicklung} im systemisch-konstruktivistischen Rahmen; sie werden so gefasst, dass sie subjektive Prozesse ebenso erfassen wie strukturelle und technische Dimensionen des digitalen Bildungsraums.
 
+Die Kapitelbewegung folgt dabei einer durchgehenden Analyseachse: Rekonstruiert werden die Merkmale des LMS, die beobachtbaren Effekte im Lern- und Lehrhandeln, die zugrunde liegenden Mechanismen sowie die Reaktionen der beteiligten Akteurinnen und Akteure. Diese Perspektive gibt Kapitel 2 seine innere Ordnung und verbindet die begriffliche Arbeit des Theorieteils mit den späteren Forschungsunterfragen.
+
 \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.1} setzt beim psychischen System an. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen bestimmt, die die Handlungsperspektive der Lernenden prägen. Diese Ebene beschreibt, wie Lernprozesse auf individueller Seite entstehen, reguliert werden und wie digitale Lernarchitekturen sie unterstützen oder behindern können. So wird verständlich, weshalb das LMS in dieser Arbeit nicht als direkt „eingreifende“ Instanz, sondern als Strukturangebot gefasst wird, das Irritations‑ und Orientierungsbedingungen bereitstellt und damit Handlungsmöglichkeiten unter konkreten Kontextbedingungen verschiebt.
 
 \hyperref[sec:Bildungswiss-Verortung]{Abschnitt 2.2} rahmt diese subjektbezogenen Mechanismen bildungswissenschaftlich. Im Fokus stehen systemisch‑konstruktivistische Bildungsansätze, die Lernen als selbstreferenziellen, kontextgebundenen Konstruktionsprozess verstehen und Bildungsräume als Wirkgefüge von Akteuren, Inhalten und Strukturen beschreiben. Die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung werden dabei als sozio‑technisches Wirkgefüge\label{term:sozio-technisches-wirkgefuge} gefasst. Auf dieser Ebene wird begründet, wie sich individuelle Trägervariablen in bildungswissenschaftliche Kategorien übersetzen lassen und warum das LMS als Teil eines Bildungsraums zu analysieren ist, wobei die Werkzeugperspektive als Teilaspekt mitgeführt wird.
@@ -120,8 +122,6 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} bündelt schließlich die vorangegangenen Ebenen in einem Modell der systemischen Dynamik des digitalen Bildungswirkgefüges. Das Modell übersetzt psychologische Trägervariablen, bildungswissenschaftliche Wirkgefüge und medienpädagogische Gestaltungslogiken in Variablen, Kopplungen und Rückkopplungen und ermöglicht so eine dynamische Analyse der Wechselwirkungen zwischen Bedürfnissen, Emotionen, Kompetenzentwicklung und LMS‑Architektur. Der abschließende Modellteil bildet den theoretischen Übergang zu \hyperref[sec:Forschungsgegenstand]{Kapitel 3}, in dem das Modell im konkreten Setting eines Ausbildungs‑LMS rekonstruiert und empirisch anschlussfähig gemacht wird.
 
 Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig operationalisiert.
-
-#todo (Fahrplan; mitbearbeiten unter #112) Titelachse „Merkmale, Effekte, Mechanismen, Reaktionen“ in Kapitel 2 expliziter sichtbar machen; prüfen, ob die vier Begriffe bereits in der Einleitung als orientierende Analyseperspektiven eingeführt werden sollen.
 
 ## Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
@@ -265,118 +265,52 @@ Eine zentrale dispositionale Dimension ist dabei Selbstwirksamkeit, weil sie als
 
 Ausgangspunkt ist, dass Dispositionen als Filter wirken. Vorerfahrung, Selbstkonzept und digitale Kompetenz bestimmen, welche Anforderungen als bearbeitbar erscheinen und welche Angebote als anschlussfähig wahrgenommen werden. Selbstwirksamkeit ist dafür ein prägnanter Mechanismus, weil sie als Überzeugung der eigenen Handlungsfähigkeit Bereitschaft und Ausdauer im Lernhandeln mitprägt. [@huber_sozialisation_2023, Seite 565; @artino_jr_academic_2012, Seite 76]
 
+Kompetenz wird in dieser Arbeit deshalb nicht nur als späteres Ergebnis von Lernprozessen geführt, sondern bereits im frühen Theorieteil als mitlaufende Leitgröße. Gemeint ist keine abstrakte Eigenschaft, sondern eine in Handlung aktualisierbare Disposition, die sich erst im Verhältnis von Person, Aufgabe und Kontext zeigt. Für digitale Lernräume ist das besonders wichtig, weil Vorerfahrung, Selbststeuerung und digitale Routinen darüber mitentscheiden, ob ein Angebot lediglich verfügbar ist oder tatsächlich in fachlich tragfähiges Handeln übergeht. [@wirtz_kompetenz_2020; @arnold_systemische_2015]
+
 Dabei bleiben Dispositionen schwer objektivierbar. In digitalen Umgebungen werden sie oft nur indirekt über Verhalten oder Selbstauskunft erschlossen. Unsicherheit und Überforderung können dabei als individuelles Defizit gelesen werden, obwohl sie aus Passungsproblemen zwischen Anforderungen und Ressourcen entstehen. Für die Gestaltung ist zusätzlich relevant, dass Motivation Richtung, Ausdauer und Intensität von Handlungen prägt und damit unter digitalen Bedingungen als variable Voraussetzung ernst genommen werden muss. [@harwardt_lernen_2020, Seite 184; @niegemann_motivationsdesign_2020, Seite 393]
 
 Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Dispositionen als Wahrscheinlichkeitsbedingungen modelliert und diese an konkrete Gestaltungs‑ und Unterstützungsangebote gekoppelt werden. @niegemann_motivationsdesign_2020 markiert motivierende Gestaltung als Bündel aus Aufmerksamkeit, Relevanz, Erfolgszuversicht und Zufriedenheit. Damit ist dispositionale Varianz systematisch adressiert und im Modell als relevante Streuung geführt. Selbstorganisiertes Lernen kann dabei durch internetbasierte multimediale Bildungstechnologien unterstützt werden, wenn die Lernwelt an Vorerfahrungen und Bedürfnisse anschließt. [@hugger_selbstorganisiertes_2010, Seite 245; @niegemann_motivationsdesign_2020, Seite 393]
-
-#todo (Fahrplan; mitbearbeiten unter #112) Kompetenz im frühen Theorieteil stärker als eigener Wirkfaktor ausarbeiten; prüfen, ob dazu vor 2.1.5 ein eigener Unterabschnitt sinnvoll ist oder ob Kompetenz hier systematisch mitgeführt werden soll.
 
 ### 2.1.6 Zwischenfazit {#sec:Zwischenfazit-21}
 
 Abschnitt 2.1 hat jene subjektbezogenen Trägervariablen bestimmt, über die das spätere Modell beschrieben wird: Bedürfnisse markieren Passungs- und Unterstützungsbedingungen, Emotionen regulieren Aufmerksamkeit und Belastung, Neugier beschreibt die Balance von Exploration und Orientierung, persönliche Ereignisse fungieren als variable Kontextimpulse, und dispositionale Merkmale erklären unterschiedliche Anschlusswahrscheinlichkeiten. Zusammengenommen begründen diese Bausteine, das LMS als Strukturangebot mit spezifischen Wechsel- und Rückwirkungen zu fassen.
 
-In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} gehen damit vor allem Variablenlogiken, Annahmen über Wechselwirkungen und Sensitivitäten gegenüber Kontextwechseln ein. Für Kapitel 4 bleiben insbesondere jene Linien wichtig, die sich empirisch an Aufgabenstruktur, Feedback, Sichtbarkeit, Unterstützungsarchitektur und biografisch variierenden Nutzungsverläufen rekonstruieren lassen. Das Zwischenfazit von Abschnitt 2.1 benennt damit die Bedingungen, unter denen digitale Lernarchitekturen fördernde oder hemmende Wirkpfade eröffnen.
-
-#todo (Fahrplan; mitbearbeiten unter #112) Forschungsfragen-Bezug prüfen: FU2/FU4/FU6 im Zwischenfazit oder in kurzen Übergangssätzen sichtbarer an die theoretischen Bausteine von 2.1 rückbinden.
+In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} gehen damit vor allem Variablenlogiken, Annahmen über Wechselwirkungen und Sensitivitäten gegenüber Kontextwechseln ein. Für Kapitel 4 bleiben insbesondere jene Linien wichtig, die sich empirisch an Aufgabenstruktur, Feedback, Sichtbarkeit, Unterstützungsarchitektur und biografisch variierenden Nutzungsverläufen rekonstruieren lassen. Damit berührt Abschnitt 2.1 bereits drei spätere Forschungsrichtungen der Arbeit: FU$_{2}$ fragt nach den Effekten dieser Bedingungen auf Lernende und Lehrende, FU$_{4}$ nach den Mechanismen, über die Strukturangebote in Handlung übersetzt werden, und FU$_{6}$ nach der Frage, unter welchen Voraussetzungen daraus belastbare Kompetenzentwicklung hervorgehen kann. Das Zwischenfazit von Abschnitt 2.1 benennt damit die Bedingungen, unter denen digitale Lernarchitekturen fördernde oder hemmende Wirkpfade eröffnen.
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 \label{term:bildungswiss-verortung}
 
-#todo (Fahrplan; mitbearbeiten unter #112) Kontext „Lehre in Gesundheitsberufen“ im Theorieteil an 1-2 Stellen gezielt rückbinden, idealerweise an der Brücke von 2.2/2.3 zum Forschungsgegenstand, damit der Anwendungsraum nicht erst in Kapitel 3 sichtbar wird.
+Abschnitt 2.2 verschiebt die Perspektive von den subjektbezogenen Voraussetzungen des Lernhandelns auf die bildungswissenschaftliche Rahmung des digitalen Bildungsraums. Die Arbeit verortet sich dabei in einer systemisch-konstruktivistischen Perspektive, die Lernen als eigenlogischen, kontextgebundenen Konstruktionsprozess versteht, und verbindet diese mit einer bildungstechnologischen Fragestellung, die digitale Infrastrukturen als gestaltete, aber nur begrenzt steuerbare Bestandteile pädagogischer Settings untersucht. Bildungswissenschaft ist dafür nicht bloß Hintergrundfolie, sondern der Ort, an dem Begriffe, Geltungsansprüche und Praxisbezüge so geklärt werden, dass die spätere Modellierung tragfähig wird. [@huber_einfuhrung_2023; @huber_wissenschaftstheorie_2023]
 
-#todo (#112, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
+Für den Gegenstand dieser Dissertation ist diese Verortung auch deshalb nötig, weil ein LMS in der Lehre der Gesundheitsberufe nicht nur Lernmaterial organisiert. Es strukturiert Sichtbarkeit, Rückmeldung, Koordination und professionelle Anschlussmöglichkeiten in einem Feld, das zugleich durch hohe Verantwortungsdichte, digitale Transformationsdynamik und wachsende Kompetenzanforderungen geprägt ist. Gerade dort reicht es nicht aus, Technik als neutrales Werkzeug oder Kompetenz als bloßen Output zu behandeln. [@stiftung_munch_neue_2020]
 
----
-
-CAVE: Größere Kapitelumbaumaßnahmen in 2.2 zur Schärfung
-
-1.	Sie verhindert Theorielisten.
-2.	Sie erzeugt eine klare Hierarchie.
-3.	Sie bindet alle Paradigmen an deine Leitfrage.
-4.	Sie stabilisiert die Argumentationsstetigkeit.
-5.	Sie macht 2.2 zu einer logischen Infrastruktur.
-
-Abschnitt 2.2 rahmt diese subjektbezogene Ebene bildungswissenschaftlich, indem zentrale Begriffe, Wirkannahmen und Steuerungssemantiken expliziert werden. Die systemisch-konstruktivistische Referenz dient als epistemischer Anker, vor dem alternative Lehrparadigmen als unterschiedliche Annahmestrukturen rekonstruiert und in modellierbare Parameter überführt werden.
-
----
-
-Die bildungswissenschaftliche Verortung führt zentrale Grundannahmen, Grundbegriffe und Diskurse zusammen, die für Analyse des digitalen Bildungswirkgefüges leitend sind. Bildungswissenschaft wird dabei als Feld verstanden, das Begriffsarbeit, Theorienbildung und Diskursarbeit in enger Kopplung an institutionelle Praxis führt und damit Voraussetzungen für Modellierung und empirische Anschlussfähigkeit bereitstellt. [@huber_einfuhrung_2023, Seite 1]
-Wissenschaftstheorie rahmt diese Arbeit als Reflexion über Möglichkeiten und Grenzen wissenschaftlicher Erkenntnisgewinnung sowie als Prüfung von Begriffs und Theorienbildung, Methoden und Kriterien von Erkenntnisfortschritt. [@huber_wissenschaftstheorie_2023, Seite 685]
-Im Hintergrund steht Theorie Praxis Problem, das aus Wissensformen, Können und Legitimation akademischer Ausbildung hervorgeht und damit Verhältnis von Disziplin und Profession sowie Verhältnis von Begründung und Handeln in pädagogischen Feldern strukturiert. [@huber_theorie-praxis-problem_2023, Seite 621]
-
-### 2.2.1 Einleitung und Übersicht zur Theorie {#sec:Einleitung-Theorie}
+### 2.2.1 Bildung, Digitalität und Kompetenz als Leitbegriffe {#sec:Einleitung-Theorie}
 
 \label{term:einleitung-theorie}
 
-Als Leitfragen
+Die Leitbegriffe dieses Abschnitts sind Bildung, Digitalität und Kompetenz. Sie werden in dieser Arbeit nicht additiv nebeneinandergestellt, sondern als zusammenhängende Bestimmungen eines digitalen Bildungsraums gelesen. Bildung markiert den normativen und theoretischen Horizont, Digitalität beschreibt die veränderte kulturelle und infrastrukturelle Form dieses Raums, und Kompetenz benennt jene handlungsbezogene Leitgröße, an der sich die Qualität der Kopplung zwischen Subjekt, Aufgabe, sozialer Situation und technischer Umgebung prüfen lässt.
 
-- Wie lassen sich Bildung, Digitalität und Kompetenz im Kontext dieser Arbeit definieren?
-- Welche Konsequenzen ergeben sich daraus für eine grundlagenorientierte Bildungsforschung, die ohne repräsentative Stichproben, aber mit hoher theoretischer Genauigkeit argumentiert?
+Bildung ist dafür der weiteste Begriff. Er bezeichnet in bildungswissenschaftlicher Perspektive nicht einfach Wissenszuwachs oder Qualifikation, sondern ein Verhältnis von Mensch und Welt, in dem Selbst- und Weltbezüge erweitert, irritiert und neu geordnet werden. Gerade weil der Bildungsbegriff schillernd und normativ aufgeladen ist, eignet er sich hier nur dann als Leitbegriff, wenn er nicht rhetorisch verwendet, sondern auf die Frage zurückgebunden wird, welche Formen von Auseinandersetzung, Teilhabe, Reflexion und Handlungsfähigkeit ein Lernarrangement eröffnet oder blockiert. [@huber_bildung_2023]
 
-Der Abschnitt führt in die zentralen Begriffe ein und skizziert die Argumentationsstruktur der nachfolgenden Unterkapitel.
+Digitalität bezeichnet in diesem Zusammenhang mehr als die technische Digitalisierung einzelner Medien oder Abläufe. Der Begriff verweist auf eine lebensweltliche Konstellation, in der Wahrnehmung, Kommunikation, Wissensordnung und Teilhabe dauerhaft unter digitalen Bedingungen organisiert sind. Für Bildungsprozesse heißt das, dass digitale Medien nicht nur zusätzliche Werkzeuge bereitstellen, sondern den Bildungsraum selbst verändern: Zugänge werden neu verteilt, Sichtbarkeit wird anders hergestellt, Interaktionen werden anders gerahmt, und Fragen von Teilhabe, Macht und Orientierung treten in neuer Form hervor. [@hauck-thum_was_2021; @wilmers_bildung_2023]
 
-Bildung wird als zentraler und zugleich schillernder Begriff sichtbar, der in Alltags und Wissenschaftsdiskursen in vielfältigen Bedeutungen geführt wird und in erziehungswissenschaftlicher Perspektive Wechselwirkungen zwischen Mensch und Welt thematisiert. [@huber_bildung_2023, Seite 59]
-Pädagogik wird als disziplinärer Bezugspunkt markiert, der Begriffsgeschichte und institutionelle Praxis gleichermaßen berührt und damit Leitvokabular für Deutung von Lernen, Erziehen und Bilden bereitstellt. [@huber_padagogik_2023, Seite 401]
+Kompetenz wird in dieser Arbeit weder als modisches Schlagwort noch als bloße Messgröße verwendet. Gemeint ist eine kontextgebundene Handlungsdisposition, die sich erst in der Bearbeitung realer Anforderungen zeigt. Kompetenz ist damit enger an Vollzug und Situation gebunden als abstrakte Fähigkeit; zugleich bleibt sie auf Lern- und Bildungsprozesse bezogen, weil sie nicht nur vorhandene Routinen abbildet, sondern die Möglichkeit eröffnet, Anforderungen reflektiert, fachlich begründet und verantwortungsvoll zu bearbeiten. Für den Anwendungsraum der Gesundheitsberufe ist diese Bestimmung besonders relevant, weil digitale Transformation dort nicht automatisch berufsfeldbezogene Handlungskompetenz erzeugt. Zwischen alltäglicher Digitalnutzung und professioneller Arbeit mit Daten, Koordination, Dokumentation und Verantwortung besteht eine Differenz, die in Ausbildung und Weiterbildung eigens bearbeitet werden muss. [@wirtz_kompetenz_2020; @stiftung_munch_neue_2020]
 
-Didaktik wird als wissenschaftlicher Terminus mit unterschiedlichen Bestimmungen geführt und als Theorie und Wissenschaft von Lehren und Lernen, Unterricht und Bildungsinhalten sowie Steuerung von Lernprozessen diskursiv ausdifferenziert. [@huber_didaktik_2023, Seite 107]
-Menschenbilder werden als bewusste oder unbewusste Vorstellungen gefasst, die Wahrnehmung, Bewertung und Handeln gegenüber Lernenden strukturieren und damit in didaktischen und institutionellen Entscheidungen wirksam werden. [@huber_menschenbilder_2023, Seite 369]
+Für die Dissertation erfüllen die drei Begriffe daher unterschiedliche, aber ineinandergreifende Funktionen. Bildung begründet den normativen Maßstab, an dem digitale Lernräume nicht nur nach Effizienz, sondern nach ihrem Beitrag zu Reflexion, Teilhabe und professioneller Handlungsfähigkeit befragt werden. Digitalität markiert die Bedingungen, unter denen diese Bildungsprozesse heute stattfinden. Kompetenz fungiert als systematisch mitgeführte Leitgröße, an der sich zeigen lässt, ob die Kopplung von pädagogischer Gestaltung, technischer Infrastruktur und subjektiven Voraussetzungen tatsächlich in tragfähige Lern- und Entwicklungsverläufe übergeht. Damit ist zugleich die Brücke zu den Forschungsunterfragen gelegt: FU$_{2}$ richtet sich auf Effekte im Erleben und Handeln, FU$_{4}$ auf die zugrunde liegenden Mechanismen, und FU$_{6}$ auf die Frage, wie ein LMS als Kompetenzerwerbssystem theoretisch plausibilisiert werden kann.
 
 ### 2.2.2 Systemisch-konstruktivistische Theorie {#sec:Systemisch-konstruktivistische-Theorie}
 
 \label{term:systemisch-konstruktivistische-theorie}
 
----
+Die systemisch-konstruktivistische Position bildet den epistemischen Kern dieser Arbeit. Sie geht davon aus, dass Lernen nicht als lineare Übertragung von Wissen verstanden werden kann, sondern als eigenständige Konstruktion von Wirklichkeit im Vollzug von Erfahrung, Deutung und sozialer Einbettung. Für die Dissertation ist diese Annahme zentral, weil sie den Blick von der bloßen Bereitstellung digitaler Angebote auf die Bedingungen verschiebt, unter denen Lernende daraus überhaupt anschlussfähige Handlungen, Deutungen und Kompetenzen entwickeln. [@siebert_padagogischer_2003; @reich_konstruktivistische_2006]
 
-Funktion: Epistemische Grundlage des Kapitels.
+Siebert, Reich und Arnold sind hierfür die tragenden Referenzen, nicht als Autorentrias aus Traditionsgründen, sondern weil sich an ihren Arbeiten die innere Logik des hier gewählten Zugriffs bündelt. Bei Siebert steht die Einsicht im Vordergrund, dass Lernen immer schon Wirklichkeitskonstruktion ist und deshalb weder vollständig planbar noch unabhängig von Biografie, Sprache und Erfahrung zu denken ist. Reich schärft diese Perspektive didaktisch, indem er Konstruktivität, Mehrperspektivität und die Relation von Konstruktion, Rekonstruktion und Dekonstruktion als Bedingungen pädagogischer Arbeit entfaltet. Arnold führt diese Linie in Richtung professioneller Lernbegleitung weiter und macht deutlich, dass Kompetenzentwicklung über Passungsverhältnisse zwischen Person, Aufgabe, Beziehung und Kontext verläuft. [@siebert_padagogischer_2003; @reich_konstruktivistische_2006; @arnold_systemische_2015]
 
-Inhaltlich:
-	•	Lernen als selbstreferenzieller Konstruktionsprozess
-	•	Operative Geschlossenheit und strukturelle Kopplung
-	•	Irritation als Auslöser von Reorganisation
-	•	Anschlussfähigkeit statt Steuerbarkeit
-	•	Bildung als emergente Struktur
-	•	Technologiedefizit als Begrenzung direkter Kausalsteuerung
+Aus dieser Perspektive wird Bildung als Prozess verstehbar, der auf Irritation, Selbsttätigkeit und Reflexion angewiesen ist. Lehrende, Curricula und digitale Systeme können solche Prozesse anregen, rahmen und stabilisieren; sie können sie aber nicht im Sinne eines technischen Kausalplans herstellen. Genau hier liegt der bildungstechnologische Zugriff dieser Arbeit: Technik wird ernst genommen, weil sie Lernräume formt, Handlungsoptionen verteilt und Rückkopplungen organisiert. Sie wird jedoch nicht als Garant von Wirkung behandelt, sondern als Teil eines soziotechnischen Arrangements, dessen Folgen immer von subjektiven und sozialen Anschlussbedingungen abhängen. [@dittler_technologiedefizite_2009; @huber_didaktik_2023]
 
-Abschluss dieses Abschnitts:
+Diese Rahmung ist auch für den Gegenstand der Gesundheitsberufe anschlussfähig. In digitalisierten Ausbildungs- und Weiterbildungskontexten geht es nicht nur darum, Inhalte effizient zu verbreiten, sondern darum, professionelles Urteilen, kooperative Abstimmung, verantwortlichen Umgang mit Daten und belastbare Handlungssicherheit unter komplexen Bedingungen zu fördern. Ein LMS wird damit zu einem Bildungsraum, in dem sich fachliche Anforderungen, organisationale Vorgaben, technische Sichtbarkeiten und subjektive Lernvoraussetzungen überlagern. [@stiftung_munch_neue_2020]
 
-Andere Lehrparadigmen werden im Folgenden nicht historisch referiert, sondern im Vergleich zu dieser Referenzrahmung als alternative Wirkannahmen rekonstruiert.
-
----
-
-Dieser Abschnitt beschreibt, wie Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit des Lernsystems die Gestaltung von Bildungsräumen prägen. Die verschiedenen Lehr-Lern-Ansätze (instruktional bis systemisch) werden als historische Entwicklungsstufen diskutiert und mit dem hier genutzten Wirkgefügebegriff in Beziehung gesetzt.
-Die begriffliche Klärung von Lernen wird dabei als pädagogische Deutungskategorie geführt, die im Verhältnis zu psychologischen und alltagssprachlichen Verwendungen zu bestimmen ist. [@benner_lernen_2004, Seite 621, „Zum pädagogischen Gegenstand wird Lernen erst im Kontext kultureller Deutungen und organisatorischer Instrumentierungen“]
-
-Lernen wird als konstitutiv für Menschsein gefasst und als Prozess beschrieben, der lebenslaufbezogen in vielfältigen Kontexten stattfindet und in Bildungsinstitutionen besondere Formen der Rahmung erhält. [@huber_lernen_2023, Seite 345]
-Bildsamkeit adressiert Voraussetzungen von Erziehbarkeit und Bildungsfähigkeit und markiert damit Grundannahmen über Veränderbarkeit von Subjekt, Lernen und Entwicklung, die im Hintergrund systemischer und konstruktivistischer Perspektiven mitgeführt werden. [@huber_bildsamkeit_2023, Seite 51]
-
-Humanismus wird als ideengeschichtliche Strömung und Wertebegriff geführt und liefert Deutungsrahmen für Bildung, Subjekt und Verantwortung, der in bildungswissenschaftlichen Diskussionen als Referenzpunkt wiederkehrt. [@huber_humanismus_2023, Seite 257]
-Kritische Bildungswissenschaft und Kritische Theorie liefern Analyseperspektiven auf Macht, Gesellschaft und Institution, die Erwartungen an Bildung, Schule und digitale Lernarchitekturen als gesellschaftliche Ordnungen lesbar machen. [@huber_kritische_2023-1, Seite 297; @huber_kritische_2023, Seite 305]
-
-Subjektivierung adressiert Prozesse von Subjektwerdung in institutionellen und diskursiven Kontexten und unterstützt Analyse von Rollen, Normen und Erwartungen, die in Lernumgebungen durch Architektur, Kommunikation und Bewertung hervorgebracht werden. [@huber_subjektivierung_2023, Seite 605]
-
-Phänomenologische Pädagogik ergänzt diese Perspektive über Konzepte und Methoden phänomenologischer Philosophie, die Erfahrung, Leiblichkeit und Sinn als Zugänge zu Bildungsprozessen betonen. [@huber_phanomenologische_2023, Seite 443]
-
-Transformatorische Bildungstheorie rahmt Bildung als Prozess tiefgreifender Veränderung von Welt und Selbstverhältnissen und liefert damit Begriffswerkzeuge für Übergänge, Irritationen und Neuorientierungen im Lernverlauf. [@huber_transformatorische_2023, Seite 629]
-Pragmatismus und Praxistheorien stützen Blick auf Handeln, Erfahrung und Praktiken und ermöglichen Analyse von Lernen als Vollzug in situativen Kontexten, Routinen und materialen Arrangements. [@huber_pragmatismus_2023, Seite 451; @huber_praxistheorien_2023, Seite 459]
-
-Reflexivität bezeichnet Haltung und Bereitschaft zum Reflektieren und stellt Verknüpfung zwischen Erfahrung, Deutung und Handeln her, die für theoretische Arbeit und für Professionalisierung als dauerhaftes Moment relevant bleibt. [@huber_reflexivitat_2023, Seite 485]
-
-Die systemisch-konstruktivistische Rahmung dieses Abschnitts stützt sich auf drei zentrale Beiträge: Siebert, Reich und Arnold. Ihre Konzepte lassen sich entlang der Kategorien Kerngedanke, Argumentation, Schlussfolgerung und Weiterführung ordnen:
-
-- **Kerngedanke**: Alle drei Autoren verstehen Bildung als subjektzentrierten Prozess, der auf Selbsttätigkeit, Erfahrung und Kontextualisierung angewiesen ist. Siebert (2003) betont die dialogische Selbstaneignung von Welt, Reich (2006) fokussiert auf Mehrperspektivität und radikale Konstruktivität, Arnold (2010, 2015) entwickelt daraus eine systemisch strukturierte Kompetenzorientierung.
-- **Argumentation**: Siebert führt Bildung als reflexive Selbstverhältnisklärung ein, Reich integriert Erkenntnistheorie in die Didaktik, Arnold modelliert Kompetenzentwicklung über Passungsverhältnisse zwischen Person, Aufgabe und Kontext.
-- **Schlussfolgerung**: Bildung wird als emergente Struktur interpretiert. Lernen vollzieht sich in situativen Kontexten, ist von Emotion und Beziehung durchzogen und kann didaktisch nur indirekt stimuliert werden.
-- **Weiterführung**: Die Beiträge legen den theoretischen Grund für das Wirkgefüge-Modell in \hyperref[sec:SystemischeDynamik]{Abschnitt~\ref{sec:SystemischeDynamik}}. Die Idee der strukturellen Kopplung (Reich), der biografisch geprägten Passung (Arnold) und der dialogischen Selbstaneignung (Siebert) bilden drei Trägerelemente des Modells.
-
-[@siebert_padagogischer_2003; @reich_konstruktivistische_2006; @arnold_systemische_2010; @arnold_systemische_2015]
-
-Die systemisch-konstruktivistische Theorie ermöglicht eine präzise begriffliche Modellierung von Bildungsprozessen im digitalen Raum. Selbstreferenz, Kontextgebundenheit und operative Geschlossenheit markieren zentrale Leitlinien, die das Wirkgefüge zwischen Subjekt, Institution und Technologie strukturieren. Lernen wird als subjektbezogener Konstruktionsprozess gefasst, der in systemisch orchestrierten Bildungsräumen spezifische Bedingungen erfährt. Diese Perspektive erlaubt es, pädagogische Gestaltung als Angebot für Anschlusskommunikation zu verstehen und Steuerungssemantiken begrifflich zu relativieren. Die hier entwickelten Annahmen bilden den theoretischen Rahmen für die spätere Dynamikmodellierung (\hyperref[sec:SystemischeDynamik]{Abschnitt~\ref{sec:SystemischeDynamik}}), in der subjektive Trägervariablen und strukturelle Bedingungen als gekoppeltes System geführt werden.
-
-Der theoretische Anschluss lässt sich als argumentativer Übergang verdichten: Lernen wird als fortlaufende Konstruktion von Wirklichkeit verstanden, die sich im Vollzug von Erfahrung und Kontextualisierung aufbaut. Siebert formuliert dies programmatisch, indem er „die These [stärken]“ will, „dass Wirklichkeitskonstruktion ein lebenslanger Lernprozess ist“, und dies an der zugespitzten Aussage konkretisiert: „Unsere Wirklichkeit besteht aus dem, was wir gelernt haben.“ [@siebert_padagogischer_2003, Seite 29]
-
-Damit wird direkte Steuerung über lineare Lehr‑Lern‑Ketten begrifflich begrenzt: Bildungsräume orientieren Handeln, während Konstruktion als Leistung der Lernenden geführt wird. Methodisch folgt daraus die Notwendigkeit, implizite Wirkannahmen als Kausalpläne zu führen und ihre Reichweite zu begrenzen. [@dittler_technologiedefizite_2009, Seite 78]
-
-Daraus ergibt sich als didaktische Konsequenz eine Gestaltung, die Anschlussfähigkeit strukturiert: Lernarchitekturen (inkl. LMS) werden als Strukturangebote modelliert, die Selbsttätigkeit, Reflexion, Beziehung und Kontextualisierung ermöglichen und dadurch Kopplungsoptionen zwischen psychischen und sozialen Prozessen reorganisieren. [@siebert_padagogischer_2003, Seite 29; @pfannstiel_psychologische_2022, Seite 591]
+Für die innere Logik von Kapitel 2 folgt daraus ein klarer Zugriff. Die nachfolgenden Paradigmen werden nicht als historische Stationen oder geschlossene Schulen referiert, sondern als unterschiedliche Wirkannahmen rekonstruiert. Gefragt wird jeweils, welche Merkmale eines Lernarrangements hervorgehoben werden, welche Effekte erwartet werden, über welche Mechanismen diese Effekte zustande kommen sollen und wie Lernende, Lehrende und Organisationen auf solche Arrangements reagieren. Auf dieser Grundlage lassen sich spätere Architekturentscheidungen des LMS, empirische Befunde zu FU$_{2}$ und FU$_{4}$ sowie die Modellierung von Kompetenzentwicklung in FU$_{6}$ gemeinsam lesbar machen. Zugleich bereitet Abschnitt 2.2 damit die medienpädagogische Zuspitzung in Abschnitt 2.3 und die gegenstandsbezogene Rekonstruktion in Kapitel 3 vor.
 
 ---
 
