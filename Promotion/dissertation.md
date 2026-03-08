@@ -240,6 +240,8 @@ Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit
 
 Im Fließtext werden die Begriffe "Kapitel", "Abschnitt", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben. Interne Verweise werden dabei konsequent als klickbare Querverweise gesetzt und in `\hyperref` geschrieben (z. B. `\hyperref[sec:Diskussion-Methodenreflexion]{Abschnitt 6.4}` oder `\hyperref[sec:Theorieteil]{Kapitel 2}`).
 
+Auf Kapitel und Unterkapitel wird über die jeweilige Nummer verwiesen. Auf Anhänge wird dagegen über die Bezeichnung „Anhang“ in Verbindung mit dem jeweiligen Titel verwiesen. Dies trägt der Arbeitslogik der Anhangsdokumente Rechnung, die in der Dateiverwaltung alphabetisch sortiert und daher nicht über eine fortlaufende Nummerierung organisiert werden. Interne Verweise auf Anhänge werden ebenfalls als klickbare Querverweise in `\hyperref` gesetzt (z. B. `\hyperref[sec:A-1]{Anhang „Verzeichnis zentraler Begriffe“}`).
+
 Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
 
 - S.   = Seite (z. B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
