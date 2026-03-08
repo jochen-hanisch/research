@@ -1,0 +1,25 @@
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[
+    >=Latex,
+    font=\scriptsize,
+    every node/.style={rectangle, draw=black!35, fill=black!2, rounded corners=6pt, align=center},
+    main/.style={minimum width=4.1cm, minimum height=1.3cm},
+    mid/.style={minimum width=3.6cm, minimum height=1.1cm, fill=black!5},
+    base/.style={minimum width=9.8cm, minimum height=1.0cm},
+    line/.style={->, thick, draw=black!40}
+  ]
+    \node[main] (kompetenz) at (0,0) {Kompetenz\\Dispositions- und Zustandsbezug\\nur vermittelt erschließbar};
+    \node[main] (entwicklung) at (7.2,0) {Kompetenzentwicklung\\Prozess- und Verlaufsbezug\\zeitliche Veränderungsdynamik};
+    \node[mid] (unschaerfe) at (3.6,-2.2) {analytische\\Unschärferelation};
+    \node[base] (wirkgefuege) at (3.6,-4.2) {Vermittlung im digitalen Bildungswirkgefüge\\über Situationen, Rückkopplungen, Kopplungen und Kippstellen};
+
+    \draw[line] (kompetenz) -- (unschaerfe);
+    \draw[line] (entwicklung) -- (unschaerfe);
+    \draw[line] (unschaerfe) -- (wirkgefuege);
+  \end{tikzpicture}
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{Schematische Darstellung der analytischen Unschärferelation zwischen Kompetenz und Kompetenzentwicklung im digitalen Bildungswirkgefüge.}
+  \caption*{\footnotesize Dargestellt sind links Kompetenz als Dispositions- und Zustandsbezug, rechts Kompetenzentwicklung als Prozess- und Verlaufsbezug sowie dazwischen die analytische Unschärferelation. Nach unten führt die Figur in die Vermittlung beider Perspektiven im digitalen Bildungswirkgefüge über Situationen, Rückkopplungen, Kopplungen und Kippstellen.}
+  \label{fig:kompetenz-unschaerferelation}
+\end{figure}
