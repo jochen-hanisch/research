@@ -1,0 +1,38 @@
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[
+    >=Latex,
+    font=\scriptsize,
+    every node/.style={rectangle, draw=black!35, fill=black!2, rounded corners=6pt, align=center},
+    leftbox/.style={minimum width=4.3cm, minimum height=3.6cm},
+    midbox/.style={minimum width=3.8cm, minimum height=2.6cm, fill=black!5},
+    rightbox/.style={minimum width=4.3cm, minimum height=3.6cm},
+    line/.style={->, thick, draw=black!40}
+  ]
+    \node[leftbox] (kategorien) at (0,0) {Ereigniskategorien\\[2pt]
+      relationale und familiale Einschnitte\\
+      gesundheitliche und belastungsbezogene Unterbrechungen\\
+      materielle oder organisationale Umstellungen\\
+      soziale und leistungsbezogene Wendepunkte};
+
+    \node[midbox] (kontext) at (5.3,0) {Veranderung von\\Lernbedingungen\\[2pt]
+      Zeitbudgets\\
+      Verfugbarkeit\\
+      Aufmerksamkeit\\
+      Zugehorigkeit\\
+      Selbstdeutung};
+
+    \node[rightbox] (wirkung) at (10.6,0) {Wirkung im digitalen Bildungsraum\\[2pt]
+      Verlauf verandert sich\\
+      Belastung wird spurbar\\
+      Passung verandert sich\\
+      Reorganisation und Wiederanschluss werden moglich};
+
+    \draw[line] (kategorien) -- (kontext);
+    \draw[line] (kontext) -- (wirkung);
+  \end{tikzpicture}
+  \captionsetup{justification=justified,singlelinecheck=false}
+  \caption{Schematische Einordnung persönlicher Ereignisse als analytisches Raster im digitalen Bildungswirkgefüge.}
+  \caption*{\footnotesize Dargestellt sind links die in der Arbeit berücksichtigten Kategorien persönlicher Ereignisse, in der Mitte die dadurch veränderten Lernbedingungen und rechts ihre Wirkung auf Verlauf, Belastung, Passung, Reorganisation und Wiederanschluss im digitalen Bildungsraum.}
+  \label{fig:pe-kategorien-wirkgefuege}
+\end{figure}
