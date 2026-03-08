@@ -1,6 +1,6 @@
 \newpage
 
-## Analysen dritter Ordnung (P‑QIA-Metaanalysen) {#sec:A-9}
+## P‑QIA-Metaanalysen {#sec:A-9}
 
 Dieser Anhang bündelt die Ergebnisse der Analysen dritter Ordnung, die mittels probabilistisch-qualitativer Inhaltsanalyse (P‑QIA) aus den Primäranalysen (Analysen erster Ordnung) abgeleitet wurden. Die methodische Herleitung ist in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschrieben, der zugrunde liegende Prompt in \hyperref[sec:A-3]{Anhang A.3}.
 
