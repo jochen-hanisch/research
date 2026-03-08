@@ -147,6 +147,8 @@ Damit wird das Wirkgefüge an einem zentralen Punkt empirisch greifbar. Wirkungs
 
 FU$_{6}$ modelliert das LMS als Kompetenzerwerbssystem, in dem Kompetenzentwicklung nur als Ergebnis gekoppelter Bedingungen plausibel wird. Infrastruktur‑ und Zielgruppenpassung, Steuerung über Daten/Analytics, Motivationsdynamik und Qualität der Rückkopplung wirken zusammen (\hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}). Dieser Zugriff bindet die systemische Dynamik (Kapitel 2.5) und die empirischen Befunde (Kapitel 5.3) zu einer konsistenten Wirklogik zusammen. Kompetenz erscheint als emergentes Ergebnis des Wirkgefüges, nicht als isolierter Output einzelner Features.
 
+#todo (#114) Kompetenz in 7.2.3/7.3 sparsam an 2.2 rückbinden: nicht als Alleingeltungsanspruch formulieren, sondern als wirkungsorientierte Rahmung mit Prämissen und Unschärferelation zwischen Kompetenz und Kompetenzentwicklung.
+
 **(d) Rollen und Strategien: Lehrendenbedingungen und Stabilisierung von Kausalannahmen**
 
 FU$_{2b}$ ergänzt die Verdichtung um Lehrendenbedingungen. Kompetenzanforderungen, Monitoring‑ und Assessmentpraktiken sowie Belastungs‑ und Entlastungsdynamiken rahmen, ob Rückkopplung tatsächlich in Handlung übersetzt wird (\hyperref[sec:Ergebnisse-FU2b]{Abschnitt 5.3.8}). FU$_{7}$ beschreibt Strategien, wie in komplexen digitalen Bildungsräumen plausible Ursache‑Wirkungs‑Aussagen stabilisiert werden können, ohne Komplexität zu unterschlagen. Dazu gehören klare Modellannahmen, überprüfbare Koppelungssätze und die reflektierte Verbindung von Theorie, Architektur und empirischen Beobachtungen (\hyperref[sec:Ergebnisse-FU7]{Abschnitt 5.3.9}).
