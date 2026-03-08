@@ -97,8 +97,6 @@ Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturents
 
 Kapitel 2 ist nicht als historische oder systematische Übersicht von Lehrparadigmen angelegt, sondern als theorieanalytische Rekonstruktion ihrer *impliziten Wirkannahmen* mit Blick auf die architekturwirksamen Konsequenzen im Learning Management System (LMS). Im Zentrum steht die Frage, welche Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung jeweils vorausgesetzt werden und wie sie sich in Strukturentscheidungen wie Sequenzierung, Rückmeldung, Rollenlogiken, Sichtbarkeit und Evaluation niederschlagen. Die folgenden Abschnitte (2.1–2.5) dienen damit zugleich der begrifflichen Klärung und der Parametrisierung jenes Zusammenhangs, der später modelliert und im konkreten System rekonstruiert wird.
 
-#todo (Fahrplan) Titelachse „Merkmale, Effekte, Mechanismen, Reaktionen“ in Kapitel 2 expliziter sichtbar machen; prüfen, ob die vier Begriffe bereits hier als orientierende Analyseperspektiven eingeführt werden sollen.
-
 Als bildungswissenschaftliche Referenzrahmung führt der Theorieteil die systemisch-konstruktivistischen Linien von Siebert, Reich und Arnold über gemeinsame Leitgedanken zusammen: Lernen erscheint hier als selbsttätige Konstruktion, als kontextgebundener Prozess und als Geschehen, das sich nur begrenzt direkt steuern lässt. Diese Verdichtung bildet im frühen Theorieteil den Hintergrund für die psychologischen Trägervariablen und wird in Abschnitt 2.2 bildungswissenschaftlich weiter entfaltet. [@siebert_padagogischer_2003; @reich_konstruktivistische_2006; @arnold_systemische_2010; @arnold_systemische_2015]
 
 In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel ist es, jene zentralen Begriffe und Konzepte zu klären, auf denen die spätere Modellierung und empirische Untersuchung aufbauen. Der Theorieteil gliedert sich in fünf Abschnitte, die unterschiedliche Perspektiven auf das digitale Bildungswirkgefüge eröffnen und zugleich aufeinander bezogen sind. Grundlage ist dabei die Unterscheidung zwischen Begriff, Phänomen und Konstrukt.
@@ -123,7 +121,7 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 
 Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig operationalisiert.
 
-#todo (Fahrplan) Kontext „Lehre in Gesundheitsberufen“ im Theorieteil an 1-2 Stellen gezielt rückbinden, damit der Anwendungsraum nicht erst in Kapitel 3 sichtbar wird.
+#todo (Fahrplan) Titelachse „Merkmale, Effekte, Mechanismen, Reaktionen“ in Kapitel 2 expliziter sichtbar machen; prüfen, ob die vier Begriffe bereits in der Einleitung als orientierende Analyseperspektiven eingeführt werden sollen.
 
 ## Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
@@ -283,6 +281,8 @@ In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:Systemi
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 \label{term:bildungswiss-verortung}
+
+#todo (Fahrplan) Kontext „Lehre in Gesundheitsberufen“ im Theorieteil an 1-2 Stellen gezielt rückbinden, idealerweise an der Brücke von 2.2/2.3 zum Forschungsgegenstand, damit der Anwendungsraum nicht erst in Kapitel 3 sichtbar wird.
 
 #todo (#112, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
 
