@@ -709,6 +709,8 @@ Die Simulation arbeitet quartalsweise über eine definierte Zeitachse und nutzt 
 - **persönliche Ereignisse** als Stör- bzw. Verstärkerkomponenten,
 - sowie einen Streuungsparameter, der die Unsicherheit in der Entwicklung modelliert.
 
+Persönliche Ereignisse werden im Modell als zeitlich variable Kontextimpulse gefasst, die auf bestehende Entwicklungsdynamiken einwirken und Verlauf, Sensitivität sowie Kippstellen mitprägen.
+
 Diese Kopplung wird als probabilistischer Schritt modelliert: Die Quartalsänderung entsteht als Zufallszug aus einer Normalverteilung, deren Erwartungswert aus der Summe der gekoppelten Komponenten gebildet wird; die Kompetenz wird anschließend in einem plausiblen Wertebereich begrenzt. Durch die Wiederholung vieler Durchläufe entsteht eine Verteilung von Kompetenzverläufen, aus der robuste Lage- und Streuungsmaße abgeleitet werden können (Median/Mittelwert/Standardabweichung pro Quartal). [@theis_grundlagen_2002, S. 4–7; @earl_monte_nodate, S. 3–4; @uskov_teaching_2024, S. 49–50]
 
 Die Logik wird in der Simulation als Familie von Verläufen sichtbar (\hyperref[fig:sim-montecarlo]{Abb.~\ref{fig:sim-montecarlo}}).
