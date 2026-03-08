@@ -121,7 +121,7 @@ Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation
 
 Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} manifestartig operationalisiert.
 
-#todo (Fahrplan) Titelachse „Merkmale, Effekte, Mechanismen, Reaktionen“ in Kapitel 2 expliziter sichtbar machen; prüfen, ob die vier Begriffe bereits in der Einleitung als orientierende Analyseperspektiven eingeführt werden sollen.
+#todo (Fahrplan; mitbearbeiten unter #112) Titelachse „Merkmale, Effekte, Mechanismen, Reaktionen“ in Kapitel 2 expliziter sichtbar machen; prüfen, ob die vier Begriffe bereits in der Einleitung als orientierende Analyseperspektiven eingeführt werden sollen.
 
 ## Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
@@ -269,7 +269,7 @@ Dabei bleiben Dispositionen schwer objektivierbar. In digitalen Umgebungen werde
 
 Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Dispositionen als Wahrscheinlichkeitsbedingungen modelliert und diese an konkrete Gestaltungs‑ und Unterstützungsangebote gekoppelt werden. @niegemann_motivationsdesign_2020 markiert motivierende Gestaltung als Bündel aus Aufmerksamkeit, Relevanz, Erfolgszuversicht und Zufriedenheit. Damit ist dispositionale Varianz systematisch adressiert und im Modell als relevante Streuung geführt. Selbstorganisiertes Lernen kann dabei durch internetbasierte multimediale Bildungstechnologien unterstützt werden, wenn die Lernwelt an Vorerfahrungen und Bedürfnisse anschließt. [@hugger_selbstorganisiertes_2010, Seite 245; @niegemann_motivationsdesign_2020, Seite 393]
 
-#todo (Fahrplan) Kompetenz im frühen Theorieteil stärker als eigener Wirkfaktor ausarbeiten; prüfen, ob dazu vor 2.1.5 ein eigener Unterabschnitt sinnvoll ist oder ob Kompetenz hier systematisch mitgeführt werden soll.
+#todo (Fahrplan; mitbearbeiten unter #112) Kompetenz im frühen Theorieteil stärker als eigener Wirkfaktor ausarbeiten; prüfen, ob dazu vor 2.1.5 ein eigener Unterabschnitt sinnvoll ist oder ob Kompetenz hier systematisch mitgeführt werden soll.
 
 ### 2.1.6 Zwischenfazit {#sec:Zwischenfazit-21}
 
@@ -277,12 +277,12 @@ Abschnitt 2.1 hat jene subjektbezogenen Trägervariablen bestimmt, über die d
 
 In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} gehen damit vor allem Variablenlogiken, Annahmen über Wechselwirkungen und Sensitivitäten gegenüber Kontextwechseln ein. Für Kapitel 4 bleiben insbesondere jene Linien wichtig, die sich empirisch an Aufgabenstruktur, Feedback, Sichtbarkeit, Unterstützungsarchitektur und biografisch variierenden Nutzungsverläufen rekonstruieren lassen. Das Zwischenfazit von Abschnitt 2.1 benennt damit die Bedingungen, unter denen digitale Lernarchitekturen fördernde oder hemmende Wirkpfade eröffnen.
 
-#todo (Fahrplan) Forschungsfragen-Bezug prüfen: FU2/FU4/FU6 im Zwischenfazit oder in kurzen Übergangssätzen sichtbarer an die theoretischen Bausteine von 2.1 rückbinden.
+#todo (Fahrplan; mitbearbeiten unter #112) Forschungsfragen-Bezug prüfen: FU2/FU4/FU6 im Zwischenfazit oder in kurzen Übergangssätzen sichtbarer an die theoretischen Bausteine von 2.1 rückbinden.
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 \label{term:bildungswiss-verortung}
 
-#todo (Fahrplan) Kontext „Lehre in Gesundheitsberufen“ im Theorieteil an 1-2 Stellen gezielt rückbinden, idealerweise an der Brücke von 2.2/2.3 zum Forschungsgegenstand, damit der Anwendungsraum nicht erst in Kapitel 3 sichtbar wird.
+#todo (Fahrplan; mitbearbeiten unter #112) Kontext „Lehre in Gesundheitsberufen“ im Theorieteil an 1-2 Stellen gezielt rückbinden, idealerweise an der Brücke von 2.2/2.3 zum Forschungsgegenstand, damit der Anwendungsraum nicht erst in Kapitel 3 sichtbar wird.
 
 #todo (#112, 2025-12-19) Abschnitt ausformulieren: bildungswissenschaftliche Verortung aus der eigenen Positionierung heraus (systemisch-konstruktivistisch und bildungstechnologisch), Leitbegriffe (Bildung/Digitalität/Kompetenz) definieren und begründen, danach erst begriffliche Ableitungen; mit belastbaren Kernbelegen (nicht nur Einzelquellen).
 
@@ -528,7 +528,7 @@ explizit vor.
 
 ---
 
-#todo Kapitelstruktur überarbeiten
+#todo (mitbearbeiten unter #110) Kapitelstruktur überarbeiten
 
 Die rekonstruierten paradigmatischen Differenzen werden im Folgenden als medienpädagogische Gestaltungslogiken weitergeführt und konkretisiert. Medienpädagogik fungiert dabei als disziplinäre Perspektive, in der sich diese Parameter in Architektur-, Interaktions- und Evaluationsentscheidungen materialisieren.
 
@@ -669,7 +669,7 @@ Für diese mediendidaktische Rahmung ist zentral, dass technische Medialität ni
 
 Vor diesem Hintergrund wird eine wiederkehrende Ambivalenz digitaler Bildungsräume sichtbar: Eine starke Technikaffinität kann Bildung überblenden, wenn digitale Systeme primär über Funktions‑, Mess‑ und Implementationslogiken beschrieben werden und Bildungsziele erst nachträglich als Legitimation technischer Möglichkeiten erscheinen. Im ästhetischen Modus der Science‑Fiction‑Reflexion verschärft @pfutzner_sterben_2022 diese Verschiebung am Leitbegriff der Mündigkeit: „Welchen Sinn macht beispielsweise die oft zitierte Mündigkeitsformel im Sinne von Immanuel Kant, wenn die Fähigkeit, den eigenen Verstand ohne Leitung eines anderen zu benutzen, eine Selbstbegrenzung darstellt, die angesichts der heute nötigen und möglichen Hilfsmittel unmündig wäre – weil nur unter Leitung komplexer Algorithmen mündige Urteile zu treffen sind?“ [@pfutzner_sterben_2022, Seite 131]. Damit wird Autonomie nicht als Technikfreiheit, sondern als reflexive Auseinandersetzung mit algorithmischer Vermittlung und ihren normativen Folgelasten sichtbar. Pointiert wird die Gefahr schließlich dort, wo er fragt, was geschieht, wenn das „Technologiedefizit der Pädagogik“ vermeintlich technisch „behoben“ werden kann. [@pfutzner_sterben_2022, Seite 130]
 
-#todo Prüfen, welche Quellen hier sinnvoll einengefügt werden können:
+#todo (mitbearbeiten unter #111) Prüfen, welche Quellen hier sinnvoll einengefügt werden können:
 
 - Dyrna, Jonathan, & Günther, Franziska. (2021). Methoden, Medien oder Werkzeuge? Eine technologische Klassifizierung von digitalen Bildungsmedien. In Heinz-Werner Wollersheim, Marios Karapanos, & Norbert Pengel (Hrsg.), Bildung in der digitalen Transformation (S. 19–30). https://www.pedocs.de/volltexte/2023/26615/pdf/MidW_78_Dyrna_Guenther_Methoden_Medien_oder_Werkzeuge.pdf
 - Dyrna, Jonathan, & Köhler, Thomas. (2021). Welche Medien eignen sich für selbstgesteuertes Lernen? In Jonathan Dyrna, Jana Riedel, Sylvia Schulze-Achatz, & Thomas Köhler (Hrsg.), Selbstgesteuertes Lernen in Der Beruflichen Weiterbildung: Ein Handbuch Für Theorie Und Praxis (1. Auflage, S. 262–286). Waxmann.
