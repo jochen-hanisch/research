@@ -26,8 +26,7 @@ Abschnitt~\hyperref[sec:Diskussion-Forschungsfragen]{6.1} bindet Diskussion an F
 
 ## 6.2 Theoretische Implikationen {#sec:Diskussion-Theorie}
 
-- Beitrag zur bildungswissenschaftlichen Theorieentwicklung (z. B. systemisch-konstruktivistische Perspektive, digitale Bildung).
-- Rückbindung an \hyperref[sec:Theorieteil]{Kapitel 2} (Theorie) und \hyperref[sec:Forschungsgegenstand]{Kapitel 3} (Forschungsgegenstand).
+Die theoretischen Implikationen werden im Folgenden auf die bildungswissenschaftliche Theorieentwicklung bezogen und an die theoretischen Vorarbeiten aus \hyperref[sec:Theorieteil]{Kapitel 2} sowie die Architekturbeschreibung des Forschungsgegenstands in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rückgebunden.
 
 Die Arbeit leistet einen theoretisch-methodischen Beitrag, der das Forschungsfeld digitaler Bildungsräume strukturiert, indem sie Dynamiken, Muster und Auslassungen in einem gemeinsamen Analysezugriff zusammenführt. Damit werden disparate Studien, Datenquellen und Befundtypen in eine gemeinsame Beschreibungslogik überführt. Eine Zeitreihe dient als zentrale Beobachtungsform, um Entwicklungen als Verlauf zu beschreiben und Phasen, Übergänge sowie Verdichtungen im Wirkgefüge sichtbar zu machen. Ergänzend verdichten Cluster- und Netzwerkanalysen die Befundlage zu wiederkehrenden Konfigurationen und legen relationale Abhängigkeiten zwischen Akteur:innen, Artefakten und Funktionszonen offen, statt Einzelvariablen isoliert zu betrachten. Auf dieser Basis wird eine systemische Forschungslücke präzise markiert, denn in der Literatur werden temporale Verläufe und relationale Strukturen selten gemeinsam modelliert und als Ordnungsvorschlag für Theorie, Empirie und Gestaltung nutzbar gemacht. Der Mehrwert liegt damit in einer eigenständigen Feldstrukturierung, die als Leistung der Dissertation einen belastbaren Orientierungsrahmen bereitstellt.
 
@@ -41,9 +40,9 @@ Die medienpädagogische Ausbuchstabierung dieser Iterations- und Rückkopplungsl
 
 ## 6.3 Praktische und gestalterische Implikationen {#sec:Diskussion-Praxis}
 
-- Konsequenzen für die didaktische und operative Gestaltung von Learning Management System (LMS). 
-- Hinweise für Lehrpraxis, Kompetenzförderung und technologische Entwicklung.
-- Die Ergebnisse des Eye-Tracking-Versuchs [@hanisch-johannsen_wirkgefuge_2025-1] verdeutlichen, dass die Gestaltung des Learning Management Systems (LMS) nicht neutral wirkt; sie beeinflusst die visuelle Orientierung der Lernenden systematisch. Die drei Visualisierungstypen (Heatmap, Viewmap, Fog-View) zeigen im Zusammenspiel, dass Novices häufig diffuse Suchmuster und breit gestreute Fixationen aufweisen, was auf eine erhöhte extrinsische kognitive Belastung hindeutet. Fortgeschrittene Lernende beginnen, Blickpfade zu strukturieren und funktionale Zonen (z. B. relevante EKG-Segmente oder Antwortoptionen) differenzierter zu nutzen, während der dritte Ausbildungsjahrgang hochökonomische, zielgerichtete Fixationsmuster zeigt. Diese Expertisegradienten belegen, dass die UI-Gestaltung die Relevanzzuweisung und Orientierung maßgeblich steuert. Identifizierte Hotspots und Coldspots verweisen auf funktionale und dysfunktionale Bereiche der Oberfläche: So werden diagnostisch zentrale Zonen zunehmend zuverlässig fixiert, während irrelevante Layoutbereiche im höheren Ausbildungsstand systematisch ausgeblendet werden. Gestalterisch folgen daraus konkrete Hinweise: verstärkte Salienzsteuerung für novice Lernende, Reduktion potenzieller Ablenkungsquellen, adaptive Platzierung zentraler UI-Elemente sowie eine stärker Expertise-adaptive UI-Logik. Die Befunde stützen damit FU4b empirisch und situieren das LMS als aktives gestaltendes Element eines digitalen Bildungsraums.
+Die praktischen und gestalterischen Implikationen betreffen die didaktische und operative Gestaltung von Learning Management Systemen, die Lehrpraxis, die Kompetenzförderung sowie die technologische Weiterentwicklung digitaler Bildungsräume.
+
+Die Ergebnisse des Eye-Tracking-Versuchs [@hanisch-johannsen_wirkgefuge_2025-1] verdeutlichen, dass die Gestaltung des Learning Management Systems (LMS) nicht neutral wirkt; sie beeinflusst die visuelle Orientierung der Lernenden systematisch. Die drei Visualisierungstypen (Heatmap, Viewmap, Fog-View) zeigen im Zusammenspiel, dass Novices häufig diffuse Suchmuster und breit gestreute Fixationen aufweisen, was auf eine erhöhte extrinsische kognitive Belastung hindeutet. Fortgeschrittene Lernende beginnen, Blickpfade zu strukturieren und funktionale Zonen (z. B. relevante EKG-Segmente oder Antwortoptionen) differenzierter zu nutzen, während der dritte Ausbildungsjahrgang hochökonomische, zielgerichtete Fixationsmuster zeigt. Diese Expertisegradienten belegen, dass die UI-Gestaltung die Relevanzzuweisung und Orientierung maßgeblich steuert. Identifizierte Hotspots und Coldspots verweisen auf funktionale und dysfunktionale Bereiche der Oberfläche: So werden diagnostisch zentrale Zonen zunehmend zuverlässig fixiert, während irrelevante Layoutbereiche im höheren Ausbildungsstand systematisch ausgeblendet werden. Gestalterisch folgen daraus konkrete Hinweise: verstärkte Salienzsteuerung für novice Lernende, Reduktion potenzieller Ablenkungsquellen, adaptive Platzierung zentraler UI-Elemente sowie eine stärker Expertise-adaptive UI-Logik. Die Befunde stützen damit FU4b empirisch und situieren das LMS als aktives gestaltendes Element eines digitalen Bildungsraums.
 Für die Gestaltungsdiskussion ist ergänzend leitend, dass ein LMS nicht nur über UI-Salienzen wirkt, sondern über die *Prozessstruktur*, die Lehrende in ihm realisieren (Phasenübergänge, Sozialformen, Rückkopplungspunkte); diese Perspektive ist medienpädagogisch in \hyperref[sec:MedienpaedagogischeRahmung]{Abschnitt 2.3} ausgeführt und wird hier als Bezugsrahmen der praktischen Implikationen vorausgesetzt [@kotitschke_moodle_2026].
 
 ### 6.3.1 Interdependente Wirkgefüge als theoretischer Erweiterungsrahmen {#sec:Diskussion-Interdependenz}
@@ -168,6 +167,9 @@ Das Grundgerüst der Wirkdimensionen (10–12) ist in \hyperref[sec:Conclusio-Ma
 `–` Misstrauen/Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung.  
 `Kopplung:` Vertrauen benötigt beobachtbare Verlässlichkeit; Beobachtbarkeit kann als Kontrolle gelesen werden und Vertrauen unterminieren.
 
+**Ergebnis auf den Punkt gebracht**  
+Das Modell versteht digitale Bildungsräume als Wirkgefüge, deren zentrale Struktureinheit die Interdependenz unterschiedlicher Wirkungswahrscheinlichkeiten ist. Positive und negative Wirkgefüge sind gleichberechtigt; erst ihre Interdependenz lässt den Bildungsraum als epistemische Form entstehen. Damit ist der Rahmen gesetzt, um in \hyperref[sec:Conclusio]{Kapitel 7} das Manifest nahtlos anzuschließen und in einen handlungsleitenden Orientierungsrahmen zu überführen. Damit wird die Grundlage geschaffen, Interdependenz theoretisch zu beschreiben und zugleich als gestaltbare epistemische Infrastruktur digitaler Bildungsräume zu denken.
+
 → Als Block nach Kap. 7 spiegeln: `04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md` (Abschnitt 7.1).
 
 6. **Mögliche Titel für \hyperref[sec:Conclusio]{Kapitel 7}**  
@@ -176,9 +178,6 @@ Vorschläge für das manifestartige Kapitel:
 - „Das interdependente Wirkgefüge: Zur Kopplung positiver und negativer Wirkungswahrscheinlichkeiten“
 - „Interdependenz als Grundform des digitalen Bildungsraums“
 Diese Titel sind wissenschaftlich, unmissverständlich, nicht esoterisch oder dualistisch und zeigen, dass das Wirkgefüge aus der Interdependenz besteht.
-
-7. **Ergebnis auf den Punkt gebracht**  
-Das Modell versteht digitale Bildungsräume als Wirkgefüge, deren zentrale Struktureinheit die Interdependenz unterschiedlicher Wirkungswahrscheinlichkeiten ist. Positive und negative Wirkgefüge sind gleichberechtigt; erst ihre Interdependenz lässt den Bildungsraum als epistemische Form entstehen. Damit ist der Rahmen gesetzt, um in \hyperref[sec:Conclusio]{Kapitel 7} das Manifest nahtlos anzuschließen und in einen handlungsleitenden Orientierungsrahmen zu überführen. Damit wird die Grundlage geschaffen, Interdependenz theoretisch zu beschreiben und zugleich als gestaltbare epistemische Infrastruktur digitaler Bildungsräume zu denken.
 
 ## 6.4 Methodische Reflexion und Limitationen {#sec:Diskussion-Methodenreflexion}
 
@@ -217,5 +216,4 @@ Restrisiko ergibt sich aus RealEye-bedingter Kontextvariabilität. Gerätehetero
 
 ## 6.5 Ausblick und Forschungsperspektiven {#sec:Diskussion-Ausblick}
 
-- Ableitung zukünftiger Forschungsfragen.
-- Hinweise auf weiterführende Studien, Umsetzungsschritte oder Transfermöglichkeiten.
+Der Ausblick bündelt die aus den Befunden ableitbaren weiteren Forschungsfragen und markiert Anschlussstellen für weiterführende Studien, konkrete Umsetzungsschritte und Transferperspektiven.
