@@ -1,6 +1,6 @@
 \newpage
 
-## Prompt/Vorlage zur systemisch-forschungsfragengeleiteten Auswertung der LMS-Umfrage (UM1) {#sec:A-10}
+## Prompt zur LMS-Umfrageauswertung {#sec:A-10}
 
 Diese Vorlage dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der LMS‑Umfrage (Selbstauskünfte). Sie folgt dem methodischen Paradigma der Arbeit (Kapitel 4.1–4.3) und operationalisiert die itemweise Auswertung gemäß Abschnitt \hyperref[sec:Umfrage-LMS]{4.2.5}.
 
@@ -99,4 +99,3 @@ Für jedes Item wird die folgende Struktur verwendet (jeweils dreimal: Jg. 21/22
 ```
 
 Abschlussbemerkung: Diese Datei bildet den verbindlichen Auswertungsrahmen für die Umfrageauswertung (UM1) im Rahmen der Dissertation.
-

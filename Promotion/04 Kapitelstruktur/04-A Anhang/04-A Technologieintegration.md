@@ -1,6 +1,6 @@
 \newpage
 
-## Technologieintegration: Befundlogik zum Technologiedefizit (Analysen 1. Ordnung) {#sec:A-14}
+## Technologieintegration und Technologiedefizit {#sec:A-14}
 
 Dieser Anhang dokumentiert die Auswertungslinie „Technologieintegration“ als Materialfilter und Befundspur. Grundlage sind die Analysen 1. Ordnung (Zotero-`annote`) und die dort vergebene Indexzuordnung `Technologieintegration` (vgl. Prompt zur Quellenanalyse, Anhang \hyperref[sec:A-2]{A‑2}). Ziel ist hierbei die in \hyperref[sec:Technologiedefizit]{Abschnitt 2.4} entwickelte Technologiedefizit‑Rahmung empirisch im Literaturkorpus abzustützen und zugleich die Bearbeitungslogik der Dissertation explizit zu machen.
 

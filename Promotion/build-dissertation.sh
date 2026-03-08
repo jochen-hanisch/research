@@ -71,6 +71,7 @@ FILES+=(
   "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Ergebnisse.md" # A-12
   # A-13 wird aktuell in den Hauptkapiteln nicht direkt referenziert.
   "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
+  "04 Kapitelstruktur/04-A Anhang/04-A Review-Matrix.md" # A-16
 )
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
