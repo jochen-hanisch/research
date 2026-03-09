@@ -430,16 +430,19 @@ Medienpädagogik entfaltet eine epistemische Perspektive auf digitale Räume, in
 Medienbildung wird als Prozess der Aneignung medialer Kulturtechniken, Kommunikationsformen und Gestaltungspraktiken gefasst; sie liefert damit den Bezugsrahmen für Lernziele, Inhalte und Rahmung digitaler Lernarchitekturen. Medienkompetenz beschreibt die Fähigkeit, Medien kritisch, reflektiert und kreativ zu nutzen, und verbindet technische, kognitive und soziale Dimensionen, die in digitalen Lernräumen über Nutzung, Kommunikation und Gestaltung mitgeprägt werden. [@moser_medienbildung_2011, Seite 137; @moser_medienbildung_2011, Seite 175]
 
 ### 2.3.2 Medialität als Strukturbedingung von Bildungsprozessen {#sec:Medialitaet-Strukturbedingung}
+
 \label{term:medialitaet-strukturbedingung}
 
 Medialität formt Wahrnehmung, Kommunikation, Rollen, Zeitlichkeit und Sichtbarkeit und muss deshalb als strukturierende Bedingung von Bildung begriffen werden. Die medienpädagogische Perspektive fragt nach diesen Strukturen, bevor technologische Funktionen kommentarlos übernommen werden. [@wild_ausgewahlte_2021, Seite 5]
 
 ### 2.3.3 Zentrale medienpädagogische Kategorien {#sec:Medienpaedagogische-Kategorien}
+
 \label{term:medienpaedagogische-kategorien}
 
 Medienbildung bezeichnet die Aneignung medialer Kulturtechniken, Medienkompetenz verbindet technische, kognitive und soziale Dimensionen, die Partizipation, der Dialog, pädagogische Beziehungen, Autorität, Inklusion sowie Bildungsbenachteiligung markieren normativ-relationale Achsen digitaler Bildungsräume. [@moser_medienbildung_2011, Seite 137; @moser_medienbildung_2011, Seite 175; @huber_partizipation_2023, Seite 435; @huber_dialog_2023, Seite 99; @huber_padagogische_2023-1, Seite 419; @huber_padagogische_2023, Seite 411; @huber_inklusive_2023, Seite 265; @huber_bildungsbenachteiligung_2023, Seite 67]
 
 ### 2.3.4 Mediendidaktik als theoriegeleitete Gestaltungsperspektive {#sec:Mediendidaktik-Gestaltungsperspektive}
+
 \label{term:mediendidaktik-gestaltungsperspektive}
 
 @mayer_pragmatismus_2004 formulieren didaktische Prinzipien auf der Grundlage einer pragmatistischen Handlungs- und Erfahrungstheorie. @mayrberger_mediendidaktik_2023 hebt Bedingungen hervor, unter denen Handlungsfähigkeit im digitalen Hochschulumbruch gestärkt wird. Beide Zugänge lesen Mediendidaktik als reflexive Gestaltungsperspektive, die Anschlusskommunikation, Beteiligung und Ermöglichung in den Vordergrund rückt. Die Akzente liegen dabei verschieden. @mayer_pragmatismus_2004 konturieren stärker Prinzipien didaktischer Integration, @mayrberger_mediendidaktik_2023 betont Agency-, Partizipations- und Rahmungsbedingungen in institutionellen Umbruchsituationen. [@mayer_pragmatismus_2004, Seite 2; @mayrberger_mediendidaktik_2023, Seite 127]
@@ -448,6 +451,7 @@ Medienbildung bezeichnet die Aneignung medialer Kulturtechniken, Medienkompetenz
 ### 2.3.5 Bildungstechnologie und Digitalität {#sec:Bildungstechnologie-Digitalitaet}
 
 \label{term:bildungstechnologie-digitalitaet}
+
 In diesem Abschnitt wird Bildungstechnologie als Bündel impliziter Wirkannahmen lesbar. Wo digitale Lehr-Lern-Arrangements als technisch gestützte Bildungsumgebungen beschrieben werden, laufen meist zugleich Annahmen über Steuerbarkeit, Messbarkeit, Skalierung, Sichtbarkeit und Datenverwendung mit. Der funktional-technologische Bildungsbegriff markiert diesen Zusammenhang früh, wenn Technik als strukturbildende Bedingung von Bildungsprozessen erscheint. Begriffs- und ideengeschichtlich erinnert @benner_technik_2004-1 daran, dass Technik in der Pädagogik einen eigenständigen Problemhorizont eröffnet und nicht in einer bloßen Werkzeugmetapher aufgeht. Für den hier verwendeten Begriff des digitalen Bildungsraums ist genau dieser Punkt zentral. Digitalität verändert die Bedingungen, unter denen Teilhabe, Reflexion, Orientierung und Handlungsfähigkeit möglich werden, und greift damit direkt in die Gestalt von Bildungsprozessen ein. [@benner_technik_2004-1, Seiten 987 und 992; @huber_bildung_2023, Seiten 59-66; @hauck-thum_was_2021]
 
 Daraus folgen für LMS-Architekturen recht konkrete Kausalpläne. Wo Steuerbarkeit mitgeführt wird, verdichtet sie sich in Sequenzierung, Freischaltlogiken, Rollenrechten, Fristregimen und Prüfungsarchitekturen. Wo Messbarkeit im Vordergrund steht, gewinnen Kennzahlen, Diagnostik, Datenpunkte und auswertbare Aktivitätsspuren an Gewicht. Skalierungsannahmen zeigen sich dort, wo Unterstützung standardisiert, Interaktion entlastet oder Lehre über wiederholbare Formate ausgedehnt werden soll. Sichtbarkeit erscheint in Dashboards, Fortschrittsanzeigen, geteilten Arbeitsständen, Portfolios und dokumentierten Verläufen. Datenlogiken treten auf, sobald Rückmeldungen, Bewertungen und Prognosen über digital erfasste Spuren vermittelt werden. Bildungstechnologie bleibt damit nie nur eine Frage technischer Funktionalität, sondern immer auch eine Frage dessen, welche Wirkungen Architekturentscheidungen wahrscheinlich machen sollen. [@niegemann_technologiegestutztes_2020; @huber_diagnostik_2023, Seite 91; @huber_qualitat_2023, Seite 477; @hugger_selbstorganisiertes_2010, Seite 245]
@@ -464,6 +468,7 @@ In diesem Abschnitt wird die in \hyperref[sec:Einleitung-Theorie]{Abschnitt 2.
 Für eine kompetenztheoretische Modellierung ist dabei zentral, dass Lernen als situationsgebundene Konstruktion von Einsicht und Handlungsfähigkeit geführt wird und die Metapher passiver Informationsaufnahme dafür zu kurz greift. @dehnbostel_e-learning_2021 fasst dies im Kontext situierten Lernens explizit so, „dass Lernen nicht eine passive Informationsaufnahme, sondern eine stets ordnend-wertende Konstruktion von Einsicht und Handlungsfähigkeit darstellt“, und verbindet dies mit der Forderung nach einer „Abkehr von bloß fachsystematisch strukturierten … Bildungsgängen“ zugunsten von Kompetenzentwicklungsaufgaben. [@dehnbostel_e-learning_2021, Seite 58]
 
 #### Agiles Lernen als didaktisch-funktionaler Mechanismus {#sec:Agiles-Lernen-Mechanismus}
+
 \label{term:agiles-lernen-mechanismus}
 
 Agiles Lernen kann in diesem Zusammenhang als strukturierender Mechanismus verstanden werden, der kompetenzbezogenes Lernhandeln über wiederkehrende Problemlösungs‑, Feedback‑ und Reflexionssequenzen rahmt. In der Übertragung agiler Prinzipien (u.a. Iteration, Transparenz, Priorisierung, kontinuierliche Verbesserung) auf Lernarchitekturen werden Lernhandlungen in überschaubaren Zyklen (z. B. Sprint‑Logik, Review, Retrospektive) gerahmt, so dass Lernende ihre Strategien unter Rückmeldung anpassen und Handlungsfähigkeit schrittweise in der Anschlusskommunikation plausibilisiert wird. [@hanisch_agiles_2023]
