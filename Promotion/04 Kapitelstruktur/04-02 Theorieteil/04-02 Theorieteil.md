@@ -312,11 +312,13 @@ Für die Dissertation hat diese Herleitung eine doppelte Funktion. Zum einen wir
 
 \label{term:systemisch-konstruktivistische-theorie}
 
-Die systemisch-konstruktivistische Position bildet den epistemischen Kern dieser Arbeit. Sie geht davon aus, dass Lernen keine lineare Übertragung von Wissen ist, sondern eine eigenständige Konstruktion von Wirklichkeit im Vollzug von Erfahrung, Deutung und sozialer Einbettung. Für die Dissertation ist diese Annahme zentral, weil sie den Blick von der bloßen Bereitstellung digitaler Angebote auf die Bedingungen verschiebt, unter denen Lernende daraus überhaupt anschlussfähige Handlungen, Deutungen und Kompetenzen entwickeln. [@siebert_padagogischer_2003; @reich_konstruktivistische_2006]
+Die systemisch-konstruktivistische Position bildet den epistemischen Kern dieser Arbeit. Sie fasst Lernen als eigenständige Konstruktion von Wirklichkeit im Vollzug von Erfahrung, Deutung und sozialer Einbettung. Für die Dissertation ist diese Annahme zentral, weil sie den Blick von der bloßen Bereitstellung digitaler Angebote auf die Bedingungen lenkt, unter denen Lernende daraus anschlussfähige Handlungen, Deutungen und Kompetenzen entwickeln. [@siebert_padagogischer_2003; @reich_konstruktivistische_2006]
+
+Für diese Arbeit fungiert der systemisch-konstruktivistische Zugriff damit als wirkungsaffine Referenz. Damit ist nicht gemeint, dass Konstruktivismus als Paradigma für sich genommen wirkt. Wirkungsaffin ist der Zugriff, weil er Lernwirkungen über Anschluss, Kontext, Irritation, Rückkopplung und soziale Aushandlung plausibilisiert und lineare Ursache-Wirkungs-Ketten dabei bewusst begrenzt. Gerade für digitale Bildungsräume ist das tragfähig, weil sich Technik und Didaktik dort nur im Zusammenhang mit subjektiver Verarbeitung, sozialer Einbettung und institutioneller Rahmung verstehen lassen. [@reich_konstruktivistische_2006; @arnold_systemische_2015; @dittler_technologiedefizite_2009]
 
 Für diesen Zugriff sind @siebert_padagogischer_2003, @reich_konstruktivistische_2006 und @arnold_systemische_2015 die tragenden Referenzen. Bei @siebert_padagogischer_2003 steht die Einsicht im Vordergrund, dass Lernen immer schon Wirklichkeitskonstruktion ist und deshalb weder vollständig planbar noch unabhängig von Biografie, Sprache und Erfahrung zu denken ist. @reich_konstruktivistische_2006 schärft diese Perspektive didaktisch, indem die Relation von Konstruktion, Rekonstruktion und Dekonstruktion als Bedingung pädagogischer Arbeit entfaltet wird. @arnold_systemische_2015 führt diese Linie in Richtung professioneller Lernbegleitung weiter und macht deutlich, dass Kompetenzentwicklung über Passungsverhältnisse zwischen Person, Aufgabe, Beziehung und Kontext verläuft.
 
-Aus dieser Perspektive wird Bildung als Prozess verstehbar, der auf Irritation, Selbsttätigkeit und Reflexion angewiesen ist. Lehrende, Curricula und digitale Systeme können solche Prozesse anregen, rahmen und stabilisieren. Im Sinne eines technischen Kausalplans lassen sie sich jedoch nicht herstellen. Genau hier liegt der bildungstechnologische Zugriff dieser Arbeit. Technik wird ernst genommen, weil sie Lernräume formt, Handlungsoptionen verteilt und Rückkopplungen organisiert. Sie ist Teil eines soziotechnischen Arrangements, dessen Folgen immer von subjektiven und sozialen Anschlussbedingungen abhängen. [@dittler_technologiedefizite_2009; @huber_didaktik_2023]
+Aus dieser Perspektive wird Bildung als Prozess verstehbar, der auf Irritation, Selbsttätigkeit, Reflexion und Rückkopplung angewiesen ist. Lehrende, Curricula und digitale Systeme können solche Prozesse anregen, rahmen und stabilisieren. Ihre Wirkung bleibt jedoch an Anschlussbedingungen gebunden und folgt keinem technischen Kausalplan. Genau hier liegt der bildungstechnologische Zugriff dieser Arbeit. Technik wird ernst genommen, weil sie Lernräume formt, Handlungsoptionen verteilt und Rückkopplungen organisiert. Sie ist Teil eines soziotechnischen Arrangements, dessen Folgen von subjektiven und sozialen Anschlussbedingungen abhängen. [@dittler_technologiedefizite_2009; @huber_didaktik_2023]
 
 Diese Rahmung ist auch für den Gegenstand der Gesundheitsberufe anschlussfähig. In digitalisierten Ausbildungs- und Weiterbildungskontexten geht es nicht nur darum, Inhalte effizient zu verbreiten, sondern darum, professionelles Urteilen, kooperative Abstimmung, verantwortlichen Umgang mit Daten und belastbare Handlungssicherheit unter komplexen Bedingungen zu fördern. Ein LMS wird damit zu einem Bildungsraum, in dem sich fachliche Anforderungen, organisationale Vorgaben, technische Sichtbarkeiten und subjektive Lernvoraussetzungen überlagern. [@stiftung_munch_neue_2020]
 
@@ -330,84 +332,21 @@ Für die innere Logik von Kapitel 2 folgt daraus ein klarer Zugriff. Die nachf
 #todo (#106, 2026-02-15) 2.2.3–2.2.5 stilistisch entglätten (nach inhaltlicher Vertiefung): Zwischenschritte/Begründungen sichtbar machen (nicht nur Raster erfüllen), Symmetrie an geeigneten Stellen brechen, formelhafte Übergänge („Deckungsgleich/Verschieden“) durch argumentatives Gewichtungsvokabular ersetzen.
 #todo (#107, 2026-02-15) 2.2.3–2.2.5 inhaltlich vertiefen: pro Paradigma prüfen, ob tatsächlich rekonstruiert (Wirkannahmen + Kausalpläne) statt klassifiziert; konstruktivistische Lesart jeweils explizit herleiten; Differenzen als Wirkannahmen klar ausbuchstabieren; Belege prüfen/vertiefen.
 
-Die instruktionistische Position wird hier als Kontrastfolie rekonstruiert, um die Reichweite systemisch‑konstruktivistischer Annahmen präzise zu bestimmen. Die Rekonstruktion folgt den identischen sieben Dimensionen:
-
-1. **Wissensverständnis**  
-Wissen wird als vergleichsweise übertragbarer Inhalt geführt, der curricular strukturiert, sequenziert und überprüfbar bereitgestellt werden kann. In konstruktivistischer Lesart ist das eine starke Reduktion, weil Wissen stets als lernendenseitig erzeugte Deutung in Kontexten entsteht. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seite 29]
-
-2. **Lernmechanismus**  
-Lernen erscheint primär als Aufnahme, Einübung und Reproduktion vorstrukturierter Inhalte. Die systemisch‑konstruktivistische Lesart verschiebt dies auf Anschlussbildung, Selbstorganisation und Kontextbezug. [@siebert_padagogischer_2003, Seiten 64, 89]
-
-3. **Steuerungslogik**  
-Die Logik ist direktiv: Lernfortschritt soll über Sequenzierung, Instruktion und Output‑Kontrolle hergestellt werden. Im Technologiedefizit‑Diskurs wird genau diese direkte Kausalsteuerung als begrenzt markiert. [@dittler_technologiedefizite_2009, Seiten 77-79]
-
-4. **Rolle der Irritation**  
-Irritation wird eher als Störung der linearen Lernführung behandelt. In systemischer Perspektive ist Irritation dagegen ein zentraler Auslöser von Reorganisation und Lernen. [@siebert_padagogischer_2003, Seite 89; @reich_konstruktivistische_2006, Seiten 74-85]
-
-5. **Rolle von Feedback**  
-Feedback wird primär als Korrekturinstrument gegen Sollvorgaben geführt (richtig/falsch, erfüllt/nicht erfüllt). In konstruktivistischer Lesart dient Feedback stärker der Reflexion und Anschlusskommunikation. [@siebert_padagogischer_2003, Seiten 64, 89]
-
-6. **Evaluation**  
-Evaluation fokussiert vorwiegend Zielerreichung und Reproduktionsleistung. Konstruktivistisch wird Evaluation als Konstrukt und damit als beobachter‑ und kontextgebundene Praxis expliziert. [@siebert_padagogischer_2003, Seite 122]
-
-7. **Architekturimplikation LMS**  
-Instruktionistisch naheliegend sind lineare Lernpfade, verpflichtende Sequenzen, testgetriebene Freischaltungen, standardisierte Checkpoints und starke Teacher‑Control. Diese Architektur kann handlungspraktisch sinnvoll sein, bleibt aber als Kausalplan unter Ungewissheit zu führen. [@dittler_technologiedefizite_2009, Seiten 78-79]
+Die instruktionistische Position wird hier rekonstruiert, um die Reichweite der wirkungsaffinen konstruktivistischen Referenz präziser zu bestimmen. Für diese Arbeit ist sie als weiterhin wirkmächtige Annahmestruktur interessant, die in vielen LMS‑Architekturen fortlebt. Gerade lineare Sequenzierung, testgetriebene Freischaltung, enge Outputkontrolle und stark vorstrukturierte Lernpfade folgen oft implizit instruktionistischen Kausalplänen. Wissen erscheint in diesem Zugriff als vergleichsweise übertragbarer Inhalt, der curricular strukturiert, sequenziert und überprüfbar bereitgestellt werden kann. Lernen wird entsprechend vor allem als Aufnahme, Einübung und Reproduktion vorstrukturierter Inhalte gefasst. Steuerung richtet sich auf Sequenzierung, Instruktion und Output-Kontrolle; Feedback übernimmt vor allem Korrekturfunktionen gegen Sollvorgaben, und Evaluation fokussiert Zielerreichung sowie Reproduktionsleistung. Irritation erscheint in dieser Logik eher als Unterbrechung einer linearen Lernführung und seltener als Auslöser von Reorganisation. Für digitale Bildungsräume ist das weiterhin relevant, denn viele Architekturen arbeiten genau mit solchen Vorstellungen von Progression, Prüfpunkt und Freigabesteuerung. In konstruktivistischer Lesart zeigen sich hier jedoch enge Grenzen. Wissen entsteht als Deutung in Kontexten, und auch stark vorstrukturierte Lernpfade bleiben Kausalpläne unter Ungewissheit. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 29, 64, 89, 122; @dittler_technologiedefizite_2009, Seiten 77-79]
 
 ---
 
 ### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Kognitivistisch}
 \label{term:paradigma-kognitivistisch}
 
-Für die kognitivistische Position liefert der ausgewertete Korpus (v. a. psychologische Befunde zum Lernen mit digitalen Medien) eine belastbare Anschlusslinie:
-
-1. **Wissensverständnis**  
-Wissen wird als mentale Repräsentation und Struktur gefasst, die über Informationsverarbeitung aufgebaut wird. [@pfannstiel_psychologische_2022, Seiten 582-583]
-
-2. **Lernmechanismus**  
-Lernen beruht auf Selektion, Organisation und Integration von Informationen bei begrenzten kognitiven Ressourcen (Arbeitsgedächtnis, kognitive Belastung). [@pfannstiel_psychologische_2022, Seiten 583-586]
-
-3. **Steuerungslogik**  
-Didaktische Steuerung erfolgt über Strukturierung, Segmentierung, Signalisierung, instruktionale Entlastung und Scaffolding. Steuerung bleibt damit stärker adaptiv als linear‑direktiv, aber weiterhin auf optimierbare Verarbeitungsbedingungen orientiert. [@pfannstiel_psychologische_2022, Seiten 586-587]
-
-4. **Rolle der Irritation**  
-Irritation erscheint weniger als systemischer Reorganisationsimpuls, sondern eher als kognitive Belastung oder Konflikt, der lernförderlich nur unter geeigneter didaktischer Rahmung wirkt. [@pfannstiel_psychologische_2022, Seiten 583-586]
-
-5. **Rolle von Feedback**  
-Feedback hat eine zentrale Regulationsfunktion für Aufgabenbearbeitung und Strategieanpassung; es ist eng an Informationsverarbeitung und Metakognition gekoppelt. [@pfannstiel_psychologische_2022, Seiten 591, 594]
-
-6. **Evaluation**  
-Evaluation fokussiert häufig Leistungsindikatoren, Verarbeitungsmaße und Outcome‑Variablen. In konstruktivistischer Lesart sind diese Maße als Beobachtungsformen mit begrenzter Reichweite zu markieren. [@dittler_technologiedefizite_2009, Seiten 76-77, 79]
-
-7. **Architekturimplikation LMS**  
-Naheliegend sind adaptive Aufgabenpfade, gestufte Hilfen, kognitiv entlastete Materialgestaltung, formatives Feedback und lernstandsnahe Diagnoseelemente. Die Stärke liegt in differenzierter Lernunterstützung; die Grenze liegt in einer möglichen Verwechslung von Messbarkeit und Bildungswirksamkeit. [@pfannstiel_psychologische_2022, Seiten 586-587, 594; @dittler_technologiedefizite_2009, Seiten 77-79]
+Die kognitivistische Position ist für die Dissertation besonders relevant, weil sie zwischen direkter Instruktion und konstruktivistischer Offenheit eine starke Mittelstellung einnimmt. Sie ist wirkungstheoretisch anschlussfähig, weil sie Lernprozesse über Informationsverarbeitung, Belastung, Rückmeldung und Strategieanpassung differenziert beschreiben kann. Wissen wird hier als mentale Repräsentation und Struktur gefasst, die sich über Selektion, Organisation und Integration von Informationen aufbaut. Lernen ist damit eng an begrenzte kognitive Ressourcen gebunden. Genau daraus folgen typische Steuerungsannahmen, etwa Strukturierung, Segmentierung, Signalisierung, instruktionale Entlastung und Scaffolding. Feedback erhält eine starke Regulationsfunktion für Aufgabenbearbeitung und Strategieanpassung, Evaluation orientiert sich häufig an Leistungsindikatoren, Verarbeitungsmaßen und Outcome-Variablen. Für digitale Lernarchitekturen ist das ausgesprochen anschlussfähig, weil adaptive Aufgabenpfade, gestufte Hilfen, formative Rückmeldungen und lernstandsnahe Diagnoseelemente viele LMS-Designs bis heute prägen. Die Stärke dieser Perspektive liegt in ihrer differenzierten Beschreibung von Lernunterstützung. Eng wird sie dort, wo Messbarkeit, Verarbeitungsoptimierung oder Scaffolding zu rasch mit Bildungswirksamkeit gleichgesetzt werden und Irritation vor allem als Belastung oder Konflikt erscheint, der möglichst kontrolliert gerahmt werden soll. [@pfannstiel_psychologische_2022, Seiten 582-587, 591, 594; @dittler_technologiedefizite_2009, Seiten 76-79]
 
 ---
 
 ### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Situativ}
 \label{term:paradigma-situativ}
 
-Die situative/sozialkonstruktivistische Linie steht der systemisch‑konstruktivistischen Referenz am nächsten, differiert aber im Systembegriff und im Fokus der Steuerungsannahmen:
-
-1. **Wissensverständnis**  
-Wissen wird als sozial situierte Praxis und als Ergebnis gemeinsamer Aushandlung in Kontexten verstanden. [@reich_konstruktivistische_2006, Seiten 74-85]
-
-2. **Lernmechanismus**  
-Lernen erfolgt über Teilnahme, Interaktion, kooperative Problembearbeitung und geteilte Praxisvollzüge; individuelle Konstruktion bleibt in soziale Kontexte eingebettet. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 64, 78]
-
-3. **Steuerungslogik**  
-Steuerung wird primär als Gestaltung sozialer Lernsettings, Rollen, Aufgaben- und Kommunikationsräume verstanden (indirekt, rahmend, moderierend). [@reich_konstruktivistische_2006, Seiten 74-85]
-
-4. **Rolle der Irritation**  
-Irritation entsteht häufig sozial (Perspektivdifferenz, Widerspruch, Koordinationsprobleme) und kann über kollektive Reflexion lernwirksam werden. [@siebert_padagogischer_2003, Seite 89]
-
-5. **Rolle von Feedback**  
-Feedback ist nicht nur lehrseitige Rückmeldung, sondern auch wechselseitige soziale Rückkopplung (Peer‑, Gruppen‑, Aushandlungsfeedback). [@reich_konstruktivistische_2006, Seiten 74-85]
-
-6. **Evaluation**  
-Evaluation muss neben individueller Leistung auch Prozessqualität, Kooperationsqualität und Anschlussfähigkeit sozialer Lernprozesse erfassen; dies erhöht den Interpretationsbedarf gegenüber rein outputbasierten Kennzahlen. [@dittler_technologiedefizite_2009, Seiten 76-79]
-
-7. **Architekturimplikation LMS**  
-Erforderlich sind kollaborative Artefakträume, Foren, Peer‑Feedback‑Workflows, Rollen-/Gruppenlogiken und nachvollziehbare Prozessdokumentation. In konstruktivistischer Lesart werden diese Funktionen als Ermöglichungsbedingungen, nicht als Wirkgarantien geführt. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 64, 78; @dittler_technologiedefizite_2009, Seiten 77-79]
+Die situative bzw. sozialkonstruktivistische Linie steht der systemisch-konstruktivistischen Referenz am nächsten. Ihre Stärke liegt darin, Lernen über Teilnahme, Interaktion, Praxis und soziale Aushandlung zu erschließen. Für diese Arbeit ist sie deshalb besonders wirkungsnah, weil sie viele jener Mechanismen explizit macht, die in digitalen Bildungsräumen empirisch wiederkehren, etwa Ko-Regulation, Peer-Feedback, Rollenarbeit und gemeinsam getragene Problembearbeitung. Wissen erscheint hier als sozial situierte Praxis, Lernen als Teilnahme, Interaktion und kooperative Problembearbeitung. Individuelle Konstruktion bleibt dabei in soziale Kontexte eingebettet. Steuerung richtet sich deshalb vor allem auf die Gestaltung von Rollen, Aufgaben, Kommunikationsräumen und Formen gemeinsamer Bearbeitung. Irritation entsteht häufig sozial, etwa über Perspektivdifferenz, Widerspruch oder Koordinationsprobleme, und kann über kollektive Reflexion lernwirksam werden. Feedback ist entsprechend lehrseitige Rückmeldung und wechselseitige soziale Rückkopplung. Für digitale Bildungsräume ergeben sich daraus recht klare Architekturfolgen, etwa kollaborative Artefakträume, Foren, Peer-Feedback-Workflows, Gruppenlogiken und nachvollziehbare Prozessdokumentation. Der Abstand zur systemisch-konstruktivistischen Referenz liegt vor allem im Systembegriff und in der Frage, wie stark Rückkopplung, Kontingenz und begrenzte Steuerbarkeit theoretisch akzentuiert werden. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 64, 78, 89; @dittler_technologiedefizite_2009, Seiten 76-79]
 
 ---
 
@@ -443,32 +382,18 @@ Transformatorische Bildungstheorien akzentuieren schließlich die Möglichkeit t
 
 Die Funktion dieses Abschnitts liegt somit darin, die paradigmatischen Wirkannahmen aus Abschnitt 2.2.3 bis 2.2.5 in ihren anthropologischen und gesellschaftstheoretischen Voraussetzungen transparent zu machen. Auf diese Weise wird sichtbar, dass Unterschiede zwischen Paradigmen nicht nur auf didaktischer Ebene liegen, sondern in divergierenden Vorstellungen vom Menschen, von Autonomie, von Macht und von Bildung selbst gründen. Diese Tiefendimensionen rahmen die spätere Parametrisierung, ohne selbst als eigenständige Modellparameter geführt zu werden.
 
----
-
 ### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 \label{term:paradigmen-modellparameter}
 
-#todo (#108, 2026-02-15) 2.2.7 operationalisieren: für jeden Parameter eine kurze Arbeitsdefinition + Mess-/Simulationslogik notieren (z. B. „Rückkopplungsdichte“ als Frequenz/Vielfalt von Feedbackkanälen; „Irritationsintensität“ klar abgrenzen von „Offenheit“).
+Mit den rekonstruierten Paradigmenunterschieden ist der Punkt erreicht, an dem die bildungswissenschaftliche Analyse in eine dynamische Modelllogik übergeht. Für die weitere Arbeit werden die Differenzen deshalb als Parameter lesbar gemacht, über die Lernarrangements im LMS unterschiedlich beschrieben werden können. Gemeint sind vor allem der Grad externer Steuerung, die Dichte von Rückkopplung, die Sensitivität für Kontext, die Intensität von Irritation, das Verhältnis von Offenheit und Sequenzierung sowie die Rolle von Evaluation. Diese Parameter verdichten die zuvor herausgearbeiteten Wirkannahmen in eine Form, die für die spätere Modellierung anschlussfähig ist, ohne sie schon in methodische Operationen zu übersetzen.
 
-#todo (#109, 2026-02-15) Autor*innenschaft sichtbar machen: an 1–2 Stellen begründet Position beziehen (analytische Gewichtung/Notwendigkeit des Zugriffs), ohne normative „Paradigma-besser“-Behauptung.
+Die Auswahl dieser Parameter folgt einer bewussten analytischen Gewichtung der Arbeit. Sie wurden deshalb gewählt, weil sie über die einzelnen Paradigmen hinweg wiederkehren, sich in Architekturentscheidungen eines LMS konkret niederschlagen und zugleich nah genug an den späteren Beobachtungs- und Modellierungsfragen der Dissertation liegen. Für den hier verfolgten Zugriff sind sie deshalb tragfähiger als eine reine Typologie von Paradigmen oder eine bloße Aufzählung didaktischer Merkmale.
 
-Hier erfolgt der Übergang zur Dynamik:
+Für die weitere Arbeit werden diese Parameter in einem einfachen arbeitsdefinitorischen Sinn verwendet. Der Grad externer Steuerung beschreibt, wie stark Lernwege, Zeitpunkte, Aufgabenfolgen und Zugriffsoptionen von außen vorgegeben werden. Rückkopplungsdichte meint, wie häufig, vielfältig und weitreichend Rückmeldungen ausfallen und wie gut Lernende daraus ihren Stand, ihre nächsten Schritte und die Folgen ihres Handelns ableiten können. Kontextsensitivität beschreibt, wie stark ein Lernarrangement unterschiedliche Ausgangslagen, biografische Belastungen, Vorerfahrungen und situative Bedingungen aufnimmt. Irritationsintensität bezeichnet, wie deutlich ein Arrangement Unterschiede, Widersprüche, Herausforderungen oder Perspektivverschiebungen hervorruft, die Reorganisation anstoßen können. Das Verhältnis von Offenheit und Sequenzierung beschreibt, wie eng Lernprozesse über feste Pfade geführt werden und wie viel Raum für eigenständige Bearbeitung, Navigation und Schwerpunktsetzung bleibt. Die Rolle von Evaluation markiert schließlich, welche Funktion Bewertung im Lernprozess übernimmt, ob sie eher kontrolliert, rückmeldet, Selbstvergewisserung stützt oder weitere Steuerung auslöst.
 
-	•	Grad externer Steuerung
-	•	Rückkopplungsdichte
-	•	Kontextsensitivität
-	•	Irritationsintensität
-	•	Offenheit vs. Sequenzierung
-	•	Rolle von Evaluation
+Gerade darin liegt die Funktion dieses Abschnitts für die Dissertation. Er verbindet die paradigmatische Rekonstruktion mit der Frage, wie sich Unterschiede zwischen Lehr-Lern-Paradigmen in Architekturentscheidungen, Interaktionsformen und Beobachtungslogiken niederschlagen. Auf diese Weise bereitet er \hyperref[sec:SystemischeDynamik]{Abschnitt~2.5}, die architektonische Rekonstruktion in \hyperref[sec:Forschungsgegenstand]{Kapitel~3} und die spätere Simulation in \hyperref[sec:Methodologie]{Kapitel~4} vor.
 
-Dieser Abschnitt ist deine Eigenleistung.
-
-Er bereitet:
-	•	2.5 (systemische Dynamik)
-	•	Kapitel 3 (Architektur)
-	•	Kapitel 4 (Simulation)
-
-explizit vor.
+Am Ende dieses Abschnittes schließt sich damit der Kreis zu \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt~2.1}. Die dort herausgearbeiteten Trägervariablen werden hier bildungswissenschaftlich lesbar gemacht. Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse und dispositionale Merkmale erscheinen aus dieser Perspektive als subjektbezogene Voraussetzungen, an die unterschiedliche Lehr-Lern-Paradigmen in je eigener Weise anschließen. Gerade deshalb ist der systemisch-konstruktivistische Zugriff für die Dissertation wirkungsaffin. Er kann die Kopplung zwischen subjektiver Verarbeitung, sozialer Interaktion und technischer Architektur theoretisch führen und hält lineare Kausalannahmen dabei bewusst in Grenzen. Mit dieser Rückbindung ist zugleich die Brücke zu \hyperref[sec:MedienpaedagogischeRahmung]{Abschnitt~2.3} gelegt, in dem sich dieselben Wirkannahmen in medienpädagogischen Gestaltungslogiken und architektonischen Entscheidungen konkretisieren.
 
 ---
 
@@ -693,6 +618,8 @@ Damit schiebt dieser Exkurs einen epistemischen Riegel vor jede Form von Steueru
 ## 2.5 Systemische Dynamik des digitalen Bildungswirkgefüges {#sec:SystemischeDynamik}
 \label{term:systemische-dynamik}
 \label{term:digitales-bildungswirkgefuge}
+
+#todo (#108, 2026-02-15) 2.5 operationalisieren: die in \hyperref[sec:Paradigmen-Modellparameter]{Abschnitt~2.2.7} eingeführten Modellparameter in Mess- und Simulationslogiken überführen (z. B. Rückkopplungsdichte als Frequenz und Vielfalt von Feedbackkanälen, Irritationsintensität klar von Offenheit abgrenzen, Kontextsensitivität und externe Steuerung indikatorisch fassen).
 
 ---
 
