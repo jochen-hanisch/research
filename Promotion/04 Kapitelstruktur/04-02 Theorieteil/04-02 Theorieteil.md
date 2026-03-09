@@ -1,11 +1,13 @@
 \newpage
 
 # 2 Theorieteil {#sec:Theorieteil}
+
 \label{term:theorieteil}
 
 ---
 
 ## Leitfrage und Leitlogik für Kapitel 2 {#sec:Leitfrage-Leitlogik-Kap2}
+
 \label{term:leitfrage-leitlogik-kap2}
 
 Welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung sind in unterschiedlichen Lehrparadigmen unterstellt – und wie übersetzen sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS)?
@@ -37,6 +39,7 @@ Kapitel 2 folgt einer gestuften Ebenenlogik, die vom psychischen System über bi
 ---
 
 ### Analytische Vergleichsdimensionen (Paradigmenanalyse) {#sec:Analytische-Vergleichsdimensionen}
+
 \label{term:analytische-vergleichsdimensionen}
 
 Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimensionen rekonstruiert:
@@ -50,6 +53,7 @@ Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimen
 7. Architekturimplikation für ein LMS
 
 ### Paradigmen als Wirkannahmen (Skizze) {#sec:Paradigmen-Wirkannahmen-Skizze}
+
 \label{term:paradigmen-wirkannahmen-skizze}
 
 **Instruktionistische Wirkannahmen**
@@ -77,6 +81,7 @@ Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimen
 - LMS-Implikation: Feedbackschleifen, Reflexionsräume, Reentry-/Rekursionsstrukturen
 
 ### Brücke zum Wirkgefüge / Parametrisierung {#sec:Bruecke-Wirkgefuege-Parametrisierung}
+
 \label{term:bruecke-wirkgefuege-parametrisierung}
 
 Paradigmen unterscheiden sich nicht nur normativ, sondern dynamisch: Sie implizieren unterschiedliche Kopplungslogiken (z. B. linear, adaptiv, sozial-regulativ, selbstreferenziell). Diese Differenzen lassen sich als Modellparameter führen, z. B.:
@@ -87,6 +92,7 @@ Paradigmen unterscheiden sich nicht nur normativ, sondern dynamisch: Sie implizi
 - Stabilität vs. Offenheit von Lernpfaden
 
 ### Wissenschaftstheoretischer Gewinn (Kurz) {#sec:Wissenschaftstheoretischer-Gewinn}
+
 \label{term:wissenschaftstheoretischer-gewinn}
 
 Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturentscheidungen theorieabhängig und (3) vermeidet normative Paradigmenhierarchien zugunsten einer Analyse unterschiedlicher Dynamiken und Wirkgefüge.
@@ -170,17 +176,13 @@ Zugleich wird damit ein verbreiteter Engpass vermieden: Ein „Wirkprinzip“ (e
 
 Im Zusammenspiel heißt das: Wirkung wird als verlaufswirksamer Anschluss einer Differenz innerhalb eines Gefüges fassbar – und das Wirkgefüge ist der Rahmen, in dem mehrere Wirkpfade (und ihre Rückkopplungen) begrifflich und später modelllogisch geführt werden können. Diese Dreierfigur erlaubt es, Lehrparadigmen als Bündel impliziter Wirkannahmen zu rekonstruieren: Welche Wirkungen werden erwartet, welche Kopplungen werden vorausgesetzt, und welches Wirkgefüge wird damit im LMS unterstellt?
 
-
 ## 2.1 Pädagogisch psychologische Grundannahmen {#sec:PadagogischPsychologischeGrundannahmen}
+
 \label{term:traegervariablen}
 
----
+Dieser Abschnitt entfaltet pädagogisch-psychologische Grundannahmen und bestimmt Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse sowie dispositionale Merkmale als Trägervariablen von Lernhandeln. Lernen wird hier als subjektiver Prozess unter Bedingungen begrenzter Aufmerksamkeit, Motivation und Selbststeuerung verstanden. Der innere Aufbau des Abschnitts folgt dabei einer klaren Achse: Bedürfnisse markieren die grundlegenden Passungs- und Regulationslagen, Emotionen vermitteln deren situative Bewertung, Neugier beschreibt einen möglichen explorativen Anschlussmodus, persönliche Ereignisse verschieben diese Prozesse biografisch und situativ, und dispositionale Merkmale erklären, warum sich daraus unterschiedliche Verläufe ergeben. Der Abschnitt legt damit jene Kopplungsbedingungen frei, an die Lernarchitekturen anschließen. Sie werden als Strukturangebote modelliert, die Wahrscheinlichkeiten verschieben, ohne Lernverläufe deterministisch festzulegen.
 
-Abschnitt 2.1 entfaltet pädagogisch-psychologische Grundannahmen und bestimmt Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse sowie dispositionale Merkmale als Trägervariablen von Lernhandeln. Lernen wird hier als subjektiver Prozess unter Bedingungen begrenzter Aufmerksamkeit, Motivation und Selbststeuerung verstanden. Der innere Aufbau des Abschnitts folgt dabei einer klaren Achse: Bedürfnisse markieren die grundlegenden Passungs- und Regulationslagen, Emotionen vermitteln deren situative Bewertung, Neugier beschreibt einen möglichen explorativen Anschlussmodus, persönliche Ereignisse verschieben diese Prozesse biografisch und situativ, und dispositionale Merkmale erklären, warum sich daraus unterschiedliche Verläufe ergeben. Der Abschnitt legt damit jene Kopplungsbedingungen frei, an die Lernarchitekturen anschließen. Sie werden als Strukturangebote modelliert, die Wahrscheinlichkeiten verschieben, ohne Lernverläufe deterministisch festzulegen.
-
----
-
-Dieser Abschnitt macht Trägervariablen als Bedingungen sichtbar, unter denen Lernhandeln wahrscheinlich, unwahrscheinlich oder brüchig wird. Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse und dispositionale Merkmale werden deshalb als Faktoren gefasst, unter denen Lernende ein Angebot annehmen, zurückweisen oder eigensinnig umdeuten. Das LMS erscheint dabei als Lernraum, der diese Bedingungen über Struktur, Rückmeldung und Beziehungssignale mitprägt. So entsteht eine Argumentationslinie, die von grundlegenden Bedürfnislagen über Bewertung, Exploration und biografische Verschiebung bis zu stabileren Verarbeitungsdispositionen reicht und von dort zu modellierbaren Wechselbezügen führt.
+Zudem werden hier Trägervariablen als Bedingungen sichtbar, unter denen Lernhandeln wahrscheinlich, unwahrscheinlich oder brüchig wird. Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse und dispositionale Merkmale werden deshalb als Faktoren gefasst, unter denen Lernende ein Angebot annehmen, zurückweisen oder eigensinnig umdeuten. Das LMS erscheint dabei als Lernraum, der diese Bedingungen über Struktur, Rückmeldung und Beziehungssignale mitprägt. So entsteht eine Argumentationslinie, die von grundlegenden Bedürfnislagen über Bewertung, Exploration und biografische Verschiebung bis zu stabileren Verarbeitungsdispositionen reicht und von dort zu modellierbaren Wechselbezügen führt.
 
 Die folgenden Unterabschnitte folgen dabei der Dreischichtung Begriff–Phänomen–Konstrukt: Jede Trägervariable wird (1) begrifflich abgegrenzt, (2) als phänomenale Datenspur/Erfahrungsdimension im digitalen Lernvollzug plausibilisiert und (3) für die Modelllogik als Wahrscheinlichkeitsbedingung operationalisiert. [@tenorth_konstrukte_2007; @wirtz_konstrukt_2020]
 
@@ -263,11 +265,12 @@ Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Di
 
 ### 2.1.6 Zwischenfazit {#sec:Zwischenfazit-21}
 
-Abschnitt 2.1 hat jene subjektbezogenen Trägervariablen bestimmt, über die das spätere Modell beschrieben wird. Die Achse reicht von Bedürfnissen als grundlegenden Passungs- und Unterstützungsbedingungen über Emotionen als Bewertungs- und Regulationsform und Neugier als explorativen Anschlussmodus bis zu persönlichen Ereignissen als variablen Kontextimpulsen und dispositionalen Merkmalen als stabilerer Verarbeitungsvoraussetzung. Zusammengenommen begründen diese Bausteine, das LMS als Strukturangebot mit spezifischen Wechsel- und Rückwirkungen zu fassen.
+Dieser Abschnitt hat jene subjektbezogenen Trägervariablen bestimmt, über die das spätere Modell beschrieben wird. Die Achse reicht von Bedürfnissen als grundlegenden Passungs- und Unterstützungsbedingungen über Emotionen als Bewertungs- und Regulationsform und Neugier als explorativen Anschlussmodus bis zu persönlichen Ereignissen als variablen Kontextimpulsen und dispositionalen Merkmalen als stabilerer Verarbeitungsvoraussetzung. Zusammengenommen begründen diese Bausteine, das LMS als Strukturangebot mit spezifischen Wechsel- und Rückwirkungen zu fassen.
 
 In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} gehen damit vor allem Variablenlogiken, Annahmen über Wechselwirkungen und Sensitivitäten gegenüber Kontextwechseln ein. Für Kapitel 4 bleiben insbesondere jene Linien wichtig, die sich empirisch an Aufgabenstruktur, Feedback, Sichtbarkeit, Unterstützungsarchitektur und biografisch variierenden Nutzungsverläufen rekonstruieren lassen. Damit berührt Abschnitt 2.1 bereits drei spätere Forschungsrichtungen der Arbeit: FU$_{2}$ fragt nach den Effekten dieser Bedingungen auf Lernende und Lehrende, FU$_{4}$ nach den Mechanismen, über die Strukturangebote in Handlung übersetzt werden, und FU$_{6}$ nach der Frage, unter welchen Voraussetzungen daraus belastbare Kompetenzentwicklung hervorgehen kann. Das Zwischenfazit von Abschnitt 2.1 benennt damit die Bedingungen, unter denen digitale Lernarchitekturen fördernde oder hemmende Wirkpfade eröffnen.
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
+
 \label{term:bildungswiss-verortung}
 
 In diesem Abschnitt verschiebt sich die Perspektive von den subjektbezogenen Voraussetzungen des Lernhandelns auf die bildungswissenschaftliche Rahmung des digitalen Bildungsraums. Die Arbeit verortet sich dabei in einer systemisch-konstruktivistischen Perspektive, die Lernen als eigenlogischen, kontextgebundenen Konstruktionsprozess versteht, und verbindet diese mit einer bildungstechnologischen Fragestellung, die digitale Infrastrukturen als gestaltete, aber nur begrenzt steuerbare Bestandteile pädagogischer Settings untersucht. Bildungswissenschaft ist dafür nicht bloß Hintergrundfolie, sondern der Ort, an dem Begriffe, Geltungsansprüche und Praxisbezüge so geklärt werden, dass die spätere Modellierung tragfähig wird. [@huber_einfuhrung_2023; @huber_wissenschaftstheorie_2023]
@@ -324,36 +327,32 @@ Diese Rahmung ist auch für den Gegenstand der Gesundheitsberufe anschlussfähig
 
 Für die innere Logik von Kapitel 2 folgt daraus ein klarer Zugriff. Die nachfolgenden Paradigmen werden nicht als historische Stationen oder geschlossene Schulen referiert, sondern als unterschiedliche Wirkannahmen rekonstruiert. Gefragt wird jeweils, welche Merkmale eines Lernarrangements hervorgehoben werden, welche Effekte erwartet werden, über welche Mechanismen diese Effekte zustande kommen sollen und wie Lernende, Lehrende und Organisationen auf solche Arrangements reagieren. Auf dieser Grundlage lassen sich spätere Architekturentscheidungen des LMS, empirische Befunde zu FU$_{2}$ und FU$_{4}$ sowie die Modellierung von Kompetenzentwicklung in FU$_{6}$ gemeinsam lesbar machen. Zugleich bereitet Abschnitt 2.2 damit die medienpädagogische Zuspitzung in Abschnitt 2.3 und die gegenstandsbezogene Rekonstruktion in Kapitel 3 vor.
 
----
-
 ### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Instruktionistisch}
+
 \label{term:paradigma-instruktionistisch}
 
 Die instruktionistische Position ist für diese Arbeit vor allem als fortlebende Wirklogik vieler digitaler Lernarchitekturen interessant. Ihr Kausalplan ist vergleichsweise klar. Wenn Inhalte in kleine, geordnete Einheiten zerlegt, schrittweise bereitgestellt, eng überprüft und über Soll-Ist-Rückmeldungen abgesichert werden, dann soll Lernen als kumulativer Zuwachs von Richtigkeit, Sicherheit und Reproduzierbarkeit entstehen. Bastiaens rekonstruiert diese Linie als einen Typ von Instruktionsdesign, der für klar umgrenzte Wissensbestände und standardisierbare Lernziele plausibel bleibt, seine Reichweite aber dort verliert, wo Verstehen, Transfer und eigenständige Erschließung gefragt sind. Genau deshalb lebt sie in LMS-Strukturen wie Pflichtsequenzen, Test-Gates, Freischaltlogiken, eng getakteten Kursverläufen und starker Outputkontrolle weiter. [@bastiaens_gestaltung_2017, Seiten 30-32; @dittler_technologiedefizite_2009, Seiten 77-79]
 
 In konstruktivistischer Lesart wird diese Wirklogik auf ihre Tragweite befragt. Sie kann Orientierung geben, Wiederholung sichern und Routinebildung unterstützen. Ihre Wirkung bleibt aber an Kontexte, Deutungen und Anschlussbereitschaft gebunden. Gerade an diesem Punkt setzen @reich_konstruktivistische_2006 und @siebert_padagogischer_2003 an. Lernen vollzieht sich aus ihrer Sicht als Rekonstruktion von Bedeutung im Zusammenhang von Erfahrung, Sprache und Situation. Für die Analyse digitaler Bildungsräume heißt das, dass instruktionistische Kausalpläne dort begrenzt bleiben, wo ein LMS zwar Progression organisiert, aber noch nicht erklärt, wie aus Bearbeitung tragfähiges Verständnis, Reflexion oder Kompetenz entsteht. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 29, 64, 89, 122]
 
----
-
 ### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Kognitivistisch}
+
 \label{term:paradigma-kognitivistisch}
 
 Die kognitivistische Position verschiebt die Aufmerksamkeit von der bloßen Darbietung des Lernstoffs auf die Vermittlungsarbeit, die zwischen Information und Verstehen liegt. Ihr Kausalplan lautet in verdichteter Form, dass Lernen wahrscheinlicher wird, wenn Informationen so ausgewählt, strukturiert und entlastet werden, dass sie an bestehende Wissensstrukturen anschlussfähig werden. Daraus folgen bekannte Gestaltungsmuster wie Segmentierung, Signalisierung, gestufte Hilfen, adaptive Unterstützung und formative Rückmeldung. Bastiaens beschreibt genau diese Ebene als entscheidend für erfolgreiches Lernen mit Medien, weil Medien dann lernförderlich werden, wenn sie aktive und konstruktive Verarbeitung unterstützen und zur Aufgabe wie zu den Lernvoraussetzungen passen. Pfannstiel macht dieselbe Logik aus psychologischer Sicht über kognitive Belastung, Aufmerksamkeitslenkung und Feedback als Regulationshilfe sichtbar. [@bastiaens_gestaltung_2017, Seiten 30-33; @pfannstiel_psychologische_2022, Seiten 582-587, 591, 594]
 
 Für digitale Bildungsräume ist diese Wirklogik besonders ergiebig, weil sie viele reale Designentscheidungen verständlich macht. Adaptive Aufgabenpfade, Hilfesysteme, Diagnoseelemente, lernstandsnahe Rückmeldungen oder Visualisierungen von Fortschritt folgen der Annahme, dass Lernende durch Strukturierung und Entlastung besser verarbeiten können. Aus konstruktivistischer Sicht ist daran wichtig, dass hier bereits Vermittlungsmechanismen sichtbar werden. Zugleich bleibt offen, ob erleichterte Verarbeitung schon zu Bildung, Transfer oder Kompetenzentwicklung führt. Genau an dieser Stelle markiert der kognitivistische Kausalplan für die vorliegende Arbeit einen produktiven, aber begrenzten Zugriff. Er erklärt viel darüber, wie Lernhandlungen unterstützt werden können, erklärt aber nur bedingt, wie Lernende mit offenen, widersprüchlichen und sozial gerahmten Anforderungen umgehen. [@dittler_technologiedefizite_2009, Seiten 76-79]
 
----
-
 ### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Situativ}
+
 \label{term:paradigma-situativ}
 
 Die situative beziehungsweise sozialkonstruktivistische Linie rekonstruiert Lernen von vornherein als Teilhabe an Praxis, als soziale Bearbeitung von Problemen und als Aushandlung von Bedeutung. Ihr Kausalplan ist entsprechend anders gelagert. Lernen wird dort wahrscheinlich, wo Lernende in gemeinsam getragene Aufgaben, Rollen, Artefakte und Kommunikationszusammenhänge eingebunden sind und dort Perspektiven, Irritationen und Rückmeldungen verarbeiten. Reich entfaltet diese Linie didaktisch über Konstruktion, Rekonstruktion und Dekonstruktion, Siebert über die biografische und kontextgebundene Einbettung von Lernen. Für digitale Bildungsräume ist das deshalb besonders anschlussfähig, weil viele empirisch beobachtbare Wirkungen gerade an Ko-Regulation, Peer-Feedback, gemeinsame Dokumentation und diskursive Abstimmung gebunden sind. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 64, 78, 89]
 
 Die daraus folgenden Architekturannahmen liegen vergleichsweise offen zutage. Wenn Lernen sozial situiert gedacht wird, dann gewinnen Foren, Gruppenräume, Peer-Workflows, kollaborative Artefakte, sichtbare Prozessspuren und Rollenlogiken ein anderes Gewicht als in instruktionistischen oder rein kognitivistischen Arrangements. Irritation entsteht dann oft im Kontakt mit anderen Perspektiven, in Koordinationsproblemen oder in der Zumutung, den eigenen Standpunkt begründen zu müssen. Feedback ist in dieser Perspektive Teil des Lernvollzugs selbst. Aus systemisch-konstruktivistischer Sicht liegt hier eine besonders anschlussfähige Wirklogik vor, weil soziale Rückkopplung, Kontext und Kontingenz bereits mitgeführt werden. Der Unterschied zur Referenz dieses Kapitels bleibt dennoch wichtig. Die systemisch-konstruktivistische Perspektive fragt noch stärker nach den Grenzen direkter Steuerung und nach der Art, wie Anschluss trotz Kontingenz nur wahrscheinlich gemacht, aber nicht gesichert werden kann. [@dittler_technologiedefizite_2009, Seiten 76-79]
 
----
-
 #### Vergleichstabelle der Paradigmen (vollständig, 7 Dimensionen) {#sec:Paradigmen-Vergleichstabelle}
+
 \label{term:paradigmen-vergleichstabelle}
 
 Die Tabelle verdichtet die vorstehende Analyse in ein vergleichbares Raster. Sie dient als Lesehilfe für die paradigmatischen Unterschiede und als Brücke zur späteren Parametrisierung in \hyperref[sec:Paradigmen-Modellparameter]{Abschnitt~\ref{sec:Paradigmen-Modellparameter}}. Die Angaben sind als Rekonstruktion von Wirkannahmen zu lesen (nicht als normative Rangordnung von Paradigmen).
@@ -370,9 +369,8 @@ Die Tabelle verdichtet die vorstehende Analyse in ein vergleichbares Raster. Sie
 
 Interpretationshinweis: Die Tabelle zeigt wahrscheinliche Architekturfolgen der jeweiligen Wirkannahmen. Sie ersetzt nicht die Kontextprüfung im Feld und ist entsprechend als heuristische Vergleichsfolie zu verwenden. [@dittler_technologiedefizite_2009]
 
----
-
 ### 2.2.6 Anthropologische und normative Tiefendimensionen {#sec:Tiefendimensionen}
+
 \label{term:tiefendimensionen}
 
 Dieser Abschnitt führt keine weiteren Lehrparadigmen ein, sondern rekonstruiert jene anthropologischen und normativen Tiefenannahmen, in denen die zuvor analysierten Wirkannahmen jeweils verankert sind. Lernparadigmen operieren nie voraussetzungslos; sie implizieren Menschenbilder, Autonomievorstellungen und gesellschaftstheoretische Deutungen, die ihre Steuerungslogiken rahmen.
@@ -386,6 +384,7 @@ Transformatorische Bildungstheorien akzentuieren schließlich die Möglichkeit t
 Die Funktion dieses Abschnitts liegt somit darin, die paradigmatischen Wirkannahmen aus Abschnitt 2.2.3 bis 2.2.5 in ihren anthropologischen und gesellschaftstheoretischen Voraussetzungen transparent zu machen. Auf diese Weise wird sichtbar, dass Unterschiede zwischen Paradigmen nicht nur auf didaktischer Ebene liegen, sondern in divergierenden Vorstellungen vom Menschen, von Autonomie, von Macht und von Bildung selbst gründen. Diese Tiefendimensionen rahmen die spätere Parametrisierung, ohne selbst als eigenständige Modellparameter geführt zu werden.
 
 ### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
+
 \label{term:paradigmen-modellparameter}
 
 Mit den rekonstruierten Paradigmenunterschieden ist der Punkt erreicht, an dem die bildungswissenschaftliche Analyse in eine dynamische Modelllogik übergeht. Für die weitere Arbeit werden die Differenzen deshalb als Parameter lesbar gemacht, über die Lernarrangements im LMS unterschiedlich beschrieben werden können. Gemeint sind vor allem der Grad externer Steuerung, die Dichte von Rückkopplung, die Sensitivität für Kontext, die Intensität von Irritation, das Verhältnis von Offenheit und Sequenzierung sowie die Rolle von Evaluation. Diese Parameter verdichten die zuvor herausgearbeiteten Wirkannahmen in eine Form, die für die spätere Modellierung anschlussfähig ist, ohne sie schon in methodische Operationen zu übersetzen.
@@ -398,19 +397,13 @@ Gerade darin liegt die Funktion dieses Abschnitts für die Dissertation. Er verb
 
 Am Ende dieses Abschnittes schließt sich damit der Kreis zu \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt~2.1}. Die dort herausgearbeiteten Trägervariablen werden hier bildungswissenschaftlich lesbar gemacht. Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse und dispositionale Merkmale erscheinen aus dieser Perspektive als subjektbezogene Voraussetzungen, an die unterschiedliche Lehr-Lern-Paradigmen in je eigener Weise anschließen. Gerade deshalb ist der systemisch-konstruktivistische Zugriff für die Dissertation wirkungsaffin. Er kann die Kopplung zwischen subjektiver Verarbeitung, sozialer Interaktion und technischer Architektur theoretisch führen und hält lineare Kausalannahmen dabei bewusst in Grenzen. Mit dieser Rückbindung ist zugleich die Brücke zu \hyperref[sec:MedienpaedagogischeRahmung]{Abschnitt~2.3} gelegt, in dem sich dieselben Wirkannahmen in medienpädagogischen Gestaltungslogiken und architektonischen Entscheidungen konkretisieren.
 
----
-
 Die rekonstruierten paradigmatischen Differenzen werden im Folgenden als medienpädagogische Gestaltungslogiken weitergeführt und konkretisiert. Medienpädagogik fungiert dabei als disziplinäre Perspektive, in der sich diese Parameter in Architektur-, Interaktions- und Evaluationsentscheidungen materialisieren.
 
 ## 2.3 Medienpädagogische Rahmung {#sec:MedienpaedagogischeRahmung}
 
 \label{term:medienpaedagogische-rahmung}
 
----
-
 In diesem Abschnitt werden diese Wirkannahmen unter der Perspektive der Medialität und der mediendidaktischen Gestaltung weitergeführt. Digitale Lernräume erscheinen dabei als sozio-technische Architekturen, in denen sich theoretische Setzungen in Rollen, Rückkopplungen, Sichtbarkeiten und Evaluationsformen niederschlagen. 
-
----
 
 Dieser Abschnitt führt medienpädagogische Grundannahmen, Begriffe und Diskurse zusammen, die für die Analyse digitaler Lernarchitekturen leitend sind. Medienpädagogik wird dabei als Teildisziplin der Erziehungswissenschaft verstanden, die mediale Bedingungen von Bildung, Erziehung und Lernen reflektiert und damit Anschlussstellen für Gestaltung, Organisation und professionelle Praxis in digitalen Bildungsräumen bereitstellt. [@huber_einfuhrung_2023, Seite 1]
 
@@ -423,6 +416,7 @@ Daraus ergibt sich die innere Logik dieses Abschnitts. Medienpädagogik arbeitet
 Eine handhabbare Verdichtung dieser Einbettungslogik zeigen @kotitschke_moodle_2026 mit der „AVIVA+ Moodle-Matrix“. Moodle erscheint dort als prozessualer Lernraum, dessen Qualität über die Orchestrierung von Lernphasen, Sozialformen und Rückkopplungspunkten entsteht. Interessant ist der Beitrag deshalb, weil er die medienpädagogische Rahmung bis an die Architektur heranführt und Prozesskohärenz, diagnostische Deutung von Datenspuren und die Übersetzung von Rückmeldungen als zusammengehörige Gestaltungsleistung sichtbar macht. [@kotitschke_moodle_2026]
 
 ### 2.3.1 Medienpädagogik als Disziplin und Perspektive {#sec:Medienpaedagogik-Disziplin}
+
 \label{term:medienpaedagogik-disziplin}
 
 Medienpädagogik entfaltet eine epistemische Perspektive auf digitale Räume, indem sie die Bedingungen von Bildung unter Medialität in den Blick nimmt. Die herangezogenen Arbeiten zeigen übereinstimmend, dass Lernerfolg in digitalen Settings nicht durch Plattformfunktionen erklärt werden kann. Plausibel wird er über soziale und kognitive Regulations‑ und Reflexionsprozesse. Die Akzentsetzungen unterscheiden sich jedoch. @vuorenmaa_how_2024 arbeiten die Dynamik geteilter und kooperativer Regulation in CSCL‑Settings heraus. @andrayani_role_2025 koppeln Kollaboration an strukturierte Reflexion und Motivation und fokussieren damit stärker didaktische Rahmungen und individuelle Anschlussfähigkeit. @schulz_game_2024 und @rieser_gemeinsame_2025 verknüpfen Peer‑Tutoring‑Arrangements mit Selbstregulationsmodellen und markieren den Übergang zwischen individueller und sozialer Steuerung. Zusammen konturieren diese Perspektiven Wirkung als relational, prozessual und deutungsabhängig.
@@ -510,11 +504,7 @@ Vor diesem Hintergrund wird eine wiederkehrende Ambivalenz digitaler Bildungsrä
 
 \label{term:technologiedefizit-exkurs}
 
----
-
 Abschnitt 2.4 setzt mit dem Technologiedefizit eine systemtheoretische Begrenzung, die direkte Steuerungsversprechen relativiert und die Kontingenz pädagogischer Wirkung expliziert.
-
----
 
 Digitale Systeme können Bildungsprozesse in hoch relevanter Weise strukturieren; eine unreflektierte Technikaffinität läuft jedoch Gefahr, Bildung zu überschatten, wenn Wirkungserwartungen als deterministische Zweck‑Mittel‑Ketten missverstanden werden. Genau an dieser Stelle wird der Technologiedefizit‑Diskurs anschlussfähig, weil er die Grenze markiert, an der Technologieversprechen (im Sinne planbarer Steuerung) in pädagogischen Kontexten in Ungewissheit übergehen und deshalb in Reflexions‑ und Dokumentationslogiken überführt werden müssen. [@dittler_technologiedefizite_2009, Seite 78]
 
@@ -579,15 +569,12 @@ Das LMS wird als Teil eines Wirkgefüges untersucht, in dem Designentscheidungen
 Damit schiebt dieser Exkurs einen epistemischen Riegel vor jede Form von Steuerungsillusion, ohne Gestaltungsansprüche abzuräumen. Das LMS kann Kompetenzentwicklung unterstützen oder behindern, doch die wissenschaftliche Tragfähigkeit entsteht erst dort, wo die begrenzte Steuerbarkeit explizit wird und die methodische Bearbeitung von Ungewissheit als Teil des Erkenntnisprozesses ausgewiesen ist. Genau daraus folgt der Übergang in das Modell der systemischen Dynamik (Abschnitt~\hyperref[sec:SystemischeDynamik]{2.5}), das Wirkungen als gekoppelte, rückgekoppelte und damit grundsätzlich nicht‑lineare Prozesse führt, die empirisch anschlussfähig, zugleich aber nur probabilistisch stabilisierbar sind. [@dittler_technologiedefizite_2009, Seite 78]
 
 ## 2.5 Systemische Dynamik des digitalen Bildungswirkgefüges {#sec:SystemischeDynamik}
+
 \label{term:systemische-dynamik}
 
 \label{term:digitales-bildungswirkgefuge}
 
----
-
 Abschnitt 2.5 bündelt die zuvor entwickelten Ebenen in einem Modell systemischer Dynamik, in dem psychische Trägervariablen, bildungswissenschaftliche Wirkannahmen, mediale Strukturbedingungen und Steuerungsgrenzen als gekoppeltes Wirkgefüge formal integriert werden.
-
----
 
 Dieser Abschnitt löst die in \hyperref[sec:MedienpaedagogischeRahmung]{Abschnitt 2.3} formulierte Gefahr einer Überblendung von Bildung durch Technik (und ihre begriffliche Absicherung im \hyperref[sec:Technologiedefizit]{Technologiedefizit‑Exkurs 2.4}) dadurch auf, dass das LMS als Kopplungsarchitektur im digitalen Bildungswirkgefüge modelliert wird: Technik wird als Strukturangebot geführt, dessen Wirkungen über Rückkopplungen mit Bedürfnissen, Emotionen, Kompetenzentwicklung und organisationalen Praktiken emergieren. Damit bleibt Gestaltung möglich, ohne Steuerbarkeit zu behaupten; Wirkung wird als relational, nicht‑linear und nur probabilistisch stabilisierbar gefasst.
 
