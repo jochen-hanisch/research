@@ -121,11 +121,7 @@ Gestalterisch folgen daraus die Salienzsteuerung zugunsten funktionaler Elemente
 
 Die P‑QIA-Ergebnisse zu FU$_{4b}$ rahmen diese Beobachtungen als infrastrukturelle Mechanismen. Interface- und Visualisierungsgestaltung, dialogische Feedbackfunktionen sowie Mess-/Analysepraktiken (Logdaten, Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1]) werden als gekoppelte Mechanismen beschrieben, mit denen Lernräume gestaltet, beobachtet und iterativ verbessert werden (\hyperref[sec:A-9-FU4b]{Anhang „P‑QIA-Metaanalysen“, FU$_{4b}$}). Gleichzeitig erscheinen Implementationshürden, technische Robustheit und Datenschutz/Offline-Funktionalität als Bedingungen dafür, ob die im Interface angelegten Mechanismen zuverlässig wirksam werden. Damit ordnet FU$_{4b}$ die Blickmuster als Mechanismenebene in das Wirkgefüge ein. Sichtbarkeit, Rückkopplung und technische Verlässlichkeit sind operative Hebel, über die sich Lernhandlungen im digitalen Bildungsraum stabilisieren oder entkoppeln.
 
-Implikationen für Skalierung, Stabilität und didaktische Architektur
-
-#todo Rückbindung an 3.3 Technische Architektur
-
-\hyperref[sec:TechnischeArchitektur]{Abschnitt 3.3}
+Die in FU$_{4b}$ beobachteten Blickmuster lassen sich damit als Ausdruck der in \hyperref[sec:TechnischeArchitektur]{Abschnitt 3.3} rekonstruierten Plattformarchitektur lesen und nicht als bloße Oberflächenphänomene. Dass Fixationen regelmäßig an Navigation, Breadcrumbs, links‑/oben platzierten Ankern sowie an Progress- und Rückmeldungselementen beginnen, verweist auf eine technische Ordnungslogik, in der Moodle über standardisierte Navigationspfade, Sichtbarkeitsregeln, rollenabhängige Seitenstrukturen und klar definierte Feedbackaktivitäten Zugriffe vorstrukturiert. Auch die verspätete Fixation rechtsbündiger Steuerungselemente und die Konkurrenz zwischen bildlicher Salienz und funktionalen Handlungszonen erscheinen vor diesem Hintergrund nicht zufällig, sondern als Folge konkreter Architekturentscheidungen darüber, wo Steuerung, Rückkopplung und Freischaltung im System sichtbar werden. Die Eye-Tracking-Befunde markieren damit eine architektonisch verankerte Ergebnislinie. Sie zeigen, wie sich technische Standardlogiken und lokale Konfigurationsentscheidungen des Moodle-Setups unmittelbar in Wahrnehmungs- und Handlungspfade der Lernenden einschreiben.
 
 
 ### 5.3.7 FU$_{6}$: LMS als Kompetenzerwerbssystem {#sec:Ergebnisse-FU6}
