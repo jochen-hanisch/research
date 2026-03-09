@@ -4,8 +4,6 @@
 
 \label{term:theorieteil}
 
----
-
 ## Leitfrage und Leitlogik für Kapitel 2 {#sec:Leitfrage-Leitlogik-Kap2}
 
 \label{term:leitfrage-leitlogik-kap2}
