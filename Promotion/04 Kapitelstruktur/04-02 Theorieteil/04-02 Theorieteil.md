@@ -12,110 +12,25 @@
 
 Welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung sind in unterschiedlichen Lehrparadigmen unterstellt – und wie übersetzen sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS)?
 
-Die Leitfrage enthält zwei Ebenen:
+Die Leitfrage verbindet zwei Ebenen. Zum einen fragt sie nach den epistemischen Voraussetzungen der jeweiligen Lehrparadigmen, also danach, welches Lernen, Wissen, Steuerbarkeit und Wirkung jeweils unterstellt werden. Zum anderen richtet sie den Blick auf die architekturelle Ebene und damit auf die Frage, wie sich solche Annahmen in konkrete Strukturentscheidungen eines LMS einschreiben. Kapitel 2 ist deshalb nicht als Paradigmenübersicht angelegt, sondern als Rekonstruktion impliziter Wirkannahmen, die in digitalen Lernarchitekturen als architekturwirksame Kausalpläne wirksam werden.
 
-1. **Epistemische Ebene**: Welche impliziten Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung werden jeweils vorausgesetzt?
-2. **Architekturelle Ebene**: Wie werden diese Annahmen in konkrete Architekturentscheidungen eines LMS eingeschrieben?
+Für die weitere Analyse ist dabei durchgehend dieselbe Vergleichsrichtung leitend. Untersucht wird, welches Wissensverständnis ein Paradigma voraussetzt, über welche Lernmechanismen Wirkung plausibilisiert wird, wie Steuerung gedacht wird, welche Rolle Irritation, Feedback und Evaluation spielen und welche Architekturimplikationen sich daraus für ein LMS ergeben. Auf diese Weise werden instruktionistische, kognitivistische, situative und systemisch-konstruktivistische Zugriffe nicht als konkurrierende Schulen behandelt, sondern als unterschiedliche Annahmestrukturen, die verschiedene Kopplungslogiken nahelegen. Gerade diese Unterschiede sind für die spätere Parametrisierung wichtig, weil sie sich in Größen wie externer Steuerung, Rückkopplungsdichte, Kontextsensitivität, Irritationsintensität und Offenheit von Lernpfaden niederschlagen.
 
-Damit wird Kapitel 2 nicht zur Paradigmenübersicht, sondern zur theorieanalytischen Rekonstruktion impliziter Wirkannahmen als *architekturwirksame Kausalpläne* (anschlussfähig u. a. an den Technologiedefizit-Diskurs).
-
-### Argumentative Grundstruktur (These–Antithese–Synthese) {#sec:Argumentative-Grundstruktur}
-\label{term:argumentative-grundstruktur}
-
-**These**
-
-Lehrparadigmen enthalten implizite Wirkannahmen über Lernen. Diese betreffen u. a. Wissensbegriff, Steuerbarkeit von Lernprozessen, Rollen von Lehrenden/Lernenden, Verhältnis von Input/Output, Bedeutung von Kontext sowie den Status von Evaluation. Diese Annahmen sind nicht bloß „Theorie“, sondern strukturieren didaktische Architekturentscheidungen.
-
-**Antithese**
-
-Digitale Lernsysteme werden häufig implementiert, ohne dass die zugrunde liegenden Wirkannahmen expliziert werden. Dadurch entstehen Steuerungsillusionen oder inkonsistente Architekturen (paradigmatisch widersprüchliche Konstruktionsentscheidungen).
-
-**Synthese**
-
-Lehrparadigmen lassen sich als unterschiedliche Annahmestrukturen modellieren, die in der Architektur eines LMS unterschiedliche Wirkgefüge erzeugen. Damit wird die nachfolgende Modellierung nicht Add-on, sondern Konsequenz der Analyse.
-
-Kapitel 2 folgt einer gestuften Ebenenlogik, die vom psychischen System über bildungswissenschaftliche und medienpädagogische Rahmungen bis zur systemtheoretischen Modellintegration führt.
-
----
-
-### Analytische Vergleichsdimensionen (Paradigmenanalyse) {#sec:Analytische-Vergleichsdimensionen}
-
-\label{term:analytische-vergleichsdimensionen}
-
-Für jedes Paradigma wird nicht „referiert“, sondern entlang derselben Dimensionen rekonstruiert:
-
-1. Wissensverständnis  
-2. Lernmechanismus  
-3. Steuerungslogik  
-4. Rolle der Irritation  
-5. Rolle von Feedback  
-6. Evaluation  
-7. Architekturimplikation für ein LMS
-
-### Paradigmen als Wirkannahmen (Skizze) {#sec:Paradigmen-Wirkannahmen-Skizze}
-
-\label{term:paradigmen-wirkannahmen-skizze}
-
-**Instruktionistische Wirkannahmen**
-
-- Wissen als übertragbare Einheit; Lernen als Rezeption
-- Steuerung durch Sequenzierung; Evaluation als Outputkontrolle
-- LMS-Implikation: lineare Kursstruktur, Tests, klare Progression
-
-**Kognitivistische Wirkannahmen**
-
-- Wissen als mentale Struktur; Lernen als Informationsverarbeitung
-- Steuerung durch Aktivierung/Strukturierung (Scaffolding)
-- LMS-Implikation: Advance Organizer, adaptive Aufgaben, Unterstützungslogiken
-
-**Situative / sozialkonstruktivistische Wirkannahmen**
-
-- Wissen als situierte Praxis; Lernen als Teilnahme
-- Steuerung über soziale Einbettung und Aushandlung
-- LMS-Implikation: Foren, kollaborative Artefakte, Rollen-/Gruppenlogiken
-
-**Systemisch-konstruktivistische Referenzrahmung**
-
-- Wissen als selbstreferenzielle Konstruktion; Lernen als Irritationsverarbeitung
-- Steuerung nur indirekt über Strukturangebote; Evaluation als Beobachtung von Anschlussfähigkeit
-- LMS-Implikation: Feedbackschleifen, Reflexionsräume, Reentry-/Rekursionsstrukturen
-
-### Brücke zum Wirkgefüge / Parametrisierung {#sec:Bruecke-Wirkgefuege-Parametrisierung}
-
-\label{term:bruecke-wirkgefuege-parametrisierung}
-
-Paradigmen unterscheiden sich nicht nur normativ, sondern dynamisch: Sie implizieren unterschiedliche Kopplungslogiken (z. B. linear, adaptiv, sozial-regulativ, selbstreferenziell). Diese Differenzen lassen sich als Modellparameter führen, z. B.:
-- Grad externer Steuerung
-- Varianz und Taktung von Rückkopplung
-- Kontextsensitivität
-- Irritationsintensität
-- Stabilität vs. Offenheit von Lernpfaden
-
-### Wissenschaftstheoretischer Gewinn (Kurz) {#sec:Wissenschaftstheoretischer-Gewinn}
-
-\label{term:wissenschaftstheoretischer-gewinn}
-
-Die Leitfrage (1) expliziert implizite Kausalannahmen, (2) macht Architekturentscheidungen theorieabhängig und (3) vermeidet normative Paradigmenhierarchien zugunsten einer Analyse unterschiedlicher Dynamiken und Wirkgefüge.
+Wissenschaftstheoretisch liegt der Gewinn dieses Zugriffs darin, implizite Kausalannahmen sichtbar zu machen, Architekturentscheidungen theorieabhängig zu lesen und normative Paradigmenhierarchien zugunsten einer Analyse unterschiedlicher Wirklogiken zurückzustellen. Die Modellierung, die in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} folgt, erscheint damit als Konsequenz der Analyse und nicht als nachträglicher Zusatz.
 
 ## Einführung in Kapitel 2
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/04-02_lesepfad.tex}
 
-Dieses Kapitel ist bewusst nicht als historische oder systematische Übersicht von Lehrparadigmen angelegt, sondern als theorieanalytische Rekonstruktion ihrer *impliziten Wirkannahmen* mit Blick auf die architekturwirksamen Konsequenzen im Learning Management System (LMS). Im Zentrum steht die Frage, welche Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung jeweils vorausgesetzt werden und wie sie sich in Strukturentscheidungen wie Sequenzierung, Rückmeldung, Rollenlogiken, Sichtbarkeit und Evaluation niederschlagen. Die folgenden Abschnitte (2.1–2.5) dienen damit zugleich der begrifflichen Klärung und der Parametrisierung jenes Zusammenhangs, der später modelliert und im konkreten System rekonstruiert wird.
+Dieses Kapitel entwickelt den theoretischen Rahmen der Dissertation. Im Zentrum steht die Frage, welche Annahmen über Lernen, Wissen, Steuerbarkeit und Wirkung in unterschiedlichen Lehrparadigmen vorausgesetzt werden und wie sie sich in Strukturentscheidungen wie Sequenzierung, Rückmeldung, Rollenlogiken, Sichtbarkeit und Evaluation niederschlagen. Die folgenden Abschnitte dienen damit zugleich der begrifflichen Klärung und der theoretischen Vorbereitung jenes Zusammenhangs, der später modelliert und im konkreten System rekonstruiert wird.
 
-Als bildungswissenschaftliche Referenzrahmung bündelt der Theorieteil systemisch-konstruktivistische Linien über gemeinsame Leitgedanken. @siebert_padagogischer_2003, @reich_konstruktivistische_2006 sowie @arnold_systemische_2010 und @arnold_systemische_2015 verstehen Lernen als selbsttätige Konstruktion, als kontextgebundenen Prozess und als Geschehen, das sich nur begrenzt direkt steuern lässt. Diese Verdichtung bildet im frühen Theorieteil den Hintergrund für die psychologischen Trägervariablen und wird in \hyperref[sec:Bildungswiss-Verortung]{Abschnitt 2.2} bildungswissenschaftlich weiter entfaltet.
-
-In diesem Kapitel wird der theoretische Rahmen der Dissertation entwickelt. Ziel ist es, jene zentralen Begriffe und Konzepte zu klären, auf denen die spätere Modellierung und empirische Untersuchung aufbauen. Der Theorieteil gliedert sich in fünf Abschnitte, die unterschiedliche Perspektiven auf das digitale Bildungswirkgefüge eröffnen und zugleich aufeinander bezogen sind. Grundlage ist dabei die Unterscheidung zwischen Begriff, Phänomen und Konstrukt.
-
-- **Begriff** fachsprachliche Benennung und Abgrenzung mit Blick auf Semantik, Traditionslinie und definitorische Entscheidung
-- **Phänomen** beobachtbare Erscheinungsform im Feld, etwa Praxis, Ereignis, Artefakt, Interaktion oder Dokument
-- **Konstrukt** theoretische Größe oder Mechanismus, der über Indikatoren und Datenspuren erschlossen wird
+Als bildungswissenschaftliche Referenzrahmung bündelt der Theorieteil systemisch-konstruktivistische Linien über gemeinsame Leitgedanken. @siebert_padagogischer_2003, @reich_konstruktivistische_2006 sowie @arnold_systemische_2010 und @arnold_systemische_2015 verstehen Lernen als selbsttätige Konstruktion, als kontextgebundenen Prozess und als Geschehen, das sich nur begrenzt direkt steuern lässt. Diese Verdichtung bildet im frühen Theorieteil den Hintergrund für die psychologischen Trägervariablen und wird in \hyperref[sec:Bildungswiss-Verortung]{Abschnitt 2.2} bildungswissenschaftlich weiter entfaltet. Zugleich arbeitet Kapitel 2 mit der Unterscheidung zwischen Begriff, Phänomen und Konstrukt. Begriffe dienen der fachsprachlichen Benennung und Abgrenzung, Phänomene bezeichnen beobachtbare Erscheinungsformen im Feld, und Konstrukte verweisen auf theoretische Größen oder Mechanismen, die nur über Indikatoren und Datenspuren erschlossen werden können.
 
 Für die Einordnung und Abgrenzung der Leitbegriffe werden neben Forschungsbeiträgen auch lexikalische und begriffsgeschichtliche Referenzen herangezogen, insbesondere einschlägige pädagogische und psychologische Nachschlagewerke. [@tenorth_konstrukte_2007, Seite 418; @tenorth_medien_2007, Seiten 494-495; @wirtz_konstrukt_2020, Seite 983; @wirtz_kompetenz_2020, Seiten 964-965]
 
 Der Theorieteil legt den begrifflichen und konzeptuellen Rahmen der Dissertation fest. Er verschränkt psychologische Funktionslogiken, bildungswissenschaftliche Grundlagen und medienpädagogische Rahmungen, aus denen später das eigens entwickelte Modell des digitalen Bildungswirkgefüges hervorgeht. Statt eines traditionellen Lehrbuchüberblicks rückt er jene theoretischen Grundannahmen in den Vordergrund, die für die Analyse des untersuchten Learning Management Systems (LMS) maßgeblich sind. Im Mittelpunkt stehen die Definitionen von Bildung, Digitalität und Kompetenzentwicklung im systemisch-konstruktivistischen Rahmen. Sie werden so gefasst, dass sie den digitalen Bildungsraum als sozial, kulturell, technisch und institutionell gerahmten Zusammenhang erschließen und zugleich subjektive Prozesse wie strukturelle Bedingungen sichtbar machen.
 
-Die Kapitelbewegung folgt dabei einer durchgehenden Analyseachse: Rekonstruiert werden die Merkmale des LMS, die beobachtbaren Effekte im Lern- und Lehrhandeln, die zugrunde liegenden Mechanismen sowie die Reaktionen der beteiligten Akteurinnen und Akteure. Diese Perspektive gibt Kapitel 2 seine innere Ordnung und verbindet die begriffliche Arbeit des Theorieteils mit den späteren Forschungsunterfragen.
+Die Kapitelbewegung folgt dabei einer durchgehenden Analyseachse. Rekonstruiert werden die Merkmale des LMS, die beobachtbaren Effekte im Lern- und Lehrhandeln, die zugrunde liegenden Mechanismen sowie die Reaktionen der beteiligten Akteurinnen und Akteure. Diese Perspektive gibt Kapitel 2 seine innere Ordnung und verbindet die begriffliche Arbeit des Theorieteils mit den späteren Forschungsunterfragen.
 
 \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.1} setzt beim psychischen System an. Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale werden als zentrale Trägervariablen bestimmt, die die Handlungsperspektive der Lernenden prägen. Diese Ebene beschreibt, wie Lernprozesse auf individueller Seite entstehen, reguliert werden und wie digitale Lernarchitekturen sie unterstützen oder behindern können. So wird verständlich, weshalb das LMS in dieser Arbeit als Strukturangebot gefasst wird, das Irritations‑ und Orientierungsbedingungen bereitstellt und damit Handlungsmöglichkeiten unter konkreten Kontextbedingungen verschiebt.
 
@@ -131,19 +46,15 @@ Die hier entwickelten theoretischen Elemente werden in \hyperref[sec:Diskussion-
 
 ## Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
-Für die weitere Argumentation werden drei Basisbegriffe (Wirkung, Gefüge, Wirkgefüge) systematisch hergeleitet und anschließend definitorisch fixiert. Die Begriffe dienen in den Abschnitten 2.1–2.5 als begriffliche Klammer (\hyperref[tab:A-1]{Begriffstableau im Anhang}).
+Für die weitere Argumentation werden drei Basisbegriffe geklärt, die Kapitel 2 zusammenhalten: Wirkung, Gefüge und Wirkgefüge. Sie bilden die begriffliche Klammer der Abschnitte 2.1 bis 2.5 und werden im \hyperref[tab:A-1]{Begriffstableau im Anhang} noch einmal übersichtlich zusammengeführt.
 
 **Wirkung**
 
-**Herleitung.** „Wirkung“ wird in Bildungs‑, Sozial‑ und Gesundheitsdiskursen oft wie ein selbsterklärender Begriff verwendet, meist im Sinn von „Effekt“. Unter Bedingungen von Komplexität und Kontingenz, insbesondere in pädagogischen Settings, führt eine implizite lineare Ursache‑Wirkung‑Semantik jedoch schnell zu Kurzschlüssen. Nicht jeder beobachtbare Unterschied ist bereits „Wirkung“, und Wirkungen sind selten eindeutig einem Einzelfaktor zurechenbar. [@luhmann_gesellschaft_2015]
+**Herleitung.** „Wirkung“ wird in Bildungs‑, Sozial‑ und Gesundheitsdiskursen häufig wie ein selbsterklärender Begriff verwendet, meist im Sinn von „Effekt“. Unter Bedingungen von Komplexität und Kontingenz, besonders in pädagogischen Settings, führt eine lineare Ursache‑Wirkung‑Semantik jedoch schnell zu Kurzschlüssen. Nicht jede beobachtbare Differenz ist bereits eine Wirkung, und Wirkungen lassen sich nur selten einem einzelnen Faktor eindeutig zurechnen. [@luhmann_gesellschaft_2015]
 
-Für den Theorieaufbau dieser Arbeit ist deshalb eine engere Fassung nötig, die drei Aspekte bündelt:
+Für den Theorieaufbau dieser Arbeit wird Wirkung deshalb enger gefasst. Erstens setzt sie eine unterscheidbare Zustandsdifferenz voraus. Zweitens bleibt sie an eine begründete Zurechnung auf Konstellationen und Bedingungsbündel gebunden. Drittens wird sie dort analytisch relevant, wo sie weitere Zustandsverläufe verändert und damit Anschlussmöglichkeiten oder Anschlusswahrscheinlichkeiten verschiebt. Wirkung bezeichnet in dieser Arbeit also keine isolierte Folge, sondern eine Differenz, die im Verlauf weitere Unterschiede nach sich zieht und deshalb für das Wirkgefüge bedeutsam wird.
 
-- **Differenz**: Wirkung setzt eine unterscheidbare Zustandsdifferenz voraus (vorher/nachher; mehr/weniger; anders/gleich) – aber nicht jede Differenz ist schon Wirkung.
-- **Zurechnung**: Wirkung ist immer auch eine begründete Bezugnahme auf eine Konstellation (Bedingungsbündel) und damit eine beobachtungs‑ und argumentationsgebundene Zuschreibung (ohne deshalb beliebig zu werden).
-- **Anschlussrelevanz im Verlauf**: Zur Wirkung wird eine Differenz dort, wo sie weitere Zustandsverläufe modifiziert, also Anschlussmöglichkeiten und Anschlusswahrscheinlichkeiten verschiebt (z. B. welche Lernhandlungen möglich/naheliegend werden, welche Rückkopplungen entstehen, welche Stabilisierungspfade sich öffnen/schließen).
-
-Diese Präzisierung erlaubt es, Wirkbehauptungen als verlaufsbezogene, konstellationsgebundene Aussagen zu behandeln, die später im Wirkgefüge und über methodische Prüflogiken wie Triangulation und Kausalpläne geführt werden.
+Diese Präzisierung erlaubt es, Wirkbehauptungen als verlaufsbezogene und konstellationsgebundene Aussagen zu behandeln, die später im Wirkgefüge und über Prüflogiken wie Triangulation und Kausalpläne geführt werden.
 
 **Definition.** *Wirkung bezeichnet eine im Verlauf rekonstruierbare, anschlussrelevante Differenz zwischen Zuständen, die auf eine Konstellation bezogen wird und weitere Zustandsverläufe modifiziert.*
 
@@ -153,12 +64,7 @@ In dieser Arbeit wird Wirkung als Beobachtungs‑ und Zurechnungskategorie gefas
 
 \label{term:gefuege}
 
-**Herleitung.** Um Wirkung nicht als Eigenschaft isolierter Elemente zu missverstehen, wird „Gefüge“ als Strukturbegriff vorgeschaltet. Dabei ist eine Unterscheidung zentral:
-
-- **Struktur** bezeichnet die Binnenordnung eines einzelnen Elements (z. B. Aufgabenlogik, Forenstruktur, Bewertungs‑/Feedbackregeln).
-- **Gefüge** bezeichnet demgegenüber die relationale Anordnung mehrerer strukturierter Elemente zueinander (z. B. wie Aufgabe–Forum–Feedback–Rollen–Zeitlogik–Sichtbarkeit gekoppelt werden).
-
-Für den Forschungsgegenstand wird diese Perspektive in Kapitel \hyperref[sec:Forschungsgegenstand]{3} unmittelbar anschlussfähig gemacht, indem die LMS‑Architektur aus einer Gefügeperspektive rekonstruiert wird (Abschnitt \hyperref[sec:Gefuegeperspektive-FG]{3.0}). [@duden_duden_2021]
+**Herleitung.** Um Wirkung nicht als Eigenschaft isolierter Elemente zu missverstehen, wird „Gefüge“ als Strukturbegriff vorgeschaltet. Struktur bezeichnet dabei die Binnenordnung eines einzelnen Elements, etwa die Logik einer Aufgabe, eines Forums oder eines Bewertungssystems. Gefüge meint demgegenüber die relationale Anordnung mehrerer solcher strukturierter Elemente zueinander. Für den Forschungsgegenstand wird diese Perspektive in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} unmittelbar anschlussfähig, wenn die LMS‑Architektur aus einer Gefügeperspektive rekonstruiert wird, also als Kopplung von Aufgaben, Rückmeldungen, Rollen, Zeitlogiken und Sichtbarkeiten. [@duden_duden_2021]
 
 **Definition.** *Gefüge bezeichnet die relationale Gesamtanordnung von Elementen und ihren Wechselbezügen; es meint nicht die Summe der Bestandteile, sondern die Ordnung ihrer Kopplungen.* [@duden_duden_2021]
 
@@ -166,9 +72,9 @@ In dieser Arbeit wird Gefüge als analytische Beschreibung der Kopplungsordnung 
 
 **Wirkgefüge**
 
-**Herleitung.** Ein Wirkgefüge fokussiert das Gefüge unter der Perspektive von Wirkung: Welche Kopplungen erzeugen welche (fördernden und hemmenden) Wirkpfade, wie überlagern sich diese, und wo treten Rückkopplungen, Stabilisierung oder Kippstellen auf? Damit wird der Blick von „wirkt X?“ auf „welche Wirkpfade werden im Zusammenspiel wahrscheinlicher/ unwahrscheinlicher?“ verschoben. Diese Verschiebung ist für die Analyse von LMS‑Architekturen leitend, weil pädagogische Wirkzusammenhänge typischerweise über mehrere, gleichzeitig wirksame Bedingungen vermittelt sind.
+**Herleitung.** Ein Wirkgefüge betrachtet ein Gefüge unter der Perspektive von Wirkung. Gefragt wird also, welche Kopplungen welche Wirkpfade eröffnen, wie sich diese überlagern und an welchen Stellen Rückkopplungen, Stabilisierung oder Kippstellen auftreten. Damit verschiebt sich der Blick von der isolierten Frage, ob etwas wirkt, auf die Frage, welche Wirkpfade im Zusammenspiel verschiedener Bedingungen wahrscheinlicher oder unwahrscheinlicher werden. Das ist für die Analyse von LMS‑Architekturen leitend, weil pädagogische Wirkzusammenhänge typischerweise über mehrere, zugleich wirksame Bedingungen vermittelt sind.
 
-Zugleich wird damit ein verbreiteter Engpass vermieden: Ein „Wirkprinzip“ (ein einzelner Mechanismus) erklärt in komplexen Bildungssettings selten hinreichend, *warum* etwas „wirkt“; entscheidend ist das Zusammenwirken mehrerer Bedingungen im Zeitverlauf (z. B. Strukturierung $\leftrightarrow$ Motivation $\leftrightarrow$ Rückmeldung $\leftrightarrow$ Sichtbarkeit $\leftrightarrow$ soziale Einbettung). Ein Wirkgefüge benennt genau diese Interdependenzen und macht damit auch systematische Nebenwirkungen, Dämpfungen und Verstärkungen beschreibbar. [@wirtz_wirkungsgefuge_2020]
+Damit wird zugleich ein verbreiteter Engpass vermieden. Ein einzelner Mechanismus erklärt in komplexen Bildungssettings selten hinreichend, warum etwas trägt oder scheitert. Entscheidend ist vielmehr das Zusammenwirken mehrerer Bedingungen im Zeitverlauf, etwa von Strukturierung, Motivation, Rückmeldung, Sichtbarkeit und sozialer Einbettung. Ein Wirkgefüge benennt genau diese Interdependenzen und macht damit auch Nebenwirkungen, Dämpfungen und Verstärkungen beschreibbar. [@wirtz_wirkungsgefuge_2020]
 
 **Definition.** *Wirkgefüge bezeichnet den Wechselwirkungszusammenhang eines Gefüges unter der Perspektive von Wirkung; es umfasst zugleich fördernde und hemmende Wirkpfade und ihre Rückkopplungen.* [@wirtz_wirkungsgefuge_2020]
 
@@ -184,7 +90,7 @@ Dieser Abschnitt entfaltet pädagogisch-psychologische Grundannahmen und bestimm
 
 Zudem werden hier Trägervariablen als Bedingungen sichtbar, unter denen Lernhandeln wahrscheinlich, unwahrscheinlich oder brüchig wird. Bedürfnisse, Emotionen, Neugier, persönliche Ereignisse und dispositionale Merkmale werden deshalb als Faktoren gefasst, unter denen Lernende ein Angebot annehmen, zurückweisen oder eigensinnig umdeuten. Das LMS erscheint dabei als Lernraum, der diese Bedingungen über Struktur, Rückmeldung und Beziehungssignale mitprägt. So entsteht eine Argumentationslinie, die von grundlegenden Bedürfnislagen über Bewertung, Exploration und biografische Verschiebung bis zu stabileren Verarbeitungsdispositionen reicht und von dort zu modellierbaren Wechselbezügen führt.
 
-Die folgenden Unterabschnitte folgen dabei der Dreischichtung Begriff–Phänomen–Konstrukt: Jede Trägervariable wird (1) begrifflich abgegrenzt, (2) als phänomenale Datenspur/Erfahrungsdimension im digitalen Lernvollzug plausibilisiert und (3) für die Modelllogik als Wahrscheinlichkeitsbedingung operationalisiert. [@tenorth_konstrukte_2007; @wirtz_konstrukt_2020]
+Die folgenden Unterabschnitte folgen dieser Dreischichtung. Jede Trägervariable wird begrifflich abgegrenzt, als Erfahrungsdimension im digitalen Lernvollzug plausibilisiert und für die Modelllogik als Wahrscheinlichkeitsbedingung geführt. [@tenorth_konstrukte_2007; @wirtz_konstrukt_2020]
 
 ### 2.1.1 Bedürfnisse als Grundlage {#sec:Beduerfnisse}
 
@@ -381,7 +287,7 @@ Kritische Theorie und Subjektivierungsansätze erweitern diesen Horizont um mach
 
 Transformatorische Bildungstheorien akzentuieren schließlich die Möglichkeit tiefgreifender Veränderungen von Welt‑ und Selbstverhältnissen. Irritation erhält hier eine normative Aufladung: Sie fungiert als Anlass für Perspektivwechsel und Neuordnung bisheriger Deutungsmuster. Lernprozesse werden nicht lediglich als Kompetenzzuwachs, sondern als qualitative Veränderung von Orientierungsrahmen interpretiert. Für digitale Bildungsräume bedeutet dies, dass Gestaltung nicht allein auf Effizienz oder Performanz abzielen kann, sondern Räume eröffnen muss, in denen biografisch bedeutsame Neuorientierungen denkbar werden.
 
-Die Funktion dieses Abschnitts liegt somit darin, die paradigmatischen Wirkannahmen aus den \hyperref[sec:Paradigma-Instruktionistisch]{Abschnitten 2.2.3}, \hyperref[sec:Paradigma-Kognitivistisch]{2.2.4} und \hyperref[sec:Paradigma-Situativ]{2.2.5} in ihren anthropologischen und gesellschaftstheoretischen Voraussetzungen transparent zu machen. Auf diese Weise wird sichtbar, dass Unterschiede zwischen Paradigmen nicht nur auf didaktischer Ebene liegen, sondern in divergierenden Vorstellungen vom Menschen, von Autonomie, von Macht und von Bildung selbst gründen. Diese Tiefendimensionen rahmen die spätere Parametrisierung, ohne selbst als eigenständige Modellparameter geführt zu werden.
+Die Funktion dieses Abschnitts liegt somit darin, die paradigmatischen Wirkannahmen aus den \hyperref[sec:Paradigma-Instruktionistisch]{Abschnitten 2.2.3}, \hyperref[sec:Paradigma-Kognitivistisch]{Abschnitt 2.2.4} und \hyperref[sec:Paradigma-Situativ]{Abschnitt 2.2.5} in ihren anthropologischen und gesellschaftstheoretischen Voraussetzungen transparent zu machen. Auf diese Weise wird sichtbar, dass Unterschiede zwischen Paradigmen nicht nur auf didaktischer Ebene liegen, sondern in divergierenden Vorstellungen vom Menschen, von Autonomie, von Macht und von Bildung selbst gründen. Diese Tiefendimensionen rahmen die spätere Parametrisierung, ohne selbst als eigenständige Modellparameter geführt zu werden.
 
 ### 2.2.7 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 
@@ -494,11 +400,11 @@ Daraus ergibt sich die Modellierung des LMS als Kopplungsarchitektur, die Aufgab
 Die empirischen Befunde – CSCL-Studien, Peer Tutoring, ARCS-Analysen – stabilisieren die medienpädagogische Theorie, weil sie zeigen, wie sozial-regulative, reflexive und relationale Steuerung unter digitalen Bedingungen wirkt. Unterrichtskritik und Erwachsenenbildung – beide mit `Bildungstheorien` und `Promotion:sec:Einleitung-MedienpaedagogischeRahmung` kodiert – liefern explizite Belege dafür, dass medienpädagogische Kritik und reflexive Kontextualisierung strukturell zur Disziplin gehören. [@huber_unterrichtskritik_2023, Seite 653; @huber_erwachsenenbildung_2023, Seite 155]
 
 Dieser Abschnitt fungiert als medienpädagogische Übersetzungs‑ und Brückenstelle, indem er Medialität als strukturierende Bedingung von Bildungsräumen ausweist. Der interaktionistische Konstruktivismus betont, dass „alle Versionen von Wirklichkeit … immer auch kulturell erzeugt“ werden und dass Subjekte ihre Wirklichkeit in Lernprozessen immer wieder neu „erfinden“, während gesellschaftlich zugleich Rahmungen vorgegeben sind. [@wild_ausgewahlte_2021, Seite 5]
-Damit wird zugleich eine Begrenzung von Tool‑Determinismus sichtbar: Wird Digitalität auf Funktionen und Tools reduziert, entstehen Steuerungs‑ und Wirksamkeitserwartungen, die pädagogische Beziehungen, Deutungen und Sinnbildungen marginalisieren. E‑Learning ist in dieser Perspektive als didaktische Konzeption zu lesen, die Handlungs‑ und Erfahrungslogiken explizit rahmt. [@mayer_pragmatismus_2004, Seite 2]
+Damit wird zugleich die Grenze eines toolzentrierten Verständnisses von Digitalität sichtbar. Werden Funktionen und Tools in den Vordergrund gerückt, wachsen leicht Steuerungs- und Wirksamkeitserwartungen, die pädagogische Beziehungen, Deutungen und Sinnbildungen an den Rand drängen. E‑Learning ist in dieser Perspektive als didaktische Konzeption zu lesen, die Handlungs‑ und Erfahrungslogiken explizit rahmt. [@mayer_pragmatismus_2004, Seite 2]
 
 Für diese mediendidaktische Rahmung ist zentral, dass technische Medialität als Bedingungsgefüge begriffen wird. Am Beispiel von E‑Portfolios zeigt @hugger_selbstorganisiertes_2010, wie digitale Organisation (Speicherung/Verwaltung, Nachvollziehbarkeit von Entwicklungsschritten, Tagging, Suchfunktionen, Hyperlinks) und webbasierte Zugänglichkeit Sichtbarkeit, Teilbarkeit und Rückmeldung als Optionen verfügbar machen können. Zugleich wird vor einer euphorischen Verkürzung gewarnt. Lernende seien nicht selbstverständlich mit SOL‑ und Portfolio‑Konzepten sozialisiert, bessere Lernergebnisse seien daher nicht automatisch zu erwarten, und pädagogische Innovation entstehe nicht „durch die Verwendung digitaler Technologien allein“, sondern benötige mediendidaktische Rahmenbedingungen. [@hugger_selbstorganisiertes_2010, Seite 245; @mayrberger_mediendidaktik_2023, Seite 127]
 
-Vor diesem Hintergrund wird eine wiederkehrende Ambivalenz digitaler Bildungsräume sichtbar: Eine starke Technikaffinität kann Bildung überblenden, wenn digitale Systeme primär über Funktions‑, Mess‑ und Implementationslogiken beschrieben werden und Bildungsziele erst nachträglich als Legitimation technischer Möglichkeiten erscheinen. Im ästhetischen Modus der Science‑Fiction‑Reflexion verschärft @pfutzner_sterben_2022 diese Verschiebung am Leitbegriff der Mündigkeit: „Welchen Sinn macht beispielsweise die oft zitierte Mündigkeitsformel im Sinne von Immanuel Kant, wenn die Fähigkeit, den eigenen Verstand ohne Leitung eines anderen zu benutzen, eine Selbstbegrenzung darstellt, die angesichts der heute nötigen und möglichen Hilfsmittel unmündig wäre – weil nur unter Leitung komplexer Algorithmen mündige Urteile zu treffen sind?“ [@pfutzner_sterben_2022, Seite 131]. Damit wird Autonomie nicht als Technikfreiheit, sondern als reflexive Auseinandersetzung mit algorithmischer Vermittlung und ihren normativen Folgelasten sichtbar. Pointiert wird die Gefahr schließlich dort, wo er fragt, was geschieht, wenn das „Technologiedefizit der Pädagogik“ vermeintlich technisch „behoben“ werden kann. [@pfutzner_sterben_2022, Seite 130]
+Vor diesem Hintergrund wird eine wiederkehrende Ambivalenz digitaler Bildungsräume sichtbar. Eine starke Technikaffinität kann Bildung überblenden, wenn digitale Systeme vor allem über Funktions-, Mess- und Implementationslogiken beschrieben werden und Bildungsziele erst nachträglich als Legitimation technischer Möglichkeiten erscheinen. Im ästhetischen Modus der Science-Fiction-Reflexion verschärft @pfutzner_sterben_2022 diese Verschiebung am Leitbegriff der Mündigkeit: „Welchen Sinn macht beispielsweise die oft zitierte Mündigkeitsformel im Sinne von Immanuel Kant, wenn die Fähigkeit, den eigenen Verstand ohne Leitung eines anderen zu benutzen, eine Selbstbegrenzung darstellt, die angesichts der heute nötigen und möglichen Hilfsmittel unmündig wäre – weil nur unter Leitung komplexer Algorithmen mündige Urteile zu treffen sind?“ [@pfutzner_sterben_2022, Seite 131]. Autonomie erscheint damit als reflexive Auseinandersetzung mit algorithmischer Vermittlung und ihren normativen Folgelasten. Pointiert wird die Gefahr schließlich dort, wo er fragt, was geschieht, wenn das „Technologiedefizit der Pädagogik“ vermeintlich technisch „behoben“ werden kann. [@pfutzner_sterben_2022, Seite 130]
 
 ## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}
 
@@ -552,7 +458,7 @@ Zugleich markieren @buck_zwischen_2020, dass die Verwendung der Figur selbst nic
 
 @geschaftsstelle_beim_stifterverband_methode_2021 bindet das Technologiedefizit an die Hochschuldidaktik als wissenschaftliche Praxis, Beratung/Weiterbildung und Disziplin und beschreibt es als strukturelle Schwierigkeit, individuelle Bildungsprozesse und Lehr‑Lern‑Konstellationen mit verallgemeinerbaren, forschungsbasierten Aussagen so zu unterlegen, dass Gestaltung und Wirkung robust planbar werden. Im Kontext der digitalen Transformation kommt eine zusätzliche Defizitdimension hinzu, die sich in infrastrukturellen, technischen und kulturellen Aneignungsanforderungen ausdrückt und damit zusammen ein „doppeltes Technologiedefizit“ bildet. Das ist für die Dissertation anschlussfähig, weil damit die digitale Transformation des Hochschulbereichs zugleich als Technik‑ und als Kultur‑/Kompetenzproblem sichtbar wird und weil sich daraus die Notwendigkeit eines domänenspezifischen, theoriegeleiteten Designs digitaler Lehr‑Lern‑Architekturen begründen lässt. [@geschaftsstelle_beim_stifterverband_methode_2021, Seite 606-607]
 
-Für die Modelllogik dieser Arbeit ist dabei entscheidend, dass die zweite Defizitlinie als Aneignungs‑ und Gestaltungsproblem erkennbar wird und damit über eine reine Ausstattungssemantik („Technik fehlt“) hinausweist: Digitale Transformation betrifft Infrastruktur und Tools, zugleich betrifft sie die Fähigkeit, Medialität, Rollen, Interaktionsformen und didaktische Formate so zu entwerfen, dass sie in der Domäne tragfähige Lern‑ und Kompetenzprozesse ermöglichen. Dadurch wird erklärbar, weshalb ein LMS als Systemarchitektur über die Passung zwischen didaktischem Design, organisationaler Einbettung und subjektbezogenen Trägervariablen bewertet wird, die im Wirkgefüge zusammenlaufen. [@geschaftsstelle_beim_stifterverband_methode_2021, Seite 606-607]
+Für die Modelllogik dieser Arbeit ist dabei entscheidend, dass die zweite Defizitlinie als Aneignungs- und Gestaltungsproblem erkennbar wird und damit über eine reine Ausstattungssemantik hinausweist. Digitale Transformation betrifft Infrastruktur und Tools. Sie betrifft zugleich die Fähigkeit, Medialität, Rollen, Interaktionsformen und didaktische Formate so zu entwerfen, dass sie in der Domäne tragfähige Lern- und Kompetenzprozesse ermöglichen. Dadurch wird erklärbar, weshalb ein LMS als Systemarchitektur über die Passung zwischen didaktischem Design, organisationaler Einbettung und subjektbezogenen Trägervariablen bewertet wird, die im Wirkgefüge zusammenlaufen. [@geschaftsstelle_beim_stifterverband_methode_2021, Seite 606-607]
 
 Hinzu kommt eine implizite Forschungsfolge: Wenn Wirkungszusammenhänge im digitalen Umbau nicht als selbstverständlich vorausgesetzt werden können, steigt der Bedarf an belastbaren Wirkmodellen und an Forschung, die Gelingensbedingungen und Grenzen systematisch identifiziert. Für die Dissertation bedeutet das, dass der Theorieteil (Abschnitte \hyperref[sec:PadagogischPsychologischeGrundannahmen]{2.1} und \hyperref[sec:Bildungswiss-Verortung]{2.2}) und die spätere methodische Absicherung (Abschnitt~\hyperref[sec:Methodenkritik-Absicherung]{4.5.2}) als zusammengehörige Antwort auf dieselbe Defizitlage lesbar werden: begründete Wirkannahmen werden hergestellt und im Verfahren unter Ungewissheit geführt. [@geschaftsstelle_beim_stifterverband_methode_2021, Seite 606-607]
 
