@@ -8,9 +8,9 @@ Die methodische Kopplung liefert die empirische Basis für die interdependente A
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/04-04_lesepfad.tex}
 
-Die folgenden Hinweise bündeln Anforderungen an Nachvollziehbarkeit, Triangulation und Dokumentation. Kapitel 4 stellt die Verfahren daher ausdrücklich als forschungsfragengeleitete Kopplung dar: Datenformen, Auswertungslogiken und Übergänge zwischen den Schritten werden sichtbar gemacht und in ihrem Zusammenhang erläutert.
+Die folgenden Hinweise bündeln Anforderungen an Nachvollziehbarkeit, Triangulation und Dokumentation. Kapitel 4 stellt die Verfahren daher als forschungsfragengeleitete Kopplung dar: Datenformen, Auswertungslogiken und Übergänge zwischen den Schritten werden sichtbar gemacht und in ihrem Zusammenhang erläutert.
 
-Der Aufbau des Kapitels folgt dieser Logik:
+Der Aufbau des Kapitels folgt dieser Forschungslogik:
 
 - \hyperref[sec:Forschungsparadigma]{Abschnitt 4.1}: Forschungsparadigma und methodologischer Ansatz
 - \hyperref[sec:Datenerhebung]{Abschnitt 4.2}: Datenerhebung
@@ -541,7 +541,7 @@ Ein Beispiel mit $S = 0{,}9754$, $n_{\text{Soll}} = 3585$ und $n_{\text{Ist}} = 
 
 ### 4.3.7 Synthese: Methodische Bedeutung für die Gesamtanalyse {#sec:Datenanalyse-Synthese}
 
-Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Validierungslogik. Damit entsteht ein geschlossenes, aber transparentes System, das qualitative Tiefenanalyse, probabilistische Robustheit und kontinuierliche Selbstüberwachung vereint. Diese Methodik bereitet den Boden für die simulationsgestützten Modellierungen des folgenden Abschnitts.
+Die strukturierte Abfolge aus Analysen erster bis dritter Ordnung, P-QIA, mdaCV und epistemischer Verlustfunktion verbindet deduktive Theorietreue mit datenbasierter Plausibilisierung. So entsteht ein transparenter methodischer Zusammenhang, in dem qualitative Tiefenanalyse, formale Prüfgrößen und dokumentierte Reflexionsschritte aufeinander bezogen werden. Diese Methodik bereitet die simulationsgestützten Modellierungen des folgenden Abschnitts vor.
 
 Die methodische Beschreibung des verwendeten $k$-means-Verfahrens ist daher in Abschnitt~\hyperref[sec:mdaCV]{4.3.5} verankert, wo das Verfahren als Bestandteil der mdaCV eingeführt wird. Abschnitt~\hyperref[sec:Datenanalyse-Synthese]{4.3.7} bündelt demgegenüber nur die Funktion der einzelnen Analysebausteine im Gesamtzusammenhang; die konkrete Anwendung der deduktiven Clusterlösung wird anschließend in Abschnitt~\hyperref[sec:Korrelations-Cluster]{4.3.8} visualisiert und interpretiert.
 
