@@ -319,7 +319,7 @@ Ergänzend wird der Nutzungsvollzug über ein webcam-basiertes Remote‑Eye‑Tr
 
 ## 1.5 Aufbau und Lesepfade {#sec:Aufbau-Arbeit}
 
-#todo Schlussabgleich: Einleitung gegen den finalen Stand von Kapitel 2 bis 7 kalibrieren; Forschungsluecke, Forschungsfragen, Kapitelueberblick und Lesepfade auf Endstand ziehen.
+#todo (#123) Schlussabgleich: Einleitung gegen den finalen Stand von Kapitel 2 bis 7 kalibrieren; Forschungsluecke, Forschungsfragen, Kapitelueberblick und Lesepfade auf Endstand ziehen.
 
 Die vorliegende Dissertation ist in sieben Kapitel gegliedert, die entlang spezifischer wissenschaftlicher Operationen das Wirkgefüge des LMS im digitalen Bildungsraum der Gesundheitsberufe systematisch analysieren. Jedes Kapitel erfüllt dabei eine bestimmte Funktion im Erkenntnisprozess und trägt zur schrittweisen Verdichtung des Themas bei.
 
