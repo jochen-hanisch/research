@@ -219,9 +219,13 @@ Insgesamt lassen sich die Implikationen dieser Arbeit als Kopplungsarbeit im dop
 
 ## 7.4 Grenzen der Arbeit {#sec:Conclusio-Grenzen}
 
+#todo Schlussredaktion: Grenzen der Arbeit als Fliesstext ausformulieren; methodische, feldbezogene und Geltungsgrenzen knapp und trennscharf buendeln.
+
 - Reflexion der größten Limitierungen und ihrer Auswirkungen.
 
 ## 7.5 Ausblick {#sec:Conclusio-Ausblick}
+
+#todo Schlussredaktion: Ausblick als wirkliche Schlussbewegung ausformulieren; Forschungs- und Transferperspektiven knapp, folgerichtig und ohne neue Baustellen buendeln.
 
 - Perspektiven für weiterführende Forschung.
 - Skizzierung möglicher Entwicklungs- und Transferpfade.

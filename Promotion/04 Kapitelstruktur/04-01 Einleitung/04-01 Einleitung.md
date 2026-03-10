@@ -319,6 +319,8 @@ Ergänzend wird der Nutzungsvollzug über ein webcam-basiertes Remote‑Eye‑Tr
 
 ## 1.5 Aufbau und Lesepfade {#sec:Aufbau-Arbeit}
 
+#todo Schlussabgleich: Einleitung gegen den finalen Stand von Kapitel 2 bis 7 kalibrieren; Forschungsluecke, Forschungsfragen, Kapitelueberblick und Lesepfade auf Endstand ziehen.
+
 Die vorliegende Dissertation ist in sieben Kapitel gegliedert, die entlang spezifischer wissenschaftlicher Operationen das Wirkgefüge des LMS im digitalen Bildungsraum der Gesundheitsberufe systematisch analysieren. Jedes Kapitel erfüllt dabei eine bestimmte Funktion im Erkenntnisprozess und trägt zur schrittweisen Verdichtung des Themas bei.
 
 Im Zusammenspiel von operationalem Lesepfad (linear, entlang der wissenschaftlichen Operationen) und explorativem Lesepfad (nicht-linear, als entdeckende Lektüreroute) entfaltet sich die volle Komplexität des Wirkgefüges. Die formale Kapitelstruktur bietet eine nachvollziehbare Führung, der explorative Lesepfad macht die Dynamik und Vielschichtigkeit des Themas erlebbar. Beide führen zum gleichen Erkenntniszusammenhang und setzen unterschiedliche Akzente in der Orientierung.
