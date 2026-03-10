@@ -21,7 +21,7 @@ Abschnitt~\hyperref[sec:Diskussion-Forschungsfragen]{6.1} bindet Diskussion an F
 
 ## 6.1 Rückbindung an die Forschungsfragen {#sec:Diskussion-Forschungsfragen}
 
-#todo Schlussredaktion: Rueckbindung an alle Forschungsfragen als zusammenhaengenden Diskussionstext ausformulieren; keine blosse Ergebniswiederholung.
+#todo (#119) Schlussredaktion: Rueckbindung an alle Forschungsfragen als zusammenhaengenden Diskussionstext ausformulieren; keine blosse Ergebniswiederholung.
 
 - Interpretation der Befunde entlang der Kernbereiche aus \hyperref[sec:Ergebnisse]{Kapitel 5}.
 - Einordnung, inwieweit jede Forschungsunterfrage beantwortet wurde.
@@ -133,6 +133,6 @@ Restrisiko ergibt sich aus RealEye-bedingter Kontextvariabilität. Gerätehetero
 
 ## 6.5 Ausblick und Forschungsperspektiven {#sec:Diskussion-Ausblick}
 
-#todo Schlussredaktion: Ausblick und Forschungsperspektiven als knappen Diskussionstext ausformulieren; Anschlussforschung, Transfer und offene Prueffelder buendeln.
+#todo (#120) Schlussredaktion: Ausblick und Forschungsperspektiven als knappen Diskussionstext ausformulieren; Anschlussforschung, Transfer und offene Prueffelder buendeln.
 
 Der Ausblick bündelt die aus den Befunden ableitbaren weiteren Forschungsfragen und markiert Anschlussstellen für weiterführende Studien, konkrete Umsetzungsschritte und Transferperspektiven.
