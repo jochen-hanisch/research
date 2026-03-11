@@ -134,6 +134,8 @@ Restrisiko ergibt sich aus RealEye-bedingter Kontextvariabilität. Gerätehetero
 
 ## 6.5 Ausblick und Forschungsperspektiven {#sec:Diskussion-Ausblick}
 
-#todo (#120) Schlussredaktion: Ausblick und Forschungsperspektiven als knappen Diskussionstext ausformulieren; Anschlussforschung, Transfer und offene Prueffelder buendeln.
+Aus den diskutierten Befunden ergibt sich für die weitere Forschung vor allem die Notwendigkeit, die rekonstruierten Kopplungen, Kippstellen und Stabilisierungsmuster über längere Zeiträume und in weiteren Kontexten zu prüfen. Naheliegend sind deshalb längsschnittliche Designs, Replikationen in anderen Bildungsgängen und Institutionen sowie Vergleichsstudien, die zeigen können, welche Wirkungsannahmen sich unter veränderten organisatorischen, technischen und didaktischen Bedingungen tragen.
 
-Der Ausblick bündelt die aus den Befunden ableitbaren weiteren Forschungsfragen und markiert Anschlussstellen für weiterführende Studien, konkrete Umsetzungsschritte und Transferperspektiven.
+Für Transfer und Entwicklung legt die Arbeit nahe, digitale Bildungsräume als fortlaufende Kopplungsarbeit zu behandeln. Gestaltung, Evaluation und Organisationsentwicklung lassen sich dabei enger aufeinander beziehen, wenn Rückkopplung, Passung und Sichtbarkeit als Bestandteile eines iterativen Entwicklungszusammenhangs geführt werden; die simulationsgestützte Modellierung kann hierfür eine heuristische Reflexionsfolie bereitstellen, ohne an die Stelle empirischer Prüfung zu treten.
+
+Offen bleiben vor allem jene Prüffelder, an denen die Arbeit ihre Aussagen selbst begrenzt: die Reichweite kleiner und kontextspezifischer empirischer Zugänge, die Übertragbarkeit der rekonstruierten Wirkmechanismen auf andere Settings sowie die Frage, mit welchen Daten sich Kompetenzentwicklung, Belastung und Stabilisierung robuster vergleichen lassen. Der Ausblick bleibt damit bewusst nahe an den Grenzen des Materials und benennt jene Stellen, an denen weitere Forschung die in dieser Diskussion herausgearbeiteten Zusammenhänge schärfen, differenzieren oder relativieren kann.
