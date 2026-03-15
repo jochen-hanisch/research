@@ -38,12 +38,13 @@ FILES=(
   "04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md"
   literaturverzeichnis.md
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md"
-  # Reihenfolge der Anhänge: Nach Erstnennung innerhalb der Hauptkapitel
+  # Reihenfolge der Anhänge: nach erster expliziter Nennung im Haupttext
   "04 Kapitelstruktur/04-A Anhang/04-A Begriffe.md" # A-1
-  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md" # A-9
+  "04 Kapitelstruktur/04-A Anhang/04-A Review-Matrix.md" # A-16
   "04 Kapitelstruktur/04-A Anhang/04-A Technologieintegration.md" # A-14
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" # A-5
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" # A-6
+  "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
   "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md" # A-8
 )
 
@@ -67,10 +68,8 @@ FILES+=(
   "04 Kapitelstruktur/04-A Anhang/04-A Analyseprompt.md" # A-2
   "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Prompt.md" # A-3
   "04 Kapitelstruktur/04-A Anhang/04-A Software und Quellcode.md" # A-15
+  "04 Kapitelstruktur/04-A Anhang/04-A P-QIA-Ergebnisse.md" # A-9
   "04 Kapitelstruktur/04-A Anhang/04-A Umfrage-Ergebnisse.md" # A-12
-  # A-13 wird aktuell in den Hauptkapiteln nicht direkt referenziert.
-  "04 Kapitelstruktur/04-A Anhang/04-A Korpusvisualisierungen.md" # A-13
-  "04 Kapitelstruktur/04-A Anhang/04-A Review-Matrix.md" # A-16
 )
 
 # einfacher Spinner während Pandoc läuft, damit Fortschritt sichtbar ist
