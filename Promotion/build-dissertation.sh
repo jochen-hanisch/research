@@ -44,7 +44,6 @@ FILES=(
   "04 Kapitelstruktur/04-A Anhang/04-A Technologieintegration.md" # A-14
   "04 Kapitelstruktur/04-A Anhang/04-A Handlungssituationen.md" # A-5
   "04 Kapitelstruktur/04-A Anhang/04-A Suchordner.md" # A-6
-  "04 Kapitelstruktur/04-A Anhang/04-A Fortschrittsübersichten.md" # A-11
   "04 Kapitelstruktur/04-A Anhang/04-A EyeTracking-Prompt.md" # A-8
 )
 
@@ -52,14 +51,14 @@ FILES=(
 if [[ "$MODE" == "full" ]]; then
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking.md")
 else
-  FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Bilder-Eye-Tracking_stub.md")
+  FILES+=("05 Textarbeit/05-02 Überarbeitungen/Anhang/04-A Bilder-Eye-Tracking_stub.md")
 fi
 
 # Korrelationsatlas abhängig vom Modus einbinden (Anhang A-4)
 if [[ "$MODE" == "full" ]]; then
   FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas.md")
 else
-  FILES+=("04 Kapitelstruktur/04-A Anhang/04-A Korrelationsatlas_stub.md")
+  FILES+=("05 Textarbeit/05-02 Überarbeitungen/Anhang/04-A Korrelationsatlas_stub.md")
 fi
 
 # Anhänge nach weiterer Erstnennung in den Hauptkapiteln
