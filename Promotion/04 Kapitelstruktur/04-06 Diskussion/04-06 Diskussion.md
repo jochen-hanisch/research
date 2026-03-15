@@ -77,8 +77,7 @@ Auch die spätere Diskussion von Kompetenzentwicklung gewinnt dadurch zusätzlic
 
 ## 6.4 Methodische Reflexion und Limitationen {#sec:Diskussion-Methodenreflexion}
 
-- Bewertung der eingesetzten Methoden (\hyperref[sec:Methodologie]{Kapitel 4}) und ihrer Grenzen.
-- Diskurs über Validität, Reliabilität und Generalisierbarkeit der Befunde.
+Die methodische Reflexion bewertet die in \hyperref[sec:Methodologie]{Kapitel 4} eingesetzten Verfahren in ihrer jeweiligen Leistung und Begrenzung. Im Zentrum stehen dabei Fragen der Validität, Reliabilität und Generalisierbarkeit der Befunde.
 
 ### 6.4.1 Methodischer Mehrwert der Literaturpipeline als eigenständiger Beitrag {#sec:Diskussion-Literaturpipeline-Mehrwert}
 
