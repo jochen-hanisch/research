@@ -272,7 +272,7 @@ Konkret wurden LLM-basierte Systeme vor allem für
 3. die Konsistenzunterstützung bei qualitativen Codierungen (z. B. beschreibende Auswertung von Eye‑Tracking‑Artefakten) sowie
 4. textliche Formulierungs- und Redaktionsunterstützung genutzt.
 
-Alle LLM-Outputs wurden als analytische Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, erforderlichenfalls korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt der Workflow der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
+Alle LLM-Outputs wurden als analytische Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, wo nötig korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt der Workflow der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
 
 Die Arbeit berücksichtigt zugleich die in der Forschungsliteratur diskutierten Risiken generativer KI, insbesondere Halluzinationen und Referenzfehler, Verzerrungen, Integritäts- und Zuschreibungsfragen sowie die Gefahr epistemischer Verflachung [@van_niekerk_addressing_2025, Seite 2; @biswas_chatgpt_2023, Seite 1; @parker_negotiating_2024, Seite 2; @giannakos_promise_2024, Seite 22; @hebbel-seeger_wissenschaftliches_2025, Seite 438-440].
 
