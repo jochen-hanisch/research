@@ -111,7 +111,7 @@ Das webcam-basierte Eye-Tracking zeigt die folgenden Mechanismen:
 
 1. Orientierung geht Inhalten voraus, d.h. Fixationen starten auf Navigation/Breadcrumbs, erst danach folgen Inhaltszonen.
 2. Ein Expertisegradient\label{term:expertisegradient} verschiebt die Muster von breiter Suche (1. Jahr) über fokussierte Pfade (2. Jahr) hin zu kurzen, zielgerichteten Scanpaths\label{term:scanpath} (3. Jahr).
-3. Salienz konkurriert mit Funktion, d,h, starke Bilder ziehen Hotspots von Buttons ab; reduzierte Layouts erhöhen die Fixationsdichte auf Interaktionen.
+3. Salienz konkurriert mit Funktion, d. h. starke Bilder ziehen Hotspots von Buttons ab; reduzierte Layouts erhöhen die Fixationsdichte auf Interaktionen.
 4. Rechtsbündige Steuerungselemente werden verspätet fixiert, links/oben platzierte Navigation und Progress-Indikatoren fungieren als Anker.
 5. Triangulation mit der Umfrage, d.h. hohe Bewertungen für Struktur/Klarheit stützen die beobachtete Orientierung, niedrige Interaktionswerte passen zu spät fixierten Steuerungselementen.
 
