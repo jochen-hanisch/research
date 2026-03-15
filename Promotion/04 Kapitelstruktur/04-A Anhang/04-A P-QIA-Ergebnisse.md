@@ -28,7 +28,6 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 8; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
-- Changelog ggü. v1: Vollständige Unterabschnitte „Theoretische Einbettung“ und „Reflexion“ ergänzt; Barrieren-Synthese auf Verdichtung (statt Referenzliste) umgestellt; Ankerbeispiele inhaltlich geschärft.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -130,7 +129,7 @@ Die Kategorien „Benutzerfreundlichkeit & Orientierung“ sowie „Zugänglichk
 
 Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neben inhaltstragenden Passagen auch metadatennahe Abschnitte enthalten. Der Ausschluss von Template-/Metasektionen reduziert dieses Rauschen, kann jedoch Grenzfälle erzeugen (z.B. wenn „Zusammenfassung“ inhaltlich relevante Verdichtungen enthält). Zudem bleiben die Kategorien sensitiv gegenüber Segmentierungsentscheidungen (Satzgrenzen, Zusammenfassung vs. Detail) und gegenüber der FU‑Zuordnung über Tags in `keywords`. Schließlich ist die FU‑spezifische Clusterzahl $k$ als dokumentierte Setzung (Abschnitt \hyperref[sec:P-QIA]{4.3.4}) zu verstehen; alternative k‑Werte können andere Granularitäten erzeugen, ohne dass damit automatisch „bessere“ Kategorien entstehen.
 
-**Qualitätsgate (erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte (inkl. Barrieren): ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -150,7 +149,6 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
-- Hinweis (v1): Kategorienamen sind als Arbeitslabels formuliert und werden bei Bedarf in späteren Runs konsolidiert.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -290,9 +288,9 @@ FU2a lässt sich als evaluativer Zugriff auf Wirkungen bei Lernenden lesen: Effe
 
 **Reflexion**
 
-Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Messinstrumente), wodurch „Effekt“ in verschiedenen Operationalisierungen erscheint. Das Verfahren verdichtet diese Vielfalt in Kategorien, bleibt aber abhängig von Segmentierungsentscheidungen und davon, welche Abschnitte als metanah ausgeschlossen werden. Für v1 sind Kategorienamen als Arbeitslabels zu verstehen; eine spätere Konsolidierung kann Cluster zusammenführen (z.B. „Soziale Interaktion“ und „Kognitive Interaktion“) oder stärker an das FU-spezifische Evaluationsframework koppeln.
+Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Messinstrumente), wodurch „Effekt“ in verschiedenen Operationalisierungen erscheint. Das Verfahren verdichtet diese Vielfalt in Kategorien, bleibt aber abhängig von Segmentierungsentscheidungen und davon, welche Abschnitte als metanah ausgeschlossen werden. Die Kategorien sind daher als analytische Verdichtungen der Korpusstruktur zu lesen; Überschneidungen zwischen benachbarten Clustern bleiben bei sozialer Interaktion, kognitiver Interaktion und evaluativen Effektmaßen möglich.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -312,7 +310,6 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
-- Hinweis (v1): Kategorienamen sind als Arbeitslabels formuliert und werden bei Bedarf in späteren Runs konsolidiert.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -472,9 +469,9 @@ FU2b fokussiert Effektfaktoren auf der Seite der Lehrenden und ihrer Gestaltungs
 
 **Reflexion**
 
-Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heterogen (von Feedback/Assessment über Fortbildung bis Technostress). In v1 werden diese Dimensionen als Cluster/Kategorien ausgewiesen, ohne bereits eine Konsolidierung auf wenige Oberkategorien zu erzwingen. Zudem stammen viele Aussagen aus sekundär strukturierten Primäranalysen (`annote`); trotz Filterung können paraphrasierende Passagen die Formulierungen glätten. In späteren Runs bietet sich an, Kategorien stärker entlang eines expliziten Rahmenmodells (z.B. Ressourcen/Belastungen vs. didaktische Steuerung) zu bündeln.
+Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heterogen (von Feedback/Assessment über Fortbildung bis Technostress). Die Cluster bilden diese Breite zunächst auf der Ebene analytisch trennbarer Muster ab, ohne sie vorzeitig auf wenige Oberkategorien zu reduzieren. Zudem stammen viele Aussagen aus sekundär strukturierten Primäranalysen (`annote`); trotz Filterung können paraphrasierende Passagen die Formulierungen glätten. Die Kategorien sind daher als verdichtete Lesarten des Korpus zu verstehen, die sich besonders gut entlang von Ressourcen/Belastungen und didaktischer Steuerung interpretieren lassen.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -663,9 +660,9 @@ FU3 rekonstruiert „didaktische und technologische Merkmale“ als mehrschichti
 
 **Reflexion**
 
-Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitative Studien und evaluative Wirksamkeitsbefunde stehen nebeneinander. Dadurch verschränkt sich die Beschreibung von „Merkmalen“ mit Outcomes, Implementationsbedingungen und Theoriebezügen. In v1 sind die Kategorien als Arbeitslabels zu verstehen; spätere Runs können die Merkmalsebenen stärker hierarchisieren (z.B. „Plattformökosystem“ vs. „Interaktivitätsdesign“ vs. „Rahmenmodelle“) und Überschneidungen (z.B. Usability vs. kognitive Belastung) konsolidieren.
+Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitative Studien und evaluative Wirksamkeitsbefunde stehen nebeneinander. Dadurch verschränkt sich die Beschreibung von „Merkmalen“ mit Outcomes, Implementationsbedingungen und Theoriebezügen. Die Kategorien sind deshalb als analytische Verdichtungen verschiedener Merkmalsebenen zu lesen; Überschneidungen zwischen Plattformökosystem, Interaktivitätsdesign, Rahmenmodellen sowie benachbarten Aspekten wie Usability und kognitiver Belastung bleiben im Korpus angelegt.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -824,9 +821,9 @@ FU4a rekonstruiert bildungswissenschaftliche Mechanismen als Zusammenspiel aus (
 
 **Reflexion**
 
-Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über Implementations- und Ethikdiskurse bis zu analytics-gestützten Interventionsstudien). Dadurch überlappen Mechanismen teilweise (z.B. Feedback als didaktisches Instrument und als datenbasiertes Dashboard-Feature). In v1 sind Kategorien als Arbeitslabels zu verstehen; eine spätere Konsolidierung kann stärker zwischen Mechanismen (z.B. Rückkopplung/Regulation) und Kontextbedingungen (z.B. Organisationskultur/Ethik) trennen und Unterkategorien hierarchisch ordnen.
+Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über Implementations- und Ethikdiskurse bis zu analytics-gestützten Interventionsstudien). Dadurch überlappen Mechanismen teilweise (z.B. Feedback als didaktisches Instrument und als datenbasiertes Dashboard-Feature). Die Kategorien bilden diese Überlagerungen als analytische Verdichtungen ab; die Grenzlinie zwischen Mechanismen der Rückkopplung/Regulation und Kontextbedingungen wie Organisationskultur oder Ethik bleibt deshalb bewusst durchlässig.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -937,9 +934,9 @@ FU4b rekonstruiert bildungstechnologische Mechanismen als „infrastrukturelle�
 
 **Reflexion**
 
-FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisatorischer Argumente: Viele Analysen 1. Ordnung mischen Mechanismen (z.B. Feedback) mit Outcomes (Zufriedenheit/Kompetenz) und Rahmenbedingungen (Akzeptanz, Infrastruktur). In v1 werden diese Verschränkungen als eigenständige Kategorien sichtbar gemacht, ohne bereits eine Hierarchie (Mechanismus vs. Bedingung vs. Outcome) zu erzwingen. Für spätere Runs bietet sich eine Konsolidierung entlang eines expliziten Mechanismenmodells (Messung/Rückkopplung, Interaktionsgestaltung, Betriebs-/Entwicklungsbedingungen) an.
+FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisatorischer Argumente: Viele Analysen 1. Ordnung mischen Mechanismen (z.B. Feedback) mit Outcomes (Zufriedenheit/Kompetenz) und Rahmenbedingungen (Akzeptanz, Infrastruktur). Die Kategorien machen diese Verschränkungen als eigenständige Muster sichtbar, ohne sie künstlich in eine starre Hierarchie von Mechanismus, Bedingung und Outcome zu überführen. Dadurch bleibt die Interpretation eng am Korpus und kann zugleich entlang von Messung/Rückkopplung, Interaktionsgestaltung sowie Betriebs- und Entwicklungsbedingungen gelesen werden.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -1062,9 +1059,9 @@ FU5 rekonstruiert „Möglichkeiten und Grenzen“ als Zusammenspiel von (a) soz
 
 **Reflexion**
 
-Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamification vs. Abhängigkeit/Isolation) sowie sehr unterschiedliche Kontexte (Schule, Hochschule, Weiterbildung, Gesundheit). Dadurch sind Kategorien als Arbeitslabels zu lesen, die in späteren Runs stärker entlang eines konsistenten Grenzbegriffs gebündelt werden können (z.B. „Grenzen“ als Barrieren/Negativfolgen vs. als methodische Grenzen gemischter Befunde). Zudem können einzelne Segmente trotz Filterung paraphrasierend bleiben; eine zweite Iteration kann stärker auf zitierfähige Kernpassagen fokussieren.
+Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamification vs. Abhängigkeit/Isolation) sowie sehr unterschiedliche Kontexte (Schule, Hochschule, Weiterbildung, Gesundheit). Die Kategorien bündeln diese Breite entlang wiederkehrender Grenz- und Wirkungsmuster, ohne die Spannungen zwischen Barrieren, Negativfolgen und methodischen Begrenzungen einzuebnen. Zudem können einzelne Segmente trotz Filterung paraphrasierend bleiben; die Verdichtung ist daher als analytische Rekonstruktion typischer Problemlagen und Chancenprofile zu lesen.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -1175,9 +1172,9 @@ FU6 lässt sich als Systemperspektive auf Kompetenzerwerb lesen: Kompetenzentwic
 
 **Reflexion**
 
-Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin, KI/SRL, organisationsbezogene Implementationslogiken). Dadurch werden Kompetenzmechanismen teils über Outcomes (Completion, Zufriedenheit) operationalisiert, teils über Prozessannahmen (Peer-Qualität, Partizipation). In v1 sind Kategorien als Arbeitslabels zu verstehen; spätere Iterationen können Kompetenz als Oberkategorie expliziter operationalisieren (z.B. Kompetenzdimensionen vs. Systemdimensionen) und Querverbindungen (z.B. LA als Qualitäts- und Motivationshebel) konsolidieren.
+Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin, KI/SRL, organisationsbezogene Implementationslogiken). Dadurch werden Kompetenzmechanismen teils über Outcomes (Completion, Zufriedenheit) operationalisiert, teils über Prozessannahmen (Peer-Qualität, Partizipation). Die Kategorien sind deshalb als verdichtete Rekonstruktion verschiedener Kompetenz- und Systemdimensionen zu lesen; Querverbindungen, etwa zwischen Learning Analytics als Qualitäts- und Motivationshebel, bleiben im Korpus bewusst sichtbar.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
@@ -1188,7 +1185,7 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 **Kurztext**
 
 - Datenbasis: n = 8 Analysen 1. Ordnung (FU7) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
-- Segmentierung: N = 90 Sinnabschnitte (FU7: 1–2 Sätze, v1: i.d.R. 1 Satz) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
+- Segmentierung: N = 90 Sinnabschnitte (FU7: 1–2 Sätze, in der Regel 1 Satz) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
 - Parameter: k = 10 (FU7); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.93.
 
 **Protokoll (Run-Parameter)**
@@ -1276,9 +1273,9 @@ FU7 ist als „Erweiterung von Kausalgesetzen“ anschlussfähig an zwei Lesarte
 
 **Reflexion**
 
-FU7 ist in v1 der kleinste Korpus (n = 8; N = 90). Dadurch dominieren einzelne Quellen mehrere Kategorien, und Kategorien sollten als Arbeitslabels gelesen werden. Zudem ist der Korpus inhaltlich heterogen (didaktische Leitlinien vs. algorithmische Struktur-/Frameworkthemen). Für spätere Runs bietet sich an, FU7 stärker entlang eines expliziten Kausal-/Regelbegriffes zu fokussieren und ggf. eine engere Quellenabgrenzung vorzunehmen.
+FU7 ist der kleinste Korpus (n = 8; N = 90). Dadurch dominieren einzelne Quellen mehrere Kategorien. Zugleich ist der Korpus inhaltlich heterogen (didaktische Leitlinien vs. algorithmische Struktur-/Frameworkthemen). Die Kategorien sind daher als verdichtete Rekonstruktion dieser beiden Linien zu lesen; die Interpretation gewinnt besonders dort an Schärfe, wo Kausal- und Regelbezüge ausdrücklich formuliert werden.
 
-**Qualitätsgate (v1, erfüllt)**
+**Qualitätsprüfung**
 
 - Kategorienüberblick == Codierschema == Narrative Unterabschnitte: ja
 - Pro Kategorie mindestens 2 Anker aus unterschiedlichen BibTeX-Keys: ja
