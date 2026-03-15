@@ -28,7 +28,7 @@ Strukturelle Konsistenz zeigt sich zusätzlich in den Kennwerten der internen Ku
 
 Die explorativen Strukturabbildungen (\hyperref[fig:fg-kmeans-themenanteile]{Abb.~\ref{fig:fg-kmeans-themenanteile}}, \hyperref[fig:fg-dendrogramm-themenanteile]{Abb.~\ref{fig:fg-dendrogramm-themenanteile}}) ergänzen diese Bewertung, indem sie Kursprofile im Anteilsraum als Cluster bzw. hierarchische Ähnlichkeitsgruppen sichtbar machen. In Kombination mit der algorithmischen Kürzelzuordnung und der dokumentierten Auswertungspipeline [@hanisch-johannsen_systematische_2025] ergibt sich daraus eine datenbasiert rekonstruierbare Struktur des Curriculums. Die curriculare Architektur des digitalen Bildungsraums erscheint damit als intern konsistent und normativ gerahmt.
 
-Die curriculare Strukturanalyse macht damit sichtbar, wie die intendierte Architektur in der Kurslogik umgesetzt ist und in welcher Weise sie an normative und didaktische Zielgrößen anschließt (Alignment/Programmatic Assessment). Die dokumentierten Muster können zugleich als Bezugspunkt für die spätere Einordnung der Handlungssituationen, Aufgabenformate und Prüfungsarchitektur gelesen werden.
+Die curriculare Strukturanalyse macht damit sichtbar, wie die intendierte Architektur in der Kurslogik umgesetzt ist und in welcher Weise sie an normative und didaktische Zielgrößen anschließt (Alignment/Programmatic Assessment). Die dokumentierten Muster können zugleich als Bezugspunkt für die spätere Einordnung der Handlungssituationen, Aufgabenformate und Prüfungsarchitektur gelesen werden. Von hier aus lässt sich auch die folgende Verteilung der Analysen als Ausdruck derselben Ergebnislogik verstehen.
 
 ## 5.2 Verteilung der Analysen nach Kernbereichen {#sec:Ergebnisse-Verteilung}
 
@@ -41,7 +41,7 @@ Die detaillierte Verteilung der insgesamt 786 ausgewerteten Analysen erster Ordn
 
 Diese Bündelung dient als Strukturierungsrahmen für die Präsentation der Ergebnisse und macht transparent, welche Themenfelder auf einer breiten quantitativen Materialbasis beruhen und wo stärker qualitativ-interpretative Verdichtung im Vordergrund steht.
 
-Die Verteilung folgt der Materialbasis und dient der epistemischen Transparenz, d.h. Nachvollziehbarkeit der Materialgrundlage und beansprucht keine inhaltliche Priorisierung der Forschungsunterfragen; sie ist daher als deskriptiver Strukturierungsrahmen zu lesen.
+Die Verteilung folgt der Materialbasis und dient der epistemischen Transparenz, d.h. Nachvollziehbarkeit der Materialgrundlage und beansprucht keine inhaltliche Priorisierung der Forschungsunterfragen; sie ist daher als deskriptiver Strukturierungsrahmen zu lesen. Auf dieser Grundlage kann die Darstellung nun in die forschungsfragenbezogene Ausarbeitung der einzelnen Befundlinien übergehen.
 
 ## 5.3 Beantwortung der Forschungsunterfragen {#sec:Ergebnisse-Forschungsfragen}
 
