@@ -2,7 +2,7 @@
 
 ## Verzeichnis zentraler Begriffe {#sec:A-1}
 
-Dieses Verzeichnis unterstützt die im Abschnitt \hyperref[sec:begriffsbestimmung]{Hinweis zur Begriffsbestimmung} formulierte Zielsetzung: eine schnelle und gezielte Orientierung im Text. Die Begriffe sind alphabetisch sortiert und jeweils mit der Seite des ersten Auftretens verknüpft.
+Dieses Verzeichnis unterstützt die Zielsetzung einer schnellen und gezielten Orientierung im Text. Die Begriffe sind alphabetisch sortiert und jeweils mit der Seite des ersten Auftretens verknüpft.
 
 Table: Verzeichnis zentraler Begriffe \label{tab:A-1}
 
