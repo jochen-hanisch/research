@@ -8,7 +8,7 @@ Nach der argumentativen Ausarbeitung in Kapitel \hyperref[sec:Diskussion]{6} üb
 
 ## 7.1 Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
-Der digitale Bildungsraum lässt sich im Ergebnis dieser Arbeit als interdependentes Wirkgefüge beschreiben. Die in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisierte Logik wird hier in Leitsätzen verdichtet. Positive und negative Wirkungswahrscheinlichkeiten stehen nicht nebeneinander, sondern sind strukturell gekoppelt. Orientierung, Rückkopplung, Steuerung, Passung und organisationale Rahmung erzeugen gemeinsam jene Wirkungen, die in den Kapiteln \hyperref[sec:Theorieteil]{2} bis \hyperref[sec:Ergebnisse]{5} und in der Diskussion rekonstruiert wurden.
+Der digitale Bildungsraum lässt sich im Ergebnis dieser Arbeit als interdependentes Wirkgefüge beschreiben. Die in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisierte Logik wird hier in Leitsätzen verdichtet. Positive und negative Wirkungswahrscheinlichkeiten\label{term:wirkungswahrscheinlichkeit} stehen nicht nebeneinander, sondern sind strukturell gekoppelt. Orientierung, Rückkopplung, Steuerung, Passung und organisationale Rahmung erzeugen gemeinsam jene Wirkungen, die in den Kapiteln \hyperref[sec:Theorieteil]{2} bis \hyperref[sec:Ergebnisse]{5} und in der Diskussion rekonstruiert wurden.
 
 ### 7.1.1 Was den digitalen Bildungsraum im Inneren zusammenhält {#sec:Conclusio-Welt-im-Inneren}
 
