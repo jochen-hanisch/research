@@ -4,7 +4,7 @@
 
 Dieses Kapitel fasst die empirischen und modellbasierten Befunde zusammen. Die Darstellung folgt den im Kapitel dokumentierten Kernbereichen und bindet die Ergebnisse an die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rekonstruierte Architektur des Learning Management Systems zurück.
 
-Nach der theoretischen Rahmung in Kapitel \hyperref[sec:Theorieteil]{2}, der Gegenstandsbeschreibung in Kapitel \hyperref[sec:Forschungsgegenstand]{3} und der methodischen Ausweisung in Kapitel \hyperref[sec:Methodologie]{4} übernimmt Kapitel 5 die Aufgabe, die gewonnenen Befunde geordnet sichtbar zu machen. Es kommt an dieser Stelle, weil die Arbeit nun zeigen muss, welche Muster, Mechanismen und Grenzen sich im Material tatsächlich rekonstruieren lassen, bevor diese im anschließenden Kapitel diskutiert und verdichtet werden.
+Mit Kapitel 5 treten die Befunde in den Vordergrund. Was Theorie (Kapitel \hyperref[sec:Theorieteil]{2}), Gegenstandsbeschreibung (Kapitel \hyperref[sec:Forschungsgegenstand]{3}) und Methodologie (Kapitel \hyperref[sec:Methodologie]{4}) vorbereitet haben, wird nun eingelöst: Welche Muster, Mechanismen und Grenzen lassen sich im Material tatsächlich rekonstruieren? Ihre Einordnung und Diskussion folgt im nächsten Kapitel.
 
 Abschnitt~\hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt Überblick und Einordnung. Abschnitt~\hyperref[sec:Ergebnisse-Verteilung]{5.2} beschreibt Verteilung der Analysen nach Kernbereichen. Abschnitt~\hyperref[sec:Ergebnisse-Forschungsfragen]{5.3} beantwortet Forschungsunterfragen.
 

@@ -4,7 +4,7 @@
 
 Kapitel 7 bündelt Ergebnisse und Diskussion in einer thesenhaften Schlussverdichtung. Der digitale Bildungsraum wird als Wirkgefüge gefasst, dessen Wirkungen aus Koppelungen hervorgehen. Abschnitt~\hyperref[sec:Conclusio-Manifest]{7.1} formuliert diese Verdichtung in Leitsätzen. Abschnitt~\hyperref[sec:Conclusio-Zusammenfassung]{7.2} und Abschnitt~\hyperref[sec:Conclusio-Theorie]{7.3} führen Ergebnisse, Folgerungen und Implikationen zusammen. Abschnitt~\hyperref[sec:Conclusio-Grenzen]{7.4} und Abschnitt~\hyperref[sec:Conclusio-Ausblick]{7.5} bestimmen Reichweite und Ausblick.
 
-Nach der argumentativen Ausarbeitung in Kapitel \hyperref[sec:Diskussion]{6} übernimmt dieses Schlusskapitel die Aufgabe, den Gang der gesamten Arbeit in verdichteter Form lesbar zu machen. Es führt die zuvor rekonstruierten Befund- und Argumentlinien nicht noch einmal ausführlich aus, sondern fasst sie zu einer abschließenden Bestimmung des digitalen Bildungsraums als Wirkgefüge zusammen und markiert, welche Folgerungen, Grenzen und Anschlussmöglichkeiten daraus hervorgehen.
+Kapitel \hyperref[sec:Diskussion]{6} hat die Argumente ausgearbeitet; das vorliegende Schlusskapitel bündelt, was daraus folgt. Die zuvor rekonstruierten Befund- und Argumentlinien werden nicht erneut entfaltet, sondern zu einer abschließenden Bestimmung des digitalen Bildungsraums als Wirkgefüge verdichtet – und es wird markiert, welche Folgerungen, Grenzen und Anschlussmöglichkeiten daraus hervorgehen.
 
 ## 7.1 Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
@@ -36,7 +36,7 @@ Die folgenden Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperr
 
    Konsequent ist daher ein Feedbackdesign mit Rhythmus und Klarheit (wenige, eindeutige Rückmeldesignale mit klarer Anschlussoption) sowie eine Indikatorik, die Lernen stützt und Verhaltensverzerrungen begrenzt. Empirisch werden Rückkopplungsschleifen als Mechanismen sichtbar, die Daten und Feedback in didaktische Entscheidungen übersetzen (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
-4. **Steuerung/Agency:** Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent. Sie kann in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren kippen. Damit wird sichtbar, dass Zielgerichtetheit Steuerung benötigt; Steuerung begrenzt Autonomie und erzeugt Gegenstrategien.
+4. **Steuerung/Agency:** Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent. Sie kann in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren kippen. Zielgerichtetheit braucht Steuerung. Steuerung aber begrenzt Autonomie und erzeugt Gegenstrategien – das ist keine Nebenwirkung, sondern strukturelle Folge.
 
    Gestalterisch bietet sich an, Steuerung als Orientierungshilfe kenntlich zu machen (Defaults, Prioritäten, Begründungen) und sie durch explizite Ausstiegspfad‑Optionen zu ergänzen, damit Agency erhalten bleibt. In Kap. 5 wird Steuerung als Mechanismenlinie u. a. über Learning Analytics, Prompts und Personalisierung sichtbar (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
@@ -46,7 +46,7 @@ Die folgenden Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperr
 
 6. **Zeit/Verfügbarkeit:** Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen. Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung. Strukturell sind beide Seiten gekoppelt. Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
 
-   Daraus folgt ein Zeitdesign, das Verfügbarkeit mit klaren Regeln verbindet (Antwortfenster, Benachrichtigungslogik, „ruhige Zeiten“) und Entgrenzung aktiv begrenzt. In Kap. 5 erscheint Flexibilität über orts‑ und zeitunabhängige Nutzung als zentrales Nutzenargument in den Akzeptanzbedingungen (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
+   Zeitdesign meint hier nicht mehr Angebote, sondern klarere Regeln: Antwortfenster, Benachrichtigungslogik, explizit gesetzte Grenzen. Flexibilität und Entgrenzungsschutz schließen sich nicht aus. In Kap. 5 erscheint Flexibilität über orts‑ und zeitunabhängige Nutzung als zentrales Nutzenargument in den Akzeptanzbedingungen (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
 
 7. **Interaktion/Kollaboration:** Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards. Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken. Die Interdependenz liegt darin, dass Kooperation Interaktionsangebote braucht; zugleich erzeugen diese Angebote Koordinationskosten und verteilte Belastungen.
 
@@ -58,7 +58,7 @@ Die folgenden Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperr
 
 9. **Expertise‑Adaptivität/Passung:** Adaptivität und Scaffolding passen Komplexität an Expertise an, reduzieren Fehler und senken Einstiegshürden. Fehlanpassung führt zu Bevormundung (bei Experts) oder Überforderung (bei Novices) und verstärkt Ungleichheit. Strukturell gekoppelt ist das an Modellierung. Passung benötigt Modelle über Nutzer*innen; Modellierung erzeugt Klassifikation, Bias und neue Exklusionslinien.
 
-   Sinnvoll ist daher eine Adaptivität, die als wählbare Unterstützung umgesetzt wird (gestufte Hilfen, progressive Offenlegung, einfache Umschaltbarkeit) und deren Annahmen sichtbar bleiben, damit Fehlanpassung korrigierbar ist. Empirisch wird Passung sowohl als Merkmalslogik (Usability, Barrierefreiheit, Adaptivität) als auch über Expertisegradienten im Nutzungsvollzug greifbar (\hyperref[sec:Ergebnisse-FU3]{Abschnitt 5.3.1}; \hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
+   Adaptivität, die ihre eigenen Annahmen verbirgt, erzeugt neue Abhängigkeiten. Wählbare Unterstützung mit transparenten Kriterien – gestufte Hilfen, progressive Offenlegung, einfache Umschaltbarkeit – ist die robustere Alternative. Empirisch wird Passung sowohl als Merkmalslogik (Usability, Barrierefreiheit, Adaptivität) als auch über Expertisegradienten im Nutzungsvollzug greifbar (\hyperref[sec:Ergebnisse-FU3]{Abschnitt 5.3.1}; \hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
 
 10. **Reflexivität/Evaluation:** Reflexive Metriken und Logs ermöglichen Lernen aus Nutzung, Qualitätssicherung und iterative Verbesserung. Mess‑ und Evaluationsdruck verengt Ziele, fördert Optimierung auf Indikatoren und erzeugt Zynismus. Steuerbarkeit braucht Evaluation; Evaluation verändert das Verhalten, das sie misst, und produziert Performanzregime.
 
@@ -66,9 +66,9 @@ Die folgenden Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperr
 
 11. **Kompetenzarena/Handlungsfähigkeit:** Kompetenzaufbau erweitert Handlungsspielräume, stärkt Selbststeuerung und kollektive Problemlösefähigkeit. Kompetenzanforderungen erzeugen Hierarchien, Abwertung von Nicht‑Können und verteilte Vulnerabilität. Gekoppelt ist beides dadurch, dass Handlungsfähigkeit Kompetenz voraussetzt. Kompetenz wird in Anforderungen sichtbar, die Ungleichheit produzieren.
 
-   Als Gestaltungsimpuls bietet sich an, Kompetenzanforderungen als gestufte Lernaufgaben mit Supportstrukturen zu formulieren und Sichtbarkeit von Leistung so zu organisieren, dass sie Entwicklung unterstützt und Sanktionierung vermeidet. Empirisch modelliert FU$_{6}$ das LMS als Kompetenzerwerbssystem, dessen Wirksamkeit an Passung, Steuerung und Rückkopplung gekoppelt ist (\hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
+   Leistungssichtbarkeit, die auf Entwicklung ausgerichtet ist – nicht auf Selektionsabgleich –, macht den entscheidenden Unterschied. Empirisch modelliert FU$_{6}$ das LMS als Kompetenzerwerbssystem, dessen Wirksamkeit an Passung, Steuerung und Rückkopplung gekoppelt ist (\hyperref[sec:Ergebnisse-FU6]{Abschnitt 5.3.7}).
 
-12. **Vertrauensbildung/Beobachtbarkeit:** Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft. Misstrauen und Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung. Die Interdependenz liegt darin, dass Vertrauen beobachtbare Verlässlichkeit benötigt; zugleich kann Beobachtbarkeit als Kontrolle gelesen werden und Vertrauen unterminieren.
+12. **Vertrauensbildung/Beobachtbarkeit:** Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft. Misstrauen und Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung. Wieviel Beobachtbarkeit verträgt Vertrauen? Vertrauen braucht Verlässlichkeit – und Verlässlichkeit braucht Beobachtbarkeit. Aber Beobachtbarkeit kann als Kontrolle gelesen werden und genau das Vertrauen untergraben, das sie stützen soll.
 
    Gestalterisch folgt daraus, Beobachtbarkeit auf Lernunterstützung zu begrenzen (Zweckbindung, Datenminimierung, Rollenrechte) und Governance so zu gestalten, dass Teilnehmende Kontrolle über Sichtbarkeit und Datenspuren behalten. In Kap. 5 werden Kultur‑ und Ethikrahmungen als Bedingungen benannt, die bestimmen, ob Rückkopplung und Kollaboration als legitim, sicher und praktikabel gelten (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
@@ -78,7 +78,7 @@ Die Leitsätze folgen jeweils derselben Logik: Sie benennen eine Wirkdimension, 
 
 ### 7.2.1 Fazitformel: Was das Wirkgefüge des digitalen Bildungsraums ist {#sec:Conclusio-Wirkgefuege-Definition}
 
-Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Diese Kopplungsstruktur wird in den Ergebnissen als wiederkehrendes Muster sichtbar (\hyperref[sec:Ergebnisse]{Kapitel 5}) und in \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisiert.
+Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Das Muster ist stabil – und es wiederholt sich. Die Ergebnisse in \hyperref[sec:Ergebnisse]{Kapitel 5} machen es sichtbar; \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisiert es als Interdependenzstruktur.
 
 Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[sec:Einleitung]{Kapitel 1}). Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
 

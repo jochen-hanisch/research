@@ -4,7 +4,7 @@
 
 Kapitel 6 ordnet die Ergebnisse im Lichte der theoretischen Grundlagen, der Forschungsfragen und der Gestaltungslogiken digitaler Bildungsräume ein. Leitend ist dabei eine diskursive Perspektive, die die in den Kapiteln \hyperref[sec:Theorieteil]{2} bis \hyperref[sec:Ergebnisse]{5} rekonstruierten Wirkdimensionen danach befragt, was im digitalen Bildungsraum trägt, was begrenzt, was sich gestalten lässt und an welchen Stellen Risiken beziehungsweise Verletzlichkeiten sichtbar werden.
 
-Nachdem \hyperref[sec:Ergebnisse]{Kapitel 5} die Befunde entlang der Forschungsunterfragen gebündelt hat, übernimmt \hyperref[sec:Diskussion]{Kapitel 6} die Aufgabe, diese Linien zueinander in Beziehung zu setzen und ihren theoretischen sowie praktischen Ertrag zu bestimmen. Es kommt jetzt, weil erst auf der Grundlage der rekonstruierten Ergebnisse entschieden werden kann, welche Koppelungen für das Wirkgefüge tatsächlich tragend sind, wo Begrenzungen liegen und welche Reichweite die Aussagen der Arbeit beanspruchen können.
+\hyperref[sec:Ergebnisse]{Kapitel 5} hat die Befunde gebündelt; \hyperref[sec:Diskussion]{Kapitel 6} fragt, was sie bedeuten. Erst auf der Grundlage der rekonstruierten Ergebnisse lässt sich bestimmen, welche Koppelungen für das Wirkgefüge tatsächlich tragend sind, wo Begrenzungen liegen und welche Reichweite die Aussagen der Arbeit beanspruchen können.
 
 Die Diskussion bleibt dabei an die Evidenzlinien aus \hyperref[sec:Ergebnisse]{Kapitel 5}, an die Architekturbeschreibung des Forschungsgegenstands in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} und an die theoretische Begrenzung direkter Steuerungsannahmen in \hyperref[sec:Technologiedefizit]{Abschnitt 2.4} gebunden. Abschnitt~\hyperref[sec:Diskussion-Forschungsfragen]{6.1} führt die Ergebnisse auf die Forschungsfragen zurück, Abschnitt~\hyperref[sec:Diskussion-Theorie]{6.2} arbeitet die theoretischen Implikationen aus, und Abschnitt~\hyperref[sec:Diskussion-Praxis]{6.3} bündelt die praktischen und gestalterischen Folgerungen.
 
@@ -77,7 +77,7 @@ Auch die spätere Diskussion von Kompetenzentwicklung gewinnt dadurch zusätzlic
 
 ## 6.4 Methodische Reflexion und Limitationen {#sec:Diskussion-Methodenreflexion}
 
-Die methodische Reflexion bewertet die in \hyperref[sec:Methodologie]{Kapitel 4} eingesetzten Verfahren in ihrer jeweiligen Leistung und Begrenzung. Im Zentrum stehen Fragen der Validität, Reliabilität und Generalisierbarkeit der Befunde.
+Jedes Methodenensemble setzt Entscheidungen voraus – und Entscheidungen haben Folgen. Abschnitt 6.4 benennt, welche Leistungen und Grenzen die in \hyperref[sec:Methodologie]{Kapitel 4} gewählten Verfahren mitführen. Im Zentrum stehen Validität, Reliabilität und Generalisierbarkeit der Befunde; zugleich geht es darum, transparent zu machen, wo die Reichweite der Aussagen endet.
 
 ### 6.4.1 Methodischer Mehrwert der Literaturpipeline als eigenständiger Beitrag {#sec:Diskussion-Literaturpipeline-Mehrwert}
 

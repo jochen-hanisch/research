@@ -6,7 +6,7 @@ Kapitel 3 beschreibt den Forschungsgegenstand in seiner rechtlich-funktionalen, 
 
 Der Forschungsgegenstand wird dabei nicht als Sammlung einzelner Funktionen beschrieben, sondern als Kopplungsordnung. Im Zentrum steht die Frage, wie Norm, Didaktik, technische Infrastruktur und operative Nutzung im untersuchten LMS so zusammenwirken, dass Lernhandlungen ermöglicht, strukturiert oder begrenzt werden.
 
-Kapitel 3 folgt an dieser Stelle, weil die in Kapitel \hyperref[sec:Theorieteil]{2} entwickelten Begriffe und Wirkannahmen nun an einem konkreten Fall eingelöst werden müssen. Seine Aufgabe besteht darin, den Gegenstand so zu beschreiben, dass anschließend methodisch nachvollziehbar untersucht werden kann, worin die tragenden Kopplungen des Systems bestehen und an welchen Stellen ihre Wirkung empirisch sichtbar wird.
+Begriffe und Wirkannahmen aus Kapitel \hyperref[sec:Theorieteil]{2} bleiben abstrakt, solange sie nicht am konkreten Fall greifen müssen. Eben daran setzt Kapitel 3 an: Es beschreibt den Gegenstand so, dass anschließend methodisch nachvollziehbar untersucht werden kann, worin die tragenden Kopplungen des Systems bestehen und an welchen Stellen ihre Wirkung empirisch sichtbar wird.
 
 ## Begriffsrahmung: Gefügeperspektive auf die LMS-Architektur {#sec:Gefuegeperspektive-FG}
 
