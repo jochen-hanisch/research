@@ -6,7 +6,7 @@ Kapitel 4 beschreibt die in dieser Arbeit entwickelte Methodologie und spiegelt
 
 Die methodische Kopplung liefert die empirische Basis für die interdependente Argumentation in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} und die manifestartige Zuspitzung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
-\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-04_lesepfad.tex}
+Nachdem der Forschungsgegenstand in Kapitel \hyperref[sec:Forschungsgegenstand]{3} als konkrete Kopplungsordnung beschrieben wurde, klärt Kapitel 4 nun, wie diese Ordnung untersucht wird. Seine Funktion besteht darin, die Verbindung von Theorie, Gegenstand und Daten so auszuweisen, dass die späteren Ergebnisse nicht als lose Befundsammlung erscheinen, sondern als methodisch hergeleitete Bearbeitung der Forschungsunterfragen.
 
 Die folgenden Hinweise bündeln Anforderungen an Nachvollziehbarkeit, Triangulation und Dokumentation. Kapitel 4 stellt die Verfahren daher als forschungsfragengeleitete Kopplung dar: Datenformen, Auswertungslogiken und Übergänge zwischen den Schritten werden sichtbar gemacht und in ihrem Zusammenhang erläutert.
 Der weitere Aufbau folgt dieser Forschungslogik: \hyperref[sec:Forschungsparadigma]{Abschnitt 4.1} beschreibt den methodologischen Rahmen, \hyperref[sec:Datenerhebung]{Abschnitt 4.2} die Datenerhebung, \hyperref[sec:Datenanalyse]{Abschnitt 4.3} die Datenanalyse, \hyperref[sec:Simulation-Kompetenzentwicklung]{Abschnitt 4.4} die simulationsgestützte Modellierung und \hyperref[sec:Methoden-Reflexion]{Abschnitt 4.5} die methodische Reflexion.
@@ -837,3 +837,5 @@ Zu den methodischen Stärken der Arbeit gehört der forschungsfragengeleitete An
 Methodische Herausforderungen und Limitationen
 
 Methodische Herausforderungen ergeben sich vor allem aus der retrospektiven Integration einzelner Verfahren und aus der Entwicklung eines eigenen Paradigmas zur Bearbeitung der Forschungsfragen. Als Limitationen bleiben die hohe Komplexität der Datenintegration sowie die Abhängigkeit von LLM-/Embedding-Tools und simulationsbasierten Modellierungen zu berücksichtigen.
+
+Damit sind Auswahl, Reichweite und Begrenzung der Verfahren offengelegt. Auf dieser Grundlage kann Kapitel \hyperref[sec:Ergebnisse]{5} nun zeigen, welche Befundlinien aus dem methodisch gekoppelten Vorgehen entlang der Forschungsunterfragen hervorgehen.

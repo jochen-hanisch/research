@@ -4,7 +4,7 @@
 
 Dieses Kapitel fasst die empirischen und modellbasierten Befunde zusammen. Die Darstellung folgt den im Kapitel dokumentierten Kernbereichen und bindet die Ergebnisse an die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rekonstruierte Architektur des Learning Management Systems zurück.
 
-\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-05_lesepfad.tex}
+Nach der theoretischen Rahmung in Kapitel \hyperref[sec:Theorieteil]{2}, der Gegenstandsbeschreibung in Kapitel \hyperref[sec:Forschungsgegenstand]{3} und der methodischen Ausweisung in Kapitel \hyperref[sec:Methodologie]{4} übernimmt Kapitel 5 die Aufgabe, die gewonnenen Befunde geordnet sichtbar zu machen. Es kommt an dieser Stelle, weil die Arbeit nun zeigen muss, welche Muster, Mechanismen und Grenzen sich im Material tatsächlich rekonstruieren lassen, bevor diese im anschließenden Kapitel diskutiert und verdichtet werden.
 
 Abschnitt~\hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt Überblick und Einordnung. Abschnitt~\hyperref[sec:Ergebnisse-Verteilung]{5.2} beschreibt Verteilung der Analysen nach Kernbereichen. Abschnitt~\hyperref[sec:Ergebnisse-Forschungsfragen]{5.3} beantwortet Forschungsunterfragen.
 
@@ -158,6 +158,8 @@ Die stärksten Ergebnislinien lassen sich wie folgt fassen:
 4. Das LMS wird als Kompetenzerwerbssystem stabil wirksam, wenn Passung (Zielgruppenfit/Infrastruktur), motivationale Dynamik und Qualitätsprozesse (Evaluation/Weiterentwicklung) konsistent zusammenlaufen und die Rückkopplung in lernhandlungsnahe Entscheidungen übersetzt wird (FU$_{6}$).
 
 Kapitel \hyperref[sec:Diskussion]{6} prüft diese Linien kritisch hinsichtlich Generalisierbarkeit, Grenzen der Datenartefakte (insb. exploratives Eye‑Tracking und deskriptive Umfrage), normativer Nebenfolgen (Datenschutz/Steuerung) und der Frage, welche Kopplungen als gestaltbare Hebel gelten können, und adressiert dabei die Gefahr einer Verkürzung des Wirkgefüges auf Technologieeffekte.
+
+Die Ergebniszusammenfassung markiert damit den Übergang von der Rekonstruktion zur Einordnung. Kapitel \hyperref[sec:Diskussion]{6} greift die hier gebündelten Befundlinien auf, prüft ihre Reichweite und führt sie in eine explizite Interdependenzargumentation über.
 
 ### 5.4.1 Arbeitshypothesen aus der Triangulation {#sec:Ergebnisse-Arbeitshypothesen}
 

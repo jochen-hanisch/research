@@ -4,7 +4,7 @@
 
 Kapitel 7 bündelt Ergebnisse und Diskussion in einer Schlussverdichtung. Der digitale Bildungsraum wird als Wirkgefüge gefasst, dessen Wirkungen aus Koppelungen hervorgehen. Abschnitt~\hyperref[sec:Conclusio-Manifest]{7.1} formuliert diese Verdichtung in Leitsätzen. Abschnitt~\hyperref[sec:Conclusio-Zusammenfassung]{7.2} und Abschnitt~\hyperref[sec:Conclusio-Theorie]{7.3} führen Ergebnisse, Folgerungen und Implikationen zusammen. Abschnitt~\hyperref[sec:Conclusio-Grenzen]{7.4} und Abschnitt~\hyperref[sec:Conclusio-Ausblick]{7.5} bestimmen Reichweite und Ausblick.
 
-\input{08 Metaquellen/08-01 Abbildungen/prozesse/04-07_lesepfad.tex}
+Nach der argumentativen Ausarbeitung in Kapitel \hyperref[sec:Diskussion]{6} übernimmt dieses Schlusskapitel die Aufgabe, den Gang der gesamten Arbeit in verdichteter Form lesbar zu machen. Es führt die zuvor rekonstruierten Befund- und Argumentlinien nicht noch einmal ausführlich aus, sondern fasst sie zu einer abschließenden Bestimmung des digitalen Bildungsraums als Wirkgefüge zusammen und markiert, welche Folgerungen, Grenzen und Anschlussmöglichkeiten daraus hervorgehen.
 
 ## 7.1 Interdependenz als Grundform des digitalen Bildungsraums {#sec:Conclusio-Manifest}
 
