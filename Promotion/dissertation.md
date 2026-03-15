@@ -100,7 +100,6 @@ header-includes:
 {\large Erstbetreuung: Prof. Dr. med. Sebastian Spethmann}\\[0.2cm]
 {\large Zweitbetreuung: Prof.in Dr.in phil. Eva Cendon}\\[0.6cm]
 {\large Datum der Promotion: dd.mm.yyyy}\\
-
 \end{center}
 \end{titlepage}
 ```
@@ -264,7 +263,7 @@ Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten eine
 
 ## Hinweis zum Einsatz generativer Sprachmodelle (LLM) {#sec:hinweis-ki}
 
-In dieser Arbeit wurden generative KI-Systeme (Large-Language-Modelle; im Workflow u.a. als „GPT“ bezeichnet) als kognitive Assistenz in Recherche-, Auswertungs- und Schreibprozessen eingesetzt. Der Einsatz erfolgte methodengeleitet, forschungsfragenorientiert und mit dem Ziel, große Materialmengen (Literaturkorpus, Protokolle, Artefakte) konsistent zu strukturieren, nicht jedoch, um menschliche Urteils- und Verantwortungsfunktionen zu ersetzen. Sofern im Folgenden konkret diese Systeme gemeint sind, wird präzisierend von Large-Language-Modellen (LLM) beziehungsweise generativen Sprachmodellen gesprochen; „KI“ bleibt als Oberbegriff für das weitere Feld bestehen. Die Begriffsverwendung folgt dabei dem Prinzip maximaler Präzision: Es wird jeweils die spezifischste zutreffende Bezeichnung verwendet (z. B. „LLM“), und erst bei Bedarf auf übergeordnete Begriffe (z. B. „KI“) zurückgegangen. Der Einsatz der LLM ist in der Methodologie transparent hergeleitet und als Teil der Reproduzierbarkeitslogik dokumentiert (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3}, \hyperref[sec:SWOT-KI-Methodik]{4.5.1} und \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
+In dieser Arbeit wurden generative KI-Systeme (Large-Language-Modelle; im Workflow u.a. als „GPT“ bezeichnet) als kognitive Assistenz in Recherche-, Auswertungs- und Schreibprozessen eingesetzt. Der Einsatz erfolgte methodengeleitet, forschungsfragenorientiert und mit dem Ziel, große Materialmengen (Literaturkorpus, Protokolle, Artefakte) konsistent zu strukturieren, nicht jedoch, um menschliche Urteils- und Verantwortungsfunktionen zu ersetzen. Sofern im Folgenden konkret diese Systeme gemeint sind, wird präzisierend von Large-Language-Modellen (LLM) beziehungsweise generativen Sprachmodellen gesprochen; „KI“ bleibt als Oberbegriff für das weitere Feld bestehen. Die Begriffsverwendung folgt dabei dem Prinzip maximaler Präzision: Es wird jeweils die spezifischste zutreffende Bezeichnung verwendet (z. B. „LLM“), und bei allgemeineren Zusammenhängen auf übergeordnete Begriffe (z. B. „KI“) zurückgegriffen. Der Einsatz der LLM ist in der Methodologie transparent hergeleitet und als Teil der Reproduzierbarkeitslogik dokumentiert (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3}, \hyperref[sec:SWOT-KI-Methodik]{4.5.1} und \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
 
 Konkret wurden LLM-basierte Systeme vor allem für
 
@@ -273,7 +272,7 @@ Konkret wurden LLM-basierte Systeme vor allem für
 3. die Konsistenzunterstützung bei qualitativen Codierungen (z. B. beschreibende Auswertung von Eye‑Tracking‑Artefakten) sowie
 4. textliche Formulierungs- und Redaktionsunterstützung genutzt.
 
-Alle LLM-Outputs wurden als vorläufige Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, bei Bedarf korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt der Workflow der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
+Alle LLM-Outputs wurden als analytische Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, erforderlichenfalls korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt der Workflow der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
 
 Die Arbeit berücksichtigt zugleich die in der Forschungsliteratur diskutierten Risiken generativer KI, insbesondere Halluzinationen und Referenzfehler, Verzerrungen, Integritäts- und Zuschreibungsfragen sowie die Gefahr epistemischer Verflachung [@van_niekerk_addressing_2025, Seite 2; @biswas_chatgpt_2023, Seite 1; @parker_negotiating_2024, Seite 2; @giannakos_promise_2024, Seite 22; @hebbel-seeger_wissenschaftliches_2025, Seite 438-440].
 
