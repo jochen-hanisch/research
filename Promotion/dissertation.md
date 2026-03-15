@@ -245,12 +245,12 @@ Klammerangaben und technische Verweise werden mit diesen standardisierten Abkür
 
 - S.   = Seite (z. B. "[@doring_forschungsmethoden_2023, Seite 4–5]")
 - Kap. = Kapitel (z. B. "[@doring_forschungsmethoden_2023, Kapitel 2.2]")
-- Abb. = Abbildung (z. B. `\hyperref[fig:beispiel]{Abb.~\ref{fig:beispiel}}`)
+- Abb. = Abbildung (z. B. `\hyperref[fig:eyetracking-verteilung]{Abb.~\ref{fig:eyetracking-verteilung}}`)
 - Tab. = Tabelle (z. B. `\hyperref[tab:methoden_FU]{Tab.~\ref{tab:methoden_FU}}`)
 
-Auch bei ausgeschriebenen Formen werden die Referenzen in `\hyperref` gesetzt (z. B. `\hyperref[fig:beispiel]{Abbildung~\ref{fig:beispiel}}`, `\hyperref[tab:methoden_FU]{Tabelle~\ref{tab:methoden_FU}}`, `\hyperref[eq:verlust]{Gl.~\eqref{eq:verlust}}`).
+Auch bei ausgeschriebenen Formen werden die Referenzen in `\hyperref` gesetzt (z. B. `\hyperref[fig:eyetracking-verteilung]{Abbildung~\ref{fig:eyetracking-verteilung}}`, `\hyperref[tab:methoden_FU]{Tabelle~\ref{tab:methoden_FU}}`, `\hyperref[eq:verlust]{Gl.~\eqref{eq:verlust}}`).
 
-Die Abkürzung "z. B." ("beispielsweise") wird vor allem in Klammern und Fußnoten genutzt; im Fließtext wird grundsätzlich die ausgeschriebene Form "beispielsweise" verwendet; die Formen "zum Beispiel", "z. B." im Fließtext und "bspw." werden in der Arbeit nicht verwendet.
+Die Abkürzung "z. B." wird nur in Klammern und Fußnoten genutzt; im Fließtext wird grundsätzlich die ausgeschriebene Form "beispielsweise" verwendet. Die Formen "zum Beispiel", "z. B." im Fließtext und "bspw." werden in der Arbeit nicht verwendet.
 
 ## Hinweis zur Begriffsbestimmung {#sec:begriffsbestimmung}
 
