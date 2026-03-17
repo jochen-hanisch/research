@@ -78,7 +78,7 @@ Die Leitsätze folgen jeweils derselben Logik: Sie benennen eine Wirkdimension, 
 
 ### 7.2.1 Fazitformel: Was das Wirkgefüge des digitalen Bildungsraums ist {#sec:Conclusio-Wirkgefuege-Definition}
 
-Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Das Muster ist stabil – und es wiederholt sich. Die Ergebnisse in \hyperref[sec:Ergebnisse]{Kapitel 5} machen es sichtbar; \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisiert es als Interdependenzstruktur.
+Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Das Muster ist stabil – und es wiederholt sich. Die Ergebnisse in \hyperref[sec:Ergebnisse]{Kapitel 5} machen die Kopplungslogik des Wirkgefüges sichtbar; \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisiert diese als Interdependenzstruktur.
 
 Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[sec:Einleitung]{Kapitel 1}). Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
 
