@@ -77,7 +77,7 @@ Auch die spätere Diskussion von Kompetenzentwicklung gewinnt dadurch zusätzlic
 
 ## 6.4 Methodische Reflexion und Limitationen {#sec:Diskussion-Methodenreflexion}
 
-Jedes Methodenensemble setzt Entscheidungen voraus – und Entscheidungen haben Folgen. Abschnitt 6.4 benennt, welche Leistungen und Grenzen die in \hyperref[sec:Methodologie]{Kapitel 4} gewählten Verfahren mitführen. Im Zentrum stehen Validität, Reliabilität und Generalisierbarkeit der Befunde; zugleich geht es darum, transparent zu machen, wo die Reichweite der Aussagen endet.
+Jedes Methodenensemble setzt Entscheidungen voraus – und Entscheidungen haben Folgen. Abschnitt 6.4 benennt, welche Leistungen und Grenzen die in \hyperref[sec:Methodologie]{Kapitel 4} gewählten Verfahren mitführen. Im Zentrum stehen Validität, Reliabilität und Generalisierbarkeit der Befunde; zugleich ist Transparenz darüber herzustellen, wo die Reichweite der Aussagen endet.
 
 ### 6.4.1 Methodischer Mehrwert der Literaturpipeline als eigenständiger Beitrag {#sec:Diskussion-Literaturpipeline-Mehrwert}
 
