@@ -587,63 +587,45 @@ Die korrelativen Visualisierungen ergänzen diese Clusteransicht um eine feinere
 
 **Forschungsunterfragen × Forschungsunterfragen**
 
-Die Korrelationsstruktur zwischen den Forschungsunterfragen dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-fu]{Abb.~A.4.1}).
+Die erste Paarungsperspektive richtet den Blick auf die Forschungsunterfragen wechselseitig (\hyperref[fig:A-kor-fu]{Abb.~A.4.1}) und bildet das strukturelle Ausgangsbild für die anschließenden neun Matrizen: Für alle gilt, dass nicht absolute Korrelationswerte im Vordergrund stehen, sondern Verteilung, Richtung und relative Stärke der Zusammenhänge.
 
 Die Werte bleiben fast durchgängig im schwach negativen Bereich; punktuell zeigen sich leichte positive Ausreißer, etwa zwischen FU$_{4a}$ und FU$_{3}$. Dominante Achsen sind nicht erkennbar, vielmehr ergibt sich ein fein gestreutes Muster mit einzelnen Verdichtungen um FU$_{4a}$. Für die methodische Einordnung spricht dies dafür, dass die Forschungsunterfragen weitgehend getrennt geführt sind und keine starken unbeabsichtigten Überschneidungen erzeugen. Die wenigen positiven Paare markieren Anschlussstellen, die inhaltlich plausibel bleiben.
 
 **Forschungsunterfragen × Suchbegriffe**
 
-Die Korrelationsstruktur zwischen Forschungsunterfragen und Suchbegriffen dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-fu-suchbegriffe]{Abb.~A.4.2}).
-
-Positive Verdichtungen zeigen sich vor allem bei FU$_{4a}$/FU$_{4b}$ in Kombination mit `digital learning`, `digitale medien` und `E‑Learning`; bei FU$_{1}$/FU$_{7}$ treten nur geringe und vereinzelt negative Bezüge zu klassischen Lernplattform-Begriffen auf. Insgesamt bleiben die Werte moderat. Methodisch spricht dies dafür, dass die Suchbegriffe die thematischen Schwerpunkte der Forschungsunterfragen aufgreifen, ohne dass einzelne Querbezüge den Zusammenhang dominieren.
+Positive Verdichtungen zeigen sich vor allem bei FU$_{4a}$/FU$_{4b}$ in Kombination mit `digital learning`, `digitale medien` und `E‑Learning` (\hyperref[fig:A-kor-fu-suchbegriffe]{Abb.~A.4.2}); bei FU$_{1}$/FU$_{7}$ treten nur geringe und vereinzelt negative Bezüge zu klassischen Lernplattform-Begriffen auf. Insgesamt bleiben die Werte moderat. Methodisch spricht dies dafür, dass die Suchbegriffe die thematischen Schwerpunkte der Forschungsunterfragen aufgreifen, ohne dass einzelne Querbezüge den Zusammenhang dominieren.
 
 **Forschungsunterfragen × Kategorien**
 
-Die Korrelationsstruktur zwischen Forschungsunterfragen und Kategorien dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-fu-kategorien]{Abb.~A.4.3}).
-
-Schwerpunkte liegen bei `kerngedanke` und `weiterführung`, jeweils mit moderaten positiven Bezügen zu FU$_{4a}$, FU$_{4b}$ und FU$_{5}$. `Argumentation` koppelt erwartungsgemäß leicht an FU$_{3}$/FU$_{4a}$; negative Werte bleiben marginal. Für die methodische Lesart bedeutet dies, dass die Kategorien vor allem an den inhaltlich zugehörigen Forschungsunterfragen anschließen und ansonsten vergleichsweise entkoppelt bleiben. Ihre Funktion liegt damit eher in einer strukturierenden Perspektive als in einer harten Clusterbildung.
+Schwerpunkte liegen bei `kerngedanke` und `weiterführung`, jeweils mit moderaten positiven Bezügen zu FU$_{4a}$, FU$_{4b}$ und FU$_{5}$ (\hyperref[fig:A-kor-fu-kategorien]{Abb.~A.4.3}). `Argumentation` koppelt erwartungsgemäß leicht an FU$_{3}$/FU$_{4a}$; negative Werte bleiben marginal. Für die methodische Lesart bedeutet dies, dass die Kategorien vor allem an den inhaltlich zugehörigen Forschungsunterfragen anschließen und ansonsten vergleichsweise entkoppelt bleiben. Ihre Funktion liegt damit eher in einer strukturierenden Perspektive als in einer harten Clusterbildung.
 
 **Forschungsunterfragen × Indizes**
 
-Die Korrelationsstruktur zwischen Forschungsunterfragen und Indizes dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-fu-indizes]{Abb.~A.4.4}).
-
-Stärkere positive Kopplungen zeigen sich bei technologischer Integration, kollaborativem Lernen und Lehr-/Lerneffektivität, vor allem in Verbindung mit FU$_{4a}$/FU$_{4b}$ und FU$_{6}$. Bei FU$_{1}$/FU$_{7}$ überwiegen schwache oder neutrale Werte; negative Ausreißer treten praktisch nicht auf. Das spricht dafür, dass die Index-Logik vor allem dort trägt, wo die Forschungsunterfragen inhaltlich stärker in Technologie- und Didaktikfragen eingreifen. Zugleich überlagern die Indizes die FU-Struktur nicht, sondern stützen sie.
+Stärkere positive Kopplungen zeigen sich bei technologischer Integration, kollaborativem Lernen und Lehr-/Lerneffektivität, vor allem in Verbindung mit FU$_{4a}$/FU$_{4b}$ und FU$_{6}$ (\hyperref[fig:A-kor-fu-indizes]{Abb.~A.4.4}). Bei FU$_{1}$/FU$_{7}$ überwiegen schwache oder neutrale Werte; negative Ausreißer treten praktisch nicht auf. Das spricht dafür, dass die Index-Logik vor allem dort trägt, wo die Forschungsunterfragen inhaltlich stärker in Technologie- und Didaktikfragen eingreifen. Zugleich überlagern die Indizes die FU-Struktur nicht, sondern stützen sie.
 
 **Suchbegriffe × Suchbegriffe**
 
-Die Korrelationsstruktur der Suchbegriffe dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-suchbegriffe]{Abb.~A.4.5}).
-
-Die Matrix zeigt überwiegend schwach negative und punktuell positive Knoten, vor allem im Umfeld von `digital learning` und `blended learning`. Dominante Hauptachsen fehlen; Querbezüge bleiben gering und verteilen sich auf wenige Suchwortpaare. Für die methodische Einordnung ist das ein Hinweis darauf, dass die Suchbegriffe ausreichend fein ausdifferenziert sind, um größere semantische Überlappungen zu begrenzen.
+Die Matrix zeigt überwiegend schwach negative und punktuell positive Knoten, vor allem im Umfeld von `digital learning` und `blended learning` (\hyperref[fig:A-kor-suchbegriffe]{Abb.~A.4.5}). Dominante Hauptachsen fehlen; Querbezüge bleiben gering und verteilen sich auf wenige Suchwortpaare. Für die methodische Einordnung ist das ein Hinweis darauf, dass die Suchbegriffe ausreichend fein ausdifferenziert sind, um größere semantische Überlappungen zu begrenzen.
 
 **Suchbegriffe × Kategorien**
 
-Die Korrelationsstruktur zwischen Suchbegriffen und Kategorien dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-suchbegriffe-kategorien]{Abb.~A.4.6}).
-
-Deutliche positive Bezüge finden sich zwischen `digital learning` beziehungsweise `blended learning` und den Kategorien `kerngedanke` und `weiterführung`; punktuell treten negative Werte bei einzelnen Medientiteln auf. Insgesamt bleibt das Niveau moderat. Methodisch lässt sich daraus ableiten, dass die Kategorien vor allem jene Suchbegriffe aufnehmen, die inhaltlich näher am Forschungsgegenstand liegen, während periphere Begriffe schwächer anschließen.
+Deutliche positive Bezüge finden sich zwischen `digital learning` beziehungsweise `blended learning` und den Kategorien `kerngedanke` und `weiterführung` (\hyperref[fig:A-kor-suchbegriffe-kategorien]{Abb.~A.4.6}); punktuell treten negative Werte bei einzelnen Medientiteln auf. Insgesamt bleibt das Niveau moderat. Methodisch lässt sich daraus ableiten, dass die Kategorien vor allem jene Suchbegriffe aufnehmen, die inhaltlich näher am Forschungsgegenstand liegen, während periphere Begriffe schwächer anschließen.
 
 **Kategorien × Kategorien**
 
-Die Korrelationsstruktur der Kategorien dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-kategorien]{Abb.~A.4.7}).
-
-Es zeigen sich nur vereinzelte, schwach positive Beziehungen zwischen `argumentation`, `kerngedanke` und `weiterführung`; ansonsten dominieren neutrale Felder und minimale negative Werte. Das spricht für eine weitgehende Eigenständigkeit der Kategorien und dafür, dass sie unterschiedliche argumentative Rollen adressieren.
+Nur vereinzelte, schwach positive Beziehungen zeigen sich zwischen `argumentation`, `kerngedanke` und `weiterführung` (\hyperref[fig:A-kor-kategorien]{Abb.~A.4.7}); ansonsten dominieren neutrale Felder und minimale negative Werte. Das spricht für eine weitgehende Eigenständigkeit der Kategorien und dafür, dass sie unterschiedliche argumentative Rollen adressieren.
 
 **Indizes × Indizes**
 
-Die Korrelationsstruktur der Indizes dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-indizes]{Abb.~A.4.8}) [@hanisch-johannsen_wirkgefuge_2025-2].
-
-Deutliche positive Cluster zeigen sich bei technologischer Integration, Datenschutz/IT-Sicherheit, kollaborativem Lernen und Lehr-/Lerneffektivität. Negative Werte sind selten; neutrale Felder liegen vor allem an den Rändern der Matrix. Für die methodische Lesart deutet dies auf ein konsistentes, technologie- und didaktiknahes Indexgefüge hin, in dem sich mehrere deduktive Achsen wechselseitig stützen.
+Deutliche positive Cluster zeigen sich bei technologischer Integration, Datenschutz/IT-Sicherheit, kollaborativem Lernen und Lehr-/Lerneffektivität (\hyperref[fig:A-kor-indizes]{Abb.~A.4.8}) [@hanisch-johannsen_wirkgefuge_2025-2]. Negative Werte sind selten; neutrale Felder liegen vor allem an den Rändern der Matrix. Für die methodische Lesart deutet dies auf ein konsistentes, technologie- und didaktiknahes Indexgefüge hin, in dem sich mehrere deduktive Achsen wechselseitig stützen.
 
 **Indizes × Kategorien**
 
-Die Korrelationsstruktur zwischen Indizes und Kategorien dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-indizes-kategorien]{Abb.~A.4.9}).
-
-Positive Schwerpunkte liegen zwischen `kerngedanke` beziehungsweise `weiterführung` und den Indizes zu technologischer Integration, kollaborativem Lernen sowie Datenschutz/IT-Sicherheit; `argumentation` koppelt moderat an Lehr-/Lerneffektivität. Negative Werte fehlen fast vollständig. Das Muster spricht dafür, dass die Kategorien vor allem entlang der deduktiv gesetzten technologie- und didaktiknahen Indexachsen anschließen.
+Positive Schwerpunkte liegen zwischen `kerngedanke` beziehungsweise `weiterführung` und den Indizes zu technologischer Integration, kollaborativem Lernen sowie Datenschutz/IT-Sicherheit (\hyperref[fig:A-kor-indizes-kategorien]{Abb.~A.4.9}); `argumentation` koppelt moderat an Lehr-/Lerneffektivität. Negative Werte fehlen fast vollständig. Das Muster spricht dafür, dass die Kategorien vor allem entlang der deduktiv gesetzten technologie- und didaktiknahen Indexachsen anschließen.
 
 **Indizes × Suchbegriffe**
 
-Die Korrelationsstruktur zwischen Indizes und Suchbegriffen dient der Validierung der deduktiven Logik und zeigt die Muster der Beziehungen, ohne dass hohe absolute Korrelationswerte im Vordergrund stehen. Entscheidend sind Verteilung, Richtung und relative Stärke der Zusammenhänge (\hyperref[fig:A-kor-indizes-suchbegriffe]{Abb.~A.4.10}).
-
-Klar positive Paare zeigen sich zwischen technologischer Integration, Bewertungsmethoden und kollaborativem Lernen einerseits sowie Suchbegriffen wie `digital learning`, `E‑Learning` und `blended learning` andererseits. Negative Werte treten vor allem bei spezifischen Medientiteln auf und bleiben insgesamt schwach. Für die methodische Einordnung spricht dies dafür, dass die Suchbegriffe den indexbasierten Schwerpunkten folgen und zwischen technologie- beziehungsweise didaktiknahen und peripheren Termfeldern differenzieren.
+Klar positive Paare zeigen sich zwischen technologischer Integration, Bewertungsmethoden und kollaborativem Lernen einerseits sowie `digital learning`, `E‑Learning` und `blended learning` andererseits (\hyperref[fig:A-kor-indizes-suchbegriffe]{Abb.~A.4.10}). Negative Werte treten vor allem bei spezifischen Medientiteln auf und bleiben insgesamt schwach. Für die methodische Einordnung spricht dies dafür, dass die Suchbegriffe den indexbasierten Schwerpunkten folgen und zwischen technologie- beziehungsweise didaktiknahen und peripheren Termfeldern differenzieren.
 
 ### 4.3.9 Auswertung: Eye-Tracking und Umfrage im Vergleich [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025] {#sec:EyeTracking-Umfrage-Vergleich}
 
