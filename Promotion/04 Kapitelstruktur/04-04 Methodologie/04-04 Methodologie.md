@@ -219,7 +219,7 @@ Für die Methodologie ist daran vor allem wichtig, dass die Suchordner den erste
 
 ### 4.2.3 Visualisierungen der Literaturbasis {#sec:Visualisierungen-Literaturbasis}
 
-Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt die Visualisierungen entlang eines konsistenten analytischen Aufbaus. Die Abbildungen bilden die visuelle Grundlage der in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschriebenen Datenanalyse und ordnen den Quellenkorpus systematisch entlang zentraler Dimensionen: Überblick, Korpusstruktur, FU‑Mapping und Relevanz, Qualitäts- und Statusinformationen, Autor:innenverteilung, Sprachmuster sowie Pfad‑/Sankey‑ und Netzwerksichten. Sie dienen damit der transparenten Rekonstruktion der Datenbasis und der Vorbereitung der späteren Cluster- und Korrelationsanalysen.
+Zur Orientierung innerhalb der Auswertungsschritte strukturiert dieser Abschnitt die Visualisierungen entlang eines konsistenten analytischen Aufbaus. Die Abbildungen bilden die visuelle Grundlage der in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschriebenen Datenanalyse und ordnen den Quellenkorpus systematisch entlang zentraler Dimensionen: Überblick, Korpusstruktur, FU‑Mapping und Relevanz, Qualitäts- und Statusinformationen, Autor\*innenverteilung, Sprachmuster sowie Pfad‑/Sankey‑ und Netzwerksichten. Sie dienen damit der transparenten Rekonstruktion der Datenbasis und der Vorbereitung der späteren Cluster- und Korrelationsanalysen.
 
 Inhaltlich gehören in diesen Abschnitt alle Visualisierungen, die die Relevanz, Struktur und thematische Zuordnung des Korpus abbilden (z. B. Kategorien-, FU‑ und Suchbegriffzuordnungen) sowie Sprach‑ und Kategoriedistributionen.
 
@@ -228,7 +228,7 @@ Aufbau der Visualisierungen:
 - Überblick: Gesamtplot mit Kernkennzahlen (Relevanz, Sprachen, Typen).
 - Korpusstruktur: Verteilungen der Kategorien und Indizes.
 - FU‑Mapping/Relevanz: Zuordnung zu Forschungsunterfragen sowie Relevanz je FU, Kategorie und Suchbegriff.
-- Qualität/Autoren: Verteilung der Top‑Autor:innen.
+- Qualität/Autoren: Verteilung der Top‑Autor\*innen.
 - Sprachen: Gesamtverteilung und Differenzierung nach Dokumententypen.
 - Flüsse/Netze: Pfaddiagramm, Suchbegriff‑Sankey‑Darstellung und das semantische Netzwerk.
 
@@ -743,7 +743,7 @@ Die Indikatorik lässt sich als Verlaufsspur illustrieren (\hyperref[fig:sim-bil
 
 ### 4.4.4 Passung zum Wirkgefüge-Konzept {#sec:Simulation-Passung}
 
-Die Simulation passt in die Logik dieser Dissertation, weil sie dieselbe Grundannahme formalisiert, die auch die empirische und literaturbasierte Rekonstruktion trägt: Wirkung entsteht aus Koppelungen. Während Kapitel \hyperref[sec:Ergebnisse]{5} Koppelungen als Muster im Literaturkorpus, im Nutzungsvollzug (Eye‑Tracking [@hanisch-johannsen_wirkgefuge_2025-1]) und in Akteur*innenurteilen (Umfrage [@hanisch-johannsen_wirkgefuge_2025]) sichtbar macht, überführt die Simulation diese Koppelungsidee in eine Dynamikform, die Regeneration, Störung und Entkopplungsrisiken als zeitliche Muster darstellbar macht. Damit ergänzt sie den argumentativen Bogen von der systemischen Theorie (Kapitel 2) über die Methodologie (Kapitel 4) bis zur thesenhaften Schlussverdichtung (Kapitel \hyperref[sec:Conclusio-Manifest]{7.1}).
+Die Simulation passt in die Logik dieser Dissertation, weil sie dieselbe Grundannahme formalisiert, die auch die empirische und literaturbasierte Rekonstruktion trägt: Wirkung entsteht aus Koppelungen. Während Kapitel \hyperref[sec:Ergebnisse]{5} Koppelungen als Muster im Literaturkorpus, im Nutzungsvollzug (Eye‑Tracking [@hanisch-johannsen_wirkgefuge_2025-1]) und in Akteur\*innenurteilen (Umfrage [@hanisch-johannsen_wirkgefuge_2025]) sichtbar macht, überführt die Simulation diese Koppelungsidee in eine Dynamikform, die Regeneration, Störung und Entkopplungsrisiken als zeitliche Muster darstellbar macht. Damit ergänzt sie den argumentativen Bogen von der systemischen Theorie (Kapitel 2) über die Methodologie (Kapitel 4) bis zur thesenhaften Schlussverdichtung (Kapitel \hyperref[sec:Conclusio-Manifest]{7.1}).
 
 ### 4.4.5 Grenzen und methodische Einordnung {#sec:Simulation-Grenzen}
 
@@ -789,7 +789,7 @@ Methodenkritik ist in dieser Arbeit eine Strukturbedingung des gewählten Vorgeh
 
 Generative KI: Halluzinationen, Referenzrisiken und Integritätsverschiebung
 
-Die zentrale Kritik lautet, dass GenAI plausibel klingende und zugleich falsche oder fabrizierte Informationen erzeugen kann und damit die Evidenzlogik wissenschaftlicher Argumentation unterläuft – insbesondere dort, wo Referenzen als Belegfunktion missverstanden werden. Zudem wird beschrieben, dass hybride Human‑KI‑Schreibprozesse neue Integritätskonflikte („postplagiarism“) erzeugen und ohne klare Leitplanken eine unklare Zuschreibung von Autor*innenschaft, Verantwortlichkeit und Prüfpflichten entsteht. [@van_niekerk_addressing_2025, Seiten 2 und 4; @biswas_chatgpt_2023, Seiten 1 und 7; @parker_negotiating_2024, Seite 2; @storey_ai_2023, Seite 2]
+Die zentrale Kritik lautet, dass GenAI plausibel klingende und zugleich falsche oder fabrizierte Informationen erzeugen kann und damit die Evidenzlogik wissenschaftlicher Argumentation unterläuft – insbesondere dort, wo Referenzen als Belegfunktion missverstanden werden. Zudem wird beschrieben, dass hybride Human‑KI‑Schreibprozesse neue Integritätskonflikte („postplagiarism“) erzeugen und ohne klare Leitplanken eine unklare Zuschreibung von Autor\*innenschaft, Verantwortlichkeit und Prüfpflichten entsteht. [@van_niekerk_addressing_2025, Seiten 2 und 4; @biswas_chatgpt_2023, Seiten 1 und 7; @parker_negotiating_2024, Seite 2; @storey_ai_2023, Seite 2]
 
 Genau deshalb werden LLM im Workflow als kognitive Assistenzsysteme geführt; ihre Outputs gelten grundsätzlich als analytische Verdichtung. Das Vorgehen bindet jede LLM-Ausgabe an eine menschliche Validierungsverantwortung zurück (Kontrolllesen, Korrektur, Abgleich mit eigener Einschätzung) und sichert Reproduzierbarkeit über Audit-Trails\label{term:audit-trail}: standardisierte Prompts, Versionierung, Parameterprotokolle und dokumentierte Revisionen (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3} und \hyperref[sec:SWOT-KI-Methodik]{4.5.1}). Der in der Literatur geforderte Nachweisweg wird damit über transparente Prozessdokumentation als epistemische Validierungsstrategie erbracht; Detektion LLM-generierter Anteile bleibt nachrangig, da sie als begrenzt verlässlich beschrieben wird. [@hebbel-seeger_wissenschaftliches_2025, Seiten 434–436 und 438–440; @storey_ai_2023, Seite 4]
 
