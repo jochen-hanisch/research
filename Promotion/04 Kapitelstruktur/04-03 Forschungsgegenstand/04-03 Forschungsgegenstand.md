@@ -56,7 +56,7 @@ Für den Untersuchungsfall ist zusätzlich die High-Responsibility-Team-(HRT)-Lo
 
 ## 3.2 Entwicklung und Einbettung LMS {#sec:Entwicklung-Einbettung}
 
-Die Entwicklung und Einbettung des hier untersuchten Learning Management Systems erfolgte nicht als Reaktion auf äußere Anforderungen, sondern als systematische Auseinandersetzung mit den Herausforderungen einer digital gestützten Ausbildung im Gesundheitswesen. Die Konzeption entstand aus der Verbindung theoretischer Überlegungen, eigener empirischer Arbeiten sowie konkreter institutioneller Anforderungen im Rahmen der Einführung der dreijährigen Ausbildung von Notfallsanitäter*innen.
+Die Entwicklung und Einbettung des hier untersuchten Learning Management Systems erfolgte nicht als Reaktion auf äußere Anforderungen, sondern als systematische Auseinandersetzung mit den Herausforderungen einer digital gestützten Ausbildung im Gesundheitswesen. Die Konzeption entstand aus der Verbindung theoretischer Überlegungen, eigener empirischer Arbeiten sowie konkreter institutioneller Anforderungen im Rahmen der Einführung der dreijährigen Ausbildung von Notfallsanitäter\*innen.
 Die folgenden Abschnitte zeigen, wie sich das System von den ersten konzeptionellen Gedanken (3.2.1) über die schulische Implementierung (3.2.2) und dynamische Weiterentwicklung (3.2.3) bis zur empirischen Evaluation (3.2.4) konstituierte.
 
 ### 3.2.1 Entstehungskontext und konzeptionelle Grundlagen {#sec:Entstehung-Konzept}
@@ -113,7 +113,7 @@ Bereits in der hier mehrfach zitierten studentischen Ausgangsuntersuchung wurde 
 
 Aus dieser methodischen Einschränkung ergibt sich der Bedarf nach einem Instrument, das Ergebnis- und Gestaltungsmerkmale von Trainingssituationen gemeinsam erfassen kann. Das Training Evaluation Inventory (TEI)\label{term:tei} nach @ritzmann_training_2014 wurde deshalb als geeignetes Folgeinstrument identifiziert und in die Ausbildungskonzeption integriert. Das TEI überführt zentrale Gedanken des Kirkpatrick-Modells in ein für High-Responsibility-Teams anschlussfähiges, empirisch validiertes Fragebogenformat. Für den Untersuchungsrahmen dieses Kapitels liegt sein Nutzen darin, dass die in den Handlungssituationen des LMS angelegten didaktischen Kopplungen (Designmerkmale) und die wahrgenommenen Trainingseffekte in einer gemeinsamen Auswertungslogik beobachtbar werden.
 
-Die Anwendung des TEI soll im organisationalen Alltag praktikabel sein und umfasst zehn Skalen mit insgesamt 53 Items, die die beiden zentralen Dimensionen wahrgenommene Trainingseffekte sowie didaktische Merkmale des Trainingsdesigns einbeziehen. Diese Kombination ermöglicht einerseits den Output eines Trainings zu erfassen, andererseits dessen didaktische Wirksamkeit zu analysieren. Ein in dem Kontext dieses Kapitels bedeutender Vorteil des TEI liegt in der Verknüpfung von Ergebnis- und Prozessdimensionen. Die Skalen zu Lernfreude, Nützlichkeit, Wissenszuwachs, Einstellung und Transfer erlauben die Erfassung kognitiver und affektiver Wirkungen. Die Designskalen beruhen auf den didaktischen Prinzipien Problemorientierung, Aktivierung, Demonstration, Anwendung und Integration. Diese Fünf-Punkte-Struktur folgt den Überlegungen von Merrill (2002) und erlaubt Rückschlüsse darauf, inwiefern angebotene Trainingsmaßnahmen wirksam oder unwirksam sind. Hervorzuheben ist hierbei, dass laut den Ergebnissen der Validierungsstudie insbesondere die Skalen „Demonstration“, „Anwendung“ und „Integration“ die stärksten Prädiktoren für positive Trainingseffekte darstellen. Die regelmäßige Anwendung des TEI nach jeder Handlungssituation im hier betrachteten LMS bringt genau diesen Mehrwert zur Geltung. Sie ermöglicht ein kontinuierliches Rückmeldesystem, das nicht nur eine summative Bewertung, sondern auch eine formative Rückkopplung auf Mikroebene bereitstellt. Die erhobenen Daten erlauben, die Gestaltung einzelner Handlungssituationen gezielt anzupassen und schrittweise zu verbessern. Evaluation wird damit integraler Bestandteil der Systementwicklung. Die Autor*innen betonen selbst: „Evaluating the design features of training is important to shed light on the reasons why certain training outcome effects were produced“ [@ritzmann_training_2014, Seite 47] [@ritzmann_training_2014, Seite 43, 48, 62].
+Die Anwendung des TEI soll im organisationalen Alltag praktikabel sein und umfasst zehn Skalen mit insgesamt 53 Items, die die beiden zentralen Dimensionen wahrgenommene Trainingseffekte sowie didaktische Merkmale des Trainingsdesigns einbeziehen. Diese Kombination ermöglicht einerseits den Output eines Trainings zu erfassen, andererseits dessen didaktische Wirksamkeit zu analysieren. Ein in dem Kontext dieses Kapitels bedeutender Vorteil des TEI liegt in der Verknüpfung von Ergebnis- und Prozessdimensionen. Die Skalen zu Lernfreude, Nützlichkeit, Wissenszuwachs, Einstellung und Transfer erlauben die Erfassung kognitiver und affektiver Wirkungen. Die Designskalen beruhen auf den didaktischen Prinzipien Problemorientierung, Aktivierung, Demonstration, Anwendung und Integration. Diese Fünf-Punkte-Struktur folgt den Überlegungen von Merrill (2002) und erlaubt Rückschlüsse darauf, inwiefern angebotene Trainingsmaßnahmen wirksam oder unwirksam sind. Hervorzuheben ist hierbei, dass laut den Ergebnissen der Validierungsstudie insbesondere die Skalen „Demonstration“, „Anwendung“ und „Integration“ die stärksten Prädiktoren für positive Trainingseffekte darstellen. Die regelmäßige Anwendung des TEI nach jeder Handlungssituation im hier betrachteten LMS bringt genau diesen Mehrwert zur Geltung. Sie ermöglicht ein kontinuierliches Rückmeldesystem, das nicht nur eine summative Bewertung, sondern auch eine formative Rückkopplung auf Mikroebene bereitstellt. Die erhobenen Daten erlauben, die Gestaltung einzelner Handlungssituationen gezielt anzupassen und schrittweise zu verbessern. Evaluation wird damit integraler Bestandteil der Systementwicklung. Die Autor\*innen betonen selbst: „Evaluating the design features of training is important to shed light on the reasons why certain training outcome effects were produced“ [@ritzmann_training_2014, Seite 47] [@ritzmann_training_2014, Seite 43, 48, 62].
 
 Für die vorliegende Arbeit liegt TEI als vollständige Folge aggregierter Exports pro Handlungssituation (`Evaluation-01`…`Evaluation-32`) vor. Die Exports umfassen je 46 Items. Die Rücklaufzahl variiert zwischen den Handlungssituationen [@hanisch-johannsen_tei-feedback_2025].
 
@@ -220,7 +220,7 @@ Die Skizze bildete das konzeptionelle Fundament der ersten Entwicklungsphase und
 
 ### 3.4.1 Konzeptionelle Grundkonstruktion {#sec:Grundkonstruktion}
 
-Am Anfang stand kein fertiges Konzept, sondern die Idee eines Ausbildungswegs, der fachliche Entwicklung, Haltung und berufliche Identitätsbildung in einer strukturierten Abfolge zusammenführt (i.A.a. [@miyamoto_buch_2005, Seite 64–69]). Aus dieser Pfadidee entstand die didaktische Grundkonstruktion des Learning Management Systems. Die Handlungssituationen orientieren sich inhaltlich und strukturell am Rahmenlehrplan NRW\label{term:rahmenlehrplan-nrw} zur Ausbildung von Notfallsanitäter*innen, insbesondere an dessen Gliederung in zehn Lernfelder [@mgpa_nrw_rahmenlehrplan_2016, Seite 3]. Der Lernprozess wird damit als sequenziell angelegte, zugleich durchlässige Trajektorie organisiert, die curricular vorgegeben ist und im System adaptiv geführt werden kann. Diese Pfadidee wird modellbasiert als Trajektorie visualisiert (\hyperref[fig:fg-trajektorie]{Abbildung~\ref{fig:fg-trajektorie}}; zur theoretischen Rahmung Abschnitt~\hyperref[sec:Systemisch-konstruktivistische-Theorie]{2.2.2}).
+Am Anfang stand kein fertiges Konzept, sondern die Idee eines Ausbildungswegs, der fachliche Entwicklung, Haltung und berufliche Identitätsbildung in einer strukturierten Abfolge zusammenführt (i.A.a. [@miyamoto_buch_2005, Seite 64–69]). Aus dieser Pfadidee entstand die didaktische Grundkonstruktion des Learning Management Systems. Die Handlungssituationen orientieren sich inhaltlich und strukturell am Rahmenlehrplan NRW\label{term:rahmenlehrplan-nrw} zur Ausbildung von Notfallsanitäter\*innen, insbesondere an dessen Gliederung in zehn Lernfelder [@mgpa_nrw_rahmenlehrplan_2016, Seite 3]. Der Lernprozess wird damit als sequenziell angelegte, zugleich durchlässige Trajektorie organisiert, die curricular vorgegeben ist und im System adaptiv geführt werden kann. Diese Pfadidee wird modellbasiert als Trajektorie visualisiert (\hyperref[fig:fg-trajektorie]{Abbildung~\ref{fig:fg-trajektorie}}; zur theoretischen Rahmung Abschnitt~\hyperref[sec:Systemisch-konstruktivistische-Theorie]{2.2.2}).
 
 ![Trajektorie der Handlungssituationen im LMS.](<08 Metaquellen/08-01 Abbildungen/didaktik/ontologisch-systemische-trajektorie_konstruktivistisch-standardlernender.png>){#fig:fg-trajektorie}
 
@@ -234,7 +234,7 @@ Die konzeptionelle Grundstruktur des LMS wird in \hyperref[fig:modell_LMS]{Abbil
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-modell.tex}
 
-Die Struktur trennt curricular-inhaltliche Handlungssituationen ($n = 32$) von kohortenspezifischen Ausbildungskursen ($n = 3$). Daraus ergibt sich eine flexible, zugleich kohärente Lernumgebung, in der Erfahrungen, Arbeitsergebnisse und organisatorische Prozesse in die übergeordnete Handlungsebene rückgebunden werden können. Zugleich bezieht die Architektur alle drei Lernorte der Ausbildung ein, also Lehrrettungswache, Notfallsanitäterschule und Krankenhaus (§ 3 i.V.m. Anlage 1-3 NotSan-APrV\label{term:notsan-aprv}, 2023). Die beteiligten Akteurinnen und Akteure\label{term:akteure} werden damit in eine gemeinsame Kursstruktur eingebunden, in der fachliche Begleitung, organisatorische Steuerung und Rückmeldung zusammengeführt werden.
+Die Struktur trennt curricular-inhaltliche Handlungssituationen ($n = 32$) von kohortenspezifischen Ausbildungskursen ($n = 3$). Daraus ergibt sich eine flexible, zugleich kohärente Lernumgebung, in der Erfahrungen, Arbeitsergebnisse und organisatorische Prozesse in die übergeordnete Handlungsebene rückgebunden werden können. Zugleich bezieht die Architektur alle drei Lernorte der Ausbildung ein, also Lehrrettungswache, Notfallsanitäterschule und Krankenhaus (§ 3 i.V.m. Anlage 1-3 NotSan-APrV\label{term:notsan-aprv}, 2023). Die beteiligten Akteur\*innen\label{term:akteure} werden damit in eine gemeinsame Kursstruktur eingebunden, in der fachliche Begleitung, organisatorische Steuerung und Rückmeldung zusammengeführt werden.
 
 \hyperref[fig:modell_LMS]{Abbildung~\ref{fig:modell_LMS}} macht diese integrative Grundstruktur anschaulich. Im Zentrum steht die wechselseitige Beziehung von Handlungssituationen als curricular-didaktischen Strukturelementen und Ausbildungskursen als organisatorischen Einheiten. Die inneren Bereiche Result, Communication und Organization markieren die operative Ebene des Systems. Hier werden Arbeitsergebnisse gesichert, Rückmeldungen geführt, Zuständigkeiten sichtbar gemacht und Abläufe strukturiert. Die äußeren Bereiche Content und Lernorte bezeichnen die beiden Bezugsrahmen, aus denen die Handlungssituationen gespeist werden und an die sie Ergebnisse zurückgeben. Sichtbar wird damit eine Architektur, in der Stabilität, Adaptivität und Lernort-Transfer zugleich organisiert sind.
 
@@ -273,25 +273,32 @@ Daran anschließend wird die Bereitstellung zentraler Lernmaterialien in struktu
 **Aufgaben**
 
 **Didaktische Funktion im Gesamtlernprozess**
+
 Der Aufgabencontainer ist das Herzstück des kompetenzorientierten Lernprozesses. Er operationalisiert die curricularen Anforderungen in konkrete, handlungsorientierte Aufgabenstellungen, die sowohl individuelle als auch kollaborative Bearbeitung fördern. Durch die gezielte Verwendung von Operatoren und die Anbindung an reale Problemstellungen wird der Aufbau von Fach-, Handlungs- und Reflexionskompetenz unterstützt. Die Aufgaben dienen als "Lernmotor" und strukturieren die individuelle und gemeinsame Auseinandersetzung mit den Ausbildungsinhalten.
 
 **Theoriekonzeptionelle Referenz**
+
 Der Aufgabencontainer bildet die zentrale "Kopplungsstelle" in der Trajektorienlogik. Hier werden die individuellen Lernpfade mit den curricularen Anforderungen synchronisiert. In der Epistemosphäre fungiert er als Generator neuer Wissens- und Erfahrungsräume, während er im digitalen Dispositiv die Verbindung zwischen Struktur (Aufgabenformat, Operatorik) und Prozess (Bearbeitung, Peer-Feedback) herstellt (\hyperref[sec:Emotionen]{Kapitel 2.1.2} und \hyperref[sec:SystemischeDynamik]{2.5}).
 
 **Technische Umsetzung im Learning-Management-System**
+
 Im Aufgabencontainer wird eine Kombination aus Aufgabenmodulen, Foren und Abstimmungen genutzt, weil damit Bearbeitung, Austausch und Selbstorganisation in einem sichtbaren Prozess zusammenlaufen. Aufgabenmodule sichern Abgabe, Fristen und Bewertung. Foren tragen Diskussion und Peer-Rückmeldung, Abstimmungen machen Arbeitsverteilung und Zuständigkeiten transparent. Diese technische Kopplung ist im Untersuchungsfall zentral, weil der Aufgabencontainer die Schnittstelle zwischen curricularer Vorgabe, kooperativer Bearbeitung und späterer Ergebnissicherung bildet (Abschnitt~\hyperref[sec:Grundkonstruktion]{3.4.1}).
 
 **Limitationen und Weiterentwicklungspotenziale**
+
 Risiken liegen in Überstrukturierung und Unschärfe. Zu viele oder zu komplexe Aufgaben können überfordern, unklare Operatorik erzeugt Unsicherheit und Passivität. Hinzu kommen technische Hürden, wenn mehrere Module gleichzeitig bedient werden müssen. Weiterentwicklung liegt deshalb weniger in "mehr Aufgaben", sondern in passgenauer Operatorlogik, klaren Kriterien und in abgestuften Bearbeitungsformaten, die mit wachsender Kompetenz anspruchsvoller werden. Ergänzend können automatisierte Rückmeldungen oder Analytiken helfen, Überlastung früh zu erkennen und Unterstützung gezielt anzubieten (Abschnitt~\hyperref[sec:Evaluation-Reflexion]{3.2.4}).
 Die Aufgabenstellungen werden durch didaktisch begründete Operatoren formuliert, die eine transparente und kompetenzorientierte Anforderungsstruktur gewährleisten und sich an der Kompetenzstufung orientieren. Abbildung 7 zeigt exemplarisch, wie die Aufgaben so angelegt sind, dass sie sowohl die eigenständige Auseinandersetzung mit fachlichen Inhalten als auch kooperative Bearbeitungsformen der Akteure ermöglichen. Ergänzt wird dieser Abschnitt durch ein Bearbeitungsforum, das den Austausch von Ideen fördert und Reflexionsprozesse anregt.
 
 **Umsetzung in NFS‑H‑01**
+
 NFS‑H‑01 nutzt den Aufgabencontainer in besonderer Weise als „Einstiegsdidaktik“. Die erste Woche ist darauf ausgerichtet, die Lernenden in die Logik des Ausbildungsgangs und in die Logik des digitalen Lernraums einzuarbeiten. Dazu werden unterschiedliche Aufgabenformate bewusst kombiniert. Eine formale Abgabe (z. B. der „eLebenslauf“) trainiert den technischen und prozessualen Abgabeweg, ohne dass inhaltliche Komplexität den Prozess überlagert. Gleichzeitig werden thematische Aufgabenblöcke gesetzt, die den Blick auf das Ausbildungsziel (rechtliche und curriculare Verortung) und auf Grundlagen wissenschaftlichen Arbeitens (Quellenvalidität, argumentatives Begründen, Strukturieren) lenken. Dass diese Bereiche durch Abstimmungen („Aufgabenverteilung …“) und Diskussionsforen flankiert werden, ist didaktisch nicht zufällig. Die Abstimmungen stärken Selbstorganisation und Sichtbarkeit der Arbeitsverteilung, während die Foren die Erwartung früh stabilisieren, dass Lernen in diesem Setting als begründetes Austauschen, Mitargumentieren und gemeinsames Klären organisiert ist. Der Aufgabencontainer ist damit ein Inhaltscontainer. Er ist zugleich ein sozialer und prozessualer Trainingsraum, der die späteren Handlungssituationen vorbereitet.
 
 **Didaktische Besonderheiten/Herausforderungen**
+
 Im Aufgabencontainer entscheidet sich die Anschlussfähigkeit häufig an Transparenz. Verbindliche Abgabezeitpunkte, nachvollziehbare Kriterien (inkl. Operatorlogik) und Regeln für Peer‑Rückmeldung machen kooperative Arbeit weniger zufallsabhängig und sichern, dass Austausch fachlich begründet erfolgt.
 
 **Funktion im Gesamtsystem**
+
 Der Aufgabencontainer ist damit die zentrale Kopplungsstelle zwischen curricularer Vorgabe, lernprozessualer Bearbeitung und späterer Ergebnissicherung. Er organisiert die lernleitende Sequenz, erzeugt Anlässe für Austausch und legt die Grundlage dafür, dass Ergebnisse überhaupt dokumentierbar und rückkoppelbar werden.
 
 Sichtbar werden hier beispielhafte Aufgabenformate zur Bearbeitung beruflicher Handlungssituationen. Operatoren und strukturierte Aufgabenbereiche ermöglichen eine kompetenzorientierte Formulierung und eine praxisnahe Umsetzung curricularer Anforderungen.
@@ -303,34 +310,43 @@ Inhaltliche Ergebnisse und die dazugehörigen Erkenntnisse aus der Bearbeitung d
 **Ergebnissicherung**
 
 **Didaktische Funktion im Gesamtlernprozess**
+
 Die Ergebnissicherung ist der zentrale Reflexions- und Dokumentationsraum, in dem individuelle und kollaborative Lernergebnisse sichtbar und nachnutzbar gemacht werden. Sie ermöglicht die Reflexion von Lernfortschritten, die Konsolidierung von Wissen und die Vorbereitung von Transferleistungen. Durch die kontinuierliche Ergebnissicherung wird nachhaltiges Wissensmanagement gefördert und die Grundlage für formative Evaluation und rekursive Lernprozesse geschaffen.
 
 **Theoriekonzeptionelle Referenz**
+
 In der Epistemosphäre ist die Ergebnissicherung der Ort der Wissensverdichtung und -externalisierung. Die Trajektorienlogik wird durch die Möglichkeit unterstützt, Ergebnisse entlang individueller und kollektiver Lernpfade zu dokumentieren und zu reflektieren. Die digitale Dispositivstruktur wird durch die Nutzung von kollaborativen Tools (Wiki, Glossar, Datenbanken) operationalisiert, die die Durchlässigkeit zwischen individuellen und gemeinsamen Erkenntnisprozessen ermöglichen (\hyperref[sec:Emotionen]{Kapitel 2.1.2}, \hyperref[sec:Bildungswiss-Verortung]{2.2}).
 
 **Technische Umsetzung im Learning-Management-System**
+
 Die Auswahl von Wiki, Glossar, Foren und Datenbanken als Formate für die Ergebnissicherung ist didaktisch motiviert. Wikis ermöglichen die kollaborative, versionierbare Dokumentation von Lernergebnissen. Glossare strukturieren Begriffsarbeit und fördern die Entwicklung einer gemeinsamen Fachsprache. Foren erlauben die Präsentation und Diskussion von Ergebnissen. Datenbanken bieten strukturierte Ablagemöglichkeiten (z. B. für Einsatzberichte). Im Vergleich zu Einzelabgaben oder statischen Textseiten fördern diese Formate die Sichtbarkeit, Nachvollziehbarkeit und Wiederverwendbarkeit von Ergebnissen.
 
 **Limitationen und Weiterentwicklungspotenziale**
+
 Risiken liegen vor allem in Fragmentierung. Wenn Ergebnisse in Abgaben, Forenthreads und persönlichen Notizen zerfallen, verlieren sie Anschlussfähigkeit für spätere Aufgaben, Prüfungsbezug und Transfer. Hinzu kommt eine Einstiegshürde, wenn kollaborative Tools ungeübt sind und die Ergebnissicherung als zusätzlicher Aufwand erlebt wird. Weiterentwicklung liegt deshalb in einer klaren Ergebnislogik, die feste Orte, einfache Routinen und sichtbare Rückkopplungen verbindet, etwa durch automatisierte Übernahmen aus Aufgabenmodulen, Feedback- und Bewertungsfunktionen oder übersichtliche Dashboards. Didaktisch wird Ergebnissicherung dann wirksam, wenn sie als Teil der Lernkette geführt wird, nicht als nachträgliche Ablage (Abschnitt~\hyperref[sec:Entstehung-Konzept]{3.2.1} sowie Abschnitt~\hyperref[sec:E-Portfolio]{3.6}).
 
 **Umsetzung in NFS‑H‑01**
+
 Im Kurs NFS‑H‑01 wird diese Logik bereits im Aufgabenbereich explizit angekündigt („Denkt daran, eure Ergebnisse … festzuhalten“) und damit als Erwartungshorizont gesetzt, auch wenn die Ergebnissicherungspraktiken in der Einführungswoche noch stärker einübend als ausdifferenziert angelegt sind. Genau dieser frühe Verweis ist didaktisch bedeutsam. Er verschiebt die Aufmerksamkeit weg von der Einzelleistung hin zu einer dokumentierten Ergebnislogik, die im Verlauf der Ausbildung zunehmend professionalisiert wird (Verdichtung, Nachvollziehbarkeit, Wiederauffindbarkeit, Wiederverwendbarkeit). Ergebnissicherung fungiert dabei zugleich als Brücke zwischen individueller Bearbeitung und kollektiver Lernorganisation. Sie macht sichtbar, was gelernt wurde, und sie schafft Anschlussstellen für spätere Rückfragen, Prüfungslogik und Transferdiskussionen.
 
 **Didaktische Besonderheiten/Herausforderungen**
+
 Ergebnissicherung bleibt nur dann mehr als ein Postulat, wenn sie in der Kursansicht als eigener, sichtbarer Ablageort geführt wird (z. B. Kursbuch/Wiki/Glossar/Präsentationsbereich bzw. Datenbanken) und dadurch im Arbeitsprozess der Lernenden tatsächlich „mitläuft“. Ohne diese Sichtbarkeit drohen Ergebnisse in Aufgabenabgaben, Forenthreads oder persönlichen Notizen zu fragmentieren und verlieren ihre Anschlussfähigkeit.
 
 **Technische Umsetzung**
-Die Ergebnissicherung ist über standardisierte Elemente umgesetzt. Dazu zählen die folgenden Elemente.
 
-- **Kursbuch (z. B. NFS-2509)** (Forum) zur fortlaufenden, kursbezogenen Dokumentation und Reflexion.
-- **Wiki (z. B. NFS-2509)** zur kollaborativen Ergebnissynthese und gemeinsamen Verdichtung von Lernergebnissen.
-- **Glossar (z. B. NFS-2509)** zur strukturierten Begriffsarbeit und zur Konsolidierung zentraler Terminologie.
-- **Präsentation (z. B. NFS-2509)** (Forum) zur Bereitstellung, Diskussion und Weiterentwicklung von Präsentationsergebnissen.
-- **Einsatzberichte (z. B. NFS-2509)** (Datenbank) zur systematischen Sammlung, Auswertung und Rückbindung beruflicher Fallberichte.
-- **Invasive Maßnahmen (z. B. NFS-2509)** (Datenbank) zur dokumentierten Sammlung und Vergleichbarkeit praktischer Maßnahmen und Lernnachweise.
+Die Ergebnissicherung ist über standardisierte Elemente umgesetzt. Dazu zählen die folgenden Elemente.
+Aus Datenschutzgründen werden konkrete Kurskennungen in den folgenden Beispielen als „Beispielkurs“ neutralisiert.
+
+- **Kursbuch** (Forum) zur fortlaufenden, kursbezogenen Dokumentation und Reflexion.
+- **Wiki** zur kollaborativen Ergebnissynthese und gemeinsamen Verdichtung von Lernergebnissen.
+- **Glossar** zur strukturierten Begriffsarbeit und zur Konsolidierung zentraler Terminologie.
+- **Präsentation** (Forum) zur Bereitstellung, Diskussion und Weiterentwicklung von Präsentationsergebnissen.
+- **Einsatzberichte** (Datenbank) zur systematischen Sammlung, Auswertung und Rückbindung beruflicher Fallberichte.
+- **Invasive Maßnahmen** (Datenbank) zur dokumentierten Sammlung und Vergleichbarkeit praktischer Maßnahmen und Lernnachweise.
 
 **Funktion im Gesamtsystem**
+
 Die Ergebnissicherung ist damit Abschluss einer Handlungssituation und Teil eines zyklischen und systemisch eingebetteten Lernprozesses.
 
 Die Darstellung zeigt exemplarisch zentrale Elemente der Ergebnissicherung in einem Handlungssituationskurs. Ein Wiki und ein Glossar dienen der kollaborativen Dokumentation und Strukturierung von Lernergebnissen. Beide Aktivitäten stehen stellvertretend für die systematische Umsetzung der in \hyperref[sec:Entwicklung-Einbettung]{Abschnitt 3.2} empirisch begründeten Forderung nach zeitnaher, zugänglicher und formativ nutzbarer Ergebnissicherung im digitalen Bildungsraum.
@@ -352,21 +368,27 @@ Die Lounge ist der informelle Sozialraum des Systems. In NFS‑H‑01 wird sie �
 **Feedback**
 
 **Didaktische Funktion im Gesamtlernprozess**
+
 Der Feedback-Container ist die zentrale Instanz für formative Evaluation, Selbstreflexion und systemische Rückkopplung. Er ermöglicht die kontinuierliche Überprüfung der Qualität der Lernumgebung und der Lernprozesse, die Steuerung individueller und kollektiver Entwicklung sowie die iterative Weiterentwicklung der Lernarchitektur. Durch die systematische Integration von Feedback wird Lernen als rekursiver Prozess operationalisiert, in dem Rückmeldungen als Ressource für Optimierung und Innovation genutzt werden.
 
 **Theoriekonzeptionelle Referenz**
+
 Im Sinne der Epistemosphäre ist Feedback ein zentrales Element der Wissenszirkulation und -reflexion. Die Trajektorienlogik wird durch die Möglichkeit gestärkt, individuelle Lernpfade kontinuierlich zu justieren. Im digitalen Dispositiv ist Feedback die Schnittstelle zwischen Struktur und Prozess, zwischen individueller Erfahrung und systemischer Entwicklung (\hyperref[sec:Emotionen]{Kapitel 2.1.2}, \hyperref[sec:SystemischeDynamik]{2.5}).
 
 **Technische Umsetzung im Learning-Management-System**
+
 Die Verwendung von Feedback-Aktivitäten (TEI-orientiert), offenen Einreichkanälen und Umfragen ist didaktisch begründet. Feedback-Aktivitäten ermöglichen strukturierte, vergleichbare Rückmeldungen. Offene Kanäle fördern niedrigschwellige, spontane Rückmeldungen. Umfragen ermöglichen qualitative Vertiefung. Im Vergleich zu informellen Feedback-Formaten (z. B. E-Mail) bieten diese Aktivitäten Transparenz, Aggregierbarkeit und die Möglichkeit, Rückmeldungen systematisch in die Weiterentwicklung zu integrieren.
 
 **Limitationen und Weiterentwicklungspotenziale**
+
 Limitationen liegen in Feedbackmüdigkeit, Oberflächlichkeit und fehlender Konsequenz. Wenn Rückmeldungen nicht sichtbar in Veränderungen münden, sinkt Beteiligung. Technisch wird das Problem verstärkt, wenn Auswertung und Rückspiegelung an die Lernenden zu aufwendig ist. Weiterentwicklung bedeutet daher wenige, klar platzierte Feedbackpunkte mit transparenter Rückmeldung, ergänzt um automatisierte Auswertung und einfache Visualisierungen. Feedback wird als Prozess dann tragfähig, wenn Rückmeldungen als Dialog geführt und als Systeminformation in Kursanpassungen übersetzt werden (Abschnitt~\hyperref[sec:Evaluation-Reflexion]{3.2.4} sowie Abschnitt~\hyperref[sec:Simulation-Kompetenzentwicklung]{4.4}).
 
 **Umsetzung in NFS‑H‑01**
+
 Für NFS‑H‑01 wird diese Rückkopplungslogik als „Startsignal“ der lernenden Organisation gesetzt. Bereits in der Einführungswoche wird sichtbar gemacht, dass Rückmeldung als erwartete Lern- und Systeminformation verstanden wird. Die TEI‑orientierte Feedbackaktivität liefert dabei standardisierte Datenpunkte, die über einzelne Eindrücke hinaus vergleichbar werden. Der offene Einreichkanal hält niederschwellige, situative Rückmeldungen fest. Die qualitative Umfrage erschließt jene Erfahrungsebene, die in Skalen nur begrenzt abbildbar ist (Engagement, Distanz, Irritation, Überraschung). Entscheidend ist dabei weniger die einzelne Frage als die ritualisierte Praxis. Durch die wiederholte, kursintegrierte Nutzung wird Evaluation zu einem Teil der Kurslogik und nicht zu einem nachgeschalteten Qualitätsmanagement.
 
 **Technische Umsetzung**
+
 Somit ist der Bereich als Kombination aus strukturiertem Kursfeedback (orientiert am TEI) und offenen Einreichmöglichkeiten umgesetzt, sodass sowohl standardisierte Indikatoren als auch qualitative Eindrücke erfasst werden. Standardisierte Elemente sind dabei die folgenden.
 
 - **eigene Evaluation (NFS-H-01)** (Feedback) als TEI-orientiertes Kursfeedback zur Erfassung wahrgenommener Trainingseffekte und didaktischer Qualität.
@@ -382,37 +404,45 @@ Die Umfrage „Feedback für uns (z. B. NFS-H-01)“ ist als kurze, retrospektiv
 5. Was hat Sie am meisten überrascht?
 
 **Funktion im Gesamtsystem**
+
 Damit wird sichergestellt, dass neben der quantitativen Erfassung auch qualitative Eindrücke und Reflexionen systematisch dokumentiert und für die Weiterentwicklung genutzt werden können.
 
 **Kursorganisation**
 
 **Didaktische Funktion im Gesamtlernprozess**
+
 Der Kursorganisations-Container ist das Rückgrat der administrativen, rechtlichen und prozessualen Steuerung des Lernraums. Er sichert Transparenz, Nachvollziehbarkeit und Effizienz der organisatorischen Abläufe und richtet den Fokus der Lernenden auf die Inhalte aus, indem er administrative Reibungsverluste minimiert. Durch die Trennung von inhaltlichen und organisatorischen Prozessen wird Klarheit geschaffen und die Selbstorganisation der Lernenden gefördert.
 
 **Theoriekonzeptionelle Referenz**
+
 Im Rahmen der digitalen Dispositivstruktur ist die Kursorganisation das Element, das die Funktionsfähigkeit und Kohärenz des Systems gewährleistet. Sie operationalisiert die "unsichtbare" Infrastruktur, die für einen reibungslosen Ablauf der Lernprozesse notwendig ist, und ist damit ein zentrales Bindeglied zwischen Struktur und Prozess (\hyperref[sec:SystemischeDynamik]{Abschnitt 2.5}).
 
 **Technische Umsetzung im Learning-Management-System**
+
 Die Kombination aus Datenbanken, Foren, Textseiten und Abstimmungen ist didaktisch und organisatorisch motiviert. Datenbanken ermöglichen strukturierte, versionierbare Ablage und Nachverfolgung (z. B. Einverständniserklärungen, Materialverwaltung). Foren sichern Transparenz und Dokumentation von Abstimmungsprozessen. Textseiten bieten Templates und standardisierte Informationsbereiche. Abstimmungen ermöglichen schnelle, nachvollziehbare Entscheidungen. Im Vergleich zu informellen Kommunikationswegen (z. B. E-Mail) ist die Nachvollziehbarkeit und Rollensteuerung deutlich verbessert.
 
 **Limitationen und Weiterentwicklungspotenziale**
+
 Limitationen ergeben sich aus der Komplexität von Rechten und Sichtbarkeit. Wenn Rollenlogik und Zugriff nicht sauber gesetzt sind, entstehen Intransparenz, unbeabsichtigte Offenheit oder Datenschutzprobleme. Gleichzeitig besteht die Gefahr, dass Organisation den Lernprozess überlagert, wenn zu viele administrative Abläufe im Vordergrund stehen. Weiterentwicklung liegt deshalb in klaren Rollenmodellen, nachvollziehbarer Sichtbarkeitslogik und in Automatisierungen, die Reibung reduzieren, etwa Erinnerungen, Workflows oder Dashboards. Organisation wird dann als Ermöglichungsstruktur erkennbar, wenn sie die rechtlich-funktionalen Anforderungen absichert und zugleich Lernhandlungen entlastet (Abschnitt~\hyperref[sec:RechtlicheRahmung]{3.1.1} sowie Abschnitt~\hyperref[sec:TechnischeArchitektur]{3.3}).
 
 **Umsetzung in NFS‑H‑01**
+
 In NFS‑H‑01 wird diese Trennung konkret, indem organisatorische Verbesserungsvorschläge und Fehlermeldungen als eigene Datenbank geführt werden („Wünsche, Ideen, Gedanken, …“). Redaktionelle Abstimmungen sind in ein gesondertes, rollenbasiert geschütztes Forum ausgelagert. Dadurch entsteht eine doppelte Ordnung. Lernende können Hinweise und Optimierungsideen sichtbar einbringen, ohne dass sie in fachlichen Diskussionen verloren gehen. Die redaktionelle Verantwortung (z. B. Anpassung von Aufgaben, Texten, Materialien) bleibt dort steuerbar, wo sie sinnvollerweise liegt. Die Advance‑Organizer‑Textseiten (z. B. „Ausbildungsziel“, „Wissenschaftliches Arbeiten“) und die Materialverzeichnisse (Informationsblätter, Unterrichtsmaterial) sind Ablageorte und Standardisierungsinstrumente. Sie sichern Wiedererkennbarkeit von Kurskommunikation, reduzieren Interpretationsspielräume und machen wichtige Dokumente „kursnah“ auffindbar. Gerade die im Kursdump sichtbaren Einschränkungen („fehlende Gruppierung“) verweisen auf einen zentralen Punkt. Sichtbarkeit ist hier didaktische Infrastruktur. Wo Rollen- und Gruppenlogik nicht sauber gesetzt ist, entsteht unbeabsichtigte Intransparenz (Material verschwindet) oder ungewollte Offenheit (Abstimmungen, redaktionelle Prozesse). Der Kursorganisationscontainer ist damit der Ort, an dem sich technische Rechteverwaltung unmittelbar in pädagogische Steuerbarkeit übersetzt.
 
-**Technische Umsetzung (Beispiel BZPG/NFS‑2509)**
+**Technische Umsetzung (Beispielkurs)**
+
 Operationalisiert wird dies über standardisierte Bausteine. Dazu zählen die folgenden.
 
-- **Einverständniserklärungen (NFS-2509)** als Datenbank zur dokumentierten Ablage und Nachverfolgbarkeit von Einwilligungen sowie zugehöriger Rückmeldeschleifen.
-- **Gebrauchsmaterial (NFS-2509)** als Datenbank zur Sammlung, Verwaltung und Aktualisierung kursbezogener Materialien (z. B. Verbrauchs- und Arbeitsmittel).
-- **Wünsche, Ideen, Gedanken, Anregungen, Fehler (NFS-2509)** als Datenbank für kontinuierliche Verbesserungsvorschläge, Fehlermeldungen und Optimierungsideen im Sinne einer lernenden Organisation.
-- **Kursorganisation (NFS-2509)** als Forum zur allgemeinen Abstimmung organisatorischer Fragen.
-- **Redaktionelle Abstimmung (NFS-2509)** als rollenbasiert eingeschränktes Forum zur inhaltlich-redaktionellen Koordination, ergänzt um **Advance Organizer Vorlage (Textseite)** als strukturiertes Template für einheitliche Kurskommunikation und Ankündigungen.
-- **Praxisbegleitung (NFS-2509)** als rollenbasiert eingeschränktes Forum (Praxisanleitung) zur Begleitung und Auswertung von Praxisbegleitgesprächen, ergänzt um **Praxisbegleitung Block xx (NFS-2509)** als Abstimmungselement, das abhängig von Rollenbedingungen Entscheidungen und Terminabsprachen technisch unterstützt.
-- **Rund um die staatliche Prüfung** als organisatorische Sammelkategorie, insbesondere mit **Prüfungsorganisation (NFS-2509)** als rollenbasiert eingeschränktem Forum (Prüfende) zur Vor- und Nachbereitung, sowie den Textseiten **Gruppen- und Stationsverteilung (NFS-2509)**, **Prüfungsablauf (NFS-2509)** und **Prüfungsausschuss (NFS-2509)** zur verbindlichen, kursweit referenzierbaren Bereitstellung prüfungsrelevanter Informationen.
+- **Einverständniserklärungen** als Datenbank zur dokumentierten Ablage und Nachverfolgbarkeit von Einwilligungen sowie zugehöriger Rückmeldeschleifen.
+- **Gebrauchsmaterial** als Datenbank zur Sammlung, Verwaltung und Aktualisierung kursbezogener Materialien (z. B. Verbrauchs- und Arbeitsmittel).
+- **Wünsche, Ideen, Gedanken, Anregungen, Fehler** als Datenbank für kontinuierliche Verbesserungsvorschläge, Fehlermeldungen und Optimierungsideen im Sinne einer lernenden Organisation.
+- **Kursorganisation** als Forum zur allgemeinen Abstimmung organisatorischer Fragen.
+- **Redaktionelle Abstimmung** als rollenbasiert eingeschränktes Forum zur inhaltlich-redaktionellen Koordination, ergänzt um **Advance Organizer Vorlage (Textseite)** als strukturiertes Template für einheitliche Kurskommunikation und Ankündigungen.
+- **Praxisbegleitung** als rollenbasiert eingeschränktes Forum (Praxisanleitung) zur Begleitung und Auswertung von Praxisbegleitgesprächen, ergänzt um **Praxisbegleitung Block xx** als Abstimmungselement, das abhängig von Rollenbedingungen Entscheidungen und Terminabsprachen technisch unterstützt.
+- **Rund um die staatliche Prüfung** als organisatorische Sammelkategorie, insbesondere mit **Prüfungsorganisation** als rollenbasiert eingeschränktem Forum (Prüfende) zur Vor- und Nachbereitung, sowie den Textseiten **Gruppen- und Stationsverteilung**, **Prüfungsablauf** und **Prüfungsausschuss** zur verbindlichen, kursweit referenzierbaren Bereitstellung prüfungsrelevanter Informationen.
 
 **Funktion im Gesamtsystem**
+
 Die konsequente Rollen- und Sichtbarkeitssteuerung (z. B. Lehrende/Dozent*in/Praxisanleitung/Prüfende) erfüllt dabei zwei Funktionen. Erstens werden organisatorische Prozesse dort transparent gemacht, wo sie für Lernende handlungsrelevant sind (z. B. Ablauf- und Verteilungsinformationen), und zweitens werden sensible Abstimmungs- und Prüfungsprozesse systemseitig vor unberechtigtem Zugriff geschützt. Insgesamt ermöglicht der Container „Kursorganisation“ damit eine Trennung von Lern- und Verwaltungslogik, ohne die kursinterne Kohärenz des digitalen Bildungsraums zu beeinträchtigen.
 
 ### 3.4.3 Prüfungsarchitektur {#sec:Pruefungsarchitektur}
@@ -480,7 +510,7 @@ Zusammen zeigen beide Visualisierungen die Kursprofile einmal als Gruppierung im
 
 \figsubcaption{Normative Referenzverteilung der drei Themenbereiche (medizinisch, rettungsdienstlich, bezugswissenschaftlich) gemäß Anlage 1 NotSan-APrV; dient als Ausgangspunkt für den empirischen Abgleich mit der im digitalen Curriculum realisierten Struktur.}
 
-\hyperref[fig:fg-aprv-themenbereiche]{Abbildung~\ref{fig:fg-aprv-themenbereiche}} visualisiert die prozentuale Verteilung der inhaltlichen Themenbereiche gemäß Anlage 1 der Ausbildungs- und Prüfungsverordnung für Notfallsanitäter*innen (NotSan-APrV). Diese drei Themenbereiche – medizinisch (27 %), rettungsdienstlich (47 %) und bezugswissenschaftlich (26 %) – bilden die normative Grundlage des theoretischen und praktischen Unterrichts über 1.920 Stunden [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44, 47]. Der größte Anteil entfällt auf rettungsdienstliche Inhalte. Der medizinische Bereich umfasst diagnostische und pathophysiologische Anteile, bezugswissenschaftliche Inhalte etwa Kommunikation, Recht oder Psychologie.
+\hyperref[fig:fg-aprv-themenbereiche]{Abbildung~\ref{fig:fg-aprv-themenbereiche}} visualisiert die prozentuale Verteilung der inhaltlichen Themenbereiche gemäß Anlage 1 der Ausbildungs- und Prüfungsverordnung für Notfallsanitäter\*innen (NotSan-APrV). Diese drei Themenbereiche – medizinisch (27 %), rettungsdienstlich (47 %) und bezugswissenschaftlich (26 %) – bilden die normative Grundlage des theoretischen und praktischen Unterrichts über 1.920 Stunden [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44, 47]. Der größte Anteil entfällt auf rettungsdienstliche Inhalte. Der medizinische Bereich umfasst diagnostische und pathophysiologische Anteile, bezugswissenschaftliche Inhalte etwa Kommunikation, Recht oder Psychologie.
 
 ![Anteil der Kompetenzbereiche nach NotSan-APrV (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/anteil-der-kompetenzbereiche-nach-aprv_notsan-aprv-vergleich.png>){#fig:fg-aprv-kompetenzbereiche}
 
