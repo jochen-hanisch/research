@@ -450,6 +450,8 @@ Konzeptionell ist die P‑QIA deduktiv über die Forschungsunterfragen (FU$_{1}$
 
 Der Workflow wurde in Anlehnung an Mayring gestaltet und verbindet klassische Schritte mit probabilistischen Erweiterungen. Ausgangspunkt sind die Definition der jeweiligen Forschungsunterfrage und die Festlegung des Materials. Daran schließen die Bestimmung der Analyse- und Kontexteinheiten, eine Pilotphase und die Fixierung der Regeln für den finalen Durchgang an [@baur_qualitative_2022, Seite 694]. Im nächsten Schritt werden die Texte automatisiert segmentiert, in Vektorrepräsentationen überführt und mit einem FU-spezifischen *k* geclustert. Der Silhouette-Koeffizient dient dabei der Prüfung der geometrischen Trennschärfe und der Identifikation instabiler Cluster. Darauf aufbauend werden Kategorien über LLM-gestützte Label-Vorschläge, theoretische Validierung und einen Kodierleitfaden mit Definitionen, Ankerbeispielen und Kodierregeln abgeleitet und bei Bedarf revidiert [@baur_qualitative_2022, Seite 696]. Das Material wird anschließend entlang dieses Manuals kodiert; Grenzfälle und Abgrenzungsentscheidungen werden dokumentiert. Den Abschluss bilden Synthese, Metamodellierung und die Rückbindung der Ergebnisse an die Forschungsunterfragen.
 
+\hyperref[fig:p-qia-flow]{Abbildung~\ref{fig:p-qia-flow}} stellt die Prozesslogik der P‑QIA als Ablaufschema dar.
+
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/p-qia-flow.tex}
 
 **Validierung und empirische Kennwerte**

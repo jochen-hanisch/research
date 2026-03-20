@@ -4,6 +4,8 @@
 
 Dieser Anhang führt die für die Dissertation relevanten Softwareartefakte in verdichteter Form als Reproduzierbarkeits- und Nachvollziehbarkeitsspur auf. Die ausführliche Arbeits- und Vollfassung bleibt im Redaktionsbestand erhalten; im Dissertationsanhang werden nur die Artefaktgruppen, ihre Funktion und die Grenzen ihrer Reproduzierbarkeit tabellarisch ausgewiesen. Die Einordnung im Haupttext erfolgt in Kapitel \hyperref[sec:Simulation-Kompetenzentwicklung]{4.4} sowie in Abschnitt \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}. [@hanisch-johannsen_simulation_2025; @hanisch-johannsen_tei-feedback_2025]
 
+Die verdichtete Übersicht ist in \hyperref[tab:A-15]{Tabelle~\ref{tab:A-15}} dargestellt.
+
 Table: Verdichtete Reproduzierbarkeitsspur der verwendeten Softwareartefakte \label{tab:A-15}
 
 | Artefaktgruppe | Funktion in der Dissertation | Zentrale Inputs / Outputs | Referenz / Speicherort | Reproduzierbarkeitsstatus |

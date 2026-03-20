@@ -4,6 +4,8 @@
 
 In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsraum für die Ausbildung von Notfallsanitäter:innen vorgesehenen beruflichen Handlungssituationen präsentiert. Jede Handlungssituation ist mit ihrer Kursbezeichnung, dem Titel, der Anzahl der zugehörigen Aufgaben sowie der geplanten Bearbeitungsdauer in Tagen aufgeführt.
 
+Die Gesamtübersicht ist in \hyperref[tab:A-5]{Tabelle~\ref{tab:A-5}} dargestellt.
+
 Table: Übersicht Berufliche Handlungssituationen \label{tab:A-5}
 
 | Kurs            | Titel                                                                 | $\sum$ Aufgaben | Dauer [d] |
