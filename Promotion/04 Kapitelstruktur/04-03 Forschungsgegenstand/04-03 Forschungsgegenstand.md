@@ -117,6 +117,8 @@ Die Anwendung des TEI soll im organisationalen Alltag praktikabel sein und umfas
 
 Für die vorliegende Arbeit liegt TEI als vollständige Folge aggregierter Exports pro Handlungssituation (`Evaluation-01`…`Evaluation-32`) vor. Die Exports umfassen je 46 Items. Die Rücklaufzahl variiert zwischen den Handlungssituationen [@hanisch-johannsen_tei-feedback_2025].
 
+Die exemplarische Verteilung der Rückläufe ist in \hyperref[tab:tei-ruecklaeufe]{Tabelle~\ref{tab:tei-ruecklaeufe}} dargestellt.
+
 Table: TEI-Rückläufe pro Handlungssituation \label{tab:tei-ruecklaeufe}
 
 | Handlungssituation (Beispiel) | Rücklauf n (Ausgefüllte Feedbacks) |
@@ -174,6 +176,8 @@ Hinzu kommt eine rechtlich und organisatorisch relevante Ebene der Nachvollziehb
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/lms-user-server-interaktion.tex}
 
 Im September 2021 waren im digitalen Bildungsraum rund 750 Teilnehmende eingetragen, ohne dass diese gleichzeitig auf alle Systeme zugreifen. Die folgenden Kennzahlen sind deshalb nicht als isolierte Hardwarewerte interessant, sondern als Hinweis darauf, mit welcher infrastrukturellen Reserve der Betrieb zu diesem Zeitpunkt getragen wurde.
+
+Die zusammengefassten Werte sind in \hyperref[tab:technische-kennzahlen-platon]{Tabelle~\ref{tab:technische-kennzahlen-platon}} dokumentiert.
 
 Table: Technische Kennzahlen der gekoppelten Systemumgebung \label{tab:technische-kennzahlen-platon}
 

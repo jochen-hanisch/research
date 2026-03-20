@@ -6,7 +6,9 @@ Hinweis: Die Auswertung erfolgt in Kapitel 5; hier sind die vollständigen Bild
 
 **Stimulus F2-S2 (Navigation, interaktive Elemente)**
 
-Table: Stimulus F2-S2 (Navigation, interaktive Elemente) – Eye-Tracking je Jahrgang {#tbl:stimulus-f2-s2}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f2-s2]{Tabelle~\ref{tbl:stimulus-f2-s2}} dargestellt.
+
+Table: Stimulus F2-S2: Eye-Tracking je Jahrgang {#tbl:stimulus-f2-s2}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -20,7 +22,9 @@ Table: Stimulus F2-S2 (Navigation, interaktive Elemente) – Eye-Tracking je Jah
 
 **Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche)**
 
-Table: Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche) – Eye-Tracking je Jahrgang {#tbl:stimulus-f3-s3}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f3-s3]{Tabelle~\ref{tbl:stimulus-f3-s3}} dargestellt.
+
+Table: Stimulus F3-S3: Eye-Tracking je Jahrgang {#tbl:stimulus-f3-s3}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -34,7 +38,9 @@ Table: Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche) – Eye-Tracking je Jahrg
 
 **Stimulus F10-S3 (Lernplan/Kompetenzen)**
 
-Table: Stimulus F10-S3 (Lernplan/Kompetenzen) – Eye-Tracking je Jahrgang {#tbl:stimulus-f10-s3}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f10-s3]{Tabelle~\ref{tbl:stimulus-f10-s3}} dargestellt.
+
+Table: Stimulus F10-S3: Eye-Tracking je Jahrgang {#tbl:stimulus-f10-s3}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -48,7 +54,9 @@ Table: Stimulus F10-S3 (Lernplan/Kompetenzen) – Eye-Tracking je Jahrgang {#tbl
 
 **Stimulus F11-S3 (Weiterführende Quellen)**
 
-Table: Stimulus F11-S3 (Weiterführende Quellen) – Eye-Tracking je Jahrgang {#tbl:stimulus-f11-s3}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f11-s3]{Tabelle~\ref{tbl:stimulus-f11-s3}} dargestellt.
+
+Table: Stimulus F11-S3: Eye-Tracking je Jahrgang {#tbl:stimulus-f11-s3}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -62,7 +70,9 @@ Table: Stimulus F11-S3 (Weiterführende Quellen) – Eye-Tracking je Jahrgang {#
 
 **Stimulus F14-S2 (Lernmaterial/Sicherheit)**
 
-Table: Stimulus F14-S2 (Lernmaterial/Sicherheit) – Eye-Tracking je Jahrgang {#tbl:stimulus-f14-s2}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f14-s2]{Tabelle~\ref{tbl:stimulus-f14-s2}} dargestellt.
+
+Table: Stimulus F14-S2: Eye-Tracking je Jahrgang {#tbl:stimulus-f14-s2}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -76,7 +86,9 @@ Table: Stimulus F14-S2 (Lernmaterial/Sicherheit) – Eye-Tracking je Jahrgang {#
 
 **Stimulus F5-S1**
 
-Table: Stimulus F5-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f5-s1}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f5-s1]{Tabelle~\ref{tbl:stimulus-f5-s1}} dargestellt.
+
+Table: Stimulus F5-S1: Eye-Tracking je Jahrgang {#tbl:stimulus-f5-s1}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -90,7 +102,9 @@ Table: Stimulus F5-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f5-s1}
 
 **Stimulus F6-S1**
 
-Table: Stimulus F6-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f6-s1}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f6-s1]{Tabelle~\ref{tbl:stimulus-f6-s1}} dargestellt.
+
+Table: Stimulus F6-S1: Eye-Tracking je Jahrgang {#tbl:stimulus-f6-s1}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -104,7 +118,9 @@ Table: Stimulus F6-S1 – Eye-Tracking je Jahrgang {#tbl:stimulus-f6-s1}
 
 **Stimulus F8-S3**
 
-Table: Stimulus F8-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f8-s3}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f8-s3]{Tabelle~\ref{tbl:stimulus-f8-s3}} dargestellt.
+
+Table: Stimulus F8-S3: Eye-Tracking je Jahrgang {#tbl:stimulus-f8-s3}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -118,7 +134,9 @@ Table: Stimulus F8-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f8-s3}
 
 **Stimulus F9-S3**
 
-Table: Stimulus F9-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f9-s3}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f9-s3]{Tabelle~\ref{tbl:stimulus-f9-s3}} dargestellt.
+
+Table: Stimulus F9-S3: Eye-Tracking je Jahrgang {#tbl:stimulus-f9-s3}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -132,7 +150,9 @@ Table: Stimulus F9-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f9-s3}
 
 **Stimulus F12-S3-2**
 
-Table: Stimulus F12-S3-2 – Eye-Tracking je Jahrgang {#tbl:stimulus-f12-s3-2}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f12-s3-2]{Tabelle~\ref{tbl:stimulus-f12-s3-2}} dargestellt.
+
+Table: Stimulus F12-S3-2: Eye-Tracking je Jahrgang {#tbl:stimulus-f12-s3-2}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|
@@ -146,7 +166,9 @@ Table: Stimulus F12-S3-2 – Eye-Tracking je Jahrgang {#tbl:stimulus-f12-s3-2}
 
 **Stimulus F13-S3**
 
-Table: Stimulus F13-S3 – Eye-Tracking je Jahrgang {#tbl:stimulus-f13-s3}
+Die aggregierten Jahrgangsvisualisierungen sind in \hyperref[tbl:stimulus-f13-s3]{Tabelle~\ref{tbl:stimulus-f13-s3}} dargestellt.
+
+Table: Stimulus F13-S3: Eye-Tracking je Jahrgang {#tbl:stimulus-f13-s3}
 
 |              | Jg. 21 | Jg. 22 | Jg. 23 |
 |--------------|--------|--------|--------|

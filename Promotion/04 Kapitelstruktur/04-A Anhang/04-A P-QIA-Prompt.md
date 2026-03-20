@@ -231,6 +231,8 @@ Die konkrete Anwendung dieses Prompts erfolgt für jede Forschungsunterfrage (FU
 
 Die konkrete Wahl der Clusteranzahl $k$ je FU orientiert sich an den in \hyperref[sec:P-QIA]{Abschnitt 4.3.4} dokumentierten Silhouette-Kennwerten und der inhaltlichen Interpretierbarkeit der Cluster.
 
+Die FU-spezifische Parametrisierung ist in \hyperref[tab:p-qia-settings]{Tabelle~\ref{tab:p-qia-settings}} zusammengeführt.
+
 Table: P‑QIA-Einstellungen je Forschungsunterfrage \label{tab:p-qia-settings}
 
 Die folgende Tabelle fasst die P‑QIA-Einstellungen je FU zusammen:
