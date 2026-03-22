@@ -258,13 +258,13 @@ Das LLM dient als Codierhilfe, nicht als Messinstrument: Heatmaps und Fog-Views 
 
 Die Grenzen des Verfahrens liegen in der geringeren räumlichen Präzision gegenüber Laborsystemen, in der Sensitivität gegenüber Kopfhaltung und Licht, im Fehlen klassischer Fixationsmetriken und in der kleinen Stichprobe. Für die hier verfolgte AOI-bezogene Rekonstruktion technisch-gestalterischer Muster bleibt die gewählte Granularität in Verbindung mit der Triangulation aus Eye-Tracking, Umfrage und Theorie jedoch kontextangemessen [@hanisch-johannsen_wirkgefuge_2025-1; @hanisch-johannsen_wirkgefuge_2025]. Die vollständigen Bildreihen (Heatmap/Viewmap/Fog-View je Stimulus und Jahrgang) sind in \hyperref[sec:A-7]{Anhang „Eye-Tracking-Visualisierungen“} dokumentiert.
 
-![Stichprobenverteilung der Eye-Tracking-Teilnehmenden nach Ausbildungsjahr](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_verteilung_konfidenz.png>){#fig:eyetracking-verteilung}
+![Stichprobenverteilung der Eye-Tracking-Teilnehmenden nach Ausbildungsjahr.](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_verteilung_konfidenz.png>){#fig:eyetracking-verteilung}
 
 \figsubcaption{Dargestellt sind Anteile je Ausbildungsjahr mit 95\,\%-Konfidenzintervallen im Vergleich zur Grundgesamtheit.}
 
 Die Stichprobenverteilung (\hyperref[fig:eyetracking-verteilung]{Abb.~\ref{fig:eyetracking-verteilung}}) zeigt, dass in jedem Ausbildungsjahrgang acht Personen in die Eye-Tracking-Analyse einbezogen wurden ($n_\text{pro Jahrgang} = 8$) und damit jeweils ein Drittel der Kohorte im ersten Jahr (N = 24) sowie einen substantiellen Anteil in den kleineren Jahrgängen (zweites Jahr N = 11, drittes Jahr N = 10) abbilden. Die 95 %-Konfidenzintervalle verdeutlichen die erwarteten Unsicherheiten bei kleinen Grundgesamtheiten und bestätigen zugleich die breite Streuung der Stichprobe im Rahmen der vorhandenen Kohortengrößen. Für die qualitativen, bildbasierten Analysen genügt diese Verteilung, um typische Muster pro Jahrgang sichtbar zu machen, ohne einen Anspruch auf inferenzstatistische Repräsentativität zu erheben [@hanisch-johannsen_wirkgefuge_2025-1].
 
-![Kumulative Zahl potenziell generierter Eye-Tracking-Bilder](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_bildanzahl.png>){#fig:eyetracking-bildanzahl}
+![Kumulative Zahl potenziell generierter Eye-Tracking-Bilder.](<08 Metaquellen/08-01 Abbildungen/eye-traking/eye_tracking_bildanzahl.png>){#fig:eyetracking-bildanzahl}
 
 \figsubcaption{Kombiniert werden Stimuli, Jahrgänge und Visualisierungstypen (Heatmaps, Viewmaps, Fog-Views, Screenshots); die Abbildung quantifiziert die Materialmenge der bildbasierten Auswertung.}
 
@@ -282,7 +282,7 @@ Das Pfaddiagramm dokumentiert die Datenflüsse und Kategorien im Quellenkorpus a
 
 Die anschließende Netzwerkdarstellung fokussiert auf die Suchbegriffe und ihre Verknüpfung mit Tags und Kategorien. Sie macht weniger die zeitliche Abfolge als die semantischen Nachbarschaften sichtbar.
 
-![Netzwerkdarstellung der Beziehungen zwischen Suchbegriffen, Tags und Kategorien.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png>){#fig:network-suchergebnisse}
+![Netzwerk der Suchbegriffe, Tags und Kategorien.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png>){#fig:network-suchergebnisse}
 
 \figsubcaption{Netzwerk/Embedding der Suchbegriffe im zweidimensionalen Raum (Quelle: 02-01 Suchergebnisse). Achsen: technologische vs. pädagogische Dimension; Knotengröße: relative Suchgewichtung/Frequenz; Knotentyp/Farbe: primäre, sekundäre, tertiäre Begriffe; Kanten: semantische Nähe als Ko-Vorkommen in der Tag- und Suchlogik.}
 
@@ -731,7 +731,7 @@ Table: Zuordnung von Zeitfenstern zu $\nu(t)$ und $\iota(t)$ \label{tab:sim-zuor
 
 Die Indikatorik lässt sich als Verlaufsspur illustrieren (\hyperref[fig:sim-bildungswirkdynamik]{Abb.~\ref{fig:sim-bildungswirkdynamik}}). Zur Einordnung der verwendeten Grundgrößen werden ergänzend die im Beispiel angesetzten Unsicherheitskomponenten und die Unsicherheitsrelation dokumentiert (\hyperref[fig:sim-unsicherheiten]{Abb.~\ref{fig:sim-unsicherheiten}} und \hyperref[fig:sim-unsicherheitsrelation]{Abb.~\ref{fig:sim-unsicherheitsrelation}}).
 
-![Bildungswirkfaktor $\nu(t)$ und Bildungswirkindikator $\iota(t)$ über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/bildungswirkdynamik_konstruktivistisch-standardlernender.png>){#fig:sim-bildungswirkdynamik}
+![Bildungswirkfaktor und Bildungswirkindikator über die Quartale.](<08 Metaquellen/08-01 Abbildungen/didaktik/bildungswirkdynamik_konstruktivistisch-standardlernender.png>){#fig:sim-bildungswirkdynamik}
 
 \figsubcaption{Beispiel: konstruktivistischer „Standardlernender“. Dargestellt sind $\nu(t)$ als Aggregatmaß aus $\Delta E(t)$ und $\Delta K(t)$ (Gl.~\eqref{eq:bildungswirkfaktor}) sowie $\iota(t)$ als Veränderungsrate (Gl.~\eqref{eq:bildungswirkindikator}) über die Quartale. Markierungen weisen exemplarisch auf Zeitfenster hin, in denen im Modell Stabilisierung oder Kippdynamiken auftreten.}
 

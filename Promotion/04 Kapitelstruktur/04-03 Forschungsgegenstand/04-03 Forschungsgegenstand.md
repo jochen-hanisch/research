@@ -90,7 +90,7 @@ Rückblickend kann abgeleitet werden, dass die pandemiebedingten Einschränkunge
 Die retrospektive Einordnung dieser Weiterentwicklung verdeutlicht der Vergleich mit den Ergebnissen von @gachanja_e-learning_2021, die in ihrer Untersuchung die Pandemie als Übergangs- und Bewährungsphase, die Rolle bestehender Infrastruktur sowie die Institutional Readiness als Voraussetzung für gelingendes E-Learning betrachteten. In ihrer Studie zur Implementierung eines E-Learning-Kurses im medizinischen Bildungsbereich zeigen die Forschenden, dass der Übergang in digitale Lernsettings unter Krisenbedingungen oft zu Überlastung, technischen Ausfällen und geringer Beteiligung führt. Entscheidend für das Gelingen sei weniger die eingesetzte Plattform als vielmehr die institutionelle Vorbereitung und strukturelle Stabilität. Diese Beobachtungen lassen sich rückblickend auch für das hier untersuchte System bestätigen [@gachanja_e-learning_2021, Seite 3, 6].
 Ein Vergleich zwischen den präventiven Gegebenheiten und den retrospektiven Erkenntnissen verdeutlicht \hyperref[tab:lms-entwicklung]{Tabelle~\ref{tab:lms-entwicklung}}.
 
-Table: Retrospektiv-vergleichende Darstellung der LMS-Entwicklung im Kontext pandemischer Umstellungen \label{tab:lms-entwicklung}
+Table: Retrospektiver Vergleich der LMS-Entwicklung \label{tab:lms-entwicklung}
 
 | Aspekt              | @gachanja_e-learning_2021                                                       | Hanisch (eig. Darstellung)                                                       |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -214,7 +214,7 @@ Aufbauend auf den in Abschnitt~\hyperref[sec:Kontext-FG]{3.1} beschriebenen Ents
 	 
 Die Skizze dient im Folgenden als Referenzstruktur. Sie macht sichtbar, welche Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung) den späteren Ausführungen zugrunde liegen, ohne bereits Details der späteren Umsetzung vorwegzunehmen.
 
-![Frühe handschriftliche Konstruktionsskizze zur didaktischen Systemstruktur des LMS](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-konstruktionsskizze.png>){#fig:fg-didaktische-systemstruktur}
+![Frühe Konstruktionsskizze der didaktischen Systemstruktur.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-konstruktionsskizze.png>){#fig:fg-didaktische-systemstruktur}
 
 \figsubcaption{Eingescanntes Original einer frühen handschriftlichen Konzeptskizze aus der frühen Entwurfsphase des LMS. Sie zeigt erste Überlegungen zu Lernorten, Kurslogik, Aufgabenstruktur und Rückkopplung, die im weiteren Kapitel zur didaktischen Lernumgebung ausgearbeitet werden.}
 
@@ -246,7 +246,7 @@ Anhand von \hyperref[fig:fg-kursansicht]{Abbildung~\ref{fig:fg-kursansicht}} lä
 
 Die nächste Darstellung dokumentiert die operativen Rahmenbedingungen des Wirkgefüges. Sie zeigt, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System technisch stützt. Die Darstellung stammt aus der eigenen LMS-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
 
-![Exemplarische Kursansicht im Learning Management System (eigene LMS-Instanz).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-kursansicht-1.png>){#fig:fg-kursansicht}
+![Exemplarische Kursansicht im Learning Management System.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-kursansicht-1.png>){#fig:fg-kursansicht}
 
 \figsubcaption{Die Abbildung zeigt die standardisierte Container-Navigation (links) sowie den inhaltsseitigen Aufbau (Kursdetails, Ressourcen etc.) als operatives Abbild der beschriebenen didaktischen Architektur.}
 
@@ -496,7 +496,7 @@ Ergänzend lässt sich die Struktur der 32 Kurse als mehrdimensionaler Raum der 
 
 Die erste Darstellung bündelt die Kursprofile im Anteilsraum und macht sichtbar, ob einzelne Kurse als Randfälle oder Übergänge zwischen Themenprofilen erscheinen.
 
-![K-Means-Clusteranalyse der Kursanteile nach Themenbereichen (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/kmeans_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-kmeans-themenanteile}
+![K-Means-Clusteranalyse der Kursanteile nach Themenbereichen.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/kmeans_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-kmeans-themenanteile}
 
 \figsubcaption{3D-Darstellung der 32 Kurse im Raum der Themenanteile (medizinisch, rettungsdienstlich, bezugswissenschaftlich) mit farblicher Zuordnung der k-means-Cluster; die Grafik verdeutlicht, wie sich Kurse anhand ihrer normativ codierten Themenprofile im Anteilsraum zu Gruppen bündeln.}
 
@@ -504,7 +504,7 @@ Die Projektion verdeutlicht, wie sich die Kursanteile im dreidimensionalen Raum 
 
 Die gleiche Struktur wird zusätzlich als hierarchische Gruppierung dargestellt. Das Dendrogramm macht sichtbar, in welchen Abständen Kurse zusammengeführt werden und an welchen Stellen sich größere Gruppen abzeichnen.
 
-![Dendrogramm der Kursanteile nach Themenbereichen (Ward-Linkage; eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/dendrogramm_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-dendrogramm-themenanteile}
+![Dendrogramm der Kursanteile nach Themenbereichen.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/dendrogramm_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-dendrogramm-themenanteile}
 
 \figsubcaption{Hierarchische Clusterstruktur der Kursanteile (Ward-Linkage) als Ähnlichkeitsbaum; die Höhe der Verknüpfungen (Distanz) markiert, welche Kurse thematisch nahe beieinanderliegen und wo sich größere Gruppen entlang der Themenprofile bilden.}
 
@@ -522,13 +522,13 @@ Zusammen zeigen beide Visualisierungen die Kursprofile einmal als Gruppierung im
 
 \hyperref[fig:fg-aprv-kompetenzbereiche]{Abbildung~\ref{fig:fg-aprv-kompetenzbereiche}} zeigt, bezogen auf den Gesamtumfang der Ausbildung, die in der NotSan-APrV verankerte Kompetenzgewichtung. Die vier Kompetenzbereiche – fachlich (24 %), sozial (15 %), personal (11 %) und methodisch (50 %) – definieren die Zielstruktur beruflicher Handlungskompetenz im Rettungsdienst [@bundesgesundheitsministerium_referentenentwurf_2012, Seite 47]. Der hohe Anteil methodischer Kompetenzen wird in der normativen Verteilung sichtbar ausgewiesen. Fachliche, soziale und personale Anteile ergänzen diesen Schwerpunkt um Wissen, Interaktionsfähigkeit und Reflexionsfähigkeit.
 
-![Vergleich der Themengewichtung: NotSan-APrV vs. NFS-H-Lehrplan (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/vergleich-themengewichtung-aprv-schatzung-vs-nfs-h-lehrplan_notsan-aprv-vergleich.png>){#fig:fg-vergleich-themengewichtung}
+![Vergleich der Themengewichtung von NotSan-APrV und Curriculum.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/vergleich-themengewichtung-aprv-schatzung-vs-nfs-h-lehrplan_notsan-aprv-vergleich.png>){#fig:fg-vergleich-themengewichtung}
 
 \figsubcaption{Gegenüberstellung der normativen Themengewichtung (NotSan-APrV) mit der empirisch rekonstruierten Verteilung im digitalen Curriculum (NFS-H).}
 
 Die Balkengrafik in \hyperref[fig:fg-vergleich-themengewichtung]{Abbildung~\ref{fig:fg-vergleich-themengewichtung}} stellt die normativ vorgegebene Verteilung der Themenbereiche gemäß NotSan-APrV der empirisch rekonstruierten Verteilung im digitalen Curriculum „NFS-H“ gegenüber [@bundesgesundheitsministerium_referentenentwurf_2012, Seiten 44, 47].
 
-![Vergleich der Kompetenzgewichtung: NotSan-APrV vs. NFS-H-Lehrplan (eigene Darstellung).](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/vergleich-kompetenzgewichtung-aprv-schatzung-vs-nfs-h-lehrplan_notsan-aprv-vergleich.png>){#fig:fg-vergleich-kompetenzgewichtung}
+![Vergleich der Kompetenzgewichtung von NotSan-APrV und Curriculum.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/vergleich-kompetenzgewichtung-aprv-schatzung-vs-nfs-h-lehrplan_notsan-aprv-vergleich.png>){#fig:fg-vergleich-kompetenzgewichtung}
 
 \figsubcaption{Gegenüberstellung der normativen Kompetenzgewichtung (NotSan-APrV) mit den empirisch rekonstruierten Anteilen im digitalen Curriculum.}
 
