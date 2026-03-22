@@ -3,7 +3,7 @@ author: Jochen Hanisch-Johannsen
 title: Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung
 Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
 created: 2025-08-13
-updated: 2025-12-29
+updated: 2026-03-22
 publish: true
 tags:
   - NotSanG
@@ -20,7 +20,7 @@ tags:
 published: 2025-08-16
 ---
 
-created: 13.8.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Bildungswissenschaft/Beherrschen.md)): 29.12.2025 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 13.8.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Bildungswissenschaft/Beherrschen.md)): 22.3.2026 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung**
 
@@ -175,6 +175,10 @@ Diese Perspektive führt dazu, dass Beherrschen sowohl in Ausbildung und Prüfun
 
 Die in Abschnitt 2.4.3 dargestellte Kompetenzdefinition für High Responsibility Teams liefert damit nicht nur eine theoretische Präzisierung des Begriffs Beherrschen, sondern auch einen unmittelbar anschlussfähigen Bezugsrahmen für dessen Umsetzung in Ausbildung und Prüfung. Da [[Kompetenz]] in diesem Modell als unteilbare Operation verstanden wird, in der kognitive und psychomotorische Anteile untrennbar verschränkt sind, ergibt sich zwingend die Notwendigkeit, diese Operation prüfmethodisch sichtbar und bewertbar zu machen.
 Die nachfolgende Operationalisierung (2.4.4) erfüllt genau diese Funktion: Sie übersetzt die theoretische Konstruktion in konkrete Beobachtungsperspektiven, Indikatoren und Nachweisformen, die mit dem Rechts- und Prüfungsrahmen (NotSanG § 2a; NotSan-APrV § 17 Abs. 2) kompatibel sind.
+
+Beherrschen zeigt sich in der Fähigkeit, unter gegebenen Kontextbedingungen normativ anschlussfähige Operationen zu generieren, die eine situationsangemessene Transformation eines Ausgangszustands in einen professions- und evidenzbezogen anschlussfähigen Zielzustand ermöglichen. Durch selektiv fokussierende, situativ gebundene Perspektiven wird diese Operation so sichtbar, dass ihr Anschlussfähigkeit im Hinblick auf relevante normative Referenzsysteme zugeschrieben werden kann.
+
+Diese Verdichtung fungiert als theoretische Scharnierstelle zwischen der systemtheoretischen Bestimmung von Beherrschen als Operation und ihrer nachfolgenden Operationalisierung im Sinne der NotSan-APrV. Sie macht explizit, dass die Bewertung von Beherrschen nicht auf isolierte Beobachtungen oder Einzelergebnisse zielt, sondern auf die Zuschreibung normativer Anschlussfähigkeit zu einer im Kontext generierten Operation.
 
 ### 2.4.4 Operationalisierung
 
