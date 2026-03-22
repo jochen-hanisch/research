@@ -442,7 +442,7 @@ Operationalisiert wird dies über standardisierte Bausteine. Dazu zählen die fo
 - **Wünsche, Ideen, Gedanken, Anregungen, Fehler** als Datenbank für kontinuierliche Verbesserungsvorschläge, Fehlermeldungen und Optimierungsideen im Sinne einer lernenden Organisation.
 - **Kursorganisation** als Forum zur allgemeinen Abstimmung organisatorischer Fragen.
 - **Redaktionelle Abstimmung** als rollenbasiert eingeschränktes Forum zur inhaltlich-redaktionellen Koordination, ergänzt um **Advance Organizer Vorlage (Textseite)** als strukturiertes Template für einheitliche Kurskommunikation und Ankündigungen.
-- **Praxisbegleitung** als rollenbasiert eingeschränktes Forum (Praxisanleitung) zur Begleitung und Auswertung von Praxisbegleitgesprächen, ergänzt um **Praxisbegleitung Block xx** als Abstimmungselement, das abhängig von Rollenbedingungen Entscheidungen und Terminabsprachen technisch unterstützt.
+- **Praxisbegleitung** als rollenbasiert eingeschränktes Forum (Praxisanleitung) zur Begleitung und Auswertung von Praxisbegleitgesprächen, ergänzt um einen **zusätzlichen Praxisbegleitungsblock** als Abstimmungselement, das abhängig von Rollenbedingungen Entscheidungen und Terminabsprachen technisch unterstützt.
 - **Rund um die staatliche Prüfung** als organisatorische Sammelkategorie, insbesondere mit **Prüfungsorganisation** als rollenbasiert eingeschränktem Forum (Prüfende) zur Vor- und Nachbereitung, sowie den Textseiten **Gruppen- und Stationsverteilung**, **Prüfungsablauf** und **Prüfungsausschuss** zur verbindlichen, kursweit referenzierbaren Bereitstellung prüfungsrelevanter Informationen.
 
 **Funktion im Gesamtsystem**

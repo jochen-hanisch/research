@@ -99,7 +99,7 @@ header-includes:
 
 {\large Erstbetreuung: Prof. Dr. med. Sebastian Spethmann}\\[0.2cm]
 {\large Zweitbetreuung: Prof.in Dr.in phil. Eva Cendon}\\[0.6cm]
-{\large Datum der Promotion: dd.mm.yyyy}\\
+{\large Datum der Promotion: noch nicht festgelegt}\\
 \end{center}
 \end{titlepage}
 ```
