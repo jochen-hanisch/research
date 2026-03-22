@@ -111,7 +111,7 @@ Wichtige Hinweise zur Nutzung
 7. RealEye-Hinweise: Heatmap-Farben kodieren Intensität, nicht Dauer; Viewmap/Fog-View zeigen Verteilung ohne nummerierte Reihenfolge. Zentralfixations-Bias zu Beginn ggf. berücksichtigen; Ausreißer/Teilnehmende mit schlechter Qualität aussortieren.
 8. Zeitfenster: Bei Bedarf die ersten ~0,5 s (central fixation bias) ausblenden; Zeitintervall verschieben/verkürzen, wenn Sequenzdetails relevant sind.
 9. Filter: Teilnehmerqualität/Tags/AOI-Fokus in RealEye prüfen; keine automatischen CSVs genutzt, daher Filter nur zur visuellen Sichtung.
-todo Stimulusreihe-Hinweis anpassen/streichen, wenn die Abbildungen komplett im Haupttext eingebettet sind.
+Die vollständigen Stimulusreihen bleiben im Anhang dokumentiert; im Haupttext werden nur die für die Argumentation erforderlichen Überblicksabbildungen geführt.
 
 Abschlussbemerkung
 
