@@ -3,7 +3,7 @@ author: Jochen Hanisch-Johannsen
 title: Analyse zweiter Ordnung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2025-07-05
 updated: 2025-07-05
 publish: true
