@@ -1,6 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Didaktik des Lernkarteikastens als systemisch-digitale Intervention
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
+created: 2024-12-18
+updated: 2024-12-18
+publish: false
+published: 
 tags:
   - Bildung
   - Didaktik
@@ -11,16 +18,9 @@ tags:
   - Lernen
   - Lernprozesse
   - Lernansätze
-created: 2024-12-18
-updated: 2024-12-18
-publish: false
-published: 
-type:
-  - Methodische Notiz
-project:
 ---
 
-created: 18.12.2024 | updated: 18.12.2024 | published: dd.mm.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 18.12.2024 | [updated](https://github.com/jochen-hanisch/research): 18.12.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung 
 
@@ -1289,4 +1289,4 @@ Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspecti
 
 ---
 
-#Bildung #Didaktik #Lernmethoden #Gesundheitsbildung #Forschung #Lernkarteikartenkasten #Lernen #Lernprozesse #Lernansätze 
+#Bildung #Didaktik #Lernmethoden #Gesundheitsbildung #Forschung #Lernkarteikartenkasten #Lernen #Lernprozesse #Lernansätze

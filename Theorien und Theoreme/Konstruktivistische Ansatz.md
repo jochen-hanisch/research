@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Konstruktivismus
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-04
 updated: 
+publish: false
+published: 
 tags:
   - "#Konstruktivismus"
   - "#Lernprozess"
@@ -11,11 +16,10 @@ tags:
   - "#Wissensverarbeitung"
   - "#Wissenskonstruktion"
   - "#Reflexion"
-project: 
-type:
-  - Theoretische Notiz
-publish: false
 ---
+
+created: 04.10.2024 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der konstruktivistische Ansatz beschreibt ein Lernparadigma, das darauf abzielt, Lernen als einen aktiven und kontextualisierten Prozess der Wissenskonstruktion zu verstehen. Lernende sind dabei keine passiven Empfänger von Informationen, sondern aktive Teilnehmer, die durch Erfahrungen und Reflexion neues Wissen entwickeln. Die Rolle des Lehrers besteht darin, unterstützende Strukturen (Scaffolding) zu schaffen, die den Lernenden ermöglichen, selbstständig zu lernen und ihr Wissen durch Interaktionen und Problemlösung zu erweitern. Der Ansatz wird besonders in der Bildung und im pädagogischen Kontext angewendet, um tiefes, nachhaltiges Lernen zu fördern.

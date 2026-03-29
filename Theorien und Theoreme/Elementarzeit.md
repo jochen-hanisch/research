@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Die gegebene Zeit. Ein strukturtheoretischer Entwurf zur Operation und Emergenz temporaler Ordnung
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/15723385
 created: 2025-06-21
 updated: 2025-06-23
 publish: true
+published: 2025-06-23
 tags:
   - Forschung
   - Systemtheorie
@@ -22,11 +25,9 @@ tags:
   - Elementarzeit
   - Zeitstruktur
   - Übergangsarchitektur
-published: 2025-06-23
-project: []
 ---
 
-created: 21.6.2025 | [updated](https://git.jochen-hanisch.de/research/theorien-theoreme/): 22.7.2025 | [published](https://zenodo.org/records/15723385): 23.6.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 21.06.2025 | [updated](https://github.com/jochen-hanisch/research): 23.06.2025 | [published](https://zenodo.org/records/15723385): 23.06.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Die gegebene Zeit.** Ein strukturtheoretischer Entwurf zur Operation und Emergenz temporaler Ordnung
 
@@ -894,4 +895,4 @@ Alle Zeitformen sind vollständige Ausprägungen des Übergangszirkels. Die Elem
 
 ---
 
-#Forschung #Systemtheorie #Kognition #Wissenskonstruktion #Elementaroperationen #Feedback #Reflexion #Meta-Reflexion #Re-Entry #Zeit #Zeitstruktur #SystemischeDynamik #Theoriebildung #Bildungswissenschaft #Elementarzeit #Übergangsarchitektur 
+#Forschung #Systemtheorie #Kognition #Wissenskonstruktion #Elementaroperationen #Feedback #Reflexion #Meta-Reflexion #Re-Entry #Zeit #Zeitstruktur #SystemischeDynamik #Theoriebildung #Bildungswissenschaft #Elementarzeit #Übergangsarchitektur

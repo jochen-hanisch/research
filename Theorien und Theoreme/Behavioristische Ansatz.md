@@ -1,5 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
+title: Behavioristische Ansatz
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
+created: 2024-10-02
+updated: 2024-10-13
+publish: false
+published: 
 tags:
   - "#Behaviorismus"
   - "#Lernansätze"
@@ -9,14 +17,10 @@ tags:
   - "#Verhaltensmodifikation"
   - "#Konditionierung"
   - "#Lernsoftware"
-title: Behavioristische Ansatz
-created: 2024-10-02
-updated: 2024-10-13
-project: 
-type:
-  - Theoretische Notiz
-publish: false
 ---
+
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 13.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der **behavioristische Ansatz**, auch als Behaviorismus bezeichnet, konzentriert sich auf die Untersuchung und Analyse beobachtbarer Verhaltensweisen als Reaktion auf Umweltreize. Lernen wird als Prozess verstanden, bei dem durch Verstärkung und Bestrafung Verhaltensänderungen herbeigeführt werden. Mentale Prozesse wie Gedanken und Emotionen werden als irrelevant betrachtet, da sie nicht direkt messbar sind. Der Behaviorismus wird in der Erziehung, Therapie und Verhaltensmodifikation angewendet, um gewünschte Verhaltensweisen zu fördern und unerwünschte zu unterdrücken.

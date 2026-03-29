@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Humanistischer Ansatz in der Bildung
-created: 11.10.2024
-updated: 11.10.2024
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
+created: 2024-10-11
+updated: 2024-10-11
+publish: false
+published: 
 tags:
   - Humanismus
   - Bildung
@@ -17,13 +22,9 @@ tags:
   - "#Persönlichkeitsentwicklung"
   - "#Didaktik"
   - "#Selbstverwirklichung"
-project: Bildungstheorie
-type:
-  - Theoretische Notiz
-priority: mittel
-status: in-progress
-publish: false
 ---
+
+created: 11.10.2024 | [updated](https://github.com/jochen-hanisch/research): 11.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 

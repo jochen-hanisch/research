@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Kognitivismus
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-02
 updated: 2024-10-13
+publish: false
+published: 
 tags:
   - "#Kognition"
   - "#Lernprozess"
@@ -11,11 +16,10 @@ tags:
   - "#Konstruktivismus"
   - "#Metakognition"
   - "#Wissensverarbeitung"
-project: 
-type:
-  - Theoretische Notiz
-publish: false
 ---
+
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 13.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der **kognitivistische Ansatz** betont die Rolle interner kognitiver Prozesse wie Wahrnehmung, Gedächtnis, Problemlösung und Informationsverarbeitung im Lernprozess. Lernen wird als aktiver und strukturierter Prozess verstanden, bei dem Lernende neue Informationen mit ihrem bestehenden Wissensbestand verknüpfen und diese durch Anwendung kognitiver Strategien integrieren. Die Instruktion zielt darauf ab, diese Prozesse durch geeignete didaktische Methoden wie Visualisierungen, Analogien und Strukturierung von Lerninhalten zu unterstützen. Im Vergleich zum Konstruktivismus ist der Kognitivismus stärker strukturiert, ermutigt jedoch auch zu selbstgesteuertem Lernen und Problemlösung.
