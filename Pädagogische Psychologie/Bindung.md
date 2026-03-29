@@ -21,6 +21,8 @@ tags:
   - "#Bindungsmuster"
 ---
 
+created: 02.10.2002 | [updated](https://github.com/jochen-hanisch/research): 02.10.2002 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der Begriff "Bindung" beschreibt eine enge, emotionale Beziehung, die zwischen einem Kind und einer spezifischen Bezugsperson (meist den Eltern oder primären Pflegepersonen) entsteht. Diese Beziehung dient der Sicherheit, Stabilität und emotionalen Unterstützung des Kindes und fördert seine soziale und kognitive Entwicklung. Im Rahmen der klassischen Bindungstheorie nach [[John Bowlby]] wird Bindung als ein biologisch verankertes Verhaltenssystem beschrieben, das die Überlebenswahrscheinlichkeit erhöht, indem es das Kind dazu motiviert, in der Nähe einer schützenden Bezugsperson zu bleiben. Dieses Bindungsverhalten zeigt sich vor allem in unsicheren Situationen und hat eine regulierende Funktion auf die kindliche Stressbewältigung.
