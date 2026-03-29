@@ -1,19 +1,22 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Feedback – Eine systemische und zirkuläre Perspektive
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-12-06
 updated: 2024-12-06
+publish: false
+published: 
 tags:
   - Feedback
   - Systemtheorie
   - Lernen
   - Reflexion
   - Kybernetik
-project: Systemlernen
-type:
-  - Wissenschaftliche Notiz
-publish: false
 ---
+
+created: 06.12.2024 | [updated](https://github.com/jochen-hanisch/research): 06.12.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 

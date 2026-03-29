@@ -1,8 +1,13 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: Stabilitätsfunktion S(c)
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-04-19
+updated: 
 publish: false
-GPT: true
+published: 
 tags:
   - Begriff
   - HFFM
@@ -11,9 +16,9 @@ tags:
   - Fraktal
   - Interdependenz
   - Systemtheorie
-status: post
-publishd: 2025-06-10
 ---
+
+created: 19.04.2025 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
@@ -393,4 +398,3 @@ Der Begriff $S(c)$ leistet damit einen Beitrag zur strukturell orientierten Syst
 - von Foerster, H. (2003). *Wissen und Gewissen. Versuch einer Brücke*. Suhrkamp.
 
 ---
-

@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Elementarkommunikation: Eine Eine systemtheoretisch-transdisziplinäre Analyse der [[Interdependenz]] von on [[Feedback]], [[Reflexion]] und Re-Entry"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-12-19
 updated: 2024-12-25
 publish: true
+published: 2024-12-27
 tags:
   - Kommunikation
   - Systemtheorie
@@ -16,12 +19,9 @@ tags:
   - Krisenmanagement
   - [[Emergenz]]
   - Definition
-published: 2024-12-27
-project: Wirkgefüge im digitalen Bildungsraum
-status: published
 ---
 
-created: 19.12.2024 | updated: 20.1.2025 | [publishd](https://www.researchgate.net/publication/387522374_Elementarkommunikation): 30.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 19.12.2024 | [updated](https://github.com/jochen-hanisch/research): 25.12.2024 | [published](): 27.12.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Elementarkommunikation: Eine systemtheoretisch-transdisziplinäre Analyse der Interdependenz von on Feedback, Reflexion und Re-Entry**
 

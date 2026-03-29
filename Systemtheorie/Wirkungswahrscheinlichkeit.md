@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Wirkungswahrscheinlichkeit
-Repository: https://github.com/jochen-hanisch/research/tree/main
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-09-26
 updated: 2024-12-10
 publish: true
+published: 2024-10-26
 tags:
   - Begriff
   - Definition
@@ -16,10 +19,9 @@ tags:
   - Forschung
   - Systemdynamik
   - werkannalgorithmen
-published: 2024-10-26
 ---
 
-created: 26.09.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Wirkungswahrscheinlichkeit.md): 26.10.2024 | published: 26.10.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions)  | [[Hinweise]]
+created: 26.09.2024 | [updated](https://github.com/jochen-hanisch/research): 10.12.2024 | [published](): 26.10.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 
@@ -384,4 +386,4 @@ Insgesamt zeigt die Notiz, dass die Wirkungswahrscheinlichkeit ein nützliches I
 
 ---
 
-#Begriff #Definition #Research #Wahrscheinlichkeitstheorie #Wirkungsraum #Komplexitätsverständnis #Psychologie #Forschung #Systemdynamik #werkannalgorithmen 
+#Begriff #Definition #Research #Wahrscheinlichkeitstheorie #Wirkungsraum #Komplexitätsverständnis #Psychologie #Forschung #Systemdynamik #werkannalgorithmen

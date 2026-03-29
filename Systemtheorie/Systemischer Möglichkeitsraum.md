@@ -1,16 +1,21 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: Stabilitätsfunktion S(c)
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-04-23
+updated: 
 publish: false
-GPT: true
+published: 
 tags:
   - Begriff
   - Fibonacci
   - Systemtheorie
   - Elementaroperationen
-status: post
-publishd: 2025-06-17
 ---
+
+created: 23.04.2025 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
@@ -62,4 +67,3 @@ Damit ist $V$ nicht der Ort der Strukturgenese, sondern ihr **räumlich realisie
 - Mitchell, M. (2009). *Complexity: A Guided Tour*. Oxford University Press.  
 - Rheinberger, H.-J. (2010). *Epistemologie des Konkreten*. Suhrkamp.  
 - Strogatz, S. H. (2018). *Nonlinear Dynamics and Chaos*. CRC Press.
-

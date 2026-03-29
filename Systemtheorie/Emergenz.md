@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-01-26
 updated: 2025-01-26
 publish: true
+published: 2025-01-26
 tags:
   - Systemtheorie
   - Emergenz
@@ -18,12 +21,9 @@ tags:
   - Mensch-KI-Interaktion
   - Normen
   - Schwarmintelligenz
-published: 2025-01-26
-GPT: true
-status: draft
 ---
 
-created: 26.1.2025 | updated: 26.1.2025 | published: 26.1.2025 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 26.01.2025 | [updated](https://github.com/jochen-hanisch/research): 26.01.2025 | [published](): 26.01.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy**
 

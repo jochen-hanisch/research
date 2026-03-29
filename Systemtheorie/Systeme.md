@@ -1,3 +1,18 @@
+---
+author: Jochen Hanisch-Johannsen
+title: Systeme
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
+created: 
+updated: 
+publish: false
+published: 
+tags: []
+---
+
+created:  | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 #  Der qualitative Sprung zwischen lebenden und psychischen Systemen
 
 Der Übergang von lebenden zu psychischen Systemen stellt einen weitaus bedeutenderen qualitativen Sprung dar als der Schritt von psychischen zu sozialen Systemen. Während lebende Systeme hauptsächlich auf Reiz-Reaktions-Muster und physikalisch-chemische Anpassungsprozesse angewiesen sind, bringt das psychische System erstmals die Fähigkeit zur bewussten Selbstreflexion und Abstraktion in die Systemlandschaft ein.

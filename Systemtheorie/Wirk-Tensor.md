@@ -1,19 +1,22 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Wirkungs-Tensor $W_{\mu\nu}$
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-23
 updated: 2024-10-23
+publish: false
+published: 
 tags:
   - "#Bildungsraum"
   - "#Wissenschaftstheorie"
   - "#Lernprozess"
   - "#Kompetenzentwicklung"
   - "#Psychologie"
-project: Fundamentalgleichungen der Bildung
-type:
-  - Wissenschaftliche Notiz
-publish:
 ---
+
+created: 23.10.2024 | [updated](https://github.com/jochen-hanisch/research): 23.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition des Wirkungs-Tensors $W_{\mu\nu}$
 

@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Systemintelligenz: Eine systemtheoretisch-transdisziplinäre Analyse von Wirkung, Komplexität und Sinnkonstruktion"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-01-09
 updated: 2025-04-11
 publish: true
+published: 2025-04-15
 tags:
   - Forschung
   - Bildungswissenschaft
@@ -26,12 +29,9 @@ tags:
   - Ökologische
   - [[Systeme]]
   - Kybernetik
-published: 2025-04-15
-GPT: true
-status: published
 ---
 
-created: 9.1.2025 | updated: 11.4.2025 | [publishd](https://www.researchgate.net/publication/390799442_Systemintelligenz_Eine_systemtheoretisch-transdisziplinare_Analyse_von_Wirkung_Komplexitat_und_Sinnkonstruktion): 15.4.2025 | [[Hinweise]]
+created: 09.01.2025 | [updated](https://github.com/jochen-hanisch/research): 11.04.2025 | [published](): 15.04.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Systemintelligenz: Eine systemtheoretisch-transdisziplinäre Analyse von Wirkung, Komplexität und Sinnkonstruktion**
 
