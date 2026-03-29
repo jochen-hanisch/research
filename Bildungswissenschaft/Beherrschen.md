@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/16887477
 created: 2025-08-13
 updated: 2026-03-22
 publish: true
+published: 2025-08-16
 tags:
   - NotSanG
   - NotSan-APrV
@@ -17,10 +20,9 @@ tags:
   - Szenarienmethode
   - Rettungsdienst
   - Audit-Trail
-published: 2025-08-16
 ---
 
-created: 13.8.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Bildungswissenschaft/Beherrschen.md)): 22.3.2026 | [published](https://zenodo.org/records/16887477): 16.8.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 13.08.2025 | [updated](https://github.com/jochen-hanisch/research): 22.03.2026 | [published](https://zenodo.org/records/16887477): 16.08.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Beherrschen zwischen Rechtsnorm, medizinischer Praxis und pädagogischer Bestimmung - Eine systemtheoretische Operationalisierung am Beispiel der Notfallsanitäter:innen-Ausbildung**
 

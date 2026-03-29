@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Lernen als universelles Prinzip
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-02
 updated: 2025-07-30
 publish: true
+published: 2025-06-08
 tags:
   - Lernen
   - Rhetorik
@@ -25,11 +28,9 @@ tags:
   - "#Kompetenzentwicklung"
   - "#Lernprozesse"
   - "#Autopoiesis"
-published: 2025-06-08
-GPT: true
 ---
 
-created: 2.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 30.7.2025 | published: 8.6.2025 |[Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 30.07.2025 | [published](): 08.06.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 > [!abstract]+ Anmerkung  
 > Dieser Artikel wird noch überarbeitet, da Lernen als Folge von [[Elementaroperationen]] (Feedback, Reflexion und Re-Entry) verstanden wird. Diese befinden sich aktuell in Entwicklung.  
@@ -538,4 +539,4 @@ Insgesamt zeigt das systemtheoretische Lernprinzip, dass Lernen nicht nur ein bi
 
 ---
 
- #Lernen #Rhetorik #Lernbegriff #Geschichte #Pädagogik #Psychologie #Lernen #Bildung #Erziehungswissenschaft #Didaktik #Bildungsforschung #Forschung #Wissenschaft #Bildungswissenschaft #Systemtheorie #Kompetenzentwicklung #Lernprozesse #Autopoiesis #[[Emergenz]] #Feedback #Re-Entry 
+ #Lernen #Rhetorik #Lernbegriff #Geschichte #Pädagogik #Psychologie #Lernen #Bildung #Erziehungswissenschaft #Didaktik #Bildungsforschung #Forschung #Wissenschaft #Bildungswissenschaft #Systemtheorie #Kompetenzentwicklung #Lernprozesse #Autopoiesis #[[Emergenz]] #Feedback #Re-Entry

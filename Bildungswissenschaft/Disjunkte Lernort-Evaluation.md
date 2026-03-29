@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Disjunkte Lernort-Evaluation: Ein methodischer Ansatz zur Lernort-Bewertung"
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/15383476
 created: 2024-11-16
 updated: 2025-06-08
 publish: true
+published: 2025-05-11
 tags:
   - "#Dissertation"
   - "#Bildungswissenschaft"
@@ -13,11 +16,9 @@ tags:
   - "#Professionalisierung"
   - "#Lernortevaluation"
   - "#Qualitätsanalyse"
-published: 2025-05-11
-GPT: true
 ---
 
-created: 16.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 8.8.2025 | [published](https://zenodo.org/records/15383476) | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
+created: 16.11.2024 | [updated](https://github.com/jochen-hanisch/research): 08.06.2025 | [published](https://zenodo.org/records/15383476): 11.05.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Disjunkte Lernort-Evaluation: Ein methodischer Ansatz zur Lernort-Bewertung**
 
@@ -1113,5 +1114,4 @@ Trotz dieser Herausforderungen stellt die Disjunkte Lernort-Evaluation ein wertv
 
 ---
 
-  #Dissertation #Bildungswissenschaft #Forschung #Gesundheitswesen #Professionalisierung #Lernortevaluation #Qualitätsanalyse 
-  
+  #Dissertation #Bildungswissenschaft #Forschung #Gesundheitswesen #Professionalisierung #Lernortevaluation #Qualitätsanalyse

@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Wirkungskriterium
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-11-17
 updated: 2024-11-18
 publish: true
+published: 
 tags:
   - Notfallmedizin
   - Systemtheorie
@@ -13,11 +16,9 @@ tags:
   - Checkliste
   - Kompetenz
   - "#werkannalgorithmen"
-published: []
-project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 17.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 18.11.2024 | publishd:  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 17.11.2024 | [updated](https://github.com/jochen-hanisch/research): 18.11.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 
@@ -567,4 +568,4 @@ Die Integration von Feedback, Reflexion und Re-Entry bildet die Grundlage für e
 
 ---
 
-#Notfallmedizin #Systemtheorie #Wirkungskriterien #Algorithmus #Checkliste #Kompetenz #werkannalgorithmen 
+#Notfallmedizin #Systemtheorie #Wirkungskriterien #Algorithmus #Checkliste #Kompetenz #werkannalgorithmen
