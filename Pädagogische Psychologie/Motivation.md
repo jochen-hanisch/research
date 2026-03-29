@@ -25,6 +25,8 @@ tags:
   - "#Lernmotivation"
 ---
 
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 02.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Motivation beschreibt die Prozesse, die das Zielstreben und das Verhalten eines Individuums aktivieren, steuern und aufrechterhalten. Sie umfasst sowohl **intrinsische** als auch **extrinsische** Beweggründe und wird durch das Zusammenspiel von persönlichen Zielen, Anreizen und situativen Kontexten beeinflusst (Steinebach, 2003). Motivation ist somit eine **multidimensionale** Größe, die sowohl auf individuelle als auch auf äußere Faktoren zurückgeführt werden kann.

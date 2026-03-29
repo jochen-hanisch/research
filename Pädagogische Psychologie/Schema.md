@@ -16,6 +16,8 @@ tags:
   - "#Persönlichkeitsentwicklung"
 ---
 
+created: 09.10.2024 | [updated](https://github.com/jochen-hanisch/research): 09.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der Begriff *Schemata* bezeichnet in der [[Schematherapie]] wiederkehrende, maladaptive Denk-, Fühl- und Verhaltensmuster, die aus frühen negativen Erfahrungen resultieren und die Wahrnehmung sowie das Verhalten von Menschen im Alltag beeinflussen. Grundbedürfnisse sind dabei psychologische Bedürfnisse, die in der Kindheit durch Bezugspersonen befriedigt werden müssen, um eine gesunde Entwicklung zu gewährleisten. *Modi* beschreiben die emotionalen und verhaltensbezogenen Zustände oder Reaktionen, die Menschen in unterschiedlichen Situationen zeigen, abhängig davon, welches Schema gerade aktiviert ist.

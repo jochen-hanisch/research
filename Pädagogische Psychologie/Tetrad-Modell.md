@@ -18,6 +18,8 @@ tags:
   - "#Technologieanalyse"
 ---
 
+created:  | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Das **Tetrad-Modell** ist ein Konzept, das von [[Marshall McLuhan]] entwickelt wurde, um die Auswirkungen von neuen Medien und Technologien auf die Gesellschaft systematisch zu analysieren. Es besteht aus vier Fragen, die jede Technologie oder jedes Medium beantworten muss, um ihre Wirkung vollständig zu erfassen. Diese Fragen lauten:
