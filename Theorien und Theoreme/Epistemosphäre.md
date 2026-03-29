@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Epistemosphäre als theoretisches Modell zur Beschreibung und Steuerung von Wissensprozessen
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/15614717
 created: 2024-10-25
 updated: 2025-06-07
 publish: true
+published: 2025-05-20
 tags:
   - "#Bildungswissenschaft"
   - "#Wissenschaftstheorie"
@@ -13,10 +16,9 @@ tags:
   - "#Kompetenzentwicklung"
   - "#Epistemosphäre"
   - "#Wissensdynamik"
-published: 2025-05-20
-project: Theorien und Theoreme
-GPT: true
 ---
+
+created: 25.10.2024 | [updated](https://github.com/jochen-hanisch/research): 07.06.2025 | [published](https://zenodo.org/records/15614717): 20.05.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Epistemosphäre als theoretisches Modell zur Beschreibung und Steuerung von Wissensprozessen**
 

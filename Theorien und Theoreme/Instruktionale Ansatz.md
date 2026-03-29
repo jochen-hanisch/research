@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Instruktionismus
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-05
 updated: 
+publish: false
+published: 
 tags:
   - "#Lernansätze"
   - "#Didaktik"
@@ -11,11 +16,10 @@ tags:
   - "#Lernprozess"
   - "#Instruktionismus"
   - "#Wissensvermittlung"
-project: 
-type:
-  - Theoretische Notiz
-publish: false
 ---
+
+created: 05.10.2024 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der **instruktionale Ansatz** (Instruktionismus) ist eine lehrerzentrierte und stark strukturierte Methode, bei der Lernen als ein Prozess der gezielten Wissensvermittlung durch den Lehrenden definiert wird. Die Lehrkraft kontrolliert dabei den Lernprozess eng, indem sie präzise Anweisungen, Demonstrationen und Übungen nutzt, um festgelegte Lernziele zu erreichen. Lernende nehmen eine eher passive Rolle ein, indem sie das vorgegebene Wissen aufnehmen und reproduzieren. Evaluation und Feedback erfolgen durch standardisierte Tests, um den Lernerfolg messbar zu machen. Der Ansatz findet vor allem in formellen Lernumgebungen Anwendung, wo klare und überprüfbare Lernziele im Vordergrund stehen.

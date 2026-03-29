@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Systemischer Ansatz
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-04
 updated: 
+publish: false
+published: 
 tags:
   - "#Systemtheorie"
   - "#Lernprozess"
@@ -11,11 +16,9 @@ tags:
   - "#Interdependenz"
   - "#SystemischeDynamik"
   - "#Lernsysteme"
-project: 
-type:
-  - Theoretische Notiz
-publish: false
 ---
+
+created: 04.10.2024 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 
@@ -162,4 +165,4 @@ Der systemische Ansatz beschreibt ein Set von Annahmen und Konzepten, das entwic
 # Quelle(n)
 
 - Bertalanffy, L. von. (1968). *General System Theory: Foundations, Development, Applications*. George Braziller.  
-- Schneider, M., & Müller, R. (2018). *Systemische Ansätze in der Bildungsforschung*. Springer.  
+- Schneider, M., & Müller, R. (2018). *Systemische Ansätze in der Bildungsforschung*. Springer.

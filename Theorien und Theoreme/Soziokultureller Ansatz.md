@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Soziokultureller Ansatz (Vygotskij)
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-04
 updated: 
+publish: false
+published: 
 tags:
   - "#Kognition"
   - "#Wissenskonstruktion"
@@ -10,11 +15,10 @@ tags:
   - "#Lernprozess"
   - "#Konstruktivismus"
   - "#Lerninteraktion"
-project: 
-type:
-  - Theoretische Notiz
-publish: false
 ---
+
+created: 04.10.2024 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der **soziokulturelle Ansatz** betont die Rolle sozialer Interaktionen und kultureller Werkzeuge bei der Wissenskonstruktion. Im Zentrum steht die Idee, dass Lernen und kognitive Entwicklung tief in soziale und kulturelle Kontexte eingebettet sind. Der Lehrer agiert hierbei als Moderator und Gestalter von Lernsituationen, die den Austausch und die Zusammenarbeit fördern. Die direkte Instruktion spielt dabei eine untergeordnete Rolle, während die Lernenden aktiv an der Konstruktion ihres Wissens beteiligt sind. Dieser Ansatz wird besonders in Bildung, Beratung und anderen sozialpädagogischen Kontexten angewendet.

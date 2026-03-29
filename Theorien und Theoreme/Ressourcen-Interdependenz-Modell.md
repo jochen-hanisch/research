@@ -1,15 +1,17 @@
 ---
 author: Jochen Hanisch-Johannsen
-title: 
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+title: Ressourcen-Interdependenz-Modell
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-11-25
 updated: 2025-08-22
 publish: false
-tags:
 published: 
+tags: []
 ---
 
-created: 25.11.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 16.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 25.11.2024 | [updated](https://github.com/jochen-hanisch/research): 22.08.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Abstract
 

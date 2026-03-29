@@ -1,11 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Kommunikation
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-28
 updated: 2024-12-19
 publish: false
-GPT: true
-publishd: 2025-05-27
+published: 
 tags:
   - Kommunikation
   - Systemtheorie
@@ -18,8 +20,9 @@ tags:
   - "#Bildungsforschung"
   - "#Emotionen"
   - "#Sinnstiftung"
-status: post
 ---
+
+created: 28.10.2024 | [updated](https://github.com/jochen-hanisch/research): 19.12.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
  createdt: 28.10.2024 | updated 19.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
@@ -451,5 +454,4 @@ Damit stellt es nicht nur eine Erweiterung bestehender Theorien dar, sondern bil
 
 ---
 
-  #Kommunikation #Systemtheorie #Bedürfnisse #Emotionen #Mathematik #Kommunikation #Systemtheorie #Psychologie #Bildungsforschung #Emotionen #Sinnstiftung 
-  
+  #Kommunikation #Systemtheorie #Bedürfnisse #Emotionen #Mathematik #Kommunikation #Systemtheorie #Psychologie #Bildungsforschung #Emotionen #Sinnstiftung
