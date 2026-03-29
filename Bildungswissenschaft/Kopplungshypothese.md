@@ -1,15 +1,17 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Bedürfnisbasierte Kopplungshypothese der Bildung
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-09-08
 updated: 2025-09-09
 publish: true
-tags:
-published:
+published: 
+tags: []
 ---
 
-created: 8.9.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 9.8.2025 | [published](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 08.09.2025 | [updated](https://github.com/jochen-hanisch/research): 09.09.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Bedürfnisbasierte Kopplungshypothese der Bildung**
 

@@ -1,11 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Was ist Kompetenzentwicklung? Eine begriffliche Klärung
-date: 2024-09-29
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
+created: 2024-09-29
 updated: 2025-08-05
 publish: true
-GPT: true
-publishd: 2025-04-26
+published: 
 tags:
   - "#Adaption"
   - "#Architektur"
@@ -32,10 +34,9 @@ tags:
   - "#Transfer"
   - "#Unsicherheit"
   - "#Wirksamkeit"
-status: post
 ---
 
-created: 29.09.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 02.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 29.09.2024 | [updated](https://github.com/jochen-hanisch/research): 05.08.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Was ist Kompetenzentwicklung? Eine begriffliche Klärung**
 

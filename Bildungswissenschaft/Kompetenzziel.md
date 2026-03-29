@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Kompetenzziel: Systemische Grundlagen, Struktur und sprachliche Präzision für dynamische Bildungsprozesse"
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-01-10
 updated: 2024-12-11
 publish: true
+published: 2025-01-11
 tags:
   - "#Kompetenzziele"
   - "#Lernen"
@@ -12,10 +15,9 @@ tags:
   - "#Forschung"
   - "#Transformation"
   - "#Interdisziplinarität"
-published: 2025-01-11
-project: Systemische Kompetenzentwicklung für High Responsibility Teams
-GPT: true
 ---
+
+created: 10.01.2025 | [updated](https://github.com/jochen-hanisch/research): 11.12.2024 | [published](): 11.01.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Kompetenzziel: Systemische Grundlage, Struktur und sprachliche Präzision für dynamische Bildungsprozesse**
 
@@ -953,4 +955,4 @@ Somit lässt sich sagen, dass die Kompetenzziele eine zukunftsweisende Grundlage
 
 ---
 
-#Kompetenzziele #Lernen #Bildung #Forschung #Transformation #Interdisziplinarität 
+#Kompetenzziele #Lernen #Bildung #Forschung #Transformation #Interdisziplinarität
