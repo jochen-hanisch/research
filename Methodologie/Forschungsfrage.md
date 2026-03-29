@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch
 title: Forschungsfrage und Operationalisierung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-02
 updated: 2024-10-02
+publish: false
+published:
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -13,12 +18,9 @@ tags:
   - "#Forschungsdesign"
   - "#Operationalisierung"
   - Empirie
-project: Wirkgefüge im digitalen Bildungsraum
-type:
-  - Methodische Notiz
-status: in-progress
-publish: false
 ---
+
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 02.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Syntax
 

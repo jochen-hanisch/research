@@ -1,23 +1,23 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Qualitative Metaanalyse
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2002-10-02
-updated: ""
-due: ""
+updated:
+publish: false
+published:
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
   - "#Bildungsforschung"
   - "#eLearning"
   - "#Metaanalyse"
-project: Wirkgefüge im digitalen Bildungsraum
-type:
-  - Methodische Notiz
-priority: hoch
-status: open
-publish: false
-task: Ergänzung und Erweiterung der bestehenden Notiz zur qualitativen Metaanalyse unter Einbeziehung spezifischer methodischer Herausforderungen und empirischer Studien.
 ---
+
+created: 02.10.2002 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 Eine qualitative [[Metaanalyse]] ist ein Forschungsansatz, der darauf abzielt, Erkenntnisse aus mehreren qualitativen Primärstudien zu einem spezifischen Thema systematisch zu integrieren und zu synthetisieren. Im Gegensatz zur quantitativen Metaanalyse basiert dieser Ansatz nicht auf statistischen Methoden, sondern nutzt qualitative Analysetechniken wie die **thematische Analyse** oder die [[Grounded Theory]], um gemeinsame Muster, Themen und Theorien zu identifizieren. Eine qualitative Metaanalyse ermöglicht es, ein umfassenderes Verständnis eines Forschungsbereichs zu gewinnen, indem die Perspektiven und Erfahrungen aus verschiedenen qualitativen Studien zusammengeführt werden.
 
