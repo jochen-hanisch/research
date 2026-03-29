@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Bedürfnisse
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-01
 updated: 2024-11-26
 publish: true
+published:
 tags:
   - Begriff
   - Definition
@@ -14,11 +17,9 @@ tags:
   - "#Kognition"
   - "#Psychologie"
   - "#Lernmotivation"
-published: []
-project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 01.10.2024 | updated: 26.11.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 01.10.2024 | [updated](https://github.com/jochen-hanisch/research): 26.11.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 

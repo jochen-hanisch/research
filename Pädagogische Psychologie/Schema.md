@@ -1,20 +1,19 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Schemata, Grundbedürfnisse und Modi in der Schematherapie
-created: 09.10.2024
-updated: 09.10.2024
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
+created: 2024-10-09
+updated: 2024-10-09
+publish: false
+published:
 tags:
   - Bedürfnisse
   - Psychologie
   - "#Schematherapie"
   - "#Psychotherapie"
   - "#Persönlichkeitsentwicklung"
-project: Psychotherapeutische Ansätze
-type:
-  - Wissenschaftliche Notiz
-priority: mittel
-status: in-progress
-publish: false
 ---
 
 # 1 Definition

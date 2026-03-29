@@ -1,9 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Motivation
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-02
 updated: 2024-10-02
-due: 2024-10-10
+publish: false
+published:
 tags:
   - Motivation
   - Pädagogische
@@ -19,15 +23,8 @@ tags:
   - "#Verhaltenssteuerung"
   - "#Antriebsforschung"
   - "#Lernmotivation"
-project: Bildungsforschung
-type:
-  - Wissenschaftliche Notiz
-  - Aufgabe
-priority: hoch
-status: in-progress
-publish: false
-task: Vervollständigung der Definition und Beantwortung der Fragestellungen zur etymologischen Herleitung.
 ---
+
 # 1 Definition
 
 Motivation beschreibt die Prozesse, die das Zielstreben und das Verhalten eines Individuums aktivieren, steuern und aufrechterhalten. Sie umfasst sowohl **intrinsische** als auch **extrinsische** Beweggründe und wird durch das Zusammenspiel von persönlichen Zielen, Anreizen und situativen Kontexten beeinflusst (Steinebach, 2003). Motivation ist somit eine **multidimensionale** Größe, die sowohl auf individuelle als auch auf äußere Faktoren zurückgeführt werden kann.

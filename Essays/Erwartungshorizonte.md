@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Erwartungshorizonte. Ein konfrontativer Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen.
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-01-11
 updated: 2025-08-05
 publish: true
+published: 2025-08-05
 tags:
   - Erwartungshorizonte
   - Reflexion
@@ -16,10 +19,9 @@ tags:
   - Rechtslogik
   - Didaktik
   - Bildungsforschung
-published: 2025-08-05
 ---
 
-created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 5.8.2025 | [published](https://zenodo.org/records/16743929): 5.8.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 11.01.2025 | [updated](https://github.com/jochen-hanisch/research): 05.08.2025 | [published](https://zenodo.org/records/16743929): 05.08.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Erwartungshorizonte. Ein konfrontativer Essay starrer Bewertungsmodelle und ein Plädoyer für reflexionsbasierte, kompetenzorientierte Prüfungen**.
 

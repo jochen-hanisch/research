@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Tetrad-Modell
-Repository: 
-created: []
-updated: []
-publish: []
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
+created:
+updated:
+publish: false
+published:
 tags:
   - "#Definition"
   - "#Forschung"
@@ -13,10 +16,6 @@ tags:
   - "#Bildungsforschung"
   - "#Medienökologie"
   - "#Technologieanalyse"
-published: 
-project: []
-type:
-  - Wissenschaftliche Notiz
 ---
 
 # 1 Definition

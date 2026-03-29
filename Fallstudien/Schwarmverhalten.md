@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Kollektive Reaktionsmuster im Schwarmverhalten. Eine systemtheoretische Rekonstruktion
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-07-31
 updated: 2025-08-01
 publish: true
+published: 2025-08-01
 tags:
   - Elementaroperationen
   - Lernen
@@ -13,13 +16,11 @@ tags:
   - Elementarkommunikation
   - Schwarmverhalten
   - Schwarmintelligenz
-published: 2025-08-01
 ---
 
-created: 31.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 31.7.2025 | [published](https://zenodo.org/records/16693320):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 31.07.2025 | [updated](https://github.com/jochen-hanisch/research): 01.08.2025 | [published](https://zenodo.org/records/16693320): 01.08.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Kollektive Reaktionsmuster im Schwarmverhalten. Eine systemtheoretische Rekonstruktion**
-
 
 # Kontext
 
