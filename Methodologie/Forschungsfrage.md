@@ -1,13 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Forschungsfrage und Operationalisierung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2024-10-02
 updated: 2024-10-02
 publish: false
-published:
+published: 
 tags:
   - Wissenschaftstheorie
   - "#Forschung"

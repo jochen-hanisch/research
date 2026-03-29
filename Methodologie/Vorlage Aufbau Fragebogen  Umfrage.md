@@ -3,11 +3,11 @@ author: Jochen Hanisch-Johannsen
 title: Vorlage Aufbau Fragebogen  Umfrage
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
-created:
-updated:
+Publication: 
+created: 
+updated: 
 publish: false
-published:
+published: 
 tags: []
 ---
 

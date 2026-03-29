@@ -3,11 +3,11 @@ author: Jochen Hanisch-Johannsen
 title: Systemisch-dynamische Analyse der Kompetenzentwicklung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2025-04-15
-updated:
+updated: 
 publish: false
-published:
+published: 
 tags:
   - Kompetenzentwicklung
   - Systemtheorie

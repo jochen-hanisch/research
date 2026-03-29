@@ -3,11 +3,11 @@ author: Jochen Hanisch-Johannsen
 title: LEGO® SERIOUS PLAY® – Beobachtung dritter Ordnung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2025-02-19
-updated:
+updated: 
 publish: false
-published:
+published: 
 tags:
   - Methode
   - LEGO_SERIOUS_PLAY

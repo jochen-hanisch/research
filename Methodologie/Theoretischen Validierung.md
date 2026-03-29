@@ -3,11 +3,11 @@ author: Jochen Hanisch-Johannsen
 title: Theoretische Validierung wissenschaftlicher Modelle
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2024-10-05
-updated:
+updated: 
 publish: false
-published:
+published: 
 tags:
   - Wissenschaftstheorie
   - "#Forschung"

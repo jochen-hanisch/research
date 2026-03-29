@@ -3,11 +3,11 @@ author: Jochen Hanisch-Johannsen
 title: Qualitative Metaanalyse
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2002-10-02
-updated:
+updated: 
 publish: false
-published:
+published: 
 tags:
   - Wissenschaftstheorie
   - "#Forschung"

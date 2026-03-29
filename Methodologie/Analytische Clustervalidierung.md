@@ -3,11 +3,11 @@ author: Jochen Hanisch-Johannsen
 title: Deduktiv-statistische Clustervalidierung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication:
+Publication: 
 created: 2024-11-24
 updated: 2024-11-24
 publish: false
-published:
+published: 
 tags:
   - "#Forschung"
   - "#Bildungsforschung"
