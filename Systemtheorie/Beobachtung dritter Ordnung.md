@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "**Beobachtung dritter Ordnung: Re-Entry als Motor der Selbsttransformation**"
 Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-10-31
 updated: 2025-11-22
 publish: true
+published: 
 tags:
   - Systemtheorie
   - Autopoiesis
@@ -14,12 +17,9 @@ tags:
   - "#Forschung"
   - "#Bildungswissenschaft"
   - "#Selbstorganisation"
-published:
-project: Systemtheorie
-GPT: true
 ---
 
-created: 31.10.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Beobachtung%20dritter%20Ordnung.md): 27.11.2024 | published: 27.11.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 31.10.2024 | [updated](https://github.com/jochen-hanisch/research): 22.11.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Beobachtung dritter Ordnung: Re-Entry als Motor der Selbsttransformation**
 

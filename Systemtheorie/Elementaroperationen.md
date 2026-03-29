@@ -1,7 +1,9 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Elementaroperationen: Eine systemtheoretisch-transdisziplinäre Analyse von Feedback, Reflexion und Re-entry als universelle Prinzipien dynamischer Systeme"
-Repository:
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/16174315
 created: 2024-12-13
 updated: 2025-07-19
 publish: true
@@ -16,6 +18,8 @@ tags:
   - Reflexion
   - Re-Entry
 ---
+
+created: 13.12.2024 | [updated](https://github.com/jochen-hanisch/research): 19.07.2025 | [published](https://zenodo.org/records/16174315): 10.01.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 createdt: 13.12.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Elementaroperationen.md): 19.7.2025 | [publishd](https://zenodo.org/records/16174315): 10.1.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) |  [[Hinweise]]
 

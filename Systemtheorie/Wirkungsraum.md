@@ -1,11 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Wirkungsraum
-project:
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-09-27
 updated: 2024-12-10
 publish: false
-publishd: 2024-11-26
+published: 
 tags:
   - Begriff
   - Definition
@@ -18,7 +20,7 @@ tags:
   - Wirkungsraum
 ---
 
-created: 27.09.2024 | updated: 26.11.2024 | published: 26.11.2024 | [[Hinweise]]
+created: 27.09.2024 | [updated](https://github.com/jochen-hanisch/research): 10.12.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 

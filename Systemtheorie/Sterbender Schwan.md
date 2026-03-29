@@ -1,17 +1,19 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Sterbender Schwan
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-11-20
 updated: 2024-11-25
 publish: true
+published: 2024-12-08
 tags:
   - Systemtheorie
   - Metaphern
-published: 2024-12-08
-project: []
-status: published
 ---
+
+created: 20.11.2024 | [updated](https://github.com/jochen-hanisch/research): 25.11.2024 | [published](): 08.12.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
  created: 20.11.2024 | updated: 25.11.2024 | published: 8.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
 
@@ -107,4 +109,4 @@ Die Metapher des sterbenden Schwans bietet ein wertvolles Werkzeug zur Analyse v
 
 ---
 
-#Methaphern #Systemtheorie 
+#Methaphern #Systemtheorie

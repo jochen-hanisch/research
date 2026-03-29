@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Systemtheoretischer Professionalisierungsansatz
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/16284826
 created: 2024-12-05
 updated: 2026-02-09
 publish: true
+published: 2024-12-27
 tags:
   - Professionalisierung
   - Systemtheorie
@@ -12,12 +15,9 @@ tags:
   - Entwicklungsdynamik
   - asymmetrisch
   - Kopplung
-published: 2024-12-27
-project: []
-GPT: true
 ---
 
-created: 05.12.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 9.1.2026 | [published](https://zenodo.org/records/16284826): 27.12.2024 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
+created: 05.12.2024 | [updated](https://github.com/jochen-hanisch/research): 09.02.2026 | [published](https://zenodo.org/records/16284826): 27.12.2024 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Systemtheoretischer Professionalisierungsansatz**
 

@@ -1,11 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Wirkungsgefüge, Wirkprinzip
-project: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-09-26
 updated: 
 publish: false
-publishd: 
+published: 
 tags:
   - Begriff
   - Definition
@@ -18,7 +20,7 @@ tags:
   - "#Komplexitätsverständnis"
 ---
 
-
+created: 26.09.2024 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 

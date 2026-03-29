@@ -1,20 +1,21 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Reentry - Ein zentraler Mechanismus für Lern- und Systemprozesse
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2024-12-06
 updated: 2024-12-06
-publish: []
+publish: false
+published: 
 tags:
   - Systemtheorie
   - Lernen
   - Reentry
   - Selbstreferenz
-published: 
-project: Systemlernen
-type:
-  - Wissenschaftliche Notiz
 ---
+
+created: 06.12.2024 | [updated](https://github.com/jochen-hanisch/research): 06.12.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 

@@ -1,9 +1,11 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Reflexion als interne Inversionsoperation
-Repository: https://github.com/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/17873058
 created: 2025-07-31
-updated: 2025-1209
+updated: 2025-12-09
 publish: true
 published: 2025-01-10
 tags:
@@ -18,7 +20,7 @@ tags:
   - Elementaroperationen
 ---
 
-created: 31.7.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Reflexion.md): 9.12.2025 | [publishd](https://zenodo.org/records/17873058): 9.12.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 31.07.2025 | [updated](https://github.com/jochen-hanisch/research): 09.12.2025 | [published](https://zenodo.org/records/17873058): 10.01.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Reflexion als interne Inversionsoperation**
 

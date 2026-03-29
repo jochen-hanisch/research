@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Strukturelle Entkopplung als Anpassungsmechanismus in Bildung und Organisation
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/16936194
 created: 2024-10-26
 updated: 2025-08-24
 publish: true
+published: 2025-05-13
 tags:
   - Systemtheorie
   - Forschung
@@ -12,12 +15,9 @@ tags:
   - Bildungswissenschaft
   - Kognition
   - Anpassungsmechanismen
-published: 2025-05-13
-project: Systemtheorie
-GPT: true
 ---
 
-created: 26.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 24.8.2025 | [published](https://zenodo.org/records/16936194): 27.10.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 26.10.2024 | [updated](https://github.com/jochen-hanisch/research): 24.08.2025 | [published](https://zenodo.org/records/16936194): 13.05.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Strukturelle Entkopplung als Anpassungsmechanismus in Bildung und Organisation**
 # Einleitung

@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Systemsimulation: Ein Paradigmenwechsel durch Typisierung, Qualifizierung und Modellierung - Systemtheoretische Ansätze zur Simulation lebender, psychischer, sozialer und emergenter [[Systeme]]"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/15826463
 created: 2024-11-07
 updated: 2025-07-07
 publish: true
+published: 2025-02-02
 tags:
   - Systemtheorie
   - Forschung
@@ -15,12 +18,9 @@ tags:
   - "#Kommunikation"
   - "#Technik"
   - Simulation
-published: 2025-02-02
-project: Systemtheorie
-GPT: true
 ---
 
-created: 26.10.2024 | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Systemsimulation.md): 7.7.2025 | [published](https://zenodo.org/records/15826463): 7.7.2025 | [[Hinweise]]
+created: 07.11.2024 | [updated](https://github.com/jochen-hanisch/research): 07.07.2025 | [published](https://zenodo.org/records/15826463): 02.02.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Systemsimulation: Ein Paradigmenwechsel durch Typisierung, Qualifizierung und Modellierung - Systemtheoretische Ansätze zur Simulation lebender, psychischer, sozialer und emergenter Systeme**
 
@@ -1692,4 +1692,4 @@ Der Entwicklungsprozess führte zu einem **neuen, systematischen Ansatz** für
 
 ---
 
-#Systemtheorie #Forschung #Bildungswissenschaft #Kognition #Simulation #Systemsimulation #Autopoiesis #Kommunikation #Technik 
+#Systemtheorie #Forschung #Bildungswissenschaft #Kognition #Simulation #Systemsimulation #Autopoiesis #Kommunikation #Technik

@@ -1,16 +1,18 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: "Interdependenz: Definition und Herleitung auf systemtheoretischer Grundlage Herrmann Haken"
-author: Jochen Hanisch
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: 
 created: 2025-01-28
 updated: 2025-01-28
 publish: false
-publishd: 2025-05-06
+published: 
 tags:
   - Dynamische
-status: post
 ---
 
-created: 28.1.2025 | updated: 28.1.2025 | publishd: | [[Hinweise]]
+created: 28.01.2025 | [updated](https://github.com/jochen-hanisch/research): 28.01.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Interdependenz: Definition und Herleitung auf systemtheoretischer Grundlage Herrmann Haken**
 
