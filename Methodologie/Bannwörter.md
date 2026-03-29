@@ -1,3 +1,18 @@
+---
+author: Jochen Hanisch-Johannsen
+title: Bannwörter
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
+created:
+updated:
+publish: false
+published:
+tags: []
+---
+
+created:  | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 ## Allgemein verbotene Wörter
 
 Die folgende Tabelle zeigt allgemeine verbotene Wörter.
@@ -115,4 +130,4 @@ Dazu zählen auch Verniedlichungen. Diminutive, wie -chen oder -lein, sollten in
 # Quelle(n)
 
 - https://www.bachelorprint.de/wissenschaftliches-schreiben/verbotene-woerter-wissenschaftliche-arbeit/#1663766065358-0601d39f-6e99
-- 
+-

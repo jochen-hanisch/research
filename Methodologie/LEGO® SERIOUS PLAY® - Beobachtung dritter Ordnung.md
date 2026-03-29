@@ -1,17 +1,20 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: LEGO® SERIOUS PLAY® – Beobachtung dritter Ordnung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-02-19
 updated:
 publish: false
+published:
 tags:
   - Methode
   - LEGO_SERIOUS_PLAY
   - Beobachtung_dritter_Ordnung
 ---
 
-created:  | [updated](https://github.com/jochen-hanisch/research/blob/main/Systemtheorie/Operationalisierung%20der%20Beobachtung%20dritter%20Ordnung.md):  | [published](https://github.com/jochen-hanisch/research/discussions):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4):  | [[Hinweise]]
-
-
+created: 19.02.2025 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 Dieser Platzhalter sammelt das Mess- und Auswertungsdesign für die Operationalisierung der Beobachtung dritter Ordnung mittels LEGO® SERIOUS PLAY®.
 

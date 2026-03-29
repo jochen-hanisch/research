@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: "Epistemolismus denken: Zur Sichtbarmachung wissenschaftlicher Prozesse in versionierten Erkenntnisräumen"
-Repository: methodologie
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-06-08
 updated: 2025-06-09
 publish: true
+published:
 tags:
   - "#Forschung"
   - "#Bildungswissenschaft"
@@ -14,10 +17,9 @@ tags:
   - Sichtbarkeit
   - Dynamik
   - Gestaltung
-published: []
 ---
 
-created: 16.11.2024 | [updated]() | [publishd]() | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 08.06.2025 | [updated](https://github.com/jochen-hanisch/research): 09.06.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Epistemolismus denken: Zur Sichtbarmachung wissenschaftlicher Prozesse in versionierten Erkenntnisräumen**
 
@@ -490,4 +492,3 @@ Der vorliegende Text stellt keinen abgeschlossenen Zustand dar. Er markiert eine
 - Ziebarth, Stefan. (2019). _Reflexivität und Subjektkonstitution in E-Portfolios_. Beltz Juventa.
 
 ----
-

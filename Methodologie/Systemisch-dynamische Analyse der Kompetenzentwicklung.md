@@ -1,15 +1,22 @@
 ---
+author: Jochen Hanisch-Johannsen
 title: Systemisch-dynamische Analyse der Kompetenzentwicklung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-04-15
+updated:
+publish: false
+published:
 tags:
   - Kompetenzentwicklung
   - Systemtheorie
   - Bildungswirkgefüge
   - Visualisierung
   - Spiralmodell
-publish: false
-status: draft
 ---
+
+created: 15.04.2025 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 🧩 Kompetenzentwicklung jenseits von Fibonacci
 

@@ -1,9 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Fragebogen
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-02
 updated: 2024-10-02
-due: 
+publish: false
+published:
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -15,13 +19,10 @@ tags:
   - "#Datenerhebung"
   - "#Gütekriterien"
   - Empirie
-project: Wirkgefüge im digitalen Bildungsraum
-type:
-  - Methodische Notiz
-priority: hoch
-status: in-progress
-publish: false
 ---
+
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 02.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 Ein Fragebogen ist ein systematisch konzipiertes Instrument zur **Datenerhebung**, das aus einer strukturierten Abfolge von Fragen oder Items besteht und auf die Erfassung bestimmter Merkmale, Einstellungen oder Verhaltensweisen abzielt. Ziel eines Fragebogens ist es, standardisierte Daten zu erheben, die anschließend quantitativ oder qualitativ ausgewertet werden können. Ein gut konzipierter Fragebogen muss den Kriterien der **Objektivität, Validität** und **Reliabilität** entsprechen, um aussagekräftige und verallgemeinerbare Ergebnisse zu liefern.
 

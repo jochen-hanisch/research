@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Theoretische Validierung wissenschaftlicher Modelle
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-05
-updated: 
+updated:
+publish: false
+published:
 tags:
   - Wissenschaftstheorie
   - "#Forschung"
@@ -12,11 +17,10 @@ tags:
   - "#Kognition"
   - "#Kohärenzprüfung"
   - Dissertation
-project: Wirkgefüge im digitalen Bildungsraum
-type:
-  - Methodische Notiz
-publish: false
 ---
+
+created: 05.10.2024 | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der Begriff **theoretische Validierung** beschreibt das wissenschaftliche Vorgehen, bei dem die interne Konsistenz, Kohärenz und Logik einer Theorie oder eines Modells überprüft wird (Krohn & Küppers, 1992). Dabei werden keine empirischen Daten verwendet, sondern der Fokus liegt auf der Überprüfung der strukturellen Integrität der Argumentation, der formalen Korrektheit der verwendeten Modelle sowie der logischen Verknüpfung zwischen den theoretischen Konzepten (Popper, 1974).

@@ -1,3 +1,18 @@
+---
+author: Jochen Hanisch-Johannsen
+title: Vorlage Aufbau Fragebogen  Umfrage
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
+created:
+updated:
+publish: false
+published:
+tags: []
+---
+
+created:  | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 #Research #Projekt #Vorlage
 
 ## Struktur von Umfragen und Fragebögen
@@ -6,11 +21,19 @@
 Der erste Abschnitt zeigt die übergeordneten Strukturelemente von Fragebögen. Jeder Fragebogen muss spezifisch für die Forschungsziele konstruiert sein, damit er auch die benötigte Information liefert. Häufig setzt man Fragebögen ein, um Persönlichkeitsmerkmale, Einstellungen oder Verhaltensweisen zu erfassen.
 Fragebögen sind meist aus folgenden übergeordneten Strukturelementen aufgebaut:
 </p>
-1. Einleitung und Beschreibung der Zielsetzung der Befragung. Dieser Teil hat die Aufgabe zur Teilnahme zu motivieren und Vertrauen herzustellen. Hier ist das Kapitel zur Kontaktaufnahme mit Befragten essentiell.
-2. Anleitung zum Ausfüllen (Instruktion). Der Teil stellt sicher, dass die Teilnehmer wissen, wie sie sich verhalten sollen und die Fragen richtig beantworten. Dabei sollte knapp und klar dargestellt sein, wie der Bogen aufgebaut ist und die Fragen beantwortet werden sollten. Am besten mit einem Beispiel.
-3. Thematisch gegliederter Hauptteil. Dieser Teil ist das eigentliche Herz des Fragebogens, der allerdings ohne die anderen Punkte nicht funktioniert – ähnlich wie für einen lebenden Körper mehrere Organe außer dem Herzen notwendig sind. Hierfür ist insbesondere das Kapitel zur Gestaltung von Fragen bedeutsam.
-4. Fragen zur Person (soziodemografische Angaben). Diese Fragen – etwa in welcher Abteilung jemand arbeitet, welches Geschlecht er hat usw. – sind meist sensibler und sollten daher nicht gleich zu Beginn gestellt werden, da sie sonst Befragte abschrecken können.
-5. Am Ende Platz für Anmerkungen und Dank für die Teilnahme. Ein offenes Textfeld hat sich hier bewährt, da einige Teilnehmer noch eine Anmerkung loswerden wollen oder ihnen ein Fehler aufgefallen ist. Mitunter besteht hier auch die Option Daten für die Teilnahme an einem Gewinnspiel anzugeben oder sich für weitere Befragungen als Interessent zu registrieren.
+1. Einleitung und Beschreibung der Zielsetzung der Befragung.
+Dieser Teil hat die Aufgabe zur Teilnahme zu motivieren und Vertrauen herzustellen.
+Hier ist das Kapitel zur Kontaktaufnahme mit Befragten essentiell.
+2. Anleitung zum Ausfüllen (Instruktion).
+Der Teil stellt sicher, dass die Teilnehmer wissen, wie sie sich verhalten sollen und die Fragen richtig beantworten. Dabei sollte knapp und klar dargestellt sein, wie der Bogen aufgebaut ist und die Fragen beantwortet werden sollten.
+Am besten mit einem Beispiel.
+3. Thematisch gegliederter Hauptteil.
+Dieser Teil ist das eigentliche Herz des Fragebogens, der allerdings ohne die anderen Punkte nicht funktioniert – ähnlich wie für einen lebenden Körper mehrere Organe außer dem Herzen notwendig sind. Hierfür ist insbesondere das Kapitel zur Gestaltung von Fragen bedeutsam.
+4. Fragen zur Person (soziodemografische Angaben).
+Diese Fragen – etwa in welcher Abteilung jemand arbeitet, welches Geschlecht er hat usw. – sind meist sensibler und sollten daher nicht gleich zu Beginn gestellt werden, da sie sonst Befragte abschrecken können.
+5. Am Ende Platz für Anmerkungen und Dank für die Teilnahme.
+Ein offenes Textfeld hat sich hier bewährt, da einige Teilnehmer noch eine Anmerkung loswerden wollen oder ihnen ein Fehler aufgefallen ist.
+Mitunter besteht hier auch die Option Daten für die Teilnahme an einem Gewinnspiel anzugeben oder sich für weitere Befragungen als Interessent zu registrieren.
 
 <p style="text-align:justify;margin:0">Der nächste Abschnitt zeigt an einem Beispiel, wie man den Aufbau von Fragebögen visualisieren kann.
 </p>
@@ -45,7 +68,8 @@ Diese Umfrage wird durch folgenden Auftragnehmer ausgewertet: (Name einfügen). 
 ## **Einverständniserklärung zum Interview** 
 Forschungsprojekt: 
 Durchführende Institution: Projektleitung/Datenschutz: Interviewer_in: Interviewdatum: Interviewkürzel: 
-Qualifizierung für eine inklusive, allgemeine Erwachsenenbildung am Beispiel von Blindheit und Sehbeeinträchtigung - iQ_EB Philipps-Universität Marburg 
+Qualifizierung für eine inklusive, allgemeine Erwachsenenbildung am Beispiel von Blindheit und Sehbeeinträchtigung - iQ_EB
+Philipps-Universität Marburg 
 Prof. Dr. Seitter, Dr. Lauber-Pohle ___________________________ ___________________________ ___________________________ 
 Ich erkläre mich dazu bereit, im Rahmen des genannten Forschungsprojekts an einem Interview teilzunehmen. Ich wurde über das Ziel und den Verlauf des Forschungsprojekts informiert. 
 Ich bin damit einverstanden, dass das Interview mit einem Aufnahmegerät aufgezeichnet und durch ein Schreibbüro in Schriftform gebracht wird. Die Audiodateien werden unter einem Token gespeichert und zum Projektende am 30.11.2020 gelöscht. Die Transkripte der Interviews werden anonymisiert, d.h. ohne Namen und Personenangaben gespeichert. Die wissenschaftliche Auswertung des Interviewtextes erfolgt durch Mitarbeiter_innen des Projekts iQ_EB. Sowohl die Mitarbeiter_innen des Schreibbüros als auch die Mitarbeiter_innen des Projekts wurden auf das Datengeheimnis verpflichtet. Die Philipps-Universität Marburg arbeitet nach den Vorschriften der Datenschutz-Grundverordnung (DS-GVO), des Bundesdatenschutzgesetzes (BDSG (neu) 2018) vom 25.05.2018 und des Hessischen Datenschutz- und Informationsfreiheitsgesetzes (HDSIG) vom 03.05.2018 sowie allen anderen datenschutzrechtlichen Bestimmungen. 

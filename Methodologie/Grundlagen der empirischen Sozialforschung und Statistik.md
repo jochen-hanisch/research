@@ -1,3 +1,18 @@
+---
+author: Jochen Hanisch-Johannsen
+title: Grundlagen der empirischen Sozialforschung und Statistik
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
+created:
+updated:
+publish: false
+published:
+tags: []
+---
+
+created:  | [updated](https://github.com/jochen-hanisch/research):  | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 **Günter Hohlfeld**
 
 ## **Die empirische Übersetzung eines Forschungsproblems**
@@ -12,7 +27,12 @@ Die dimensionale Analyse eines Sachverhalts wird in vier Schritten durchgeführt
 | **Systematisierung der Dimensionen** | Im zweiten Schritt sollten die gefundenen Dimensionen geordnet wer- den, um einen Überblick über die Komplexität des Gegenstandes zu erlangen. Durch die Systematisierung werden auch eventuelle Lücken aufgedeckt. Es sind unterschiedliche Ordnungskriterien denk- bar:
 a) Ordnung nach Ursachen und Wirkungen b) Ordnung vom Allgemeinen zum Speziellen c) Ordnung in Form eines zeitlichen Ablaufs |
 | **Auswahl der relevan- ten Dimensionen** | Nicht alle gesammelten Dimensionen sind im Rahmen der Fragestel- lung gleich wichtig. Deswegen müssen nun die relevanten Dimensio- nen ausgewählt werden. Eine Dimension ist dann relevant, wenn ihre Untersuchung Informationen liefert, ohne die die Fragestellung nicht erschöpfend oder angemessen beantwortet werden kann. |
-| **Entwicklung eines de- skriptiven Schemas** | Wenn die bisher verwendeten sprachlichen Bezeichnungen noch zu unklar für die ausgewählten Dimensionen sind, dann müssen diese Bezeichnungen verbessert, d. h. präzisiert werden. Üblicherweise ver- sucht man dann, das empirische Phänomen mit Begriffen zu beschrei- ben. Die Gesamtheit dieser Begriffe bildet das deskriptive Schema. Das deskriptive Schema umfasst also alle Begriffe, die not- wendig sind, um den Sachverhalt in der Untersuchung erschöpfend zu beschreiben. |
+| **Entwicklung eines de- skriptiven Schemas** | Wenn die bisher verwendeten sprachlichen Bezeichnungen noch zu
+unklar für die ausgewählten Dimensionen sind, dann müssen diese Bezeichnungen verbessert, d. h. präzisiert werden. Üblicherweise ver-
+sucht man dann, das empirische Phänomen mit Begriffen zu beschrei-
+ben. Die Gesamtheit dieser Begriffe bildet das deskriptive
+Schema. Das deskriptive Schema umfasst also alle Begriffe, die not-
+wendig sind, um den Sachverhalt in der Untersuchung erschöpfend zu beschreiben. |
 
 
 
