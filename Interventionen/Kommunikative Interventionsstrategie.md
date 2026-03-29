@@ -1,15 +1,17 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: KITS – Kommunikative Interventionsstrategie in toxischen Gesprächen
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-03-01
 updated: 2025-03-01
-tags: 
-project: 
 publish: false
-publishd:
+published:
+tags: []
 ---
 
-created: 1.3.2025 | updated: 1.3.2025 | [publishd]():  | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 01.03.2025 | [updated](https://github.com/jochen-hanisch/research): 01.03.2025 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **KITS – Kommunikative Interventionsstrategie in toxischen Gesprächen**
 
@@ -222,4 +224,3 @@ KITS kann in verschiedenen Bereichen eingesetzt werden, darunter:
 - Rosenberg, M. B. (1999). Nonviolent communication: A language of life. PuddleDancer Press.
 - Luhmann, N. (1984). Soziale Systeme. Suhrkamp.
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. _Cognitive Science, 12_(2), 257–285.
-

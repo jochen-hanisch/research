@@ -1,11 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Der GPT "Kompetenzziel-Generator"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/19323146
 created: 2025-01-20
 updated: 2025-01-20
 publish: true
-published: 2025-01-20
+published: 2026-03-29
 tags:
   - Bildung
   - Lernprozess
@@ -20,7 +22,7 @@ tags:
   - Didaktik
 ---
 
-created: 20.1.2025 | updated: 20.1.2025 (https://github.com/jochen-hanisch/research/blob/main/Interventionen/Kompetenzziel-Generator.md)| [publishd](https://www.researchgate.net/publication/388195316_Der_GPT_Kompetenzziel-Generator): 20.1.2025 | [[Hinweise]]
+created: 20.01.2025 | [updated](https://github.com/jochen-hanisch/research): 20.01.2025 | [published](https://zenodo.org/records/19323146): 29.03.2026 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Der GPT "Kompetenzziel-Generator"**
 

@@ -1,15 +1,17 @@
 ---
 author: Jochen Hanisch-Johannsen
-title:
-Repository:
+title: Lernprozess-Codon
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication: https://zenodo.org/records/###
 created: 2025-12-10
 updated: 2025-12-10
 publish: false
 published:
-tags:
+tags: []
 ---
 
-created: 10.12.2025 | [updated](https://github.com/jochen-hanisch/research/blob/main/Interventionen/Lernprozess-Codon.md): 10.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 10.12.2025 | [updated](https://github.com/jochen-hanisch/research): 10.12.2025 | [published](https://zenodo.org/records/###):  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # Einleitung
 

@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Dreidimensionales Reflexionsnetzwerk zur Analyse professionellen Handelns in Ausbildung und Prüfung: Ein Marker-basiertes Modell zur Verbindung von Handlungskontext, Reflexionsdimension und Zeitverlauf"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-06-07
 updated: 2025-06-07
 publish: true
+published: 2025-06-07
 tags:
   - reflexion
   - beobachtung
@@ -19,12 +22,9 @@ tags:
   - lernprozess
   - modellierung
   - qualitativ
-published: 2025-06-07
-project: Interventionen
-GPT: true
 ---
 
-created: 7.6.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 7.6.2025 | published: 7.6.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) |  [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
+created: 07.06.2025 | [updated](https://github.com/jochen-hanisch/research): 07.06.2025 | [published](): 07.06.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Dreidimensionales Reflexionsnetzwerk zur Analyse professionellen Handelns in Ausbildung, Prüfung und Tätigkeit**
 _Ein Marker-basiertes Modell zur Verbindung von Handlungskontext, Reflexionsdimension und Zeitverlauf_
