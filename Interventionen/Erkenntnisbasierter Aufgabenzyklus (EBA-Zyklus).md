@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: "Erkenntnisbasierter Aufgabenzyklus: EBA-Zyklus"
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-09-29
 updated: 2024-11-26
 publish: true
+published:
 tags:
   - Bildung
   - "#Lernprozess"
@@ -13,12 +16,9 @@ tags:
   - "#Konstruktivismus"
   - "#Reflexion"
   - "#EBA-Zyklus"
-published: []
-project: Interventionen
-GPT: true
 ---
 
-created: 29.09.2024 | updated: 26.11.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 29.09.2024 | [updated](https://github.com/jochen-hanisch/research): 26.11.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 
