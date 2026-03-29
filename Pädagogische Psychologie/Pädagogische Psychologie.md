@@ -1,9 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Pädagogische Psychologie
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-02
 updated: 2024-10-02
-due: 
+publish: false
+published:
 tags:
   - Lernen
   - Lehren
@@ -17,12 +21,6 @@ tags:
   - "#Lernmethoden"
   - "#Lehrstrategien"
   - "#Psychodynamik"
-project: Bildungsforschung
-type:
-  - Wissenschaftliche Notiz
-priority: hoch
-status: in-progress
-publish: false
 ---
 
 # 1 Definition

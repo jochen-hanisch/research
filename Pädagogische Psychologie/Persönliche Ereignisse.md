@@ -1,8 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Persönliche Ereignisse (PE)
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-10
 updated: 2024-10-10
+publish: false
+published:
 tags:
   - Kompetenzentwicklung
   - Unsicherheit
@@ -13,10 +18,6 @@ tags:
   - "#Lernprozess"
   - "#Persönliche_Ereignisse"
   - "#Lernmotivation"
-project: Kompetenzentwicklungsunsicherheit
-type:
-  - Wissenschaftliche Notiz
-publish: false
 ---
 
 # 1 Definition

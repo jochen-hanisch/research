@@ -1,9 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Bindung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2002-10-02
 updated: 2002-10-02
-due: 10.10.2024
+publish: false
+published:
 tags:
   - Bindung
   - Psychologie
@@ -15,14 +19,6 @@ tags:
   - "#Psychologie"
   - "#Bindungsforschung"
   - "#Bindungsmuster"
-project: Entwicklungspsychologie
-type:
-  - Wissenschaftliche Notiz
-  - Aufgabe
-priority: hoch
-status: open
-publish: false
-task: Vervollständigung der Definition und Einordnung des Begriffs 'Bindung' unter Berücksichtigung aktueller Forschungsergebnisse.
 ---
 
 # 1 Definition

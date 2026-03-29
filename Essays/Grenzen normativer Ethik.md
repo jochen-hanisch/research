@@ -1,15 +1,17 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Über die ethische Konstruktion systemtheoretischer Profession
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2026-02-09
 updated: 2026-02-09
 publish: false
-tags:
-published: 
+published:
+tags: []
 ---
 
-created: 9.2.2026 | [updated](https://github.com/jochen-hanisch/research/blob/main/Essays/Grenzen%20normativer%20Ethik.md): 9.2.2026 | [published](https://zenodo.org/records/ | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 09.02.2026 | [updated](https://github.com/jochen-hanisch/research): 09.02.2026 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 
 # Über die ethische Konstruktion systemtheoretischer Profession

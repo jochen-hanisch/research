@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Harry Potter und die Entzauberung eines nie gewesenen Helden unter systemtheoretisch-literaturanalytischer Episteminologenese
-Repository: https://git.jochen-hanisch.de/jochen-hanisch/research/
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2025-07-13
 updated: 2025-07-14
 publish: true
+published: 2025-07-15
 tags:
   - "#Literatur/HarryPotter"
   - "#Epistemologie/Entzauberung"
@@ -12,10 +15,9 @@ tags:
   - "#Systemtheorie"
   - "#Literaturwissenschaft/Literaturanalyse"
   - "#Erkenntnistheorie"
-published: 2025-07-15
 ---
 
-created: 13.7.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research/): 14.7.2025 | [published](https://zenodo.org/records/15918779): 15.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 13.07.2025 | [updated](https://github.com/jochen-hanisch/research): 14.07.2025 | [published](https://zenodo.org/records/15918779): 15.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Harry Potter und die Entzauberung eines nie gewesenen Helden unter systemtheoretisch-literaturanalytischer Episteminologenese**
 
@@ -428,4 +430,3 @@ Der Ausblick ist daher doppelt. Einerseits lädt er zur Relektüre bekannter fik
 ---
 
 #Literatur/HarryPotter #Epistemologie/Entzauberung #Figurentheorie/Kommunikationsfigur #Systemtheorie #Literaturwissenschaft/Literaturanalyse #Erkenntnistheorie
-

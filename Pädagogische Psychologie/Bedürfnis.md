@@ -1,10 +1,13 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: "Bedürfnis als Differenz: Eine systemisch-schematherapeutische Rekonstruktion"
-Repository:
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-01
 updated: 2025-10-12
 publish: true
+published: 2025-07-24
 tags:
   - Bedürfnis
   - Theorieintegration
@@ -18,11 +21,9 @@ tags:
   - Professionalisierung
   - Forschung
   - Strukturmodell
-published: 2025-07-24
-project: Pädagogische Psychologie
 ---
 
-created: 01.10.2024 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/research): 12.10.2025 | [published](https://zenodo.org/records/16413805): 24.7.2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise|Hinweise]]
+created: 01.10.2024 | [updated](https://github.com/jochen-hanisch/research): 12.10.2025 | [published](https://zenodo.org/records/16413805): 24.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Bedürfnis als Differenz: Eine systemisch-schematherapeutische Rekonstruktion**
 

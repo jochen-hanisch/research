@@ -1,10 +1,13 @@
 ---
-author: Jochen Hanisch
+author: Jochen Hanisch-Johannsen
 title: Neugier-Tensor
-Repository: 
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2024-10-05
 updated: 2024-12-03
 publish: true
+published:
 tags:
   - "#Neugier"
   - "#Bildungsraum"
@@ -14,11 +17,9 @@ tags:
   - "#Neugier-Tensor"
   - "#Lernlandschaft"
   - "#Motivationsdynamik"
-published: []
-project: Wirkgefüge im digitalen Bildungsraum
 ---
 
-created: 05.10.2024 | updated 03.12.2024 | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 05.10.2024 | [updated](https://github.com/jochen-hanisch/research): 03.12.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 # 1 Definition
 
