@@ -23,6 +23,8 @@ tags:
   - "#Psychodynamik"
 ---
 
+created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 02.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 Die Pädagogische Psychologie ist ein eigenständiges, empirisches Fachgebiet zur theoriegeleiteten Betrachtung von Fragen, Inhalten und Ergebnissen der inter- und intrapersonalen Determinanten im Erleben, Verhalten, Empfinden und Handeln innerhalb deklarativer und prozessualer Lehr-/Lern-Kontexte. Sie untersucht, wie Menschen lernen, unter welchen Bedingungen Lernprozesse gefördert oder gehemmt werden und welche Faktoren den Erfolg von Lehr- und Lernprozessen beeinflussen (Brünken, Münzer & Spinath, 2019).
 

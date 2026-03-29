@@ -20,6 +20,8 @@ tags:
   - "#Lernmotivation"
 ---
 
+created: 10.10.2024 | [updated](https://github.com/jochen-hanisch/research): 10.10.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+
 # 1 Definition
 
 Der Begriff persönliche Ereignisse (PE) wird in der Bildungsforschung, Psychologie und Systemtheorie verwendet, um individuell erlebte, subjektiv bedeutsame Erfahrungen zu beschreiben, die starke emotionale Reaktionen auslösen und somit die persönliche Entwicklung und das Verhalten eines Individuums nachhaltig beeinflussen. Solche Ereignisse zeichnen sich durch ihre tiefgreifende emotionale Bedeutung aus und haben direkte Auswirkungen auf das Selbstbild, die Motivation und die Bereitschaft zur Weiterentwicklung von Kompetenzen. Sie können sowohl positiv als auch negativ sein und betreffen dabei zentrale Aspekte der emotionalen und kognitiven Stabilität eines Individuums (Deci & Ryan, 1985; Bandura, 1997).
