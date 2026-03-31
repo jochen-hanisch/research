@@ -8,6 +8,10 @@ created: 2025-04-03
 updated: 2025-04-03
 publish: true
 published: 2025-04-04
+status:
+priority:
+project:
+due:
 tags:
   - Elementarkommunikation
   - Emergenz

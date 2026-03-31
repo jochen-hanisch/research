@@ -8,6 +8,10 @@ created: 2025-07-31
 updated: 2025-08-01
 publish: true
 published: 2025-08-01
+status:
+priority:
+project:
+due:
 tags:
   - Elementaroperationen
   - Lernen

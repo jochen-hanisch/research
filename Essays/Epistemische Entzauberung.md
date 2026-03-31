@@ -8,6 +8,10 @@ created: 2025-07-13
 updated: 2025-07-14
 publish: true
 published: 2025-07-15
+status:
+priority:
+project:
+due:
 tags:
   - "#Literatur/HarryPotter"
   - "#Epistemologie/Entzauberung"

@@ -8,6 +8,10 @@ created: 2024-11-17
 updated: 2024-11-18
 publish: true
 published: 
+status:
+priority:
+project:
+due:
 tags:
   - Notfallmedizin
   - Systemtheorie

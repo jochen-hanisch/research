@@ -8,6 +8,10 @@ created: 2025-09-08
 updated: 2025-09-09
 publish: true
 published: 
+status:
+priority:
+project:
+due:
 tags: []
 ---
 

@@ -8,6 +8,10 @@ created: 2024-10-02
 updated: 2025-07-30
 publish: true
 published: 2025-06-08
+status:
+priority:
+project:
+due:
 tags:
   - Lernen
   - Rhetorik

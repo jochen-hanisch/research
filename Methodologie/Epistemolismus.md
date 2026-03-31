@@ -8,6 +8,10 @@ created: 2025-06-08
 updated: 2025-06-09
 publish: true
 published: 
+status:
+priority:
+project:
+due:
 tags:
   - "#Forschung"
   - "#Bildungswissenschaft"

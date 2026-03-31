@@ -8,6 +8,10 @@ created: 2024-11-16
 updated: 2025-06-08
 publish: true
 published: 2025-05-11
+status:
+priority:
+project:
+due:
 tags:
   - "#Dissertation"
   - "#Bildungswissenschaft"

@@ -8,6 +8,10 @@ created: 2025-07-31
 updated: 2025-12-09
 publish: true
 published: 2025-01-10
+status:
+priority:
+project:
+due:
 tags:
   - Reflexion
   - Lernen

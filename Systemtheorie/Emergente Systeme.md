@@ -8,6 +8,10 @@ created: 2024-11-02
 updated: 2024-12-31
 publish: true
 published: 2024-12-31
+status:
+priority:
+project:
+due:
 tags:
   - Systemtheorie
   - [[Emergenz]]

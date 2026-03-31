@@ -8,6 +8,10 @@ created: 2024-11-20
 updated: 2024-11-25
 publish: true
 published: 2024-12-08
+status:
+priority:
+project:
+due:
 tags:
   - Systemtheorie
   - Metaphern
