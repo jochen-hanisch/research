@@ -8,6 +8,10 @@ created: 2025-05-05
 updated: 2025-05-05
 publish: true
 published: 
+status:
+priority:
+project:
+due:
 tags:
   - Wissenschaftssprache
   - Begriffsklärung

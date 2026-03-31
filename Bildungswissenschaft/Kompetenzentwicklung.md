@@ -8,6 +8,10 @@ created: 2024-09-29
 updated: 2025-08-05
 publish: true
 published: 
+status:
+priority:
+project:
+due:
 tags:
   - "#Adaption"
   - "#Architektur"

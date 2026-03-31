@@ -8,6 +8,10 @@ created: 2025-01-10
 updated: 2024-12-11
 publish: true
 published: 2025-01-11
+status:
+priority:
+project:
+due:
 tags:
   - "#Kompetenzziele"
   - "#Lernen"
