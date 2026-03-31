@@ -8,10 +8,6 @@ created: 2025-01-09
 updated: 2025-04-11
 publish: true
 published: 2025-04-15
-status:
-priority:
-project:
-due:
 tags:
   - Forschung
   - Bildungswissenschaft

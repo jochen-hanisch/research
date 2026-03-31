@@ -8,10 +8,6 @@ created: 2026-02-21
 updated: 2026-02-22
 publish: true
 published: 2026-02-22
-status:
-priority:
-project:
-due:
 tags:
   - Begriff
   - Definition

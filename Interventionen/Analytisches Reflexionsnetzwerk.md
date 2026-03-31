@@ -8,10 +8,6 @@ created: 2025-06-07
 updated: 2025-06-07
 publish: true
 published: 2025-06-07
-status:
-priority:
-project:
-due:
 tags:
   - reflexion
   - beobachtung

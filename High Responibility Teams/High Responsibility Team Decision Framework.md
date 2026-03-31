@@ -8,10 +8,6 @@ created: 2024-10-03
 updated: 2025-05-12
 publish: true
 published: 2024-11-28
-status:
-priority:
-project:
-due:
 tags:
   - Markov
   - Decision

@@ -8,10 +8,6 @@ created: 2025-01-21
 updated: 2025-01-21
 publish: true
 published: 2025-07-10
-status:
-priority:
-project:
-due:
 tags:
   - "#Elementarteams"
   - "#Feedback"

@@ -8,10 +8,6 @@ created: 2024-10-31
 updated: 2025-11-22
 publish: true
 published: 
-status:
-priority:
-project:
-due:
 tags:
   - Systemtheorie
   - Autopoiesis

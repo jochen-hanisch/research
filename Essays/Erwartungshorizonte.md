@@ -8,10 +8,6 @@ created: 2025-01-11
 updated: 2025-08-05
 publish: true
 published: 2025-08-05
-status:
-priority:
-project:
-due:
 tags:
   - Erwartungshorizonte
   - Reflexion

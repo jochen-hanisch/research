@@ -8,10 +8,6 @@ created: 2024-12-19
 updated: 2024-12-25
 publish: true
 published: 2024-12-27
-status:
-priority:
-project:
-due:
 tags:
   - Kommunikation
   - Systemtheorie

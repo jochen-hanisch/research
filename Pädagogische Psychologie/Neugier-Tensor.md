@@ -8,10 +8,6 @@ created: 2024-10-05
 updated: 2024-12-03
 publish: true
 published:
-status:
-priority:
-project:
-due:
 tags:
   - "#Neugier"
   - "#Bildungsraum"
