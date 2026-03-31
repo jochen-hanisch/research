@@ -8,10 +8,6 @@ created: 2024-10-01
 updated: 2025-10-12
 publish: true
 published: 2025-07-24
-status:
-priority:
-project:
-due:
 tags:
   - Bedürfnis
   - Theorieintegration

@@ -8,10 +8,6 @@ created: 2024-11-30
 updated: 2024-12-31
 publish: true
 published: 2024-12-31
-status:
-priority:
-project:
-due:
 tags:
   - Simulation
   - Systemtheorie

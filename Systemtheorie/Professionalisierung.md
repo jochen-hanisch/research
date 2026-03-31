@@ -8,10 +8,6 @@ created: 2024-12-05
 updated: 2026-02-09
 publish: true
 published: 2024-12-27
-status:
-priority:
-project:
-due:
 tags:
   - Professionalisierung
   - Systemtheorie

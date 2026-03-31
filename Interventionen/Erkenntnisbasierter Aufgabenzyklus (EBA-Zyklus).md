@@ -8,10 +8,6 @@ created: 2024-09-29
 updated: 2024-11-26
 publish: true
 published:
-status:
-priority:
-project:
-due:
 tags:
   - Bildung
   - "#Lernprozess"

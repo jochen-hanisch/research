@@ -8,10 +8,6 @@ created: 2024-10-25
 updated: 2025-06-07
 publish: true
 published: 2025-05-20
-status:
-priority:
-project:
-due:
 tags:
   - "#Bildungswissenschaft"
   - "#Wissenschaftstheorie"

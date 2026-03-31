@@ -8,10 +8,6 @@ created: 2024-10-26
 updated: 2025-08-24
 publish: true
 published: 2025-05-13
-status:
-priority:
-project:
-due:
 tags:
   - Systemtheorie
   - Forschung

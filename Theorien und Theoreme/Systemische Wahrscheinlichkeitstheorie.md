@@ -8,10 +8,6 @@ created: 2025-03-31
 updated: 2025-04-08
 publish: true
 published: 2025-04-08
-status:
-priority:
-project:
-due:
 tags:
   - "#Elementarkommunikation"
   - "#Emergenz"
