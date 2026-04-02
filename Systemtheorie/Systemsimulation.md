@@ -8,15 +8,19 @@ created: 2024-11-07
 updated: 2025-07-07
 publish: true
 published: 2025-02-02
+status:
+priority:
+project:
+due:
 tags:
   - Systemtheorie
   - Forschung
   - Bildungswissenschaft
   - Kognition
-  - "#Systemsimulation"
-  - "#Autopoiesis"
-  - "#Kommunikation"
-  - "#Technik"
+  - Systemsimulation
+  - Autopoiesis
+  - Kommunikation
+  - Technik
   - Simulation
 ---
 

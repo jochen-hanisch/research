@@ -3,11 +3,15 @@ author: Jochen Hanisch-Johannsen
 title: "Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy"
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2025-01-26
 updated: 2025-01-26
 publish: true
 published: 2025-01-26
+status:
+priority:
+project:
+due:
 tags:
   - Systemtheorie
   - Emergenz

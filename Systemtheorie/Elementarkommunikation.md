@@ -3,11 +3,15 @@ author: Jochen Hanisch-Johannsen
 title: "Elementarkommunikation: Eine Eine systemtheoretisch-transdisziplinäre Analyse der [[Interdependenz]] von on [[Feedback]], [[Reflexion]] und Re-Entry"
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2024-12-19
 updated: 2024-12-25
 publish: true
 published: 2024-12-27
+status:
+priority:
+project:
+due:
 tags:
   - Kommunikation
   - Systemtheorie
