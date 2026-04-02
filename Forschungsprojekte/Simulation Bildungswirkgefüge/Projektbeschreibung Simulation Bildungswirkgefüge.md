@@ -1,16 +1,22 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Projektbeschreibung Simulation Bildungswirkgefüge
-Repository: https://github.com/jochen-hanisch/forschungsprojekte/tree/main/Kompetenzentwicklung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2026-03-10
 updated: 2026-03-10
 publish: true
+published:
+status:
+priority:
+project:
+due:
 tags:
   - Simulation
   - Bildungswirkgefüge
   - Kompetenzentwicklung
 ---
-
 # Projektbeschreibung: Simulation Bildungswirkgefüge
 
 ## Ausgangslage
