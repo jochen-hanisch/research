@@ -1,2 +1,0 @@
-- Aufgabe: Durchführung von Tests zur Überprüfung der Genauigkeit und Effektivität der Simulation. Dies umfasst sowohl Unit-Tests für einzelne Komponenten als auch Systemtests für die gesamte Anwendung.
-	- Ziel: Sicherstellung, dass die Simulation korrekt arbeitet und die lerntheoretischen Ansätze adäquat wiedergibt.
