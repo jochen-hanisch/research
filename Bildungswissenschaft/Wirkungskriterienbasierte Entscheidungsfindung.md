@@ -175,7 +175,7 @@ Die Förderung von Kompetenz erfordert eine Neuausrichtung der Ausbildungsinhalt
 
 Beispiele für Ausbildungsinhalte:
 
-1. [[Systemsimulation]] von Notfallszenarien mit Echtzeit-Feedback zu den Auswirkungen von Maßnahmen.
+1. Systemsimulation von Notfallszenarien mit Echtzeit-Feedback zu den Auswirkungen von Maßnahmen.
 2. Analyse von Fallstudien, um die Reflexionsfähigkeit zu stärken.
 3. Interaktive Übungen zur Bewertung von Wirkungskriterien und deren Anwendung auf klinische Entscheidungen.
 

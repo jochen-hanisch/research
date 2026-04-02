@@ -52,10 +52,10 @@ In der Perspektive der [[Systemintelligenz]] wird deutlich, dass der Schwarm nic
 
 Die Studie dient damit als verbindendes Glied zwischen drei zentralen Theoriebausteinen:
 
-- [[Elementaroperationen]]: Die beobachteten Reaktionssequenzen lassen sich strukturell als zyklische Folge von Feedback, Inversion, Reflexion, Re-Inversion und Re-entry deuten.
-- [[Elementarkommunikation]]: Die Anschlussfähigkeit des Systems basiert auf der Fähigkeit, Reaktionen nicht als Mitteilungen, sondern als operativ anschlussfähige Ereignisse zu verarbeiten – jede Reaktion erzeugt die Bedingung der nächsten.
-- [[Lernen als universelles Prinzip]]: Wiederholte Re-entry-Schleifen führen zu systemischer Strukturmodifikation und folglich zu einem Lernen ohne Repräsentation.
-- [[Systemintelligenz]]: Die Reaktionsmuster der Schwärme weisen auf eine emergente Intelligenz des Systems hin, verstanden als operative Selbstanpassung unter Umweltkomplexität.
+- Elementaroperationen: Die beobachteten Reaktionssequenzen lassen sich strukturell als zyklische Folge von Feedback, Inversion, Reflexion, Re-Inversion und Re-entry deuten.
+- Elementarkommunikation: Die Anschlussfähigkeit des Systems basiert auf der Fähigkeit, Reaktionen nicht als Mitteilungen, sondern als operativ anschlussfähige Ereignisse zu verarbeiten – jede Reaktion erzeugt die Bedingung der nächsten.
+- Lernen als universelles Prinzip: Wiederholte Re-entry-Schleifen führen zu systemischer Strukturmodifikation und folglich zu einem Lernen ohne Repräsentation.
+- Systemintelligenz: Die Reaktionsmuster der Schwärme weisen auf eine emergente Intelligenz des Systems hin, verstanden als operative Selbstanpassung unter Umweltkomplexität.
 
 Damit kann die Studie als exemplarisches Anwendungsfeld für die Gültigkeit und Verknüpfbarkeit der vier Theorieebenen herangezogen werden.
 

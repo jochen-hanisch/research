@@ -40,6 +40,8 @@ Das hier verfolgte Erkenntnisinteresse richtet sich auf die konzeptionelle Fassu
 
 Die Bezeichnung Analyse zweiter Ordnung soll eine generalisierbare, theorieoffene und zugleich methodologisch präzise Kategorie bezeichnen, die erlaubt, Analyseprozesse selbst zum Gegenstand wissenschaftlicher Untersuchung zu machen. Dabei geht es nicht lediglich um eine metatheoretische Betrachtung im Sinne reflexiver Methodenkritik, sondern um die systematische Analyse von Struktur, Logik, epistemischen Voraussetzungen und heuristischen Entscheidungen innerhalb bereits durchgeführter Analysen. Die Analyse zweiter Ordnung zielt damit auf eine epistemologisch fundierte Erweiterung des wissenschaftlichen Analysebegriffs und damit anschlussfähig sowohl an qualitative wie quantitative Forschungstraditionen, an menschliche wie maschinengestützte Verfahren, an klassisch-hermeneutische wie digital-automatisierte Erkenntnissysteme.
 
+Im `Research`-Raum verbindet diese Methode insbesondere [[KI-Analyse erster Ordnung]], [[Qualitative Metaanalyse]] und die theoretische Präzisierung einer [[Forschungsfrage]].
+
 # 1 Definition
 
 Eine Analyse zweiter Ordnung ist ein wissenschaftlich-methodischer Analyseprozess, der nicht auf ein Untersuchungsobjekt selbst, sondern auf bereits vorliegende Analysen dieses Objekts zielt, um deren Struktur, Logik, Inhalte und epistemische Voraussetzungen systematisch zu rekonstruieren und zu befragen.

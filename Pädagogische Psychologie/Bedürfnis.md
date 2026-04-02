@@ -57,11 +57,11 @@ Die einzelnen Elemente dieser Definition lassen sich wie folgt spezifizieren:
 
 Die einzelnen Grundbedürfnisse werden in separaten Notizen detailliert entfaltet und hier nur als Knoten eines gemeinsamen Funktionsraums referenziert. Diese Modularisierung hält das Modell flexibel, vermeidet Dopplungen und erlaubt, jede Bedarfslage mit eigenen Quellen, Beispielen und Methoden zu hinterlegen.
 
-- [[Bindung]]: Regulativ für Nähe, sichere Verbundenheit und Ko-Regulation
-- [[Kontrolle]]: Regulativ für Einflussnahme, Entscheidungsspielraum und Wirksamkeit
-- [[Selbstkontrolle]]: Regulativ für Impulssteuerung, Affektmodulation und Verantwortungsübernahme
-- [[Selbstwert]]: Regulativ für Spiegelung, Anerkennung und Statusbalance
-- [[Lust|Lustgewinn/Unlustvermeidung]]: Regulativ für Freude, Exploration sowie Schutz vor Überreizung und Schmerz
+- Bindung: Regulativ für Nähe, sichere Verbundenheit und Ko-Regulation
+- Kontrolle: Regulativ für Einflussnahme, Entscheidungsspielraum und Wirksamkeit
+- Selbstkontrolle: Regulativ für Impulssteuerung, Affektmodulation und Verantwortungsübernahme
+- Selbstwert: Regulativ für Spiegelung, Anerkennung und Statusbalance
+- Lustgewinn/Unlustvermeidung: Regulativ für Freude, Exploration sowie Schutz vor Überreizung und Schmerz
 
 Im Haupttext bleibt damit der funktionale Rahmen sichtbar, während die inhaltliche Ausarbeitung über Links in die jeweiligen Spezialnotizen ausgelagert wird.
 

@@ -19,7 +19,7 @@ tags:
   - Selbstorganisation
   - Interdisziplinarität
   - Dynamische
-  - [[Systeme]]
+  - Systeme
   - Nichtlinearität
   - Schwellenwerte
   - Mensch-KI-Interaktion
@@ -80,12 +80,12 @@ Emergenz bezeichnet die Operation, bei der in einem System durch die dynamische 
     - **Konfiguration:** Abhängigkeit von den Eigenschaften des Systems und der Art der Wechselwirkungen.
 
 9. Systemtyp
-- **„charakteristisch für hierarchisch organisierte, dynamische und offene [[Systeme]]“**:
+- **„charakteristisch für hierarchisch organisierte, dynamische und offene Systeme“**:
     - **Hierarchie:** Notwendigkeit einer Organisation, bei der höhere Ebenen aus Interaktionen auf niedrigeren Ebenen entstehen.
-    - **Offenheit:** [[Systeme]] sind nicht geschlossen, sondern stehen im Austausch mit ihrer Umwelt.
+    - **Offenheit:** Systeme sind nicht geschlossen, sondern stehen im Austausch mit ihrer Umwelt.
 
 10. Funktion
-- **„spiegelt die Fähigkeit dieser [[Systeme]] wider, komplexe Ganzheiten zu bilden“**:
+- **„spiegelt die Fähigkeit dieser Systeme wider, komplexe Ganzheiten zu bilden“**:
     - **Funktionalität:** Emergenz zeigt die Fähigkeit eines Systems, neue Strukturen oder Prozesse zu entwickeln.
     - **Komplexität:** Ziel ist die Erhöhung der Systemkomplexität und Anpassungsfähigkeit.
 

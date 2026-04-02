@@ -45,9 +45,9 @@ Reflexion ist die kleinste nicht weiter zerlegbare Operation, in der ein System 
 **Kleinster gemeinsamer Nenner (KGN):** interne Verarbeitung eines Differenzimpulses ([[Feedback]]) als Selbstbezug zweiter Ordnung; das System transformiert eigene Zustände/Operationen entlang seiner Struktur (vgl. [[Elementaroperationen]], [[Elementarkommunikation]]).
 
 **Größter gemeinsamer Teiler (GGT):** selbstreferenzieller Transformationszyklus zweiter Ordnung mit fünf invarianten Merkmalen:
-1. Differenzimpuls ([[Feedback]]) als Auslöser.  
-2. Interne Inversion/Bewertung entlang systemeigener Struktur ([[Reflexion]]).  
-3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation ([[Re-entry]]).  
+1. Differenzimpuls (Feedback) als Auslöser.  
+2. Interne Inversion/Bewertung entlang systemeigener Struktur (Reflexion).  
+3. Rückführung/Integration des transformierten Ergebnisses in laufende Operation (Re-entry).  
 4. Strukturkopplung: Zugriff auf eigene Struktur und Möglichkeit ihrer Modifikation.  
 5. Persistenz: Das System verhält sich danach anders (Lernen/Anpassung).
 
@@ -638,7 +638,7 @@ Wesentlich ist dabei die Strukturidee: Die Transformation lässt sich nicht besc
 - **Physikalisch**: Optische Reflexion – Licht trifft auf eine Oberfläche und wird an diese zurückgeworfen; die Operation ist eine unmittelbare Rückführung des Outputs auf das System.
 - **Chemisch**: Reaktive Rückwirkungen – ein Reaktionsprodukt verändert die weitere Reaktionsgeschwindigkeit (autokatalytische oder inhibierende Effekte).
 - **Biologisch**: Hormonelle Regelkreise (z. B. Hypothalamus‑Hypophysen‑Achse) als Reflexionsvorgang; Homöostase ist der resultierende Effekt.
-- **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten; [[Re-entry]] zeigt sich als nachhaltige Anpassung von Schwellen, Routinen oder Morphologie (z. B. Schmerzvermeidung, Gewöhnung, Plastizität).
+- **Lebend**: Sensorische Inversion – ein Organismus invertiert einen Reiz (Schmerz, Temperatur) in regulatives Verhalten; Re-entry zeigt sich als nachhaltige Anpassung von Schwellen, Routinen oder Morphologie (z. B. Schmerzvermeidung, Gewöhnung, Plastizität).
 - **Psychisch**: Eine Lehrkraft reflektiert Unterricht und passt Methoden an (Schön, 1983) – Reflexionsidentität als Form. Zudem: Eine Person ringt mit widersprüchlichen Selbstzuschreibungen („Ich bin kompetent“ vs. „Ich habe versagt“) und erlebt die Zweiwertigkeit des Selbst als gebrochene Identität (Günther).
 - **Sozial**: Organisation evaluiert eigene Kommunikationsmuster und ändert Entscheidungsprozesse (kommunikative Selbstbeobachtung).
 - **Technisch/KI**: Reinforcement-Learning-Agent passt Policy nach Reward-Feedback an; Reflexion als Anpassung des internen Modells.
@@ -649,7 +649,7 @@ Alle Beispiele erfüllen den KGN (Differenzimpuls + interne Transformation). Der
 
 Herleitung aus den vorangegangenen Kapiteln und Formeln (KGN/GGT, 2.6.3.4):
 
-- KGN liefert die Minimalkette: Differenzimpuls ([[Feedback]]) → interne Transformation (Reflexion) → (optional) Integration ([[Re-entry]]).
+- KGN liefert die Minimalkette: Differenzimpuls (Feedback) → interne Transformation (Reflexion) → (optional) Integration (Re-entry).
 - GGT ergänzt Strukturkopplung und Persistenz.
 - Bausteine aus 2.6.3.4: $\Delta_G : X \times U \to D$ (Differenzoperator), $\Phi : D \to B \times B$ (interne Zuordnung), $r : B \times B \to T$ (Reflexionsklassifikator).
 

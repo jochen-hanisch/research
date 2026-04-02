@@ -219,7 +219,7 @@ k_n
 \end{bmatrix}
 $$
 
-Hierbei steht $k_i$ für die normierte Bewertung des $i$-ten Kriteriums für einen bestimmten Lernort. Die Kriterien $k_i$ umfassen folgende Aspekte ([[Disjunkte Lernort-Evaluation#2.1.2 Operationalisierung|Kapitel 2.1.2]]):
+Hierbei steht $k_i$ für die normierte Bewertung des $i$-ten Kriteriums für einen bestimmten Lernort. Die Kriterien $k_i$ umfassen folgende Aspekte ([[Disjunkte Lernort-Evaluation]]):
 
 1. **Zeitanteil der Ausbildung ($T$)**:  
    Anteil der Ausbildungszeit, die an diesem Lernort verbracht wird (vgl. Dehnbostel, 2020).  

@@ -1,3 +1,20 @@
+---
+author: Jochen Hanisch-Johannsen
+title: Systemische Rückkopplungsschleifen Visualisierung, Analyse und Optimierung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
+created:
+updated:
+publish: false
+published:
+status:
+priority:
+project:
+due:
+tags: []
+---
+
 **Ein interdisziplinärer Dialog zur Erkundung dynamischer Prozesse in komplexen Systemen**
 
 

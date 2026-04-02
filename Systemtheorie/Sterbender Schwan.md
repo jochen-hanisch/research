@@ -106,7 +106,7 @@ Die Metapher des sterbenden Schwans bietet ein wertvolles Werkzeug zur Analyse v
 - Fokine, M. (1905). _Der sterbende Schwan_ [Choreografie]. Musik von C. Saint-Saëns, _Le Carnaval des Animaux_.
 - Janis, I. L. (1972). _Groupthink: Psychological Studies of Policy Decisions and Fiascoes_. Houghton Mifflin.
 - Kahneman, D. (2011). _Thinking, Fast and Slow_. Farrar, Straus and Giroux.
-- Luhmann, N. (1984). _Soziale [[Systeme]]: Grundriss einer allgemeinen Theorie_. Suhrkamp.
+- Luhmann, N. (1984). _Soziale Systeme: Grundriss einer allgemeinen Theorie_. Suhrkamp.
 - Nickerson, R. S. (1998). Confirmation Bias: A Ubiquitous Phenomenon in Many Guises. _Review of General Psychology, 2_(2), 175–220. https://doi.org/10.1037/1089-2680.2.2.175
 - Sharot, T. (2011). The Optimism Bias. _Current Biology, 21_(23), R941–R945. https://doi.org/10.1016/j.cub.2011.10.030
 - Taleb, N. N. (2007). _The Black Swan: The Impact of the Highly Improbable_. Penguin Books.

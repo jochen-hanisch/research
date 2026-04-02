@@ -33,11 +33,11 @@ created: 31.03.2025 | [updated](https://github.com/jochen-hanisch/research): 08.
 
 # Abstract
 
-Die Systemische Wahrscheinlichkeitstheorie stellt ein theoretisch-mathematisches Modell zur Beschreibung von Wirkungszusammenhängen in rückgekoppelten, komplexen Systemen dar. Ausgehend von der Annahme, dass klassische Wahrscheinlichkeitsbegriffe nicht ausreichen, um Selbstreferenz, emergente Dynamik und Sinnbildung in lebenden, psychischen oder sozialen Systemen abzubilden, wird eine Erweiterung um einen imaginären Anteil vorgenommen. Dieser beschreibt systemisch wirksame Rückkopplungen, Reflexionsprozesse und Re-entry-Strukturen, die im klassischen Realsystem nicht erfasst werden können.
+Die Systemische Wahrscheinlichkeitstheorie stellt ein theoretisch-mathematisches Modell zur Beschreibung von Wirkungszusammenhängen in rückgekoppelten, komplexen Systemen dar. Ausgehend von der Annahme, dass klassische Wahrscheinlichkeitsbegriffe nicht ausreichen, um Selbstreferenz, emergente Dynamik und Sinnbildung in lebenden, psychischen oder sozialen Systemen abzubilden, wird eine Erweiterung um einen imaginären Anteil vorgenommen. Dieser beschreibt systemisch wirksame Rückkopplungen, [[Reflexion]]sprozesse und [[Re-entry]]-Strukturen, die im klassischen Realsystem nicht erfasst werden können.
 
 Zentral ist der [[Interdependenzoperator]] $H$, der die Rückwirkung früherer Zustände auf aktuelle Wahrscheinlichkeiten moduliert. Mathematisch ergibt sich daraus eine komplexe Wahrscheinlichkeit mit realen und imaginären Anteilen, deren zeitlicher Verlauf eine spiralförmige Schleifenstruktur im komplexen Raum erzeugt. Diese Struktur bildet den Kern systemischer Selbstreferenz und ermöglicht eine rekursive Beschreibung von Sinn- und Strukturbildungsprozessen.
 
-Die Theorie integriert Konzepte der Quantenmechanik (unitäre Transformation), der Systemtheorie (Autopoiesis, Re-entry) und der Kybernetik (nicht-triviale Maschinen) zu einer konsistenten Formulierung systemischer Dynamik. Die Simulation der Gleichungen bestätigt die theoretischen Annahmen visuell und funktional. So entsteht ein neuartiger Ansatz zur Beschreibung komplexer Systeme, der mathematische Präzision, systemische Anschlussfähigkeit und erkenntnistheoretische Tiefe miteinander verbindet.
+Die Theorie integriert Konzepte der Quantenmechanik (unitäre Transformation), der [[Systemtheorie]] ([[Autopoiese]], [[Re-entry]]) und der Kybernetik (nicht-triviale Maschinen) zu einer konsistenten Formulierung systemischer Dynamik. Die Simulation der Gleichungen bestätigt die theoretischen Annahmen visuell und funktional. So entsteht ein neuartiger Ansatz zur Beschreibung komplexer Systeme, der mathematische Präzision, systemische Anschlussfähigkeit und erkenntnistheoretische Tiefe miteinander verbindet.
 
 # Einleitung
 
@@ -45,7 +45,7 @@ In wissenschaftlichen, sozialen und psychologischen Systemen lassen sich Wirkzus
 
 Die Systemische Wahrscheinlichkeitstheorie wurde entwickelt, um diese Lücke zu schließen. Sie stellt die Frage, wie sich Wahrscheinlichkeit modellieren lässt, wenn Systeme nicht nur auf Eingaben reagieren, sondern sich durch rückwirkende Operationen, oszillierende Strukturen und rekursive Sinnproduktion konstituieren. Dabei werden Konzepte aus der Quantenmechanik, Systemtheorie und Kybernetik miteinander verbunden, um ein neues Verständnis von Wahrscheinlichkeit als systemischer Funktion zu entwickeln.
 
-Im Zentrum dieser Theorie steht die Annahme, dass Wirkung nicht ausschließlich als reelle Eintrittswahrscheinlichkeit modellierbar ist. Stattdessen erfordert die Beschreibung komplexer Systeme eine Erweiterung des Wahrscheinlichkeitsbegriffs um einen imaginären Anteil, der für Rückwirkungen, Reflexion, Re-entry und emergente Sinnstrukturen verantwortlich ist. Die resultierende komplexe Wahrscheinlichkeit bildet somit nicht nur das Eintreten eines Zustands ab, sondern auch die Art und Weise, wie dieser Zustand systemintern verarbeitet, reflektiert und transformiert wird. (s. [[Wirkungswahrscheinlichkeit]])
+Im Zentrum dieser Theorie steht die Annahme, dass Wirkung nicht ausschließlich als reelle Eintrittswahrscheinlichkeit modellierbar ist. Stattdessen erfordert die Beschreibung komplexer Systeme eine Erweiterung des Wahrscheinlichkeitsbegriffs um einen imaginären Anteil, der für Rückwirkungen, [[Reflexion]], [[Re-entry]] und emergente Sinnstrukturen verantwortlich ist. Die resultierende komplexe Wahrscheinlichkeit bildet somit nicht nur das Eintreten eines Zustands ab, sondern auch die Art und Weise, wie dieser Zustand systemintern verarbeitet, reflektiert und transformiert wird (s. [[Wirkungswahrscheinlichkeit]]).
 
 Die folgende Ausarbeitung entwickelt die Systemische Wahrscheinlichkeitstheorie in logisch deduktiver Weise. Ausgehend von der Analyse komplexer Wahrscheinlichkeiten und ihrer mathematischen Modulation wird der [[Interdependenzoperator]] $H$ eingeführt, der als strukturelle Größe der systeminternen Rückkopplung fungiert. In Verbindung mit der Zeitvariable $t$ entsteht daraus eine Schleifenstruktur, die nicht nur mathematisch notwendig, sondern auch systemtheoretisch beobachtbar ist.
 
@@ -153,7 +153,7 @@ Die Tangensfunktion ist eine periodische, unbeschränkte Funktion mit divergente
 
 Damit folgt:
 
-- Die [[Wirkungswahrscheinlichkeit]] ist keine eindimensionale Aussage über ein Ereignis, sondern eine Struktur, die sich nur aus der Beziehung zwischen realem Zustand und systemimmanenter Rückführung ergibt.
+- Die Wirkungswahrscheinlichkeit ist keine eindimensionale Aussage über ein Ereignis, sondern eine Struktur, die sich nur aus der Beziehung zwischen realem Zustand und systemimmanenter Rückführung ergibt.
 - Diese Beziehung ist zeitabhängig und weist eine eindeutig rekursive Charakteristik auf. Es ist nicht möglich, $P(t)$ zu bestimmen, ohne auf frühere oder gegenwärtige Zustände des Systems Bezug zu nehmen.
 
 Die Gleichung

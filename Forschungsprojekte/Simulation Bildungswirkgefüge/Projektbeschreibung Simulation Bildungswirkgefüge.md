@@ -23,6 +23,8 @@ tags:
 
 Das Anschlussprojekt "Simulation Bildungswirkgefüge" überführt die in der Dissertation entwickelte Theorie des digitalen Bildungswirkgefüges in einen eigenständigen Simulations- und Entwicklungszusammenhang. Im Zentrum steht die Frage, wie Wirkannahmen, Kausalpläne und Systemdynamiken nicht nur beschrieben, sondern in einer interaktiven, auswertbaren und technisch belastbaren Simulationsumgebung beobachtbar gemacht werden können.
 
+Als theoretischer Rahmen gehört das Projekt in den größeren Zusammenhang von [[Projektbeschreibung Kompetenzentwicklung]] und den dort versammelten [[Vorarbeiten/Übersicht Vorarbeiten|Vorarbeiten]].
+
 ## Zielsetzung
 
 Das Projekt bündelt die Weiterentwicklung der Simulation, der Weboberfläche, der Datenspeicherung, der Auswertungslogik und der Testinfrastruktur in einem eigenständigen Forschungs- und Entwicklungsrahmen. Ziel ist eine öffentlich bzw. kontrolliert testbare Simulationsumgebung, die das Bildungswirkgefüge in parametrisierter Form zugänglich macht, Ausgaben dokumentiert und für Folgeprojekte nutzbar macht.
@@ -30,6 +32,13 @@ Das Projekt bündelt die Weiterentwicklung der Simulation, der Weboberfläche, d
 ## Technischer Bezug
 
 Die technische Umsetzung liegt im Repository [Kompetenzentwicklung](https://github.com/jochen-hanisch/forschungsprojekte/tree/main/Kompetenzentwicklung). Dort sind die zentralen Artefakte für Simulation, WebUI, Modellprüfung und Auswertung bereits angelegt und werden im Anschlussprojekt weitergeführt.
+
+Für die lokale Orientierung innerhalb dieses Projektordners sind vor allem folgende Einstiege relevant:
+
+- Bestandsaufnahme
+- Strukturkarte
+- Übersicht Code-relevante Vorarbeiten
+- Übersicht Frühere Entwicklungsstufen
 
 ## Arbeitslinien
 
@@ -43,3 +52,5 @@ Die technische Umsetzung liegt im Repository [Kompetenzentwicklung](https://gith
 ## Abgrenzung
 
 Das Projekt gehört nicht mehr zur Abgabelogik der Dissertation. Es ist ein Anschlussprojekt auf Basis der theoretischen und methodischen Vorarbeiten der Promotion.
+
+Die aktuelle Codedokumentation liegt in [[Dokumentation/Bestandsaufnahme]], während historische Entwicklungsartefakte unter [[Frühere Entwicklungsstufen/Übersicht Frühere Entwicklungsstufen]] und direkt arbeitsrelevante Hilfsquellen unter [[Code-relevante Vorarbeiten/Übersicht Code-relevante Vorarbeiten]] gebündelt sind.

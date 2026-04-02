@@ -55,8 +55,8 @@ Diese Vorlage bleibt unveränderlich und bildet den Kern des Modells, da sie sow
 Der Prozess der [[Kompetenzziel]]-Generierung erfolgt in mehreren klar definierten Schritten:
 
 1. **Analyse der Eingaben**  
-   Zu Beginn gibt der Nutzer Unterrichtsinhalte oder Szenarien ein, die als Grundlage für das [[Kompetenzziel]] dienen. Das Modell analysiert diese Eingaben, um die Schlüsselkomponenten zu identifizieren. Hierbei werden vier zentrale Bausteine betrachtet:
-   - **Situationsbeschreibung:** Der spezifische Kontext, in dem das [[Kompetenzziel]] angewandt werden soll, beispielsweise interdisziplinäre Teams, komplexe soziale Systeme oder dynamische Lernumgebungen.
+   Zu Beginn gibt der Nutzer Unterrichtsinhalte oder Szenarien ein, die als Grundlage für das Kompetenzziel dienen. Das Modell analysiert diese Eingaben, um die Schlüsselkomponenten zu identifizieren. Hierbei werden vier zentrale Bausteine betrachtet:
+   - **Situationsbeschreibung:** Der spezifische Kontext, in dem das Kompetenzziel angewandt werden soll, beispielsweise interdisziplinäre Teams, komplexe soziale Systeme oder dynamische Lernumgebungen.
    - **Transformationsbarrieren:** Die Hindernisse, die die Umsetzung oder Entwicklung der Kompetenz erschweren, wie zum Beispiel Kommunikationsprobleme, mangelnde digitale Kompetenz oder kognitive Verzerrungen.
    - **Evidenz:** Wissenschaftliche Grundlagen, empirische Daten oder praxisbezogene Erkenntnisse, die die Bewertung und Reflexion fundieren.
    - **Maßnahmen:** Reflektierte und praxistaugliche Handlungsstrategien, die gezielt auf die Überwindung der Transformationsbarrieren abzielen.
@@ -72,7 +72,7 @@ Der Prozess der [[Kompetenzziel]]-Generierung erfolgt in mehreren klar definiert
    Sobald alle erforderlichen Informationen vorliegen, generiert das Modell ein Kompetenzziel, das die Formulierungsvorlage strikt einhält. Dabei wird darauf geachtet, dass alle Begriffe und Definitionen klar und kontextuell passend sind. Der standardisierte Ansatz sorgt für Konsistenz, während die spezifischen Eingaben des Nutzers individuelle Anpassungen ermöglichen.
 
 4. **Iterativer Feedback-Prozess**  
-   Nach der Erstellung des Kompetenzziels hat der Nutzer die Möglichkeit, das generierte Ergebnis zu bewerten und, falls erforderlich, weitere Präzisierungen oder Anpassungen vorzunehmen. Dieser iterative Feedback-Prozess stellt sicher, dass das [[Kompetenzziel]] sowohl den Anforderungen des Nutzers als auch den wissenschaftlichen und praktischen Standards entspricht.
+   Nach der Erstellung des Kompetenzziels hat der Nutzer die Möglichkeit, das generierte Ergebnis zu bewerten und, falls erforderlich, weitere Präzisierungen oder Anpassungen vorzunehmen. Dieser iterative Feedback-Prozess stellt sicher, dass das Kompetenzziel sowohl den Anforderungen des Nutzers als auch den wissenschaftlichen und praktischen Standards entspricht.
 
 Durch diese strukturierte Vorgehensweise verbindet der [[Kompetenzziel]]-Generator die Vorteile einer klaren Formulierungsvorlage mit der Flexibilität, auf spezifische Kontexte und Herausforderungen einzugehen. Die standardisierte Struktur der Vorlage ermöglicht nicht nur eine konsistente Qualität der Ergebnisse, sondern auch eine Skalierbarkeit und Anwendbarkeit in verschiedensten Disziplinen. Der iterative Prozess sorgt darüber hinaus für eine kontinuierliche Verfeinerung und Anpassung an die Bedürfnisse der Nutzer, wodurch die Relevanz und Effektivität der Kompetenzziele maximiert wird.
 

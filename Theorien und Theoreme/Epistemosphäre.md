@@ -56,7 +56,7 @@ Aus philosophischer Sicht wird die Epistemosphäre als evolutionäre Struktur be
 
 Die biowissenschaftliche Perspektive ergänzt diese Sichtweise, indem sie Wissen als dynamisches System beschreibt, dessen Verbreitung und Stabilität durch epidemiologische Modelle wie das SIR- und SEIR-Modell erfasst werden können. Diese Modelle bieten wertvolle Einblicke in die Mechanismen der Wissensverbreitung und -stabilisierung und ermöglichen eine präzise Analyse der Wissensdynamik in sozialen Systemen.
 
-Im bildungswissenschaftlichen Kontext stellt die Epistemosphäre ein innovatives Framework zur präzisen Steuerung und Strukturierung von Wissensprozessen dar. Durch die Einführung spezifischer Wissenskategorien und die Anwendung biologischer Analogien wird Wissen als dynamische Ressource betrachtet, die gezielt in Bildungsprozesse integriert werden kann. Diese Herangehensweise ermöglicht eine differenzierte Betrachtung von Wissen und fördert die Entwicklung maßgeschneiderter Bildungsstrategien, die auf die individuellen Lernbedürfnisse und -kontexte abgestimmt sind.
+Im bildungswissenschaftlichen Kontext stellt die Epistemosphäre ein innovatives Framework zur präzisen Steuerung und Strukturierung von Wissensprozessen dar. Durch die Einführung spezifischer Wissenskategorien und die Anwendung biologischer Analogien wird Wissen als dynamische Ressource betrachtet, die gezielt in Bildungsprozesse integriert werden kann. Diese Herangehensweise ermöglicht eine differenzierte Betrachtung von Wissen und fördert die Entwicklung maßgeschneiderter Bildungsstrategien, die auf die individuellen Lernbedürfnisse und -kontexte abgestimmt sind. Damit entsteht zugleich eine Brücke zur [[Systemtheorie]] und zu [[Kompetenzentwicklung]].
 
 ## 2.1 Philosophie
 
@@ -66,7 +66,7 @@ Die Epistemosphäre verankert das Konzept, dass Wissen als dynamische, latent vo
 
 Dieser philosophische Ansatz basiert auf der Annahme, dass Wissen nicht nur auf individueller, sondern auch auf kollektiver Ebene erworben wird und dass kollektives [[Lernen als universelles Prinzip]] ein evolutionärer Prozess ist, der durch Austauschprozesse in der Gemeinschaft vorangetrieben wird. Wissen „infiziert“ soziale Systeme auf eine Weise, die kulturelle Normen und kollektive Werte integriert und transformiert, ähnlich wie sich Gedanken und Überzeugungen durch ständigen Diskurs innerhalb von Gemeinschaften verfestigen oder wandeln (McKelvey, 2021). Die Epistemosphäre bietet somit eine Struktur, in der das Wissen durch soziale Synergien wächst und evolviert, und zwar nach ähnlichen Prinzipien, wie biologische Systeme sich im Laufe der Zeit anpassen und weiterentwickeln.
 
-Durch diesen Ansatz wird Wissen nicht als isolierte Entität betrachtet, sondern als ein Produkt kollektiver Handlungen, das sich in seiner Struktur durch Interdependenz und die Interaktion mit Umweltfaktoren wandelt. Die Epistemosphäre bekräftigt, dass Wissen als gemeinschaftlich geteilte und sich entwickelnde Ressource verstanden werden muss, die durch kulturelle Praktiken geformt wird und soziale Entwicklungen beeinflusst. 
+Durch diesen Ansatz wird Wissen nicht als isolierte Entität betrachtet, sondern als ein Produkt kollektiver Handlungen, das sich in seiner Struktur durch [[Interdependenz]] und die Interaktion mit Umweltfaktoren wandelt. Die Epistemosphäre bekräftigt, dass Wissen als gemeinschaftlich geteilte und sich entwickelnde Ressource verstanden werden muss, die durch kulturelle Praktiken geformt wird und soziale Entwicklungen beeinflusst. 
 
 ## 2.2 Biologie
 
@@ -80,7 +80,7 @@ Das **MSEIR-Modell** erweitert das SEIR-Modell um eine Phase der **passiven Immu
 
 Das **SIS-Modell** ist ein weiteres relevantes Modell und unterscheidet sich durch den [[Zyklus]] zwischen nur zwei Zuständen: **Susceptible** (anfällig) und **Infected** (infiziert). Im Wissenskontext beschreibt das SIS-Modell eine Form des Wissens, das instabil bleibt, also regelmäßig aufgefrischt werden muss, um bestehen zu bleiben. Besonders bei Kenntnissen, die kontinuierliche Anwendung erfordern, um nicht vergessen zu werden, wie etwa technische Fertigkeiten, kann das SIS-Modell zur Erklärung dienen. Hiermit lässt sich veranschaulichen, dass manche Wissensinhalte bei fehlender Wiederholung in den anfälligen Zustand zurückfallen und nicht nachhaltig verankert werden können (Wilson & Nagel, 2019).
 
-Zusammen bieten diese [[Epistemosphäre#2.4 Mathematische Formeln|mathematischen Modelle]] eine detaillierte Grundlage zur Analyse der Wissensdynamik in sozialen Systemen und zeigen auf, wie Wissen stabilisiert, aktiviert und unter geeigneten Bedingungen reproduziert werden kann.
+Zusammen bieten diese [[Epistemosphäre]] eine detaillierte Grundlage zur Analyse der Wissensdynamik in sozialen Systemen und zeigen auf, wie Wissen stabilisiert, aktiviert und unter geeigneten Bedingungen reproduziert werden kann.
 
 ## 2.3 Bildungswissenschaft
 
