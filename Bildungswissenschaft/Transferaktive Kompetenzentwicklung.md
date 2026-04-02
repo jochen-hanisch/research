@@ -3,18 +3,22 @@ author: Jochen Hanisch-Johannsen
 title: Mechanismen der horizontalen Genübertragung in Bildungsprozessen Anwendung und Prozessbeschreibung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2024-10-24
 updated: 2024-12-03
 publish: true
-published: 
+published:
+status:
+priority:
+project:
+due:
 tags:
-  - "#Kompetenzentwicklung"
-  - "#Lernprozess"
-  - "#Bildungswissenschaft"
-  - "#Transformation"
-  - "#Transduktion"
-  - "#Wissensübertragung"
+  - Kompetenzentwicklung
+  - Lernprozess
+  - Bildungswissenschaft
+  - Transformation
+  - Transduktion
+  - Wissensübertragung
   - Konjugation
 ---
 

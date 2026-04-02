@@ -3,11 +3,15 @@ author: Jochen Hanisch-Johannsen
 title: Wirkungskriterium
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2024-11-17
 updated: 2024-11-18
 publish: true
-published: 
+published:
+status:
+priority:
+project:
+due:
 tags:
   - Notfallmedizin
   - Systemtheorie
@@ -15,7 +19,7 @@ tags:
   - Algorithmus
   - Checkliste
   - Kompetenz
-  - "#werkannalgorithmen"
+  - werkannalgorithmen
 ---
 
 created: 17.11.2024 | [updated](https://github.com/jochen-hanisch/research): 18.11.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
