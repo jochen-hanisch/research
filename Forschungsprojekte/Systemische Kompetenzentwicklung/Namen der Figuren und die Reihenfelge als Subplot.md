@@ -1,6 +1,0 @@
-fig_mc
-fig3
-fig_kumulative_kompetenz
-fig_bildungswirkgefuege
-fig_histogram
-fig_flussdiagramm
