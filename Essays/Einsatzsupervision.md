@@ -8,6 +8,10 @@ created: 2025-09-14
 updated: 2025-09-16
 publish: true
 published: 2025-09-23
+status:
+priority:
+project:
+due:
 tags:
   - Einsatzsupervision
   - Rettungsdienst

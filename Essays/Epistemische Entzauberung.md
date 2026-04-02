@@ -8,13 +8,17 @@ created: 2025-07-13
 updated: 2025-07-14
 publish: true
 published: 2025-07-15
+status:
+priority:
+project:
+due:
 tags:
-  - "#Literatur/HarryPotter"
-  - "#Epistemologie/Entzauberung"
-  - "#Figurentheorie/Kommunikationsfigur"
-  - "#Systemtheorie"
-  - "#Literaturwissenschaft/Literaturanalyse"
-  - "#Erkenntnistheorie"
+  - Literatur/HarryPotter
+  - Epistemologie/Entzauberung
+  - Figurentheorie/Kommunikationsfigur
+  - Systemtheorie
+  - Literaturwissenschaft/Literaturanalyse
+  - Erkenntnistheorie
 ---
 
 created: 13.07.2025 | [updated](https://github.com/jochen-hanisch/research): 14.07.2025 | [published](https://zenodo.org/records/15918779): 15.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
