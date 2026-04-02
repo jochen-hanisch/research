@@ -8,6 +8,10 @@ created: 2025-01-20
 updated: 2025-01-20
 publish: true
 published: 2026-03-29
+status:
+priority:
+project:
+due:
 tags:
   - Bildung
   - Lernprozess

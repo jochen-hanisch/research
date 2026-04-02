@@ -8,14 +8,18 @@ created: 2024-09-29
 updated: 2024-11-26
 publish: true
 published:
+status:
+priority:
+project:
+due:
 tags:
   - Bildung
-  - "#Lernprozess"
-  - "#Didaktik"
-  - "#Humanismus"
-  - "#Konstruktivismus"
-  - "#Reflexion"
-  - "#EBA-Zyklus"
+  - Lernprozess
+  - Didaktik
+  - Humanismus
+  - Konstruktivismus
+  - Reflexion
+  - EBA-Zyklus
 ---
 
 created: 29.09.2024 | [updated](https://github.com/jochen-hanisch/research): 26.11.2024 | [published]():  | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]

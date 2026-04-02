@@ -8,28 +8,32 @@ created: 2025-01-21
 updated: 2025-01-21
 publish: true
 published: 2025-07-10
+status:
+priority:
+project:
+due:
 tags:
-  - "#Elementarteams"
-  - "#Feedback"
-  - "#Reflexion"
-  - "#Re-entry"
-  - "#High-Responsibility-Teams"
-  - "#Elementarkommunikation"
-  - "#Systemtheorie"
-  - "#Resilienz"
-  - "#Antifragility"
-  - "#Iterative-Prozesse"
-  - "#Kollektive-Intelligenz"
-  - "#Kompetenzentwicklung"
-  - "#Agiles-Lernen"
-  - "#Rettungsdienst"
-  - "#Krisenmanagement"
-  - "#Entscheidungsökonomie"
-  - "#Fehlerkultur"
-  - "#Innovationsförderung"
-  - "#Teamarbeit"
-  - "#Organisationsentwicklung"
-  - "#[[Wirkung]]swahrscheinlichkeit"
+  - Elementarteams
+  - Feedback
+  - Reflexion
+  - Re-entry
+  - High-Responsibility-Teams
+  - Elementarkommunikation
+  - Systemtheorie
+  - Resilienz
+  - Antifragility
+  - Iterative-Prozesse
+  - Kollektive-Intelligenz
+  - Kompetenzentwicklung
+  - Agiles-Lernen
+  - Rettungsdienst
+  - Krisenmanagement
+  - Entscheidungsökonomie
+  - Fehlerkultur
+  - Innovationsförderung
+  - Teamarbeit
+  - Organisationsentwicklung
+  - [[Wirkung]]swahrscheinlichkeit
 ---
 
 created: 21.01.2025 | [updated](https://github.com/jochen-hanisch/research): 21.01.2025 | [published](https://zenodo.org/records/15857049): 10.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
