@@ -3,11 +3,15 @@ author: Jochen Hanisch-Johannsen
 title: "Begriffe klären – Denken ermöglichen: Eine Handreichung für den wissenschaftlichen Sprachgebrauch in Lehre und Studium"
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2025-05-05
 updated: 2025-05-05
 publish: true
-published: 
+published:
+status:
+priority:
+project:
+due:
 tags:
   - Wissenschaftssprache
   - Begriffsklärung

@@ -3,17 +3,21 @@ author: Jochen Hanisch-Johannsen
 title: Analyse zweiter Ordnung
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2025-07-05
 updated: 2025-07-05
 publish: true
 published: 2025-07-06
+status:
+priority:
+project:
+due:
 tags:
-  - "#Forschung"
-  - "#Bildungsforschung"
-  - "#Wissenschaft"
-  - "#Datenverarbeitung"
-  - "#Clusteranalyse"
+  - Forschung
+  - Bildungsforschung
+  - Wissenschaft
+  - Datenverarbeitung
+  - Clusteranalyse
 ---
 
 created: 05.07.2025 | [updated](https://github.com/jochen-hanisch/research): 05.07.2025 | [published](): 06.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]

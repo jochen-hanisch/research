@@ -3,17 +3,21 @@ author: Jochen Hanisch-Johannsen
 title: "Epistemolismus denken: Zur Sichtbarmachung wissenschaftlicher Prozesse in versionierten Erkenntnisräumen"
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2025-06-08
 updated: 2025-06-09
 publish: true
-published: 
+published:
+status:
+priority:
+project:
+due:
 tags:
-  - "#Forschung"
-  - "#Bildungswissenschaft"
-  - "#Epistemologie"
-  - "#Epistemolismus"
-  - "#Wissenschaftsprozesse"
+  - Forschung
+  - Bildungswissenschaft
+  - Epistemologie
+  - Epistemolismus
+  - Wissenschaftsprozesse
   - Sichtbarkeit
   - Dynamik
   - Gestaltung
