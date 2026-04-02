@@ -1,12 +1,18 @@
 ---
 author: Jochen Hanisch-Johannsen
 title: Projektbeschreibung Kompetenzentwicklung
-Repository: https://github.com/jochen-hanisch/research/tree/main/Forschungsprojekte/Systemische%20Kompetenzentwicklung
+Repository: https://github.com/jochen-hanisch/research
+Discussion: https://github.com/jochen-hanisch/research/discussions
+Publication:
 created: 2026-01-25
 updated: 2026-01-25
 publish: true
 published: 2026-01-25
-tags:
+status:
+priority:
+project:
+due:
+tags: []
 ---
 created: 25.01.2026 | updated: 25.01.2026 | published: 25.1.2026 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
