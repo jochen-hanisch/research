@@ -3,11 +3,15 @@ author: Jochen Hanisch-Johannsen
 title: Lernen als universelles Prinzip
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2024-10-02
 updated: 2025-07-30
 publish: true
 published: 2025-06-08
+status:
+priority:
+project:
+due:
 tags:
   - Lernen
   - Rhetorik
@@ -16,18 +20,18 @@ tags:
   - Pädagogik
   - Psychologie
   - Emergenz
-  - "#Lernen"
-  - "#Bildung"
-  - "#Erziehungswissenschaft"
-  - "#Didaktik"
-  - "#Bildungsforschung"
-  - "#Forschung"
-  - "#Wissenschaft"
-  - "#Bildungswissenschaft"
-  - "#Systemtheorie"
-  - "#Kompetenzentwicklung"
-  - "#Lernprozesse"
-  - "#Autopoiesis"
+  - Lernen
+  - Bildung
+  - Erziehungswissenschaft
+  - Didaktik
+  - Bildungsforschung
+  - Forschung
+  - Wissenschaft
+  - Bildungswissenschaft
+  - Systemtheorie
+  - Kompetenzentwicklung
+  - Lernprozesse
+  - Autopoiesis
 ---
 
 created: 02.10.2024 | [updated](https://github.com/jochen-hanisch/research): 30.07.2025 | [published](): 08.06.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]

@@ -8,14 +8,18 @@ created: 2024-11-16
 updated: 2025-06-08
 publish: true
 published: 2025-05-11
+status:
+priority:
+project:
+due:
 tags:
-  - "#Dissertation"
-  - "#Bildungswissenschaft"
-  - "#Forschung"
-  - "#Gesundheitswesen"
-  - "#Professionalisierung"
-  - "#Lernortevaluation"
-  - "#Qualitätsanalyse"
+  - Dissertation
+  - Bildungswissenschaft
+  - Forschung
+  - Gesundheitswesen
+  - Professionalisierung
+  - Lernortevaluation
+  - Qualitätsanalyse
 ---
 
 created: 16.11.2024 | [updated](https://github.com/jochen-hanisch/research): 08.06.2025 | [published](https://zenodo.org/records/15383476): 11.05.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
