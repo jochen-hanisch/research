@@ -6,7 +6,7 @@ Das zentrale Interesse der Untersuchung lautet, ob die acht [[Grundsymbole]] als
 
 ### 2 Bezug zur Definition
 
-![[Grundsymbole#^Definition-Grundsymbol]]
+[[Grundsymbole]]
 
 ### **3. Theoretische Grundlage**
 
@@ -50,7 +50,7 @@ Grundsymbole wirken in verschiedenen Systemen (z. B. lebend, psychisch, sozial, 
 
 Qualitative und explorative Ergebnisse aus Gruppendiskussionen und Interviews zeigen erste Hinweise auf die Universalität der Grundsymbole:
 
-![[Quasi-Exploration Grundsymbole#5 Zwischenfazit]] 
+[[Quasi-Exploration Grundsymbole]] 
 
 Auch bei Einbezug der Limitierung, dass die [[Quasi-Exploration Grundsymbole]] keine repräsentative Aussagekraft besitzt, können dennoch erste Hinweise auf die Existenz von universell gültigen Grundsymbolen abgeleitet werden.
 

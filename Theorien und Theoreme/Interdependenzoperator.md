@@ -42,7 +42,7 @@ Diese Dualität – $H$ als Theorem innerhalb einer systemisch fundierten Theori
 
 # Einleitung
 
-Die Theorie der [[Elementarkommunikation]] beschreibt Kommunikation nicht als emergentes Phänomen sozialer Systeme, sondern als grundlegende Operation, die durch die Interdependenz dreier Elementaroperationen – Feedback, Reflexion und Re-entry – konstituiert wird. Während klassische Kommunikationstheorien vorwiegend beschreibend auf der Ebene sozialer Interaktion oder symbolischer Vermittlung operieren, eröffnet die Elementarkommunikation eine strukturell tiefere, systemübergreifende Perspektive. Kommunikation als mathematisch modellierbarer Prozess.
+Die Theorie der [[Elementarkommunikation]] beschreibt Kommunikation nicht als emergentes Phänomen sozialer Systeme, sondern als grundlegende Operation, die durch die [[Interdependenz]] dreier [[Elementaroperationen]] konstituiert wird. Während klassische Kommunikationstheorien vorwiegend beschreibend auf der Ebene sozialer Interaktion oder symbolischer Vermittlung operieren, eröffnet die Elementarkommunikation eine strukturell tiefere, systemübergreifende Perspektive. Kommunikation erscheint damit als mathematisch modellierbarer Prozess innerhalb der [[Systemtheorie]].
 
 Ziel dieses Artikels ist es, diese konzeptionelle Grundlage durch eine formale Struktur zu fundieren. Hierzu wird ein Interdependenzfaktor $H$ eingeführt, der als Operator in einer dynamischen Gleichung systemischer Wahrscheinlichkeiten fungiert. Die zugrunde liegende Annahme ist, dass Kommunikation ein probabilistisch organisierter, zeitlich transformierbarer Prozess ist, dessen Struktur sich in physikalischen, biologischen, psychischen und sozialen Systemen rekonstruieren lässt.
 
@@ -52,7 +52,7 @@ Der Artikel zielt darauf ab, die ontologische Tiefe und formale Präzision der E
 
 # 1 Definition
 
-Der Interdependenzfaktor $H$ bezeichnet einen mathematischen Operator, der die dynamische Verknüpfung der drei [[Elementaroperationen]] Feedback, Reflexion und Re-entry als Grundlage kommunikativer Prozesse beschreibt. Er bildet die formale Struktur der [[Elementarkommunikation]] ab und quantifiziert die wechselseitige Bedingtheit dieser Operationen über die Zeit.
+Der Interdependenzfaktor $H$ bezeichnet einen mathematischen Operator, der die dynamische Verknüpfung der drei [[Elementaroperationen]] [[Feedback]], [[Reflexion]] und [[Re-entry]] als Grundlage kommunikativer Prozesse beschreibt. Er bildet die formale Struktur der [[Elementarkommunikation]] ab und quantifiziert die wechselseitige Bedingtheit dieser Operationen über die Zeit.
 
 $H$ ist nicht als beobachtbares Einzelphänomen, sondern als abstrakter Transformationsfaktor innerhalb einer systemischen Wahrscheinlichkeitstheorie zu verstehen. Er erlaubt es, Kommunikation nicht nur qualitativ zu beschreiben, sondern als probabilistischen Prozess mathematisch zu modellieren. Dabei fungiert $H$ als Ausdruck der systeminternen Interdependenz, deren Stärke und Struktur die Stabilität, Variabilität und Emergenz kommunikativer Systeme bestimmt.
 
@@ -68,7 +68,7 @@ Die Einführung von $H$ erlaubt, Kommunikation nicht nur funktional, sondern str
 
 Die Definition des Interdependenzfaktors $H$ basiert auf der Annahme, dass Kommunikation nicht auf der Ebene von Zeichen oder Bedeutungen beginnt, sondern in der strukturellen Verknüpfung elementarer Operationen wurzelt. Feedback, Reflexion und Re-entry wirken dabei nicht linear oder additiv, sondern rekursiv und interdependent. Um diese Dynamik beschreibbar zu machen, bedarf es einer formalisierten Darstellung, die sowohl zeitliche Transformation als auch systemische Rückkopplung abbilden kann.
 
-Die Herleitung erfolgt auf Grundlage zweier gekoppelter Gleichungen aus der systemischen Wahrscheinlichkeitstheorie. Die erste beschreibt die zeitliche Entwicklung eines Zustands durch eine unitäre Transformation mit einem Operator $H$. Die zweite zerlegt diesen Zustand in einen reellen Anteil – als Ausdruck beobachtbarer Wirkung – und einen imaginären Anteil – als Ausdruck latenter Rückkopplungsstrukturen, insbesondere von Re-entry.
+Die Herleitung erfolgt auf Grundlage zweier gekoppelter Gleichungen aus der systemischen Wahrscheinlichkeitstheorie. Die erste beschreibt die zeitliche Entwicklung eines Zustands durch eine unitäre Transformation mit einem Operator $H$. Die zweite zerlegt diesen Zustand in einen reellen Anteil als Ausdruck beobachtbarer [[Wirkung]] und einen imaginären Anteil als Ausdruck latenter Rückkopplungsstrukturen, insbesondere von [[Re-entry]].
 
 Durch mathematische Verknüpfung dieser beiden Gleichungen lässt sich $H$ als Operator isolieren, der die Stärke und Richtung der Interdependenz über die Zeit ausdrückt. Die daraus resultierende Formel zeigt, dass der Wert von $H$ unmittelbar von der Ausgangswahrscheinlichkeit $P_0$, der beobachtbaren Wirkung $P_{\text{real}}(t)$ und dem Re-entry-Faktor $\tan(\beta t)$ abhängt. Kommunikation wird dadurch als strukturierter Übergang zwischen Zuständen beschrieben, der durch diese drei Parameter geprägt ist.
 

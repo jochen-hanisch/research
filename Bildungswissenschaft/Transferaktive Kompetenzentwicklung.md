@@ -30,11 +30,11 @@ Transferaktive Kompetenzentwicklung beschreibt einen prozessorientierten Ansatz 
 
 Im Kern der transferaktiven [[Allgemein beruflich/Research/Bildungswissenschaft/Kompetenzentwicklung]] steht die Idee, dass Lernende nicht nur passiv [[Epistemosphäre|Wissen]] aufnehmen und assimilieren sowie im Prozessverlauf akkommodieren, sondern durch Interaktion, Reflexion und Kooperation aktiv in die Wissensgenerierung und -weitergabe eingebunden sind. Es umfasst die folgenden Schlüsselprozesse:
 
-1. **Transformation**: Die passive Aufnahme von [[Epistemosphäre|Wissen]] durch individuelle Lernprozesse, wie das Lesen, Zuhören oder Beobachten von Inhalten, ähnlich der biologischen Aufnahme von genetischem Material aus der Umwelt.
+1. **Transformation**: Die passive Aufnahme von Wissen durch individuelle Lernprozesse, wie das Lesen, Zuhören oder Beobachten von Inhalten, ähnlich der biologischen Aufnahme von genetischem Material aus der Umwelt.
    
-2. **Transduktion**: Die Wissensvermittlung durch Lehrende oder Medien, bei der [[Epistemosphäre|Wissen]] strukturiert und zielgerichtet weitergegeben wird, analog zur Übertragung genetischen Materials durch Bakteriophagen.
+2. **Transduktion**: Die Wissensvermittlung durch Lehrende oder Medien, bei der Wissen strukturiert und zielgerichtet weitergegeben wird, analog zur Übertragung genetischen Materials durch Bakteriophagen.
 
-3. **Konjugation**: Der direkte Austausch von [[Epistemosphäre|Wissen]] zwischen Lernenden in kooperativen und interaktiven Lernumgebungen, bei dem Ideen und Informationen aktiv geteilt und gemeinsam reflektiert werden, vergleichbar mit dem Zell-zu-Zell-Austausch genetischen Materials.
+3. **Konjugation**: Der direkte Austausch von Wissen zwischen Lernenden in kooperativen und interaktiven Lernumgebungen, bei dem Ideen und Informationen aktiv geteilt und gemeinsam reflektiert werden, vergleichbar mit dem Zell-zu-Zell-Austausch genetischen Materials.
 
 Dieser Ansatz betont die Bedeutung des interaktiven [[Lernen als universelles Prinzip|Lernens]] und der kollaborativen Wissensverarbeitung, die nicht nur zur Aneignung von [[Epistemosphäre|Wissen]], sondern auch zur tiefgreifenden Reflexion und Anwendung in verschiedenen Kontexten führen. Die Transferaktive Kompetenzentwicklung bietet eine innovative Grundlage für die Gestaltung flexibler und dynamischer Lernumgebungen, die den Wissenstransfer sowohl individuell als auch kollektiv fördern.
 Kompetenzentwicklung kann nicht nur auf Wissen reduziert werden, der Kompetenzbegriff ist nicht trennscharf bestimmt. Wissen ist in diesem Kontext ein Anwendungsfall.
@@ -70,11 +70,11 @@ Die horizontale Genübertragung spielt eine Schlüsselrolle in der Evolution und
 
 Die Mechanismen der horizontalen Genübertragung (HGT) bieten eine wertvolle Analogie, um Prozesse der Wissensübertragung und des Lernens in Bildungsumgebungen zu beschreiben. Die Konzepte von **Transformation**, **Transduktion** und **Konjugation** bilden eine Struktur, um zu verstehen, wie Lernende [[Epistemosphäre|Wissen]] passiv aufnehmen, es von einer Quelle vermittelt bekommen oder es aktiv untereinander austauschen und weiterentwickeln.
 
-- **Transformation**: Im bildungswissenschaftlichen Kontext kann Transformation als der Prozess der passiven Wissensaufnahme betrachtet werden. Lernende nehmen Informationen aus ihrer Umgebung auf, sei es durch das Lesen von Büchern, das Anhören von Vorträgen oder das Konsumieren von Medien. Diese Informationen werden in die bereits bestehenden kognitiven Strukturen integriert, ähnlich wie bei der biologischen Transformation, bei der genetisches Material aus der Umgebung in das Genom einer Zelle aufgenommen wird (Wiedenbeck & Cohan, 2011). Dieser Prozess der Wissensaufnahme ist besonders in traditionellen Lernumgebungen wie Vorlesungen und Selbststudium vorherrschend, in denen die Lernenden überwiegend als passive Empfänger von Informationen agieren. Der Schlüssel liegt darin, dass die Lernenden das aufgenommene [[Epistemosphäre|Wissen]] internalisieren und in ihrem eigenen [[Epistemosphäre|Wissen]] anwenden.
+- **Transformation**: Im bildungswissenschaftlichen Kontext kann Transformation als der Prozess der passiven Wissensaufnahme betrachtet werden. Lernende nehmen Informationen aus ihrer Umgebung auf, sei es durch das Lesen von Büchern, das Anhören von Vorträgen oder das Konsumieren von Medien. Diese Informationen werden in die bereits bestehenden kognitiven Strukturen integriert, ähnlich wie bei der biologischen Transformation, bei der genetisches Material aus der Umgebung in das Genom einer Zelle aufgenommen wird (Wiedenbeck & Cohan, 2011). Dieser Prozess der Wissensaufnahme ist besonders in traditionellen Lernumgebungen wie Vorlesungen und Selbststudium vorherrschend, in denen die Lernenden überwiegend als passive Empfänger von Informationen agieren. Der Schlüssel liegt darin, dass die Lernenden das aufgenommene Wissen internalisieren und in ihrem eigenen Wissen anwenden.
 
-- **Transduktion**: Transduktion beschreibt die aktive Wissensvermittlung durch eine Lehrperson oder ein anderes Medium. Hier fungiert der Lehrende oder das Medium als Vermittler, der [[Epistemosphäre|Wissen]] von einer Quelle zu den Lernenden transportiert, ähnlich wie ein Bakteriophage genetisches Material von einer Bakterienzelle zu einer anderen überträgt (Lu et al., 2015). Dieser Prozess ist typisch für formelle Bildungsumgebungen, in denen [[Epistemosphäre|Wissen]] gezielt und strukturiert vermittelt wird, beispielsweise in Vorlesungen, Seminaren oder durch den Einsatz von multimedialen Materialien. Der entscheidende Unterschied zur Transformation liegt in der aktiven Rolle des Lehrenden, der nicht nur Informationen weitergibt, sondern diese auch didaktisch aufbereitet, um das Verständnis der Lernenden zu fördern.
+- **Transduktion**: Transduktion beschreibt die aktive Wissensvermittlung durch eine Lehrperson oder ein anderes Medium. Hier fungiert der Lehrende oder das Medium als Vermittler, der Wissen von einer Quelle zu den Lernenden transportiert, ähnlich wie ein Bakteriophage genetisches Material von einer Bakterienzelle zu einer anderen überträgt (Lu et al., 2015). Dieser Prozess ist typisch für formelle Bildungsumgebungen, in denen Wissen gezielt und strukturiert vermittelt wird, beispielsweise in Vorlesungen, Seminaren oder durch den Einsatz von multimedialen Materialien. Der entscheidende Unterschied zur Transformation liegt in der aktiven Rolle des Lehrenden, der nicht nur Informationen weitergibt, sondern diese auch didaktisch aufbereitet, um das Verständnis der Lernenden zu fördern.
 
-- **Konjugation**: Konjugation kann im Bildungskontext als der direkte Wissensaustausch zwischen Lernenden verstanden werden, der häufig in kollaborativen oder kooperativen Lernumgebungen stattfindet. Ähnlich wie bei der biologischen Konjugation, bei der genetisches Material direkt zwischen Zellen ausgetauscht wird, geschieht der Austausch von [[Epistemosphäre|Wissen]] durch Diskussionen, Gruppenarbeiten oder Peer-Learning. In diesen Szenarien teilen Lernende ihre Ideen, Erfahrungen und Erkenntnisse direkt miteinander, was zu einem tiefgreifenderen Verständnis und einer Erweiterung des Wissens führt (van Gestel et al., 2021). Dieser Prozess fördert nicht nur den Wissenszuwachs, sondern auch soziale und kommunikative Kompetenzen, da die Lernenden voneinander lernen und durch den Austausch von Ideen neue Perspektiven entwickeln.
+- **Konjugation**: Konjugation kann im Bildungskontext als der direkte Wissensaustausch zwischen Lernenden verstanden werden, der häufig in kollaborativen oder kooperativen Lernumgebungen stattfindet. Ähnlich wie bei der biologischen Konjugation, bei der genetisches Material direkt zwischen Zellen ausgetauscht wird, geschieht der Austausch von Wissen durch Diskussionen, Gruppenarbeiten oder Peer-Learning. In diesen Szenarien teilen Lernende ihre Ideen, Erfahrungen und Erkenntnisse direkt miteinander, was zu einem tiefgreifenderen Verständnis und einer Erweiterung des Wissens führt (van Gestel et al., 2021). Dieser Prozess fördert nicht nur den Wissenszuwachs, sondern auch soziale und kommunikative Kompetenzen, da die Lernenden voneinander lernen und durch den Austausch von Ideen neue Perspektiven entwickeln.
 
 Diese drei Mechanismen bieten ein umfassendes Modell, um die Dynamik von Wissensübertragungen in Bildungsumgebungen zu verstehen. Durch die Analogie zur HGT wird deutlich, dass Wissensprozesse nicht nur durch formelle Vermittlung, sondern auch durch informelle und soziale Interaktionen stattfinden. Transformation entspricht dabei der individualisierten, passiven Wissensaufnahme, Transduktion der formalen, strukturierten Wissensvermittlung durch Lehrende, und Konjugation dem interaktiven, kollaborativen Austausch von [[Epistemosphäre|Wissen]] zwischen Lernenden.
 
@@ -82,11 +82,11 @@ Diese drei Mechanismen bieten ein umfassendes Modell, um die Dynamik von Wissens
 
 In einem soziologischen Kontext können die Mechanismen der horizontalen Genübertragung (HGT) als nützliche Metapher zur Beschreibung der Verbreitung von Ideen, Normen und [[Epistemosphäre|Wissen]] innerhalb sozialer Netzwerke dienen. So wie genetisches Material zwischen Bakterien übertragen wird, verbreiten sich Informationen und kulturelle Werte innerhalb von Gemeinschaften und sozialen Gruppen. Diese Mechanismen bieten eine Struktur, um zu verstehen, wie [[Epistemosphäre|Wissen]] und kulturelle Normen sowohl passiv aufgenommen als auch aktiv weitergegeben und durch Interaktionen ausgetauscht werden.
 
-- **Transformation**: In der Soziologie könnte Transformation die passive Aufnahme von [[Epistemosphäre|Wissen]], Werten und kulturellen Normen darstellen. Individuen nehmen unbewusst Informationen und Verhaltensweisen aus ihrer Umgebung auf, ohne dass eine direkte Interaktion mit einer Quelle notwendig ist. Dies könnte durch Beobachtung oder durch indirekte Einflüsse geschehen. Beispielsweise können Menschen Verhaltensweisen und Normen durch das bloße Beobachten anderer übernehmen, ohne aktiv an einem Austausch beteiligt zu sein. Diese Art der stillen Aufnahme von sozialen Werten und Normen ist besonders in großen sozialen Gruppen oder Gesellschaften relevant, in denen nicht alle Mitglieder in direktem Kontakt zueinander stehen, aber dennoch ähnliche Verhaltensmuster aufweisen (Wiedenbeck & Cohan, 2011). Hier wirkt Transformation als unsichtbare, aber wirksame Kraft der kulturellen Integration.
+- **Transformation**: In der Soziologie könnte Transformation die passive Aufnahme von Wissen, Werten und kulturellen Normen darstellen. Individuen nehmen unbewusst Informationen und Verhaltensweisen aus ihrer Umgebung auf, ohne dass eine direkte Interaktion mit einer Quelle notwendig ist. Dies könnte durch Beobachtung oder durch indirekte Einflüsse geschehen. Beispielsweise können Menschen Verhaltensweisen und Normen durch das bloße Beobachten anderer übernehmen, ohne aktiv an einem Austausch beteiligt zu sein. Diese Art der stillen Aufnahme von sozialen Werten und Normen ist besonders in großen sozialen Gruppen oder Gesellschaften relevant, in denen nicht alle Mitglieder in direktem Kontakt zueinander stehen, aber dennoch ähnliche Verhaltensmuster aufweisen (Wiedenbeck & Cohan, 2011). Hier wirkt Transformation als unsichtbare, aber wirksame Kraft der kulturellen Integration.
 
-- **Transduktion**: Transduktion könnte als gezielte Weitergabe von [[Epistemosphäre|Wissen]], Normen oder sozialen Werten durch Institutionen oder Schlüsselpersonen interpretiert werden. In diesem Prozess agieren Lehrer, religiöse Führer, politische Autoritäten oder Medien als Vermittler, die aktiv Informationen und Werte an eine Zielgruppe weitergeben. Dieser Mechanismus entspricht der biologischen Transduktion, bei der ein Bakteriophage als Vermittler fungiert und genetisches Material von einer Zelle zur nächsten transportiert (Lu et al., 2015). In sozialen Kontexten könnte dies durch organisierte Bildungsprogramme, Medienberichterstattung oder durch öffentliche Reden geschehen, in denen Werte und Überzeugungen bewusst an eine Gemeinschaft übermittelt werden. Der strukturierte und geplante Charakter dieses Mechanismus ermöglicht eine effiziente und gezielte Verbreitung von Informationen innerhalb einer Gesellschaft.
+- **Transduktion**: Transduktion könnte als gezielte Weitergabe von Wissen, Normen oder sozialen Werten durch Institutionen oder Schlüsselpersonen interpretiert werden. In diesem Prozess agieren Lehrer, religiöse Führer, politische Autoritäten oder Medien als Vermittler, die aktiv Informationen und Werte an eine Zielgruppe weitergeben. Dieser Mechanismus entspricht der biologischen Transduktion, bei der ein Bakteriophage als Vermittler fungiert und genetisches Material von einer Zelle zur nächsten transportiert (Lu et al., 2015). In sozialen Kontexten könnte dies durch organisierte Bildungsprogramme, Medienberichterstattung oder durch öffentliche Reden geschehen, in denen Werte und Überzeugungen bewusst an eine Gemeinschaft übermittelt werden. Der strukturierte und geplante Charakter dieses Mechanismus ermöglicht eine effiziente und gezielte Verbreitung von Informationen innerhalb einer Gesellschaft.
 
-- **Konjugation**: Konjugation wäre in sozialen Netzwerken der direkte Austausch von Ideen und Werten durch persönliche Interaktionen, Diskussionen und Peer-to-Peer-Kommunikation. Ähnlich wie bei der biologischen Konjugation, bei der genetisches Material direkt zwischen Bakterienzellen ausgetauscht wird, findet der Austausch von [[Epistemosphäre|Wissen]] und Überzeugungen in sozialen Gruppen häufig durch persönliche Gespräche, Debatten oder Gruppenaktivitäten statt. Peer-Gruppen, Netzwerke und informelle soziale Treffen bieten Plattformen für diesen direkten Austausch, bei dem Ideen nicht nur geteilt, sondern auch weiterentwickelt und verfeinert werden. Diese Form des sozialen Austauschs ist besonders dynamisch, da sie durch die direkte Interaktion zwischen Individuen geprägt ist und oft zur Entstehung neuer Ideen und gemeinsamer Werte führt (van Gestel et al., 2021).
+- **Konjugation**: Konjugation wäre in sozialen Netzwerken der direkte Austausch von Ideen und Werten durch persönliche Interaktionen, Diskussionen und Peer-to-Peer-Kommunikation. Ähnlich wie bei der biologischen Konjugation, bei der genetisches Material direkt zwischen Bakterienzellen ausgetauscht wird, findet der Austausch von Wissen und Überzeugungen in sozialen Gruppen häufig durch persönliche Gespräche, Debatten oder Gruppenaktivitäten statt. Peer-Gruppen, Netzwerke und informelle soziale Treffen bieten Plattformen für diesen direkten Austausch, bei dem Ideen nicht nur geteilt, sondern auch weiterentwickelt und verfeinert werden. Diese Form des sozialen Austauschs ist besonders dynamisch, da sie durch die direkte Interaktion zwischen Individuen geprägt ist und oft zur Entstehung neuer Ideen und gemeinsamer Werte führt (van Gestel et al., 2021).
 
 Diese soziologische Interpretation der HGT-Mechanismen bietet eine strukturierte Perspektive auf die Verbreitung von [[Epistemosphäre|Wissen]] und Normen in sozialen Netzwerken. Transformation beschreibt die passive Aufnahme von sozialen Werten, Transduktion den strukturierten Transfer von Institutionen oder Autoritäten, und Konjugation den dynamischen Austausch von Ideen innerhalb von Peer-Gruppen. Diese Prozesse arbeiten zusammen, um [[Epistemosphäre|Wissen]] und Normen in einer Gesellschaft zu verbreiten und neue soziale Dynamiken zu schaffen.
 
@@ -100,13 +100,13 @@ $$
 T(L) = \alpha \cdot K \cdot S
 $$
 
-- $T(L)$: Die Funktion $T(L)$ beschreibt die Transformation, also die Aufnahme von [[Epistemosphäre|Wissen]] durch Lernende ($L$). Diese Wissensaufnahme ist eine Funktion der verfügbaren Wissensmenge ($K$), der sozialen Interaktionen ($S$) und des Wirkungsgrads der Wissensübertragung ($\alpha$).
+- $T(L)$: Die Funktion $T(L)$ beschreibt die Transformation, also die Aufnahme von Wissen durch Lernende ($L$). Diese Wissensaufnahme ist eine Funktion der verfügbaren Wissensmenge ($K$), der sozialen Interaktionen ($S$) und des Wirkungsgrads der Wissensübertragung ($\alpha$).
   
 - $\alpha$: Der Wirkungsgrad der Wissensübertragung, der angibt, wie effektiv Wissen durch soziale Interaktionen aufgenommen wird. Ein höherer Wert von $\alpha$ bedeutet, dass das Lernen besonders effektiv ist.
 
-- $K$: Die **verfügbare Wissensmenge**, die als Ressource zur Verfügung steht und auf die Lernende zugreifen können. Das [[Epistemosphäre|Wissen]] kann aus Büchern, Vorträgen oder Medien stammen und stellt die Basis der Transformation dar.
+- $K$: Die **verfügbare Wissensmenge**, die als Ressource zur Verfügung steht und auf die Lernende zugreifen können. Das Wissen kann aus Büchern, Vorträgen oder Medien stammen und stellt die Basis der Transformation dar.
 
-- $S$: Die **sozialen Interaktionen**, die den Austausch von Ideen, Fragen und Erklärungen zwischen den Lernenden beschreiben. Soziale Interaktionen erhöhen die Wahrscheinlichkeit, dass [[Epistemosphäre|Wissen]] aufgenommen und in bestehende Strukturen integriert wird.
+- $S$: Die **sozialen Interaktionen**, die den Austausch von Ideen, Fragen und Erklärungen zwischen den Lernenden beschreiben. Soziale Interaktionen erhöhen die Wahrscheinlichkeit, dass Wissen aufgenommen und in bestehende Strukturen integriert wird.
 
 Um diese Formel herzuleiten, betrachten wir die Wissensaufnahme als proportional zur Wissensmenge ($K$) und den sozialen Interaktionen ($S$). Die Aufnahmefähigkeit eines Lernenden hängt vom Zusammenspiel dieser beiden Faktoren und dem Wirkungsgrad ($\alpha$) ab. Daher ergibt sich:
 
@@ -125,7 +125,7 @@ $$
 V(L) = \beta \cdot E \cdot C
 $$
 
-- $V(L)$: Die Funktion $V(L)$ beschreibt die Transduktion, also die strukturierte Vermittlung von [[Epistemosphäre|Wissen]] an Lernende ($L$). Diese Wissensvermittlung ist eine Funktion der Effektivität der Lehrmethoden ($E$), der Klarheit der Inhalte ($C$) und des Wirkungsgrads der Wissensvermittlung ($\beta$).
+- $V(L)$: Die Funktion $V(L)$ beschreibt die Transduktion, also die strukturierte Vermittlung von Wissen an Lernende ($L$). Diese Wissensvermittlung ist eine Funktion der Effektivität der Lehrmethoden ($E$), der Klarheit der Inhalte ($C$) und des Wirkungsgrads der Wissensvermittlung ($\beta$).
 
 - $\beta$: Der Wirkungsgrad der Wissensvermittlung, der angibt, wie effektiv Wissen durch die Lehrmethoden vermittelt wird. Ein höherer Wert von $\beta$ bedeutet, dass die Wissensvermittlung besonders effizient ist.
 
@@ -153,11 +153,11 @@ $$
 W = \delta \cdot L \cdot M
 $$
 
-- $W$: Diese Funktion beschreibt den Wissensaustausch zwischen Lernenden, also die Konjugation. Der Austausch von [[Epistemosphäre|Wissen]] ($W$) ist abhängig von der Lernbereitschaft ($L$) und der Motivation ($M$) der Lernenden sowie dem Austauschfaktor ($\delta$).
+- $W$: Diese Funktion beschreibt den Wissensaustausch zwischen Lernenden, also die Konjugation. Der Austausch von Wissen ($W$) ist abhängig von der Lernbereitschaft ($L$) und der Motivation ($M$) der Lernenden sowie dem Austauschfaktor ($\delta$).
 
-- $\delta$: Der **Austauschfaktor**, der bestimmt, wie effizient [[Epistemosphäre|Wissen]] zwischen Lernenden ausgetauscht wird. Ein höherer Wert von $\delta$ zeigt an, dass der Wissensaustausch besonders effektiv ist, weil die Lernenden besonders kooperativ sind oder die Lernumgebung besonders förderlich ist.
+- $\delta$: Der **Austauschfaktor**, der bestimmt, wie effizient Wissen zwischen Lernenden ausgetauscht wird. Ein höherer Wert von $\delta$ zeigt an, dass der Wissensaustausch besonders effektiv ist, weil die Lernenden besonders kooperativ sind oder die Lernumgebung besonders förderlich ist.
 
-- $L$: Die **Lernbereitschaft** der Lernenden, die beschreibt, wie offen und bereit sie sind, [[Epistemosphäre|Wissen]] zu teilen und von anderen zu lernen.
+- $L$: Die **Lernbereitschaft** der Lernenden, die beschreibt, wie offen und bereit sie sind, Wissen zu teilen und von anderen zu lernen.
 
 - $M$: Die **Motivation** der Lernenden, die eine entscheidende Rolle dabei spielt, wie engagiert und bereit sie sind, am Wissensaustausch teilzunehmen. Eine höhere Motivation führt in der Regel zu einem besseren Wissensaustausch.
 
@@ -200,12 +200,12 @@ Zwei Studierende diskutieren ein Thema in einer Arbeitsgruppe und tauschen ihre 
 
 2. **Transduktion**:
    - Aktiver Prozess der Wissensvermittlung durch eine Lehrperson oder ein Medium.
-   - Der Lehrende strukturiert und vermittelt das [[Epistemosphäre|Wissen]] an die Lernenden, ohne dass diese aktiv am Generierungsprozess beteiligt sind.
+   - Der Lehrende strukturiert und vermittelt das Wissen an die Lernenden, ohne dass diese aktiv am Generierungsprozess beteiligt sind.
    - Biologische Entsprechung: Bakteriophagen übertragen genetisches Material von einer Zelle zur nächsten.
 
 3. **Konjugation**:
    - Direkter Wissensaustausch zwischen Lernenden durch Interaktion und Diskussion.
-   - Beide Lernenden profitieren vom Austausch und erweitern ihr [[Epistemosphäre|Wissen]] durch direkte Interaktionen.
+   - Beide Lernenden profitieren vom Austausch und erweitern ihr Wissen durch direkte Interaktionen.
    - Biologische Entsprechung: Bakterienzellen tauschen genetisches Material durch direkten Zellkontakt aus.
 
 Diese Beispiele verdeutlichen, dass die Mechanismen der HGT nicht nur in der Biologie von Bedeutung sind, sondern auch als Metaphern zur Beschreibung von Prozessen der Wissensübertragung in der Bildung herangezogen werden können. Während Transformation eine eher individuelle Form der Wissensaufnahme beschreibt, stehen bei Transduktion und Konjugation die Vermittlung und der Austausch im Vordergrund. Diese Prozesse können dazu beitragen, verschiedene Lernmethoden besser zu verstehen und zu strukturieren, indem sie die unterschiedlichen Wege der Wissensverbreitung beleuchten.
@@ -224,7 +224,7 @@ Traditionell basierten Anforderungsbereiche in der Bildung auf Lernzieldefinitio
 
 - **Lernziele**: Die Definitionen von Lernzielen zielten primär auf das Verhalten der Lernenden ab („Die Lernenden können X wiedergeben, anwenden...“), ohne den Prozess der Wissensaufnahme oder des Wissenstransfers detailliert zu beschreiben.
 
-- **Kompetenzziele**: Obwohl [[Kompetenzziel]]e verstärkt in den Fokus gerückt wurden, um über [[Epistemosphäre|Wissen]] und Fähigkeiten zu sprechen, gelang es ihnen nicht, den zugrunde liegenden Prozess des Wissenstransfers und der Wissensverarbeitung vollständig abzubilden. Der Fokus lag primär auf dem Endergebnis und weniger auf den Interaktionen, die zur Entwicklung von [[Epistemosphäre|Wissen]] und Können führen.
+- **Kompetenzziele**: Obwohl Kompetenzziele verstärkt in den Fokus gerückt wurden, um über Wissen und Fähigkeiten zu sprechen, gelang es ihnen nicht, den zugrunde liegenden Prozess des Wissenstransfers und der Wissensverarbeitung vollständig abzubilden. Der Fokus lag primär auf dem Endergebnis und weniger auf den Interaktionen, die zur Entwicklung von Wissen und Können führen.
 
 ## 3.3 Neuer Ansatz: Prozessorientierte Kompetenzbeschreibung
 
@@ -239,7 +239,7 @@ Abbildung 1 zeigt den Transformationsprozess, in dem [[Epistemosphäre|Wissen]] 
 Komponenten:
 
 - Passive Wissensaufnahme: Initialer Schritt zur Kompetenzentwicklung.
-- Integration in bestehende Strukturen: Verankert neues [[Epistemosphäre|Wissen]] in bestehenden Wissens- und Handlungssystemen.
+- Integration in bestehende Strukturen: Verankert neues Wissen in bestehenden Wissens- und Handlungssystemen.
 
 
 ```mermaid
@@ -269,7 +269,7 @@ In Abbildung 3 wird der Konjugationsprozess dargestellt, in dem [[Epistemosphär
 Komponenten:
 
 - Kooperativer Wissensaustausch: Fördert die gemeinsame Wissenskonstruktion und unterstützt das Lernen durch Diskussion und Zusammenarbeit.
-- Reflexion und Problemlösung: Stärkt die Fähigkeit, [[Epistemosphäre|Wissen]] kritisch zu analysieren und auf neue Herausforderungen anzuwenden.
+- Reflexion und Problemlösung: Stärkt die Fähigkeit, Wissen kritisch zu analysieren und auf neue Herausforderungen anzuwenden.
 ```mermaid
 graph TD
     Konjugation[Konjugation] --> KooperativerWissensaustausch[Kooperativer Wissensaustausch]
@@ -281,9 +281,9 @@ graph TD
 
 Durch die Übertragung der biologischen Mechanismen der HGT auf Bildungsprozesse wird nicht nur das **Endergebnis** von Lernprozessen betrachtet, sondern auch die **Prozessebene**, die zeigt, **wie** [[Epistemosphäre|Wissen]] aufgenommen, vermittelt und ausgetauscht wird. Dies ermöglicht eine detailliertere und dynamischere Beschreibung von Kompetenzentwicklung.
 
-- **Prozessorientierte Kompetenzbeschreibung**: Der Ansatz beschreibt nicht nur das Endprodukt, sondern auch die Art und Weise, wie [[Epistemosphäre|Wissen]] durch unterschiedliche Formen der Interaktion entwickelt und weitergegeben wird. Die Mechanismen der **Transformation** (Wissensaufnahme), **Transduktion** (Wissensvermittlung) und **Konjugation** (Wissensaustausch) bieten eine klare Struktur, um die Prozesse zu verstehen, die zur Entwicklung von Kompetenzen führen.
+- **Prozessorientierte Kompetenzbeschreibung**: Der Ansatz beschreibt nicht nur das Endprodukt, sondern auch die Art und Weise, wie Wissen durch unterschiedliche Formen der Interaktion entwickelt und weitergegeben wird. Die Mechanismen der **Transformation** (Wissensaufnahme), **Transduktion** (Wissensvermittlung) und **Konjugation** (Wissensaustausch) bieten eine klare Struktur, um die Prozesse zu verstehen, die zur Entwicklung von Kompetenzen führen.
 
-- **Mehrdimensionale Kompetenzdarstellung**: Der Ansatz erlaubt es, die Kompetenzentwicklung als einen dynamischen Prozess zu beschreiben, der den ständigen Austausch und die Verarbeitung von [[Epistemosphäre|Wissen]] betont. Dadurch wird deutlich, dass Lernende nicht nur [[Epistemosphäre|Wissen]] passiv aufnehmen, sondern aktiv in den Austausch mit Lehrenden und Peers eingebunden sind, wodurch sie ihr [[Epistemosphäre|Wissen]] vertiefen und erweitern können.
+- **Mehrdimensionale Kompetenzdarstellung**: Der Ansatz erlaubt es, die Kompetenzentwicklung als einen dynamischen Prozess zu beschreiben, der den ständigen Austausch und die Verarbeitung von Wissen betont. Dadurch wird deutlich, dass Lernende nicht nur Wissen passiv aufnehmen, sondern aktiv in den Austausch mit Lehrenden und Peers eingebunden sind, wodurch sie ihr Wissen vertiefen und erweitern können.
 
 Durch die Berücksichtigung dieser Mechanismen wird eine dynamische und interaktive Perspektive auf Lernprozesse eröffnet, die über die klassischen taxonomischen Modelle hinausgeht. Die Transferaktive Kompetenzentwicklung bietet eine neue, prozessuale Ebene, die es ermöglicht, Lernprozesse tiefgreifender zu verstehen und zu fördern.
 
@@ -301,7 +301,7 @@ Die Matrix visualisiert die Prozesse, die in den jeweiligen Anforderungsbereiche
 
 - **Flexibilität**: Die Matrix zeigt, dass die Mechanismen nicht starr einem bestimmten Anforderungsbereich zugeordnet sind. Vielmehr lässt sie dynamische Übergänge und Interaktionen zu, die in verschiedenen Lehrformaten und Lernumgebungen relevant sind. Dies erlaubt eine differenzierte Analyse von Lernprozessen und eröffnet neue Wege zur Optimierung des Wissenstransfers (Lu et al., 2015).
 
-- **Förderung von Interaktion und Reflexion**: Besonders der Mechanismus der Konjugation, der den direkten Wissensaustausch zwischen Lernenden beschreibt, fördert interaktive Lernformen wie Gruppenarbeiten und Peer-Learning. Dieser Mechanismus trägt zur Entwicklung von **Reflexionskompetenzen** bei, da Lernende durch den Austausch und die Diskussion mit anderen nicht nur [[Epistemosphäre|Wissen]] teilen, sondern auch ihre eigenen Lernprozesse hinterfragen und verbessern können (van Gestel et al., 2021).
+- **Förderung von Interaktion und Reflexion**: Besonders der Mechanismus der Konjugation, der den direkten Wissensaustausch zwischen Lernenden beschreibt, fördert interaktive Lernformen wie Gruppenarbeiten und Peer-Learning. Dieser Mechanismus trägt zur Entwicklung von **Reflexionskompetenzen** bei, da Lernende durch den Austausch und die Diskussion mit anderen nicht nur Wissen teilen, sondern auch ihre eigenen Lernprozesse hinterfragen und verbessern können (van Gestel et al., 2021).
 
 - **Strukturierte Kompetenzentwicklung**: Durch die prozessorientierte Betrachtung von Lernprozessen ermöglicht die Matrix eine strukturierte Beschreibung der Kompetenzentwicklung. Sie beschreibt nicht nur das, **was** Lernende erreichen sollen, sondern auch, **wie** sie dies durch verschiedene Arten des Wissensflusses erreichen können. Dies fördert ein tiefes Verständnis der Lernprozesse und ihrer Bedeutung für die langfristige Entwicklung von Kompetenzen.
 

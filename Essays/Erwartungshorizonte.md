@@ -68,7 +68,7 @@ Erwartungshorizonte sind vorab definierte Bewertungsmaßstäbe, die festlegen, w
    - Wer nicht den Erwartungen entspricht, wird als defizitär wahrgenommen, unabhängig davon, ob das Vorgehen begründet, wirksam oder evidenzbasiert war. Dies begünstigt den Golem-Effekt; die implizite Abwertung führt zu geringerer Leistung und vermindertem Selbstvertrauen. (Rosenthal & Jacobson, 1968; Pätzold, 2022)
 
 3. **Widerspruch zur Theorie emergenter Kompetenz:**
-   - Nach Erpenbeck (2007), Arnold (2014) und anderen ist [[Kompetenz]] die Fähigkeit zur selbstorganisierten Bewältigung neuer, unübersichtlicher Situationen. Sie ist einerseits weder planbar und reproduzierbar, andererseits zeigt sich Emergenz im Handeln. Erwartungshorizonte, die konkrete Lösungen antizipieren, widersprechen diesem Verständnis grundlegend.
+   - Nach Erpenbeck (2007), Arnold (2014) und anderen ist Kompetenz die Fähigkeit zur selbstorganisierten Bewältigung neuer, unübersichtlicher Situationen. Sie ist einerseits weder planbar und reproduzierbar, andererseits zeigt sich Emergenz im Handeln. Erwartungshorizonte, die konkrete Lösungen antizipieren, widersprechen diesem Verständnis grundlegend.
    
 4. **Rechtslogischer Widerspruch zur NotSan-APrV:**
    - § 4 NotSanG verlangt evidenzbasiertes, eigenverantwortliches und situationsbezogenes Handeln. Bewertungsraster, die nur eine spezifische Lösung anerkennen, stehen dazu im Widerspruch und sind rechtlich angreifbar (Ditscheid, 2021).
@@ -76,7 +76,7 @@ Erwartungshorizonte sind vorab definierte Bewertungsmaßstäbe, die festlegen, w
 Dieses Verständnis lässt sich in der folgenden Kompetenzdefinition[^2] konkretisieren:
 
 > [!quote] Zitat
-> ![[Systemische Kompetenzentwicklung High Responsibility Teams#Kompetenzdefinition High Responsibility Teams]]
+> [[Systemische Kompetenzentwicklung High Responsibility Teams]]
 
 # Reflexionsbasierte Prüfungen: Eine Alternative
 
@@ -144,7 +144,7 @@ Reflexionsbasierte Prüfungen stellen keineswegs nur eine methodische Alternativ
    - Anstelle von Reproduktion fördern reflexionsbasierte Prüfungen die Fähigkeit, begründet zu entscheiden, Verantwortung zu übernehmen und komplexe Situationen eigenständig zu analysieren, wie zentrale Merkmale professioneller Handlungskompetenz.
 
 2. **Förderung von Kreativität und Problemlösefähigkeit:**
-   - Unkonventionelle oder kontextspezifisch angepasste Lösungen werden nicht als Abweichung, sondern als Ausdruck reflexiver [[Kompetenz]] gewürdigt. Damit werden kreative Potenziale nicht nur erlaubt, sondern sichtbar gemacht.
+   - Unkonventionelle oder kontextspezifisch angepasste Lösungen werden nicht als Abweichung, sondern als Ausdruck reflexiver Kompetenz gewürdigt. Damit werden kreative Potenziale nicht nur erlaubt, sondern sichtbar gemacht.
 
 3. **Transparenz, Nachvollziehbarkeit und Machtkritik:**
    - Durch dialogische Prüfungsformate und das Fehlen starrer Bewertungsvorgaben wird das Machtgefälle zwischen Prüfenden und Geprüften reduziert. Bewertungsentscheidungen werden argumentativ einholbar und anschlussfähig, also ein bildungsethischer Zugewinn.
@@ -185,7 +185,7 @@ Bildungseinrichtungen müssen den Mut aufbringen, sich von der Illusion objektiv
 Die Abkehr von Erwartungshorizonten bedeutet mehr als eine didaktische Korrektur, sie erfordert ein grundlegend anderes Prüfungsverständnis. Eine konsequente Antwort auf diese Herausforderung bietet der [[Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)]], der Prüfungen als systematische, erkenntnisorientierte Denkbewegungen versteht:
 
 > [!quote] Zitat
-> ![[Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)#1 Definition]]
+> [[Erkenntnisbasierter Aufgabenzyklus (EBA-Zyklus)]]
 
 Der EBA-Zyklus strukturiert somit den Weg von der Formulierung eines Erkenntnisziels über die Festlegung der Tiefe, die Auswahl passender Werkzeuge und Methoden bis hin zur reflexiven Bewertung und gegebenenfalls zur Neufassung des Erkenntnisziels. Prüfungen, die sich an diesem Zyklus orientieren, bewerten vorgefasste Ergebnisse und die Qualität, Begründung sowie epistemische Tiefe des gewählten Weges. Damit verschiebt sich dabei die Rolle der Prüfenden grundlegend. Sie begleiten den Prozess nicht aus neutraler Distanz, sie ermöglichen, beobachten und bewerten die erkenntnistheoretische Konsistenz der Denk- und Argumentationsbewegung. Die Bewertung erfolgt entlang eines normativen Solls und anhand der Frage:
 

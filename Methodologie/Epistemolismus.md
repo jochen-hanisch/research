@@ -38,6 +38,8 @@ Zentral ist die Annahme, dass wissenschaftliche Qualität sowohl durch Stabilit�
 
 Der Text entfaltet diese Struktur in Definition, Herleitung, Anwendungsbeispielen, Forderungen, Implikationen und Kritik. Der Epistemolismus erscheint dabei als reflexive Erweiterung der bestehenden Wissenschaftskultur, ohne diese zu negieren. Erkenntnis wird als beobachtbare, rekonstruierbare Bewegung innerhalb einer digital gestützten [[Epistemosphäre]] beschrieben.
 
+Im methodischen Netz des `Research`-Raums verbindet sich diese Perspektive besonders mit [[Analyse zweiter Ordnung]] und [[KI-Analyse erster Ordnung]].
+
 # Einleitung
 
 Wissenschaft kann als kulturell, technisch und institutionell strukturierter Raum epistemischer Entscheidungen entfalte werden. Diese zeigen sich im traditionellen Wissenschaftsbetrieb vorrangig in Ergebnissen: in Artikeln, Monografien oder Prüfungsformaten. Die Entstehungsprozesse, einschließlich Umwegen, Revisionen und Modifikationen, bleiben dabei oft im Hintergrund. Doch gerade in diesen dynamischen Bewegungen liegt eine zentrale Quelle wissenschaftlicher Erkenntnis. Wird Wissenschaft als Prozess verstanden, rückt die Gestaltung dieser Bewegungen ins Zentrum. Sichtbarkeit meint in diesem Zusammenhang eine strukturierte Nachvollziehbarkeit epistemischer Formbildung – mehr als bloße Offenlegung.

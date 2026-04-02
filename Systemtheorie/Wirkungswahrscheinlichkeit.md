@@ -45,21 +45,21 @@ Bei der Beschreibung verschränkter Zustände in der Quantenmechanik treten nega
 
 Diese Erweiterung bietet neue Ansätze zur Modellierung von Systemen, in denen sowohl positive als auch negative Effekte gleichzeitig auftreten und miteinander interagieren (Haag, 1953). Negative Wahrscheinlichkeiten lassen sich auch auf biologische, psychologische und soziale [[Systeme]] übertragen, um komplexe Wechselwirkungen und gleichzeitige positive und negative Effekte zu präzisieren. Somit können sie in verschiedenen Disziplinen eingesetzt werden, um reale Systemverhalten umfassend und differenziert darzustellen (Aad et al., 2024).
 
-### 2.1.2 Übertragung auf biologische, psychische und soziale [[Systeme]]
+### 2.1.2 Übertragung auf biologische, psychische und soziale Systeme
 
 Das Prinzip der negativen Wahrscheinlichkeiten lässt sich auf komplexe [[Systeme]] wie biologische, psychische und soziale Strukturen anwenden. Hierbei treten häufig gleichzeitige positive und negative Effekte auf, die durch klassische Modelle nicht vollständig abgebildet werden können. Mit negativen Wahrscheinlichkeiten lassen sich folgende Phänomene präzise darstellen:
 
-1. **Biologische [[Systeme]]**:
-   Biologische [[Systeme]], wie bspw. die Regulation von Hormonen oder die Neurotransmitter-Inhibitorfunktion, lassen sich durch negative Rückkopplungen beschreiben. Diese Zustände, in denen Hemmung und Aktivierung gleichzeitig wirken, benötigen negative Wahrscheinlichkeiten, um präzise modelliert zu werden.
+1. **Biologische Systeme**:
+   Biologische Systeme, wie bspw. die Regulation von Hormonen oder die Neurotransmitter-Inhibitorfunktion, lassen sich durch negative Rückkopplungen beschreiben. Diese Zustände, in denen Hemmung und Aktivierung gleichzeitig wirken, benötigen negative Wahrscheinlichkeiten, um präzise modelliert zu werden.
    
    *Beispiel*: Der hemmende Effekt von GABA im zentralen Nervensystem tritt parallel zu aktivierenden Effekten anderer Neurotransmitter auf. Dieser gleichzeitige Einfluss lässt sich durch die Multiplikation einer positiven und einer negativen Wahrscheinlichkeit im Multiplikationssatz der Wirkungswahrscheinlichkeit abbilden.
 
-2. **Psychische [[Systeme]]**:
+2. **Psychische Systeme**:
    Psychologische Zustände wie Ambivalenz oder kognitive Dissonanz entstehen, wenn ein Individuum gleichzeitig positive und negative Emotionen empfindet. Hier tritt eine Überlagerung auf, die in der klassischen Wahrscheinlichkeitsrechnung ungenau ist. Negative Wahrscheinlichkeiten helfen, diese Phänomene präzise zu modellieren.
 
    *Beispiel*: Eine Person kann in Bezug auf eine Entscheidung sowohl Angst (negative Wahrscheinlichkeit) als auch Freude (positive Wahrscheinlichkeit) empfinden. Diese gleichzeitige Wirkung wird durch den Additionssatz der Wirkungswahrscheinlichkeit als Gesamtwahrscheinlichkeit dargestellt.
 
-3. **Soziale [[Systeme]]**:
+3. **Soziale Systeme**:
    In sozialen Systemen führen Interdependenzen häufig dazu, dass ein Ereignis gleichzeitig positive und negative Auswirkungen auf verschiedene Akteure hat. Diese gleichzeitigen Effekte lassen sich durch den Korrelationssatz modellieren, wobei der Korrelationskoeffizient \($r$) die Stärke und Richtung der Beziehung beschreibt.
 
    *Beispiel*: Ein sozialer Konflikt kann die Kommunikation in einer Gruppe fördern (positive Wirkung), während gleichzeitig die Gruppenkohäsion abnimmt (negative Wirkung). Der Korrelationssatz der Wirkungswahrscheinlichkeit zeigt, dass negative Wahrscheinlichkeiten als Ausdruck der gleichzeitigen, aber gegensätzlichen Effekte dienen können.
@@ -99,7 +99,7 @@ Die mathematischen Sätze der Wirkungswahrscheinlichkeit bilden das rechnerische
 **Satz**
 
 Wenn mindestens zwei disjunkte Ereignisse innerhalb des gleichen Wirkungsraums auftreten, das heißt, sie schließen sich gegenseitig aus und können nicht gleichzeitig eintreten, dann ist die Gesamtwahrscheinlichkeit durch die Addition der Wahrscheinlichkeiten der einzelnen Ereignisse zu berechnen.
-$$P(A ∨ B) = P(A) + P(B)$$ **Bedingung** ([[Wirkungswahrscheinlichkeit#2.5.1 Abhängigkeitstypen|Abhängigkeitstypen]]): Gilt für disjunkte Ereignisse, also $A ∩ B = ∅$
+$$P(A ∨ B) = P(A) + P(B)$$ **Bedingung** ([[Wirkungswahrscheinlichkeit]]): Gilt für disjunkte Ereignisse, also $A ∩ B = ∅$
 
 #### 2.4.1.1 Herleitung
 
@@ -130,7 +130,7 @@ Der Additionssatz wird verwendet, wenn mindestens zwei disjunkte Ereignisse auft
 
 Wenn mindestens zwei unabhängige Ereignisse innerhalb des gleichen Wirkungsraums auftreten, das heißt, sie können gleichzeitig eintreten, ohne sich gegenseitig zu beeinflussen, dann ist die Gesamtwahrscheinlichkeit durch die Multiplikation der Wahrscheinlichkeiten der einzelnen Ereignisse zu berechnen.
 
-**Bedingung** ([[Wirkungswahrscheinlichkeit#2.5.1 Abhängigkeitstypen|Abhängigkeitstypen]]): Gilt für unabhängige Ereignisse.
+**Bedingung** ([[Wirkungswahrscheinlichkeit]]): Gilt für unabhängige Ereignisse.
 
 #### 2.4.2.1 Herleitung
 
@@ -181,7 +181,7 @@ Der Multiplikationssatz gilt für unabhängige Ereignisse, die gleichzeitig auft
 
 Wenn mindestens zwei voneinander abhängige Ereignisse innerhalb des gleichen Wirkungsraums auftreten, das heißt, das Eintreten des einen Ereignisses beeinflusst die Wahrscheinlichkeit des anderen, dann ist die Gesamtwahrscheinlichkeit durch die Korrelation der Wahrscheinlichkeiten der einzelnen Ereignisse zu berechnen. Die Stärke der Abhängigkeit wird durch den Korrelationskoeffizienten r bestimmt.
 $$P(A ∧ B) = r × P(A) × P(B)$$
-**Bedingung** ([[Wirkungswahrscheinlichkeit#2.5.1 Abhängigkeitstypen|Abhängigkeitstypen]]): Gilt für abhängige Ereignisse, wobei $r$ der Korrelationsfaktor ist und $r \in [-1, 1]$.
+**Bedingung** ([[Wirkungswahrscheinlichkeit]]): Gilt für abhängige Ereignisse, wobei $r$ der Korrelationsfaktor ist und $r \in [-1, 1]$.
 
 #### 2.4.3.1 Herleitung
 
@@ -200,7 +200,7 @@ $$P(A ∧ B) = 0,8 × 0,7 × (-0,3) = -0,168$$
 Der Korrelationssatz beschreibt, wie zwei abhängige Ereignisse miteinander interagieren. Der Korrelationskoeffizient stellt sicher, dass die Wechselwirkung korrekt in die Gesamtwahrscheinlichkeit einfließt. Die Wahrscheinlichkeit wird nicht als „positiv“ oder „negativ“ interpretiert, sondern beschreibt die Interaktion der Ereignisse und ihr Gesamtverhalten im System.
 
 
-## 2.5 [[Interdependenz]] und Wirkungswahrscheinlichkeit
+## 2.5 Interdependenz und Wirkungswahrscheinlichkeit
 
 Die [[Interdependenz]] von Ereignissen im System beschreibt die gegenseitige Abhängigkeit und Wechselwirkung der Ereignisse, die die Gesamtwirkung beeinflussen. Diese Abhängigkeiten wirken sich direkt auf die Wahrscheinlichkeit der einzelnen Ereignisse und ihre resultierenden Wirkungen aus. Durch die [[Interdependenz]] werden Ereignisse nicht isoliert betrachtet, sondern im Kontext ihrer Beziehungen zu anderen Ereignissen im System verstanden. Die Wirkungswahrscheinlichkeit ist das zentrale Maß, das diese Abhängigkeiten quantifiziert.
 
@@ -291,7 +291,7 @@ Gleichzeitig könnten negative Wahrscheinlichkeiten quantifiziert werden, um die
 
 Durch die Berücksichtigung sowohl positiver als auch negativer Wahrscheinlichkeiten in der Analyse können Umweltwissenschaftler und Entscheidungsträger ein umfassenderes Bild der potenziellen Auswirkungen ihrer Maßnahmen erhalten. Dies ermöglicht eine fundierte Entscheidungsfindung, die sowohl die Chancen als auch die Risiken von Umweltmaßnahmen berücksichtigt.
 
-### 2.7.4 Soziale [[Systeme]]
+### 2.7.4 Soziale Systeme
 
 In sozialen Systemen könnte die Wirkungswahrscheinlichkeit verwendet werden, um die Effekte von politischen Entscheidungen auf die Gesellschaft zu analysieren. Eine politische Maßnahme, die eine positive Wahrscheinlichkeit von $P = 0,85$ für die Verbesserung der sozialen Gerechtigkeit aufweist, könnte als vorteilhaft angesehen werden. Gleichzeitig könnten negative Wahrscheinlichkeiten, die mit möglichen sozialen Spannungen oder Widerständen gegen die Maßnahme verbunden sind, ebenfalls in die Analyse einfließen.Hier ist eine erweiterte Version des Beispiels für negative Wahrscheinlichkeiten im Kontext sozialer [[Systeme]]. Diese Ergänzung kann direkt in die Notiz eingefügt werden:
 
@@ -327,7 +327,7 @@ Die Konzepte der Wirkungswahrscheinlichkeit und der negativen Wahrscheinlichkeit
 
 Die Einführung negativer Wahrscheinlichkeiten und die Betrachtung der Wirkungswahrscheinlichkeit erweitern das theoretische Verständnis von Systemdynamik und [[Interdependenz]]:
 
-- **Erweiterung der Wahrscheinlichkeitstheorie**: Die Konzepte fordern die traditionellen Ansätze der Wahrscheinlichkeitstheorie heraus und erweitern diese um neue Dimensionen, die in komplexen Systemen von Bedeutung sind. Dies könnte zu neuen theoretischen Modellen führen, die besser in der Lage sind, die Dynamik komplexer [[Systeme]] zu erfassen.
+- **Erweiterung der Wahrscheinlichkeitstheorie**: Die Konzepte fordern die traditionellen Ansätze der Wahrscheinlichkeitstheorie heraus und erweitern diese um neue Dimensionen, die in komplexen Systemen von Bedeutung sind. Dies könnte zu neuen theoretischen Modellen führen, die besser in der Lage sind, die Dynamik komplexer Systeme zu erfassen.
 
 - **Interdisziplinäre Ansätze**: Die Anwendung der Wirkungswahrscheinlichkeit in verschiedenen Disziplinen fördert interdisziplinäre Ansätze, die es ermöglichen, komplexe Phänomene umfassender zu analysieren. Dies könnte zu neuen Erkenntnissen in Bereichen wie der Verhaltensforschung, der Systemtheorie und der Entscheidungsfindung führen.
 

@@ -64,7 +64,7 @@ Der Vergleich der strukturellen Entkopplung mit einer allgemeinen Definition ver
 
 ### 2.1.1 Zielsetzung und Kontext
 
-- **Strukturelle Kopplung**: Dieser Prozess zielt darauf ab, [[Systeme]] zu integrieren und miteinander zu verbinden, um Stabilität und Synergien zu erzeugen. Die Kopplung sorgt für die Schaffung von Netzwerken, in denen [[Systeme]] durch Interaktionen ihre Funktionen erweitern und aufrechterhalten können (Luhmann, 1995).
+- **Strukturelle Kopplung**: Dieser Prozess zielt darauf ab, Systeme zu integrieren und miteinander zu verbinden, um Stabilität und Synergien zu erzeugen. Die Kopplung sorgt für die Schaffung von Netzwerken, in denen Systeme durch Interaktionen ihre Funktionen erweitern und aufrechterhalten können (Luhmann, 1995).
 - **Strukturelle Entkopplung**: Im Gegensatz dazu ist die Entkopplung darauf ausgerichtet, bestehende Verbindungen bewusst zu lösen, um die Autonomie und Anpassungsfähigkeit des Systems zu fördern. Dies ermöglicht es dem System, sich neu zu orientieren und alternative Sinnstrukturen zu schaffen, die eine flexible Anpassung an veränderte Umweltbedingungen erlauben (Orton & Weick, 1990).
 
 ### 2.1.2 Präzision und Detailgrad
@@ -212,7 +212,7 @@ Der bisherige Diskurs hat gezeigt, dass die strukturelle Entkopplung durch gezie
 - Beisi, J. (2020). Concepts of Adaptability in Systems. *Journal of System Engineering*.
 - Boxenbaum, E., & Jonsson, S. (2017). *Isomorphism, Diffusion and Decoupling*. In: *Handbook of Organizational Institutionalism*.
 - Hasse, R., & Krücken, G. (2005). *Decoupling and Institutional Theory*. University of Luzern.
-- Luhmann, N. (1984). *Soziale [[Systeme]]*. Suhrkamp.
+- Luhmann, N. (1984). *Soziale Systeme*. Suhrkamp.
 - Luhmann, N. (1995). *Die Gesellschaft der Gesellschaft*. Suhrkamp.
 - Meyer, J. W., & Rowan, B. (1977). *Institutionalized Organizations: Formal Structure as Myth and Ceremony*. *American Journal of Sociology*.
 - Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.

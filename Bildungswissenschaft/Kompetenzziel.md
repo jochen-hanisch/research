@@ -76,7 +76,7 @@ Diese Definition integriert die folgenden Kernelemente:
 
 - **Transformation:** Der Fokus liegt auf der Zielsetzung, unerwünschte Zustände in erwünschte zu transformieren. Dies macht die Kompetenzziele wirkungsorientiert und sichert ihre praktische Relevanz.
 
-- **Bereitschaft:** Kompetenzziele umfassen die Entwicklung der inneren Bereitschaft, die genannten Operationen zielgerichtet und effektiv umzusetzen. Diese Komponente betont die [[Motivation]] und Fähigkeit der Lernenden, die Ziele aktiv zu verfolgen.
+- **Bereitschaft:** Kompetenzziele umfassen die Entwicklung der inneren Bereitschaft, die genannten Operationen zielgerichtet und effektiv umzusetzen. Diese Komponente betont die Motivation und Fähigkeit der Lernenden, die Ziele aktiv zu verfolgen.
 
 - **SMART-Kompatibilität:** Kompetenzziele erfüllen die SMART-Kriterien (spezifisch, messbar, attraktiv, realistisch, terminiert) und gewährleisten damit eine überprüfbare und kontextspezifische Formulierung.
 

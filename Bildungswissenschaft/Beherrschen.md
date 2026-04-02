@@ -169,7 +169,7 @@ Bemerkenswert ist, dass diese Struktur bereits im Referentenentwurf des BMG (201
 
 Die hier verwendete Kompetenzdefinition versteht [[Kompetenz]] wie folgt:
 
-![[Systemische Kompetenzentwicklung High Responsibility Teams#Kompetenzdefinition High Responsibility Teams]]
+[[Systemische Kompetenzentwicklung High Responsibility Teams]]
 
 Diese Kompetenzdefinition bietet einen präzisen, handlungsorientierten Rahmen, um den bislang unscharf verwendeten Begriff Beherrschen zu präzisieren und wird im Rahmen des Textes als theoretische Grundlage genutzt, um Beherrschen nicht nur begrifflich zu schärfen, sondern auch didaktisch und prüfungstechnisch zu operationalisieren. Sie erlaubt infolgedessen, den systemtheoretischen Operationsbegriff mit den ausbildungsrechtlichen Anforderungen des NotSanG und den prüfungsrelevanten Perspektiven der NotSan-APrV zu verknüpfen. Auf diese Weise wird Beherrschen als eine unteilbare, zielgerichtete Operation verstanden, die kognitive und psychomotorische Komponenten vereint und auf die Überwindung konkret identifizierter Transformationsbarrieren ausgerichtet ist.
 
@@ -873,7 +873,7 @@ Diese Form der Kritik unterscheidet sich grundlegend von substanzhaltiger, konst
 Ein methodisch abgesicherter Umgang mit nicht-konstruktiver Kritik ist aus mehreren Gründen notwendig:
 
 - **Ressourcenschonung:** Die systematische Bearbeitung unsachlicher oder nicht belegter Kritik bindet erhebliche personelle und zeitliche Ressourcen, ohne dass ein Mehrwert für die Weiterentwicklung des Konstrukts entsteht.
-- **Schutz der normativen Kohärenz:** Die wiederholte oder laute Artikulation nicht-konstruktiver Einwände kann die Kohärenz und Verbindlichkeit normativer Setzungen untergraben. Dies gefährdet die Anschlussfähigkeit an den Rechtsrahmen (NotSanG § 2a, NotSan-APrV § 17 Abs. 2) und die wissenschaftlich fundierte Entwicklung des Begriffs ([[Systemische Kompetenzentwicklung High Responsibility Teams]]).
+- **Schutz der normativen Kohärenz:** Die wiederholte oder laute Artikulation nicht-konstruktiver Einwände kann die Kohärenz und Verbindlichkeit normativer Setzungen untergraben. Dies gefährdet die Anschlussfähigkeit an den Rechtsrahmen (NotSanG § 2a, NotSan-APrV § 17 Abs. 2) und die wissenschaftlich fundierte Entwicklung des Begriffs (Systemische Kompetenzentwicklung High Responsibility Teams).
 - **Vermeidung von Schein-Debatten:** Eine klare Trennung zwischen konstruktiver und nicht-konstruktiver Kritik verhindert, dass der Entwicklungsprozess durch endlose, nicht zielführende Debatten blockiert oder intransparent wird (SK Verlag, 2021).
 
 ### 5.3.3 Systematisches Vorgehen im Umgang mit nicht-konstruktiver Kritik

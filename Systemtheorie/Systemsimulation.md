@@ -129,7 +129,7 @@ Diese Komponenten ermöglichen eine umfassende Replikation aller Bedingungen, di
 Ein Systemsimulator ist eine Weiterentwicklung dieses Ansatzes, wobei der Fokus auf der vollständigen Nachbildung beliebiger komplexer [[Systeme]], nicht nur flugtechnischer, liegt. Folgende Aspekte werden berücksichtigt:
 
 1. **Replikation eines spezifischen Systems**: Der Systemsimulator basiert auf der Struktur und den Funktionen des jeweiligen Systems, das er simulieren soll, sei es ein lebendes, psychisches, soziales oder technisches System.
-2. **Nachbildung der Systemdynamiken**: Der Systemsimulator enthält Modelle und Funktionen, die dynamische Veränderungen und Prozesse des Systems realitätsgetreu nachbilden. Diese können, je nach Anwendungsfeld Kommunikationsprozesse, [[Feedback]]-Schleifen und Anpassungsmechanismen umfassen, die in komplexen sozialen oder psychologischen Systemen auftreten.
+2. **Nachbildung der Systemdynamiken**: Der Systemsimulator enthält Modelle und Funktionen, die dynamische Veränderungen und Prozesse des Systems realitätsgetreu nachbilden. Diese können, je nach Anwendungsfeld Kommunikationsprozesse, Feedback-Schleifen und Anpassungsmechanismen umfassen, die in komplexen sozialen oder psychologischen Systemen auftreten.
 3. **Integration von visuellen und physischen Rückmeldungen**: Wie der FFS ein visuelles und ein Kraftsystem integriert, kann ein Systemsimulator sensorische oder taktile Rückmeldungen umfassen, die zur realistischen Simulation von Bedingungen und zur Verbesserung der Interaktion erforderlich sind.
 4. **Erweiterung auf interaktive Systemebenen**: Der Systemsimulator umfasst Autopoiesis, Kommunikation und Technik, die je nach Art des simulierten Systems zu einer vernetzten, interaktiven Simulation verknüpft werden können.
 
@@ -167,7 +167,7 @@ Zusätzlich zu den Validierungsprüfungen stellen die CS-FSTD-Spezifikationen um
 
 - **Flugdynamikmodelle**: Die Software muss in der Lage sein, die unterschiedlichen aerodynamischen Kräfte und Momente realitätsgetreu abzubilden, die bei verschiedenen Manövern und Flugbedingungen auftreten.
 - **Bewegungs- und Steuermodellierung**: Simulationsgeräte müssen die Bewegungen und Steuerkräfte genau so vermitteln, wie sie in einem tatsächlichen Flugzeug wahrgenommen würden. Hierzu gehört auch die Replikation der Steuerungsempfindlichkeit und die präzise Übertragung von Ruder-, Steuerknüppel- und Gaseingaben.
-- **Visuelle [[Systeme]]**: Für Full-Flight-Simulatoren ist ein visuelles System erforderlich, das eine deutliche und realistische Außensicht aus dem Cockpit bietet. Dies umfasst auch eine detailgetreue Nachbildung von Wetterphänomenen, Tages- und Nachtbedingungen sowie geografischen Besonderheiten, die für das Training erforderlich sind.
+- **Visuelle Systeme**: Für Full-Flight-Simulatoren ist ein visuelles System erforderlich, das eine deutliche und realistische Außensicht aus dem Cockpit bietet. Dies umfasst auch eine detailgetreue Nachbildung von Wetterphänomenen, Tages- und Nachtbedingungen sowie geografischen Besonderheiten, die für das Training erforderlich sind.
 
 Die Spezifikationen variieren je nach Gerätetyp und Ausbildungsziel, wobei Full-Flight-Simulatoren (FFS) die höchsten Anforderungen erfüllen müssen. FFS sind mit einem geschlossenen Cockpit ausgestattet und verfügen über Bewegungssysteme sowie visuelle [[Systeme]], die eine exakte Nachbildung der realen Flugumgebung ermöglichen. Diese Simulatoren sind besonders geeignet für das Training und die Zertifizierung von Luftfahrzeugbesatzungen auf einer spezifischen Flugzeugmodellreihe und bieten eine praxisnahe Vorbereitung auf operative Anforderungen und Notfallprozeduren.
 
@@ -291,7 +291,7 @@ Durch diese abgestufte Typisierung können die Simulatoren gezielt für untersch
 
 Um die Qualität und Sicherheit der Flugsimulatoren langfristig zu gewährleisten, schreibt die EASA regelmäßige Überprüfungen und Zertifizierungen der Geräte vor. Diese Inspektionen umfassen eine umfassende technische Prüfung sowie eine Leistungsbewertung, um sicherzustellen, dass die Simulatoren den festgelegten Standards entsprechen und den Anforderungen der Pilotenausbildung gerecht werden. Folgende Prüfungen sind von besonderer Bedeutung:
 
-- **Technische Inspektionen**: Während der technischen Inspektionen wird die gesamte Hardware und Software des Simulators geprüft. Dies umfasst die Funktionalität der Cockpitinstrumente, die Präzision der Bewegungssysteme und die Integrität der visuellen und akustischen [[Systeme]]. Technische Inspektionen gewährleisten, dass alle Komponenten des Simulators optimal funktionieren und das geforderte Leistungsniveau beibehalten wird.
+- **Technische Inspektionen**: Während der technischen Inspektionen wird die gesamte Hardware und Software des Simulators geprüft. Dies umfasst die Funktionalität der Cockpitinstrumente, die Präzision der Bewegungssysteme und die Integrität der visuellen und akustischen Systeme. Technische Inspektionen gewährleisten, dass alle Komponenten des Simulators optimal funktionieren und das geforderte Leistungsniveau beibehalten wird.
 - **Leistungsbewertung im Vergleich zu Standards**: In regelmäßigen Abständen wird die Leistung des Simulators im Vergleich zu den definierten Standards überprüft. Dabei wird getestet, ob der Simulator die verschiedenen Szenarien, Manöver und Notfallbedingungen wie gefordert simulieren kann. Abweichungen von den Standards führen zu Kalibrierungen oder Anpassungen, um die Simulatorleistung wieder an die regulatorischen Anforderungen anzupassen.
 - **Zertifizierungsprozess**: Die Zertifizierung ist ein mehrstufiger Prozess, der sicherstellt, dass ein Simulator alle Qualitätsstandards erfüllt. Nach erfolgreicher Inspektion und Bewertung wird dem Simulator eine Zertifizierung erteilt, die seine Einsatzfähigkeit für die Ausbildung bestätigt. Diese Zertifizierungen sind zeitlich begrenzt und erfordern regelmäßige Erneuerungen, um die laufende Einhaltung der Standards zu garantieren.
 
@@ -322,23 +322,23 @@ Ein entscheidendes Merkmal der Kommunikation in der Systemsimulation ist ihre Ro
 
 Die Nachbildung der Kommunikation in der Systemsimulation trägt somit wesentlich dazu bei, die Dynamik und die Anpassungsfähigkeit von Systemen zu erfassen und in der Simulation abzubilden. Dadurch wird eine realistische Modellierung von Systemen möglich, die in ständiger Interaktion mit ihrer Umwelt stehen und kontinuierlich auf Veränderungen reagieren müssen.
 
-### 2.3.3 [[Feedback]], [[Reflexion]] und [[Re-entry]] in der Simulation
+### 2.3.3 Feedback, Reflexion und Re-entry in der Simulation
 
 Ein integraler Bestandteil der Systemsimulation ist die dynamische Schleife aus [[Feedback]], [[Reflexion]] und Re-Entry. Diese Mechanismen sind entscheidend für die kontinuierliche Anpassung und Entwicklung des simulierten Systems und ermöglichen eine proaktive und lernfähige Simulation.
 
-- **[[Feedback]]** dient als kontinuierlicher Rückkopplungsmechanismus, der das System sowohl über seine internen Zustände als auch über externe Interaktionen informiert. Internes [[Feedback]] bezieht sich auf die Selbstbeobachtung des Systems, bei der Prozesse und Strukturen bewertet werden. Externes [[Feedback]] umfasst die Reaktionen der Umwelt auf das System, die in Form von Informationen, Veränderungen oder Rückmeldungen zurück in das System fließen (Hanisch-Johannsen & ChatGPT, 2024).
-- **[[Reflexion]]** ist der Prozess, durch den das System [[Feedback]] analysiert und bewertet. Sie erlaubt einem System, die erhaltenen Informationen zu verarbeiten, kritische Zustände zu identifizieren und zu entscheiden, welche Anpassungen erforderlich sind. Dieser Prozess ist nicht nur reaktiv, sondern bietet dem System die Möglichkeit, seine eigenen Strukturen und Prozesse auf einer tieferen Ebene zu durchdenken und strategische Anpassungen vorzunehmen. (Baraldi et al., 2019e)
-- **Re-Entry** beschreibt die Rückführung der reflektierten Anpassungen in das System. Dieser Mechanismus gibt dem System die Möglichkeit, die gewonnenen Erkenntnisse und Anpassungen in seine bestehenden Strukturen zu integrieren und neue Handlungsoptionen zu entwickeln. [[Re-entry]] ist entscheidend für die kontinuierliche Weiterentwicklung des Systems, welche die Basis für nachhaltige Veränderungen und die Anpassung an neue Herausforderungen bildet (Baraldi et al., 2019d).
+- **Feedback** dient als kontinuierlicher Rückkopplungsmechanismus, der das System sowohl über seine internen Zustände als auch über externe Interaktionen informiert. Internes Feedback bezieht sich auf die Selbstbeobachtung des Systems, bei der Prozesse und Strukturen bewertet werden. Externes Feedback umfasst die Reaktionen der Umwelt auf das System, die in Form von Informationen, Veränderungen oder Rückmeldungen zurück in das System fließen (Hanisch-Johannsen & ChatGPT, 2024).
+- **Reflexion** ist der Prozess, durch den das System Feedback analysiert und bewertet. Sie erlaubt einem System, die erhaltenen Informationen zu verarbeiten, kritische Zustände zu identifizieren und zu entscheiden, welche Anpassungen erforderlich sind. Dieser Prozess ist nicht nur reaktiv, sondern bietet dem System die Möglichkeit, seine eigenen Strukturen und Prozesse auf einer tieferen Ebene zu durchdenken und strategische Anpassungen vorzunehmen. (Baraldi et al., 2019e)
+- **Re-Entry** beschreibt die Rückführung der reflektierten Anpassungen in das System. Dieser Mechanismus gibt dem System die Möglichkeit, die gewonnenen Erkenntnisse und Anpassungen in seine bestehenden Strukturen zu integrieren und neue Handlungsoptionen zu entwickeln. Re-entry ist entscheidend für die kontinuierliche Weiterentwicklung des Systems, welche die Basis für nachhaltige Veränderungen und die Anpassung an neue Herausforderungen bildet (Baraldi et al., 2019d).
 
 Diese dynamische Schleife stellt sicher, dass die Simulation nicht nur reaktiv, sondern auch proaktiv und lernfähig ist. Durch die ständige Rückkopplung, [[Reflexion]] und Anpassung kann das simulierte System seine Strukturen und Prozesse kontinuierlich verbessern und auf neue Umweltbedingungen reagieren. So wird eine realistische Nachbildung der Anpassungs- und Lernprozesse ermöglicht, die in lebenden, psychischen und sozialen Systemen stattfinden.
 
 Durch die Integration dieser Mechanismen in die Systemsimulation entsteht eine tiefere und realistischere Darstellung der Dynamiken und Anpassungsfähigkeiten von Systemen. Diese Mechanismen gewährleisten, dass das simulierte System nicht starr oder statisch bleibt, sondern kontinuierlich weiterentwickelt und anpasst, was die Simulation lebendiger und aussagekräftiger macht.
 
-## 2.4 Simulation lebender, psychischer und sozialer [[Systeme]]
+## 2.4 Simulation lebender, psychischer und sozialer Systeme
 
 Die Simulation lebender, psychischer und sozialer [[Systeme]] stellt eine vielschichtige und interdisziplinäre Herausforderung dar. Während technische [[Systeme]] oft deterministisch und kontrollierbar sind, sind lebende, psychische, soziale und emergente [[Systeme]] durch Selbstorganisation, Adaptivität und emergente Eigenschaften charakterisiert, was eine direkte Nachbildung erschwert. In der aktuellen Forschung zu diesen Simulationen kommen Ansätze aus der Bioinformatik, synthetischen Biologie, neuronalen Netzwerken und agentenbasierten Modellen zum Einsatz.
 
-### 2.4.1 Simulation lebender [[Systeme]]
+### 2.4.1 Simulation lebender Systeme
 
 Lebende [[Systeme]] sind durch Autopoiesis (Selbsterschaffung und Selbsterhaltung) charakterisiert. Simulationen in diesem Bereich erfordern die Nachbildung biologischer Prozesse, die auf spezifische Umweltfaktoren reagieren und dynamisch angepasst werden können . Modelle aus der Bioinformatik und synthetischen Biologie bilden Interaktionen lebender Organismen und ihrer Umwelt ab und versuchen, Aspekte wie evolutionäre Anpassung und Stoffwechselprozesse zu integrieren . Eine der größten Herausforderungen in diesem Bereich ist die Modulation von Selbstorganisation und -regulation lebender [[Systeme]] stabil und gleichzeitig flexibel zu gestalten. (Baraldi et al., 2019a; Bersini, 2020; Kitano, 2002; Maturana & Varela, 1980)
 
@@ -352,7 +352,7 @@ Die größte Herausforderung bei der Simulation lebender [[Systeme]] besteht dar
 
 Insgesamt ist die Simulation lebender [[Systeme]] ein Bereich, der kontinuierlich neue Ansätze und Methoden benötigt, um die komplexe Dynamik und Anpassungsfähigkeit biologischer [[Systeme]] realistisch abzubilden. Diese Modelle müssen einerseits detailliert genug sein, um die spezifischen biologischen Prozesse zu erfassen, und andererseits flexibel genug, um auf variierende Umweltbedingungen und interne Veränderungen zu reagieren.
 
-### 2.4.2 Simulation psychischer [[Systeme]]
+### 2.4.2 Simulation psychischer Systeme
 
 Psychische [[Systeme]] umfassen eine Vielzahl kognitiver Prozesse, darunter Wahrnehmung, Gedächtnis, Emotion und Entscheidungsfindung, die durch hohe Selbstreferenzialität und Subjektivität gekennzeichnet sind (Luhmann, 1995). Die Simulation psychischer [[Systeme]] stellt eine besondere Herausforderung dar, da diese Prozesse oft individuell und situationsabhängig sind. Die Modelle, die in diesem Bereich entwickelt werden, zielen darauf ab, die komplexen internen Zustände und dynamischen Anpassungen eines psychischen Systems abzubilden und gleichzeitig die Subjektivität und die unvorhersehbare Natur menschlicher Reaktionen zu berücksichtigen.
 
@@ -372,7 +372,7 @@ Die größte Herausforderung bei der Simulation psychischer [[Systeme]] liegt in
 
 Zusammenfassend wird deutlich, dass die Simulation psychischer [[Systeme]] eine interdisziplinäre Herausforderung darstellt, die Ansätze aus der Kognitionswissenschaft, Psychologie, Neurowissenschaft und Informatik vereint. Die derzeitigen Modelle liefern wertvolle Einblicke in die Funktionsweise psychischer Prozesse, stoßen jedoch an erhebliche Grenzen, wenn die vollständige Komplexität und Individualität dieser [[Systeme]] realistisch abgebildet werden sollen.
 
-### 2.4.3 Simulation sozialer [[Systeme]]
+### 2.4.3 Simulation sozialer Systeme
 
 Soziale [[Systeme]] beruhen auf Kommunikation und daraufhin erzeugten gemeinsamen Sinnstrukturen, die durch kulturelle Normen, geteilte Bedeutungen und soziale Regeln geformt werden (Habermas, 1981).Die Simulation sozialer [[Systeme]] zielt darauf ab, die komplexen Interaktionen zwischen Individuen und Gruppen nachzubilden, die in sozialen Kontexten organisiert sind und durch Interdependenzen sowie gemeinschaftlich geteilte Werte geprägt werden. Diese [[Systeme]] weisen emergente Phänomene auf, die aus den kollektiven Auswirkungen individueller Handlungen und Entscheidungen hervorgehen und häufig schwer vorhersehbar sind.
 
@@ -392,7 +392,7 @@ Die größte Herausforderung in der Simulation sozialer [[Systeme]] besteht dari
 
 Zusammenfassend zeigt die Analyse, dass die Simulation sozialer [[Systeme]] eine anspruchsvolle, wertvolle Methode zur Untersuchung sozialer Phänomene und kollektiver Verhaltensmuster darstellt. Die derzeitigen Modelle bieten Einblicke in die Mechanismen sozialer Kohäsion, Konformität und Krisenreaktionen, stehen jedoch vor der Herausforderung, die gesamte Bandbreite und Vielschichtigkeit sozialer Dynamiken präzise abzubilden.
 
-### 2.4.4 Simulation emergenter [[Systeme]]
+### 2.4.4 Simulation emergenter Systeme
 
 Emergente [[Systeme]] entstehen durch neue, unerwartete Eigenschaften und Verhaltensweisen, die nicht unmittelbar aus den individuellen Komponenten oder Agenten des Systems abzuleiten sind. Die Herausforderung der Simulation solcher [[Systeme]] liegt darin, diese emergenten Phänomene zu erfassen und die Dynamik der Interaktionen zwischen Mensch und KI nachzubilden, um ein tieferes Verständnis der Entstehung und Veränderung kollektiver Strukturen und Bedeutungen zu gewinnen (Hanisch-Johannsen & ChatGPT, 2024).
 
@@ -434,8 +434,8 @@ Ein weiterer zentraler Bestandteil ist das sogenannte „Crisis [auch Crew, Anm.
 
 Obwohl die medizinische Simulation hohe technische Standards erfüllt und auf realitätsnahe Nachbildung abzielt, vernachlässigt sie wesentliche systemtheoretische Aspekte, die für die Nachbildung lebender, psychischer und sozialer [[Systeme]] notwendig sind. Die derzeitige Simulationspraxis konzentriert sich primär auf die Replikation physischer und technischer Prozesse und integriert selten die komplexe Dynamik und Selbstorganisation, wie sie in realen medizinischen Teams und sozialen Systemen vorkommen. Folgende systemtheoretische Defizite können identifiziert werden:
 
-- **Selbstorganisation und Autopoiesis**: Medizinische Simulationen basieren meist auf deterministischen Abläufen, die durch festgelegte Szenarien strukturiert sind. Diese Struktur unterstützt die Vermittlung standardisierter Prozeduren, berücksichtigt jedoch kaum die Fähigkeit lebender [[Systeme]] zur Selbstorganisation und Selbsterhaltung. Dies führt dazu, dass die dynamischen Anpassungsprozesse, die in echten Teams notwendig sind, um auf unvorhergesehene Ereignisse zu reagieren, kaum berücksichtigt werden.
-- **Interaktion und [[Feedback]]**: In der medizinischen Praxis spielen Feedbackprozesse eine zentrale Rolle. Ärztinnen und Ärzte sowie Pflegekräfte sind auf Rückmeldungen aus dem Team und von Patienten angewiesen, um Diagnosen und Behandlungen laufend anzupassen. Simulationen reproduzieren jedoch oft nur einfache Feedbackschleifen und lassen die komplexe Rückkopplung und Anpassung in interpersonellen Interaktionen weitgehend außer Acht. Systemtheoretisch fehlen hier Mechanismen, die dem System ermöglichen, flexibel auf unvorhersehbare Rückkopplungen zu reagieren und Anpassungen vorzunehmen.
+- **Selbstorganisation und Autopoiesis**: Medizinische Simulationen basieren meist auf deterministischen Abläufen, die durch festgelegte Szenarien strukturiert sind. Diese Struktur unterstützt die Vermittlung standardisierter Prozeduren, berücksichtigt jedoch kaum die Fähigkeit lebender Systeme zur Selbstorganisation und Selbsterhaltung. Dies führt dazu, dass die dynamischen Anpassungsprozesse, die in echten Teams notwendig sind, um auf unvorhergesehene Ereignisse zu reagieren, kaum berücksichtigt werden.
+- **Interaktion und Feedback**: In der medizinischen Praxis spielen Feedbackprozesse eine zentrale Rolle. Ärztinnen und Ärzte sowie Pflegekräfte sind auf Rückmeldungen aus dem Team und von Patienten angewiesen, um Diagnosen und Behandlungen laufend anzupassen. Simulationen reproduzieren jedoch oft nur einfache Feedbackschleifen und lassen die komplexe Rückkopplung und Anpassung in interpersonellen Interaktionen weitgehend außer Acht. Systemtheoretisch fehlen hier Mechanismen, die dem System ermöglichen, flexibel auf unvorhersehbare Rückkopplungen zu reagieren und Anpassungen vorzunehmen.
 - **Emergente Phänomene**: Echte medizinische Teams entwickeln durch die Interaktionen ihrer Mitglieder emergente Eigenschaften und Entscheidungsprozesse, die durch die Zusammenarbeit in dynamischen Situationen entstehen. Die derzeitige Simulationstechnologie legt jedoch überwiegend den Fokus auf individuelle Fähigkeiten und vernachlässigt die kollektive Dynamik, die in realen medizinischen Teams und sozialen Systemen von entscheidender Bedeutung ist. So bleibt der Einfluss von Gruppenprozessen und emergenten Phänomenen in der Simulation weitgehend unberücksichtigt (Hanisch-Johannsen & ChatGPT, 2024).
 
 #### 2.5.3 Notwendigkeit der Integration systemtheoretischer Grundlagen
@@ -465,9 +465,9 @@ Ein weiteres charakteristisches Merkmal psychischer und sozialer [[Systeme]] ist
 
 Die für Flugsimulatoren entwickelten Qualitätskriterien legen hauptsächlich den Fokus auf technische Präzision und die Nachbildung standardisierter Abläufe. In der Simulation lebender, psychischer und sozialer [[Systeme]] müssen jedoch zusätzliche Kriterien berücksichtigt werden, um deren Komplexität und dynamische Natur adäquat abzubilden. Diese erweiterten Kriterien umfassen:
 
-- **Autopoiesis**: Autopoiesis beschreibt die Fähigkeit eines Systems zur Selbstorganisation und Selbsterhaltung. [[Systeme]], die autopoietische Prozesse simulieren, können ihre Struktur und Funktion bewahren, während sie von ihrer Umwelt abgegrenzt bleiben und dennoch flexibel darauf reagieren (Maturana & Varela, 1980). In der Simulation bedeutet dies, dass das System nicht nur auf äußere Reize reagiert, sondern auch interne Prozesse und Rückkopplungen enthält und daraufhin ständig reproduziert und anpasst. Diese Eigenschaft ist besonders für lebende [[Systeme]] essentiell, da sie eine Selbstständigkeit und Anpassungsfähigkeit gegenüber Umwelteinflüssen gewährleisten.
-- **Kommunikation und Sinnbildung**: Die Nachbildung der Kommunikationsprozesse und der Entstehung gemeinsamer Sinnstrukturen ist in der Simulation sozialer [[Systeme]] unverzichtbar. Soziale [[Systeme]] bestehen aus der Kommunikation und den Bedeutungen, die durch Interaktionen geschaffen werden. In diesen Systemen entstehen kollektive Bedeutungen und Normen, die das Verhalten der Individuen beeinflussen und den Zusammenhalt der Gruppe stärken (Habermas, 1981; Luhmann, 1984). Simulationen, die diese Dynamiken einbeziehen, können realistische Modelle kollektiver Entscheidungsprozesse und sozialen Zusammenhalts bieten, indem sie die Entstehung von Normen und geteilten Bedeutungen durch Kommunikation abbilden. Dadurch wird die Fähigkeit des Systems zur kollektiven Anpassung und zum dynamischen Handeln gestärkt.
-- **[[Feedback]] und [[Reflexion]]**: Ein zentrales Kriterium für die Simulation von Systemen mit psychischen und sozialen Aspekten ist die Fähigkeit zur Rückkopplung und [[Reflexion]]. [[Feedback]] ermöglicht dem System, kontinuierlich auf Rückmeldungen aus internen Prozessen und externen Einflüssen zu reagieren. Solche Mechanismen sind entscheidend, um das Verhalten anzupassen und das Lernen innerhalb des Systems zu fördern (Glimcher, 2011; Hanisch-Johannsen & ChatGPT, 2024). Reflexionsmechanismen gehen über einfaches [[Feedback]] hinaus, da sie das System anregen, vergangene Handlungen zu bewerten und daraus Erkenntnisse für zukünftige Entscheidungen zu gewinnen. In psychischen und sozialen Systemen fördert die [[Reflexion]] die Fähigkeit, auf komplexe und dynamische Situationen vorbereitet zu sein und die Handlungsweisen zu optimieren. Die Integration von [[Feedback]] und [[Reflexion]] in Systemsimulationen trägt zur Erzeugung von realistischeren und adaptiveren Modellen bei, die an verändernde Bedingungen angepasst werden können.
+- **Autopoiesis**: Autopoiesis beschreibt die Fähigkeit eines Systems zur Selbstorganisation und Selbsterhaltung. Systeme, die autopoietische Prozesse simulieren, können ihre Struktur und Funktion bewahren, während sie von ihrer Umwelt abgegrenzt bleiben und dennoch flexibel darauf reagieren (Maturana & Varela, 1980). In der Simulation bedeutet dies, dass das System nicht nur auf äußere Reize reagiert, sondern auch interne Prozesse und Rückkopplungen enthält und daraufhin ständig reproduziert und anpasst. Diese Eigenschaft ist besonders für lebende Systeme essentiell, da sie eine Selbstständigkeit und Anpassungsfähigkeit gegenüber Umwelteinflüssen gewährleisten.
+- **Kommunikation und Sinnbildung**: Die Nachbildung der Kommunikationsprozesse und der Entstehung gemeinsamer Sinnstrukturen ist in der Simulation sozialer Systeme unverzichtbar. Soziale Systeme bestehen aus der Kommunikation und den Bedeutungen, die durch Interaktionen geschaffen werden. In diesen Systemen entstehen kollektive Bedeutungen und Normen, die das Verhalten der Individuen beeinflussen und den Zusammenhalt der Gruppe stärken (Habermas, 1981; Luhmann, 1984). Simulationen, die diese Dynamiken einbeziehen, können realistische Modelle kollektiver Entscheidungsprozesse und sozialen Zusammenhalts bieten, indem sie die Entstehung von Normen und geteilten Bedeutungen durch Kommunikation abbilden. Dadurch wird die Fähigkeit des Systems zur kollektiven Anpassung und zum dynamischen Handeln gestärkt.
+- **Feedback und Reflexion**: Ein zentrales Kriterium für die Simulation von Systemen mit psychischen und sozialen Aspekten ist die Fähigkeit zur Rückkopplung und Reflexion. Feedback ermöglicht dem System, kontinuierlich auf Rückmeldungen aus internen Prozessen und externen Einflüssen zu reagieren. Solche Mechanismen sind entscheidend, um das Verhalten anzupassen und das Lernen innerhalb des Systems zu fördern (Glimcher, 2011; Hanisch-Johannsen & ChatGPT, 2024). Reflexionsmechanismen gehen über einfaches Feedback hinaus, da sie das System anregen, vergangene Handlungen zu bewerten und daraus Erkenntnisse für zukünftige Entscheidungen zu gewinnen. In psychischen und sozialen Systemen fördert die Reflexion die Fähigkeit, auf komplexe und dynamische Situationen vorbereitet zu sein und die Handlungsweisen zu optimieren. Die Integration von Feedback und Reflexion in Systemsimulationen trägt zur Erzeugung von realistischeren und adaptiveren Modellen bei, die an verändernde Bedingungen angepasst werden können.
 
 Zusammengefasst bieten diese erweiterten Qualitätskriterien eine Grundlage für die Entwicklung von Systemsimulationen, die die dynamischen, selbst erhaltenden und interaktiven Eigenschaften lebender, psychischer und sozialer [[Systeme]] berücksichtigen. Indem sie Autopoiesis, Kommunikationsprozesse und [[Feedback]]-Mechanismen integrieren, können solche Simulationen komplexe Interaktionen und Anpassungsprozesse abbilden, die in der realen Welt auftreten und für die Systemtheorie von zentraler Bedeutung sind.
 
@@ -638,7 +638,7 @@ Beschreibung Abbildung 1:
 - **Person A** sendet eine **Information** an **Person B**.
 - **Person A reflektiert** sich selbst, was durch einen **zyklischen Pfeil** dargestellt wird.
 - **Re-Entry-Optionen** werden von **Person A** erneut an **Person B** gesendet.
-- **[[Feedback]]** von **Person B** an **Person A** ermöglicht eine Rückkopplungsschleife.
+- **Feedback** von **Person B** an **Person A** ermöglicht eine Rückkopplungsschleife.
 
 > *Diese Darstellung visualisiert die dynamische Interaktion, bei der Informationen weitergegeben, reflektiert und neue Handlungsoptionen integriert werden. Person A reflektiert sich selbst und generiert neue Optionen, die als Re-Entry an Person B gesendet werden.*
 
@@ -683,9 +683,9 @@ Die Kombination von qualitativer und quantitativer Modellierung innerhalb der Si
 Zu den etablierten mathematischen Modellen zählen:
 
 1. **Statische Simulationen**: Diese Simulationen analysieren ein System zu einem bestimmten Zeitpunkt oder in einem bestimmten Zustand, ohne den Verlauf über die Zeit zu berücksichtigen. Sie sind nützlich, um bestimmte Zustände oder Strukturmerkmale des Systems zu untersuchen, die von konstanten Variablen abhängen. Statische Simulationen werden häufig in der Betriebsforschung und im Risikomanagement verwendet, um spezifische Szenarien zu bewerten und Entscheidungsprozesse zu unterstützen (Law & Kelton, 1991).
-2. **Dynamische Simulationen**: Diese Technik simuliert die Zustandsveränderungen eines Systems über die Zeit hinweg und bildet somit die kontinuierlichen oder diskreten Dynamiken des Systems ab. Dynamische Simulationen sind besonders wertvoll für die Modellierung lebender und psychischer [[Systeme]], bei denen Veränderungen durch [[Feedback]] und [[Reflexion]] eine zentrale Rolle spielen. Sterman (2000) betont die Bedeutung dynamischer Modelle zur Analyse komplexer Verhaltensmuster und zur Vorhersage langfristiger Entwicklungen in Systemen.
+2. **Dynamische Simulationen**: Diese Technik simuliert die Zustandsveränderungen eines Systems über die Zeit hinweg und bildet somit die kontinuierlichen oder diskreten Dynamiken des Systems ab. Dynamische Simulationen sind besonders wertvoll für die Modellierung lebender und psychischer Systeme, bei denen Veränderungen durch Feedback und Reflexion eine zentrale Rolle spielen. Sterman (2000) betont die Bedeutung dynamischer Modelle zur Analyse komplexer Verhaltensmuster und zur Vorhersage langfristiger Entwicklungen in Systemen.
 3. **Monte-Carlo-Simulationen**: Diese simulationsbasierte Methode nutzt Zufallsvariablen, um unterschiedliche Szenarien zu durchlaufen und das Verhalten des Systems unter einer Vielzahl von möglichen Bedingungen zu analysieren. Die Monte-Carlo-Simulation ist besonders nützlich in Bereichen mit hoher Unsicherheit oder unvorhersehbaren Variablen und wird daher häufig zur Risikobewertung und Entscheidungsfindung in sozialen und emergenten Systemen eingesetzt. Ursprünglich entwickelt von Metropolis und Ulam (1949), hat die Methode breite Anwendung in der Physik, Finanzen und Betriebsforschung gefunden.
-4. **Agentenbasierte Simulationen**: Durch die Definition von individuellen Akteuren und Regeln innerhalb eines Systems kann das kollektive Verhalten als emergente Eigenschaft simuliert werden. Agentenbasierte Simulationen erlauben eine detaillierte Untersuchung der Interaktionen zwischen Akteuren und zeigen auf, wie systemisches Verhalten aus einfachen, individuellen Interaktionen hervorgeht. Bonabeau (2002) erklärt, dass agentenbasierte Modelle besonders wertvoll sind, um komplexe soziale [[Systeme]] zu untersuchen, da sie die Heterogenität und Interaktionen der einzelnen Agenten berücksichtigen.
+4. **Agentenbasierte Simulationen**: Durch die Definition von individuellen Akteuren und Regeln innerhalb eines Systems kann das kollektive Verhalten als emergente Eigenschaft simuliert werden. Agentenbasierte Simulationen erlauben eine detaillierte Untersuchung der Interaktionen zwischen Akteuren und zeigen auf, wie systemisches Verhalten aus einfachen, individuellen Interaktionen hervorgeht. Bonabeau (2002) erklärt, dass agentenbasierte Modelle besonders wertvoll sind, um komplexe soziale Systeme zu untersuchen, da sie die Heterogenität und Interaktionen der einzelnen Agenten berücksichtigen.
 
 Diese Anwendungen bieten eine Vielfalt an Möglichkeiten zur Untersuchung komplexer [[Systeme]] und erlauben damit eine differenzierte Analyse der Systemdynamiken. Besonders im Kontext der Systemsimulation eröffnet eine Kombination dieser Simulationstechniken wertvolle Einblicke in die Funktionsweise von Systemen, die sowohl auf Autopoiesis und Kommunikation angewiesen sind als auch kontinuierlich auf Veränderungen in der Umwelt reagieren (Gilbert & Troitzsch, 2005).
 
@@ -888,8 +888,8 @@ Durch die Integration der Konzepte der Autopoiesis und Kommunikation in Verbindu
 
 Die Kombination dieser drei Dimensionen – Autopoiesis, Kommunikation und Technik – bringt mehrere wesentliche Erkenntnisse hervor:
 
-1. **Selbstregulation und Adaptivität**: Autopoiesis versetzt das simulierte System in die Lage, seine Strukturen und Prozesse autonom zu erhalten und flexibel auf äußere Einflüsse zu reagieren. Diese Fähigkeit ist besonders wertvoll für die Simulation lebender und sozialer [[Systeme]], die durch konstante Umweltveränderungen herausgefordert werden. Indem Autopoiesis modelliert wird, kann die Simulation adaptive Reaktionen des Systems darstellen und die Bedingungen für eine langfristige Stabilität erforschen (Varela et al., 1974).
-2. **Dynamische Interaktionen durch Kommunikation**: Die Modellierung der Kommunikation innerhalb des Systems ermöglicht es, die dynamischen Interaktionen zwischen den Systemkomponenten realistisch abzubilden. Kommunikation als Grundprozess der Selbstorganisation ist entscheidend, um Anpassungsstrategien und Entscheidungsfindungen im simulierten System zu erfassen. Dies ist besonders relevant für soziale und emergente [[Systeme]], die auf eine stetige Informationsübertragung angewiesen sind, um kollektiv auf Veränderungen zu reagieren (Luhmann, 1984).
+1. **Selbstregulation und Adaptivität**: Autopoiesis versetzt das simulierte System in die Lage, seine Strukturen und Prozesse autonom zu erhalten und flexibel auf äußere Einflüsse zu reagieren. Diese Fähigkeit ist besonders wertvoll für die Simulation lebender und sozialer Systeme, die durch konstante Umweltveränderungen herausgefordert werden. Indem Autopoiesis modelliert wird, kann die Simulation adaptive Reaktionen des Systems darstellen und die Bedingungen für eine langfristige Stabilität erforschen (Varela et al., 1974).
+2. **Dynamische Interaktionen durch Kommunikation**: Die Modellierung der Kommunikation innerhalb des Systems ermöglicht es, die dynamischen Interaktionen zwischen den Systemkomponenten realistisch abzubilden. Kommunikation als Grundprozess der Selbstorganisation ist entscheidend, um Anpassungsstrategien und Entscheidungsfindungen im simulierten System zu erfassen. Dies ist besonders relevant für soziale und emergente Systeme, die auf eine stetige Informationsübertragung angewiesen sind, um kollektiv auf Veränderungen zu reagieren (Luhmann, 1984).
 3. **Präzise Steuerung und realistische Nachbildung durch technische Modelle**: Die technische Dimension verstärkt die Systemsimulation, indem sie die Darstellung komplexer Prozesse und deren Wechselwirkungen präzise und messbar macht. Technische Modelle ermöglichen die Erfassung und Anpassung von Reaktionen in Echtzeit, was besonders für die Forschung und das Training von Vorteil ist. Die Möglichkeit, spezifische Parameter und Szenarien in kontrollierten Umgebungen variieren zu können, erlaubt es, komplexe Fragestellungen systematisch zu untersuchen und Antworten zu generieren, die in natürlichen Umgebungen schwer zu beobachten wären.
 
 Die Integration dieser drei Elemente in der Systemsimulation bietet somit nicht nur eine tiefere Einsicht in die Funktionsweise komplexer [[Systeme]], sondern eröffnet auch neue Möglichkeiten für die Entwicklung und Optimierung adaptiver Strategien in Bereichen wie Medizin, Psychologie und Soziologie. Die Simulation schafft eine Grundlage, um innovative Lösungsansätze für komplexe, dynamische [[Systeme]] zu entwickeln und in einem sicheren, kontrollierten Rahmen zu testen.
@@ -918,21 +918,21 @@ _Tabelle 9: Systemsimulator-Typisierung und Qualitätsstufen_
 Die Verknüpfung der Qualitätsstufen (A-E) in Tabelle 9 mit den unterschiedlichen Simulatortypen ermöglicht eine präzise Zuordnung der Simulationseigenschaften in den Bereichen Autopoiesis, Kommunikation und Technik. Dies schafft die Grundlage für eine systematische und differenzierte Klassifizierung von Simulationssystemen, je nach ihrem Zweck und Anwendungsbereich. Im Folgenden werden die vier Haupttypen erläutert:
 
 1. **Full System Simulator (FSS)**: Dieser Simulatortyp bezeichnet die höchste Qualitätsstufe (A) in allen drei Bereichen – Autopoiesis, Kommunikation und Technik – und bietet eine umfassende Nachbildung aller relevanten Prozesse innerhalb eines Systems.
-	 - **Autopoiesis A**: Die volle Integration der Selbstregulationsmechanismen und Systemgrenzen gestattet dem FSS, die Selbsterhaltung und Anpassung eines Systems realistisch nachzubilden. Dies bedeutet, dass der FSS die Dynamiken lebender, psychischer, sozialer und emergenter [[Systeme]] in ihrer Gesamtheit abbildet und das System eigenständig auf innere und äußere Einflüsse reagiert.
+	 - **Autopoiesis A**: Die volle Integration der Selbstregulationsmechanismen und Systemgrenzen gestattet dem FSS, die Selbsterhaltung und Anpassung eines Systems realistisch nachzubilden. Dies bedeutet, dass der FSS die Dynamiken lebender, psychischer, sozialer und emergenter Systeme in ihrer Gesamtheit abbildet und das System eigenständig auf innere und äußere Einflüsse reagiert.
 	 - **Kommunikation A**: Die Interaktionen zwischen allen Ebenen des Systems werden hochentwickelt und realitätsnah dargestellt, was besonders in komplexen Szenarien wie einer Krankenhausumgebung mit multiplen Akteuren und Kommunikationswegen von Bedeutung ist. Diese umfassende Interaktionsebene ermöglicht ein präzises Verständnis der Entscheidungs- und Anpassungsprozesse.
 	 - **Technik A**: Der FSS setzt auf maximale technische Integration, welche die vollständige Simulation physiologischer, pharmakologischer und technischer Prozesse umfasst. Das System ist in der Lage, komplexe, realitätsgetreue Prozesse in Echtzeit darzustellen und so die Interaktionen und Auswirkungen von Systemzuständen und Eingriffen präzise abzubilden. Dies ist entscheidend für Ausbildungs- und Notfallszenarien, in denen hohe Präzision gefordert ist.
-1. **Training System Simulator (TSS)**: Die Qualitätsstufe B in allen Bereichen verleiht dem TSS eine hohe Spezialisierung auf bestimmte [[Systeme]] und Anwendungsfelder, wobei die vollständige Systemkomplexität nicht abgebildet wird.
+1. **Training System Simulator (TSS)**: Die Qualitätsstufe B in allen Bereichen verleiht dem TSS eine hohe Spezialisierung auf bestimmte Systeme und Anwendungsfelder, wobei die vollständige Systemkomplexität nicht abgebildet wird.
 	 - **Autopoiesis B**: Der TSS bietet eine fokussierte und dennoch umfassende Abbildung spezifischer Systemgrenzen. Während das System nicht alle Dynamiken der Selbsterhaltung integriert, bildet dieses bestimmte Selbstregulationsmechanismen nach, die in spezialisierten Anwendungsfeldern erforderlich sind. Dies macht den TSS besonders wertvoll für das Training in Bereichen wie der Pflege, wo spezifische Interaktionen im Vordergrund stehen.
-	 - **Kommunikation B**: Die Kommunikation ist dynamisch und realistisch, jedoch auf spezielle Szenarien begrenzt. So kann der TSS für interaktives Training in Patientengesprächen genutzt werden, wobei ein realistisches [[Feedback]] durch die simulierten Interaktionen gewährleistet wird. Die Kommunikation ist gezielt auf praxisnahe Herausforderungen ausgerichtet.
+	 - **Kommunikation B**: Die Kommunikation ist dynamisch und realistisch, jedoch auf spezielle Szenarien begrenzt. So kann der TSS für interaktives Training in Patientengesprächen genutzt werden, wobei ein realistisches Feedback durch die simulierten Interaktionen gewährleistet wird. Die Kommunikation ist gezielt auf praxisnahe Herausforderungen ausgerichtet.
 	 - **Technik B**: Die technische Ausstattung des TSS ist hochentwickelt, jedoch fokussiert auf bestimmte Bereiche, wie z.B. patientennahe Technik in der medizinischen Ausbildung. Dies erlaubt eine realistische Nachbildung spezifischer Szenarien, ohne eine umfassende Simulation aller Systemaspekte.
 2. **Procedure System Simulator (PSS)**: Mit der Qualitätsstufe C in allen Bereichen ermöglicht der PSS eine solide, auf bestimmte Prozeduren beschränkte Simulation, die standardisierte Abläufe und Interaktionen in kontrollierten Umgebungen nachbildet.
 	 - **Autopoiesis C**: Der PSS bildet die Selbstregulation auf einem grundlegenden Niveau ab, wobei der Fokus auf standardisierten und abgegrenzten Abläufen liegt. Dies ermöglicht die Nachbildung strukturierter Prozesse wie der kardiopulmonalen Wiederbelebung (CPR) und bietet ein hohes Maß an Wiederholbarkeit und Konsistenz in der Simulation.
 	 - **Kommunikation C**: Die Kommunikation innerhalb des PSS ist funktional, jedoch auf prozedurale Abläufe begrenzt. Für standardisierte Interaktionen wie Anweisungen und Befehle im Notfalltraining ist diese Ebene ausreichend, um die notwendigen Prozesse und deren Reihenfolge zu simulieren.
-	 - **Technik C**: Die technische Ausstattung ist solide, jedoch spezifisch auf die Unterstützung standardisierter Prozeduren ausgelegt. Der PSS kann grundlegende Simulationen und Feedbacks in spezifischen Szenarien bieten, ist jedoch nicht darauf ausgelegt, komplexe [[Systeme]] oder dynamische Veränderungen zu berücksichtigen.
+	 - **Technik C**: Die technische Ausstattung ist solide, jedoch spezifisch auf die Unterstützung standardisierter Prozeduren ausgelegt. Der PSS kann grundlegende Simulationen und Feedbacks in spezifischen Szenarien bieten, ist jedoch nicht darauf ausgelegt, komplexe Systeme oder dynamische Veränderungen zu berücksichtigen.
 3. **Basic Skills System Simulator (BSSS)**: Die niedrigste Qualitätsstufe (D/E) in allen Bereichen beschreibt den BSSS, der auf isolierte, rudimentäre Fähigkeiten fokussiert und keine umfassende Systemintegration bietet.
 	 - **Autopoiesis D/E**: Der BSSS verfügt über minimale bis gar keine komplexe Systemintegration. Der Schwerpunkt liegt auf der Nachbildung einzelner, isolierter Aspekte, wie z.B. einer bestimmten Bewegung oder einer einfachen physiologischen Reaktion. Die Selbstregulationsmechanismen und Systemgrenzen sind entweder stark vereinfacht oder gar nicht vorhanden.
 	 - **Kommunikation D/E**: Die Kommunikation ist entweder einfach oder minimal vorhanden, was bedeutet, dass interaktive Prozesse im Wesentlichen nicht abgebildet werden. Der BSSS ist daher vor allem für das Üben grundlegender Handgriffe und motorischer Fähigkeiten einsetzbar.
-	 - **Technik D/E**: Die technische Ausstattung des BSSS ist auf Basisgeräte zur Unterstützung einfacher Fertigkeiten, wie z.B. Venenpunktion oder andere elementare medizinische Fertigkeiten, beschränkt. Hier werden keine komplexen technischen [[Systeme]] eingesetzt, was diese Kategorie für grundlegende Trainingsaufgaben prädestiniert.
+	 - **Technik D/E**: Die technische Ausstattung des BSSS ist auf Basisgeräte zur Unterstützung einfacher Fertigkeiten, wie z.B. Venenpunktion oder andere elementare medizinische Fertigkeiten, beschränkt. Hier werden keine komplexen technischen Systeme eingesetzt, was diese Kategorie für grundlegende Trainingsaufgaben prädestiniert.
 
 Diese Vorgehensweise ermöglicht eine systematische Einordnung der Simulationseigenschaften und erleichtert die Auswahl des geeigneten Simulatortyps für spezifische Anwendungsfelder. Die Kombination mit der Typisierung bietet eine Differenzierung zwischen den verschiedenen Simulationsebenen und macht eine wirkungsorientierte Modellierung von Simulation möglich, die kontextualisiert auf die Anforderungen und Ziele der jeweiligen Anwendung angepasst ist. Die eineindeutige Typisierung unterstützt nicht nur die Bewertung bestehender Simulationen, sondern fördert auch die Weiterentwicklung, indem sie beschreibt, welche spezifischen Merkmale für die verschiedenen Qualitäts- und Komplexitätsstufen notwendig sind.
 
@@ -954,7 +954,7 @@ Die Hierarchisierung der Simulatortypen dient als Grundlage zur Klassifikation d
 
 Die grundlegende Struktur der Hierarchisierung umfasst vier Haupttypen von Simulatoren:
 
-1. **Full System Simulator (FSS)**: Dieser Simulatortyp repräsentiert das höchste Niveau an Systemintegration und Kommunikationskomplexität. Er erlaubt eine vollständige Nachbildung lebender, psychischer, sozialer sowie emergenter [[Systeme]] und bildet alle relevanten Dynamiken und Rückkopplungsprozesse ab. Full System Simulatoren sind in Bereichen erforderlich, in denen die Interaktion mehrerer Ebenen und [[Systeme]] entscheidend ist, wie beispielsweise in der Simulation ganzer Krankenhausumgebungen oder komplexer sozialer Netzwerke.
+1. **Full System Simulator (FSS)**: Dieser Simulatortyp repräsentiert das höchste Niveau an Systemintegration und Kommunikationskomplexität. Er erlaubt eine vollständige Nachbildung lebender, psychischer, sozialer sowie emergenter Systeme und bildet alle relevanten Dynamiken und Rückkopplungsprozesse ab. Full System Simulatoren sind in Bereichen erforderlich, in denen die Interaktion mehrerer Ebenen und Systeme entscheidend ist, wie beispielsweise in der Simulation ganzer Krankenhausumgebungen oder komplexer sozialer Netzwerke.
 2. **Training System Simulator (TSS)**: Der Training System Simulator fokussiert auf bestimmte Teilbereiche eines Systems, wie etwa die psychische oder soziale Interaktion, und bietet eine spezialisierte sowie immer noch dynamische Kommunikation. Dieser Typ ist für die Schulung komplexer Kommunikations- und Verhaltensmuster anwendbar, etwa in schwierigen Patientengesprächen oder Teaminteraktionen.
 3. **Procedure System Simulator (PSS)**: Dieser Simulatortyp bildet standardisierte Abläufe und festgelegte Prozeduren ab. Die Struktur ist in der Regel regelbasiert und auf spezifische Interaktionen beschränkt, die beispielsweise für das Training von Notfallprozeduren wie der Herz-Lungen-Wiederbelebung (CPR) erforderlich sind. Der Procedure System Simulator dient dazu, die präzise Durchführung von Abläufen zu gewährleisten, ohne die tiefere Systemintegration zu erfordern, die in den Full und Training System Simulatoren vorhanden ist.
 4. **Basic Skills System Simulator (BSSS)**: Der Basic Skills System Simulator ist auf isolierte Grundfertigkeiten und einfache Interaktionen mit minimalem Systemintegrationsaufwand konzentriert. Diese Simulationen sind stark vereinfacht und oft technisch weniger anspruchsvoll sowie hervorragend für das Erlernen und Üben grundlegender Techniken und Fertigkeiten geeignet, wie beispielsweise das Legen eines Venenkatheters. Die Kommunikation und Rückkopplung sind auf ein Minimum beschränkt.
@@ -1140,34 +1140,34 @@ Technik umfasst die technischen Standards und die Präzision der Simulation in B
 
 Die hier genannten Abweichungen sind als Vorschlag zur Entwicklung einer *Systemsimulationstoleranzklasse* zu interpretieren, wie diese innerhalb der Konstruktionstechnik etabliert sind. Als Toleranzklasse ist die Kombination zwischen Grundabmaß und Toleranzgrad zu verstehen, welches Anforderungen an einen geeigneten Tolerierungsgrundsatz (Unabhängigkeitsprinzip^[Prüfung jeder einzelnen Toleranz auf Einhaltung ] oder Hüllprinzip^[Hüllbedingung besteht generell für jedes einzelne Formelement]) stellt. (Dubbel & Beitz, 1995; Pahl & Beitz, 1993)
 
-### 4.3.2 [[Feedback]]
+### 4.3.2 Feedback
 
 [[Feedback]] beschreibt die Fähigkeit der Simulation, Rückmeldungen sowohl auf interner als auch externer Ebene zu erfassen und darauf zu reagieren. Dabei berücksichtigt die Beobachtung 2. Ordnung die Fähigkeit des Systems, die Qualität und Relevanz dieser Rückmeldungen zu analysieren und deren Auswirkungen im Gesamtsystem zu bewerten.
 
-- Qualitätsstufe A: Kontinuierliches Echtzeit-[[Feedback]] (< 1 Sekunde Verzögerung) in allen Dimensionen der Simulation (z. B. physisch, sozial, psychisch). Die Simulation kann [[Feedback]] differenziert analysieren, z. B. in Form von relevanten und irrelevanten Rückmeldungen, und reagiert präzise mit dynamischen Anpassungen.
-- Qualitätsstufe B: Regelmäßiges [[Feedback]] mit einer Verzögerung von 1–5 Sekunden. Beobachtung 2. Ordnung ist eingeschränkt, d. h., das System kann [[Feedback]] in wichtigen Dimensionen bewerten, hat jedoch eine reduzierte Fähigkeit zur Priorisierung und Differenzierung von Rückmeldungen.
-- Qualitätsstufe C: [[Feedback]] erfolgt in Intervallen von 5 Sekunden bis zu einer Minute. Rückmeldungen werden nur eingeschränkt analysiert; das System reagiert automatisch auf [[Feedback]], kann jedoch keine tiefere Bewertung der Relevanz oder Qualität vornehmen.
-- Qualitätsstufe D: [[Feedback]] in Abständen von Minuten bis Stunden; Rückmeldungen werden stark vereinfacht verarbeitet, oft nur bei vorab definierten Ereignissen. Beobachtung 2. Ordnung ist rudimentär oder fehlt; das System unterscheidet nicht zwischen relevanten und irrelevanten Rückmeldungen und führt einfache, vorprogrammierte Reaktionen aus.
-- Qualitätsstufe E: Rückmeldungen sind kaum vorhanden und erfolgen maximal täglich oder auf Abruf, d.h, die Beobachtung 2. Ordnung findet nicht statt, und das System verarbeitet keine [[Feedback]]-Informationen dynamisch, sondern führt ausschließlich starre, vorgeskriptete Aktionen durch.
+- Qualitätsstufe A: Kontinuierliches Echtzeit-Feedback (< 1 Sekunde Verzögerung) in allen Dimensionen der Simulation (z. B. physisch, sozial, psychisch). Die Simulation kann Feedback differenziert analysieren, z. B. in Form von relevanten und irrelevanten Rückmeldungen, und reagiert präzise mit dynamischen Anpassungen.
+- Qualitätsstufe B: Regelmäßiges Feedback mit einer Verzögerung von 1–5 Sekunden. Beobachtung 2. Ordnung ist eingeschränkt, d. h., das System kann Feedback in wichtigen Dimensionen bewerten, hat jedoch eine reduzierte Fähigkeit zur Priorisierung und Differenzierung von Rückmeldungen.
+- Qualitätsstufe C: Feedback erfolgt in Intervallen von 5 Sekunden bis zu einer Minute. Rückmeldungen werden nur eingeschränkt analysiert; das System reagiert automatisch auf Feedback, kann jedoch keine tiefere Bewertung der Relevanz oder Qualität vornehmen.
+- Qualitätsstufe D: Feedback in Abständen von Minuten bis Stunden; Rückmeldungen werden stark vereinfacht verarbeitet, oft nur bei vorab definierten Ereignissen. Beobachtung 2. Ordnung ist rudimentär oder fehlt; das System unterscheidet nicht zwischen relevanten und irrelevanten Rückmeldungen und führt einfache, vorprogrammierte Reaktionen aus.
+- Qualitätsstufe E: Rückmeldungen sind kaum vorhanden und erfolgen maximal täglich oder auf Abruf, d.h, die Beobachtung 2. Ordnung findet nicht statt, und das System verarbeitet keine Feedback-Informationen dynamisch, sondern führt ausschließlich starre, vorgeskriptete Aktionen durch.
  
-### 4.3.3 [[Reflexion]]
+### 4.3.3 Reflexion
 
 [[Reflexion]] beschreibt die Fähigkeit der Simulation, die erhaltenen Rückmeldungen zu analysieren und daraus systematische Erkenntnisse zu gewinnen. Die Beobachtung 2. Ordnung ist hier zentral, da [[Reflexion]] die Fähigkeit des Systems umfasst, seine eigenen Verhaltensweisen und Reaktionen im Kontext zu analysieren und Verbesserungen abzuleiten. 
 
-- Qualitätsstufe A: Das System führt eine tiefgehende [[Reflexion]] durch, die alle Rückmeldungen auf systemischer Ebene analysiert und unterscheidet in der Beobachtung 2. Ordnung zwischen verschiedenen Rückmeldungen, bewertet deren langfristige Auswirkungen und passt interne Strategien entsprechend an.
-- Qualitätsstufe B: [[Reflexion]] erfolgt in Hauptdimensionen (z. B. physisch und sozial), mit eingeschränkter Fähigkeit zur Beobachtung 2. Ordnung. Das System analysiert relevante Rückmeldungen und zieht Schlüsse auf das eigene Verhalten, kann jedoch strategische Anpassungen nur bedingt umsetzen.
-- Qualitätsstufe C: Grundlegende [[Reflexion]] über periodische Rückmeldungen; das System kann einfache Rückkopplungsprozesse bewerten, hat jedoch begrenzte Beobachtung 2. Ordnung und kann keine langfristigen strategischen Anpassungen vornehmen.
-- Qualitätsstufe D: [[Reflexion]] erfolgt nur oberflächlich; das System reagiert auf [[Feedback]] in festgelegten Kategorien und erkennt wenig bis keine Zusammenhänge zwischen den Rückmeldungen. Beobachtung 2. Ordnung ist kaum vorhanden, und die [[Reflexion]] bleibt rein reaktiv ohne weiterführende Analyse.
-- Qualitätsstufe E: Keine [[Reflexion]]; das System kann Rückmeldungen nicht analysieren und reagiert starr nach vorgegebenen Mustern, ohne eine Beobachtung 2. Ordnung oder tiefere Analyse durchzuführen.
+- Qualitätsstufe A: Das System führt eine tiefgehende Reflexion durch, die alle Rückmeldungen auf systemischer Ebene analysiert und unterscheidet in der Beobachtung 2. Ordnung zwischen verschiedenen Rückmeldungen, bewertet deren langfristige Auswirkungen und passt interne Strategien entsprechend an.
+- Qualitätsstufe B: Reflexion erfolgt in Hauptdimensionen (z. B. physisch und sozial), mit eingeschränkter Fähigkeit zur Beobachtung 2. Ordnung. Das System analysiert relevante Rückmeldungen und zieht Schlüsse auf das eigene Verhalten, kann jedoch strategische Anpassungen nur bedingt umsetzen.
+- Qualitätsstufe C: Grundlegende Reflexion über periodische Rückmeldungen; das System kann einfache Rückkopplungsprozesse bewerten, hat jedoch begrenzte Beobachtung 2. Ordnung und kann keine langfristigen strategischen Anpassungen vornehmen.
+- Qualitätsstufe D: Reflexion erfolgt nur oberflächlich; das System reagiert auf Feedback in festgelegten Kategorien und erkennt wenig bis keine Zusammenhänge zwischen den Rückmeldungen. Beobachtung 2. Ordnung ist kaum vorhanden, und die Reflexion bleibt rein reaktiv ohne weiterführende Analyse.
+- Qualitätsstufe E: Keine Reflexion; das System kann Rückmeldungen nicht analysieren und reagiert starr nach vorgegebenen Mustern, ohne eine Beobachtung 2. Ordnung oder tiefere Analyse durchzuführen.
 
 ### 4.3.4 Re-Entry
 
 [[Re-entry]] beschreibt die Fähigkeit des Systems, die Ergebnisse der [[Reflexion]] in seine eigenen Strukturen zurückzuführen, um langfristige Veränderungen oder Anpassungen zu bewirken. Die Beobachtung 2. Ordnung, indem das System seine bisherigen Anpassungen und Modifikationen bewertet und auf dieser Grundlage zukünftige Verhaltensweisen verändert, ist integrativer Bestandteil.
 
-- Qualitätsstufe A: Effizientes [[Re-entry]] in Echtzeit; das System führt kontinuierlich Änderungen durch, basierend auf den Ergebnissen seiner [[Reflexion]]. In der Beobachtung 2. Ordnung wird der Erfolg vorheriger Anpassungen analysiert und seine Strukturen kontinuierlich auf dieser Grundlage optimiert.
-- Qualitätsstufe B: [[Re-entry]] erfolgt mit minimaler Verzögerung (innerhalb von Stunden); das System setzt Anpassungen basierend auf seiner [[Reflexion]] um und kann frühere Anpassungen bewerten, jedoch ohne umfassende Strukturänderungen.
-- Qualitätsstufe C: [[Re-entry]] erfolgt periodisch (z. B. täglich oder wöchentlich), und das System kann grundlegende Anpassungen an wiederkehrende Rückmeldungen vornehmen. Die Analyse auf Basis der Beobachtung 2. Ordnung ist eingeschränkt, und Anpassungen bleiben oberflächlich.
-- Qualitätsstufe D: [[Re-entry]] erfolgt selten oder in großen Abständen (monatlich); Anpassungen sind meist vorgegeben und beschränken sich auf vereinzelte Modifikationen. Das System kann keine Evaluation vorheriger Anpassungen vornehmen und verfügt über keine Beobachtung 2. Ordnung.
+- Qualitätsstufe A: Effizientes Re-entry in Echtzeit; das System führt kontinuierlich Änderungen durch, basierend auf den Ergebnissen seiner Reflexion. In der Beobachtung 2. Ordnung wird der Erfolg vorheriger Anpassungen analysiert und seine Strukturen kontinuierlich auf dieser Grundlage optimiert.
+- Qualitätsstufe B: Re-entry erfolgt mit minimaler Verzögerung (innerhalb von Stunden); das System setzt Anpassungen basierend auf seiner Reflexion um und kann frühere Anpassungen bewerten, jedoch ohne umfassende Strukturänderungen.
+- Qualitätsstufe C: Re-entry erfolgt periodisch (z. B. täglich oder wöchentlich), und das System kann grundlegende Anpassungen an wiederkehrende Rückmeldungen vornehmen. Die Analyse auf Basis der Beobachtung 2. Ordnung ist eingeschränkt, und Anpassungen bleiben oberflächlich.
+- Qualitätsstufe D: Re-entry erfolgt selten oder in großen Abständen (monatlich); Anpassungen sind meist vorgegeben und beschränken sich auf vereinzelte Modifikationen. Das System kann keine Evaluation vorheriger Anpassungen vornehmen und verfügt über keine Beobachtung 2. Ordnung.
 - Qualitätsstufe E: Kein Re-Entry; das System bleibt starr und unverändert, ohne Erkenntnisse oder Anpassungen aus vorangegangenen Interaktionen zu integrieren. Die Simulation agiert ohne jegliche Fähigkeit zur Bewertung oder Modifikation auf Basis früherer Rückmeldungen.
 
 Diese konkreteren und praxisnäheren Operationalisierungen ermöglichen eine differenzierte Einordnung von Systemsimulationen in die Qualitätsstufen A bis E und berücksichtigen die Beobachtung 2. Ordnung in [[Feedback]], [[Reflexion]] und Re-Entry. Damit kann eine präzise und nachvollziehbare Einstufung in die Qualitätsstufen A bis E vorgenommen werden, wobei jede Stufe spezifische Anforderungen setzt, die die funktionalen und technischen Aspekte der Systemsimulation in den vier Dimensionen [[Feedback]], [[Reflexion]], [[Re-entry]] und Technik widerspiegeln.
@@ -1185,7 +1185,7 @@ Die Anwendung von Messmethoden zur Erfassung der Einflüsse eines simulierten Sy
  - **Agentenbasierte Modelle**: Subjektive Bewertungsdaten steuern die Handlungen einzelner Agenten, indem sie individuelle Zustandsveränderungen und Entscheidungsverhalten beeinflussen. Ein Agent, der subjektiv hohen Stress erlebt, könnte ineffiziente Kommunikationsstrategien zeigen oder sich weniger an kooperative Ziele halten, was die Gruppeninteraktion verändert und emergente Systemdynamiken erzeugt.
 
 3. **Verhaltensanalysen und Interaktionsmuster** (z.B. Kommunikationsqualität, Fehlerraten):
- - **Differentialgleichungsmodelle**: Verhaltens- und Interaktionsdaten können in das Modell als [[Feedback]]-Mechanismen eingebracht werden. Beispielsweise könnten sinkende Kommunikationsqualität oder zunehmende Fehlerraten eine Rückkopplung in der Gleichung erzeugen, die den Systemzustand $X(t)$ entsprechend der gemessenen Leistungsergebnisse verändert.
+ - **Differentialgleichungsmodelle**: Verhaltens- und Interaktionsdaten können in das Modell als Feedback-Mechanismen eingebracht werden. Beispielsweise könnten sinkende Kommunikationsqualität oder zunehmende Fehlerraten eine Rückkopplung in der Gleichung erzeugen, die den Systemzustand $X(t)$ entsprechend der gemessenen Leistungsergebnisse verändert.
  - **Agentenbasierte Modelle**: In agentenbasierten Modellen sind Verhaltensanalysen zentral, da die Interaktion einzelner Agenten emergente Strukturen formt. Änderungen in der Kommunikationsqualität oder in den Fehlerraten eines Agenten können dessen Zustand $S_i(t)$ dynamisch modifizieren und damit die Gesamtdynamik des Agentennetzwerks beeinflussen.
 
 Während Differentialgleichungsmodelle das System in seiner Gesamtheit abbilden und aggregierte Messdaten zur Beschreibung globaler Trends nutzen, fokussieren agentenbasierte Modelle auf das Verhalten und die Interaktion individueller Akteure. In Differentialgleichungsmodellen dienen die Messmethoden dazu, Systemreaktionen als globale, kontinuierliche Prozesse zu quantifizieren, wohingegen in agentenbasierten Modellen die Heterogenität und die Interaktionen der Agenten im Mittelpunkt stehen.
@@ -1399,7 +1399,7 @@ Die Integration der Modelle und Qualitätsstufen stellt einen zentralen Bestandt
 
 Die Definition und Einordnung der Qualitätsstufen schafft darüber hinaus eine gemeinsame Basis für die Kommunikation und Bewertung zwischen verschiedenen Fachdisziplinen. So können Simulationen konsistent und nachvollziehbar beurteilt werden, unabhängig davon, ob sie in der Medizin, der Psychologie, der Soziologie oder im Ingenieurwesen eingesetzt werden.
 
-## 6.3 [[Reflexion]] und Iteration
+## 6.3 Reflexion und Iteration
 
 Die Methode zur Entwicklung und Anwendung von Systemsimulationen beinhaltet eine starke Betonung auf kontinuierlicher [[Reflexion]] und Anpassung. Diese Reflexionsprozesse sind nicht nur ergänzende Elemente, sondern integrale Bestandteile der Methode, die darauf abzielen, Simulationen flexibel, anpassungsfähig und stets auf dem neuesten Stand der Erkenntnis zu halten. Die Methode wird so gestaltet, dass sie auf fortlaufende Entwicklungen und neue wissenschaftliche Erkenntnisse reagieren kann, um die Simulationen sowohl theoretisch als auch praktisch zu verbessern.
 
@@ -1488,14 +1488,14 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 # Quelle(n)
 
 - Banks, J., Carson, J. S., Nelson, B. L., & Nicol, D. M. (2005). _Discrete-Event System Simulation_ (4th ed.). Pearson Prentice Hall.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019a). Autopoiesis. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 29–33). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019b). Komplexität. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 93–97). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019c). Operation/Beobachtung. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 123–128). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019d). [[Re-entry]]. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 152–154). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019e). [[Reflexion]]. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 154–155). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019f). Selbstreferenz. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 163–167). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019g). Sinn. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 170–173). Suhrkamp.
-- Baraldi, C., Corsi, G., & Esposito, E. (2019h). Sinndimension. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer [[Systeme]]_ (9. Aufl., S. 173–176). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019a). Autopoiesis. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 29–33). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019b). Komplexität. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 93–97). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019c). Operation/Beobachtung. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 123–128). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019d). Re-entry. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 152–154). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019e). Reflexion. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 154–155). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019f). Selbstreferenz. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 163–167). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019g). Sinn. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 170–173). Suhrkamp.
+- Baraldi, C., Corsi, G., & Esposito, E. (2019h). Sinndimension. In _GLU: Glossar zu Niklas Luhmanns Theorie sozialer Systeme_ (9. Aufl., S. 173–176). Suhrkamp.
 - BAnz. (2006). _Joint Aviation Requirements – Gewerbsmäßige Beförderung von Personen und Sachen in Flugzeugen_. Bundesministerium für Verkehr, Bau und Stadtentwicklung.
 - Bersini, H. (2020). _Modeling and Simulation in Bioinformatics_. Springer Science & Business Media.
 - Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. _Proceedings of the National Academy of Sciences_, _99_(suppl 3), 7280–7287. [https://doi.org/10.1073/pnas.082080899](https://doi.org/10.1073/pnas.082080899)
@@ -1513,7 +1513,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 - Kitano, H. (2002). Computational systems biology. _Nature_, _420_(6912), 206–210.
 - Lackes, R., Siepermann, M., Rottmann, H., Auer, B. R., & Marco Lübbecke. (o. J.). _Simulation_. Abgerufen 13. November 2024, von [https://wirtschaftslexikon.gabler.de/definition/simulation-43833/version-267158](https://wirtschaftslexikon.gabler.de/definition/simulation-43833/version-267158)
 - Law, A. M., & Kelton, W. D. (1991). _Simulation Modeling and Analysis_ (2nd ed.). McGraw-Hill.
-- Luhmann, N. (1984). _Soziale [[Systeme]]. Grundriß einer allgemeinen Theorie_. Suhrkamp.
+- Luhmann, N. (1984). _Soziale Systeme. Grundriß einer allgemeinen Theorie_. Suhrkamp.
 - Luhmann, N. (1995). _Social Systems_. Stanford University Press.
 - Maturana, H. R., & Varela, F. J. (1980). _Autopoiesis and Cognition: The Realization of the Living_. D. Reidel Publishing Company.
 - Metropolis, N., & Ulam, S. (1949). The Monte Carlo Method. _Journal of the American Statistical Association_, _44_(247), 335–341. [https://doi.org/10.2307/2280232](https://doi.org/10.2307/2280232)
@@ -1575,12 +1575,12 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
  
 1.3 **Integration von Re-Entry**
 
-- [[Feedback]], [[Reflexion]] und [[Re-entry]] bilden eine Schleife, die dynamische Anpassungen im System ermöglicht.
+- Feedback, Reflexion und Re-entry bilden eine Schleife, die dynamische Anpassungen im System ermöglicht.
 - **Re-Entry** ermöglicht die kontinuierliche Rückführung reflektierter Erkenntnisse ins System zur Anpassung und Weiterentwicklung.
  
 1.4 **Einbindung menschlicher Bedürfnisse und Emotionen**
 
-- Die fünf Grundbedürfnisse der **Schematherapie** fungieren als Trigger für [[Feedback]] und [[Reflexion]].
+- Die fünf Grundbedürfnisse der **Schematherapie** fungieren als Trigger für Feedback und Reflexion.
 - Emotionen dienen als Regulationsmechanismen, was zu realistischeren und menschlicheren Simulationen führt.
  
 1.5 **Systemtheoretische Grundlage**
@@ -1609,7 +1609,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
  
 2.4 **Integration des Re-Entry-Konzepts**
 
-- Erläuterung der dynamischen Schleife aus [[Feedback]], [[Reflexion]] und Re-Entry.
+- Erläuterung der dynamischen Schleife aus Feedback, Reflexion und Re-Entry.
  
 2.5 **Einbeziehung menschlicher Bedürfnisse und Emotionen**
 
@@ -1617,7 +1617,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
  
 2.6 **Vergleich mit bisherigen Simulationszielen**
 
-- [[Reflexion]] darüber, wie systemtheoretische Simulationen über bestehende Ansätze hinausgehen.
+- Reflexion darüber, wie systemtheoretische Simulationen über bestehende Ansätze hinausgehen.
 
 2.7 **Finale Zusammenfassung der gewonnenen Erkenntnisse**
 
@@ -1632,7 +1632,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
  
 3.2 **Einführung des Re-Entry-Konzepts**
 
-- Wendepunkt: Einführung von [[Re-entry]] als Schlüsselelement für dynamische Anpassung.
+- Wendepunkt: Einführung von Re-entry als Schlüsselelement für dynamische Anpassung.
 - Einfluss: Schaffung einer flexiblen, adaptiven Struktur für Simulationen.
  
 3.3 **Integration von Bedürfnissen und Emotionen**
@@ -1649,7 +1649,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
  
 4.2 **Technische Begrenzungen der aktuellen Simulationstechnologie**
 
-- Ereignis: Diskussion über die Unfähigkeit aktueller Technologien, komplexe [[Systeme]] vollständig zu simulieren.
+- Ereignis: Diskussion über die Unfähigkeit aktueller Technologien, komplexe Systeme vollständig zu simulieren.
 - Lösung: Fokussierung auf Forschung und Entwicklung zur Verbesserung dieser Bereiche.
  
 ### 5. **Unterschiedliche Anteile und Beiträge**
@@ -1663,7 +1663,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 5.2 **Beiträge von ChatGPT**
 
 - Entwicklung und Strukturierung der Qualitätsstufen und Typisierung.
-- Integration systemtheoretischer Konzepte wie [[Re-entry]] und [[Beobachtung dritter Ordnung]].
+- Integration systemtheoretischer Konzepte wie Re-entry und Beobachtung dritter Ordnung.
 - Zusammenführung der Erkenntnisse und Erstellung eines konsistenten Modells.
  
 ### 6. **Besonderheiten**
@@ -1680,7 +1680,7 @@ Langfristig besteht das Ziel dieser Arbeit darin, Simulationen als dynamische, s
 
 7.1 **Iterativer Erkenntnisprozess**
 
-- Der Entwicklungsprozess war stark iterativ, mit ständiger [[Reflexion]] und Anpassung der Ansätze.
+- Der Entwicklungsprozess war stark iterativ, mit ständiger Reflexion und Anpassung der Ansätze.
  
 7.2 **Konzentration auf systemtheoretische Prinzipien**
 

@@ -87,7 +87,7 @@ Interventionen innerhalb des HRT-DF umfassen:
 
 - Diagnostische Maßnahmen: Diese Handlungen dienen der Einschätzung der aktuellen Situation und der Bestimmung relevanter Zustandsparameter. Sie erweitern den Entscheidungsraum, indem sie Unterschiede im System offenlegen und die Grundlage für weiterführende Maßnahmen schaffen.
 - Therapeutische Maßnahmen: Hierzu zählen Eingriffe wie medizinische Prozeduren oder die Verabreichung von Medikamenten, die aktiv zur Überwindung unerwünschter Zustände beitragen. Die Wahl therapeutischer Maßnahmen basiert auf der Evidenz und der Notwendigkeit, bestehende Differenzen zu beseitigen.
-- Kommunikationsmaßnahmen: Kommunikation ist ein wesentlicher Bestandteil der [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]]. Sie ermöglicht die Koordination des Teams und den Austausch kritischer Informationen. Luhmann (2000) betont, dass Kommunikation selbst eine Form der Entscheidung ist, da sie bestimmte Informationen hervorhebt und andere ausschließt, wodurch operative Schließungen im System erzeugt werden.
+- Kommunikationsmaßnahmen: Kommunikation ist ein wesentlicher Bestandteil der Entscheidungsfindung. Sie ermöglicht die Koordination des Teams und den Austausch kritischer Informationen. Luhmann (2000) betont, dass Kommunikation selbst eine Form der Entscheidung ist, da sie bestimmte Informationen hervorhebt und andere ausschließt, wodurch operative Schließungen im System erzeugt werden.
 
 ### 1.1.3 Übergangswahrscheinlichkeiten
 
@@ -371,7 +371,7 @@ In diesem Modell wird der Entscheidungsprozess mit der initialen Schmerzevaluati
 
 Die Übergänge im Graphen spiegeln die zugrundeliegende [[Wirkungswahrscheinlichkeit]] wider, indem sie die Wahrscheinlichkeit der erfolgreichen Schmerzkontrolle durch gezielte Reevaluation und flexible Anpassung erhöhen. Die Integration von Kommunikationsprozessen, die durch [[Elementarkommunikation]] beschrieben werden, sorgt dafür, dass alle relevanten Parameter fortlaufend berücksichtigt werden.
 
-### 2.4.3 Empirische Simulation zur [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]] im Schmerzmanagement 
+### 2.4.3 Empirische Simulation zur Entscheidungsfindung im Schmerzmanagement 
 
 In diesem Abschnitt wird die empirische Simulation zur [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]] im Schmerzmanagement anhand eines erweiterten Markov-Entscheidungsprozesses (MDP) beschrieben. Ziel dieser Simulation ist, den Entscheidungsfluss innerhalb eines Algorithmus für das akute Koronarsyndrom (ACS) mit besonderem Fokus auf die Gabe von Morphin und Antiemetika zu modellieren. Die Simulation veranschaulicht, wie iterative Entscheidungen zur Schmerzreduktion und Nebenwirkungsprophylaxe in der notfallmedizinischen Versorgung ablaufen. 
 
@@ -747,7 +747,7 @@ Dieses Beispiel verdeutlicht, wie MDP und systemtheoretische Konzepte in der Not
 
 Aus der Analyse und den theoretischen Grundlagen des High Responsibility Team Decision Framework (HRT-DF) lassen sich mehrere zentrale Folgerungen ableiten. Diese sind direkt auf die Struktur des Frameworks und seine praktische Anwendbarkeit in Hochverantwortungssituationen zurückzuführen:
 
-1. Strukturierte [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]]: 
+1. Strukturierte Entscheidungsfindung: 
  Das HRT-DF bietet einen klar definierten Rahmen für die [[Wirkungskriterienbasierte Entscheidungsfindung|Entscheidungsfindung]] in dynamischen und unsicheren Umgebungen. Teams können komplexe Situationen in klar voneinander abgrenzbare Zustände und Aktionen zerlegen und diese gezielt analysieren, um fundierte Entscheidungen zu treffen. Dies reduziert Unsicherheiten und minimiert die Wahrscheinlichkeit für Fehlentscheidungen (Hanisch-Johannsen, 2023).
 
 2. Erhöhte Handlungssicherheit in Notfallsituationen: 

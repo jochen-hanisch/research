@@ -46,7 +46,7 @@ created: 29.09.2024 | [updated](https://github.com/jochen-hanisch/research): 05.
 
 # 1 Definition
 
-Die Kompetenzentwicklung beschreibt den dynamischen und nicht-linearen Prozess der Weiterentwicklung, Veränderung und Verfestigung von Kompetenzen über die Zeit. Sie umfasst den Erwerb und die Verfeinerung von Wissen, Fähigkeiten und Fertigkeiten, die sowohl durch formale Bildungsprozesse als auch durch informelles Lernen beeinflusst werden. Dieser Prozess wird von internen Faktoren wie Motivation und Vorwissen sowie externen Faktoren wie der Lernumgebung und Lehrmethoden bestimmt.
+Die Kompetenzentwicklung beschreibt den dynamischen und nicht-linearen Prozess der Weiterentwicklung, Veränderung und Verfestigung von Kompetenzen über die Zeit. Sie umfasst den Erwerb und die Verfeinerung von Wissen, Fähigkeiten und Fertigkeiten, die sowohl durch formale Bildungsprozesse als auch durch informelles Lernen beeinflusst werden. Dieser Prozess wird von internen Faktoren wie Motivation und Vorwissen sowie externen Faktoren wie der Lernumgebung und Lehrmethoden bestimmt. Im weiteren Begriffsraum steht Kompetenzentwicklung in enger Beziehung zu [[Lernpfadmodell]], [[Bildungsmechanik]] und [[Bildungsraumzeit]].
 
 # 2 Herleitung
 
@@ -56,7 +56,7 @@ Im Wirkgefüge des (digitalen) Bildungsraums wird die Kompetenzentwicklung durch
 
 Die Kompetenzentwicklung beschreibt den Prozess der Weiterentwicklung, Veränderung und Verfestigung von Kompetenzen im Laufe der Zeit. Sie umfasst den Erwerb und die Verfeinerung von Wissen, Fähigkeiten und Fertigkeiten sowie der individuellen Bereitschaft und kann sowohl durch formale Bildungsprozesse als auch durch informelles Lernen beeinflusst werden.
 
-Die Entwicklungsorientierung soll als Paradigmenwechsel betrachtet werden, die die bisherigen Ansätze der Wissens- und Kompetenzorientierung nicht ausreichend erscheinen und die kontinuierliche Entfaltung von Fähigkeiten und Eigenschaften deutlicher zu zu betonen ist. Diese Perspektive integriert kognitive, emotionale und soziale Dimensionen und steht in engem Zusammenhang mit Bereichen wie Inklusionspädagogik, Psychotherapie und Coaching. Die Entwicklung wird als ein vorwärtsgerichteter Prozess verstanden, der zu immer ausgeprägteren Fähigkeiten führt und durch die Operationalisierung von Konzepten wie Verantwortlichkeit, Kreativität und kritischem Denken beschrieben wird. Die Entwicklungsorientierung erweitert somit das Verständnis, indem sie die kontinuierliche Entfaltung von Kompetenzen in einem breiteren sozialen und emotionalen Kontext betrachtet. Diese Perspektive betont die Bedeutung von adaptiven Lernstrategien und der Berücksichtigung individueller Lernpfade, um die Kompetenzentwicklung zu stabilisieren und zu fördern.
+Die Entwicklungsorientierung soll als Paradigmenwechsel betrachtet werden, die die bisherigen Ansätze der Wissens- und Kompetenzorientierung nicht ausreichend erscheinen und die kontinuierliche Entfaltung von Fähigkeiten und Eigenschaften deutlicher zu zu betonen ist. Diese Perspektive integriert kognitive, emotionale und soziale Dimensionen und steht in engem Zusammenhang mit Bereichen wie Inklusionspädagogik, Psychotherapie und Coaching. Die Entwicklung wird als ein vorwärtsgerichteter Prozess verstanden, der zu immer ausgeprägteren Fähigkeiten führt und durch die Operationalisierung von Konzepten wie Verantwortlichkeit, Kreativität und kritischem Denken beschrieben wird. Die Entwicklungsorientierung erweitert somit das Verständnis, indem sie die kontinuierliche Entfaltung von Kompetenzen in einem breiteren sozialen und emotionalen Kontext betrachtet. Diese Perspektive betont die Bedeutung von adaptiven Lernstrategien und der Berücksichtigung individueller Lernpfade, um die Kompetenzentwicklung zu stabilisieren und zu fördern. Hier zeigt sich auch die Verbindung zu [[Lernpfadmodell]].
 
 ## 2.1 Mathematische Perspektive
 
@@ -68,8 +68,8 @@ $$
 
 wobei in Gleichung 1:
 - $K(t)$ das Kompetenzniveau zum Zeitpunkt $t$,
-- $K_0$ das Anfangsniveau der [[Kompetenz]] und
-- $\nu$ der [[Bildungswirkfaktor]] ist, der die Stärke der Bildungswirkung anzeigt.
+- $K_0$ das Anfangsniveau der Kompetenz und
+- $\nu$ der Bildungswirkfaktor ist, der die Stärke der Bildungswirkung anzeigt.
 
 Abbildung 1, [Kumulative Bildungsdynamik ](https://public.jochen-hanisch.de/plot/Bildungswirkdynamik.html )(eig. Darstellung), visualisiert die Entwicklung der kumulativen Bildungswirkung. Die Fläche unter der Kurve entspricht der im Modell erfassten Bildungsdynamik mit einem Gesamtwert von 11.89 Einheiten.
 
@@ -105,19 +105,19 @@ In der Phase nachlassender Wirkung erfolgt ein präventiver Eingriff. Dieser sch
 
 ### 2.1.1 Kurvendiskussion und Dynamik
 
-Die Form der Kompetenzentwicklungskurve gibt Auskunft über die Dynamik des Lernprozesses. Wendepunkte, Minima und Maxima in der $K(t)$-Kurve zeigen Phasen des beschleunigten oder verlangsamten Lernens an. Diese Phasen können durch persönliche Ereignisse ausgelöst werden und zu einer Verschiebung der Lernkurve führen. Die Veränderung des [[Bildungswirkindikator|Bildungswirkindikators]] $(ι)$ zeigt an, wie empfindlich die Kompetenzentwicklung auf solche Einflüsse reagiert.
+Die Form der Kompetenzentwicklungskurve gibt Auskunft über die Dynamik des Lernprozesses. Wendepunkte, Minima und Maxima in der $K(t)$-Kurve zeigen Phasen des beschleunigten oder verlangsamten Lernens an. Diese Phasen können durch persönliche Ereignisse ausgelöst werden und zu einer Verschiebung der Lernkurve führen. Die Veränderung des [[Bildungswirkindikator]] $(ι)$ zeigt an, wie empfindlich die Kompetenzentwicklung auf solche Einflüsse reagiert.
 
 Abbildung 2 [Bildungswirkfaktor und Bildungswirkindikator](https://public.jochen-hanisch.de/plot/bildungswirkfaktor-bildungswirkindikator.html) (eig. Darstellung) 
 ### 2.1.3 Mathematische Interpretation
 
-Die Kompetenzentwicklung hängt dynamisch von den zeitabhängigen Veränderungen des [[Bildungswirkfaktor|Bildungswirkfaktors]] $(\nu)$ ab. Der Bildungswirkfaktor $(\nu)$ beschreibt die Stärke des Bildungsprozesses und variiert in Abhängigkeit von externen Einflüssen und Lernbedingungen. Die Integration des Bildungswirkfaktors ergibt die Veränderung des Kompetenzniveaus über die Zeit:
+Die Kompetenzentwicklung hängt dynamisch von den zeitabhängigen Veränderungen des [[Bildungswirkfaktor]]s $(\nu)$ ab. Der Bildungswirkfaktor $(\nu)$ beschreibt die Stärke des Bildungsprozesses und variiert in Abhängigkeit von externen Einflüssen und Lernbedingungen. Die Integration des Bildungswirkfaktors ergibt die Veränderung des Kompetenzniveaus über die Zeit:
 
 $$ K(t) = K_0 + \int_{t_0}^{t} \nu(t) \, dt $$
 
 wobei:
 - $K(t)$ das Kompetenzniveau zum Zeitpunkt $t$,
-- $K_0$ das Anfangsniveau der [[Kompetenz]] und
-- $\nu(t)$ der zeitabhängige [[Bildungswirkfaktor]] ist.
+- $K_0$ das Anfangsniveau der Kompetenz und
+- $\nu(t)$ der zeitabhängige Bildungswirkfaktor ist.
 
 Die Ableitung der Kompetenzentwicklungskurve $(dK/dt)$ entspricht dem Bildungswirkfaktor $\nu(t)$ und zeigt an, wie schnell sich die [[Kompetenz]] entwickelt:
 

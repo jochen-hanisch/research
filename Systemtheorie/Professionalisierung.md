@@ -151,10 +151,10 @@ Der hier entwickelte systemtheoretische Professionalisierungsansatz integriert d
    Professionen zeichnen sich durch ihre Fähigkeit aus, komplexe Umweltanforderungen wahrzunehmen, zu beschreiben und zu interpretieren. Diese Differenzierungsfähigkeit ist die Grundlage für handlungsrelevante Entscheidungen und die Legitimation professioneller Eingriffe.
 
 2. Wirkung
-   Professionen erzeugen weitreichende und ambivalente Wirkungen, die sowohl in ihrer zeitlichen Dimension (kurz- und langfristige Konsequenzen) als auch in ihrer Intensität (positiv oder negativ) herausstechen. Diese [[Wirkung]] macht die gesellschaftliche Relevanz von Professionen deutlich und geht der Verantwortung voraus, die sie übernehmen müssen.
+   Professionen erzeugen weitreichende und ambivalente Wirkungen, die sowohl in ihrer zeitlichen Dimension (kurz- und langfristige Konsequenzen) als auch in ihrer Intensität (positiv oder negativ) herausstechen. Diese Wirkung macht die gesellschaftliche Relevanz von Professionen deutlich und geht der Verantwortung voraus, die sie übernehmen müssen.
 
 3. Entwicklungsdynamik
-   Professionen entwickeln sich kontinuierlich durch das Zusammenspiel der Trias aus [[Feedback]], [[Reflexion]] und Reentry. Diese Mechanismen ermöglichen die aktive Transformation von Systemen und die Anpassung an neue gesellschaftliche Anforderungen.
+   Professionen entwickeln sich kontinuierlich durch das Zusammenspiel der Trias aus Feedback, Reflexion und Reentry. Diese Mechanismen ermöglichen die aktive Transformation von Systemen und die Anpassung an neue gesellschaftliche Anforderungen.
 
 4. asymmetrisch-strukturelle Kopplung  
    Professionen agieren in asymmetrischen Beziehungen zu anderen Systemen, in denen sie entscheidend handeln und direkten Einfluss ausüben, während das abhängige System nur eingeschränkt auf die Profession zurückwirken kann. Diese Kopplung verdeutlicht die Macht und Verantwortung von Professionen und ihre transformative Rolle über systemische Grenzen hinweg.
@@ -425,7 +425,7 @@ Die Operationalisierung erfolgt in vier Schritten, die aufeinander aufbauen:
    Die Merkmale werden durch Indikatoren weiter konkretisiert. Diese Indikatoren formulieren einfache Fragen, die positiv beantwortet werden müssen, um die Erfüllung des jeweiligen Merkmals nachzuweisen. Maximal vier Indikatoren pro Merkmal gewährleisten die Handhabbarkeit und verhindern eine Überfrachtung des Modells.  
 
 4. **Auswertung und Bewertung**  
-   Eine Profession gilt als durch ein Hauptkennzeichen charakterisiert, wenn alle zugehörigen Merkmale und deren Indikatoren erfüllt sind. Werden einzelne Indikatoren nicht erfüllt, erfolgt eine [[Reflexion]], ob dies auf eine unvollständige Professionalisierung oder auf die Abwesenheit des jeweiligen Kennzeichens hindeutet.  
+   Eine Profession gilt als durch ein Hauptkennzeichen charakterisiert, wenn alle zugehörigen Merkmale und deren Indikatoren erfüllt sind. Werden einzelne Indikatoren nicht erfüllt, erfolgt eine Reflexion, ob dies auf eine unvollständige Professionalisierung oder auf die Abwesenheit des jeweiligen Kennzeichens hindeutet.  
 
 **Anwendungsbereiche der Operationalisierung**  
 
@@ -502,10 +502,10 @@ Um die Wirkung einer Profession zu operationalisieren, werden vier zentrale Merk
 Professionelle Entscheidungen haben Auswirkungen, die über den unmittelbaren Kontext hinausgehen und sich auf verschiedene gesellschaftliche [[Systeme]] erstrecken.
 
 - **Indikatoren:**  
-  1. Hat die Handlung Auswirkungen auf Personen oder [[Systeme]] außerhalb des direkten Einflussbereichs?  
+  1. Hat die Handlung Auswirkungen auf Personen oder Systeme außerhalb des direkten Einflussbereichs?  
   2. Entfalten die getroffenen Entscheidungen mittel- oder langfristige Effekte?  
   3. Kann die Wirkung der Entscheidung in angrenzende Funktionssysteme (z. B. Recht, Gesundheit, Bildung) übertragen werden?  
-  4. Werden externe [[Systeme]] in Entscheidungsprozesse einbezogen oder durch diese beeinflusst?  
+  4. Werden externe Systeme in Entscheidungsprozesse einbezogen oder durch diese beeinflusst?  
 
 **Merkmal 2: Intensität der Wirkung**
 
@@ -523,7 +523,7 @@ Professionelles Handeln ist oft ambivalent und kann sowohl positive als auch neg
 
 - **Indikatoren:**  
   1. Werden mögliche positive und negative Konsequenzen der Handlung systematisch abgewogen?  
-  2. Ist die [[Reflexion]] über ambivalente Handlungsfolgen Teil des Entscheidungsprozesses?  
+  2. Ist die Reflexion über ambivalente Handlungsfolgen Teil des Entscheidungsprozesses?  
   3. Gibt es etablierte Verfahren zur Minimierung von negativen Wirkungen?  
   4. Werden negative Wirkungen dokumentiert und für zukünftige Entscheidungsprozesse berücksichtigt?  
 
@@ -552,7 +552,7 @@ Professionen sind in der Lage, Rückmeldungen aus ihrer Umwelt wahrzunehmen und 
 - **Indikatoren:**  
   1. Werden Rückmeldungen aus der Umwelt systematisch erfasst und analysiert?  
   2. Gibt es etablierte Verfahren zur regelmäßigen Evaluation von Entscheidungen und Handlungen?  
-  3. Wird [[Feedback]] in strukturelle oder prozessuale Anpassungen überführt?  
+  3. Wird Feedback in strukturelle oder prozessuale Anpassungen überführt?  
   4. Existieren Mechanismen zur Identifikation von Fehlentwicklungen durch externe Rückkopplung?  
 
 **Merkmal 2: [[Reflexion]] und Selbstbeobachtung**
@@ -561,8 +561,8 @@ Professionen verfügen über die Fähigkeit zur Selbstbeobachtung und reflektier
 
 - **Indikatoren:**  
   1. Werden interne Prozesse regelmäßig kritisch hinterfragt und bewertet?  
-  2. Gibt es Formate oder Gremien, die [[Reflexion]] strukturell verankern (z. B. Fallbesprechungen, Supervisionen)?  
-  3. Fließen neue Erkenntnisse aus der [[Reflexion]] in die Gestaltung zukünftiger Entscheidungen ein?  
+  2. Gibt es Formate oder Gremien, die Reflexion strukturell verankern (z. B. Fallbesprechungen, Supervisionen)?  
+  3. Fließen neue Erkenntnisse aus der Reflexion in die Gestaltung zukünftiger Entscheidungen ein?  
   4. Ist die Bereitschaft zur Selbstkritik und Veränderung im professionellen Selbstverständnis verankert?  
 
 **Merkmal 3: Reentry und Prozessrückführung**
@@ -570,7 +570,7 @@ Professionen verfügen über die Fähigkeit zur Selbstbeobachtung und reflektier
 Neue Erkenntnisse und reflektierte Erfahrungen werden aktiv in das System rückgeführt und tragen zur Erneuerung professioneller Praxis bei.
 
 - **Indikatoren:**  
-  1. Werden aus [[Reflexion]] und [[Feedback]] neue Handlungsleitlinien oder Standards entwickelt?  
+  1. Werden aus Reflexion und Feedback neue Handlungsleitlinien oder Standards entwickelt?  
   2. Gibt es Verfahren zur Implementierung neuer Entscheidungslogiken in den Arbeitsalltag?  
   3. Werden Best-Practice-Ansätze regelmäßig angepasst und kommuniziert?  
   4. Bestehen systemische Mechanismen, die sicherstellen, dass vergangene Fehler zur Weiterentwicklung des Systems führen?  
@@ -600,8 +600,8 @@ Um die asymmetrisch-strukturelle Kopplung zu operationalisieren, werden vier Mer
 Professionen besitzen die Fähigkeit, weitreichende Entscheidungen zu treffen, die andere [[Systeme]] direkt betreffen, ohne dass diese [[Systeme]] die Entscheidungen maßgeblich beeinflussen können.
 
 - **Indikatoren:**  
-  1. Werden Entscheidungen getroffen, die unmittelbare Auswirkungen auf andere [[Systeme]] oder Individuen haben?  
-  2. Besteht in der Entscheidungsfindung eine geringe oder keine Einflussmöglichkeit der betroffenen [[Systeme]]?  
+  1. Werden Entscheidungen getroffen, die unmittelbare Auswirkungen auf andere Systeme oder Individuen haben?  
+  2. Besteht in der Entscheidungsfindung eine geringe oder keine Einflussmöglichkeit der betroffenen Systeme?  
   3. Sind die durch die Profession getroffenen Entscheidungen in ihrem Kern unumkehrbar oder nur schwer revidierbar?  
   4. Tragen die Entscheidungen langfristige Konsequenzen für das betroffene System oder die betroffenen Individuen?  
 
@@ -610,7 +610,7 @@ Professionen besitzen die Fähigkeit, weitreichende Entscheidungen zu treffen, d
 Die betroffenen [[Systeme]] oder Individuen sind in hohem Maße von den Handlungen der Profession abhängig, während die Profession selbst kaum auf Rückmeldungen angewiesen ist.
 
 - **Indikatoren:**  
-  1. Sind die betroffenen [[Systeme]] in kritischen Situationen auf die Entscheidungen der Profession angewiesen?  
+  1. Sind die betroffenen Systeme in kritischen Situationen auf die Entscheidungen der Profession angewiesen?  
   2. Besteht ein Informations- oder Kompetenzgefälle zwischen der Profession und dem betroffenen System?  
   3. Ergeben sich irreversible Folgen für das betroffene System, wenn die Profession nicht handelt?  
   4. Ist das betroffene System nicht in der Lage, eigenständig eine Lösung herbeizuführen, ohne die Profession zu involvieren?  
@@ -622,7 +622,7 @@ Professionen agieren häufig nicht nur in einer, sondern in mehreren asymmetrisc
 - **Indikatoren:**  
   1. Bestehen Kopplungen zu mehreren Systemen oder Akteuren, die zeitgleich beeinflusst werden?  
   2. Üben die Kopplungen unterschiedliche Arten von Einfluss aus (z. B. beratend und entscheidend)?  
-  3. Sind die betroffenen [[Systeme]] oder Akteure in unterschiedlichen Rollen (z. B. Patient:in und Ärzt:in) involviert?  
+  3. Sind die betroffenen Systeme oder Akteure in unterschiedlichen Rollen (z. B. Patient:in und Ärzt:in) involviert?  
   4. Entstehen Zielkonflikte oder Abstimmungsbedarfe zwischen den kopplungsbeteiligten Systemen?  
 
 **Merkmal 4: Legitimation und Verantwortung**
@@ -742,10 +742,10 @@ Deprofessionalisierung ist kein plötzliches oder lineares Phänomen, sondern ei
 ### 3.5.1 Ursachen der Deprofessionalisierung  
 
 1. **Verlust der System-Umwelt-Unterscheidung**  
-   Ein zentrales Merkmal professioneller [[Systeme]] ist die Fähigkeit, zwischen relevanten und irrelevanten Umweltreizen zu differenzieren. Wenn diese Differenzierungsfähigkeit durch äußere Standardisierungen, gesetzliche Regulierungen oder technologische Automatisierung eingeschränkt wird, verlieren Professionen ihre Autonomie in der Entscheidungsfindung. Beispielsweise führt eine zunehmende Digitalisierung im Gesundheitswesen, die durch algorithmengesteuerte Diagnosesysteme ergänzt wird, dazu, dass ärztliches Fachwissen zunehmend externalisiert wird.  
+   Ein zentrales Merkmal professioneller Systeme ist die Fähigkeit, zwischen relevanten und irrelevanten Umweltreizen zu differenzieren. Wenn diese Differenzierungsfähigkeit durch äußere Standardisierungen, gesetzliche Regulierungen oder technologische Automatisierung eingeschränkt wird, verlieren Professionen ihre Autonomie in der Entscheidungsfindung. Beispielsweise führt eine zunehmende Digitalisierung im Gesundheitswesen, die durch algorithmengesteuerte Diagnosesysteme ergänzt wird, dazu, dass ärztliches Fachwissen zunehmend externalisiert wird.  
 
 2. **Abschwächung der Wirkung**  
-   Professionen zeichnen sich durch weitreichende, tiefgreifende und oft irreversible Wirkungen aus. Wenn professionelle Entscheidungen zunehmend durch andere [[Systeme]] beeinflusst oder korrigiert werden, reduziert sich ihre Wirkung. Dies ist häufig in juristischen und medizinischen Berufen zu beobachten, in denen regulatorische Instanzen oder versicherungstechnische Vorschriften die Entscheidungskompetenz einschränken.  
+   Professionen zeichnen sich durch weitreichende, tiefgreifende und oft irreversible Wirkungen aus. Wenn professionelle Entscheidungen zunehmend durch andere Systeme beeinflusst oder korrigiert werden, reduziert sich ihre Wirkung. Dies ist häufig in juristischen und medizinischen Berufen zu beobachten, in denen regulatorische Instanzen oder versicherungstechnische Vorschriften die Entscheidungskompetenz einschränken.  
 
 3. **Einschränkung der Entwicklungsdynamik**  
    Professionen müssen sich kontinuierlich an neue gesellschaftliche Anforderungen, wissenschaftliche Erkenntnisse und technologische Innovationen anpassen. Wird diese Dynamik durch starre Hierarchien, geringe Investitionen in Fortbildung oder mangelnde Innovationsanreize behindert, kommt es zu einer schleichenden Deprofessionalisierung. Dies betrifft insbesondere pädagogische Berufe, in denen Lehrkräfte zwar über hohe fachliche Expertise verfügen, jedoch durch rigide Lehrpläne und Prüfungsformate in ihrer Entwicklung gehemmt werden.  
@@ -774,7 +774,7 @@ Die Auswirkungen von Deprofessionalisierung sind vielfältig und betreffen sowoh
 Um Deprofessionalisierungstendenzen entgegenzuwirken, müssen gezielte Maßnahmen auf individueller, organisatorischer und gesellschaftlicher Ebene ergriffen werden.  
 
 1. **Stärkung der Reflexivität und Selbstkontrolle**  
-   Professionen müssen verstärkt Mechanismen der Selbstkontrolle und [[Reflexion]] etablieren, um ihre Autonomie zu sichern. Dazu gehört die regelmäßige Überprüfung professioneller Standards und die Anpassung an neue gesellschaftliche Anforderungen.  
+   Professionen müssen verstärkt Mechanismen der Selbstkontrolle und Reflexion etablieren, um ihre Autonomie zu sichern. Dazu gehört die regelmäßige Überprüfung professioneller Standards und die Anpassung an neue gesellschaftliche Anforderungen.  
 
 2. **Erhalt und Förderung der System-Umwelt-Unterscheidung**  
    Es gilt, professionelle Entscheidungsräume zu schützen und externe Eingriffe auf ein notwendiges Maß zu beschränken. Dies kann durch institutionelle Pufferzonen oder die Schaffung unabhängiger Professionenräte erreicht werden, die zwischen politischen Vorgaben und professionellem Handeln vermitteln.  
@@ -874,7 +874,7 @@ Dennoch stellt der systemtheoretische Professionsansatz eine innovative und diff
 **Literaturquellen:**
 
 - Freidson, E. (2001). _Professionalism: The third logic._ University of Chicago Press.
-- Luhmann, N. (1984). _Soziale [[Systeme]]: Grundriss einer allgemeinen Theorie._ Suhrkamp.
+- Luhmann, N. (1984). _Soziale Systeme: Grundriss einer allgemeinen Theorie._ Suhrkamp.
 - Parsons, T. (1951). _The social system._ The Free Press.
 - Schütze, F. (1992). Narrative Ansätze in der Professionstheorie. In H. Weiß (Hrsg.), _Theorie der Profession und professionelle Praxis_ (S. 48–78). Suhrkamp.
 - Spencer-Brown, G. (1969). _Laws of form._ George Allen & Unwin.

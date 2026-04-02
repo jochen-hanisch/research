@@ -33,7 +33,7 @@ tags:
   - Innovationsförderung
   - Teamarbeit
   - Organisationsentwicklung
-  - [[Wirkung]]swahrscheinlichkeit
+  - Wirkungswahrscheinlichkeit
 ---
 
 created: 21.01.2025 | [updated](https://github.com/jochen-hanisch/research): 21.01.2025 | [published](https://zenodo.org/records/15857049): 10.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
@@ -56,9 +56,9 @@ Elementarteams sind Teams, deren Handlungen und [[Wirkung]]en vollständig auf d
 
 **Elemente der Definition von Elementarteams:**
 
-1. **Handlungen und [[Wirkung]]en**:    
+1. **Handlungen und Wirkungen**:    
     - **Handlungen**: Alle Aktivitäten, die von den Teammitgliedern initiiert werden, um ein Ziel zu erreichen.
-    - **[[Wirkung]]en**: Die Ergebnisse oder Konsequenzen der Handlungen, die durch Feedback bewertet werden.
+    - **Wirkungen**: Die Ergebnisse oder Konsequenzen der Handlungen, die durch Feedback bewertet werden.
 2. **Dynamische Interdependenz**:    
     - Beschreibt die gegenseitige Abhängigkeit der drei Prinzipien (Feedback, Reflexion, Re-entry) in einem kontinuierlichen Prozess.
     - Jede Phase beeinflusst und wird von den anderen beeinflusst, wodurch eine zyklische Struktur entsteht.
@@ -205,7 +205,7 @@ $$
 
 Diese Übergangswahrscheinlichkeiten sind zentral, um die [[Wirkung]] von Entscheidungen in Elementarteams zu modellieren. Sie ermöglichen eine Vorhersage darüber, wie sich die Teamdynamik durch bestimmte Handlungen verändert.
 
-### 2.7.2 [[Wirkung]]swahrscheinlichkeit und Belohnungsfunktionen
+### 2.7.2 Wirkungswahrscheinlichkeit und Belohnungsfunktionen
 
 Die [[Wirkungswahrscheinlichkeit]] $W(s, a, s')$ beschreibt die Wahrscheinlichkeit, dass eine Aktion $a$ in Zustand $s$ zu einem gewünschten Zustand $s'$ führt. Diese kann durch eine Belohnungsfunktion $R(s, a, s')$ ergänzt werden, die den Nutzen oder Erfolg einer Aktion quantifiziert. Das Ziel von Elementarteams ist es, die Gesamteffizienz ihrer Handlungen zu maximieren, indem sie Strategien entwickeln, die den kumulativen Nutzen optimieren.
 
@@ -327,7 +327,7 @@ Der mathematische Beweis liefert eine fundierte Basis, um die Effektivität von 
 
 Die mathematische Modellierung zeigt, dass die Kombination von kontinuierlichem Feedback und gezielter Reflexion zu einer exponentiellen Verbesserung der Erfolgswahrscheinlichkeit führt. Jede Iteration reduziert Unsicherheiten, indem neue Daten gesammelt, analysiert und direkt in die Teamprozesse reintegriert werden. Diese zyklische Struktur hat zwei wesentliche Effekte:
 1. **Reduktion von Fehlern:** Entscheidungen werden iterativ angepasst, wodurch die Wahrscheinlichkeit suboptimaler Maßnahmen drastisch sinkt.
-2. **Förderung von Innovation:** [[Emergenz]] wird durch die ständige Interaktion von intra- und interpersonalen Reflexionsprozessen begünstigt, was zu neuen Lösungsansätzen führt.
+2. **Förderung von Innovation:** Emergenz wird durch die ständige Interaktion von intra- und interpersonalen Reflexionsprozessen begünstigt, was zu neuen Lösungsansätzen führt.
 
 Die Sensitivitätsanalyse zeigt, dass selbst bei niedrigeren initialen Wahrscheinlichkeiten die iterative Struktur erhebliche Verbesserungen ermöglicht. Dies verdeutlicht, dass Elementarteams besonders robust sind, selbst wenn sie in suboptimalen Ausgangssituationen starten. Die iterative Anpassung gleicht Schwächen im ersten Zyklus aus und führt zu einer schnellen Erholung und Optimierung der Prozesse.
 

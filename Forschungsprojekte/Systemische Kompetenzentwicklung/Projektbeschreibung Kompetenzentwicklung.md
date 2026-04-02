@@ -18,6 +18,13 @@ created: 25.01.2026 | updated: 25.01.2026 | published: 25.1.2026 | [Austausch](h
 
 # Projektbeschreibung: Systemische Kompetenzentwicklung
 
+Innerhalb des lokalen Projektbestands bilden vor allem diese Notizen den Einstieg:
+
+- Übersicht Vorarbeiten
+- Theoretische Grundlagen
+- Systemische Datenerhebung
+- Projektbeschreibung Simulation Bildungswirkgefüge
+
 ## Ausgangslage und Problemstellung
 
 Kompetenzentwicklung in der Notfallsanitäterausbildung findet unter Bedingungen statt, die für **High Responsibility Teams (HRT)** typisch sind: Handlungen sind teils irreversibel, können Dritte gefährden, betreffen Leben und lassen sich im Einsatz nicht beliebig unterbrechen. In diesem Kontext reicht eine rein lineare oder rein wissensbasierte Betrachtung von Lernen nicht aus. Benötigt wird ein Modell, das **Kompetenz als dynamische, unsichere und von Kontextfaktoren beeinflusste Entwicklung** beschreibbar macht.
@@ -33,6 +40,8 @@ Die Kompetenzentwicklung soll
 - als **Orientierungs- und Vergleichsmaßstab** für Entwicklungsverläufe dienen (z.B. typische, günstige und ungünstige Verläufe),
 - **kritische Phasen** und potenzielle Interventionspunkte sichtbar machen,
 - und die Modellierung des **Bildungswirkgefüges** (Einfluss- und Wechselwirkungsstruktur zentraler Faktoren) unterstützen.
+
+Die operative Simulationsumsetzung dieses Zusammenhangs wird im Nachbarprojekt [[../Simulation Bildungswirkgefüge/Projektbeschreibung Simulation Bildungswirkgefüge|Simulation Bildungswirkgefüge]] weitergeführt.
 
 ## Leitfragen
 
@@ -107,3 +116,5 @@ Die Systemische Kompetenzentwicklung ist eine **simulationsbasierte Referenz**, 
 - Die WebUI startet Simulationen und legt pro Run einen Ordner unter `Kompetenzentwicklung/web_runs/<Run-ID>/` an (CSV, HTML, Report, Log).
 - Für die automatische GPT-Interpretation muss `OPENAI_API_KEY` gesetzt sein (empfohlen: macOS-Keychain pro Benutzer; keine Keys in Dateien speichern).
 - Bei mehreren Rechnern/Benutzern mit gemeinsamem iCloud-Projektordner gilt: **Code & Daten** können geteilt werden, **Python-Pakete** müssen pro Rechner installiert sein (Homebrew-Python).
+
+Für die Theoriearbeit bleiben in diesem Ordner insbesondere [[Vorarbeiten/Kompetenzentwicklung]], [[Vorarbeiten/Kompetenzentwicklung als Grundstein von Dynamiken]], [[Vorarbeiten/Kompetenzziele als erste Näherung]] und [[Grundannahmen und Vorarbeiten/Beziehung zwischen Neugier und intrinsischer Motivation]] relevant.
