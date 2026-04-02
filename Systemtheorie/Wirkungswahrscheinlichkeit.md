@@ -3,11 +3,15 @@ author: Jochen Hanisch-Johannsen
 title: Wirkungswahrscheinlichkeit
 Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
-Publication: 
+Publication:
 created: 2024-09-26
 updated: 2024-12-10
 publish: true
 published: 2024-10-26
+status:
+priority:
+project:
+due:
 tags:
   - Begriff
   - Definition
