@@ -29,6 +29,7 @@ echo "Build-Modus: $MODE"
 # Dateiliste definieren
 FILES=(
   dissertation.md
+  "04 Kapitelstruktur/04-00 Pro- und Epiloge/04-00 Prolog.md"
   "04 Kapitelstruktur/04-01 Einleitung/04-01 Einleitung.md"
   "04 Kapitelstruktur/04-02 Theorieteil/04-02 Theorieteil.md"
   "04 Kapitelstruktur/04-03 Forschungsgegenstand/04-03 Forschungsgegenstand.md"
@@ -36,6 +37,7 @@ FILES=(
   "04 Kapitelstruktur/04-05 Ergebnisse/04-05 Ergebnisse.md"
   "04 Kapitelstruktur/04-06 Diskussion/04-06 Diskussion.md"
   "04 Kapitelstruktur/04-07 Conclusio/04-07 Conclusio.md"
+  "04 Kapitelstruktur/04-00 Pro- und Epiloge/04-00 Epilog.md"
   literaturverzeichnis.md
   "04 Kapitelstruktur/04-A Anhang/04-A Anhang.md"
   # Reihenfolge der Anhänge: nach erster expliziter Nennung im Haupttext
