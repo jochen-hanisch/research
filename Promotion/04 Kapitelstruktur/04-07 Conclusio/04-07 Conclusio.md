@@ -26,7 +26,7 @@ Die Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperref[sec:The
 
 1. **Sichtbarkeit/Transparenz:** Sichtbarkeit erzeugt Orientierung, Anschlussfähigkeit und verlässliche Erwartungsbildung. Hypertransparenz kann dieselbe Sichtbarkeit in Überwachung, Selbstdisziplinierung und taktische Selbstdarstellung überführen. Die Kopplung liegt darin, dass Orientierung und Vertrauen über Sichtbarkeit entstehen; zugleich eröffnet Sichtbarkeit Selektions‑ und Kontrollpotenziale.
 
-   Sichtbarkeit sollte deshalb graduell gesteuert werden, nach Tiefe, Adressat\*innen und Zeitpunkt und gebunden an klare Rollen‑ und Datenschutzregeln. Transparenz wird damit nicht pauschal erhöht. In den Ergebnissen wird diese Dimension als Orientierungs‑ und Aufmerksamkeitsmechanismus über UI‑Zonen greifbar (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
+  Sichtbarkeit bleibt dann tragfähig, wenn sie nach Tiefe, Adressat\*innen und Zeitpunkt abgestuft und an klare Rollen‑ und Datenschutzregeln gebunden wird. Transparenz wird damit nicht pauschal erhöht. In den Ergebnissen wird diese Dimension als Orientierungs‑ und Aufmerksamkeitsmechanismus über UI‑Zonen greifbar (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
 
 2. **Strukturierung/Entlastung:** Struktur reduziert Suchkosten, senkt kognitive Last und macht Lernpfade handhabbar. Überstrukturierung verengt Agency, verstärkt Pfadabhängigkeit und produziert Abhängigkeiten. Strukturell gilt, dass Entlastung Struktur braucht; Struktur stabilisiert, indem sie Alternativen begrenzt und Abweichungen kostenintensiv macht.
 
@@ -70,7 +70,7 @@ Die Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperref[sec:The
 
 12. **Vertrauensbildung/Beobachtbarkeit:** Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft. Misstrauen und Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung. Vertrauen braucht Verlässlichkeit, und Verlässlichkeit braucht ein Maß an Beobachtbarkeit. Beobachtbarkeit kann jedoch als Kontrolle gelesen werden und genau das Vertrauen untergraben, das sie stützen soll.
 
-   Beobachtbarkeit sollte auf Lernunterstützung begrenzt bleiben, über Zweckbindung, Datenminimierung und klar geführte Rollenrechte. Governance muss so gestaltet sein, dass Teilnehmende Kontrolle über Sichtbarkeit und Datenspuren behalten. In Kap. 5 werden Kultur‑ und Ethikrahmungen als Bedingungen benannt, die bestimmen, ob Rückkopplung und Kollaboration als legitim, sicher und praktikabel gelten (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
+  Beobachtbarkeit bleibt dort legitim, wo sie auf Lernunterstützung begrenzt wird, über Zweckbindung, Datenminimierung und klar geführte Rollenrechte. Governance muss so gestaltet sein, dass Teilnehmende Kontrolle über Sichtbarkeit und Datenspuren behalten. In Kap. 5 werden Kultur‑ und Ethikrahmungen als Bedingungen benannt, die bestimmen, ob Rückkopplung und Kollaboration als legitim, sicher und praktikabel gelten (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
 Gemeinsam zeigen die Leitsätze, dass dieselben Strukturen, die Orientierung, Entlastung und Handlungsfähigkeit ermöglichen, stets auch Kontroll-, Überlastungs- oder Entkopplungsrisiken mitführen. Die Gestaltungsimpulse lösen diese Spannung nicht auf; sie halten sie bearbeitbar.
 

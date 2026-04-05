@@ -22,7 +22,7 @@ Als Referenzrahmung bündelt der Theorieteil systemisch-konstruktivistische Lini
 
 \hyperref[sec:PadagogischPsychologischeGrundannahmen]{Abschnitt 2.1} setzt beim psychischen System an und bestimmt Bedürfnisse, Emotionen, Neugier, biografische Ereignisse und dispositionale Merkmale als Trägervariablen des Lernhandelns. \hyperref[sec:Bildungswiss-Verortung]{Abschnitt 2.2} rahmt diese Voraussetzungen bildungswissenschaftlich und führt sie in eine systemisch-konstruktivistische Referenzperspektive über, in der die Wechselwirkungen zwischen digitaler Infrastruktur, pädagogischer Gestaltung und Kompetenzentwicklung als sozio‑technisches Wirkgefüge\label{term:sozio-technisches-wirkgefuge} lesbar werden. \hyperref[sec:MedienpaedagogischeRahmung]{Abschnitt 2.3} führt diese Wirkannahmen an die medienpädagogische und architektonische Gestalt des LMS heran. \hyperref[sec:Technologiedefizit]{Abschnitt 2.4} begrenzt dabei direkte Steuerungssemantiken über den Technologiedefizit‑Diskurs. \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} bündelt die vorangegangenen Ebenen schließlich in einem Modell der systemischen Dynamik des digitalen Bildungswirkgefüges und führt sie an \hyperref[sec:Forschungsgegenstand]{Kapitel 3} heran.
 
-Die theoretischen Linien dieses Kapitels werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} thesenhaft zugespitzt.
+Die theoretischen Linien dieses Kapitels werden in \hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1} als Interdependenzrahmen verdichtet und in \hyperref[sec:Conclusio-Manifest]{Kapitel 7} in thesenhafter Schlussverdichtung weitergeführt.
 
 ## Zentrale Begriffe und Konzepte {#sec:Begriffe-Wirkung-Gefuege}
 
