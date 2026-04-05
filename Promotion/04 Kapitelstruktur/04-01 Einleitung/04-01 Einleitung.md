@@ -119,7 +119,7 @@ Aus der Hauptforschungsfrage werden sieben konkretisierende Forschungsunterfrage
 - FU$_{1}$: Akzeptanz und Nützlichkeit des LMS aus Sicht der Nutzenden (Metaanalyse, Umfrage [@hanisch-johannsen_wirkgefuge_2025]).
 - FU$_{2a}$/FU$_{2b}$: Wirkung auf Lernende bzw. Lehrende (an Evaluationslogiken nach Kirkpatrick/TEI anschließende Literaturanalyse; Spiegelung über Umfragedaten [@hanisch-johannsen_wirkgefuge_2025]).
 - FU$_{3}$: Didaktische und technologische Merkmale des Systems (theoretische Rekonstruktion der Architektur).
-- FU$_{4a}$/FU$_{4b}$: Bildungswissenschaftliche und technisch-gestalterische Wirkmechanismen (Inhaltsanalyse, Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-1], Simulation).
+- FU$_{4a}$/FU$_{4b}$: Bildungswissenschaftliche und technisch-gestalterische Wirkmechanismen (Inhaltsanalyse, Eye-Tracking [@hanisch-johannsen_wirkgefuge_2025-2], Simulation).
 - FU$_{5}$: Möglichkeiten und Grenzen des angewandten Modells (Qualitative Inhaltsanalyse, SWOT).
 - FU$_{6}$: LMS als Kompetenzerwerbssystem (systemische Kopplung von Kompetenzmodellen und LMS-Struktur).
 - FU$_{7}$: Erweiterung von Kausalgesetzen im digitalen Bildungsraum (Grounded-Theory-gestützte Theorieentwicklung).
