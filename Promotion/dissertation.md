@@ -66,7 +66,7 @@ header-includes:
   - \newcommand{\figsubcaption}[1]{{\begingroup\small\setstretch{1.0}#1\endgroup}}
   - \newcommand{\tabsubcaption}[1]{{\begingroup\small\setstretch{1.0}#1\endgroup}}
   - \usepackage{draftwatermark}
-  - \SetWatermarkText{Arbeitsversion}
+  - \SetWatermarkText{Abgabeversion}
 ---
 
 \pagestyle{plain}
@@ -239,7 +239,7 @@ Der angewendete Sprachstil möchte die genannten Barrieren überwinden und damit
 
 Im Fließtext werden die Begriffe "Kapitel", "Abschnitt", "Tabelle", "Abbildung" und "Seite" in der Regel ausgeschrieben. Interne Verweise werden dabei konsequent als klickbare Querverweise gesetzt und in `\hyperref` geschrieben (z. B. \hyperref[sec:Diskussion-Methodenreflexion]{Abschnitt 6.4} oder \hyperref[sec:Theorieteil]{Kapitel 2}).
 
-Auf Kapitel und Unterkapitel wird über die jeweilige Nummer verwiesen. Auf Anhänge wird dagegen über die Bezeichnung „Anhang“ in Verbindung mit dem jeweiligen Titel verwiesen. Dies trägt der Arbeitslogik der Anhangsdokumente Rechnung, die in der Dateiverwaltung alphabetisch sortiert und daher nicht über eine fortlaufende Nummerierung organisiert werden. Interne Verweise auf Anhänge werden ebenfalls als klickbare Querverweise in `\hyperref` gesetzt (z. B. \hyperref[sec:A-1]{Anhang „Verzeichnis zentraler Begriffe“}).
+Auf Kapitel und Unterkapitel wird über die jeweilige Nummer verwiesen. Auf Anhänge wird dagegen über die Bezeichnung „Anhang“ in Verbindung mit dem jeweiligen Titel verwiesen. Dies trägt der eigenständigen Gliederung der Anhangsdokumente Rechnung, die daher nicht über eine fortlaufende Nummerierung organisiert werden. Interne Verweise auf Anhänge werden ebenfalls als klickbare Querverweise in `\hyperref` gesetzt (z. B. \hyperref[sec:A-1]{Anhang „Verzeichnis zentraler Begriffe“}).
 
 Klammerangaben und technische Verweise werden mit diesen standardisierten Abkürzungen referenziert:
 
@@ -259,29 +259,29 @@ Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretische
 
 Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doring_forschungsmethoden_2023, Seite 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
 
-Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält (vgl. \hyperref[sec:A-1]{Abschnitt A.1}). Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
+Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält (\hyperref[sec:A-1]{Abschnitt A.1}). Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
 
 ## Hinweis zum Einsatz generativer Sprachmodelle (LLM) {#sec:hinweis-ki}
 
-In dieser Arbeit wurden generative KI-Systeme (Large-Language-Modelle; im Workflow u.a. als „GPT“ bezeichnet) als kognitive Assistenz in Recherche-, Auswertungs- und Schreibprozessen eingesetzt. Der Einsatz erfolgte methodengeleitet, forschungsfragenorientiert und mit dem Ziel, große Materialmengen (Literaturkorpus, Protokolle, Artefakte) konsistent zu strukturieren, nicht jedoch, um menschliche Urteils- und Verantwortungsfunktionen zu ersetzen. Sofern im Folgenden konkret diese Systeme gemeint sind, wird präzisierend von Large-Language-Modellen (LLM) beziehungsweise generativen Sprachmodellen gesprochen; „KI“ bleibt als Oberbegriff für das weitere Feld bestehen. Die Begriffsverwendung folgt dabei dem Prinzip maximaler Präzision: Es wird jeweils die spezifischste zutreffende Bezeichnung verwendet (z. B. „LLM“), und bei allgemeineren Zusammenhängen auf übergeordnete Begriffe (z. B. „KI“) zurückgegriffen. Der Einsatz der LLM ist in der Methodologie transparent hergeleitet und als Teil der Reproduzierbarkeitslogik dokumentiert (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3}, \hyperref[sec:SWOT-KI-Methodik]{4.5.1} und \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
+In dieser Arbeit wurden generative KI-Systeme (Large-Language-Modelle) als kognitive Assistenz in Recherche-, Auswertungs- und Schreibprozessen eingesetzt. Der Einsatz erfolgte methodengeleitet, forschungsfragenorientiert und mit dem Ziel, große Materialmengen (Literaturkorpus, Protokolle, Artefakte) konsistent zu strukturieren, nicht jedoch, um menschliche Urteils- und Verantwortungsfunktionen zu ersetzen. Sofern im Folgenden konkret diese Systeme gemeint sind, wird präzisierend von Large-Language-Modellen (LLM) beziehungsweise generativen Sprachmodellen gesprochen; „KI“ bleibt als Oberbegriff für das weitere Feld bestehen. Die Begriffsverwendung folgt dabei dem Prinzip maximaler Präzision: Es wird jeweils die spezifischste zutreffende Bezeichnung verwendet (z. B. „LLM“), und bei allgemeineren Zusammenhängen auf übergeordnete Begriffe (z. B. „KI“) zurückgegriffen. Der Einsatz der LLM ist in der Methodologie transparent hergeleitet und als Teil der Reproduzierbarkeitslogik dokumentiert (Abschnitte \hyperref[sec:Systematische-Literaturrecherche]{4.2.1}, \hyperref[sec:Sekundaranalysen]{4.3.3}, \hyperref[sec:SWOT-KI-Methodik]{4.5.1} und \hyperref[sec:Methodenkritik-Absicherung]{4.5.2}).
 
-Konkret wurden LLM-basierte Systeme vor allem für
+Konkret wurden Systeme unter Einsatz generativer Sprachmodelle vor allem für
 
 1. strukturierte Zusammenfassungen und Extraktion von Kernaussagen aus Quellen,
 2. die promptbasierte, kategoriengeleitete Vorstrukturierung von Primär- und Sekundäranalysen,
 3. die Konsistenzunterstützung bei qualitativen Codierungen (z. B. beschreibende Auswertung von Eye‑Tracking‑Artefakten) sowie
 4. textliche Formulierungs- und Redaktionsunterstützung genutzt.
 
-Alle LLM-Outputs wurden als analytische Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, wo nötig korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt der Workflow der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
+Alle LLM-Outputs wurden als analytische Verdichtungen behandelt, im Lektüre- und Analyseprozess kontrolliert, wo nötig korrigiert und mit eigenen Einschätzungen sowie den Primärquellen abgeglichen. Damit folgt die Arbeit der in der Literatur beschriebenen Leitlinie, KI als Verstärkung in Recherche und Wissensorganisation zu nutzen, bei fortbestehender menschlicher Validierungsverantwortung [@hebbel-seeger_wissenschaftliches_2025, Seite 434-436; @storey_ai_2023, Seite 4].
 
 Die Arbeit berücksichtigt zugleich die in der Forschungsliteratur diskutierten Risiken generativer KI, insbesondere Halluzinationen und Referenzfehler, Verzerrungen, Integritäts- und Zuschreibungsfragen sowie die Gefahr epistemischer Verflachung [@van_niekerk_addressing_2025, Seite 2; @biswas_chatgpt_2023, Seite 1; @parker_negotiating_2024, Seite 2; @giannakos_promise_2024, Seite 22; @hebbel-seeger_wissenschaftliches_2025, Seite 438-440].
 
 Aus diesen Gründen sind
 
-- standardisierte, versionierte Prompts,
-- Protokollierung von Prompt-Ständen/Revisionen und
+- standardisierte Prompts,
+- Protokollierung der jeweiligen Prompt-Stände und
 - eine menschliche Endredaktion als verbindliche Absicherungsmaßnahmen integriert.
 
-Die Detektion LLM-generierter Textanteile wird als ergänzende Kontrollspur eingesetzt und zusammen mit Prompt-/Versionsprotokollen sowie Quellenabgleichen interpretiert. Detektionsverfahren werden damit nicht als alleinige Begründungsbasis verwendet, sondern als kontextabhängige Zusatzprüfung im Rahmen der dokumentierten Validierungs- und Reproduzierbarkeitslogik [@hebbel-seeger_wissenschaftliches_2025, Seite 438-440]. Ergänzend dazu ist der gesamte Entstehungsprozess des Dissertationstextes vollständig versioniert dokumentiert. Die Texterstellung, Überarbeitungen und strukturellen Anpassungen erfolgten in Markdown-Dateien, die fortlaufend über ein Git-basiertes Versionskontrollsystem archiviert wurden. Dadurch sind sämtliche Entwicklungsstände, Revisionen und inhaltlichen Entscheidungen der Arbeit zeitlich nachvollziehbar und prinzipiell rekonstruierbar, was die Transparenz und Nachvollziehbarkeit der Textgenese zusätzlich absichert.
+Die Detektion LLM-generierter Textanteile wird als ergänzende Kontrollspur eingesetzt und zusammen mit Prompt-Protokollen sowie Quellenabgleichen interpretiert. Detektionsverfahren werden damit nicht als alleinige Begründungsbasis verwendet, sondern als kontextabhängige Zusatzprüfung im Rahmen der dokumentierten Validierungs- und Reproduzierbarkeitslogik [@hebbel-seeger_wissenschaftliches_2025, Seite 438-440]. Ergänzend dazu ist der gesamte Entstehungsprozess des Dissertationstextes nachvollziehbar dokumentiert. Die Texterstellung, Überarbeitungen und strukturellen Anpassungen wurden fortlaufend festgehalten, sodass Entwicklungsstände, Revisionen und inhaltliche Entscheidungen der Arbeit zeitlich nachvollziehbar und prinzipiell rekonstruierbar bleiben. Dies stärkt die Transparenz und Nachvollziehbarkeit der Textgenese zusätzlich.
 
 \newpage
