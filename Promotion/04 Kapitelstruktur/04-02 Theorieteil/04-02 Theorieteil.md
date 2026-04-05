@@ -8,7 +8,7 @@
 
 \label{term:leitfrage-leitlogik-kap2}
 
-Welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung sind in unterschiedlichen Lehrparadigmen unterstellt – und wie übersetzen sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS)?
+Welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung sind in unterschiedlichen Lehrparadigmen unterstellt, und wie übersetzen sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS)?
 
 Die Leitfrage verbindet zwei Ebenen. Zum einen fragt sie nach den epistemischen Voraussetzungen der jeweiligen Lehrparadigmen, also danach, welches Lernen, Wissen, Steuerbarkeit und Wirkung jeweils unterstellt werden. Zum anderen richtet sie den Blick auf die architekturelle Ebene und damit auf die Frage, wie sich solche Annahmen in konkrete Strukturentscheidungen eines LMS einschreiben. Kapitel 2 ist deshalb nicht als Paradigmenübersicht angelegt, sondern als Rekonstruktion impliziter Wirkannahmen, die in digitalen Lernarchitekturen als architekturwirksame Kausalpläne wirksam werden.
 
@@ -155,7 +155,7 @@ Daraus folgt für die Modellierung eine heuristische Parametrisierung, in der Di
 
 ### 2.1.6 Zwischenfazit {#sec:Zwischenfazit-21}
 
-Dieser Abschnitt hat jene subjektbezogenen Trägervariablen bestimmt, über die das spätere Modell beschrieben wird. Die Achse reicht von Bedürfnissen als grundlegenden Passungs- und Unterstützungsbedingungen über Emotionen als Bewertungs- und Regulationsform und Neugier als explorativen Anschlussmodus bis zu persönlichen Ereignissen als variablen Kontextimpulsen und dispositionalen Merkmalen als stabilerer Verarbeitungsvoraussetzung. Zusammengenommen begründen diese Bausteine, das LMS als Strukturangebot mit spezifischen Wechsel- und Rückwirkungen zu fassen.
+Dieser Abschnitt bestimmte die subjektbezogenen Trägervariablen, über die das spätere Modell beschrieben wird. Die Achse reicht von Bedürfnissen als grundlegenden Passungs- und Unterstützungsbedingungen über Emotionen als Bewertungs- und Regulationsform und Neugier als explorativen Anschlussmodus bis zu persönlichen Ereignissen als variablen Kontextimpulsen und dispositionalen Merkmalen als stabilerer Verarbeitungsvoraussetzung. Zusammengenommen begründen diese Bausteine, das LMS als Strukturangebot mit spezifischen Wechsel- und Rückwirkungen zu fassen.
 
 In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5} gehen damit vor allem Variablenlogiken, Annahmen über Wechselwirkungen und Sensitivitäten gegenüber Kontextwechseln ein. Für Kapitel 4 bleiben insbesondere jene Linien wichtig, die sich empirisch an Aufgabenstruktur, Feedback, Sichtbarkeit, Unterstützungsarchitektur und biografisch variierenden Nutzungsverläufen rekonstruieren lassen. Damit berührt Abschnitt 2.1 bereits drei spätere Forschungsrichtungen der Arbeit: FU$_{2}$ fragt nach den Effekten dieser Bedingungen auf Lernende und Lehrende, FU$_{4}$ nach den Mechanismen, über die Strukturangebote in Handlung übersetzt werden, und FU$_{6}$ nach der Frage, unter welchen Voraussetzungen daraus belastbare Kompetenzentwicklung hervorgehen kann. Das Zwischenfazit von Abschnitt 2.1 benennt damit die Bedingungen, unter denen digitale Lernarchitekturen fördernde oder hemmende Wirkpfade eröffnen.
 
