@@ -2,7 +2,7 @@
 
 # 5 Ergebnisse {#sec:Ergebnisse}
 
-Dieses Kapitel fasst die empirischen und modellbasierten Befunde zusammen. Die Darstellung folgt den im Kapitel dokumentierten Kernbereichen und bindet die Ergebnisse an die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rekonstruierte Architektur des Learning Management Systems zurück. Im Vordergrund stehen dabei jene Muster, Mechanismen und Grenzen, die sich im Material tatsächlich rekonstruieren lassen; ihre weitergehende Einordnung folgt in Kapitel \hyperref[sec:Diskussion]{6}.
+Kapitel 5 bündelt die empirischen und modellbasierten Befunde entlang der im Material rekonstruierbaren Muster, Mechanismen und Grenzen. Die Darstellung folgt den Kernbereichen der Untersuchung und bindet die Ergebnisse an die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rekonstruierte Architektur des Learning Management Systems zurück. Ihre weitergehende Einordnung folgt in Kapitel \hyperref[sec:Diskussion]{6}.
 
 Abschnitt~\hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt Überblick und Einordnung. Abschnitt~\hyperref[sec:Ergebnisse-Verteilung]{5.2} beschreibt Verteilung der Analysen nach Kernbereichen. Abschnitt~\hyperref[sec:Ergebnisse-Forschungsfragen]{5.3} beantwortet Forschungsunterfragen.
 
@@ -148,7 +148,7 @@ Schließlich treten formalisierte Modellstrategien und Stabilisierungskonzepte a
 
 ## 5.4 Zusammenfassung der Ergebnisse {#sec:Ergebnisse-Zusammenfassung}
 
-Diese Ergebnisbündelung fungiert als direkte Brücke in die interdependente Diskussion (\hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1}) und liefert die empirische Grundlage für die manifestartige Verdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
+Diese Ergebnisbündelung fungiert als direkte Brücke in die interdependente Diskussion (\hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1}) und liefert die empirische Grundlage für die thesenhafte Schlussverdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
 Die stärksten Ergebnislinien lassen sich wie folgt fassen:
 
