@@ -97,8 +97,8 @@
 \node[process, below=of analysis] (tag1) {1.~Tagging\\(Suchpfad, Typ,\\Thema, FU-Vorzuordnung)};
 \draw[line] (analysis) -- (tag1);
 
-% GPT-gestützte Inhaltsanalyse
-\node[process, below=of tag1] (gpt) {GPT-gestützte Inhaltsanalyse:\\Zusammenfassung, Kernaussagen,\\Argumentation, Indexierung,\\Kategorisierung, Zuordnung (FU),\\Relevanzbewertung};
+% Inhaltsanalyse unter Einsatz generativer Sprachmodelle
+\node[process, below=of tag1] (gpt) {Inhaltsanalyse unter Einsatz\\generativer Sprachmodelle:\\Zusammenfassung, Kernaussagen,\\Argumentation, Indexierung,\\Kategorisierung, Zuordnung (FU),\\Relevanzbewertung};
 \draw[line] (tag1) -- (gpt);
 
 % 2. Tagging
