@@ -6,7 +6,7 @@ Kapitel 3 beschreibt den Forschungsgegenstand in seiner rechtlich-funktionalen, 
 
 Der Forschungsgegenstand wird dabei nicht als Sammlung einzelner Funktionen beschrieben, sondern als Kopplungsordnung. Im Zentrum steht die Frage, wie Norm, Didaktik, technische Infrastruktur und operative Nutzung im untersuchten LMS so zusammenwirken, dass Lernhandlungen ermöglicht, strukturiert oder begrenzt werden.
 
-Begriffe und Wirkannahmen aus Kapitel \hyperref[sec:Theorieteil]{2} bleiben abstrakt, solange sie nicht am konkreten Fall greifen müssen. Eben daran setzt Kapitel 3 an: Es beschreibt den Gegenstand so, dass anschließend methodisch nachvollziehbar untersucht werden kann, worin die tragenden Kopplungen des Systems bestehen und an welchen Stellen ihre Wirkung empirisch sichtbar wird.
+Begriffe und Wirkannahmen aus Kapitel \hyperref[sec:Theorieteil]{2} bleiben abstrakt, solange sie nicht am konkreten Fall greifen müssen. Genau hier setzt Kapitel 3 an. Es beschreibt den Gegenstand so, dass anschließend methodisch nachvollziehbar untersucht werden kann, worin die tragenden Kopplungen des Systems bestehen und an welchen Stellen ihre Wirkung empirisch sichtbar wird.
 
 ## Begriffsrahmung: Gefügeperspektive auf die LMS-Architektur {#sec:Gefuegeperspektive-FG}
 
@@ -26,10 +26,9 @@ Im Anwendungsfeld der Ausbildung und Prüfung von Notfallsanitäterinnen und Not
 
 Den Kommentatoren nach liegt die Gesamtverantwortung der Schule bei der Organisation und Koordination des Unterrichts und der praktischen Ausbildung, nicht aber bei der gesamten Ausbildung, die weiterhin dem Träger zugeordnet bleibt [@dielmann_notfallsanitatergesetz_2017, Seite 137-138]. Für die Praxis bedeutet das eine abgestimmte Verzahnung der Lernorte Lehrrettungswache, Schule und Krankenhaus entlang des gesetzlich vorgegebenen Ausbildungsziels (§ 4 NotSanG) [@bundesrepublik_deutschland_gesetz_2023, § 4]. Die Schule kann diesen Rahmen gestalten, bleibt dabei aber an die rechtlichen und organisatorischen Vorgaben gebunden.
 
-Die Konsequenzen des Einsatzes eines LMS können entlang der Dimensionen Werkzeugfunktion, Kohärenzsicherung und Abgrenzung schulischer und trägerschaftlicher Verantwortung weiter differenziert werden.
 Aus der Koordinations- und Organisationsverantwortung der Schule lässt sich ableiten, dass ein LMS als geeignetes Instrument verstanden werden kann, um diese Aufgabe verlässlich wahrzunehmen. Die nachvollziehbare Zusammenführung von Kursen, Kalendern, Lernfortschritten, Aufgaben und Einsatzberichten in E-Portfolios\label{term:e-portfolio} bietet dafür eine tragfähige Struktur. Ergänzend entsteht durch Fallbearbeitungen, Praxisreflexionen und dokumentierte Rückmeldeschleifen ein didaktisches Gerüst, das die Abstimmung zwischen Lernorten sowie zwischen theoretischen und praktischen Ausbildungsanteilen stützt. Unter diesen Voraussetzungen wird das LMS zu einem konkreten Werkzeug schulischer Koordination und Organisation.
 
-In den o.a. Ausführungen wird auf die Notwendigkeit verwiesen, individuelle Ausbildungspläne so zu gestalten, dass Rahmenlehrpläne bzw. die rechtlichen Ausbildungsbestimmungen umgesetzt werden können. Daraus ergibt sich die Verpflichtung zur Kohärenz von Rahmenlehrplan, Stundenplan und Einsatzplan sowie deren inhaltlichen Anteile zueinander. Das LMS muss folglich in der Lage sein, die einzelnen Elemente individuell und lernortspezifisch aufeinander abzustimmen. Damit fungiert das LMS als strukturelles Bindeglied zwischen Theorie (Stundenplan), Praxis (Einsatzorte) und Individualisierung (Ausbildungspläne) und verfügt über die Möglichkeit, diese disjunkten Elemente über Planungs- und Synchronisationsfunktionen miteinander zu verbinden.
+Die rechtlichen Ausbildungsbestimmungen verlangen, individuelle Ausbildungspläne so zu gestalten, dass Rahmenlehrplan, Stundenplan und Einsatzplan inhaltlich aufeinander bezogen bleiben. Das LMS muss folglich in der Lage sein, die einzelnen Elemente individuell und lernortspezifisch aufeinander abzustimmen. Damit fungiert es als strukturelles Bindeglied zwischen Theorie (Stundenplan), Praxis (Einsatzorte) und Individualisierung (Ausbildungspläne) und kann diese zunächst getrennten Elemente über Planungs- und Synchronisationsfunktionen miteinander verbinden.
 
 Wenn die Schule nicht die gesamte Ausbildungsverantwortung trägt, der Ausbildungsträger\label{term:ausbildungstraeger} aber auf ihre Koordinationsleistung angewiesen bleibt, spricht vieles für den Einsatz eines digitalen Koordinations- und Organisationsinstruments. Der Ausbildungsträger behält dabei seine Verantwortung, während die Schule mit dem LMS einen Teil der laufenden Abstimmung, Dokumentation und Begleitung operativ bearbeitet. Ein digitales System kann Nachweise, Zeitstände und Rückmeldungen sichtbar bündeln und damit Aufgaben übernehmen, die analog deutlich aufwendiger zu organisieren wären. In diesem Sinne lässt sich das hier beschriebene LMS als sachgerechte Infrastruktur zur Erfüllung schulischer Aufgaben verstehen.
 
@@ -139,7 +138,7 @@ Perspektivisch ist diese Verschränkung als iterativer Kreislauf gedacht. Pro Ha
 
 ## 3.3 Technische Architektur {#sec:TechnischeArchitektur}
 
-Der folgende Abschnitt beschreibt die technische Architektur des Learning-Management-Systems als infrastrukturelle Bedingung des untersuchten Wirkgefüges. Technik erscheint dabei nicht als Selbstzweck, sondern als Träger von Verfügbarkeit, Sichtbarkeit, Rollenlogik, Rückkopplung und Integration. Technische Entscheidungen sind deshalb für den Forschungsgegenstand relevant, weil didaktische und organisationale Funktionen nur dann stabil wirksam werden können, wenn sie auch betrieblich getragen sind. Die technische Architektur hat sich im Verlauf des Systems mehrfach verändert. Diese Veränderungen folgten weniger einem linearen Technikfortschritt als wachsenden Anforderungen aus Ausbildung, institutioneller Einbettung und alltäglicher Nutzung.
+Der folgende Abschnitt beschreibt die technische Architektur des Learning-Management-Systems als infrastrukturelle Bedingung des untersuchten Wirkgefüges. Technik erscheint dabei nicht als Selbstzweck, sondern als Träger von Verfügbarkeit, Sichtbarkeit, Rollenlogik, Rückkopplung und Integration. Technische Entscheidungen sind deshalb für den Forschungsgegenstand relevant, weil didaktische und organisationale Funktionen nur dann stabil wirksam werden können, wenn sie auch betrieblich getragen sind. Die Architektur hat sich im Verlauf des Systems mehrfach verändert. Diese Veränderungen folgten weniger einem linearen Technikfortschritt als wachsenden Anforderungen aus Ausbildung, institutioneller Einbettung und alltäglicher Nutzung.
 
 ### 3.3.1 Einordnung: Technik als infrastrukturelle Bedingung des Wirkgefüges {#sec:TechnischeArchitektur-Einordnung}
 
@@ -210,7 +209,7 @@ Für den Forschungsgegenstand ist dieser Vergleich deshalb relevant, weil sich d
 
 ## 3.4 Didaktische Architektur als Learning-Environment {#sec:DidaktischeArchitektur}
 
-Aufbauend auf den in Abschnitt~\hyperref[sec:Kontext-FG]{3.1} beschriebenen Entstehungskontext sowie den in Abschnitt~\hyperref[sec:Entwicklung-Einbettung]{3.2} weitergeführten Entwicklungsschritten wird im Folgenden die didaktische Architektur des Learning-Management-Systems vorgestellt. Diese Konzeption beabsichtigte eine digitale Struktur zu schaffen, die nicht nur rechtliche Anforderungen der Ausbildung abbildet, sondern auch die didaktischen Prinzipien systemisch fundierter Kompetenzentwicklung integriert. In dieser Phase entstand auch die in \hyperref[fig:fg-didaktische-systemstruktur]{Abbildung~\ref{fig:fg-didaktische-systemstruktur}} gezeigte Skizze zur didaktischen Systemstruktur, die den Anspruch veranschaulicht, aus ersten Überlegungen zur digitalen Unterstützung eine funktionsfähige und kohärente Lernumgebung zu entwickeln.
+Aufbauend auf dem in Abschnitt~\hyperref[sec:Kontext-FG]{3.1} beschriebenen Entstehungskontext sowie den in Abschnitt~\hyperref[sec:Entwicklung-Einbettung]{3.2} weitergeführten Entwicklungsschritten wird im Folgenden die didaktische Architektur des Learning-Management-Systems vorgestellt. Diese Konzeption zielte auf eine digitale Struktur, die rechtliche Anforderungen der Ausbildung ebenso aufnimmt wie die didaktischen Prinzipien systemisch fundierter Kompetenzentwicklung. In dieser Phase entstand auch die in \hyperref[fig:fg-didaktische-systemstruktur]{Abbildung~\ref{fig:fg-didaktische-systemstruktur}} gezeigte Skizze zur didaktischen Systemstruktur. Sie hält einen frühen Stand der Überlegungen fest, aus denen später eine funktionsfähige und kohärente Lernumgebung hervorging.
 	 
 Die Skizze dient im Folgenden als Referenzstruktur. Sie macht sichtbar, welche Architekturannahmen (Lernorte, Kurslogik, Aufgabenstruktur, Rückkopplung) den späteren Ausführungen zugrunde liegen, ohne bereits Details der späteren Umsetzung vorwegzunehmen.
 
@@ -218,7 +217,7 @@ Die Skizze dient im Folgenden als Referenzstruktur. Sie macht sichtbar, welche A
 
 \figsubcaption{Eingescanntes Original einer frühen handschriftlichen Konzeptskizze aus der frühen Entwurfsphase des LMS. Sie zeigt erste Überlegungen zu Lernorten, Kurslogik, Aufgabenstruktur und Rückkopplung, die im weiteren Kapitel zur didaktischen Lernumgebung ausgearbeitet werden.}
 
-Visualisiert wird der konzeptionelle Ausgangspunkt des hier beschriebenen Learning Management Systems. Die Skizze zeigt erste Überlegungen zur Verschränkung von Lernorten, Selbststeuerung und Aufgabenstruktur als Grundlage einer systemisch-konstruktivistisch orientierten Ausbildungsarchitektur.
+Die Skizze hält den konzeptionellen Ausgangspunkt des hier beschriebenen Learning Management Systems fest. Sie zeigt erste Überlegungen zur Verschränkung von Lernorten, Selbststeuerung und Aufgabenstruktur als Grundlage einer systemisch-konstruktivistisch orientierten Ausbildungsarchitektur.
 
 Die Skizze bildete das konzeptionelle Fundament der ersten Entwicklungsphase und visualisiert die Idee, innerhalb eines digitalen Bildungsraums Handlungssituationen, Lernorte und Kursorganisation so miteinander zu verbinden, dass eine strukturierte und individuelle Kompetenzentwicklung möglich wird. Besonders herauszustellen ist dabei die Trennung zwischen inhaltlicher Struktur und organisatorischer Kurslogik, wodurch eine hohe Flexibilität bei gleichzeitiger Kohärenz erreicht werden sollte. Die frühe Berücksichtigung aller drei Lernorte sowie die intendierte Rückführung kursinterner Erkenntnisse in die übergeordneten Lerneinheiten legen den systemischen Anspruch dieser Struktur offen [@hanisch_wirkgefuge_2022, Abschnitt 2.3].
 
@@ -242,9 +241,7 @@ Die Struktur trennt curricular-inhaltliche Handlungssituationen ($n = 32$) von k
 
 \hyperref[fig:modell_LMS]{Abbildung~\ref{fig:modell_LMS}} macht diese integrative Grundstruktur anschaulich. Im Zentrum steht die wechselseitige Beziehung von Handlungssituationen als curricular-didaktischen Strukturelementen und Ausbildungskursen als organisatorischen Einheiten. Die inneren Bereiche Result, Communication und Organization markieren die operative Ebene des Systems. Hier werden Arbeitsergebnisse gesichert, Rückmeldungen geführt, Zuständigkeiten sichtbar gemacht und Abläufe strukturiert. Die äußeren Bereiche Content und Lernorte bezeichnen die beiden Bezugsrahmen, aus denen die Handlungssituationen gespeist werden und an die sie Ergebnisse zurückgeben. Sichtbar wird damit eine Architektur, in der Stabilität, Adaptivität und Lernort-Transfer zugleich organisiert sind.
 
-Anhand von \hyperref[fig:fg-kursansicht]{Abbildung~\ref{fig:fg-kursansicht}} lässt sich die exemplarische Anwendung der zuvor beschriebenen didaktischen Architektur verdeutlichen, in der die theoretischen Überlegungen in die Kursansicht überführt wurden, die allen im Rahmen der beruflichen Qualifikation genutzten Kurse zugrunde liegt.
-
-Die nächste Darstellung dokumentiert die operativen Rahmenbedingungen des Wirkgefüges. Sie zeigt, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System technisch stützt. Die Darstellung stammt aus der eigenen LMS-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
+Die Überführung dieser Überlegungen in die Kursansicht zeigt \hyperref[fig:fg-kursansicht]{Abbildung~\ref{fig:fg-kursansicht}}. Dort wird sichtbar, welche standardisierte Kursstruktur Lernhandlungen, Navigation und Rückkopplung im System technisch stützt. Die Darstellung stammt aus der eigenen LMS-Instanz, die als technisches Fundament des hier beschriebenen Learning Management Systems dient.
 
 ![Exemplarische Kursansicht im Learning Management System.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/lms-kursansicht-1.png>){#fig:fg-kursansicht}
 
@@ -254,7 +251,7 @@ Die Darstellung zeigt die standardisierte Containerstruktur mit den Bereichen Ei
 
 ### 3.4.2 Didaktisch-architektonische Umsetzung {#sec:DidaktischeUmsetzung}
 
-Die didaktisch-architektonische Umsetzung folgt einer standardisierten Containerstruktur, die alle Handlungssituationen in derselben Grundform gliedert und dennoch Anpassungen im konkreten Kursverlauf zulässt. Im Folgenden werden acht Containerbereiche erläutert, nämlich Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation. Ihre Funktionen sind aufeinander bezogen, werden aber nicht in gleicher Ausführlichkeit behandelt. Breiter dargestellt werden jene Container, in denen sich die Kopplung von Aufgabenlogik, Ergebnissicherung, Rückmeldung und organisatorischer Steuerung besonders deutlich zeigt.
+Die didaktisch-architektonische Umsetzung folgt einer standardisierten Containerstruktur, die alle Handlungssituationen in derselben Grundform gliedert und dennoch Anpassungen im konkreten Kursverlauf zulässt. Die acht Bereiche Einführung, Ressourcen, Aufgaben, Ergebnissicherung, weiterführende Quellen, Lounge, Feedback und Kursorganisation greifen dabei ineinander, ohne in gleicher Tiefe beschrieben werden zu müssen. Breiter dargestellt werden jene Container, in denen sich die Kopplung von Aufgabenlogik, Ergebnissicherung, Rückmeldung und organisatorischer Steuerung besonders deutlich zeigt.
 
 **Integrative Wirkung der Containerstruktur**
 
@@ -272,7 +269,7 @@ Die Einführung rahmt jede Handlungssituation und bildet die Schwelle zwischen o
 
 Der Ressourcencontainer bündelt jene Materialien, die für Aufgabenbearbeitung, Praxisbezug und wiederkehrende Orientierung gebraucht werden. Er ist damit kein neutraler Ablageort, sondern der Wissensraum, auf den die weiteren Lernhandlungen immer wieder zurückgreifen. Verzeichnisse, Dateilisten und Linksammlungen im Learning-Management-System eignen sich dafür, weil sie Bestände stabil halten und zugleich aktualisierbar machen. Für den Untersuchungsfall ist das wesentlich, weil Verfügbarkeit und Wiederauffindbarkeit von Materialien bereits in den Vorarbeiten als kritische Bedingung für nachhaltige Wissensprozesse sichtbar wurden (Abschnitt~\hyperref[sec:Entstehung-Konzept]{3.2.1}). In NFS‑H‑01 wird dieser Bereich deshalb als Grundlagenraum angelegt, der gemeinsame Bezugspunkte für den Ausbildungsstart schafft und den unterschiedlichen Vorwissensständen der Lernenden Rechnung trägt. Seine Stärke liegt in dieser Entlastungsfunktion. Seine Schwäche zeigt sich dort, wo Sammlung in bloße Ablage kippt. Didaktisch wirksam wird der Container erst dann, wenn Materialien auf Aufgaben, Ergebnissicherung und Prüfungsvorbereitung zurückbezogen bleiben und nicht nur vorhanden sind (\hyperref[sec:Bildungswiss-Verortung]{Kapitel 2.2}; Abschnitt~\hyperref[sec:Pruefungsarchitektur]{3.4.3}).
 
-Daran anschließend wird die Bereitstellung zentraler Lernmaterialien in strukturierter Form sichtbar. Die Materialien orientieren sich an curricularen Kompetenzanforderungen und bilden die inhaltliche Grundlage für die Bearbeitung der Aufgaben innerhalb der jeweiligen Handlungssituation.
+Gerade hier zeigt sich die Bereitstellung zentraler Lernmaterialien in strukturierter Form. Die Materialien orientieren sich an curricularen Kompetenzanforderungen und bilden die inhaltliche Grundlage für die Bearbeitung der Aufgaben innerhalb der jeweiligen Handlungssituation.
 
 **Aufgaben**
 
@@ -305,7 +302,7 @@ Im Aufgabencontainer entscheidet sich die Anschlussfähigkeit häufig an Transpa
 
 Der Aufgabencontainer ist damit die zentrale Kopplungsstelle zwischen curricularer Vorgabe, lernprozessualer Bearbeitung und späterer Ergebnissicherung. Er organisiert die lernleitende Sequenz, erzeugt Anlässe für Austausch und legt die Grundlage dafür, dass Ergebnisse überhaupt dokumentierbar und rückkoppelbar werden.
 
-Sichtbar werden hier beispielhafte Aufgabenformate zur Bearbeitung beruflicher Handlungssituationen. Operatoren und strukturierte Aufgabenbereiche ermöglichen eine kompetenzorientierte Formulierung und eine praxisnahe Umsetzung curricularer Anforderungen.
+Beispielhafte Aufgabenformate zur Bearbeitung beruflicher Handlungssituationen werden hier in ihrer Anlage erkennbar. Operatoren und strukturierte Aufgabenbereiche ermöglichen eine kompetenzorientierte Formulierung und eine praxisnahe Umsetzung curricularer Anforderungen.
 Die lernleitenden Aufgaben sind inhaltlich eng mit den bereitgestellten Ressourcen verknüpft, was in der Regel durch die Quellenangaben bei der Aufgabendarlegung gewährleistet wird. Eine beispielhafte Aufgabenstellung findet sich in der beruflichen Handlungssituation 1 „Einführung in die Berufsausbildung Notfallsanitäter“ bei @hanisch-johannsen_nfs-h-01_2025.
 „Beschreibe bitte die Maßnahmen, die du eigenverantwortlich als Notfallsanitäter:in durchführen musst, vor allem in Bezug auf die Anforderungen des Notfallsanitätergesetzes §4 und der Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen (Anlage 1). Denke dabei an die Ausbildungsziele als Notfallsanitäter:in.
 Bitte nenne die Quellen, die du zur Bearbeitung verwendet hast.“
@@ -353,7 +350,7 @@ Aus Datenschutzgründen werden konkrete Kurskennungen in den folgenden Beispiele
 
 Die Ergebnissicherung ist damit Abschluss einer Handlungssituation und Teil eines zyklischen und systemisch eingebetteten Lernprozesses.
 
-Die Darstellung zeigt exemplarisch zentrale Elemente der Ergebnissicherung in einem Handlungssituationskurs. Ein Wiki und ein Glossar dienen der kollaborativen Dokumentation und Strukturierung von Lernergebnissen. Beide Aktivitäten stehen stellvertretend für die systematische Umsetzung der in \hyperref[sec:Entwicklung-Einbettung]{Abschnitt 3.2} empirisch begründeten Forderung nach zeitnaher, zugänglicher und formativ nutzbarer Ergebnissicherung im digitalen Bildungsraum.
+Exemplarisch treten hier zentrale Elemente der Ergebnissicherung in einem Handlungssituationskurs hervor. Ein Wiki und ein Glossar dienen der kollaborativen Dokumentation und Strukturierung von Lernergebnissen. Beide Aktivitäten stehen stellvertretend für die systematische Umsetzung der in \hyperref[sec:Entwicklung-Einbettung]{Abschnitt 3.2} empirisch begründeten Forderung nach zeitnaher, zugänglicher und formativ nutzbarer Ergebnissicherung im digitalen Bildungsraum.
 
 Die Ergebnissicherung stellt damit die didaktische Umsetzung der aus vorherigen Untersuchungen hervorgegangenen Forderung dar, Evaluationsergebnisse umzusetzen und einzubetten. Sie implementiert ein standardisiertes Vorgehen, das die Erkenntnisse von @hanisch_nachhaltiges_2017 auf Seite 19–20 berücksichtigt.
 
@@ -463,7 +460,7 @@ Für die rechtlich-funktionale Rahmung aus Abschnitt~\hyperref[sec:RechtlicheRah
 
 ### 3.4.4 Deskriptive Struktur der curricularen Architektur {#sec:CurriculareStruktur}
 
-Dieser Abschnitt beschreibt die curriculare Struktur des digitalen Bildungsraums „NFS-H“ quantitativ. Ausgewiesen werden Verteilungen nach Themenbereichen und Kompetenzfeldern sowie ergänzende Kennwerte (u.a. Kursdauer, Aufgabenanzahl) und Visualisierungen, die die Kursstruktur entlang der in der NotSan-APrV vorgegebenen Bezugsgrößen dokumentieren.
+Dieser Abschnitt beschreibt die curriculare Struktur des digitalen Bildungsraums „NFS-H“ in quantitativer Form. Ausgewiesen werden Verteilungen nach Themenbereichen und Kompetenzfeldern sowie ergänzende Kennwerte wie Kursdauer und Aufgabenanzahl. Hinzu kommen Visualisierungen, die die Kursstruktur entlang der in der NotSan-APrV vorgegebenen Bezugsgrößen dokumentieren.
 
 **Datengrundlage und Zielsetzung**
 
@@ -494,7 +491,7 @@ Auch die Verteilung der Kompetenzbereiche ist als Gegenüberstellung zur normati
 
 Ergänzend lässt sich die Struktur der 32 Kurse als mehrdimensionaler Raum der Themenanteile `medizinisch`, `rettungsdienstlich` und `bezugswissenschaftlich` darstellen. \hyperref[fig:fg-kmeans-themenanteile]{Abbildung~\ref{fig:fg-kmeans-themenanteile}} zeigt eine Gruppierung der Kursprofile im dreidimensionalen Anteilsraum. \hyperref[fig:fg-dendrogramm-themenanteile]{Abbildung~\ref{fig:fg-dendrogramm-themenanteile}} ergänzt diese Darstellung um eine hierarchische Sicht auf thematische Nähe und Distanz.
 
-Die erste Darstellung bündelt die Kursprofile im Anteilsraum und macht sichtbar, ob einzelne Kurse als Randfälle oder Übergänge zwischen Themenprofilen erscheinen.
+Die erste Darstellung bündelt die Kursprofile im Anteilsraum. So wird erkennbar, ob einzelne Kurse als Randfälle oder Übergänge zwischen Themenprofilen erscheinen.
 
 ![K-Means-Clusteranalyse der Kursanteile nach Themenbereichen.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/kmeans_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-kmeans-themenanteile}
 
@@ -502,7 +499,7 @@ Die erste Darstellung bündelt die Kursprofile im Anteilsraum und macht sichtbar
 
 Die Projektion verdeutlicht, wie sich die Kursanteile im dreidimensionalen Raum verteilen und welche Kursprofile dabei näher beieinanderliegen.
 
-Die gleiche Struktur wird zusätzlich als hierarchische Gruppierung dargestellt. Das Dendrogramm macht sichtbar, in welchen Abständen Kurse zusammengeführt werden und an welchen Stellen sich größere Gruppen abzeichnen.
+Das Dendrogramm ergänzt diese Sicht um eine hierarchische Gruppierung. Erkennbar wird, in welchen Abständen Kurse zusammengeführt werden und an welchen Stellen sich größere Gruppen abzeichnen.
 
 ![Dendrogramm der Kursanteile nach Themenbereichen.](<08 Metaquellen/08-01 Abbildungen/LMS-Abbildungen/dendrogramm_cluster_anteile_notsan-aprv-vergleich.png>){#fig:fg-dendrogramm-themenanteile}
 
@@ -562,7 +559,7 @@ Im Vergleich dazu ist das hier betrachtete Learning Management System als pädag
 
 ## 3.6 Exkurs: E-Portfolio als Reflexions- und Transferinstrument {#sec:E-Portfolio}
 
-Das E-Portfolio ist im hier untersuchten System keine nachträgliche Zusatzfunktion, sondern Teil der operativen Architektur des digitalen Bildungsraums. Technisch ist es als eigenständiges Bildungswerkzeug realisiert und steht damit neben Learning-Management-System, Cloudspeicher und den weiteren Systemkomponenten der in Abschnitt~\hyperref[sec:TechnischeArchitektur]{3.3} beschriebenen Infrastruktur. Pädagogisch entspricht es damit einem Raum, in dem individuelle Lernspuren, Praxisbezüge und längerfristige Entwicklungsverläufe zusammengeführt werden können, wie dies auch für E-Portfolios als Bindeglied zwischen Hochschule, Studierenden und Praxis beschrieben wird [@hess_e-portfolios_2024]. Seine Funktion erschöpft sich jedoch nicht in dieser technischen Zuordnung. Im Zusammenspiel mit den Aufgabencontainern, den Formen der Ergebnissicherung und den Rückmeldelogiken der Kurse übernimmt das E-Portfolio eine eigene pädagogische Rolle. Es nimmt Artefakte, Zwischenergebnisse, Reflexionen und Nachweise auf und führt sie in einen Zusammenhang, der über die einzelne Handlungssituation hinausreicht.
+Das E-Portfolio ist im hier untersuchten System keine nachträgliche Zusatzfunktion, sondern Teil der operativen Architektur des digitalen Bildungsraums. Technisch ist es als eigenständiges Bildungswerkzeug realisiert und steht damit neben Learning-Management-System, Cloudspeicher und den weiteren Systemkomponenten der in Abschnitt~\hyperref[sec:TechnischeArchitektur]{3.3} beschriebenen Infrastruktur. Pädagogisch entspricht es einem Raum, in dem individuelle Lernspuren, Praxisbezüge und längerfristige Entwicklungsverläufe zusammengeführt werden können, wie dies auch für E-Portfolios als Bindeglied zwischen Hochschule, Studierenden und Praxis beschrieben wird [@hess_e-portfolios_2024]. Seine Funktion erschöpft sich jedoch nicht in dieser technischen Zuordnung. Im Zusammenspiel mit den Aufgabencontainern, den Formen der Ergebnissicherung und den Rückmeldelogiken der Kurse übernimmt das E-Portfolio eine eigene pädagogische Rolle. Es nimmt Artefakte, Zwischenergebnisse, Reflexionen und Nachweise auf und führt sie in einen Zusammenhang, der über die einzelne Handlungssituation hinausreicht.
 
 Didaktisch lässt sich diese Rolle in drei eng miteinander verbundenen Funktionen beschreiben. Erstens dient das E-Portfolio der Dokumentation. Lernprodukte, Einsatzberichte, Rückmeldungen und ausgewählte Bearbeitungsergebnisse bleiben nicht auf einzelne Kursräume oder Abgabezeitpunkte begrenzt, sondern werden in einer Form gesammelt, die Wiederauffindbarkeit und Nachvollziehbarkeit sichert. Zweitens fungiert es als Reflexionsraum. Die im Lernprozess entstandenen Artefakte werden dort nicht nur abgelegt, sondern in ihrer Entstehung, ihrer Qualität und ihrer Bedeutung für weitere Lernschritte thematisierbar. Dass digitale Portfolioformate genau diese Verbindungslinien zwischen einzelnen Inhalten, Rückmeldungen und Entwicklungsschritten sichtbar machen können, beschreiben auch @mrohs_digitale_2023 für das digitale Feedback-Portfolio. Drittens übernimmt das E-Portfolio eine Transferfunktion. Es verbindet Ergebnisse aus einzelnen Handlungssituationen mit späteren Anforderungen, macht Entwicklungslinien sichtbar und schafft Anschlussstellen zwischen kurzfristiger Aufgabenbearbeitung und längerfristiger beruflicher Bildung. Für gesundheitsberufliche Kontexte ist diese Brückenfunktion zwischen Theorie, Praxis und digitalem Lernen auch von @schwanke_einsatz_2023 ausdrücklich hervorgehoben worden.
 
