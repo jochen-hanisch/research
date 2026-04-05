@@ -2,7 +2,7 @@
 
 # 7 Conclusio und Ausblick {#sec:Conclusio}
 
-Kapitel 7 bündelt Ergebnisse und Diskussion in einer Schlussverdichtung. Der digitale Bildungsraum erscheint dabei als Wirkgefüge, dessen Wirkungen aus Koppelungen hervorgehen. Abschnitt~\hyperref[sec:Conclusio-Manifest]{7.1} fasst diese Linie in Leitsätzen. Abschnitt~\hyperref[sec:Conclusio-Zusammenfassung]{7.2} und Abschnitt~\hyperref[sec:Conclusio-Theorie]{7.3} führen Ergebnisse, Folgerungen und Implikationen zusammen. Abschnitt~\hyperref[sec:Conclusio-Grenzen]{7.4} und Abschnitt~\hyperref[sec:Conclusio-Ausblick]{7.5} bestimmen Reichweite und Ausblick.
+Kapitel 7 bündelt Ergebnisse und Diskussion in einer Schlussverdichtung. Der digitale Bildungsraum erscheint dabei als Wirkgefüge, dessen Wirkungen aus Koppelungen hervorgehen. Abschnitt~\hyperref[sec:Conclusio-Manifest]{7.1} fasst diese Linie in Leitsätzen. In Abschnitt~\hyperref[sec:Conclusio-Zusammenfassung]{7.2} und Abschnitt~\hyperref[sec:Conclusio-Theorie]{7.3} werden Ergebnisse, Folgerungen und Implikationen zusammengeführt; Abschnitt~\hyperref[sec:Conclusio-Grenzen]{7.4} und Abschnitt~\hyperref[sec:Conclusio-Ausblick]{7.5} bestimmen Reichweite und Ausblick.
 
 Kapitel \hyperref[sec:Diskussion]{6} hat die Argumente ausgearbeitet; hier werden sie auf ihren Ertrag hin gebündelt. Die zuvor rekonstruierten Befund- und Argumentlinien werden nicht erneut entfaltet, sondern zu einer abschließenden Bestimmung des digitalen Bildungsraums als Wirkgefüge verdichtet. Daraus gehen Folgerungen, Grenzen und Anschlussmöglichkeiten hervor.
 
@@ -80,7 +80,7 @@ Gemeinsam zeigen die Leitsätze, dass dieselben Strukturen, die Orientierung, En
 
 Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Im Material kehrt diese Kopplungslogik wiederholt zurück. Kapitel \hyperref[sec:Ergebnisse]{5} macht sie sichtbar; \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisiert sie als Interdependenzstruktur.
 
-Diese Verdichtung antwortet damit direkt auf die Forschungsfrage (\hyperref[sec:Einleitung]{Kapitel 1}). Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
+Die Verdichtung antwortet direkt auf die Forschungsfrage (\hyperref[sec:Einleitung]{Kapitel 1}). Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
 
 ### 7.2.2 Wie diese Verdichtung in der Arbeit hergeleitet wird {#sec:Conclusio-Wirkgefuege-Herleitung}
 
@@ -92,7 +92,7 @@ Die Herleitung folgt dem Gesamtaufbau der Arbeit:
 4. **Empirische Verdichtung und Hypothesenbildung**: Kapitel 5 beantwortet die Forschungsunterfragen entlang der Kernbereiche und führt die Triangulation in Arbeitshypothesen über (\hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}). Kapitel 6 prüft diese Verdichtung als Interdependenzargumentation und klärt, weshalb positive und negative Wirkungsrichtungen strukturell gekoppelt sind (\hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 5. **Rechnerische Spur der Kopplungsdynamik**: Ergänzend wird in Abschnitt \hyperref[sec:Diskussion-Kopplungsindikatorik]{6.3.1.1} eine Kopplungsindikatorik eingeführt, die Unsicherheiten aus den Ergebnissen in eine Zeitlogik überführt. Diese Indikatorik (\hyperref[sec:Simulation-Indikatoren]{Abschnitt 4.4.3}) erhebt keinen empirischen Messanspruch; sie dient als formalisierte Verdichtung, um Kippstellen und Stabilisierung als modellinterne Spur darstellbar zu machen.
 
-Die Simulation zeigt exemplarisch, wie diese Schlussverdichtung operativ wird: Die Kopplungsindikatorik überführt Unsicherheiten aus den Ergebnissen in eine Zeitlogik und macht so Kippstellen und Stabilisierung als prüfbare Spur der Verdichtung sichtbar [@hanisch-johannsen_simulation_2025]. Damit wird der Übergang zur Schlussverdichtung gestützt. Die Leitsätze aus Abschnitt 7.1 können so exemplarisch auf „Kippstellen“ und „Stabilisierung“ bezogen und als Reflexions- und Gestaltungsrahmen für Wirkungswahrscheinlichkeiten verortet werden.
+Die Simulation zeigt exemplarisch, wie diese Schlussverdichtung operativ wird: Die Kopplungsindikatorik überführt Unsicherheiten aus den Ergebnissen in eine Zeitlogik und macht so Kippstellen und Stabilisierung als prüfbare Spur der Verdichtung sichtbar [@hanisch-johannsen_simulation_2025]. Der Übergang zur Schlussverdichtung wird dadurch gestützt. Die Leitsätze aus Abschnitt 7.1 können so exemplarisch auf „Kippstellen“ und „Stabilisierung“ bezogen und als Reflexions- und Gestaltungsrahmen für Wirkungswahrscheinlichkeiten verortet werden.
 
 ### 7.2.3 Empirische Verdichtung entlang der Forschungsunterfragen {#sec:Conclusio-Wirkgefuege-Verdichtung-FU}
 
@@ -126,7 +126,7 @@ In der Summe entsteht damit ein konsistentes Bild. Das Wirkgefüge des digitalen
 
 Die zentrale theoretische Schlussfolgerung dieser Arbeit besteht darin, den digitalen Bildungsraum dort angemessen zu beschreiben, wo Theorie und Empirie auf Koppelungen, Rückkopplung und Interdependenzen ausgerichtet werden. Kapitel 2 bereitet diese Perspektive vor, Kapitel 5 zeigt sie im Material als rekurrentes Muster, Kapitel 6 präzisiert sie als Interdependenzargumentation (\hyperref[sec:Systemisch-konstruktivistische-Theorie]{Abschnitt 2.2.2}; \hyperref[sec:SystemischeDynamik]{Abschnitt 2.5}; \hyperref[sec:Ergebnisse-Forschungsfragen]{Abschnitt 5.3}; \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1}).
 
-Damit leistet die Arbeit auf drei Ebenen einen Beitrag zu einer systemisch‑konstruktivistischen Theorie digitaler Bildungsräume.
+Die Arbeit leistet damit auf drei Ebenen einen Beitrag zu einer systemisch‑konstruktivistischen Theorie digitaler Bildungsräume.
 
 - **Begriffspräzisierung**: „Wirkgefüge“ wird als analytischer Begriff gefasst, der Wirkungen über Koppelungen rekonstruiert und Technik, Didaktik und individuelle Einstellungen als gekoppelte Ebenen führt (\hyperref[sec:Conclusio-Wirkgefuege-Definition]{Abschnitt 7.1.1}).
 - **Methodische Anschlussfähigkeit**: Die Verbindung von Analyseordnungen (1.–3. Ordnung) mit empirischer Spiegelung (Eye‑Tracking, Umfrage) zeigt, wie Koppelungen in unterschiedlichen Datenformen sichtbar gemacht und trianguliert werden können [@hanisch-johannsen_wirkgefuge_2025-2; @hanisch-johannsen_wirkgefuge_2025] (\hyperref[sec:Datenanalyse-Grundlogik]{Abschnitt 4.3.1}; \hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9}).
