@@ -136,7 +136,7 @@ Ergänzend wird der Nutzungsvollzug über ein webcam-basiertes Remote‑Eye‑Tr
 
 ## 1.5 Aufbau der Arbeit {#sec:Aufbau-Arbeit}
 
-Die vorliegende Dissertation ist in sieben Kapitel gegliedert. Sie führt von der begrifflichen und theoretischen Rahmung über die Rekonstruktion des Forschungsgegenstands und die methodologische Konsolidierung zur empirischen Bearbeitung der Forschungsfragen sowie zur interdependenten Verdichtung der Ergebnisse. Die Kapitel bauen aufeinander auf und beschreiben gemeinsam den Weg, auf dem das Wirkgefüge des untersuchten LMS im digitalen Bildungsraum der Gesundheitsberufe rekonstruiert wird.
+Die vorliegende Dissertation ist in sieben Kapitel gegliedert. Ihr Aufbau folgt der Überzeugung, dass sich der Untersuchungsgegenstand nur dann angemessen beschreiben lässt, wenn Theorie, Gegenstand, methodischer Zugriff und Befunde aufeinander bezogen werden. Sie führt von der begrifflichen und theoretischen Rahmung über die Rekonstruktion des Forschungsgegenstands und die methodologische Konsolidierung zur empirischen Bearbeitung der Forschungsfragen sowie zur interdependenten Verdichtung der Ergebnisse. Die Kapitel bauen aufeinander auf und beschreiben gemeinsam den Weg, auf dem das Wirkgefüge des untersuchten LMS im digitalen Bildungsraum der Gesundheitsberufe rekonstruiert wird.
 
 Kapitel \hyperref[sec:Einleitung]{1} rahmt den Gegenstand, führt Erkenntnisinteresse, Problemstellung, Forschungslücke und Forschungsfragen zusammen und bereitet damit die weitere Argumentation vor. Kapitel \hyperref[sec:Theorieteil]{2} entwickelt den theoretischen Bezugsrahmen, in dem die leitenden Begriffe, Wirkannahmen und Architekturimplikationen der Arbeit geklärt werden.
 
