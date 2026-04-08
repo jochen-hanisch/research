@@ -2,11 +2,7 @@
 
 # 2 Theorieteil {#sec:Theorieteil}
 
-\label{term:theorieteil}
-
 ## Leitfrage und Leitlogik für Kapitel 2 {#sec:Leitfrage-Leitlogik-Kap2}
-
-\label{term:leitfrage-leitlogik-kap2}
 
 Kapitel 2 geht der Frage nach, welche impliziten Wirkannahmen über Lernen, Wissen, Steuerbarkeit und Wirkung in unterschiedlichen Lehrparadigmen mitgeführt werden und wie sich diese Annahmen in Strukturentscheidungen eines Learning Management Systems (LMS) einschreiben. Damit verbindet der Einstieg zwei Ebenen. Er richtet den Blick einerseits auf die epistemischen Voraussetzungen der jeweiligen Paradigmen und andererseits auf die architekturelle Form, in der sich solche Voraussetzungen im LMS niederschlagen. Kapitel 2 ist deshalb nicht als Paradigmenübersicht angelegt, sondern als Rekonstruktion impliziter Wirkannahmen, die in digitalen Lernarchitekturen als architekturwirksame Kausalpläne wirksam werden.
 
@@ -159,15 +155,11 @@ In die Modellbildung des digitalen Bildungswirkgefüges in \hyperref[sec:Systemi
 
 ## 2.2 Bildungswissenschaftlich-theoretische Verortung {#sec:Bildungswiss-Verortung}
 
-\label{term:bildungswiss-verortung}
-
 In diesem Abschnitt verschiebt sich die Perspektive von den subjektbezogenen Voraussetzungen des Lernhandelns auf die bildungswissenschaftliche Rahmung des digitalen Bildungsraums. Die Arbeit verortet sich dabei in einer systemisch-konstruktivistischen Perspektive, die Lernen als eigenlogischen, kontextgebundenen Konstruktionsprozess versteht, und verbindet diese mit einer bildungstechnologischen Fragestellung, die digitale Infrastrukturen als gestaltete, aber nur begrenzt steuerbare Bestandteile pädagogischer Settings untersucht. Bildungswissenschaft ist dafür nicht bloß Hintergrundfolie, sondern der Ort, an dem Begriffe, Geltungsansprüche und Praxisbezüge so geklärt werden, dass die spätere Modellierung tragfähig wird. [@huber_einfuhrung_2023; @huber_wissenschaftstheorie_2023]
 
 Für den Gegenstand dieser Dissertation ist diese Verortung auch deshalb sinnvoll, weil ein LMS in der Lehre der Gesundheitsberufe nicht nur Lernmaterial organisiert. Es strukturiert Sichtbarkeit, Rückmeldung, Koordination und professionelle Anschlussmöglichkeiten in einem Feld, das zugleich durch hohe Verantwortungsdichte, digitale Transformationsdynamik und wachsende Kompetenzanforderungen geprägt ist. Gerade dort greift die Behandlung von Technik als neutralem Werkzeug oder Kompetenz als bloßem Output zu kurz. [@stiftung_munch_neue_2020]
 
 ### 2.2.1 Bildung, Digitalität und Kompetenz als Leitbegriffe {#sec:Einleitung-Theorie}
-
-\label{term:einleitung-theorie}
 
 Die Leitbegriffe dieses Abschnitts sind Bildung, Digitalität und Kompetenz. Sie werden in dieser Arbeit als zusammenhängende Bestimmungen eines digitalen Bildungsraums gelesen. Bildung markiert den normativen und theoretischen Horizont, Digitalität beschreibt die veränderte kulturelle und infrastrukturelle Form dieses Raums, und Kompetenz benennt jene handlungsbezogene Leitgröße, an der sich die Qualität der Kopplung zwischen Subjekt, Aufgabe, sozialer Situation und technischer Umgebung prüfen lässt.
 
@@ -221,15 +213,11 @@ Für die innere Logik von Kapitel 2 folgt daraus ein klarer Zugriff. Die nachf
 
 ### 2.2.3 Instruktionistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Instruktionistisch}
 
-\label{term:paradigma-instruktionistisch}
-
 Die instruktionistische Position ist für diese Arbeit vor allem als fortlebende Wirklogik vieler digitaler Lernarchitekturen interessant. Ihr Kausalplan ist vergleichsweise klar. Wenn Inhalte in kleine, geordnete Einheiten zerlegt, schrittweise bereitgestellt, eng überprüft und über Soll-Ist-Rückmeldungen abgesichert werden, dann soll Lernen als kumulativer Zuwachs von Richtigkeit, Sicherheit und Reproduzierbarkeit entstehen. Bastiaens rekonstruiert diese Linie als einen Typ von Instruktionsdesign, der für klar umgrenzte Wissensbestände und standardisierbare Lernziele plausibel bleibt, seine Reichweite aber dort verliert, wo Verstehen, Transfer und eigenständige Erschließung gefragt sind. Genau deshalb lebt sie in LMS-Strukturen wie Pflichtsequenzen, Test-Gates, Freischaltlogiken, eng getakteten Kursverläufen und starker Outputkontrolle weiter. [@bastiaens_gestaltung_2017, Seiten 30-32; @dittler_technologiedefizite_2009, Seiten 77-79]
 
 In konstruktivistischer Lesart wird diese Wirklogik auf ihre Tragweite befragt. Sie kann Orientierung geben, Wiederholung sichern und Routinebildung unterstützen. Ihre Wirkung bleibt aber an Kontexte, Deutungen und Anschlussbereitschaft gebunden. Gerade an diesem Punkt setzen @reich_konstruktivistische_2006 und @siebert_padagogischer_2003 an. Lernen vollzieht sich aus ihrer Sicht als Rekonstruktion von Bedeutung im Zusammenhang von Erfahrung, Sprache und Situation. Für die Analyse digitaler Bildungsräume heißt das, dass instruktionistische Kausalpläne dort begrenzt bleiben, wo ein LMS zwar Progression organisiert, aber noch nicht erklärt, wie aus Bearbeitung tragfähiges Verständnis, Reflexion oder Kompetenz entsteht. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 29, 64, 89, 122]
 
 ### 2.2.4 Kognitivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Kognitivistisch}
-
-\label{term:paradigma-kognitivistisch}
 
 Die kognitivistische Position verschiebt die Aufmerksamkeit von der bloßen Darbietung des Lernstoffs auf die Vermittlungsarbeit, die zwischen Information und Verstehen liegt. Ihr Kausalplan lautet in verdichteter Form, dass Lernen wahrscheinlicher wird, wenn Informationen so ausgewählt, strukturiert und entlastet werden, dass sie an bestehende Wissensstrukturen anschlussfähig werden. Daraus folgen bekannte Gestaltungsmuster wie Segmentierung, Signalisierung, gestufte Hilfen, adaptive Unterstützung und formative Rückmeldung. Bastiaens beschreibt genau diese Ebene als entscheidend für erfolgreiches Lernen mit Medien, weil Medien dann lernförderlich werden, wenn sie aktive und konstruktive Verarbeitung unterstützen und zur Aufgabe wie zu den Lernvoraussetzungen passen. Pfannstiel macht dieselbe Logik aus psychologischer Sicht über kognitive Belastung, Aufmerksamkeitslenkung und Feedback als Regulationshilfe sichtbar. [@bastiaens_gestaltung_2017, Seiten 30-33; @pfannstiel_psychologische_2022, Seiten 582-587, 591, 594]
 
@@ -237,15 +225,11 @@ Für digitale Bildungsräume ist diese Wirklogik besonders ergiebig, weil sie vi
 
 ### 2.2.5 Situative / sozialkonstruktivistische Wirkannahmen in konstruktivistischer Lesart {#sec:Paradigma-Situativ}
 
-\label{term:paradigma-situativ}
-
 Die situative beziehungsweise sozialkonstruktivistische Linie rekonstruiert Lernen von vornherein als Teilhabe an Praxis, als soziale Bearbeitung von Problemen und als Aushandlung von Bedeutung. Ihr Kausalplan ist entsprechend anders gelagert. Lernen wird dort wahrscheinlich, wo Lernende in gemeinsam getragene Aufgaben, Rollen, Artefakte und Kommunikationszusammenhänge eingebunden sind und dort Perspektiven, Irritationen und Rückmeldungen verarbeiten. Reich entfaltet diese Linie didaktisch über Konstruktion, Rekonstruktion und Dekonstruktion, Siebert über die biografische und kontextgebundene Einbettung von Lernen. Für digitale Bildungsräume ist das deshalb besonders anschlussfähig, weil viele empirisch beobachtbare Wirkungen gerade an Ko-Regulation, Peer-Feedback, gemeinsame Dokumentation und diskursive Abstimmung gebunden sind. [@reich_konstruktivistische_2006, Seiten 74-85; @siebert_padagogischer_2003, Seiten 64, 78, 89]
 
 Die daraus folgenden Architekturannahmen liegen vergleichsweise offen zutage. Wenn Lernen sozial situiert gedacht wird, dann gewinnen Foren, Gruppenräume, Peer-Workflows, kollaborative Artefakte, sichtbare Prozessspuren und Rollenlogiken ein anderes Gewicht als in instruktionistischen oder rein kognitivistischen Arrangements. Irritation entsteht dann oft im Kontakt mit anderen Perspektiven, in Koordinationsproblemen oder in der Zumutung, den eigenen Standpunkt begründen zu müssen. Feedback ist in dieser Perspektive Teil des Lernvollzugs selbst. Aus systemisch-konstruktivistischer Sicht liegt hier eine besonders anschlussfähige Wirklogik vor, weil soziale Rückkopplung, Kontext und Kontingenz bereits mitgeführt werden. Der Unterschied zur Referenz dieses Kapitels bleibt dennoch wichtig. Die systemisch-konstruktivistische Perspektive fragt noch stärker nach den Grenzen direkter Steuerung und nach der Art, wie Anschluss trotz Kontingenz nur wahrscheinlich gemacht, aber nicht gesichert werden kann. [@dittler_technologiedefizite_2009, Seiten 76-79]
 
 #### Vergleichstabelle der Paradigmen (vollständig, 7 Dimensionen) {#sec:Paradigmen-Vergleichstabelle}
-
-\label{term:paradigmen-vergleichstabelle}
 
 Die Tabelle verdichtet die vorstehende Analyse in ein vergleichbares Raster. Sie dient als Lesehilfe für die paradigmatischen Unterschiede und als Brücke zur späteren Parametrisierung in \hyperref[sec:Paradigmen-Modellparameter]{Abschnitt~2.2.6}. Die Angaben sind als Rekonstruktion von Wirkannahmen zu lesen und nicht als normative Rangordnung von Paradigmen.
 
@@ -263,8 +247,6 @@ Interpretationshinweis: Die Tabelle zeigt wahrscheinliche Architekturfolgen der 
 
 ### 2.2.6 Paradigmatische Differenzen als Modellparameter {#sec:Paradigmen-Modellparameter}
 
-\label{term:paradigmen-modellparameter}
-
 Mit den rekonstruierten Paradigmenunterschieden ist der Punkt erreicht, an dem die bildungswissenschaftliche Analyse in eine dynamische Modelllogik übergeht. Für die weitere Arbeit werden die Differenzen deshalb als Parameter lesbar gemacht, über die Lernarrangements im LMS unterschiedlich beschrieben werden können. Gemeint sind vor allem der Grad externer Steuerung, die Dichte von Rückkopplung, die Sensitivität für Kontext, die Intensität von Irritation, das Verhältnis von Offenheit und Sequenzierung sowie die Rolle von Evaluation. Diese Parameter verdichten die zuvor herausgearbeiteten Wirkannahmen in eine Form, die für die spätere Modellierung anschlussfähig ist, ohne sie schon in methodische Operationen zu übersetzen.
 
 Die Auswahl dieser Parameter folgt einer bewussten analytischen Gewichtung der Arbeit. Sie wurden deshalb gewählt, weil sie über die einzelnen Paradigmen hinweg wiederkehren, sich in Architekturentscheidungen eines LMS konkret niederschlagen und zugleich nah genug an den späteren Beobachtungs- und Modellierungsfragen der Dissertation liegen. Für den hier verfolgten Zugriff sind sie deshalb tragfähiger als eine reine Typologie von Paradigmen oder eine bloße Aufzählung didaktischer Merkmale.
@@ -276,8 +258,6 @@ Mit dieser Parametrisierung werden die paradigmatischen Rekonstruktionen in eine
 Die rekonstruierten paradigmatischen Differenzen erscheinen dort als medienpädagogische Gestaltungslogiken in konkreten Architektur-, Interaktions- und Evaluationsentscheidungen.
 
 ### 2.2.7 Anthropologische und normative Tiefendimensionen {#sec:Tiefendimensionen}
-
-\label{term:tiefendimensionen}
 
 Die Parametrisierung erschließt die paradigmatischen Unterschiede in analytisch nutzbarer Form. Sie reicht aber nicht aus, um ihre tieferen Voraussetzungen sichtbar zu machen. Lernparadigmen operieren nie voraussetzungslos. Sie implizieren Menschenbilder, Autonomievorstellungen und gesellschaftstheoretische Deutungen, die ihre Steuerungslogiken rahmen.
 
@@ -303,11 +283,9 @@ Die hier aufgegriffenen Linien werden für den Theorieteil dort wichtig, wo sie 
 
 Medienpädagogik arbeitet hier mit Spuren von Kausalplänen. Wo Architektur, Rückmeldung, Kollaboration, Daten oder Evaluation thematisch werden, treten zugleich Annahmen darüber hervor, wie Lernhandlungen angeregt, gelenkt, beobachtet und beurteilt werden sollen. Für das LMS heißt das, dass Architekturentscheidungen wie Sichtbarkeit, Rollenlogik, Sequenzierung, Feedbackpunkte oder Dokumentationsformen immer schon implizite Wirkannahmen mitführen. Diese Lesart wird durch zahlreiche Beiträge gestützt, die digitale Lernräume als Bedingungsgefüge beschreiben, in dem Technik, Didaktik, Organisation und Nutzung nur zusammen erklärbar werden. [@dittler_technologiedefizite_2009; @luhmann_technologiedefizit_1982; @bilstein_arbeit_2020; @makwasha_documenting_2025; @hubener_trialogische_2025; @di_bari_remote_2025; @biel_plattformubergreifendes_2025]
 
-Eine handhabbare Verdichtung dieser Einbettungslogik zeigen @kotitschke_moodle_2026 mit der „AVIVA+ Moodle-Matrix“. Moodle erscheint dort als prozessual gegliederter Lernraum, in dem Lernphasen, Sozialformen und Methoden systematisch aufeinander bezogen werden. Interessant ist der Beitrag deshalb, weil er die medienpädagogische Rahmung bis an die Architektur heranführt und sichtbar macht, wie stark die Qualität digitaler Lehre von der abgestimmten Gestaltung von Lernphasen, Interaktionsformen und Rückkopplungspunkten abhängt. [@kotitschke_moodle_2026]
+Eine handhabbare Verdichtung dieser Einbettungslogik zeigt @kotitschke_moodle_2026 mit der „AVIVA+ Moodle-Matrix“. Moodle erscheint dort als prozessual gegliederter Lernraum, in dem Lernphasen, Sozialformen und Methoden systematisch aufeinander bezogen werden. Interessant ist der Beitrag deshalb, weil er die medienpädagogische Rahmung bis an die Architektur heranführt und sichtbar macht, wie stark die Qualität digitaler Lehre von der abgestimmten Gestaltung von Lernphasen, Interaktionsformen und Rückkopplungspunkten abhängt.
 
 ### 2.3.1 Medienpädagogik als Disziplin und Perspektive {#sec:Medienpaedagogik-Disziplin}
-
-\label{term:medienpaedagogik-disziplin}
 
 Medienpädagogik entfaltet eine epistemische Perspektive auf digitale Räume, indem sie die Bedingungen von Bildung unter Medialität in den Blick nimmt. Die herangezogenen Arbeiten zeigen übereinstimmend, dass Lernerfolg in digitalen Settings nicht durch Plattformfunktionen erklärt werden kann. Plausibel wird er über soziale und kognitive Regulations‑ und Reflexionsprozesse. Die Akzentsetzungen unterscheiden sich jedoch. @vuorenmaa_how_2024 arbeiten die Dynamik geteilter und kooperativer Regulation in CSCL‑Settings heraus. @andrayani_role_2025 koppeln Kollaboration an strukturierte Reflexion und Motivation und fokussieren damit stärker didaktische Rahmungen und individuelle Anschlussfähigkeit. @rieser_gemeinsame_2025 zeigt am Peer‑Tutoring, wie sich gemeinsame Steuerung, Monitoring und Planung im Übergang zwischen individueller und sozialer Regulation ausbilden. Zusammen konturieren diese Perspektiven Wirkung\label{term:wirkung} als relational, prozessual und deutungsabhängig.
 
@@ -315,19 +293,13 @@ Medienbildung wird als Prozess der Aneignung medialer Kulturtechniken, Kommunika
 
 ### 2.3.2 Medialität als Strukturbedingung von Bildungsprozessen {#sec:Medialitaet-Strukturbedingung}
 
-\label{term:medialitaet-strukturbedingung}
-
 Medialität formt Wahrnehmung, Kommunikation, Rollen, Zeitlichkeit und Sichtbarkeit und muss deshalb als strukturierende Bedingung von Bildung begriffen werden. Die medienpädagogische Perspektive fragt nach diesen Strukturen, bevor technologische Funktionen kommentarlos übernommen werden. [@wild_ausgewahlte_2021, Seite 5]
 
 ### 2.3.3 Zentrale medienpädagogische Kategorien {#sec:Medienpaedagogische-Kategorien}
 
-\label{term:medienpaedagogische-kategorien}
-
 Medienbildung bezeichnet die Aneignung medialer Kulturtechniken, Medienkompetenz verbindet technische, kognitive und soziale Dimensionen, die Partizipation, der Dialog, pädagogische Beziehungen, Autorität, Inklusion sowie Bildungsbenachteiligung markieren normativ-relationale Achsen digitaler Bildungsräume. [@moser_medienbildung_2011, Seite 137; @moser_medienbildung_2011, Seite 175; @huber_partizipation_2023, Seite 435; @huber_dialog_2023, Seite 99; @huber_padagogische_2023-1, Seite 419; @huber_padagogische_2023, Seite 411; @huber_inklusive_2023, Seite 265; @huber_bildungsbenachteiligung_2023, Seite 67]
 
 ### 2.3.4 Mediendidaktik als theoriegeleitete Gestaltungsperspektive {#sec:Mediendidaktik-Gestaltungsperspektive}
-
-\label{term:mediendidaktik-gestaltungsperspektive}
 
 @mayer_pragmatismus_2004 formulieren didaktische Prinzipien auf der Grundlage einer pragmatistischen Handlungs- und Erfahrungstheorie. @mayrberger_mediendidaktik_2023 hebt Bedingungen hervor, unter denen Handlungsfähigkeit im digitalen Hochschulumbruch gestärkt wird. Beide Zugänge lesen Mediendidaktik als reflexive Gestaltungsperspektive, die Anschlusskommunikation, Beteiligung und Ermöglichung in den Vordergrund rückt. Die Akzente liegen dabei verschieden. @mayer_pragmatismus_2004 konturieren stärker Prinzipien didaktischer Integration, @mayrberger_mediendidaktik_2023 betont Agency-, Partizipations- und Rahmungsbedingungen in institutionellen Umbruchsituationen. [@mayer_pragmatismus_2004, Seite 2; @mayrberger_mediendidaktik_2023, Seite 127]
 
@@ -379,8 +351,6 @@ Daraus ergibt sich die Modellierung des LMS als Kopplungsarchitektur, die Aufgab
 
 ### 2.3.7 Empirische Befunde als theorieinterne Konsolidierung {#sec:Empirische-Befunde-Konsolidierung}
 
-\label{term:empirische-befunde-konsolidierung}
-
 Die empirischen Befunde – CSCL-Studien, Peer Tutoring, ARCS-Analysen – stabilisieren die medienpädagogische Theorie, weil sie zeigen, wie sozial-regulative, reflexive und relationale Steuerung unter digitalen Bedingungen wirkt. Unterrichtskritik und Erwachsenenbildung – beide mit `Bildungstheorien` und `Promotion:sec:Einleitung-MedienpaedagogischeRahmung` kodiert – liefern explizite Belege dafür, dass medienpädagogische Kritik und reflexive Kontextualisierung strukturell zur Disziplin gehören. [@huber_unterrichtskritik_2023, Seite 653; @huber_erwachsenenbildung_2023, Seite 155]
 
 Dieser Abschnitt fungiert als medienpädagogische Übersetzungs‑ und Brückenstelle, indem er Medialität als strukturierende Bedingung von Bildungsräumen ausweist. Der interaktionistische Konstruktivismus betont, dass „alle Versionen von Wirklichkeit … immer auch kulturell erzeugt“ werden und dass Subjekte ihre Wirklichkeit in Lernprozessen immer wieder neu „erfinden“, während gesellschaftlich zugleich Rahmungen vorgegeben sind. [@wild_ausgewahlte_2021, Seite 5]
@@ -391,8 +361,6 @@ Für diese mediendidaktische Rahmung ist zentral, dass technische Medialität al
 Vor diesem Hintergrund wird eine wiederkehrende Ambivalenz digitaler Bildungsräume sichtbar. Eine starke Technikaffinität kann Bildung überblenden, wenn digitale Systeme vor allem über Funktions-, Mess- und Implementationslogiken beschrieben werden und Bildungsziele erst nachträglich als Legitimation technischer Möglichkeiten erscheinen. Im ästhetischen Modus der Science-Fiction-Reflexion verschärft @pfutzner_sterben_2022 diese Verschiebung am Leitbegriff der Mündigkeit: „Welchen Sinn macht beispielsweise die oft zitierte Mündigkeitsformel im Sinne von Immanuel Kant, wenn die Fähigkeit, den eigenen Verstand ohne Leitung eines anderen zu benutzen, eine Selbstbegrenzung darstellt, die angesichts der heute nötigen und möglichen Hilfsmittel unmündig wäre – weil nur unter Leitung komplexer Algorithmen mündige Urteile zu treffen sind?“ [@pfutzner_sterben_2022, Seite 131]. Autonomie erscheint damit als reflexive Auseinandersetzung mit algorithmischer Vermittlung und ihren normativen Folgelasten. Pointiert wird die Gefahr schließlich dort, wo er fragt, was geschieht, wenn das „Technologiedefizit der Pädagogik“ vermeintlich technisch „behoben“ werden kann. [@pfutzner_sterben_2022, Seite 130]
 
 ## 2.4 Exkurs: Technologiedefizit {#sec:Technologiedefizit}
-
-\label{term:technologiedefizit-exkurs}
 
 \hyperref[sec:Technologiedefizit]{Abschnitt 2.4} setzt mit dem Technologiedefizit eine systemtheoretische Begrenzung, die direkte Steuerungsversprechen relativiert und die Kontingenz pädagogischer Wirkung expliziert.
 
@@ -410,8 +378,6 @@ Der Nachweis für diese Argumentation zieht sich direkt durch den Literaturkorpu
 
 ### 2.4.1 Technologie, Kausalpläne und strukturelle Ungewissheit {#sec:Technologie-Kausalplaene-Ungewissheit}
 
-\label{term:technologie-kausalplaene-ungewissheit}
-
 @bilstein_arbeit_2020 rekonstruiert den Ausgangspunkt der Debatte über den Technologiebegriff \label{term:technologiebegriff} als Wissenschaft von Kausalverhältnissen, die praktischen Intentionen zugrunde liegen und Handeln erfolgreich machen sollen. Für soziale und damit auch pädagogische Handlungszusammenhänge bleibt diese Idee unter Komplexitätsbedingungen begrenzt, weil in pädagogischen Situationen mehrere selbstreferenzielle Akteur\*innen aufeinandertreffen und weil sich Wirkannahmen einzelner Faktoren nicht generalisieren lassen. In der Folge etabliert sich in der Pädagogik historisch häufig eine Verdiktfigur gegenüber „Technologie“, während zugleich die Frage bestehen bleibt, wie Organisationen und Professionen handlungsfähig bleiben, wenn allgemeine, zuverlässige Kausalgesetze nicht verfügbar sind. Der operative Ausweg liegt in der Arbeit mit Kausalplänen\label{term:kausalplan} als selektiven Konstellationen von Ursachen, die als gegeben oder als erwirkbar unterstellt werden und auf diese Weise Orientierung ermöglichen. In dieser Arbeit werden Kausalpläne als organisations‑ und professionsspezifische, vorläufig stabilisierte Unterstellungen von Wirkzusammenhängen verstanden, die faktisch handlungsleitend wirken, ohne normative Geltung zu beanspruchen, und unter Bedingungen struktureller Ungewissheit Orientierung ermöglichen und deshalb als Annahmestruktur explizit zu machen sowie zu dokumentieren sind. [@bilstein_arbeit_2020, Seite 238]
 
 @benner_theorie_2004 macht deutlich, dass die Vermittlung von Theorie und Praxis als reflexive Passungsverhandlung unter Bedingungen wechselseitiger Irritation zu verstehen ist, die lineare Anwendungslogiken begrifflich begrenzt. [@benner_theorie_2004, Seiten 894–895]
@@ -419,8 +385,6 @@ Der Nachweis für diese Argumentation zieht sich direkt durch den Literaturkorpu
 Diese Klärung ist für den Gegenstand der Dissertation unmittelbar relevant. Ein LMS wird in Organisationen häufig als Technologie im naheliegenden Sinne gelesen, also als Instrumentarium, mit dem Lehr‑Lern‑Prozesse effizienter, transparenter oder kontrollierbarer werden sollen. Der Technologiedefizit‑Diskurs verschiebt den Fokus von der instrumentellen Hoffnung auf Wirksamkeit auf die Frage, wie unter Ungewissheit\label{term:ungewissheit} pädagogische Plausibilisierung möglich wird und wie digitale Systeme so gestaltet sowie genutzt werden können, dass sie Komplexität reduzieren, ohne die Kontingenz\label{term:kontingenz} des Bildungsprozesses epistemisch zu verdecken. [@bilstein_arbeit_2020, Seite 238]
 
 ### 2.4.2 E‑Learning und die Grenzen einer technizistischen Wirksamkeitslogik {#sec:E-Learning-Wirksamkeitslogik-Grenzen}
-
-\label{term:e-learning-wirksamkeitslogik-grenzen}
 
 @dittler_technologiedefizite_2009 macht den Punkt im Hochschulkontext besonders deutlich, indem er die Rede von „Technologiedefiziten“ technologiebasierter Lehre als Strukturmerkmal fasst, das über Ausstattungs‑ oder Infrastrukturfragen hinausweist. Seine Argumentation zielt darauf, dass das grundlegende Technologiedefizit der Erziehung auch in der digitalen Lehre wirksam bleibt, weil E‑Teaching keine kausalgesetzlich determinierbare Praxis darstellt. Damit wird eine zentrale Fehlstelle sichtbar, die für LMS‑Diskurse typisch erscheint. Quantitative Diffusions‑ und Nutzungsdaten können eine „Selbstevidenz“ von Leistung suggerieren, wenn Kennzahlen als Ersatz für begrifflich und empirisch begründete Wirkmodelle geführt werden. Die Konsequenz betrifft Evaluation und Governance: Ziel‑ und Output‑Logiken können Ungewissheit organisieren, sie heben sie nicht auf, und sie erzeugen damit eigene Kausalpläne, die wiederum reflexionsbedürftig sind. [@dittler_technologiedefizite_2009, Seiten 77-78, 86-87]
 
@@ -430,15 +394,11 @@ Für das Thema dieser Arbeit lässt sich daraus eine klare Anschlusslogik formul
 
 ### 2.4.3 Digitalisierung als diskursive Verschiebung im Umgang mit dem Defizit {#sec:Digitalisierung-Diskursive-Verschiebung}
 
-\label{term:digitalisierung-diskursive-verschiebung}
-
 @buck_zwischen_2020 lesen Digitalisierung als Anlass, die Figur des Technologiedefizits erneut zu aktualisieren und die daran gekoppelten Erwartungen an öffentliche Erziehung und Unterricht zu sortieren. In ihrem Zugriff wird sichtbar, dass Digitalisierung das Defizit als Diskurslinie fortschreibt und Positionen verstärkt, die zwischen Optimierungsanspruch, Bearbeitungslogik und Verwehrung oszillieren. Im Kern benennen sie drei Grundpositionen: eine insinuierte Überwindung des Technologiedefizits, eine Berücksichtigung und fortwährende Bearbeitung über Technologieersatztechnologien sowie die Wiederkehr eines Technologieverdikts. Der Wert dieser Unterscheidung liegt für die Dissertation darin, dass sie begrifflich trennt, ob digitale Bildungsräume als rationalisierbare Steuerungsinstrumente, als dauerhaft reflexionsbedürftige Bearbeitungsfelder oder als normativ abzulehnende Technikformen geführt werden. [@buck_zwischen_2020, Seite 183]
 
 Zugleich markieren @buck_zwischen_2020, dass die Verwendung der Figur selbst nicht unstrittig ist, etwa wenn sie Tenorths Kritik an einer Vermengung analytischer und normativer Ebenen rekapitulieren. Für den Argumentationsgang der Arbeit ist das ein wichtiger Hinweis. Der Exkurs nutzt den Technologiedefizit‑Diskurs als analytische Sensibilisierungsfolie, um blinde Flecken, Erwartungs‑ und Mess‑Überhänge sowie implizite Technologisierungen von Bildung zu erkennen; normative Technikpositionen werden davon getrennt geführt und zugleich in ihren institutionellen Folgen für hochschuldidaktische Praxis sichtbar gemacht, ohne daraus eine pauschale Technikskepsis abzuleiten. [@buck_zwischen_2020, Seite 186]
 
 ### 2.4.4 Doppelte Defizitlage der Hochschuldidaktik im digitalen Umbau {#sec:Doppelte-Defizitlage-Hochschuldidaktik}
-
-\label{term:doppelte-defizitlage-hochschuldidaktik}
 
 @geschaftsstelle_beim_stifterverband_methode_2021 bindet das Technologiedefizit an die Hochschuldidaktik als wissenschaftliche Praxis, Beratung/Weiterbildung und Disziplin und beschreibt es als strukturelle Schwierigkeit, individuelle Bildungsprozesse und Lehr‑Lern‑Konstellationen mit verallgemeinerbaren, forschungsbasierten Aussagen so zu unterlegen, dass Gestaltung und Wirkung robust planbar werden. Im Kontext der digitalen Transformation kommt eine zusätzliche Defizitdimension hinzu, die sich in infrastrukturellen, technischen und kulturellen Aneignungsanforderungen ausdrückt und damit zusammen ein „doppeltes Technologiedefizit“ bildet. Das ist für die Dissertation anschlussfähig, weil damit die digitale Transformation des Hochschulbereichs zugleich als Technik‑ und als Kultur‑/Kompetenzproblem sichtbar wird und weil sich daraus die Notwendigkeit eines domänenspezifischen, theoriegeleiteten Designs digitaler Lehr‑Lern‑Architekturen begründen lässt. [@geschaftsstelle_beim_stifterverband_methode_2021, Seite 606-607]
 
@@ -448,9 +408,7 @@ Hinzu kommt eine implizite Forschungsfolge. Wenn Wirkungszusammenhänge im digit
 
 ### 2.4.5 LMS als Bildungsraum unter Bedingungen begrenzter Steuerbarkeit {#sec:LMS-Bildungsraum-Begrenzte-Steuerbarkeit}
 
-\label{term:lms-bildungsraum-begrenzte-steuerbarkeit}
-
-Der Literaturbefund aus den Analysen 1. Ordnung zur Technologieintegration stützt die bisherigen Ausführungen, indem Integration wiederkehrend als Einbettungs‑ und Stabilitätsproblem ausgewiesen wird. Die Verfügbarkeit von Tools, die infrastrukturelle Tragfähigkeit, organisationale Anschlussfähigkeit und didaktische Passung unter kontingenten Kontextbedingungen sind hierbei bemerkenswerte Befunde (\hyperref[sec:A-14]{Anhang „Technologieintegration und Technologiedefizit“}, z. B. @makwasha_documenting_2025; @hubener_trialogische_2025; @di_bari_remote_2025; @biel_plattformubergreifendes_2025).
+Der Literaturbefund aus den Analysen 1. Ordnung zur Technologieintegration stützt die bisherigen Ausführungen, indem Integration wiederkehrend als Einbettungs‑ und Stabilitätsproblem ausgewiesen wird. Die Verfügbarkeit von Tools, die infrastrukturelle Tragfähigkeit, organisationale Anschlussfähigkeit und didaktische Passung unter kontingenten Kontextbedingungen sind hierbei bemerkenswerte Befunde (\hyperref[sec:A-14]{Anhang „Technologieintegration und Technologiedefizit“}; [@makwasha_documenting_2025; @hubener_trialogische_2025; @di_bari_remote_2025; @biel_plattformubergreifendes_2025]).
 
 In der Logik dieses Exkurses wird das LMS in der vorliegenden Arbeit als Strukturangebot verstanden, das Handlungsspielräume eröffnet, begrenzt und priorisiert und zugleich keine Garantie für Bildungs‑ oder Kompetenzwirkungen liefert. Die Analyse zielt daher auf das Zusammenspiel aus subjektiven Trägervariablen (Bedürfnisse/Emotionen), didaktisch‑strukturellen Arrangements (Aufgaben, Feedback, Transparenz, Prüfungsarchitekturen) und der technischen Medialität des Systems, wobei die jeweils unterstellten Kausalpläne in ihrer Reichweite begrenzt bleiben und empirisch irritierbar gehalten werden. Der Bezug auf Bedürfnisse fungiert dabei als Mechanismenebene, über die plausibilisiert wird, warum ein LMS Autonomieerleben, Kompetenzerleben und soziale Eingebundenheit stützen oder unterlaufen kann und weshalb diese Effekte stets kontextgebunden bleiben. [@dittler_technologiedefizite_2009, Seite 78; @geschaftsstelle_beim_stifterverband_methode_2021, Seite 606-607; @deci_selbstbestimmungstheorie_1993; @maslow_motivation_2018]
 
@@ -459,8 +417,6 @@ Das LMS wird als Teil eines Wirkgefüges untersucht, in dem Designentscheidungen
 Damit schiebt dieser Exkurs einen epistemischen Riegel vor jede Form von Steuerungsillusion, ohne Gestaltungsansprüche abzuräumen. Das LMS kann Kompetenzentwicklung unterstützen oder behindern, doch die wissenschaftliche Tragfähigkeit entsteht erst dort, wo die begrenzte Steuerbarkeit explizit wird und die methodische Bearbeitung von Ungewissheit als Teil des Erkenntnisprozesses ausgewiesen ist. Genau daraus folgt der Übergang in das Modell der systemischen Dynamik (Abschnitt~\hyperref[sec:SystemischeDynamik]{2.5}), das Wirkungen als gekoppelte, rückgekoppelte und damit grundsätzlich nicht‑lineare Prozesse führt, die empirisch anschlussfähig, zugleich aber nur probabilistisch stabilisierbar sind. [@dittler_technologiedefizite_2009, Seite 78]
 
 ## 2.5 Systemische Dynamik des digitalen Bildungswirkgefüges {#sec:SystemischeDynamik}
-
-\label{term:systemische-dynamik}
 
 \label{term:digitales-bildungswirkgefuge}
 

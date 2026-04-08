@@ -2,7 +2,7 @@
 
 ## Prompt zur Eye-Tracking-Auswertung {#sec:A-8}
 
-Dieser Prompt dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der im Forschungsdesign verwendeten Eye-Tracking-Daten (Heatmaps, Viewmaps, Fog-Views). Er folgt den methodischen Grundlagen des systemisch-forschungsfragengeleiteten Paradigmas der Arbeit (Kapitel 4.1–4.2) und operationalisiert die qualitative Bildauswertung gemäß Abschnitt 4.2.4 (Eye-Tracking).
+Dieser Prompt dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der im Forschungsdesign verwendeten Eye-Tracking-Daten (Heatmaps, Viewmaps, Fog-Views). Er folgt den methodischen Grundlagen des systemisch-forschungsfragengeleiteten Paradigmas der Arbeit (\hyperref[sec:Forschungsparadigma]{Kapitel 4.1} bis \hyperref[sec:Datenerhebung]{Kapitel 4.2}) und operationalisiert die qualitative Bildauswertung gemäß \hyperref[sec:EyeTracking]{Abschnitt 4.2.4} (Eye-Tracking).
 
 **Eingabe je Analysefall**
 
@@ -44,7 +44,7 @@ Die Auswertung beantwortet die Leitfrage von **FU4b**:
 
 **Analyseprompt (für jede Stimulusreihe):**
 
-Bitte analysiere die folgenden Eye-Tracking-Visualisierungen eines LMS-Stimulus (Heatmap, Viewmap/Scanpath, Fog-View) nach den im Methodenabschnitt beschriebenen Prinzipien. Berücksichtige die systemisch-forschungsfragengeleitete Logik aus Kapitel 4.1–4.2 und die Zielsetzung von FU4b.  
+Bitte analysiere die folgenden Eye-Tracking-Visualisierungen eines LMS-Stimulus (Heatmap, Viewmap/Scanpath, Fog-View) nach den im Methodenabschnitt beschriebenen Prinzipien. Berücksichtige die systemisch-forschungsfragengeleitete Logik aus \hyperref[sec:Forschungsparadigma]{Kapitel 4.1} bis \hyperref[sec:Datenerhebung]{Kapitel 4.2} und die Zielsetzung von FU4b.  
 
 Führe dazu die folgenden Schritte aus:
 
@@ -75,7 +75,7 @@ Führe dazu die folgenden Schritte aus:
 
 5. Ableitung technisch-gestalterischer Mechanismen (FU4b)
 
-Formuliere präzise Mechanismen, z.B.:
+Formuliere präzise Mechanismen, beispielsweise:
 
 - *Salienzsteuerung (Farbkontrast, Bildanteile, ikonische Signale)*  
 - *Orientierungslogiken (Sequenzialität, Blickanfangszonen)*  
@@ -91,7 +91,7 @@ Erstelle eine prägnante Zusammenfassung:
 - Was zeigt der Stimulus über die Wahrnehmungslogik des LMS?  
 - Welche gestalterischen Faktoren wirken förderlich/hemmend?  
 - Welche systemischen Muster sind relevant?  
-- Welche Hypothesen ergeben sich für Kapitel 5?
+- Welche Hypothesen ergeben sich für \hyperref[sec:Ergebnisse]{Kapitel 5}?
 
 Ausgabeformat (empfohlen)
 - Heatmap: …  
@@ -146,7 +146,7 @@ Damit die 33 Falltexte später zuverlässig verdichtet werden können, gelten fo
 - **Viewmap**: Blickstart/Ankerzone nennen + mindestens einen Orientierungswechsel (z.B. Navigation $\rightarrow$ Inhalt $\rightarrow$ Interaktion) beschreiben.
 - **Fog‑View**: mind. eine systematisch unbeachtete Zone nennen und als *kritisch* vs. *unkritisch* bewerten.
 - **Mechanismen (FU4b)**: 3–6 präzise, technisch‑gestalterische Mechanismen (kein „Ergebnis“, sondern Mechanismusformulierung).
-- **Kurzdiagnose**: 2–4 Sätze (Essenz + ggf. Hypothese für Kapitel 5).
+- **Kurzdiagnose**: 2–4 Sätze (Essenz + ggf. Hypothese für \hyperref[sec:Ergebnisse]{Kapitel 5}).
 - **Artefakte**: Off-center/Trackloss/uneindeutige Muster explizit benennen (nicht überinterpretieren).
 - **Konfidenz**: hoch/mittel/niedrig (kurzer Grund, v.a. bei „niedrig“).
 

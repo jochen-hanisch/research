@@ -72,4 +72,4 @@ Die Matrizen sind dabei als Strukturübersichten zu verstehen: Sie zeigen Kopplu
 
 **Strukturelle Übersichten der Relationen**
 
-Die strukturellen Übersichten des Literaturkorpus – insbesondere das Pfaddiagramm der Datenflüsse und Kategorien sowie das Suchbegriffsnetz – werden im Methodik-Kapitel ausführlich visualisiert und erläutert (vgl. Abb.~\ref{fig:path-diagram} und Abb.~\ref{fig:network-suchergebnisse} in Abschnitt 4.2/4.3). Um Redundanzen und zusätzliche Dateilasten zu vermeiden, sind diese Abbildungen im Korrelationsatlas nicht erneut eingebunden.
+Die strukturellen Übersichten des Literaturkorpus – insbesondere das Pfaddiagramm der Datenflüsse und Kategorien sowie das Suchbegriffsnetz – werden im Methodik-Kapitel ausführlich visualisiert und erläutert (\hyperref[fig:path-diagram]{Abb.~\ref{fig:path-diagram}} und \hyperref[fig:network-suchergebnisse]{Abb.~\ref{fig:network-suchergebnisse}} in Abschnitt 4.2/4.3). Um Redundanzen und zusätzliche Dateilasten zu vermeiden, sind diese Abbildungen im Korrelationsatlas nicht erneut eingebunden.
