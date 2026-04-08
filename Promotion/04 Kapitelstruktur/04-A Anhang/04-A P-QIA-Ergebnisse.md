@@ -27,7 +27,7 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 - Datum/Version: 2025-12-15 (v2)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 8; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -148,7 +148,7 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -309,7 +309,7 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -490,7 +490,7 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 15; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -681,7 +681,7 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -842,7 +842,7 @@ Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über I
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -955,7 +955,7 @@ FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisat
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -1080,7 +1080,7 @@ Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamifica
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -1193,7 +1193,7 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–2 Sätze (FU7); Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 10; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele über die jeweiligen BibTeX-Keys der Ankerquellen.
 
 **Kategorienüberblick (Tabelle)**
 

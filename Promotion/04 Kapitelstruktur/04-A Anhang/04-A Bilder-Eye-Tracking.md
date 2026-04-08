@@ -2,7 +2,7 @@
 
 ## Eye-Tracking-Visualisierungen {#sec:A-7}
 
-Hinweis: Die Auswertung erfolgt in Kapitel 5; hier sind die vollständigen Bildreihen (Heatmap, Viewmap, Fog-View) je Stimulus und Jahrgang dokumentiert. Pfade: `08 Metaquellen/08-01 Abbildungen/eye-traking/…`.
+Hinweis: Die Auswertung erfolgt in \hyperref[sec:Ergebnisse]{Kapitel 5}; hier sind die vollständigen Bildreihen (Heatmap, Viewmap, Fog-View) je Stimulus und Jahrgang dokumentiert. Pfade: `08 Metaquellen/08-01 Abbildungen/eye-traking/…`.
 
 **Stimulus F2-S2 (Navigation, interaktive Elemente)**
 

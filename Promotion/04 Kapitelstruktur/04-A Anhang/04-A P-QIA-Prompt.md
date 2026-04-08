@@ -154,7 +154,7 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 
 - Pro Kategorie mindestens zwei Ankerbeispiele aus unterschiedlichen BibTeX-Keys.
 - Anker stammen aus inhaltstragenden Segmenten, nicht aus Template-Teilen („Methoden“, „Zusammenfassung“, „Verschlagwortung“, reine Relevanzbewertungen).
-- Zitationen sind technisch sauber: `[@bibkey]`, keine offenen Klammern, keine abgeschnittenen Textreste, keine Artefakte (`-{\textgreater}`, `---` o.ä.).
+- Zitationen sind technisch sauber: mit konkretem BibTeX-Key, keine offenen Klammern, keine abgeschnittenen Textreste, keine Artefakte (`-{\textgreater}`, `---` o.ä.).
 
 **Narrative Qualität (deskriptiv, nicht interpretativ)**
 
@@ -185,31 +185,31 @@ Bevor ein FU‑Abschnitt als „fertig“ gilt, werden die Outputs gegen folgend
 
 | Kategorie | Segmente (n) | Beispielquellen |
 | --- | ---: | --- |
-| … | … | [@…] [@…] |
+| … | … | Quelle 1; Quelle 2 |
 
 **Codierschema (Tabelle)**
 
 | Kategorie | Definition | Kodierregel (kurz) | Ankerbeispiele |
 | --- | --- | --- | --- |
-| … | … | … | „…“ [@…]<br><br>„…“ [@…] |
+| … | … | … | „…“ (Quellenangabe 1)<br><br>„…“ (Quellenangabe 2) |
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
 **Kategorie 1**
 
-2–5 Sätze Verdichtung (deskriptiv) … [@…] [@…]
-> „…“ [@…]
-> „…“ [@…]
+2–5 Sätze Verdichtung (deskriptiv) … mit Quellenangaben.
+> „…“ (Quellenangabe 1)
+> „…“ (Quellenangabe 2)
 
 **Barrieren, Risiken & Grenzen**
 
-2–5 Sätze Verdichtung (deskriptiv) … [@…] [@…]
-> „…“ [@…]
-> „…“ [@…]
+2–5 Sätze Verdichtung (deskriptiv) … mit Quellenangaben.
+> „…“ (Quellenangabe 1)
+> „…“ (Quellenangabe 2)
 
 **Theoretische Einbettung**
 
-Kurze Zuordnung … [@…]
+Kurze Zuordnung … mit Quellenangabe
 
 **Reflexion**
 

@@ -30,7 +30,7 @@ Die Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperref[sec:The
 
 2. **Strukturierung/Entlastung:** Struktur reduziert Suchkosten, senkt kognitive Last und macht Lernpfade handhabbar. Überstrukturierung verengt Agency, verstärkt Pfadabhängigkeit und produziert Abhängigkeiten. Strukturell gilt, dass Entlastung Struktur braucht; Struktur stabilisiert, indem sie Alternativen begrenzt und Abweichungen kostenintensiv macht.
 
-   Daraus folgt, Struktur als „Leitplanke“ zu entwerfen (klare Navigation, sichtbare Progression, minimale Pflichtpfade) und Wahlräume für unterschiedliche Lernwege vorzusehen. In Kap. 5 zeigen Akteur*innenurteile, dass Orientierung, Navigation und kognitive Entlastung zu den zentralen Bedingungen von Akzeptanz und Nutzung gehören (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
+   Daraus folgt, Struktur als „Leitplanke“ zu entwerfen (klare Navigation, sichtbare Progression, minimale Pflichtpfade) und Wahlräume für unterschiedliche Lernwege vorzusehen. In \hyperref[sec:Ergebnisse]{Kapitel 5} zeigen Akteur*innenurteile, dass Orientierung, Navigation und kognitive Entlastung zu den zentralen Bedingungen von Akzeptanz und Nutzung gehören (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
 
 3. **Rückkopplung/Feedback:** Feedback kalibriert Lernen und Koordination, stabilisiert Pfade und erhöht Selbstwirksamkeit. Überdichte oder uneindeutige Rückkopplung erzeugt Übersteuerung, Signalrauschen, Leistungsdruck und reaktives Handeln. Die Interdependenz zeigt sich daran, dass Stabilisierung Rückkopplung braucht; zugleich erhöht Rückkopplung Steuerungsdruck und kann Aufmerksamkeit destabilisieren.
 
@@ -38,7 +38,7 @@ Die Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperref[sec:The
 
 4. **Steuerung/Agency:** Steuerung (Ziele, Regeln, Defaults) bündelt Ressourcen, priorisiert Handlungen und macht Entscheidungen konsistent. Sie kann in Heteronomie, instrumentelles Verhalten und „Gaming“ von Indikatoren kippen. Zielgerichtetheit braucht Steuerung. Steuerung aber begrenzt Autonomie und erzeugt Gegenstrategien – das ist keine Nebenwirkung, sondern strukturelle Folge.
 
-   Steuerung sollte als Orientierungshilfe kenntlich bleiben: über Defaults, Prioritäten und Begründungen, aber auch über explizite Ausstiegspfade. So bleibt Agency erhalten. In Kap. 5 wird Steuerung als Mechanismenlinie u. a. über Learning Analytics, Prompts und Personalisierung sichtbar (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
+   Steuerung sollte als Orientierungshilfe kenntlich bleiben: über Defaults, Prioritäten und Begründungen, aber auch über explizite Ausstiegspfade. So bleibt Agency erhalten. In \hyperref[sec:Ergebnisse]{Kapitel 5} wird Steuerung als Mechanismenlinie u. a. über Learning Analytics, Prompts und Personalisierung sichtbar (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
 5. **Lernort‑Kohärenz/Transfer:** Kohärenz verknüpft Inhalte, Aufgaben und Praxis und erhöht Transferwahrscheinlichkeit. Brüche und Fragmentierung erzeugen Kontextverlust, Medienbrüche und Parallelwelten. Die Kopplung besteht darin, dass Transfer Kohärenz braucht; Kohärenz entsteht nur durch Selektions‑ und Standardisierungsarbeit, die Vielfalt begrenzt.
 
@@ -46,11 +46,11 @@ Die Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperref[sec:The
 
 6. **Zeit/Verfügbarkeit:** Asynchrone Verfügbarkeit erweitert Teilhabe, ermöglicht Regeneration und flexible Lernrhythmen. Dauerverfügbarkeit erzeugt Beschleunigung, Unterbrechungen und Entgrenzung. Strukturell sind beide Seiten gekoppelt. Verfügbarkeit ermöglicht Anschluss; Anschluss erzeugt Erwartungsdruck und verschiebt Zeitkonflikte in das Subjekt.
 
-   Zeitdesign meint hier nicht mehr Angebote, sondern klarere Regeln wie Antwortfenster, Benachrichtigungslogik und explizit gesetzte Grenzen. Flexibilität und Entgrenzungsschutz schließen sich nicht aus. In Kap. 5 erscheint Flexibilität über orts‑ und zeitunabhängige Nutzung als zentrales Nutzenargument in den Akzeptanzbedingungen (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
+   Zeitdesign meint hier nicht mehr Angebote, sondern klarere Regeln wie Antwortfenster, Benachrichtigungslogik und explizit gesetzte Grenzen. Flexibilität und Entgrenzungsschutz schließen sich nicht aus. In \hyperref[sec:Ergebnisse]{Kapitel 5} erscheint Flexibilität über orts‑ und zeitunabhängige Nutzung als zentrales Nutzenargument in den Akzeptanzbedingungen (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}).
 
 7. **Interaktion/Kollaboration:** Kollaboration erzeugt soziale Rückkopplung, geteiltes Wissen und gemeinsame Standards. Interaktionszwang und Koordinationslast erzeugen Reibung, Konflikte und Exklusionsrisiken. Die Interdependenz liegt darin, dass Kooperation Interaktionsangebote braucht; zugleich erzeugen diese Angebote Koordinationskosten und verteilte Belastungen.
 
-   Klare Kooperationsskripts, Rollen und erwartbare Artefakte sind hier tragfähiger als diffuse Interaktionsgebote. Interaktionspflichten sollten sparsam eingesetzt werden, damit Koordinationslast kalkulierbar bleibt. In Kap. 5 werden Interaktion und Kollaboration als wiederkehrende Bedingungen für Effekte auf Lernende rekonstruiert (\hyperref[sec:Ergebnisse-FU2a]{Abschnitt 5.3.5}).
+   Klare Kooperationsskripts, Rollen und erwartbare Artefakte sind hier tragfähiger als diffuse Interaktionsgebote. Interaktionspflichten sollten sparsam eingesetzt werden, damit Koordinationslast kalkulierbar bleibt. In \hyperref[sec:Ergebnisse]{Kapitel 5} werden Interaktion und Kollaboration als wiederkehrende Bedingungen für Effekte auf Lernende rekonstruiert (\hyperref[sec:Ergebnisse-FU2a]{Abschnitt 5.3.5}).
 
 8. **Salienz vs. Funktion (Aufmerksamkeitsarchitektur):** Saliente Signale führen Blick und Handlung, reduzieren Suchaufwand und machen Affordanzen sichtbar. Über‑Salienz und „Nudge“-Übersteuerung erzeugen Ablenkung, Reaktanz und Kurzschlusshandlungen. Funktion wird erst nutzbar durch Salienz; Salienz konkurriert mit tiefer Verarbeitung und kann Funktion verdrängen.
 
@@ -70,7 +70,7 @@ Die Leitsätze bündeln wiederkehrende Wirkdimensionen, die in \hyperref[sec:The
 
 12. **Vertrauensbildung/Beobachtbarkeit:** Verlässliche Regeln (Datenschutz, Rollen, Zuständigkeiten) erzeugen Vertrauen und Teilnahmebereitschaft. Misstrauen und Erfahrungen von Kontrolle führen zu Rückzug, Schattenpraktiken und Informationsverknappung. Vertrauen braucht Verlässlichkeit, und Verlässlichkeit braucht ein Maß an Beobachtbarkeit. Beobachtbarkeit kann jedoch als Kontrolle gelesen werden und genau das Vertrauen untergraben, das sie stützen soll.
 
-  Beobachtbarkeit bleibt dort legitim, wo sie auf Lernunterstützung begrenzt wird, über Zweckbindung, Datenminimierung und klar geführte Rollenrechte. Governance muss so gestaltet sein, dass Teilnehmende Kontrolle über Sichtbarkeit und Datenspuren behalten. In Kap. 5 werden Kultur‑ und Ethikrahmungen als Bedingungen benannt, die bestimmen, ob Rückkopplung und Kollaboration als legitim, sicher und praktikabel gelten (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
+  Beobachtbarkeit bleibt dort legitim, wo sie auf Lernunterstützung begrenzt wird, über Zweckbindung, Datenminimierung und klar geführte Rollenrechte. Governance muss so gestaltet sein, dass Teilnehmende Kontrolle über Sichtbarkeit und Datenspuren behalten. In \hyperref[sec:Ergebnisse]{Kapitel 5} werden Kultur‑ und Ethikrahmungen als Bedingungen benannt, die bestimmen, ob Rückkopplung und Kollaboration als legitim, sicher und praktikabel gelten (\hyperref[sec:Ergebnisse-FU4a]{Abschnitt 5.3.2}).
 
 Gemeinsam zeigen die Leitsätze, dass dieselben Strukturen, die Orientierung, Entlastung und Handlungsfähigkeit ermöglichen, stets auch Kontroll-, Überlastungs- oder Entkopplungsrisiken mitführen. Die Gestaltungsimpulse lösen diese Spannung nicht auf; sie halten sie bearbeitbar.
 

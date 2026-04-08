@@ -2,7 +2,7 @@
 
 ## Prompt zur LMS-Umfrageauswertung {#sec:A-10}
 
-Diese Vorlage dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der LMS‑Umfrage (Selbstauskünfte). Sie folgt dem methodischen Paradigma der Arbeit (Kapitel 4.1–4.3) und operationalisiert die itemweise Auswertung gemäß Abschnitt \hyperref[sec:Umfrage-LMS]{4.2.5}.
+Diese Vorlage dient der reproduzierbaren, theorie- und forschungsfragengeleiteten Auswertung der LMS‑Umfrage (Selbstauskünfte). Sie folgt dem methodischen Paradigma der Arbeit (\hyperref[sec:Forschungsparadigma]{Kapitel 4.1} bis \hyperref[sec:Datenanalyse]{Kapitel 4.3}) und operationalisiert die itemweise Auswertung gemäß \hyperref[sec:Umfrage-LMS]{Abschnitt 4.2.5}.
 
 Eingabe (pro Auswertungsfall)
 
