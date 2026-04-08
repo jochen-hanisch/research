@@ -78,9 +78,7 @@ Gemeinsam zeigen die Leitsätze, dass dieselben Strukturen, die Orientierung, En
 
 ### 7.2.1 Fazitformel: Was das Wirkgefüge des digitalen Bildungsraums ist {#sec:Conclusio-Wirkgefuege-Definition}
 
-Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Im Material kehrt diese Kopplungslogik wiederholt zurück. Kapitel \hyperref[sec:Ergebnisse]{5} macht sie sichtbar; \hyperref[sec:Diskussion-Interdependenz]{Abschnitt 6.3.1} präzisiert sie als Interdependenzstruktur.
-
-Die Verdichtung antwortet direkt auf die Forschungsfrage (\hyperref[sec:Einleitung]{Kapitel 1}). Der Forschungsgegenstand zeigt sich als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
+Im Ergebnis dieser Arbeit lässt sich der digitale Bildungsraum als operative Ordnung fassen, in der Wirkungen aus Koppelungen zwischen didaktischer Strukturierung, technischer Architektur und sozial-organisationaler Praxis entstehen. Wahrnehmung und Orientierung, Handlung und Rückkopplung, Steuerung und Rahmung greifen dabei ineinander. Der Forschungsgegenstand zeigt sich so als Wirkgefüge, dessen Stabilität und Störanfälligkeit an die Koppelung von Sichtbarkeit, Struktur, Rückkopplung, Steuerung und Rahmung gebunden ist.
 
 ### 7.2.2 Wie diese Verdichtung in der Arbeit hergeleitet wird {#sec:Conclusio-Wirkgefuege-Herleitung}
 
@@ -108,7 +106,7 @@ Diese drei Ergebnissebenen bilden gemeinsam die Grundlage dafür, das Wirkgefüg
 
 FU$_{1}$ zeigt Akzeptanz als gekoppeltes Urteil. Nutzbarkeit, Verlässlichkeit, Zugriff und wahrgenommene Passung entscheiden darüber, ob Angebote als anschlussfähig erlebt werden (\hyperref[sec:Ergebnisse-FU1]{Abschnitt 5.3.4}). FU$_{2a}$ rekonstruiert Effekte auf Lernende als abhängig von didaktischer Strukturierung, Feedbackpraxis, Interaktionsformaten und der Einbettung in konkrete Lernprozesse (\hyperref[sec:Ergebnisse-FU2a]{Abschnitt 5.3.5}). FU$_{4b}$ ergänzt die Wirkungsperspektive um beobachtbare Orientierungs‑ und Handlungsmechanismen. Sichtbarkeit, Salienz, Blickführung und Handlungsauslösung koppeln Interface‑Gestaltung an Nutzungsvollzug; Überkomplexität oder unklare Affordanzen verschieben den Vollzug in orientierungsdominante Suchmuster und schwächen damit Handlungsklarheit (\hyperref[sec:Ergebnisse-FU4b]{Abschnitt 5.3.6}).
 
-Hier wird das Wirkgefüge an einem zentralen Punkt empirisch greifbar. Wirkungsannahmen aus dem Literaturkorpus spiegeln sich in Blick‑ und Handlungsspuren und verdichten sich über Umfrageindikatoren zu Akteur\*innenurteilen [@hanisch-johannsen_wirkgefuge_2025-2; @hanisch-johannsen_wirkgefuge_2025] (\hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9} sowie \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
+An diesem Punkt wird das Wirkgefüge auch empirisch anschlussfähig. Wirkungsannahmen aus dem Literaturkorpus spiegeln sich in Blick‑ und Handlungsspuren und verdichten sich über Umfrageindikatoren zu Akteur\*innenurteilen [@hanisch-johannsen_wirkgefuge_2025-2; @hanisch-johannsen_wirkgefuge_2025] (\hyperref[sec:EyeTracking-Umfrage-Vergleich]{Abschnitt 4.3.9} sowie \hyperref[sec:Ergebnisse-Arbeitshypothesen]{Abschnitt 5.4.1}).
 
 **(c) Kompetenzorientierung: LMS als Kompetenzerwerbssystem**
 

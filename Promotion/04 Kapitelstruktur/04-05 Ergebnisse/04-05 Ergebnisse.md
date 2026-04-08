@@ -148,7 +148,7 @@ Schließlich treten formalisierte Modellstrategien und Stabilisierungskonzepte a
 
 ## 5.4 Zusammenfassung der Ergebnisse {#sec:Ergebnisse-Zusammenfassung}
 
-Diese Ergebnisbündelung fungiert als direkte Brücke in die interdependente Diskussion (\hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1}) und liefert die empirische Grundlage für die thesenhafte Schlussverdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
+Diese Ergebnisbündelung führt in die interdependente Diskussion (\hyperref[sec:Diskussion-Interdependenz]{Kapitel 6.3.1}) und bildet die empirische Grundlage für die thesenhafte Schlussverdichtung in \hyperref[sec:Conclusio-Manifest]{Kapitel 7}.
 
 Die stärksten Ergebnislinien lassen sich wie folgt fassen:
 

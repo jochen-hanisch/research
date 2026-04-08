@@ -49,8 +49,6 @@ header-includes:
   - \usepackage{pdflscape}
   - \usepackage{imakeidx}
   - \makeindex
-  - \usepackage{glossaries}
-  - \makeglossaries
   - \usepackage{tikz}
   - \usetikzlibrary{positioning}
   - \usetikzlibrary{positioning}
