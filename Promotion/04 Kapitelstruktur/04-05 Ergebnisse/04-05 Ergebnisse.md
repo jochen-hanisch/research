@@ -2,9 +2,9 @@
 
 # 5 Ergebnisse {#sec:Ergebnisse}
 
-Kapitel 5 bündelt die empirischen und modellbasierten Befunde entlang der im Material rekonstruierbaren Muster, Mechanismen und Grenzen. Die Darstellung folgt den Kernbereichen der Untersuchung und bindet die Ergebnisse an die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rekonstruierte Architektur des Learning Management Systems zurück. Ihre weitergehende Einordnung folgt in Kapitel \hyperref[sec:Diskussion]{6}.
+Die empirischen und modellbasierten Befunde werden in diesem Kapitel entlang der im Material rekonstruierbaren Muster, Mechanismen und Grenzen gebündelt. Die Darstellung folgt den Kernbereichen der Untersuchung und führt die Ergebnisse an die in \hyperref[sec:Theorieteil]{Kapitel 2} entwickelten Theorieannahmen sowie an die in \hyperref[sec:Forschungsgegenstand]{Kapitel 3} rekonstruierte Architektur des Learning Management Systems heran. Ihre weitergehende Einordnung folgt in Kapitel \hyperref[sec:Diskussion]{6}.
 
-Abschnitt~\hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt Überblick und Einordnung. Abschnitt~\hyperref[sec:Ergebnisse-Verteilung]{5.2} beschreibt Verteilung der Analysen nach Kernbereichen. Abschnitt~\hyperref[sec:Ergebnisse-Forschungsfragen]{5.3} beantwortet Forschungsunterfragen.
+Abschnitt~\hyperref[sec:Ergebnisse-Ueberblick]{5.1} gibt einen Überblick und ordnet die Befunde ein. Abschnitt~\hyperref[sec:Ergebnisse-Verteilung]{5.2} beschreibt ihre Verteilung nach Kernbereichen. Abschnitt~\hyperref[sec:Ergebnisse-Forschungsfragen]{5.3} beantwortet die Forschungsunterfragen.
 
 ## 5.1 Überblick und Einordnung {#sec:Ergebnisse-Ueberblick}
 
