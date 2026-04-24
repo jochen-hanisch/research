@@ -5,7 +5,7 @@ Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
 Publication: 
 created: 2025-03-31
-updated: 2025-04-08
+updated: 2026-04-24
 publish: true
 published: 2025-04-08
 tags:
@@ -27,7 +27,7 @@ tags:
   - "#Zeitstruktur"
 ---
 
-created: 31.03.2025 | [updated](https://github.com/jochen-hanisch/research): 08.04.2025 | [published](): 08.04.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 31.03.2025 | [updated](https://github.com/jochen-hanisch/research): 24.04.2026 | [published](): 08.04.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Systemische Wahrscheinlichkeiten als theoretische komplex-dynamische Modulation**
 
@@ -136,6 +136,8 @@ $$
 Dabei bezeichnet $P(0)$ den Anfangszustand, $t$ die Zeit, und der [[Interdependenzoperator]] $H$ die Kopplungsstruktur des Systems. Formal handelt es sich um eine unitäre Operatorfamilie $\{U(t)\}_{t \in \mathbb{R}}$, welche die Zeitentwicklung reversibel und normerhaltend beschreibt. Übertragen auf [[Wirkungswahrscheinlichkeit]] bedeutet dies. Die Gesamtwahrscheinlichkeit bleibt erhalten, auch wenn sich deren reelle und imaginäre Anteile im Verlauf verändern.
 
 Die Gleichungen (3) und (4) sind miteinander kombinierbar. Die erste beschreibt die systemische Struktur zu einem Zeitpunkt $t$, die zweite modelliert die Entwicklung des Wahrscheinlichkeitsraumes über die Zeit. Gemeinsam bilden sie die mathematische Grundlage der Theorie der systemischen Wahrscheinlichkeit und ermöglichen eine quantitative Beschreibung rekursiver Systeme mit Rückkopplungsdynamik.
+
+An dieser Stelle wird sichtbar, wo Simon das Modell stützt und wo die Theorie über Simon hinausgeht. Simon liefert die architektonische Voraussetzung: Komplexität wird beschreibbar, wenn sie nicht als unauflösbare Ganzheit, sondern als Ordnung aus gekoppelten Teilsystemen verstanden wird (Simon, 1962). Die Systemische Wahrscheinlichkeitstheorie erweitert diesen Gedanken, indem sie die Kopplungsarchitektur nicht nur beschreibt, sondern in eine zeitabhängige Transformationsform überführt. Der Interdependenzoperator $H$ übernimmt dabei die Rolle, die bei Simon noch vor allem theoretisch gefasst ist: Er macht die interne Kopplungsstruktur als Generator der Wahrscheinlichkeitsdynamik modellierbar.
 
 ## 2.4 Systemtheoretische Verortung
 
