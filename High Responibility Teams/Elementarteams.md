@@ -44,6 +44,8 @@ created: 21.01.2025 | [updated](https://github.com/jochen-hanisch/research): 21.
 
 In einer zunehmend dynamischen und komplexen Welt stehen Teams vor der Herausforderung, sich flexibel an veränderte Bedingungen anzupassen und gleichzeitig effektive Entscheidungen zu treffen. Besonders in High Responsibility Teams (HRTs), wie sie im Rettungsdienst, der Notfallmedizin oder im Krisenmanagement zu finden sind, erfordert dies innovative Ansätze, die sowohl Resilienz als auch Anpassungsfähigkeit fördern. Elementarteams, die auf den Prinzipien von Feedback, Reflexion und Re-entry basieren, bieten eine vielversprechende Lösung, um diesen Anforderungen gerecht zu werden.
 
+Mit Simon lässt sich diese Herausforderung als Architekturproblem komplexer Organisationen lesen. Komplexe Systeme bleiben nicht dadurch handlungsfähig, dass alle Elemente gleichermaßen mit allen anderen verbunden sind, sondern dadurch, dass relativ stabile Teilsysteme entstehen, die intern eng gekoppelt und nach außen anschlussfähig bleiben (Simon, 1962). Elementarteams können vor diesem Hintergrund als solche operativen Teilsysteme verstanden werden: Sie reduzieren Komplexität, ohne die Verbindung zum Gesamtsystem zu verlieren.
+
 Das Erkenntnisinteresse dieser Arbeit liegt darin, zu untersuchen, wie die Prinzipien von Elementarteams dazu beitragen können, Teamdynamik und Entscheidungsprozesse in kritischen Kontexten zu optimieren. Die theoretische Grundlage bildet dabei Luhmanns Systemtheorie (1984), ergänzt durch Ansätze aus der Entscheidungsökonomie (Sutton & Barto, 2018) und dem Konzept der Antifragilität (Taleb, 2012). Diese theoretischen Perspektiven werden genutzt, um die Funktionsweise von Elementarteams zu analysieren und ihr Potenzial für die Praxis zu bewerten.
 
 Im weiteren Verlauf der Arbeit wird zunächst eine Definition von Elementarteams entwickelt, bevor ihre theoretische Herleitung aus verschiedenen Perspektiven erfolgt. Darauf aufbauend werden ihre Stärken, Schwächen, Chancen und Risiken systematisch analysiert und in einer SWOT-Analyse dargestellt. Abschließend werden die Implikationen für Theorie und Praxis sowie die zentralen Erkenntnisse zusammengefasst.
@@ -527,6 +529,7 @@ Insgesamt eröffnen Elementarteams neue Perspektiven für Theorie und Praxis. Si
 - Dehnbostel, P. (2020). **Lernortkooperation und Berufsbildung: Herausforderungen und Perspektiven.** Bielefeld: W. Bertelsmann Verlag.
 - Hanisch, J. (2023). _Agiles Lernen zur Kompetenzentwicklung für High Responsibility Teams. Wie agiles Lernen die Ausbildung im Rettungsdienst optimieren kann_. GRIN Publishing GmbH. [https://www.grin.com/document/1387989](https://www.grin.com/document/1387989)
 - Luhmann, N. (1984). **Soziale Systeme: Grundriss einer allgemeinen Theorie.** Frankfurt am Main: Suhrkamp.
+- Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society, 106*(6), 467–482.
 - Sutton, R. S., & Barto, A. G. (2018). **Reinforcement Learning: An Introduction.** Cambridge, MA: MIT Press.
 - Taleb, N. N. (2012). **Antifragile: Things That Gain from Disorder.** New York: Random House.
 
