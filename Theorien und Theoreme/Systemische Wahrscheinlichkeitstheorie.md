@@ -55,6 +55,8 @@ Die Idee ist, eine theoretische Grundlage zu schaffen, die sowohl formal präzis
 
 Die Systemische Wahrscheinlichkeitstheorie ist ein Modell zur Beschreibung komplexer Wirkzusammenhänge in dynamischen, rückgekoppelten Systemen. Sie wurde entwickelt, um insbesondere in lebenden, psychischen und sozialen Systemen die Entstehung, Verteilung und Wirkung von Ereignissen nicht nur linear-kausal, sondern rekursiv und interdependent zu erfassen.
 
+An dieser Stelle hilft Simon, den Begriff der Komplexität zu erden. Komplexe Systeme bestehen nicht einfach aus vielen Elementen, sondern aus vielen Elementen, deren Wechselwirkungen nur unter Berücksichtigung ihrer Architektur verständlich werden (Simon, 1962). Für die Systemische Wahrscheinlichkeitstheorie heißt das: Wahrscheinlichkeiten beziehen sich nicht nur auf Ereignisse, sondern auf Ereignisse innerhalb einer strukturierten Kopplungsordnung.
+
 Im Zentrum der Theorie steht die Annahme, dass Wirkung nicht ausschließlich über klassische, reelle Wahrscheinlichkeiten beschreibbar ist. Stattdessen wird Wirkung als komplexe Wahrscheinlichkeit verstanden, die sowohl einen realen als auch einen systemisch wirksamen, imaginären Anteil enthält. Dieser imaginäre Anteil beschreibt nicht messbare, aber wirkmächtige Rückkopplungsprozesse, Unschärfen, Reflexionsdynamiken oder Sinnbildungsmechanismen.
 
 Die Theorie geht davon aus, dass Systeme nicht bloß Zustände einnehmen, sondern in der Zeit fortlaufend auf eigene Zustände rückwirken. Diese Rückwirkung – im Sinne von Re-entry oder rekursiver Selbstbezüglichkeit – erzeugt systemtypische Dynamiken, die in klassischen probabilistischen Modellen nicht abbildbar sind. Die systemische Wahrscheinlichkeit integriert diese Dynamiken in ein kohärentes Modell.
@@ -508,6 +510,7 @@ Die Systemische Wahrscheinlichkeitstheorie stellt damit ein systemisch fundierte
 - OpenAI, & Hanisch, J. (2025, März 31). *Systemische Wahrscheinlichkeitstheorie* [GPT-4o]. 
 - Reed, M., & Simon, B. (1975). *Methods of Modern Mathematical Physics. Vol. 2. Fourier Analysis, Self-Adjointness*. Academic Press.
 - Sakurai, J. J., & Napolitano, J. (2017). *Modern Quantum Mechanics* (2nd ed.). Cambridge University Press.
+- Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society, 106*(6), 467–482.
 - Stein, E. M., & Shakarchi, R. (2003). *Complex Analysis*. Princeton University Press.
 - Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind. Cognitive Science and Human Experience*. MIT Press.
 

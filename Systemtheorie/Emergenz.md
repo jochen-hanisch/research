@@ -39,6 +39,8 @@ Emergenz ist ein zentraler Begriff in der Systemtheorie, der die Entstehung qual
 
 Emergenz bezeichnet die Operation, bei der in einem System durch die dynamische Interaktion seiner Komponenten qualitativ neue Eigenschaften, Strukturen oder Verhaltensweisen entstehen, die nicht vollständig auf die Einzelteile reduzierbar sind. Diese neuen Eigenschaften können durch mathematische Modelle beschrieben und analysiert werden, die die systemischen Bedingungen und Schwellenwerte identifizieren, unter denen Emergenz auftritt. Sie ist charakteristisch für hierarchisch organisierte, dynamische und offene [[Systeme]] und spiegelt die Fähigkeit dieser [[Systeme]] wider, komplexe Ganzheiten zu bilden.
 
+In dieser Fassung wird Emergenz bewusst nicht metaphysisch überhöht. Anschlussfähig ist hier Simons pragmatische Deutung komplexer Systeme: Das Ganze ist nicht deshalb „mehr“, weil es sich grundsätzlich jeder Analyse entzieht, sondern weil die Eigenschaften des Ganzen aus den Eigenschaften der Teile und ihrer Interaktionen nicht trivial ableitbar sind (Simon, 1962). Emergenz bezeichnet damit die beobachtbare Schwelle, an der Organisation, Interaktion und Systemebene eine neue Beschreibungsqualität erzeugen.
+
 1. Begriffseinordnung
 - **„Emergenz bezeichnet die Operation“**:
     - Einführung des Begriffs als **prozessuale Dynamik**, die auf das Entstehen neuer Eigenschaften hinweist.
@@ -178,6 +180,7 @@ Emergenz beschreibt die Entstehung neuer Eigenschaften durch die Interaktion von
 - Piaget, J. (1950). *The Psychology of Intelligence*. London: Routledge.
 - Rumelhart, D. E., & McClelland, J. L. (1986). *Parallel Distributed Processing: Explorations in the Microstructure of Cognition*. Cambridge: MIT Press.
 - Scheffer, M., Carpenter, S., Foley, J. A., Folke, C., & Walker, B. (2001). Catastrophic shifts in ecosystems. *Nature, 413*(6856), 591–596.
+- Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society, 106*(6), 467–482.
 - Stanley, H. E. (1971). *Introduction to Phase Transitions and Critical Phenomena*. Oxford University Press.
 - Sumpter, D. J. T. (2006). The principles of collective animal behavior. *Philosophical Transactions of the Royal Society B: Biological Sciences, 361*(1465), 5-22.
 - von Bertalanffy, L. (1968). *General System Theory: Foundations, Development, Applications*. New York: George Braziller.
