@@ -5,7 +5,7 @@ Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
 Publication:
 created: 2025-01-26
-updated: 2025-01-26
+updated: 2026-04-24
 publish: true
 published: 2025-01-26
 status:
@@ -27,7 +27,7 @@ tags:
   - Schwarmintelligenz
 ---
 
-created: 26.01.2025 | [updated](https://github.com/jochen-hanisch/research): 26.01.2025 | [published](): 26.01.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 26.01.2025 | [updated](https://github.com/jochen-hanisch/research): 24.04.2026 | [published](): 26.01.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Emergenz: Definition und Herleitung auf systemtheoretischer Grundlage Ludwig von Bertalanffy**
 

@@ -5,7 +5,7 @@ Repository: https://github.com/jochen-hanisch/research
 Discussion: https://github.com/jochen-hanisch/research/discussions
 Publication: https://zenodo.org/records/15857049
 created: 2025-01-21
-updated: 2025-01-21
+updated: 2026-04-24
 publish: true
 published: 2025-07-10
 status:
@@ -36,7 +36,7 @@ tags:
   - Wirkungswahrscheinlichkeit
 ---
 
-created: 21.01.2025 | [updated](https://github.com/jochen-hanisch/research): 21.01.2025 | [published](https://zenodo.org/records/15857049): 10.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
+created: 21.01.2025 | [updated](https://github.com/jochen-hanisch/research): 24.04.2026 | [published](https://zenodo.org/records/15857049): 10.07.2025 | [Austausch](https://github.com/jochen-hanisch/research/discussions) | [[Hinweise]]
 
 **Elementarteams: Eine systemtheoretische Grundlagensynthese im Kontext von High-Responsibility-Teams unter Einbezug iterativer Kommunikationsprinzipien**
 
@@ -195,6 +195,8 @@ Diese Beispiele zeigen, wie Elementarteams in verschiedenen Kontexten erfolgreic
 ## 2.7 Mathematische Modulation
 
 Die mathematische Modulation von Elementarteams basiert auf der Modellierung der dynamischen Prozesse von Feedback, Reflexion und Re-entry. Diese Prozesse können durch Wahrscheinlichkeitsmodelle beschrieben werden, insbesondere durch Konzepte wie Markov-Entscheidungsprozesse und die [[Wirkungswahrscheinlichkeit]]. Die mathematische Herleitung ermöglicht es, die Entscheidungen und Iterationen in Elementarteams systematisch zu analysieren und zu optimieren.
+
+Simon stützt diese Modellierung, weil Elementarteams als relativ stabile operative Teilsysteme verstanden werden können, die innerhalb einer größeren Organisation Komplexität reduzieren, ohne sich vollständig vom Gesamtsystem zu lösen (Simon, 1962). Das Modell der Elementarteams erweitert diesen architektonischen Gedanken in Richtung Entscheidungspraxis: Aus Teilsystemen werden Zustände, Aktionen, Übergänge und Bewertungen. Damit wird nicht nur beschrieben, dass ein Team als Teilsystem handlungsfähig bleibt, sondern auch, wie seine Handlungsfähigkeit durch Rückkopplung, Reflexion und Re-entry rechnerisch optimiert werden kann.
 
 ### 2.7.1 Übergangswahrscheinlichkeiten und Zustände
 
