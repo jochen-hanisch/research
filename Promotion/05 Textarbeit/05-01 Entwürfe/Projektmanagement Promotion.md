@@ -21,7 +21,7 @@ extern
 
 ### Offene Abgabeschritte
 
-- Finalen PDF-Build erneut ausführen und protokollieren. Der letzte geprüfte Build lief erfolgreich; der spätere Build nach den letzten zwei Sicherungssätzen blieb in Pandoc hängen und muss wiederholt werden.
+- Finalen PDF-Build erneut ausführen und protokollieren. Stand 03.05.2026, 21:17 Uhr: `dissertation-fast.pdf` wurde erfolgreich mit 334 Seiten erzeugt. Das Build-Skript wurde auf non-interaktiven LaTeX-Lauf mit Build-Log umgestellt.
 - PDF-Lektüre in einem ruhigen Durchgang durchführen: sichtbare Holperstellen, Seitenumbrüche, Tabellen, Abbildungen, Anhangsverweise, Literaturverweise und formale Restzeichen.
 - Anhang prüfen: Begriffsverzeichnis, Umfrageergebnisse, P-QIA-Ergebnisse, Eye-Tracking-Visualisierungen, Software/Quellcode und Prompt-Anhänge auf Vollständigkeit und versehentliche personenbezogene oder institutionelle Restspuren.
 - Zahlen/Daten/Fakten prüfen: Aufgabenanzahlen, Umfrageskalen, Rückläufe, TEI-/Umfragebezüge und Moodle-bezogene Aussagen gegen die dokumentierten Datenstände.

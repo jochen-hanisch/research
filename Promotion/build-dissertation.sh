@@ -25,6 +25,12 @@ case "${1:-$DEFAULT_MODE}" in
 esac
 
 echo "Build-Modus: $MODE"
+OUTFILE="dissertation-${MODE}.pdf"
+LOGDIR=".build-${MODE}"
+LOGFILE="${LOGDIR}/build-dissertation.log"
+mkdir -p "$LOGDIR"
+rm -f "$LOGFILE"
+echo "Build-Log: $(pwd)/$LOGFILE"
 
 # Dateiliste definieren
 FILES=(
@@ -89,14 +95,21 @@ spinner() {
 pandoc "${FILES[@]}" \
   --filter pandoc-crossref \
   --lua-filter tools/pandoc/ensure-figsubcaption.lua \
-  -o "dissertation-${MODE}.pdf" \
+  -o "$OUTFILE" \
   --pdf-engine=latexmk \
   --pdf-engine-opt=-pdf \
   --pdf-engine-opt=-xelatex \
-  --citeproc &
+  --pdf-engine-opt=-interaction=nonstopmode \
+  --pdf-engine-opt=-halt-on-error \
+  --pdf-engine-opt=-file-line-error \
+  --citeproc >"$LOGFILE" 2>&1 &
 
 pandoc_pid=$!
 spinner "$pandoc_pid"
-wait "$pandoc_pid"
+if ! wait "$pandoc_pid"; then
+  echo "Build fehlgeschlagen. Letzte Logzeilen aus $LOGFILE:" >&2
+  tail -120 "$LOGFILE" >&2
+  exit 1
+fi
 
-echo "Fertig: $(pwd)/dissertation-${MODE}.pdf"
+echo "Fertig: $(pwd)/$OUTFILE"
