@@ -10,7 +10,6 @@ table-placement: [htbp]
 header-includes:
   - \usepackage{fontspec}
   - \usepackage{newunicodechar}
-  - \newunicodechar{�}{?}
   - \newunicodechar{→}{$\rightarrow$}
   - \newunicodechar{↔}{$\leftrightarrow$}
   - \usepackage{unicode-math}
@@ -126,70 +125,109 @@ header-includes:
 
 # Abkürzungsverzeichnis {#sec:abkuerzungsverzeichnis}
 
+Das Abkürzungsverzeichnis führt die im Text wiederkehrenden fachlichen, methodischen und technischen Kurzformen auf. Begriffe mit ausführlicherer kontextbezogener Bestimmung sind zusätzlich im \hyperref[sec:A-1]{Anhang „Verzeichnis zentraler Begriffe“} nachgewiesen.
+
 | Abkürzung       | Bedeutung                                                               |
 | --------------- | ----------------------------------------------------------------------- |
 | AOI             | Area of Interest                                                        |
+| API             | Application Programming Interface                                       |
+| APrV            | Ausbildungs- und Prüfungsverordnung; hier in der Regel NotSan-APrV      |
+| AVIVA           | Ankommen, Vorwissen aktivieren, Informieren, Verarbeiten, Auswerten     |
 | CES             | Collaborative Learning Ecosystem                                         |
+| CIPP            | Context, Input, Process, Product                                        |
 | CoP             | Community of Practice                                                    |
+| DPBL            | Digital Problem-Based Learning                                          |
 | ET              | Eye-Tracking                                                            |
 | E-Portfolio     | Digitales Portfolio                                                     |
+| EpiGesAusbSichV | Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen |
 | FU              | Forschungsunterfrage (FU1–FU7)                                          |
+| GPK             | General Pedagogical Knowledge                                           |
+| HRT             | High Responsibility Teams                                               |
+| IKT             | Informations- und Kommunikationstechnologie                             |
+| IT              | Informationstechnik                                                     |
 | KI              | Künstliche Intelligenz                                                  |
-| LLM             | Large-Language-Modell                                                   |
 | KH              | Kernhypothese                                                           |
+| LLM             | Large-Language-Modell                                                   |
 | LMS             | Learning-Management-System                                              |
 | LXP             | Learning Experience Platform                                            |
 | mdaCV           | Mehrdimensional-analytische Clustervalidierung                          |
+| ML              | Machine Learning                                                        |
 | MOOC            | Massive Open Online Course                                              |
-| HRT             | High Responsibility Teams                                               |
 | NH              | Nebenhypothese                                                          |
+| NLP             | Natural Language Processing                                             |
+| NRW             | Nordrhein-Westfalen                                                     |
 | NotSan-APrV     | Ausbildungs- und Prüfungsverordnung für Notfallsanitäter:innen          |
-| APrV            | Ausbildungs- und Prüfungsverordnung (Kurzform; hier i.d.R. NotSan-APrV) |
 | NotSanG         | Notfallsanitätergesetz                                                  |
 | NotSan / NFS    | Notfallsanitäter:in                                                     |
 | NFS-H           | Digitaler Bildungsraum „Notfallsanitäter:in – Handlungssituationen“     |
+| OER             | Open Educational Resources                                              |
+| OSCE            | Objective Structured Clinical Examination                               |
 | PE              | Persönliche Ereignisse                                                  |
 | PEE             | Persönlicher Erfolg extern                                              |
 | PFE             | Persönlicher Fehlschlag extern                                          |
+| PDF             | Portable Document Format                                                |
 | PFV             | Persönlicher Fortschritt variabel                                       |
 | PGV             | Persönliches Großerlebnis variabel                                      |
 | PLE             | Persönlicher Leistungseinbruch                                          |
-| PSE             | Persönlicher Stabilitätserfolg                                          |
-| EpiGesAusbSichV | Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen |
-| TEI             | Training Evaluation Inventory                                           |
 | P-QIA           | Probabilistisch-Qualitative Inhaltsanalyse                              |
+| PV              | Prädiktorvariable                                                       |
+| PSE             | Persönlicher Stabilitätserfolg                                          |
+| SAMR            | Substitution, Augmentation, Modification, Redefinition                  |
 | SC              | Silhouette-Score                                                        |
+| SDT             | Self-Determination Theory; Selbstbestimmungstheorie                     |
+| SRL             | Self-Regulated Learning                                                 |
+| SSRL            | Socially Shared Regulated Learning                                      |
+| SWOT            | Strengths, Weaknesses, Opportunities, Threats                           |
+| TAM             | Technology Acceptance Model                                             |
+| TEI             | Training Evaluation Inventory                                           |
+| TPACK           | Technological Pedagogical Content Knowledge                             |
+| TPK             | Technological Pedagogical Knowledge                                     |
+| UI              | User Interface                                                          |
+| UM1             | LMS-Umfrage, erste Umfrageauswertung                                    |
+| WCAG            | Web Content Accessibility Guidelines                                    |
 
-Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Verzeichnis zentraler Begriffe} im Anhang.
+Ausführliche Begriffsdefinitionen finden sich im \hyperref[sec:A-1]{Anhang „Verzeichnis zentraler Begriffe“}.
 
 \newpage
 
 # Symbolverzeichnis {#sec:symbolverzeichnis}
 
+Das Symbolverzeichnis bündelt die mathematischen Zeichen, die in der methodischen Modellierung und in der simulationsgestützten Verdichtung verwendet werden.
+
 | Symbol | Beschreibung |
 | --- | --- |
 | $\beta$ | Standardisierter Regressionskoeffizient. |
+| $C$ | Dynamischer Unsicherheitswert zur Kopplungsprüfung zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}). |
+| $C_j$ | Cluster $j$ im k-Means-Algorithmus. |
 | $\Delta$ | Effekt- bzw. Varianzanteil eines Modellfaktors. |
 | $\Delta E$ | Emotionale Unsicherheit innerhalb der Kompetenzentwicklung. |
 | $\Delta K$ | Kognitive Unsicherheit innerhalb der Kompetenzentwicklung. |
 | $\epsilon$ | Epistemische Verlustfunktion zur Bewertung der Integrität der mdaCV (Gl.~\eqref{eq:verlust}). |
 | $\iota$ | Bildungswirkindikator; Steigung des Bildungswirkfaktors. |
 | $k$ | Anzahl der Cluster im k-Means-Algorithmus. |
+| $\mu_j$ | Zentrum des Clusters $j$ im k-Means-Algorithmus. |
+| $n$ | Fall- oder Quellenzahl innerhalb der jeweiligen Auswertung. |
+| $n_{\text{Ist}}$ | Tatsächlich verarbeitete Quellenzahl in der epistemischen Verlustfunktion. |
+| $n_{\text{Soll}}$ | Intendierte Quellenzahl in der epistemischen Verlustfunktion. |
 | $\nu$ | Bildungswirkfaktor als aggregiertes Maß der Kompetenzwirkung. |
-| $C$ | Dynamischer Unsicherheitswert zur Kopplungsprüfung zwischen $\Delta E$ und $\Delta K$ (Gl.~\eqref{eq:bildungswirk_c}). |
+| $PV_{1a}\text{–}PV_3$ | Prädiktorvariablen der modellbezogenen Analyseebenen. |
 | $r$ | Korrelationskoeffizient (Pearson). |
+| $r(\Delta E, \Delta K)$ | Korrelationsstärke zwischen emotionaler und kognitiver Unsicherheit. |
 | $\sigma$ | Standardabweichung (hier: Streuung von $\Delta E$ bzw. $\Delta K$). |
 | $S$ | Silhouette-Score als Maß der Clusterdifferenzierung. |
 | $t$ | Zeitvariable der Dynamikmodelle. |
+| $x_i$ | Datenpunkt $i$ im k-Means-Algorithmus. |
 
 \newpage
 
 # Formelverzeichnis {#sec:formelverzeichnis}
 
+Das Formelverzeichnis verweist auf die zentralen Gleichungen der methodischen und simulationsgestützten Modellierung.
+
 | Gleichung | Beschreibung |
 | --- | --- |
-| \eqref{eq:verlust} | Epistemische Verlustfunktion zur Bewertung der Integrität der mehrdimensional-analytischen Clustervalidierung (mdaCV). |
 | \eqref{eq:kmeans} | Zielfunktion des k‑Means-Algorithmus zur Minimierung der quadrierten Abstände der Datenpunkte zu ihren jeweiligen Clusterzentren. |
+| \eqref{eq:verlust} | Epistemische Verlustfunktion zur Bewertung der Integrität der mehrdimensional-analytischen Clustervalidierung (mdaCV). |
 | \eqref{eq:bildungswirkfaktor} | Bildungswirkfaktor $\nu(t)$ als zeitabhängiges Aggregatmaß aus emotionaler und kognitiver Unsicherheit ($\Delta E(t)\cdot\Delta K(t)$). |
 | \eqref{eq:bildungswirkindikator} | Bildungswirkindikator $\iota(t)$ als zeitliche Änderungsrate des Bildungswirkfaktors ($d\nu(t)/dt$). |
 | \eqref{eq:bildungswirk_c} | Dynamischer Unsicherheitswert $C$ zur Kopplungsprüfung zwischen $\Delta E$ und $\Delta K$ (Korrelationsstärke und Streuung). |
@@ -204,7 +242,7 @@ Damit wird eine Grundlage für die Struktur und Verständlichkeit der Arbeit ges
 
 ## Hinweis zum Zitationsstil
 
-Der Zitationsstil dieser Arbeit basiert auf der 7. Ausgabe der @american_psychological_association_style_2024. Zur Verwaltung der Zitate wird die Software Zotero (Version 7.0.29) verwendet, alle Referenzen sind als BibLaTex-Zitierschlüssel angelegt und in der PDF-Fassung von Referenzen zu Text umgewandelt worden.
+Der Zitationsstil dieser Arbeit basiert auf der 7. Ausgabe der @american_psychological_association_style_2024. Zur Verwaltung der Zitate wird die Software Zotero (Version 7.0.29) verwendet, alle Referenzen sind als BibLaTeX-Zitierschlüssel angelegt und in der PDF-Fassung von Referenzen zu Text umgewandelt worden.
 
 Innerhalb der Zitationen werden diese Regeln angewendet:
 
@@ -259,7 +297,7 @@ Die kontextbezogene Einführung fördert eine Verknüpfung zwischen theoretische
 
 Das hier gewählte Verfahren ermöglicht eine kontextualisierte Begriffseinführung und vermeidet isolierte oder zu abstrakte Bestimmungen [@doring_forschungsmethoden_2023, Seite 227]. Durch die unmittelbare Einführung in die Argumentation erhalten Lesende eine Verbindung zwischen Begriff und Diskussionszusammenhang. Zusätzlich bleibt die Flexibilität des Aufbaus erhalten, da Begriffe erst dann eingeführt werden, wenn sie für die Argumentation von Bedeutung sind. 
 
-Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält (\hyperref[sec:A-1]{Abschnitt A.1}). Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
+Diese Vorgehensweise birgt gleichzeitig Herausforderungen. Lesende könnten einen höheren Orientierungsaufwand haben, da Begriffe an unterschiedlichen Stellen der Arbeit erscheinen und der Verzicht auf eine zentrale Zusammenführung der Begriffsbestimmungen die Übersichtlichkeit einschränken kann. Zudem besteht das Risiko, dass Begriffe in verschiedenen Kontexten mehrfach erläutert werden müssen, was zu Redundanzen führen kann. Zur Minderung dieser Herausforderungen wird ein Verzeichnis zentraler Begriffe eingefügt, das die zentrale Übersicht aller relevanten Begriffe mit den zugehörigen Seitenzahlen enthält (\hyperref[sec:A-1]{Anhang „Verzeichnis zentraler Begriffe“}). Dies ermöglicht es den Lesenden, Begriffsdefinitionen schnell und gezielt aufzufinden, wodurch der Orientierungsaufwand verringert und die Übersichtlichkeit gesteigert wird. Gleichzeitig bleibt die Vorteilhaftigkeit der kontextbasierten Einführung der Begriffe im Text erhalten.
 
 ## Hinweis zum Einsatz generativer Sprachmodelle (LLM) {#sec:hinweis-ki}
 

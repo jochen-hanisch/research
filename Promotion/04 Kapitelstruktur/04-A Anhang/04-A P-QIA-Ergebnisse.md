@@ -2,7 +2,7 @@
 
 ## P‑QIA-Metaanalysen {#sec:A-9}
 
-Dieser Anhang bündelt die Ergebnisse der Analysen dritter Ordnung, die mittels probabilistisch-qualitativer Inhaltsanalyse (P‑QIA) aus den Primäranalysen (Analysen erster Ordnung) abgeleitet wurden. Die methodische Herleitung ist in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschrieben, der zugrunde liegende Prompt in \hyperref[sec:A-3]{Anhang A.3}.
+Dieser Anhang bündelt die Ergebnisse der Analysen dritter Ordnung, die mittels probabilistisch-qualitativer Inhaltsanalyse (P‑QIA) aus den Primäranalysen (Analysen erster Ordnung) abgeleitet wurden. Die methodische Herleitung ist in Abschnitt \hyperref[sec:Datenanalyse]{4.3} beschrieben, der zugrunde liegende Prompt in \hyperref[sec:A-3]{Anhang „Prompt zur probabilistisch-qualitativen Inhaltsanalyse“}.
 
 Für jede Forschungsunterfrage (FU1–FU7) werden die P‑QIA-basierten Metaanalysen knapp dokumentiert. Detaillierte inhaltliche Auswertungen fließen in das Ergebniskapitel ein; dieser Anhang dient der transparenten Nachvollziehbarkeit der FU-spezifischen Kategorien, Cluster und Muster.
 
@@ -27,7 +27,7 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 - Datum/Version: 2025-12-15 (v2)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 8; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -148,7 +148,7 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -309,13 +309,13 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
 | Cluster | Kategorie | Segmente (n) | Beispielquellen |
 | ---: | --- | ---: | --- |
-| 0 | Monitoring, Lernsteuerung & Lehrkraftintervention | 80 | [@schulz_game_2024] [@rieser_gemeinsame_2025] |
+| 0 | Monitoring, Lernsteuerung & Lehrkraftintervention | 80 | [@schulz_game_2024-1] [@rieser_gemeinsame_2025] |
 | 9 | Lernanalytik/NLP für Teamkommunikation (CPS) | 32 | [@buseyne_assessing_2023] [@lyu_enhancing_2025] |
 | 4 | Digitale Kompetenzen & Fortbildungseffekte | 31 | [@runge_lehrkraftefortbildungen_2024] [@liverano_educational_2024] |
 | 11 | Lernmuster, Vorbereitung & Lernergebnisse | 31 | [@saiz_manzanares_how_2017] [@lyu_enhancing_2025] |
@@ -327,14 +327,14 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 | 13 | E‑Portfolios, Reflexion & Professionalisierung | 25 | [@gittinger_reflexion_2024] [@saiz_manzanares_how_2017] |
 | 6 | Technologische Herausforderungen & digitale Literacy | 20 | [@liverano_educational_2024] [@compagnoni_we_2024] |
 | 3 | DPBL/Online-Formate: Zufriedenheit, Umsetzung & Forschungsbedarf | 17 | [@tudor_car_digital_2019] [@bail_technostresserleben_2024] |
-| 5 | Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren | 15 | [@schulz_game_2024] [@rieser_gemeinsame_2025] |
+| 5 | Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren | 15 | [@schulz_game_2024-1] [@rieser_gemeinsame_2025] |
 | 8 | Technostress & Beanspruchung durch digitale Medien | 8 | [@bail_technostresserleben_2024] [@annemann_beanspruchung_2024] |
 
 **Codierschema (Tabelle)**
 
 | Kategorie | Definition | Kodierregel (kurz) | Ankerbeispiele |
 | --- | --- | --- | --- |
-| Monitoring, Lernsteuerung & Lehrkraftintervention | Aussagen zur gemeinsamen Steuerung von Lernprozessen (Planung/Monitoring/Evaluation) und zur Wirkung von Lehrkraftunterstützung in kooperativen Settings. | Kodieren, wenn Monitoring/Steuerung oder Lehrkraftintervention als Wirkbedingung beschrieben wird; nicht kodieren bei reinen Ergebnisangaben ohne Steuerungsbezug. | „Monitoring dominiert: 25,7 \% aller Äußerungen bezogen sich auf Monitoring, aber nur 3,5 \% auf Planung.“ [@schulz_game_2024]<br><br>„Intensivere Unterstützung des Monitorings durch die Lehrkraft wies einen negativen Zusammenhang mit dem Monitoring der Schüler*innen auf.“ [@rieser_gemeinsame_2025] |
+| Monitoring, Lernsteuerung & Lehrkraftintervention | Aussagen zur gemeinsamen Steuerung von Lernprozessen (Planung/Monitoring/Evaluation) und zur Wirkung von Lehrkraftunterstützung in kooperativen Settings. | Kodieren, wenn Monitoring/Steuerung oder Lehrkraftintervention als Wirkbedingung beschrieben wird; nicht kodieren bei reinen Ergebnisangaben ohne Steuerungsbezug. | „Monitoring dominiert: 25,7 \% aller Äußerungen bezogen sich auf Monitoring, aber nur 3,5 \% auf Planung.“ [@schulz_game_2024-1]<br><br>„Intensivere Unterstützung des Monitorings durch die Lehrkraft wies einen negativen Zusammenhang mit dem Monitoring der Schüler*innen auf.“ [@rieser_gemeinsame_2025] |
 | Lernanalytik/NLP für Teamkommunikation (CPS) | Aussagen zur Analyse und Messung von Teamkommunikation (z.B. CPS) mittels lernanalytischer, sprachverarbeitender oder multimodaler Verfahren. | Kodieren, wenn Mess-/Analyseverfahren der Teamkommunikation als Effektfaktor/Feedbackgrundlage beschrieben wird; nicht kodieren bei rein didaktischen Beschreibungen ohne Analysebezug. | „Die Studie untersucht die verbale Interaktion Erwachsener in einem computergestützten, kollaborativen Problemlösungsprozess (CPS).“ [@buseyne_assessing_2023]<br><br>„Preparation quality is a mediator between prior knowledge and group learning outcomes.“ [@lyu_enhancing_2025] |
 | Digitale Kompetenzen & Fortbildungseffekte | Aussagen, in denen digitale Kompetenzen (insb. Lehrende) und Fortbildungsteilnahme als Wirkfaktoren für Unterrichtsqualität oder Umsetzung digitaler Formate beschrieben werden. | Kodieren, wenn Kompetenz/Fortbildung als vermittelnder Faktor oder Voraussetzung der Wirksamkeit benannt wird; nicht kodieren bei allgemeinen Digitalisierungsappellen ohne Kompetenzbezug. | „Selbsteingeschätzte digitale Kompetenzen vermitteln die Zusammenhänge zwischen der Teilnahme an Fortbildungen und der Unterrichtsqualität.“ [@runge_lehrkraftefortbildungen_2024]<br><br>„Technologische Einschränkungen und mangelnde digitale Kompetenzen [können] die Umsetzung und Effektivität kollaborativer Schreibprojekte beeinträchtigen.“ [@liverano_educational_2024] |
 | Lernmuster, Vorbereitung & Lernergebnisse | Aussagen zu Lernmustern (Logdaten, Lernanalytik), Vorbereitung und deren Zusammenhang mit Lernergebnissen. | Kodieren, wenn Lernmuster/Preparation/Outcomes verknüpft werden; nicht kodieren bei reinen Zufriedenheitsurteilen ohne Muster-/Outcome-Bezug. | „Learning patterns in RB environments can predict student learning outcomes.“ [@saiz_manzanares_how_2017]<br><br>„Preparation quality is a mediator between prior knowledge and group learning outcomes.“ [@lyu_enhancing_2025] |
@@ -346,16 +346,16 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 | E‑Portfolios, Reflexion & Professionalisierung | Aussagen zu Portfolios/E‑Portfolios als Reflexions- und Professionalisierungsinstrument und deren Wirkung. | Kodieren, wenn Portfolios/Reflexion/Professionalisierung als Effektfaktor beschrieben wird; nicht kodieren bei reiner Tool-Nennung ohne Reflexions-/Prof.-Bezug. | „E-Portfolios [können] zur Professionalisierung und effektiven Ausbildung … beitragen.“ [@gittinger_reflexion_2024]<br><br>„Well-designed LMS mean that the development of process-oriented feedback is more structured for students, since they can consult the orientations of the teacher, both in real time and afterwards, at any time in the learning process.“ [@saiz_manzanares_how_2017] |
 | Technologische Herausforderungen & digitale Literacy | Aussagen zu Infrastrukturproblemen, digitaler Literacy und technischen Barrieren, die Nutzung und Wirksamkeit digitaler Lernformate begrenzen. | Kodieren, wenn technologische Einschränkungen als Hürde/Wirkbegrenzung beschrieben werden; nicht kodieren bei allgemeinen Digitalisierungsurteilen ohne Barrierenbezug. | „Technological constraints, such as poor internet connectivity and lack of digital literacy, can hinder the effectiveness of collaborative writing activities.“ [@liverano_educational_2024]<br><br>„Technologische Einschränkungen können die Nutzung und das Engagement der Teilnehmer beeinträchtigen.“ [@compagnoni_we_2024] |
 | DPBL/Online-Formate: Zufriedenheit, Umsetzung & Forschungsbedarf | Aussagen zu digitalen Problem-Based-Learning/Online-Formaten, inkl. Zufriedenheit/Attitudes, Implementationsfragen und Bedarf weiterer Forschung. | Kodieren, wenn DPBL/Online-Format als Wirkfaktor diskutiert wird (inkl. Grenzen/Forschungsbedarf); nicht kodieren bei reinen Outcome-Zahlen ohne Formatbezug. | „DPBL is as effective as traditional PBL and more effective than traditional learning in improving knowledge outcomes.“ [@tudor_car_digital_2019]<br><br>„Notwendigkeit weiterer empirischer Studien und Interventionsstudien, um Coping-Strategien zu entwickeln und umzusetzen.“ [@bail_technostresserleben_2024] |
-| Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren | Aussagen, die individuelle Lernvoraussetzungen (Vorwissen, Selbstkonzept) und Lehrhandeln als Determinanten von Lernsteuerung/Wirksamkeit beschreiben. | Kodieren, wenn Vorwissen/Selbstkonzept/Lehrerhandeln als Effektfaktor genannt wird; nicht kodieren bei rein beschreibenden Kontextangaben ohne Wirkbezug. | „Je höher die mittlere naturwissenschaftliche Kompetenz eines Tandems, desto höher der Anteil der Steuerungsäußerungen zur Aufgabenbearbeitung.“ [@schulz_game_2024]<br><br>„Untersucht wird die Qualität der Lernsteuerung in Verbindung mit Vorwissen, Selbstkonzept und Lehrerhandeln.“ [@rieser_gemeinsame_2025] |
+| Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren | Aussagen, die individuelle Lernvoraussetzungen (Vorwissen, Selbstkonzept) und Lehrhandeln als Determinanten von Lernsteuerung/Wirksamkeit beschreiben. | Kodieren, wenn Vorwissen/Selbstkonzept/Lehrerhandeln als Effektfaktor genannt wird; nicht kodieren bei rein beschreibenden Kontextangaben ohne Wirkbezug. | „Je höher die mittlere naturwissenschaftliche Kompetenz eines Tandems, desto höher der Anteil der Steuerungsäußerungen zur Aufgabenbearbeitung.“ [@schulz_game_2024-1]<br><br>„Untersucht wird die Qualität der Lernsteuerung in Verbindung mit Vorwissen, Selbstkonzept und Lehrerhandeln.“ [@rieser_gemeinsame_2025] |
 | Technostress & Beanspruchung durch digitale Medien | Aussagen zu Technostress/Beanspruchung durch digitale Medien, inkl. Überlastung/Unsicherheit und Folgen für Gesundheit/Arbeitszufriedenheit. | Kodieren, wenn technikbezogene Belastung/Beanspruchung als Effektfaktor/Negativfolge beschrieben wird; nicht kodieren bei neutralen Medienbeschreibungen ohne Belastungsbezug. | „The current study situation indicates a moderate level of technostress, with the highest levels recorded for the subcategories techno-overload and techno-uncertainty.“ [@bail_technostresserleben_2024]<br><br>„Die unzureichende schulische digitale Infrastruktur wird als häufigste Quelle negativer Beanspruchung identifiziert.“ [@annemann_beanspruchung_2024] |
 
 **Ausführlicher Fließtext (Synthese mit BibTeX-Ankern)**
 
 **Monitoring, Lernsteuerung & Lehrkraftintervention**
 
-FU2b verdichtet Effektfaktoren häufig als Balance zwischen Eigensteuerung der Lernenden und Unterstützung durch Lehrende: Monitoring dominiert gegenüber Planung; Lehrkraftintervention kann dabei sowohl förderlich (gezielte Evaluation) als auch hemmend (zu starke Monitoring-Unterstützung) wirken. [@schulz_game_2024] [@rieser_gemeinsame_2025]
+FU2b verdichtet Effektfaktoren häufig als Balance zwischen Eigensteuerung der Lernenden und Unterstützung durch Lehrende: Monitoring dominiert gegenüber Planung; Lehrkraftintervention kann dabei sowohl förderlich (gezielte Evaluation) als auch hemmend (zu starke Monitoring-Unterstützung) wirken. [@schulz_game_2024-1] [@rieser_gemeinsame_2025]
 
-> Monitoring dominiert: 25,7 \% aller Äußerungen bezogen sich auf Monitoring, aber nur 3,5 \% auf Planung. [@schulz_game_2024]
+> Monitoring dominiert: 25,7 \% aller Äußerungen bezogen sich auf Monitoring, aber nur 3,5 \% auf Planung. [@schulz_game_2024-1]
 >
 > Intensivere Unterstützung des Monitorings durch die Lehrkraft wies einen negativen Zusammenhang mit dem Monitoring der Schüler*innen auf. [@rieser_gemeinsame_2025]
 
@@ -449,9 +449,9 @@ FU2b verknüpft Effekte digitaler Formate auch mit Mixed-Outcomes und Implementa
 
  **Vorwissen, Selbstkonzept & Lehrhandeln als Effektfaktoren**
 
-Effekte werden als abhängig von Lernvoraussetzungen und Lehrhandeln beschrieben: Vorwissen verschiebt die Qualität gemeinsamer Steuerung, und Lehrkraftunterstützung wirkt nicht linear, sondern kontextspezifisch (z.B. Monitoring vs. Evaluation). [@schulz_game_2024] [@rieser_gemeinsame_2025]
+Effekte werden als abhängig von Lernvoraussetzungen und Lehrhandeln beschrieben: Vorwissen verschiebt die Qualität gemeinsamer Steuerung, und Lehrkraftunterstützung wirkt nicht linear, sondern kontextspezifisch (z.B. Monitoring vs. Evaluation). [@schulz_game_2024-1] [@rieser_gemeinsame_2025]
 
-> Je höher die mittlere naturwissenschaftliche Kompetenz eines Tandems, desto höher der Anteil der Steuerungsäußerungen zur Aufgabenbearbeitung. [@schulz_game_2024]
+> Je höher die mittlere naturwissenschaftliche Kompetenz eines Tandems, desto höher der Anteil der Steuerungsäußerungen zur Aufgabenbearbeitung. [@schulz_game_2024-1]
 >
 > Untersucht wird die Qualität der Lernsteuerung in Verbindung mit Vorwissen, Selbstkonzept und Lehrerhandeln. [@rieser_gemeinsame_2025]
 
@@ -490,7 +490,7 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 15; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -681,7 +681,7 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -842,7 +842,7 @@ Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über I
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -955,7 +955,7 @@ FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisat
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -1080,7 +1080,7 @@ Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamifica
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 
@@ -1193,7 +1193,7 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 - Datum/Version: 2025-12-15 (v1)
 - Segmentierung: 1–2 Sätze (FU7); Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 10; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
-- Referenzanker: Ankerbeispiele über BibTeX-Keys `[@bibkey]`.
+- Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
 
 **Kategorienüberblick (Tabelle)**
 

@@ -24,7 +24,7 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 \figsubcaption{Tag-Frequenzen der Literaturbasis nach Eintragstyp (Quelle: 02-01 Suchergebnisse; $n=3661$, Stand: 2025-11-26). x-Achse: Tag (Suchbegriff inkl. Typ-Prefix); y-Achse: Anzahl Vorkommen; Farben differenzieren Eintragstypen (z.B. Zeitschriftenartikel, Buchteil, Konferenzpaper).}
 ```
 
-**Analyse/Einordnung.** Eine starke Konzentration auf wenige Kern-Tags ist ein Indikator dafür, dass die Such- und Taggingstrategie nicht beliebig, sondern kontrolliert um zentrale Konzepte (z.B. LMS/digital learning) herum aufgebaut ist. Lange, dünne Ränder deuten auf spezialisierte Nischenbegriffe, die als Ergänzungen wirken, aber das Korpus nicht dominieren. Methodisch stützt dies die Reproduzierbarkeit der Korpusbildung: Kern-Tags definieren den Suchraum, Rand-Tags liefern Anschlussstellen für Grenzfälle und emergente Motive.
+**Analyse/Einordnung.** Eine starke Konzentration auf wenige Kern-Tags ist ein Indikator dafür, dass die Such- und Taggingstrategie kontrolliert um zentrale Konzepte (z.B. LMS/digital learning) herum aufgebaut ist. Lange, dünne Ränder deuten auf spezialisierte Nischenbegriffe, die als Ergänzungen wirken und das Korpus nicht dominieren. Methodisch stützt dies die Reproduzierbarkeit der Korpusbildung: Kern-Tags definieren den Suchraum, Rand-Tags liefern Anschlussstellen für Grenzfälle und emergente Motive.
 
 **FU-Zuordnung (thematische Schwerpunktsetzung)** {#sec:A-13-fu-zuordnung}
 
@@ -34,7 +34,7 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 \figsubcaption{Verteilung der Quellenzuordnungen auf Forschungsunterfragen (Quelle: 02-01 Suchergebnisse; $n=920$, Stand: 2025-11-26). x-Achse: FU; y-Achse: Anzahl der Zuordnungen; dient zur Sichtbarmachung materialreicher vs. randständiger FU-Kontingente.}
 ```
 
-**Analyse/Einordnung.** Dichte FU‑Kontingente (typischerweise FU$_{3}$/FU$_{4a}$/FU$_{5}$) bilden die robuste Basis für Mechanismen‑ und Merkmalsrekonstruktionen. Dünnere FU‑Kontingente (z.B. FU$_{2b}$, FU$_{7}$) sind methodisch nicht „schwächer“, aber sie verlangen eine vorsichtigere Argumentation: stärkere Verdichtung, klarere Begrenzung der Generalisierung und eine explizite Einbettung in das Gesamtwirkgefüge. Für die Ergebnisdarstellung ist die Abbildung damit eine Begründungsfolie, warum manche Ergebnislinien breiter rekonstruiert werden können als andere.
+**Analyse/Einordnung.** Dichte FU‑Kontingente (typischerweise FU$_{3}$/FU$_{4a}$/FU$_{5}$) bilden die robuste Basis für Mechanismen‑ und Merkmalsrekonstruktionen. Dünnere FU‑Kontingente (z.B. FU$_{2b}$, FU$_{7}$) sind methodisch in ihrer Reichweite enger zu führen. Sie verlangen eine vorsichtigere Argumentation: stärkere Verdichtung, präzisere Begrenzung der Generalisierung und eine explizite Einbettung in das Gesamtwirkgefüge. Für die Ergebnisdarstellung ist die Abbildung damit eine Begründungsfolie, warum manche Ergebnislinien breiter rekonstruiert werden können als andere.
 
 **Relevanz je FU (Materialqualität nach FU)** {#sec:A-13-relevanz-fu}
 
@@ -44,7 +44,7 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 \figsubcaption{Relevanzverteilung nach Forschungsunterfragen (Quelle: 02-01 Suchergebnisse; $n=743$, Stand: 2025-11-26). Gestapelte Balken zeigen Fallzahlen pro Relevanzstufe (2--5) je FU; dient als Qualitäts- und Fokussierungscheck der FU-spezifischen Materialbasis.}
 ```
 
-**Analyse/Einordnung.** Hohe Relevanzanteile in den zentralen FU stützen die Aussage, dass die Korpusbildung nicht nur quantitativ, sondern auch qualitativ tragfähig ist. Wo Relevanzanteile stärker streuen, sind entweder heterogene Diskursstränge zusammengeführt oder die FU adressiert ein Grenzfeld (z.B. Lehrendenperspektive, strategische Kausalmodelle). Für die Auswertung bedeutet das: In streuenden FU sind stärkere Plausibilitätschecks (Ankerbeispiele, Gegenlesungen) nötig, bevor Ergebnislinien verdichtet werden.
+**Analyse/Einordnung.** Hohe Relevanzanteile in den zentralen FU stützen die Aussage, dass die Korpusbildung quantitativ und qualitativ tragfähig ist. Wo Relevanzanteile stärker streuen, sind entweder heterogene Diskursstränge zusammengeführt oder die FU adressiert ein Grenzfeld (z.B. Lehrendenperspektive, strategische Kausalmodelle). Für die Auswertung bedeutet das: In streuenden FU sind stärkere Plausibilitätschecks (Ankerbeispiele, Gegenlesungen) nötig, bevor Ergebnislinien verdichtet werden.
 
 **Relevanz je Kategorie (Textsorten-/Kategorienqualität)** {#sec:A-13-relevanz-kategorien}
 
@@ -94,4 +94,4 @@ Die Darstellungen sind als Korpusdiagnostik zu lesen: Sie beschreiben die Materi
 \figsubcaption{Eintragstypen nach Sprache (Quelle: 02-01 Suchergebnisse; $n=3533$, Stand: 2025-11-26). x-Achse: Sprache; y-Achse: Anzahl; Farben: Typgruppen (artikelbasiert, buchbasiert, graue Literatur, sonstige). Zeigt, welche Dokumenttypen die jeweiligen Sprachsegmente tragen.}
 ```
 
-**Analyse/Einordnung.** Hohe Artikelanteile stützen eine evidenznahe Rekonstruktion von Befunden und Designs; Buchanteile tragen eher theoretische Linien und begriffliche Rahmungen. Wenn graue Literatur nur randständig ist, erhöht dies die formale Stabilität des Korpus (weniger Heterogenität in Qualitätsstandards), reduziert aber zugleich potenzielle Praxisnähe mancher Quellenarten. In der Diskussion kann diese Asymmetrie als bewusste Setzung ausgewiesen werden: wissenschaftliche Tragfähigkeit im Hauptkorpus, Praxisimpulse über gezielte Einbettung in den Forschungsgegenstand.
+**Analyse/Einordnung.** Hohe Artikelanteile stützen eine evidenznahe Rekonstruktion von Befunden und Designs; Buchanteile tragen eher theoretische Linien und begriffliche Rahmungen. Wenn graue Literatur nur randständig ist, erhöht dies die formale Stabilität des Korpus (weniger Heterogenität in Qualitätsstandards) und reduziert zugleich potenzielle Praxisnähe mancher Quellenarten. In der Diskussion kann diese Asymmetrie als bewusste Setzung ausgewiesen werden: wissenschaftliche Tragfähigkeit im Hauptkorpus, Praxisimpulse über gezielte Einbettung in den Forschungsgegenstand.

@@ -8,9 +8,9 @@ Er versammelt Materialien, die für die Nachvollziehbarkeit der methodischen Anl
 
 Zur Orientierung sind die Anhänge wie folgt gegliedert:
 
-- Begriffliche Orientierung: \hyperref[sec:A-1]{A‑1}
-- Methodische Originalnachweise und Auswertungslogiken: \hyperref[sec:A-2]{A‑2}, \hyperref[sec:A-3]{A‑3}, \hyperref[sec:A-8]{A‑8}, \hyperref[sec:A-10]{A‑10}
-- Korpusbildung und Literaturauswertung: \hyperref[sec:A-4]{A‑4}, \hyperref[sec:A-6]{A‑6}, \hyperref[sec:A-13]{A‑13}, \hyperref[sec:A-14]{A‑14}, \hyperref[sec:A-16]{A‑16}
-- Gegenstand und Struktur des Untersuchungsfeldes: \hyperref[sec:A-5]{A‑5}
-- Empirische Evidenzspuren und Ergebnisdokumentation: \hyperref[sec:A-7]{A‑7}, \hyperref[sec:A-9]{A‑9}, \hyperref[sec:A-12]{A‑12}
-- Reproduzierbarkeit der Softwareartefakte: \hyperref[sec:A-15]{A‑15}
+- Begriffliche Orientierung: \hyperref[sec:A-1]{Verzeichnis zentraler Begriffe}
+- Methodische Originalnachweise und Auswertungslogiken: \hyperref[sec:A-2]{Prompt zur Analyse einer Quelle}, \hyperref[sec:A-3]{Prompt zur probabilistisch-qualitativen Inhaltsanalyse}, \hyperref[sec:A-8]{Prompt zur Eye-Tracking-Auswertung}, \hyperref[sec:A-10]{Prompt zur LMS-Umfrageauswertung}
+- Korpusbildung und Literaturauswertung: \hyperref[sec:A-4]{Korrelationsatlas}, \hyperref[sec:A-6]{Struktur der Suchordner}, \hyperref[sec:A-13]{Zusatzvisualisierungen zur Literaturbasis}, \hyperref[sec:A-14]{Technologieintegration und Technologiedefizit}, \hyperref[sec:A-16]{Review-Matrix des strukturierten Literaturkorpus}
+- Gegenstand und Struktur des Untersuchungsfeldes: \hyperref[sec:A-5]{Übersicht Berufliche Handlungssituationen}
+- Empirische Evidenzspuren und Ergebnisdokumentation: \hyperref[sec:A-7]{Eye-Tracking-Visualisierungen}, \hyperref[sec:A-9]{P-QIA-Metaanalysen}, \hyperref[sec:A-12]{Umfrageergebnisse}
+- Reproduzierbarkeit der Softwareartefakte: \hyperref[sec:A-15]{Software und Quellcode}

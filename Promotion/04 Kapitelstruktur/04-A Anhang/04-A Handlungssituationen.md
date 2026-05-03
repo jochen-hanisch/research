@@ -2,20 +2,20 @@
 
 ## Übersicht Berufliche Handlungssituationen {#sec:A-5}
 
-In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsraum für die Ausbildung von Notfallsanitäter:innen vorgesehenen beruflichen Handlungssituationen präsentiert. Jede Handlungssituation ist mit ihrer Kursbezeichnung, dem Titel, der Anzahl der zugehörigen Aufgaben sowie der geplanten Bearbeitungsdauer in Tagen aufgeführt.
+In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsraum für die Ausbildung von Notfallsanitäter:innen vorgesehenen beruflichen Handlungssituationen präsentiert. Für NFS-H-01 bis NFS-H-31 ist die Anzahl der live gezählten Aufgabenmodule (`assign`) ausgewiesen; NFS-H-32 wird als Prüfungsvorbereitungsstruktur mit eigener Zeitplanung geführt und nicht in die `assign`-Summe einbezogen.
 
 Die Gesamtübersicht ist in \hyperref[tab:A-5]{Tabelle~\ref{tab:A-5}} dargestellt.
 
 Table: Übersicht Berufliche Handlungssituationen \label{tab:A-5}
 
-| Kurs            | Titel                                                                 | $\sum$ Aufgaben | Dauer [d] |
+| Kurs            | Titel                                                                 | $\sum$ Aufgabenmodule | Dauer [d] |
 |-----------------|-----------------------------------------------------------------------|-----------:|----------:|
 | NFS-H-01        | Einführung in die berufliche Ausbildung                               |          6 |         7 |
 | NFS-H-02        | Das eigene Berufsfeld erkunden und berufliches Selbstverständnis entwickeln |         16 |        32 |
 | NFS-H-03        | Die eigene Lehrrettungswache erleben                                  |         28 |        17 |
 | NFS-H-04        | Das rettungsdienstliche Umfeld kennen lernen                          |         37 |        31 |
 | NFS-H-05        | Mit sich selbst und Anderen umgehen                                   |         31 |        53 |
-| NFS-H-06        | Einen Patienten im Krankentransport beurteilen                        |         14 |        15 |
+| NFS-H-06        | Einen Patienten im Krankentransport beurteilen                        |         15 |        15 |
 | NFS-H-07        | Lebensrettende Maßnahmen durchführen                                  |         47 |        67 |
 | NFS-H-08        | Eine Einsatzfahrt durchführen                                         |         36 |        77 |
 | NFS-H-09        | Einen Krankentransport durchführen                                    |         11 |        13 |
@@ -41,11 +41,12 @@ Table: Übersicht Berufliche Handlungssituationen \label{tab:A-5}
 | NFS-H-29        | Einsätze mit besonderer Logistik durchführen                          |         55 |       100 |
 | NFS-H-30        | Mit BOS zusammenarbeiten                                              |         13 |         5 |
 | NFS-H-31        | Das eigene Berufsfeld reflektieren                                    |         54 |         5 |
-| NFS-H-32        | Vorbereitung auf die Notfallsanitäterprüfung                          |         60 |        40 |
-| **Gesamt**      |                                                                       |     **848** |    **971** |
+| NFS-H-32        | Vorbereitung auf die Notfallsanitäterprüfung                          |          — |        40 |
+| **Summe Aufgabenmodule NFS-H-01 bis NFS-H-31** |                                  |     **789** |           |
+| **Gesamtdauer NFS-H-01 bis NFS-H-32** |                                            |             |    **971** |
 
 ```{=latex}
-\tabsubcaption{Übersicht der curricularen Handlungssituationen als Kursarchitektur des LMS. Spalten: Kurs-ID, Titel, Anzahl zugeordneter Aufgaben sowie geplante Bearbeitungsdauer (Tage); die Summenzeile dokumentiert den Gesamtumfang der Aufgabenarchitektur als Grundlage für strukturelle Auswertungen der curricularen Dichte.}
+\tabsubcaption{Übersicht der curricularen Handlungssituationen als Kursarchitektur des LMS. Spalten: Kurs-ID, Titel, Anzahl live gezählter Aufgabenmodule (`assign`) für NFS-H-01 bis NFS-H-31 sowie geplante Bearbeitungsdauer (Tage); die Summenzeilen dokumentieren die gezählte Aufgabenmodulstruktur und die geplante Gesamtdauer getrennt.}
 ```
 
-Diese tabellarische Darstellung zeigt die Zuordnung der Aufgaben sowie die vorgesehene Bearbeitungsdauer in Tagen für jede Handlungssituation im digitalen Bildungsraum. Sie bildet die empirische Grundlage für die statistische Analyse der curricularen Struktur.
+Diese tabellarische Darstellung zeigt die Zuordnung der live gezählten Aufgabenmodule sowie die vorgesehene Bearbeitungsdauer in Tagen für die Handlungssituationen im digitalen Bildungsraum. Sie bildet die empirische Grundlage für die statistische Analyse der curricularen Struktur.
