@@ -2,7 +2,7 @@
 
 ## Übersicht Berufliche Handlungssituationen {#sec:A-5}
 
-In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsraum für die Ausbildung von Notfallsanitäter:innen vorgesehenen beruflichen Handlungssituationen präsentiert. Für NFS-H-01 bis NFS-H-31 ist die Anzahl der live gezählten Aufgabenmodule (`assign`) ausgewiesen; NFS-H-32 wird als Prüfungsvorbereitungsstruktur mit eigener Zeitplanung geführt und nicht in die `assign`-Summe einbezogen.
+In diesem Anhang wird eine tabellarische Übersicht der im digitalen Bildungsraum für die Ausbildung von Notfallsanitäter:innen vorgesehenen beruflichen Handlungssituationen präsentiert. Für NFS-H-01 bis NFS-H-32 ist die Anzahl der live gezählten Aufgabenmodule (`assign`) ausgewiesen. NFS-H-32 wird zugleich als Prüfungsvorbereitungsstruktur mit eigener Zeitplanung geführt.
 
 Die Gesamtübersicht ist in \hyperref[tab:A-5]{Tabelle~\ref{tab:A-5}} dargestellt.
 
@@ -41,12 +41,12 @@ Table: Übersicht Berufliche Handlungssituationen \label{tab:A-5}
 | NFS-H-29        | Einsätze mit besonderer Logistik durchführen                          |         55 |       100 |
 | NFS-H-30        | Mit BOS zusammenarbeiten                                              |         13 |         5 |
 | NFS-H-31        | Das eigene Berufsfeld reflektieren                                    |         54 |         5 |
-| NFS-H-32        | Vorbereitung auf die Notfallsanitäterprüfung                          |          — |        40 |
-| **Summe Aufgabenmodule NFS-H-01 bis NFS-H-31** |                                  |     **789** |           |
+| NFS-H-32        | Vorbereitung auf die Notfallsanitäterprüfung                          |         41 |        40 |
+| **Summe Aufgabenmodule NFS-H-01 bis NFS-H-32** |                                  |     **830** |           |
 | **Gesamtdauer NFS-H-01 bis NFS-H-32** |                                            |             |    **971** |
 
 ```{=latex}
-\tabsubcaption{Übersicht der curricularen Handlungssituationen als Kursarchitektur des LMS. Spalten: Kurs-ID, Titel, Anzahl live gezählter Aufgabenmodule (`assign`) für NFS-H-01 bis NFS-H-31 sowie geplante Bearbeitungsdauer (Tage); die Summenzeilen dokumentieren die gezählte Aufgabenmodulstruktur und die geplante Gesamtdauer getrennt.}
+\tabsubcaption{Übersicht der curricularen Handlungssituationen als Kursarchitektur des LMS. Spalten: Kurs-ID, Titel, Anzahl live gezählter Aufgabenmodule (`assign`) für NFS-H-01 bis NFS-H-32 sowie geplante Bearbeitungsdauer (Tage); die Summenzeilen dokumentieren die gezählte Aufgabenmodulstruktur und die geplante Gesamtdauer getrennt.}
 ```
 
 Diese tabellarische Darstellung zeigt die Zuordnung der live gezählten Aufgabenmodule sowie die vorgesehene Bearbeitungsdauer in Tagen für die Handlungssituationen im digitalen Bildungsraum. Sie bildet die empirische Grundlage für die statistische Analyse der curricularen Struktur.
