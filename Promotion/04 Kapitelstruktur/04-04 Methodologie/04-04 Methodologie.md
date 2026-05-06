@@ -110,7 +110,7 @@ Die folgenden Zeit‑ und Kohärenzvisualisierungen (\hyperref[fig:time-series]{
 
 ![Zeitreihe der Publikationszahlen im Korpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_time_series_02-01_suchergebnisse.png>){#fig:time-series}
 
-\figsubcaption{Zeitreihe der jährlichen Veröffentlichungszahlen im Literaturkorpus (Quelle: 02-01 Suchergebnisse; $n=3728$ Einträge mit gültigem Jahr). x-Achse: Jahr; y-Achse: Anzahl Veröffentlichungen; dient der volumetrischen Einordnung von Wachstums-, Konsolidierungs- und Reorganisationsphasen sowie der jahrgangsbezogenen Gewichtung in den folgenden Kohärenzanalysen.}
+\figsubcaption{Zeitreihe der jährlichen Veröffentlichungszahlen im Literaturkorpus (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Gesamtkorpus $n=4165$, davon $n=4081$ Einträge mit gültigem Jahr). x-Achse: Jahr; y-Achse: Anzahl Veröffentlichungen; dient der volumetrischen Einordnung von Wachstums-, Konsolidierungs- und Reorganisationsphasen sowie der jahrgangsbezogenen Gewichtung in den folgenden Kohärenzanalysen.}
 
 Die Zeitreihe der jährlichen Veröffentlichungszahlen beschreibt die volumetrische Entwicklung des untersuchten Literaturkorpus seit den späten 1970er-Jahren. Die Einordnung der sichtbaren Wachstums-, Konsolidierungs- und Reorganisationsphasen sowie ihre Bedeutung für die weitere Korpusdiagnostik erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -118,37 +118,37 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores (Ausschni
 
 | Jahr | $n$ | Cluster | Silhouette-Score |
 | --- | --- | --- | --- |
-| 2010 | 8 | 4 | 0.0366 |
-| 2011 | 31 | 4 | 0.2770 |
-| 2012 | 7 | 4 | 0.3352 |
-| 2013 | 42 | 4 | 0.2990 |
-| 2014 | 24 | 4 | 0.1360 |
-| 2015 | 29 | 4 | 0.2326 |
-| 2016 | 31 | 4 | 0.1366 |
-| 2017 | 99 | 4 | 0.6114 |
-| 2018 | 97 | 4 | 0.5623 |
-| 2019 | 202 | 4 | 0.5874 |
-| 2020 | 314 | 4 | 0.3859 |
-| 2021 | 390 | 4 | 0.4242 |
-| 2022 | 431 | 4 | 0.4444 |
-| 2023 | 912 | 4 | 0.3963 |
-| 2024 | 787 | 4 | 0.0182 |
-| 2025 | 270 | 4 | 0.3232 |
-| **Summe** | 3674 | — | — |
+| 2010 | 7 | 4 | 0.0000 |
+| 2011 | 28 | 4 | 0.3407 |
+| 2012 | 7 | 4 | 0.3379 |
+| 2013 | 40 | 4 | 0.4134 |
+| 2014 | 26 | 4 | 0.2436 |
+| 2015 | 29 | 4 | 0.3226 |
+| 2016 | 29 | 4 | 0.2461 |
+| 2017 | 99 | 4 | 0.6967 |
+| 2018 | 98 | 4 | 0.5651 |
+| 2019 | 204 | 4 | 0.6102 |
+| 2020 | 315 | 4 | 0.3953 |
+| 2021 | 392 | 4 | 0.4636 |
+| 2022 | 441 | 4 | 0.4537 |
+| 2023 | 909 | 4 | 0.3997 |
+| 2024 | 797 | 4 | 0.2239 |
+| 2025 | 247 | 4 | 0.3794 |
+| **Summe** | 3904 | — | — |
 
-\tabsubcaption{Jahresbezogene Kennwerte der Clusterkohärenz für den Ausschnitt 2010–2025 (Quelle: 02-01 Suchergebnisse). Spalten: Jahr, Fallzahl ($n$), gewählte Clusterzahl ($k$) und Silhouette-Score; Grundlage für die Drift-/Verdichtungsinterpretation und die Gewichtung der Jahrgänge in den folgenden Abbildungen. Die Tabelle basiert auf dem Teilkorpus mit gültigem Jahr und auswertbarer Keyword-Struktur und ist damit von der Gesamtkorpusgröße zu unterscheiden.}
+\tabsubcaption{Jahresbezogene Kennwerte der Clusterkohärenz für den Ausschnitt 2010–2025 (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=3904$ Einträge im Jahresausschnitt). Spalten: Jahr, Fallzahl ($n$), gewählte Clusterzahl ($k$) und Silhouette-Score; Grundlage für die Drift-/Verdichtungsinterpretation und die Gewichtung der Jahrgänge in den folgenden Abbildungen. Die Tabelle basiert auf dem Teilkorpus mit gültigem Jahr und auswertbarer Keyword-Struktur und ist damit von der Gesamtkorpusgröße zu unterscheiden.}
 
 \hyperref[tab:cluster_silhouette]{Tabelle~\ref{tab:cluster_silhouette}} dokumentiert die jahresbezogenen Kennwerte der Clusterkohärenz (Fallzahlen, $k$, Silhouette-Score) als Referenz für die nachfolgende Auswertung; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}. Die Batch-Neuberechnung unterscheidet dabei explizit zwischen Gesamtkorpus, Zeitreihenbasis und jahresbezogenem Diagnostikausschnitt.
 
 ![Silhouette-Scores und Fallzahlen pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png>){#fig:silhouette-scores}
 
-\figsubcaption{Gemeinsame Darstellung von Clusterkohärenz und Korpusvolumen pro Jahr (Quelle: 02-01 Suchergebnisse; Basis: 2010–2025, $n=3674$). Linke y-Achse: Silhouette-Score der jährlichen $k$-means-Clusterlösung; rechte y-Achse: Fallzahlen ($n$). Horizontale Referenzlinien markieren Quartile (Q1--Q3) der Silhouette-Verteilung und unterstützen die Identifikation von Verdichtungs- vs. Driftphasen.}
+\figsubcaption{Gemeinsame Darstellung von Clusterkohärenz und Korpusvolumen pro Jahr (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Basis: 2010–2025, $n=3904$). Linke y-Achse: Silhouette-Score der jährlichen $k$-means-Clusterlösung; rechte y-Achse: Fallzahlen ($n$). Die Darstellung unterstützt die Identifikation von Verdichtungs- und Driftphasen.}
 
 Die Abbildung stellt Silhouette-Scores und Fallzahlen je Jahr dar und dient als Grundlage für die Auswertung der Kohärenz- und Driftphasen; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
 ![Volumengewichtete Abweichung $\Delta SC_n$ der Clusterkohärenz pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/delta-sc-n-pro-jahr.png>){#fig:delta-silhouette}
 
-\figsubcaption{Volumengewichtete Abweichung der jährlichen Clusterkohärenz vom Referenzniveau (Quelle: 02-01 Suchergebnisse; Basis: 2010–2025, $n=3674$). $\Delta SC_n$ operationalisiert die Differenz des Silhouette-Scores zum Median, gewichtet mit $n/\max(n)$; 0-Linie: Neutralniveau, gestrichelte Linie: Median. Positive Balken markieren überproportional kohärente Jahrgänge (Verdichtung), negative Balken unterproportionale Kohärenz bei hohem Volumen (Drift/Reorganisation).}
+\figsubcaption{Volumengewichtete Abweichung der jährlichen Clusterkohärenz vom Referenzniveau (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Basis: 2010–2025, $n=3904$). $\Delta SC_n$ operationalisiert die Differenz zwischen Silhouette-Score und volumengewichteter Fallzahlrelation ($n/\max(n)$). Positive Balken markieren überproportional kohärente Jahrgänge (Verdichtung), negative Balken unterproportionale Kohärenz bei hohem Volumen (Drift/Reorganisation).}
 
 Die Abbildung dokumentiert die volumengewichtete Abweichung $\Delta SC_n$ als ergänzende Kennzahl zur Kohärenzdiagnostik; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -237,15 +237,15 @@ Alle folgenden Visualisierungen sind als deskriptive Korpusdiagnostik zu lesen (
 
 ![Gesamtüberblick der Suchergebnisse.](<08 Metaquellen/08-01 Abbildungen/methodik/summary-plot-02-01-suchergebnisse.png>){#fig:summary-suchergebnisse}
 
-\figsubcaption{Aggregierte Strukturkennzahlen der Suchergebnisse (Quelle: 02-01 Suchergebnisse; Stand: 2025-11-26). Dargestellt sind mittlere Korrelationen je Korrelationstyp ($n=10$ Matrizen); Balkenhöhe: Durchschnittskorrelation, Farbskala: Korrelationswert. Die Übersicht dient als Schnellcheck, welche Ebenen (FU, Suchbegriffe, Indizes, Kategorien) besonders stark gekoppelt sind und wo Entkopplungen auftreten.}
+\figsubcaption{Aggregierter Gesamtüberblick des Literaturkorpus (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=4165$). Die Projektion verdichtet die aus Tags abgeleiteten Achsen Suchbegriffe, Indizes, Forschungsunterfragen und Kategorien und dient als Schnellcheck, welche Bereiche des Korpus strukturell dichter oder randständiger erscheinen.}
 
-Der Überblick bündelt den Korpus ($\approx 3{,}5\text{k}$ Quellen): hohe Relevanzstufen dominieren, Deutsch/Englisch tragen den Hauptanteil, Artikel und Bücher sind die wichtigsten Dokumententypen. Die Datengrundlage ist damit formal solide, sprachlich fokussiert und nur gering durch Randsprachen oder Grauliteratur verzerrt.
+Der Überblick bündelt den Korpus ($n=4165$ Quellen): hohe Relevanzstufen dominieren, Deutsch/Englisch tragen den Hauptanteil, Artikel und Bücher sind die wichtigsten Dokumententypen. Die Datengrundlage ist damit formal solide, sprachlich fokussiert und nur gering durch Randsprachen oder Grauliteratur verzerrt.
 
 ![Verteilung der Kategorien im Quellenkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_categories_02-01_suchergebnisse.png>){#fig:categories-suchergebnisse}
 
-\figsubcaption{Textsortenzuordnung der analysierten Quellen (Quelle: 02-01 Suchergebnisse; $n=1109$, Stand: 2025-11-26). Balken: absolute Häufigkeiten der Kategorien Kerngedanke, Argumentation, Weiterführung und Schlussfolgerung; Grundlage für die Einordnung der argumentativen Tiefe des Korpus und für nachfolgende Pfad- und Korrelationsanalysen.}
+\figsubcaption{Textsortenzuordnung der analysierten Quellen (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=4165$). Balken: absolute Häufigkeiten der Kategorien Kerngedanke, Argumentation, Weiterführung und Schlussfolgerung; Grundlage für die Einordnung der argumentativen Tiefe des Korpus und für nachfolgende Pfad- und Korrelationsanalysen.}
 
-Die Textsortenzuordnung der analysierten Quellen (n = 1 109, Stand: 13.12.2025) zeigt eine deutliche Konzentration auf „Kerngedanke“ und „Argumentation“ (\hyperref[fig:categories-suchergebnisse]{Abb.~\ref{fig:categories-suchergebnisse}}). Weiterführungen und Schlussfolgerungen sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
+Die Textsortenzuordnung der analysierten Quellen zeigt eine deutliche Konzentration auf „Kerngedanke“ ($n=485$) und „Argumentation“ ($n=477$) (\hyperref[fig:categories-suchergebnisse]{Abb.~\ref{fig:categories-suchergebnisse}}). Weiterführungen ($n=170$) und Schlussfolgerungen ($n=47$) sind deutlich seltener vertreten. Das Korpus stützt sich damit primär auf zentrale Thesen und Begründungslinien, während synthese- und transferorientierte Passagen unterrepräsentiert sind. Für die spätere Synthese bedeutet dies, dass Schlussfolgerungen gezielt ergänzt und verdichtet werden müssen, um die breit dokumentierte Argumentationsbasis konsistent zu bündeln.
 
 Weitere Detailvisualisierungen zur Korpusdiagnostik sind gesammelt im \hyperref[sec:A-13]{Anhang „Zusatzvisualisierungen zur Literaturbasis“} dokumentiert (\hyperref[fig:index-suchergebnisse]{Abb.~\ref{fig:index-suchergebnisse}}, \hyperref[fig:tags-suchergebnisse]{Abb.~\ref{fig:tags-suchergebnisse}}, \hyperref[fig:research-questions-suchergebnisse]{Abb.~\ref{fig:research-questions-suchergebnisse}}, \hyperref[fig:relevance-fu]{Abb.~\ref{fig:relevance-fu}}, \hyperref[fig:relevance-categories]{Abb.~\ref{fig:relevance-categories}}, \hyperref[fig:relevance-search]{Abb.~\ref{fig:relevance-search}}, \hyperref[fig:top-authors]{Abb.~\ref{fig:top-authors}}, \hyperref[fig:languages]{Abb.~\ref{fig:languages}} und \hyperref[fig:language-entrytypes]{Abb.~\ref{fig:language-entrytypes}}).
 
@@ -277,7 +277,7 @@ Die folgenden beiden Abbildungen (Pfaddiagramm und Suchbegriffsnetz) fungieren d
 
 ![Pfaddiagramm der Datenflüsse und Kategorien im Quellenkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/create_path_diagram_02-01_suchergebnisse.png>){#fig:path-diagram}
 
-\figsubcaption{Sankey-Pfaddiagramm der Korpusströme (Quelle: 02-01 Suchergebnisse). Knotenebenen von links nach rechts: Forschungsunterfragen (FU) $\rightarrow$ Textsorten (Kerngedanke/Argumentation/Weiterführung/Schlussfolgerung) $\rightarrow$ deduktive Kategorien $\rightarrow$ Dokumenttypen; Kantenbreite kodiert relative Häufigkeiten und macht dominante Argumentationspfade sowie Randströme sichtbar.}
+\figsubcaption{Pfaddiagramm der Korpusströme (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=4165$). Die Darstellung bündelt Forschungsunterfragen, Indizes, Kategorien und Relevanzzuordnungen als deskriptive Tag-Ströme und macht dominante sowie randständige Korpusbereiche sichtbar.}
 
 Das Pfaddiagramm dokumentiert die Datenflüsse und Kategorien im Quellenkorpus als Visualisierung der Korpusstruktur; die inhaltliche Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -285,7 +285,7 @@ Die anschließende Netzwerkdarstellung fokussiert auf die Suchbegriffe und ihre 
 
 ![Netzwerk der Suchbegriffe, Tags und Kategorien.](<08 Metaquellen/08-01 Abbildungen/methodik/visualize_network_02-01_suchergebnisse.png>){#fig:network-suchergebnisse}
 
-\figsubcaption{Netzwerk/Embedding der Suchbegriffe im zweidimensionalen Raum (Quelle: 02-01 Suchergebnisse). Achsen: technologische vs. pädagogische Dimension; Knotengröße: relative Suchgewichtung/Frequenz; Knotentyp/Farbe: primäre, sekundäre, tertiäre Begriffe; Kanten: semantische Nähe als Ko-Vorkommen in der Tag- und Suchlogik.}
+\figsubcaption{Netzwerk der Suchbegriffe, Tags und Kategorien (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=4165$). Knoten repräsentieren ausgewählte FU-, Kategorie- und Indexachsen; Kanten markieren Ko-Vorkommen in der Tag-Struktur und dienen der Sichtbarmachung semantischer Nachbarschaften.}
 
 Die Netzwerkdarstellung dokumentiert die Beziehungen zwischen Suchbegriffen, Tags und Kategorien als zweidimensionale Übersicht des Suchraums; die inhaltliche Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}. Eine hochauflösende Darstellung des Netzwerks sowie ergänzende strukturbezogene Visualisierungen (Sankey-Diagramm) finden sich im \hyperref[sec:A-4]{Anhang „Korrelationsatlas“}.
 
@@ -398,7 +398,7 @@ Die Zeitreihe zeigt, wie sich das Literaturfeld volumetrisch entwickelt. Für di
 
 Die Auswahl folgte einem dokumentierten, algorithmisch gestützten Verfahren, das die deduktiv gesetzten Kategorien und Suchpfade in einen numerischen Repräsentationsraum überführt. Für die Methodik ist dabei entscheidend, dass die Schritte der Auswahl, Verdichtung und Gewichtung belegbar bleiben. Der Einfluss manueller Schwerpunktsetzungen wird über die dokumentierten Screening- und Tagging-Schritte transparent gehalten. Das Literaturfeld gilt damit als kontrolliert aufgebaute Referenzbasis für die weiteren Auswertungen.
 
-Die Summenzeile in \hyperref[tab:cluster_silhouette]{Tabelle~\ref{tab:cluster_silhouette}} dokumentiert für den jahresbezogenen Ausschnitt 2010 bis 2025 insgesamt 3 674 Einträge. Die jahresbezogenen Silhouette-Werte dienen in diesem Zusammenhang als diagnostische Kennwerte für die Binnenkohärenz der jeweiligen Jahresscheibe im vorgegebenen Modellraum. Sie machen damit sichtbar, wie trennscharf die für die Arbeit gesetzten Kategorien und Zuordnungen innerhalb eines Jahres zusammenwirken. Hohe Werte sprechen für kompaktere, im Modellraum stärker getrennte Konstellationen; niedrigere Werte verweisen auf stärkere Überlagerungen oder offenere Strukturen innerhalb derselben Ordnung.
+Die Summenzeile in \hyperref[tab:cluster_silhouette]{Tabelle~\ref{tab:cluster_silhouette}} dokumentiert für den jahresbezogenen Ausschnitt 2010 bis 2025 insgesamt 3 904 Einträge. Die jahresbezogenen Silhouette-Werte dienen in diesem Zusammenhang als diagnostische Kennwerte für die Binnenkohärenz der jeweiligen Jahresscheibe im vorgegebenen Modellraum. Sie machen damit sichtbar, wie trennscharf die für die Arbeit gesetzten Kategorien und Zuordnungen innerhalb eines Jahres zusammenwirken. Hohe Werte sprechen für kompaktere, im Modellraum stärker getrennte Konstellationen; niedrigere Werte verweisen auf stärkere Überlagerungen oder offenere Strukturen innerhalb derselben Ordnung.
 
 Im Zusammenspiel von Silhouette-Scores und Fallzahlen (\hyperref[fig:silhouette-scores]{Abb.~\ref{fig:silhouette-scores}}) lässt sich damit prüfen, ob Umfang und Binnenkohärenz eines Jahrgangs im selben Maß verlaufen oder auseinanderfallen. Kleine Jahrgänge können dabei ebenso hohe wie niedrige Werte aufweisen; größere Jahrgänge sind nicht automatisch weniger kohärent. Die quartilsbasierten Referenzlinien dienen lediglich der groben Einordnung von Verdichtungs- und Driftphasen und ersetzen keine inhaltliche Interpretation.
 
@@ -416,7 +416,7 @@ Die Primäranalysen bilden das Fundament der weiteren Verdichtungen. Jede wissen
 
 Operativ beginnt dieser Schritt mit dem Export der Zotero-Einträge und ihrer Zuordnung zu den Forschungsunterfragen über die vergebenen Tags. Darauf folgt die promptbasierte Auswertung unter Einsatz generativer Sprachmodelle, die strukturierte Markdown-Analysen erzeugt und die deduktiv definierten Kategorien mit Originalzitaten aus den Quellen verknüpft. Jede Analyse erhält einen Header mit Metadaten wie Quelle, Datum und Prompt-Version; die Ergebnisse liegen versioniert in Obsidian vor und können jederzeit erneut geprüft werden. Quellen, die sich auf dieser Ebene als inhaltlich unpassend für den digitalen Bildungsraum erweisen, werden als irrelevant markiert und nicht in die weiteren Schritte übernommen. Die Primäranalysen gehen anschließend über einen fortlaufend aktualisierten Zotero-Export in das Literaturverzeichnis und bilden so die maschinenlesbare Grundlage für Netzwerk-, Cluster- und Pfadanalysen.
 
-Insgesamt wurden 786 Analysen erster Ordnung durchgeführt. Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU$_{4a}$ und FU$_{5}$ (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU$_{3}$ und den nutzungsbezogenen FU$_{2a}$/FU$_{4b}$. FU$_{1}$ und FU$_{6}$ liegen im mittleren einstelligen Prozentbereich, FU$_{2b}$ und FU$_{7}$ bilden kleinere und zugleich inhaltlich zentrale Vertiefungsfelder. \hyperref[fig:primaranalysen-verteilung]{Abbildung~\ref{fig:primaranalysen-verteilung}} visualisiert diese Gewichtung.
+Insgesamt liegen im aktuellen Zotero-Export 801 Analysen erster Ordnung mit FU-Tag und auswertbarem `annote`-Feld vor (Abgleich der lokalen Zotero-API mit dem exportierten Literaturverzeichnis, Stand: 2026-05-06). Die Verteilung auf die Forschungsunterfragen zeigt einen deutlichen Schwerpunkt bei FU$_{4a}$ und FU$_{5}$ (Didaktik, Mechanismen, Möglichkeiten/Grenzen), gefolgt von FU$_{3}$ und den nutzungsbezogenen FU$_{2a}$/FU$_{4b}$. FU$_{1}$ und FU$_{6}$ liegen im mittleren einstelligen Prozentbereich, FU$_{2b}$ und FU$_{7}$ bilden kleinere und zugleich inhaltlich zentrale Vertiefungsfelder. \hyperref[fig:primaranalysen-verteilung]{Abbildung~\ref{fig:primaranalysen-verteilung}} visualisiert diese Gewichtung.
 
 \input{08 Metaquellen/08-01 Abbildungen/prozesse/primaranalysen-verteilung.tex}
 
@@ -450,31 +450,33 @@ Das Vorgehen wurde in Anlehnung an Mayring gestaltet und verbindet klassische Sc
 
 **Validierung und empirische Kennwerte**
 
-Die zugehörige Statistikdokumentation hält Segmentierungsregeln, Embedding-Modelle, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs fest. Über alle Forschungsunterfragen hinweg liegt *k* zwischen 8 und 15, die Silhouette-Werte bewegen sich zwischen 0.87 und 0.93 (Mittelwert ca. 0.89).
+Die zugehörige Statistikdokumentation hält Segmentierungsregeln, Vektorisierungsmodell, gewählte *k*-Werte und Silhouette-Mittelwerte für alle FUs fest. Die aktuelle Rechenbasis der P-QIA wird in \hyperref[tab:pqia-audit]{Tabelle~\ref{tab:pqia-audit}} dokumentiert. Der finale Aktualitätsabgleich vom 06.05.2026 weist 801 Analysen erster Ordnung aus, die zugleich einen FU-Tag und eine auswertbare Analyse im Feld `annote` tragen. Diese 801 Analysen bilden die inhaltliche P-QIA-Basis.
+
+Ergänzend wurde am 06.05.2026 eine API-basierte Sensitivitätsprüfung auf den Zotero-Notizen durchgeführt. Dabei wurden je FU alle Einträge mit FU-Tag und auswertbarer Zotero-Notiz verarbeitet, HTML-Artefakte entfernt, die Notizen in Sinnabschnitte segmentiert und mit `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` vektorisiert. Die normalisierten Embeddings wurden mit den FU-spezifischen *k*-Werten über $k$-means geclustert (Seed 42, 50 Initialisierungen); der Silhouette-Wert wurde mit Kosinusdistanz berechnet. Die Werte liegen zwischen 0.0061 und 0.1293, der Mittelwert beträgt rund 0.066.
 
 Als zusätzliche Absicherung wird – analog zu den inhaltsanalytischen Gütekriterien (Intra-/Intercoder-Übereinstimmung) – die Stabilität zentraler Zuordnungen über wiederholte Läufe, Stichproben-Gegenlesungen und dokumentierte Grenzfallentscheidungen geprüft; Ziel ist belegte Regelbindung bei verbleibendem Interpretationsspielraum [@baur_qualitative_2022, Seite 695].
 
-Die zentralen Kennwerte (gewählte *k*-Werte und Silhouette-Scores) sind je Forschungsunterfrage in \hyperref[tab:silhouette-scores]{Tabelle~\ref{tab:silhouette-scores}} ausgewiesen.
+Die zentralen Kennwerte dieser Sensitivitätsprüfung sind je Forschungsunterfrage in \hyperref[tab:silhouette-scores]{Tabelle~\ref{tab:silhouette-scores}} ausgewiesen.
 
-Table: Cluster und Silhouette-Scores je FU \label{tab:silhouette-scores}
+Table: API-basierte Silhouette-Sensitivitätsprüfung je FU \label{tab:silhouette-scores}
 
-|FU|k|Silhouette|Interpretation nach @rousseeuw_silhouettes_1987|
-|---|---|---|---|
-|FU$_{1}$|8|0.91|sehr starke Clustertrennung|
-|FU$_{2a}$|12|0.88|starke Clusterstruktur|
-|FU$_{2b}$|14|0.89|starke Clusterstruktur|
-|FU$_{3}$|15|0.87|starke Clusterstruktur|
-|FU$_{4a}$|12|0.90|sehr starke Clustertrennung|
-|FU$_{4b}$|12|0.92|sehr starke Clustertrennung|
-|FU$_{5}$|14|0.88|starke Clusterstruktur|
-|FU$_{6}$|12|0.89|starke Clusterstruktur|
-|FU$_{7}$|10|0.93|sehr starke Clustertrennung|
+| FU | Zotero-Items | Items mit Notiz | Notizen | Sinnabschnitte | k | Silhouette |
+|---|---:|---:|---:|---:|---:|---:|
+| FU$_{1}$ | 58 | 58 | 65 | 1480 | 8 | 0.0733 |
+| FU$_{2a}$ | 92 | 85 | 93 | 2035 | 12 | 0.0793 |
+| FU$_{2b}$ | 33 | 27 | 35 | 798 | 14 | 0.1004 |
+| FU$_{3}$ | 191 | 118 | 129 | 2889 | 15 | 0.0579 |
+| FU$_{4a}$ | 266 | 224 | 254 | 5749 | 12 | 0.0061 |
+| FU$_{4b}$ | 115 | 92 | 100 | 2144 | 12 | 0.0514 |
+| FU$_{5}$ | 136 | 125 | 134 | 2785 | 14 | 0.0481 |
+| FU$_{6}$ | 76 | 64 | 72 | 1780 | 12 | 0.0515 |
+| FU$_{7}$ | 9 | 8 | 10 | 251 | 10 | 0.1293 |
 
-\tabsubcaption{Übersicht des Silhouette-Scores je Forschungsunterfrage.}
+\tabsubcaption{API-basierte Sensitivitätsprüfung der FU-spezifischen Zotero-Notizen, Stand: 2026-05-06. Die Spalten beschreiben den im Sensitivitätslauf verarbeiteten Zotero-Ausschnitt, die Zahl auswertbarer Notizen, die daraus gebildeten Sinnabschnitte, die FU-spezifisch gesetzte Clusterzahl $k$ und den mittleren Silhouette-Wert.}
 
-In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die geometrische Trennschärfe einer Clusterlösung lesen: Werte nahe 1 deuten darauf hin, dass Segmente im Embedding‑Raum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Als pragmatische Faustregel werden Werte über 0,70 häufig als „stark“ und Werte über 0,90 als „sehr stark“ interpretiert; in diesem Sinne zeigen die Kennwerte der P‑QIA durchgängig eine hohe Separierbarkeit der FU‑spezifischen Clusterlösungen. Die Kennwerte sind daher als heuristische Prüf- und Plausibilitätsgrößen zu lesen. Sie erlauben Aussagen über die Struktur und Trennschärfe im verwendeten Repräsentationsraum, nicht jedoch über die inhaltliche Gültigkeit der Kategorien selbst.
+In Anlehnung an @rousseeuw_silhouettes_1987 lässt sich der mittlere Silhouette‑Wert als Maß für die geometrische Trennschärfe einer Clusterlösung lesen. Werte nahe 1 deuten darauf hin, dass Segmente im Repräsentationsraum im Mittel deutlich näher an ihrem eigenen Cluster liegen als am nächstgelegenen Alternativ‑Cluster. Die FU-spezifischen Sinnabschnitte zeigen demgegenüber niedrige Werte. Für die vorliegende Arbeit ist dies methodisch bedeutsam, weil die Forschungsunterfragen den Literaturkorpus aus unterschiedlichen Perspektiven strukturieren, die Sinnabschnitte zugleich in einem gemeinsamen Bedeutungsraum verbleiben. Die geringe geometrische Separierbarkeit wird deshalb als Hinweis auf semantische Verwobenheit gelesen. Die Forschungsunterfragen erzeugen keine isolierten Themeninseln, sondern unterschiedliche Zugriffsperspektiven auf einen zusammenhängenden Literaturraum.
 
-Wichtig ist die methodische Einordnung der Aussagekraft: Der Silhouette‑Wert beschreibt die Separierbarkeit der Segmente im verwendeten Repräsentationsraum und trifft keine unmittelbare Aussage über die inhaltliche „Richtigkeit“ der Kategorien. Sehr hohe Werte können zudem durch homogene Textbausteine oder stark formatierte/standardisierte Notizen begünstigt werden. Deshalb wird die Silhouette‑Prüfung hier als Qualitätssicherungs- und Plausibilitätsindikator eingesetzt und konsequent mit inhaltlicher Validierung (Codierschema, Ankerbeispiele, theoretische Einbettung) trianguliert. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Verfahren.
+Diese Lesart bleibt eine Plausibilisierung, kein statistischer Nachweis des digitalen Bildungswirkgefüges. Der Silhouette‑Wert beschreibt die Separierbarkeit der Segmente im verwendeten Repräsentationsraum und trifft keine unmittelbare Aussage über die inhaltliche Gültigkeit der Kategorien. Sehr hohe Werte können durch homogene Textbausteine oder stark formatierte Notizen begünstigt werden; sehr niedrige Werte können auf Überlagerungen, heterogene Sinnabschnitte oder bewusst querliegende Perspektivierungen verweisen. Für diese Arbeit entsteht die methodische Tragfähigkeit erst in der Verbindung mit Kodiermanualen, Ankerbeispielen, theoretischer Einbettung und den Korrelationsmatrizen in Abschnitt~\hyperref[sec:Korrelations-Cluster]{4.3.8}. Ergänzend verweisen @low_data_2023 auf die Reproduzierbarkeit deterministischer Verfahren.
 
 **Qualitätssicherung und Beispiele**
 
@@ -536,11 +538,11 @@ Zur Absicherung der deduktiven Clusterlogik wurden die zentralen Korrelations- u
 
 ![Deduktive k-means-Clusteranalyse des Quellenkorpus.](<08 Metaquellen/08-01 Abbildungen/methodik/clusteranalyse-kmeans-deduktiv-02-01-suchergebnisse.png>){#fig:clusteranalyse-kmeans}
 
-\figsubcaption{3D-Projektion der deduktiven $k$-means-Clusterlösung (Quelle: 02-01 Suchergebnisse; $n=3733$, $k=4$, Silhouette-Score: $0{,}9884$). Achsen: Suchbegriffe, Kategorien, Forschungsunterfragen; Farbe: Clusterzugehörigkeit; Punktgröße: Clusterumfang; Labels: dominante Tag- und Eintragstyp-Kombinationen je Cluster.}
+\figsubcaption{3D-Projektion der deduktiven $k$-means-Clusterlösung (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=4165$, $k=4$). Achsen: aus der Tag-Struktur abgeleitete Suchbegriffe, Kategorien, Indizes und Forschungsunterfragen; Farbe: Clusterzugehörigkeit. Die Abbildung dient als Plausibilitätsprojektion der deduktiven Vorstrukturierung.}
 
 Die deduktive 3D-Clusterlösung wird in \hyperref[fig:clusteranalyse-kmeans]{Abbildung~\ref{fig:clusteranalyse-kmeans}} als semantischer Raum entlang der Achsen Suchbegriffe, Kategorien sowie Forschungsfragen dokumentiert und dient als abschließender Plausibilitätscheck der theoriebasierten Vorstrukturierung.
 
-Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n = 3733$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der drei deduktiv definierten Achsen Suchbegriffe, Kategorien und Forschungsfragen. Die Größe der Punkte repräsentiert die relative Clustergröße, die farbliche Kodierung markiert die jeweilige Clusterzugehörigkeit innerhalb der zugrunde liegenden Tag-Struktur. Der hohe Silhouette-Score ($S = 0{,}9884$) verweist auf eine starke geometrische Separierbarkeit in genau dieser Repräsentation. Methodisch wird dieser Wert hier als Plausibilitätssignal dafür gelesen, dass die deduktive Vorstrukturierung im gewählten Modellraum eine gut trennbare Ordnung erzeugt; ein Nachweis inhaltlicher Eindeutigkeit ist damit nicht verbunden.
+Die dreidimensionale, deduktiv angelegte Clusteranalyse des Literaturkorpus ($n=4165$) basiert auf dem $k$-Means-Algorithmus mit vier Clustern. Die Visualisierung projiziert die Datenpunkte entlang der deduktiv definierten Achsen Suchbegriffe, Kategorien, Indizes und Forschungsfragen. Die farbliche Kodierung markiert die jeweilige Clusterzugehörigkeit innerhalb der zugrunde liegenden Tag-Struktur. Methodisch wird die Projektion als Plausibilitätssignal dafür gelesen, dass die deduktive Vorstrukturierung im gewählten Modellraum eine erkennbare Ordnung erzeugt; ein Nachweis inhaltlicher Eindeutigkeit ist damit nicht verbunden.
 
 **Analyse der Achsendimensionen**
 
@@ -571,7 +573,7 @@ Die dreidimensionale Projektion macht sichtbar, dass die deduktiven Achsen im Mo
 
 Methodologische Einordnung
 
-Die Visualisierung erfüllt innerhalb der mdaCV drei Funktionen. Erstens erlaubt sie eine Plausibilisierung der Deduktionslogik, weil die theoriebasiert definierten Achsen in ihrer räumlichen Anordnung sichtbar werden. Zweitens macht sie diskursive Schwerpunktfelder erkennbar, etwa dort, wo sich Online-Learning-bezogene Literatur eher um FU$_{4a}$/FU$_{6}$ bündelt, während technologische Integration häufiger an FU$_{3}$/FU$_{7}$ anschließt. Drittens dient sie als Prüfung der Segmentierungs- und Kategorisierungsentscheidungen: Die hohen Silhouette-Werte und die begrenzten Überlappungen in der Projektion sprechen dafür, dass Tags, Kategorien und FU-Zuordnungen im gewählten Raum anschlussfähig zueinander sind. Auch hier bleibt der Geltungsanspruch begrenzt: Geprüft wird die Passung der Strukturierung im Modellraum, nicht die letzte inhaltliche Wahrheit der Zuordnungen.
+Die Visualisierung erfüllt innerhalb der mdaCV drei Funktionen. Erstens erlaubt sie eine Plausibilisierung der Deduktionslogik, weil die theoriebasiert definierten Achsen in ihrer räumlichen Anordnung sichtbar werden. Zweitens macht sie diskursive Schwerpunktfelder erkennbar, etwa dort, wo sich Online-Learning-bezogene Literatur eher um FU$_{4a}$/FU$_{6}$ bündelt, während technologische Integration häufiger an FU$_{3}$/FU$_{7}$ anschließt. Drittens dient sie als Prüfung der Segmentierungs- und Kategorisierungsentscheidungen: Der im Abbildungsexport ausgewiesene Silhouette-Wert der deduktiven Clusterlösung und die begrenzten Überlappungen in der Projektion sprechen dafür, dass Tags, Kategorien und FU-Zuordnungen im gewählten Raum anschlussfähig zueinander sind. Auch hier bleibt der Geltungsanspruch begrenzt. Geprüft wird die Passung der Strukturierung im Modellraum, nicht die letzte inhaltliche Wahrheit der Zuordnungen.
 
 Epistemische Funktion im Forschungsdesign
 
@@ -587,7 +589,9 @@ Die korrelativen Visualisierungen ergänzen diese Clusteransicht um eine feinere
 
 Die erste Paarungsperspektive richtet den Blick auf die Forschungsunterfragen wechselseitig (\hyperref[fig:A-kor-fu]{Abb.~A.4.1}) und bildet das strukturelle Ausgangsbild für die anschließenden neun Matrizen. Für alle gilt, dass Verteilung, Richtung und relative Stärke der Zusammenhänge im Vordergrund stehen.
 
-Die Werte bleiben fast durchgängig im schwach negativen Bereich; punktuell zeigen sich leichte positive Ausreißer, etwa zwischen FU$_{4a}$ und FU$_{3}$. Dominante Achsen sind nicht erkennbar, vielmehr ergibt sich ein fein gestreutes Muster mit einzelnen Verdichtungen um FU$_{4a}$. Für die methodische Einordnung spricht dies dafür, dass die Forschungsunterfragen weitgehend getrennt geführt sind und keine starken unbeabsichtigten Überschneidungen erzeugen. Die wenigen positiven Paare markieren Anschlussstellen, die inhaltlich plausibel bleiben.
+Die paarweisen FU-Korrelationen liegen im aktuellen Tabellenexport ($n=4165$) zwischen $r=-0{,}0575$ und $r=0{,}0394$; die mittlere absolute Korrelation beträgt $|r| \approx 0{,}0214$. Von 36 eindeutigen FU-Paaren sind neun statistisch signifikant, bei zugleich sehr kleinen Effektstärken. Die stärksten absoluten Werte betreffen FU$_{3}$ × FU$_{4a}$ ($r=-0{,}0575$, $p=0{,}0002$), FU$_{4a}$ × FU$_{5}$ ($r=-0{,}0482$, $p=0{,}0019$) und FU$_{4a}$ × FU$_{4b}$ ($r=0{,}0394$, $p=0{,}0110$). Für die methodische Einordnung spricht dies für eine differenzierte Anlage der Forschungsunterfragen. Sie greifen unterschiedliche Perspektiven auf den Literaturkorpus auf und bleiben über die weiteren Analyseebenen anschlussfähig.
+
+Gerade in Verbindung mit der niedrigen FU-Silhouette aus \hyperref[tab:silhouette-scores]{Tabelle~\ref{tab:silhouette-scores}} entsteht daraus eine tragfähige Nebenlinie der Methodologie. Die Korrelationen zeigen, dass die Forschungsunterfragen im Tagraum nur schwach miteinander koppeln und damit unterschiedliche Perspektiven tragen. Die Silhouette-Prüfung zeigt zugleich, dass die Sinnabschnitte innerhalb dieser FU-Perspektiven keine scharf voneinander getrennten semantischen Inseln bilden. Der Literaturkorpus wird damit weder in beliebige Einzelräume zerlegt noch auf eine einzige Achse reduziert. Er bleibt als gemeinsamer Bedeutungsraum lesbar, der durch mehrere Forschungsunterfragen perspektivisch erschlossen wird. Diese Lesart stützt die spätere Argumentation des digitalen Bildungsraums als Wirkgefüge, weil Wirkung dort ebenfalls aus verbundenen, rückgekoppelten und störanfälligen Beziehungen hervorgeht.
 
 **Forschungsunterfragen × Suchbegriffe**
 
@@ -789,7 +793,7 @@ Die SWOT-Analyse zeigt Schwächen und Risiken als kontinuierliche Arbeitsaufträ
 
 ### 4.5.2 Kritische Einordnung und methodische Absicherung {#sec:Methodenkritik-Absicherung}
 
-Methodenkritik ist in dieser Arbeit eine Strukturbedingung des gewählten Vorgehens. Sobald generative Sprachmodelle (LLM) in Literaturarbeit und Analyseprozess eingebunden werden, sobald embedding-basierte Verdichtungen kategoriale Ordnungen prägen und sobald webcam-basierte Eye-Tracking-Spuren als Aufmerksamkeitssurrogat genutzt werden, verschiebt sich die Beweislast. Die in dieser Arbeit verwendete Methode muss sich an ihrer Prüf- und Dokumentationslogik gemessen lassen, ob die Ergebnisse wissenschaftlich tragfähig bleiben. [@van_niekerk_addressing_2025, Seite 2; @parker_negotiating_2024, Seite 2; @giannakos_promise_2024, Seite 22]
+Methodenkritik ist in dieser Arbeit eine Strukturbedingung des gewählten Vorgehens. Sobald generative Sprachmodelle (LLM) in Literaturarbeit und Analyseprozess eingebunden werden, sobald embedding-basierte Verdichtungen kategoriale Ordnungen prägen und sobald webcam-basierte Eye-Tracking-Spuren als Aufmerksamkeitssurrogat genutzt werden, verschiebt sich die Begründungslast. Die in dieser Arbeit verwendete Methode muss sich an ihrer Prüf- und Dokumentationslogik messen lassen, ob die Ergebnisse wissenschaftlich tragfähig bleiben. [@van_niekerk_addressing_2025, Seite 2; @parker_negotiating_2024, Seite 2; @giannakos_promise_2024, Seite 22]
 
 Generative KI: Halluzinationen, Referenzrisiken und Integritätsverschiebung
 

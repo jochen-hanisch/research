@@ -14,17 +14,56 @@ Die Dokumentation folgt pro FU einem einheitlichen Schema:
 4. **Synthese:** narrative Verdichtung der zentralen Muster und Spannungsfelder.
 5. **Theorie und Reflexion:** theoretische Einordnung sowie methodische Grenzen/Bias.
 
+Die folgende Rechenbasis trennt drei Ebenen, die für die Nachvollziehbarkeit der P‑QIA nicht vermischt werden dürfen. Die Zotero-API weist zunächst alle aktuell mit einer FU versehenen Einträge aus. Der BibTeX-Export bildet den Arbeitsstand des Literaturverzeichnisses ab. Für die P‑QIA selbst sind nur jene Einträge auswertbar, die zugleich einen FU-Tag und eine strukturierte Analyse im Feld `annote` tragen, weil diese `annote`-Texte die Eingabe der Analysen dritter Ordnung bilden. Der finale Aktualitätsabgleich vom 06.05.2026 setzt diese auswertbare P‑QIA-Basis auf 801 Analysen erster Ordnung.
+
+Table: Abgleich der aktuellen P‑QIA-Rechenbasis mit Zotero-API und BibTeX-Export \label{tab:pqia-audit}
+
+| FU | Zotero-API: FU-Tag | BibTeX-Export: FU-Tag | P‑QIA-Basis: FU-Tag + `annote` |
+|---|---:|---:|---:|
+| FU$_{1}$ | 59 | 58 | 58 |
+| FU$_{2a}$ | 92 | 92 | 85 |
+| FU$_{2b}$ | 33 | 33 | 27 |
+| FU$_{3}$ | 198 | 192 | 118 |
+| FU$_{4a}$ | 273 | 265 | 223 |
+| FU$_{4b}$ | 118 | 115 | 92 |
+| FU$_{5}$ | 136 | 136 | 125 |
+| FU$_{6}$ | 77 | 77 | 65 |
+| FU$_{7}$ | 10 | 10 | 8 |
+| **Summe der FU-Zuordnungen** | **996** | **968** | **801** |
+
+\tabsubcaption{Abgleich der lokalen Zotero-API mit dem exportierten Literaturverzeichnis, Stand: 2026-05-06. Die API-Spalte beschreibt den aktuellen Tagging-Stand in Zotero. Die Spalte `FU-Tag + annote` beschreibt die final auswertbare P‑QIA-Eingabe, weil nur diese Einträge eine Primäranalyse im Literaturverzeichnis enthalten.}
+
+Die Ergänzungen gegenüber den früheren Arbeitsdateien liegen in FU$_{3}$ und FU$_{4a}$. Sie wurden gegen die bestehenden Kodiermanuale geprüft und in die Kategorienzählungen eingearbeitet. Damit führt der Anhang nur noch einen aktuellen P‑QIA-Stand.
+
+Ergänzend zur `annote`-basierten P-QIA wurde am 06.05.2026 eine API-basierte Silhouette-Sensitivitätsprüfung auf den Zotero-Notizen gerechnet. Diese Prüfung hat eine andere Funktion als die Kategorienzählungen der P-QIA. Sie prüft, wie stark sich die FU-spezifischen Sinnabschnitte im Embedding-Raum geometrisch voneinander abheben. Verarbeitet wurden die Zotero-Notizen der FU-getaggten Einträge; HTML-Artefakte wurden entfernt, die Notizen in Sinnabschnitte segmentiert und mit `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` vektorisiert. Auf normalisierten Embeddings wurde $k$-means mit Seed 42 und 50 Initialisierungen gerechnet; der Silhouette-Wert wurde mit Kosinusdistanz bestimmt.
+
+Table: Rechenweg und Kennwerte der API-basierten Silhouette-Sensitivitätsprüfung \label{tab:A-pqia-silhouette}
+
+| FU | Items mit Notiz | Notizen | Sinnabschnitte | k | Silhouette |
+|---|---:|---:|---:|---:|---:|
+| FU$_{1}$ | 58 | 65 | 1480 | 8 | 0.0733 |
+| FU$_{2a}$ | 85 | 93 | 2035 | 12 | 0.0793 |
+| FU$_{2b}$ | 27 | 35 | 798 | 14 | 0.1004 |
+| FU$_{3}$ | 118 | 129 | 2889 | 15 | 0.0579 |
+| FU$_{4a}$ | 224 | 254 | 5749 | 12 | 0.0061 |
+| FU$_{4b}$ | 92 | 100 | 2144 | 12 | 0.0514 |
+| FU$_{5}$ | 125 | 134 | 2785 | 14 | 0.0481 |
+| FU$_{6}$ | 64 | 72 | 1780 | 12 | 0.0515 |
+| FU$_{7}$ | 8 | 10 | 251 | 10 | 0.1293 |
+
+\tabsubcaption{Ergänzende Sensitivitätsprüfung der FU-spezifischen Zotero-Notizen, Stand: 2026-05-06. Die niedrigen Werte werden als Hinweis auf semantische Verwobenheit der FU-spezifischen Sinnabschnitte gelesen und in Abschnitt~\hyperref[sec:P-QIA]{4.3.4} methodisch eingeordnet.}
+
 **FU1 – Analyse dritter Ordnung (P‑QIA)**[]{#sec:A-9-FU1}
 
 **Kurztext**
 
 - Datenbasis: n = 58 Analysen 1. Ordnung (FU1) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 235 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Zuordnung“, reine Relevanzbewertungen).
-- Parameter: k = 8 (FU1); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.91.
+- Parameter: k = 8 (FU1); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0733.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v2)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 8; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -141,11 +180,11 @@ Die P‑QIA basiert auf stark strukturierten Primäranalysen (`annote`), die neb
 
 - Datenbasis: n = 85 Analysen 1. Ordnung (FU2a) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 1199 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Zuordnung“, Relevanz-/Zitierbewertungen).
-- Parameter: k = 12 (FU2a); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.88.
+- Parameter: k = 12 (FU2a); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0793.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -284,7 +323,7 @@ FU2a beschreibt Effekte auch über unmittelbare Reaktionen und Prozessunterstüt
 
 **Theoretische Einbettung**
 
-FU2a lässt sich als evaluativer Zugriff auf Wirkungen bei Lernenden lesen: Effekte werden in den Segmenten sowohl als „Learning“-Dimension (Lernzuwachs/Leistung) als auch als „Reaction“-Dimension (Zufriedenheit/Motivation) operationalisiert und damit an Evaluationslogiken anschlussfähig (z.B. Kirkpatrick; Training Evaluation Inventory). [@kirkpatrick_evaluating_1998] [@ritzmann_training_2014] [@ritzmann_tei_2020] Die in Abschnitt \hyperref[sec:P-QIA]{4.3.4} dokumentierte Silhouette (S = 0.88) spricht für eine stabile Clusterstruktur im FU2a-Korpus und stützt die interpretative Differenzierung der Effektdimensionen. [@rousseeuw_silhouettes_1987]
+FU2a lässt sich als evaluativer Zugriff auf Wirkungen bei Lernenden lesen: Effekte werden in den Segmenten sowohl als „Learning“-Dimension (Lernzuwachs/Leistung) als auch als „Reaction“-Dimension (Zufriedenheit/Motivation) operationalisiert und damit an Evaluationslogiken anschlussfähig (Kirkpatrick; Training Evaluation Inventory). [@kirkpatrick_evaluating_1998] [@ritzmann_training_2014] [@ritzmann_tei_2020] Die in Abschnitt \hyperref[sec:P-QIA]{4.3.4} dokumentierte Silhouette (S = 0.0793) zeigt eine geringe geometrische Separierbarkeit im FU2a-Korpus und stützt die Lesart semantisch verwobener Effektdimensionen. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
@@ -302,11 +341,11 @@ Die FU2a-Primäranalysen sind heterogen (unterschiedliche Domänen, Designs, Mes
 
 - Datenbasis: n = 27 Analysen 1. Ordnung (FU2b) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 398 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Zuordnung“, Relevanz-/Zitierbewertungen).
-- Parameter: k = 14 (FU2b); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.89.
+- Parameter: k = 14 (FU2b); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.1004.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -481,13 +520,13 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 
 **Kurztext**
 
-- Datenbasis: n = 115 Analysen 1. Ordnung (FU3) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
-- Segmentierung: N = 1748 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, reine Relevanzbewertungen).
-- Parameter: k = 15 (FU3); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.87.
+- Datenbasis: n = 118 Analysen 1. Ordnung (FU3) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
+- Segmentierung: N = 1823 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, reine Relevanzbewertungen).
+- Parameter: k = 15 (FU3); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0579.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. isolierte Trennzeichen) entfernt.
 - Clustering: k = 15; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -499,18 +538,18 @@ Der FU2b-Korpus ist vergleichsweise klein (n = 27; N = 398) und inhaltlich heter
 | Interaktivität, Zufriedenheit & Engagement | 344 | [@wut_engaging_2024] [@chen_comparing_2018] |
 | Technologieintegration & Medienpraktiken | 176 | [@siewert_gut_2022] [@habib_flexible_2023] |
 | Digitale Kompetenzen & Qualifizierung | 156 | [@christian_fachliche_2021] [@hammaren_management_2024] |
-| Blended Learning, Learning Analytics & Design-Based Ansätze | 154 | [@volk_online_2024] [@sommer_entwicklung_2022] |
-| Kollaboration, Teamarbeit & Kommunikation | 141 | [@fink-heitz_dokumentation_2015] [@chang-tik_collaborative_2023] |
-| Moodle-Ökosystem, OER & Plugins | 112 | [@nguyen_model_2024] [@hausler_nachhaltig_2025] |
+| Blended Learning, Learning Analytics & Design-Based Ansätze | 159 | [@volk_online_2024] [@sommer_entwicklung_2022] |
+| Kollaboration, Teamarbeit & Kommunikation | 145 | [@fink-heitz_dokumentation_2015] [@chang-tik_collaborative_2023] |
+| Moodle-Ökosystem, OER & Plugins | 127 | [@nguyen_model_2024] [@peters_referenzhandbuch_2016] |
 | Lehr-Lerneffektivität & Wirksamkeitsbefunde | 102 | [@lukaschek_applicability_2019] [@meinert_examining_2019] |
-| Feedback, Evaluation & Lernindikatoren | 88 | [@oldenburg_blickmuster_2025] [@hellmuth_soziales_2021] |
-| Zielgruppen, Kontextbedingungen & Implementationsrahmen | 85 | [@shulgina_online_2024] [@chairuddin_utilization_2024] |
+| Feedback, Evaluation & Lernindikatoren | 108 | [@oldenburg_blickmuster_2025] [@ramezani_developing_2025] |
+| Zielgruppen, Kontextbedingungen & Implementationsrahmen | 95 | [@shulgina_online_2024] [@chairuddin_utilization_2024] |
 | LMS-Architektur, Adaptivität & kognitive Belastung | 83 | [@suryani_initial_2024] [@sims_learning_2021] |
 | Qualitative Studien & Erfahrungsberichte | 80 | [@syynimaa_higher_2024] [@al_mamun_cognitive_2024] |
-| Instruktionsdesign-Modelle & Bewertungsrahmen | 71 | [@de_leeuw_9-step_2019] [@siewert_gut_2022] |
+| Instruktionsdesign-Modelle & Bewertungsrahmen | 83 | [@bastiaens_vier-_nodate] [@de_leeuw_9-step_2019] |
 | Systemanpassung & Personalisierung | 66 | [@sektion_medienpadagogik_orientierungsrahmen_2017] [@gu_when_2023] |
-| Usability & Barrierefreiheit (WCAG, Audits) | 49 | [@rowert_ergebnisse_2023] [@hausler_nachhaltig_2025] |
-| Theoriebezüge (z.B. SDT) & Rahmenkonzepte | 41 | [@fahr_digitalisierung_2025] [@fahr_kompetenz-_2025] |
+| Usability & Barrierefreiheit (WCAG, Audits) | 54 | [@rowert_ergebnisse_2023] [@hausler_nachhaltig_2025] |
+| Theoriebezüge (z.B. SDT) & Rahmenkonzepte | 45 | [@fahr_digitalisierung_2025] [@fahr_kompetenz-_2025] |
 
 **Codierschema (Tabelle)**
 
@@ -656,7 +695,7 @@ Schließlich zeigt FU3, dass Merkmale häufig theoretisch gerahmt werden: Motiva
 
 **Theoretische Einbettung**
 
-FU3 rekonstruiert „didaktische und technologische Merkmale“ als mehrschichtiges Gefüge: von Interaktivität als Akzeptanz- und Engagementfaktor über konkrete Plattformökosysteme (Moodle/OER/Plugins) bis hin zu Modell- und Theoriebezügen (z.B. SAMR, SDT) als Strukturierungsrahmen. [@chen_comparing_2018] [@hausler_nachhaltig_2025] [@siewert_gut_2022] [@fahr_digitalisierung_2025] Die Silhouette (S = 0.87) stützt eine stabile Differenzierung dieser Merkmalsebenen im FU3-Korpus. [@rousseeuw_silhouettes_1987]
+FU3 rekonstruiert „didaktische und technologische Merkmale“ als mehrschichtiges Gefüge: von Interaktivität als Akzeptanz- und Engagementfaktor über konkrete Plattformökosysteme (Moodle/OER/Plugins) bis hin zu Modell- und Theoriebezügen (SAMR, SDT) als Strukturierungsrahmen. [@chen_comparing_2018] [@hausler_nachhaltig_2025] [@siewert_gut_2022] [@fahr_digitalisierung_2025] Die Silhouette (S = 0.0579) zeigt eine geringe geometrische Separierbarkeit und verweist auf übergreifende Bezüge zwischen diesen Merkmalsebenen im FU3-Korpus. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
@@ -672,13 +711,13 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 
 **Kurztext**
 
-- Datenbasis: n = 211 Analysen 1. Ordnung (FU4a) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
-- Segmentierung: N = 1429 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
-- Parameter: k = 12 (FU4a); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.90.
+- Datenbasis: n = 223 Analysen 1. Ordnung (FU4a) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
+- Segmentierung: N = 1766 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
+- Parameter: k = 12 (FU4a); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0061.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -687,18 +726,18 @@ Der FU3-Korpus ist methodisch heterogen: Praxis-/Übersichtsbeiträge, qualitati
 
 | Kategorie | Segmente (n) | Beispielquellen |
 | --- | ---: | --- |
-| Learning Analytics & datenbasierte Steuerung | 245 | [@yan_evidencebased_2024] [@yildiz_durak_impact_2024] |
-| Organisationskultur & institutionelle Rahmung | 172 | [@weihmayer_herumdoppeln_2023] [@schiefner-rohs_medienbildung_2017] |
+| Learning Analytics & datenbasierte Steuerung | 253 | [@yan_evidencebased_2024] [@yildiz_durak_impact_2024] |
+| Organisationskultur & institutionelle Rahmung | 192 | [@weihmayer_herumdoppeln_2023] [@felfe_using_2025] |
 | Ethik, Verantwortung & medienpädagogische Grundlegung | 159 | [@haltaufderheide_medizinethik_2022] [@weich_bildungsauftrag_2023] |
-| Personalisierung, Lernendenmodelle & Differenzierung | 143 | [@kostolanyova_adaptation_2011] [@zhou_latent_2025] |
-| Engagement, Aufgabenbearbeitung & soziale Dynamiken | 122 | [@zhu_online_2011] [@yildiz_durak_impact_2024] |
+| Personalisierung, Lernendenmodelle & Differenzierung | 156 | [@kostolanyova_adaptation_2011] [@zhou_latent_2025] |
+| Engagement, Aufgabenbearbeitung & soziale Dynamiken | 132 | [@zhou_impact_2022] [@yildiz_durak_impact_2024] |
 | Affekte, Selbstwirksamkeit & (Nicht-)Signifikanz | 98 | [@janeczko_forderung_2024] [@vagt_virtuelle_2024] |
-| Systemtheorie, Vielfalt & kulturelle Kontextualisierung | 97 | [@turk_vielfalt_1978] [@hashmi_exploring_2025] |
-| Konstruktivistische Lernmechanismen & Kollaboration | 92 | [@bastiaens_gestaltung_2017] [@maphalala_online_2021] |
+| Systemtheorie, Vielfalt & kulturelle Kontextualisierung | 221 | [@turk_vielfalt_1978] [@turk_komplexitat_1978] |
+| Konstruktivistische Lernmechanismen & Kollaboration | 143 | [@bastiaens_gestaltung_2017] [@alzaghoul_adapting_2018] |
 | Aufmerksamkeit, Blickmuster & kognitive Prozesse (Eye-Tracking) | 89 | [@valek_eye-tracking_2023] [@laubrock_gaze_2023] |
-| Didaktische Interventionstypologien & trialogische Formate | 81 | [@hubener_trialogische_2025] [@zhou_latent_2025] |
-| Feedback, formatives Assessment & Selbstregulation | 71 | [@nicol_formative_2006] [@velan_integrated_2008] |
-| Iterative Verbesserung, Trainingseffekte & Kompetenzentwicklung | 60 | [@wuttke_technologiebasiertes_2024] [@velan_integrated_2008] |
+| Didaktische Interventionstypologien & trialogische Formate | 116 | [@hubener_trialogische_2025] [@kotitschke_moodle_2026] |
+| Feedback, formatives Assessment & Selbstregulation | 98 | [@nicol_formative_2006] [@pieper_lehrkraft-feedback_2023] |
+| Iterative Verbesserung, Trainingseffekte & Kompetenzentwicklung | 109 | [@wuttke_technologiebasiertes_2024] [@alzaghoul_adapting_2018] |
 
 **Codierschema (Tabelle)**
 
@@ -817,7 +856,7 @@ Mechanismen werden schließlich als Verbesserungsschleifen sichtbar: Wiederholun
 
 **Theoretische Einbettung**
 
-FU4a rekonstruiert bildungswissenschaftliche Mechanismen als Zusammenspiel aus (a) Rückkopplung/Regulation (Feedback, Assessment, Analytics), (b) sozialer Prozesslogik (Engagement, Kollaboration, Affekte) und (c) System-/Kontextbedingungen (Organisationskultur, Ethik, kulturelle Passung). Damit ist FU4a anschlussfähig an systemtheoretische Beschreibungen von Steuerung und erforderlicher Vielfalt sowie an konstruktivistische Lernparadigmen, in denen Lernwirksamkeit über aktive, kontextualisierte Lernhandlungen modelliert wird. [@turk_vielfalt_1978] [@bastiaens_gestaltung_2017] Die Silhouette (S = 0.90) stützt eine sehr starke Clustertrennung im FU4a-Korpus und damit die Differenzierung der Mechanismenebenen. [@rousseeuw_silhouettes_1987]
+FU4a rekonstruiert bildungswissenschaftliche Mechanismen als Zusammenspiel aus (a) Rückkopplung/Regulation (Feedback, Assessment, Analytics), (b) sozialer Prozesslogik (Engagement, Kollaboration, Affekte) und (c) System-/Kontextbedingungen (Organisationskultur, Ethik, kulturelle Passung). Damit ist FU4a anschlussfähig an systemtheoretische Beschreibungen von Steuerung und erforderlicher Vielfalt sowie an konstruktivistische Lernparadigmen, in denen Lernwirksamkeit über aktive, kontextualisierte Lernhandlungen modelliert wird. [@turk_vielfalt_1978] [@bastiaens_gestaltung_2017] Die Silhouette (S = 0.0061) zeigt eine besonders geringe geometrische Separierbarkeit im FU4a-Korpus und macht sichtbar, wie stark die Mechanismenebenen semantisch ineinandergreifen. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
@@ -835,11 +874,11 @@ Der FU4a-Korpus ist breit und heterogen (von theoretischen Grundlegungen über I
 
 - Datenbasis: n = 92 Analysen 1. Ordnung (FU4b) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 634 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Relevanzbewertung“, „Verschlagwortung“, „Zuordnung“, „Kernaussagen“, „Argumentationslinien“, Reife-/Aktualitätsbewertungen).
-- Parameter: k = 12 (FU4b); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.92.
+- Parameter: k = 12 (FU4b); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0514.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -930,7 +969,7 @@ Schließlich werden Evaluationslogiken selbst zum Mechanismus: Stakeholder-Persp
 
 **Theoretische Einbettung**
 
-FU4b rekonstruiert bildungstechnologische Mechanismen als „infrastrukturelle“ Kopplung von (a) Mess-/Rückkopplung (Analytics, Logdaten, Eye-Tracking, Feedbacksysteme), (b) Interface-/Plattformgestaltung (Visualisierung, Content, Portfolios) und (c) Entwicklungs-/Betriebsbedingungen (agil, offline, Sicherheit). Damit werden Mechanismen als technische und gestalterische Bedingungen von Lernprozessen beschrieben, die erst im Zusammenspiel mit didaktischen Arrangements wirksam werden. Die Silhouette (S = 0.92) stützt eine nahezu perfekte Trennung der Mechanismencluster im FU4b-Korpus. [@rousseeuw_silhouettes_1987]
+FU4b rekonstruiert bildungstechnologische Mechanismen als „infrastrukturelle“ Kopplung von (a) Mess-/Rückkopplung (Analytics, Logdaten, Eye-Tracking, Feedbacksysteme), (b) Interface-/Plattformgestaltung (Visualisierung, Content, Portfolios) und (c) Entwicklungs-/Betriebsbedingungen (agil, offline, Sicherheit). Damit werden Mechanismen als technische und gestalterische Bedingungen von Lernprozessen beschrieben, die erst im Zusammenspiel mit didaktischen Arrangements wirksam werden. Die Silhouette (S = 0.0514) zeigt eine geringe geometrische Separierbarkeit der Mechanismencluster im FU4b-Korpus. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
@@ -948,11 +987,11 @@ FU4b ist geprägt von der Verschränkung technischer, didaktischer und organisat
 
 - Datenbasis: n = 125 Analysen 1. Ordnung (FU5) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 761 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
-- Parameter: k = 14 (FU5); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.88.
+- Parameter: k = 14 (FU5); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0481.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 14; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -1055,7 +1094,7 @@ Schließlich ist Evaluation selbst ein Mechanismus der Begrenzung und Ermöglich
 
 **Theoretische Einbettung**
 
-FU5 rekonstruiert „Möglichkeiten und Grenzen“ als Zusammenspiel von (a) sozialpsychologischen und kulturellen Dynamiken (Isolation/Abhängigkeit vs. soziale Teilhabe), (b) didaktischen Gestaltungslogiken (Interaktivität, Feedbackformate, Blended/MOOCs) und (c) strukturellen Rahmenbedingungen (Support/Policies/Rechte, Usability/Akzeptanz, Evaluation). Damit ist FU5 anschlussfähig an Perspektiven, die digitale Bildungsräume als soziotechnische Arrangements mit Erfolgs-/Akzeptanzlogiken verstehen (z.B. IS-Erfolg über Nutzung/Qualität/Nutzen). [@mtebe_learning_2015] Die Silhouette (S = 0.88) spricht für eine stabile Clusterstruktur im FU5-Korpus. [@rousseeuw_silhouettes_1987]
+FU5 rekonstruiert „Möglichkeiten und Grenzen“ als Zusammenspiel von (a) sozialpsychologischen und kulturellen Dynamiken (Isolation/Abhängigkeit und soziale Teilhabe), (b) didaktischen Gestaltungslogiken (Interaktivität, Feedbackformate, Blended/MOOCs) und (c) strukturellen Rahmenbedingungen (Support/Policies/Rechte, Usability/Akzeptanz, Evaluation). Damit ist FU5 anschlussfähig an Perspektiven, die digitale Bildungsräume als soziotechnische Arrangements mit Erfolgs-/Akzeptanzlogiken verstehen (IS-Erfolg über Nutzung/Qualität/Nutzen). [@mtebe_learning_2015] Die Silhouette (S = 0.0481) zeigt eine geringe geometrische Separierbarkeit im FU5-Korpus. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
@@ -1073,11 +1112,11 @@ Der FU5-Korpus mischt Problem- und Chancenperspektiven (z.B. Motivation/Gamifica
 
 - Datenbasis: n = 65 Analysen 1. Ordnung (FU6) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 480 Sinnabschnitte (1–3 Sätze) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
-- Parameter: k = 12 (FU6); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.89.
+- Parameter: k = 12 (FU6); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.0515.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–3 Sätze; Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 12; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -1168,7 +1207,7 @@ MOOC-Plattformen werden als technische Infrastruktur für Kompetenzerwerb rekons
 
 **Theoretische Einbettung**
 
-FU6 lässt sich als Systemperspektive auf Kompetenzerwerb lesen: Kompetenzentwicklung wird als Ergebnis von Passung (Systemanpassung, Infrastruktur), Steuerung (Analytics, Personalisierung), Motivationsdynamik (Selbstwirksamkeit, Gamification) und Qualitätsprozessen (Peer-Urteile, partizipative Entwicklung) rekonstruiert. Damit wird LMS nicht als reines Tool, sondern als soziotechnisches Kompetenzerwerbssystem modelliert. Die Silhouette (S = 0.89) spricht für eine stabile Clusterstruktur im FU6-Korpus. [@rousseeuw_silhouettes_1987]
+FU6 lässt sich als Systemperspektive auf Kompetenzerwerb lesen: Kompetenzentwicklung wird als Ergebnis von Passung (Systemanpassung, Infrastruktur), Steuerung (Analytics, Personalisierung), Motivationsdynamik (Selbstwirksamkeit, Gamification) und Qualitätsprozessen (Peer-Urteile, partizipative Entwicklung) rekonstruiert. Damit wird LMS als soziotechnisches Kompetenzerwerbssystem modelliert. Die Silhouette (S = 0.0515) zeigt eine geringe geometrische Separierbarkeit im FU6-Korpus. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
@@ -1186,11 +1225,11 @@ Der FU6-Korpus kombiniert sehr unterschiedliche Kontexte (MOOCs, Pflege/Medizin,
 
 - Datenbasis: n = 8 Analysen 1. Ordnung (FU7) aus dem Literaturverzeichnis (FU‑Tag + `annote`).
 - Segmentierung: N = 90 Sinnabschnitte (FU7: 1–2 Sätze, in der Regel 1 Satz) nach Ausschluss von Template-/Metasektionen (z.B. „Methoden und Datenquellen“, „Zusammenfassung“, „Verschlagwortung“, „Kategorisierung“, „Zuordnung“, Relevanz-/Aktualitätsbewertungen).
-- Parameter: k = 10 (FU7); Silhouette gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.93.
+- Parameter: k = 10 (FU7); ergänzende API-basierte Silhouette-Sensitivitätsprüfung gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}: S = 0.1293.
 
 **Protokoll (Run-Parameter)**
 
-- Datum/Version: 2025-12-15 (v1)
+- Datum/Version: 2026-05-06 (finaler Aktualitätsabgleich)
 - Segmentierung: 1–2 Sätze (FU7); Metasektionen ausgeschlossen; Artefakte (z.B. `\\textless`, Trennlinien) entfernt/normalisiert.
 - Clustering: k = 10; k‑Tuning: nein (Parameter gemäß Abschnitt \hyperref[sec:P-QIA]{4.3.4}).
 - Referenzanker: Ankerbeispiele werden über Pandoc-kompatible BibTeX-Keys geführt.
@@ -1269,7 +1308,7 @@ Schließlich werden Stabilisierung und Generalisierung als Mechanismen sichtbar,
 
 **Theoretische Einbettung**
 
-FU7 ist als „Erweiterung von Kausalgesetzen“ anschlussfähig an zwei Lesarten: (1) regel-/strukturorientierte Modellierung (z.B. Strukturlernen in MLNs) als formale Verdichtung von „Wenn-Dann“-Beziehungen und (2) soziotechnische Augmentation als Versuch, Entscheidungs- und Lernprozesse unter Unsicherheit zu stabilisieren. Beide Lesarten lassen sich mit dem Technologiedefizit als theoretischer Hintergrund (Begrenztheit sicherer Techniken in komplexen Sozialkontexten) in Beziehung setzen. [@luhmann_technologiedefizit_1982] [@pentzold_praxis_2018] Die Silhouette (S = 0.93) stützt eine sehr klare Trennung der FU7-Cluster trotz des kleinen Korpus. [@rousseeuw_silhouettes_1987]
+FU7 ist als „Erweiterung von Kausalgesetzen“ anschlussfähig an zwei Lesarten: (1) regel-/strukturorientierte Modellierung (Strukturlernen in MLNs) als formale Verdichtung von „Wenn-Dann“-Beziehungen und (2) soziotechnische Augmentation als Versuch, Entscheidungs- und Lernprozesse unter Unsicherheit zu stabilisieren. Beide Lesarten lassen sich mit dem Technologiedefizit als theoretischer Hintergrund (Begrenztheit sicherer Techniken in komplexen Sozialkontexten) in Beziehung setzen. [@luhmann_technologiedefizit_1982] [@pentzold_praxis_2018] Die Silhouette (S = 0.1293) zeigt auch im kleinen FU7-Korpus eine geringe bis vorsichtig moderate geometrische Separierbarkeit. [@rousseeuw_silhouettes_1987]
 
 **Reflexion**
 
