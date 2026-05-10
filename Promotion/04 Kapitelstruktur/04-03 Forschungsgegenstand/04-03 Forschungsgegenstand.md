@@ -509,10 +509,10 @@ Ergänzend wurden der Zusammenhang zwischen Aufgabenanzahl und Kursdauer berechn
 
 Die Auswertung der 32 Kurse liefert zunächst Kennzahlen zur inhaltlichen Gewichtung nach Themenbereichen.
 
-- Bezugswissenschaftlich: 13 Kurse, Ø Dauer = 21,3 Tage, Ø Aufgaben = 21,7
-- Medizinisch: 12 Kurse, Ø Dauer = 27,2 Tage, Ø Aufgaben = 26,8
-- Rettungsdienstlich: 7 Kurse, Ø Dauer = 57,0 Tage, Ø Aufgaben = 33,3
-- Einweisung/Prüfung (Sonderkategorie): 2 Kurse, getrennt ausgewertet
+- Bezugswissenschaftlich: 12 Kurse, Ø Dauer = 21,3 Tage, Ø Aufgaben = 25,6
+- Medizinisch: 12 Kurse, Ø Dauer = 27,2 Tage, Ø Aufgaben = 32,8
+- Rettungsdienstlich: 6 Kurse, Ø Dauer = 57,0 Tage, Ø Aufgaben = 38,7
+- Einführung/Prüfung (Sonderkategorie): 2 Kurse, Ø Dauer = 23,5 Tage, Ø Aufgaben = 30,5
 
 Die folgenden Kennwerte eröffnen einen Vergleich mit der normativen Stundenverteilung der Anlage 1 NotSan-APrV (\hyperref[fig:fg-aprv-themenbereiche]{Abb.~\ref{fig:fg-aprv-themenbereiche}}).
 

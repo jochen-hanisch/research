@@ -568,6 +568,10 @@ Zugleich war der Forschungsprozess selbst von Elementaroperationen durchdrungen:
 
 Abschließend lässt sich festhalten: Die Arbeit am Interdependenzoperator $H$ war nicht nur ein theoretisches Unterfangen, sondern auch ein exemplarischer Vollzug systemischer Forschung. In ihr wurde nicht nur Kommunikation beschrieben, sondern auch praktiziert – als Struktur, als Differenz, als rekursive Dynamik.
 
+## Anschluss: Lernkarteikartenkasten
+
+Die Notiz [[Didaktik Lernkarteikastens]] liefert einen niedrigschwelligen didaktischen Anschluss an den [[Interdependenzoperator]]. Im Lernkarteikartenkasten entstehen Lernanschlüsse nicht aus einer einzelnen Operation, sondern aus der rekursiven Kopplung von [[Feedback]], [[Reflexion]] und [[Re-entry]]. Damit kann die Methode als praktisches Beispiel für interdependente Elementaroperationen gelesen werden. (Schlussfolgerung aus [[Interdependenzoperator]], [[Elementaroperationen]] und [[Didaktik Lernkarteikastens]])
+
 # Quelle(n)
 
 - Bunge, M. (1967). *Scientific research II: The search for truth*. Springer.

@@ -715,6 +715,10 @@ Reflexion ist die mittlere Operation der Elementaroperations-Schleife ([[Feedbac
 
 Die ontogenetisch universale Operation nimmt systemtypische Prozessformen an: physikalisch als Grenzflächeninversion, biologisch als Regulation, lebend als autopoietische Schleife, psychisch als Reflexionsidentität (Günther, 1963/2021), sozial als kommunikative Selbstbeobachtung (Luhmann, 1984), technisch als modellbasiertes Update (Dayan & Abbott, 2001). Diese Differenzierung verbindet Genese (Operation) und Form (Prozess) und soll erklären, warum Reflexion sowohl empirisch beobachtbar als auch formal anschlussfähig bleibt. Ihre Relevanz liegt darin, Lernen, Anpassung und Selbstbeschreibung in allen Systemtypen minimal zu begründen und zugleich disziplinspezifisch auszuprägen.
 
+## Anschluss: Lernkarteikartenkasten
+
+Die Notiz [[Didaktik Lernkarteikastens]] bietet einen bildungspraktischen Anschluss an Reflexion als interne Transformationsoperation. Eine nicht gekonnte Karte erzeugt nicht nur Wiederholungsbedarf, sondern kann als Hinweis auf Fehlvorstellungen, Lücken im Vorwissen oder unangemessene Lernstrategien reflektiert werden. (Schlussfolgerung aus [[Reflexion]] und [[Didaktik Lernkarteikastens]])
+
 # Quelle(n)
 
 - Ashby, W. R. (1956). *An Introduction to Cybernetics*. Chapman & Hall.

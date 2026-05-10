@@ -248,6 +248,10 @@ Die daraus abgeleiteten Implikationen betreffen Methodologie, Modellbildung, Wah
 
 Der Wirkbegriff erhält damit eine formale, theoretisch anschlussfähige und interdisziplinär tragfähige Gestalt. Er erlaubt die Beschreibung dynamischer Prozesse, ohne auf kraftbasierte Kausalannahmen zurückzugreifen, und eröffnet eine differenzierte Analyse komplexer Bildungs- und Versorgungskontexte.
 
+## Anschluss: Lernkarteikartenkasten
+
+Die Notiz [[Didaktik Lernkarteikastens]] bietet einen bildungspraktischen Anwendungsfall für Wirkung als anschlussrelevante Differenz. Eine richtige oder falsche Antwort ist dort zunächst nur eine Zustandsdifferenz; Wirkung entsteht erst, wenn diese Differenz spätere Lernanschlüsse, Wiederholungsintervalle oder die [[Kompetenzentwicklung]] verändert. (Schlussfolgerung aus [[Wirkung]], [[Kompetenzentwicklung]] und [[Didaktik Lernkarteikastens]])
+
 # Quelle(n)
 
 - Bateson, G. (1985). *Geist und Natur. Eine notwendige Einheit* (Übers. aus dem Engl.). Suhrkamp. (Originalarbeit veröffentlicht 1979)

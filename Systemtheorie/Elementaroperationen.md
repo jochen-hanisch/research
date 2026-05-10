@@ -892,6 +892,10 @@ Die Begriffe sind jedoch nicht frei von Herausforderungen. Die Kritik an ihrem h
 
 Zusammenfassend sind [[Feedback]], [[Reflexion]] und [[Re-entry]] fundamentale Prinzipien, die systemische Dynamiken beschreiben und analysierbar machen. Ihre Weiterentwicklung bietet nicht nur theoretische, sondern auch praktische Chancen, um komplexe [[Systeme]] besser zu verstehen, nachhaltig zu gestalten und interdisziplinäre Verbindungen zu schaffen.
 
+## Anschluss: Lernkarteikartenkasten
+
+Die Notiz [[Didaktik Lernkarteikastens]] kann als didaktischer Anwendungsfall der [[Elementaroperationen]] gelesen werden. Der Lernkarteikartenkasten macht die Abfolge [[Feedback]] → [[Reflexion]] → [[Re-entry]] an einer einfachen Lernpraxis beobachtbar und zeigt damit, wie abstrakte Systemoperationen in einem konkreten Bildungsprozess erscheinen. (Schlussfolgerung aus [[Elementaroperationen]] und [[Didaktik Lernkarteikastens]])
+
 # Quelle(n)
 
 - Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). *Molecular Biology of the Cell* (6th ed.). Garland Science.
