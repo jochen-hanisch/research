@@ -134,21 +134,21 @@ Table: Jährliche Entwicklung der Clusterbildung und Silhouette-Scores (Ausschni
 | 2023 | 909 | 4 | 0.3997 |
 | 2024 | 797 | 4 | 0.2239 |
 | 2025 | 247 | 4 | 0.3794 |
-| **Summe** | 3904 | — | — |
+| **Summe** | 3668 | — | — |
 
-\tabsubcaption{Jahresbezogene Kennwerte der Clusterkohärenz für den Ausschnitt 2010–2025 (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=3904$ Einträge im Jahresausschnitt). Spalten: Jahr, Fallzahl ($n$), gewählte Clusterzahl ($k$) und Silhouette-Score; Grundlage für die Drift-/Verdichtungsinterpretation und die Gewichtung der Jahrgänge in den folgenden Abbildungen. Die Tabelle basiert auf dem Teilkorpus mit gültigem Jahr und auswertbarer Keyword-Struktur und ist damit von der Gesamtkorpusgröße zu unterscheiden.}
+\tabsubcaption{Jahresbezogene Kennwerte der Clusterkohärenz für den Ausschnitt 2010–2025 (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; $n=3668$ Einträge im Jahresausschnitt). Spalten: Jahr, Fallzahl ($n$), gewählte Clusterzahl ($k$) und Silhouette-Score; Grundlage für die Drift-/Verdichtungsinterpretation und die Gewichtung der Jahrgänge in den folgenden Abbildungen. Die Tabelle basiert auf dem Teilkorpus mit gültigem Jahr und auswertbarer Keyword-Struktur und ist damit von der Gesamtkorpusgröße zu unterscheiden.}
 
 \hyperref[tab:cluster_silhouette]{Tabelle~\ref{tab:cluster_silhouette}} dokumentiert die jahresbezogenen Kennwerte der Clusterkohärenz (Fallzahlen, $k$, Silhouette-Score) als Referenz für die nachfolgende Auswertung; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}. Die Batch-Neuberechnung unterscheidet dabei explizit zwischen Gesamtkorpus, Zeitreihenbasis und jahresbezogenem Diagnostikausschnitt.
 
 ![Silhouette-Scores und Fallzahlen pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/silhouette-scores-und-fallzahlen.png>){#fig:silhouette-scores}
 
-\figsubcaption{Gemeinsame Darstellung von Clusterkohärenz und Korpusvolumen pro Jahr (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Basis: 2010–2025, $n=3904$). Linke y-Achse: Silhouette-Score der jährlichen $k$-means-Clusterlösung; rechte y-Achse: Fallzahlen ($n$). Die Darstellung unterstützt die Identifikation von Verdichtungs- und Driftphasen.}
+\figsubcaption{Gemeinsame Darstellung von Clusterkohärenz und Korpusvolumen pro Jahr (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Basis: 2010–2025, $n=3668$). Linke y-Achse: Silhouette-Score der jährlichen $k$-means-Clusterlösung; rechte y-Achse: Fallzahlen ($n$). Die Darstellung unterstützt die Identifikation von Verdichtungs- und Driftphasen.}
 
 Die Abbildung stellt Silhouette-Scores und Fallzahlen je Jahr dar und dient als Grundlage für die Auswertung der Kohärenz- und Driftphasen; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
 ![Volumengewichtete Abweichung $\Delta SC_n$ der Clusterkohärenz pro Jahr.](<08 Metaquellen/08-01 Abbildungen/methodik/delta-sc-n-pro-jahr.png>){#fig:delta-silhouette}
 
-\figsubcaption{Volumengewichtete Abweichung der jährlichen Clusterkohärenz vom Referenzniveau (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Basis: 2010–2025, $n=3904$). $\Delta SC_n$ operationalisiert die Differenz zwischen Silhouette-Score und volumengewichteter Fallzahlrelation ($n/\max(n)$). Positive Balken markieren überproportional kohärente Jahrgänge (Verdichtung), negative Balken unterproportionale Kohärenz bei hohem Volumen (Drift/Reorganisation).}
+\figsubcaption{Volumengewichtete Abweichung der jährlichen Clusterkohärenz vom Referenzniveau (Quelle: lokale Zotero-Datenbank, Tagfilter `Promotion:Literaturanalyse`, Stand: 2026-05-06; Basis: 2010–2025, $n=3668$). $\Delta SC_n$ operationalisiert die Differenz zwischen Silhouette-Score und volumengewichteter Fallzahlrelation ($n/\max(n)$). Positive Balken markieren überproportional kohärente Jahrgänge (Verdichtung), negative Balken unterproportionale Kohärenz bei hohem Volumen (Drift/Reorganisation).}
 
 Die Abbildung dokumentiert die volumengewichtete Abweichung $\Delta SC_n$ als ergänzende Kennzahl zur Kohärenzdiagnostik; die Einordnung erfolgt in Abschnitt \hyperref[sec:Datenanalyse-Grundlogik]{4.3.1}.
 
@@ -412,7 +412,7 @@ Die Zeitreihe zeigt, wie sich das Literaturfeld volumetrisch entwickelt. Für di
 
 Die Auswahl folgte einem dokumentierten, algorithmisch gestützten Verfahren, das die deduktiv gesetzten Kategorien und Suchpfade in einen numerischen Repräsentationsraum überführt. Für die Methodik ist dabei entscheidend, dass die Schritte der Auswahl, Verdichtung und Gewichtung belegbar bleiben. Der Einfluss manueller Schwerpunktsetzungen wird über die dokumentierten Screening- und Tagging-Schritte transparent gehalten. Das Literaturfeld gilt damit als kontrolliert aufgebaute Referenzbasis für die weiteren Auswertungen.
 
-Die Summenzeile in \hyperref[tab:cluster_silhouette]{Tabelle~\ref{tab:cluster_silhouette}} dokumentiert für den jahresbezogenen Ausschnitt 2010 bis 2025 insgesamt 3 904 Einträge. Die jahresbezogenen Silhouette-Werte dienen in diesem Zusammenhang als diagnostische Kennwerte für die Binnenkohärenz der jeweiligen Jahresscheibe im vorgegebenen Modellraum. Sie machen damit sichtbar, wie trennscharf die für die Arbeit gesetzten Kategorien und Zuordnungen innerhalb eines Jahres zusammenwirken. Hohe Werte sprechen für kompaktere, im Modellraum stärker getrennte Konstellationen; niedrigere Werte verweisen auf stärkere Überlagerungen oder offenere Strukturen innerhalb derselben Ordnung.
+Die Summenzeile in \hyperref[tab:cluster_silhouette]{Tabelle~\ref{tab:cluster_silhouette}} dokumentiert für den jahresbezogenen Ausschnitt 2010 bis 2025 insgesamt 3 668 Einträge. Die jahresbezogenen Silhouette-Werte dienen in diesem Zusammenhang als diagnostische Kennwerte für die Binnenkohärenz der jeweiligen Jahresscheibe im vorgegebenen Modellraum. Sie machen damit sichtbar, wie trennscharf die für die Arbeit gesetzten Kategorien und Zuordnungen innerhalb eines Jahres zusammenwirken. Hohe Werte sprechen für kompaktere, im Modellraum stärker getrennte Konstellationen; niedrigere Werte verweisen auf stärkere Überlagerungen oder offenere Strukturen innerhalb derselben Ordnung.
 
 Im Zusammenspiel von Silhouette-Scores und Fallzahlen (\hyperref[fig:silhouette-scores]{Abb.~\ref{fig:silhouette-scores}}) lässt sich damit prüfen, ob Umfang und Binnenkohärenz eines Jahrgangs im selben Maß verlaufen oder auseinanderfallen. Kleine Jahrgänge können dabei ebenso hohe wie niedrige Werte aufweisen; größere Jahrgänge sind nicht automatisch weniger kohärent. Die quartilsbasierten Referenzlinien dienen lediglich der groben Einordnung von Verdichtungs- und Driftphasen und ersetzen keine inhaltliche Interpretation.
 
