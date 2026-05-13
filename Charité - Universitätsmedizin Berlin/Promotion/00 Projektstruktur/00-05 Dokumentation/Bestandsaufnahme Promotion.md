@@ -82,6 +82,8 @@ Zusätzlich liegen im übergeordneten Datenordner Arbeits- und HTML-Exporte, die
 
 Die Quellcodes liegen unter `08 Metaquellen/08-05 Quellcodes/`.
 
+Die Literaturanalyseskripte wurden zusätzlich gegen das frühere GitHub-Repository `https://github.com/jochen-hanisch/charite-promotion` geprüft. Dort lagen die Skripte unter `Systematische Literaturrecherche/`. Im Research-Repo werden sie jetzt im Promotionsordner mitgeführt, damit Skript, Datenbezug, Abbildungen, Kapitel und Anhang nicht mehr auf getrennte Repositories verteilt sind.
+
 | Analysepfad | Skripte | Trägt zu |
 |---|---|---|
 | Literaturauswahl und Jahresdiagnostik | `deskriptive-literaturauswahl.py`, `config_deskriptive_literaturauswahl.py` | Korpusaufbau, Jahresverteilung, Silhouette-Scores, Drift-/Verdichtungsinterpretation |
@@ -93,6 +95,8 @@ Die Quellcodes liegen unter `08 Metaquellen/08-05 Quellcodes/`.
 | TEI-gestützte Simulation | `tei-bildungswirkgefuege.py`, `config_bildungswirkgefuege.py` | Kopplung von TEI-Urteilsspur und simulationsgestützter Strukturspur |
 
 Die Skripte sind nicht alle unmittelbar lauffähige Ein-Klick-Werkzeuge. Mehrere erwarten externe Module (`ci_template`, `archetypen`), lokale Datenpfade oder bewusst gesetzte Umgebungsvariablen. Produktive Läufe müssen daher vorbereitet und dokumentiert werden.
+
+Python-Dateien erhalten kein rohes YAML-Frontmatter. Ein führender `---`-Block wäre in Python ein Syntaxfehler. Metadaten für Skripte werden deshalb über README, CITATION-Dateien, `zenodo.json`, kommentierte Metadaten oder Modul-Docstrings geführt.
 
 ## 6 Simulationen
 
@@ -130,6 +134,7 @@ Zotero-nahe Hilfsskripte liegen unter `tools/`. Dazu gehören Abschnitts-/Kapite
 
 - Die Research-Parent-`AGENTS.md` verweist noch auf den alten Obsidian-Pflichtanker; die lokale Promotions-`AGENTS.md` korrigiert dies für den Promotionsordner.
 - Einige Konfigurationen enthalten noch ältere absolute Exportpfade außerhalb des Promotionsordners.
+- Die früheren BibTeX-Zwischenstände aus `charite-promotion/Systematische Literaturrecherche/Bibliothek/` sind nicht pauschal importiert. Maßgeblich bleibt zunächst `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`; historische Bibliotheken können bei Bedarf gesondert verglichen werden.
 - Der Ordnername `eye-traking` ist im Bestand vorhanden. Nicht still umbenennen, weil Kapitel- und Bildpfade davon abhängen können.
 - Zwei unversionierte Tool-Dateien liegen im aktuellen Arbeitsbaum: `tools/pandoc/docx-workversion.lua` und `tools/zotero_sync_section_tags.py`. Vor einer späteren Versionierung ist zu prüfen, ob sie in den kuratierten Git-Kern gehören.
 - Der Bestand enthält viele nicht versionierte Markdown-Dateien. Das ist beabsichtigt, solange sie Arbeitsnotizen, Zwischenstände oder lokale Denkspuren sind.

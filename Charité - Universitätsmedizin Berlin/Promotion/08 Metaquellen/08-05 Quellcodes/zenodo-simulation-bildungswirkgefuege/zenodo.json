@@ -1,0 +1,24 @@
+{
+  "title": "Simulation des digitalen Bildungswirkgefüges: Neugier, Motivation und Kompetenzentwicklung (Gesundheitsberufe) [Python]",
+  "upload_type": "software",
+  "description": "Dieses Repository enth\u00e4lt den Python-Quellcode zur Simulation eines digitalen Bildungswirkgef\u00fcges im Kontext von Lern-Management-Systemen (LMS) im digitalen Bildungsraum von Gesundheitsberufen. Modelliert werden Dynamiken der Kompetenzentwicklung \u00fcber Zeit unter Ber\u00fccksichtigung von Neugier/Motivation, pers\u00f6nlichen Ereignissen (PE) und didaktischen Paradigmen (Instruktional \u2013 Systemisch). Das Skript erzeugt Monte-Carlo-Durchl\u00e4ufe, Kennwerte und interaktive Plotly-Visualisierungen sowie CSV-Exports f\u00fcr die weitere Auswertung. Parameterisierung erfolgt \u00fcber config_bildungswirkgefuege.py; Exportpfade sind per Umgebungsvariablen konfigurierbar. Hinweis: Projektspezifische Module (ci_template, archetypen) sind nicht Bestandteil dieses Zenodo-Pakets und m\u00fcssen f\u00fcr die Ausf\u00fchrung bereitgestellt werden.",
+  "creators": [
+    {
+      "name": "Hanisch-Johannsen, Jochen"
+    }
+  ],
+  "keywords": [
+    "digitales Bildungswirkgefüge",
+    "Wirkgefüge",
+    "Lern-Management-System",
+    "Gesundheitsberufe",
+    "Kompetenzentwicklung",
+    "Bildungswirkgef\u00fcge",
+    "Simulation",
+    "Monte Carlo",
+    "Plotly"
+  ],
+  "access_right": "closed",
+  "license": "proprietary",
+  "version": "0.1.0"
+}

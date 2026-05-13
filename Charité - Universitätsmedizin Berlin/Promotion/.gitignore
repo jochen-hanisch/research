@@ -47,6 +47,30 @@ tools/zotero_reattach_handbuch_medienpaedagogik_2008.py
 # Keep metadata base folder (needed for whitelisting below)
 !08 Metaquellen/
 
+# Keep analysis and simulation source code, but not packaged archives or generated outputs
+!08 Metaquellen/08-05 Quellcodes/
+08 Metaquellen/08-05 Quellcodes/**
+!08 Metaquellen/08-05 Quellcodes/*.py
+!08 Metaquellen/08-05 Quellcodes/*.md
+!08 Metaquellen/08-05 Quellcodes/*.txt
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/*.py
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/*.md
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/*.txt
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/*.cff
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/*.json
+!08 Metaquellen/08-05 Quellcodes/zenodo-simulation-bildungswirkgefuege/LICENSE
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/*.py
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/*.md
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/*.txt
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/*.cff
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/*.json
+!08 Metaquellen/08-05 Quellcodes/zenodo-tei-bildungswirkgefuege/LICENSE
+08 Metaquellen/08-05 Quellcodes/**/*.zip
+08 Metaquellen/08-05 Quellcodes/**/__pycache__/
+08 Metaquellen/08-05 Quellcodes/**/*.pyc
+
 # 08-01 Abbildungen: internes Abbildungsmanagement (standardmäßig ignoriert)
 !08 Metaquellen/08-01 Abbildungen/
 08 Metaquellen/08-01 Abbildungen/**

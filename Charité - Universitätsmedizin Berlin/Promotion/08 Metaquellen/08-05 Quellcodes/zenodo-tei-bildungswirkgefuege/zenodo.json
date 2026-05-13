@@ -1,0 +1,22 @@
+{
+  "title": "TEI-Bildungswirkgefüge: TEI-gestützte Simulation von Neugier, Motivation und Kompetenzentwicklung (Gesundheitsberufe) [Python]",
+  "upload_type": "software",
+  "description": "TEI-gest\u00fctzte Anwendung zur Simulation des digitalen Bildungswirkgef\u00fcges im Kontext von LMS im digitalen Bildungsraum von Gesundheitsberufen. Das Skript importiert TEI-Daten (Excel/CSV) \u00fcber mehrere Handlungssituationen, leitet daraus heuristische Ansatz-/Profilparameter ab (z. B. didaktisches Paradigma, PE-Komponenten) und modelliert Zeitverl\u00e4ufe von Neugier, Motivation/Bereitschaft und Kompetenzentwicklung. Es erzeugt Monte-Carlo-Auswertungen, Kennwerte, Plotly-Dashboards und CSV-Exports. Hinweis: Projektspezifische Module (ci_template, archetypen) sind nicht Bestandteil dieses Zenodo-Pakets und m\u00fcssen f\u00fcr die Ausf\u00fchrung bereitgestellt werden.",
+  "creators": [
+    {
+      "name": "Hanisch-Johannsen, Jochen"
+    }
+  ],
+  "keywords": [
+    "TEI",
+    "Training Evaluation Inventory",
+    "digitales Bildungswirkgef\u00fcge",
+    "Kompetenzentwicklung",
+    "Simulation",
+    "Gesundheitsberufe",
+    "Plotly"
+  ],
+  "access_right": "closed",
+  "license": "proprietary",
+  "version": "0.1.0"
+}

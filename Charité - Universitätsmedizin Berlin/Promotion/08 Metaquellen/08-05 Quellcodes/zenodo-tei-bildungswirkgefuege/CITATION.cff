@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "TEI-Bildungswirkgefüge: TEI-gestützte Simulation von Neugier, Motivation und Kompetenzentwicklung (Gesundheitsberufe) [Python]"
+type: software
+authors:
+  - family-names: "Hanisch-Johannsen"
+    given-names: "Jochen"
+    orcid: "https://orcid.org/0000-0001-7474-0894"
+version: "0.1.0"
+date-released: "2025-12-25"
+keywords:
+  - "TEI"
+  - "Training Evaluation Inventory"
+  - "digitales Bildungswirkgefüge"
+  - "Lern-Management-System"
+  - "Gesundheitsberufe"
+  - "Kompetenzentwicklung"
+  - "Simulation"
+license: "All rights reserved"

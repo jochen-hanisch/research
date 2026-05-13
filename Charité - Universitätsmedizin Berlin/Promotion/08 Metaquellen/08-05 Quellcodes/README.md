@@ -29,6 +29,19 @@ Besonders zu beachten:
 - Die Simulationen erwarten zusätzlich ein Modul `archetypen`.
 - Exportpfade können absolute lokale Ordner, Remote-SCP-Ziele oder Umgebungsvariablen nutzen.
 - Zotero-nahe Skripte liegen im Ordner `tools/`, nicht hier, und dürfen mit Schreibzugriff nur nach ausdrücklicher Freigabe laufen.
+- Python-Dateien erhalten kein rohes YAML-Frontmatter mit `---`, weil dies Python-Syntaxfehler erzeugt. Metadaten werden für Skripte über README, CITATION-Dateien, `zenodo.json`, kommentierte Metadaten oder Modul-Docstrings geführt.
+
+## Herkunft aus `charite-promotion`
+
+Die Literaturanalyseskripte wurden gegen das frühere GitHub-Repository `https://github.com/jochen-hanisch/charite-promotion` geprüft. Das alte Repository enthielt insbesondere:
+
+- `Systematische Literaturrecherche/analyse_korrelation.py`
+- `Systematische Literaturrecherche/analyse_netzwerk.py`
+- `Systematische Literaturrecherche/deskriptive-literaturauswahl.py`
+- `Systematische Literaturrecherche/requirements.txt`
+- BibTeX-Zwischenstände unter `Systematische Literaturrecherche/Bibliothek/`
+
+Der aktuelle Promotionsordner führt die Skripte nun im Research-Repo unter `08 Metaquellen/08-05 Quellcodes/`. Die Anforderungen der alten Literaturanalyselinie sind in `requirements-literaturanalyse.txt` gesichert. BibTeX-Zwischenstände aus dem alten Repo werden nicht pauschal importiert; maßgeblich für den Pandoc-/Zotero-Workflow bleibt `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`, sofern nicht ausdrücklich eine historische Vergleichsbibliothek benötigt wird.
 
 ## Skriptmatrix
 
@@ -69,22 +82,36 @@ Die Simulationsskripte unterstützen Umgebungsvariablen, um Exporte aus dem loka
 
 Wenn diese Variablen nicht gesetzt sind, können Skripte auf ältere lokale Defaultpfade zurückfallen. Vor produktiven Läufen deshalb prüfen, ob der Zielpfad in den aktuellen Promotionsordner oder in einen bewusst gewählten Exportordner zeigt.
 
+## Installation der Literaturanalyse-Abhängigkeiten
+
+Die aus `charite-promotion` übernommene Anforderungsliste liegt in:
+
+```bash
+python3.12 -m pip install --user -r "08 Metaquellen/08-05 Quellcodes/requirements-literaturanalyse.txt"
+```
+
+Falls `ci_template` nicht über den normalen `PYTHONPATH` gefunden wird, kann der lokale CI-Pfad gesetzt werden:
+
+```bash
+export CI_TEMPLATE_PATH="/Users/jochenhanisch-johannsen/Documents/scripte/Jochen-Hanisch/CI"
+```
+
 ## Veröffentlichte Software auf Zenodo
 
-- `analyse_netzwerk.py`  
-  Zenodo: https://zenodo.org/records/15387108  
+- `analyse_netzwerk.py`
+  Zenodo: https://zenodo.org/records/15387108
   DOI: `10.5281/zenodo.15387108`
 
-- `analyse_korrelation.py`  
-  Zenodo: https://zenodo.org/records/15386334  
+- `analyse_korrelation.py`
+  Zenodo: https://zenodo.org/records/15386334
   DOI: `10.5281/zenodo.15386334`
 
-- `zenodo-simulation-bildungswirkgefuege/`  
-  Zenodo: https://zenodo.org/records/18050984  
+- `zenodo-simulation-bildungswirkgefuege/`
+  Zenodo: https://zenodo.org/records/18050984
   DOI: `10.5281/zenodo.18050984`
 
-- `zenodo-tei-bildungswirkgefuege/`  
-  Zenodo: https://zenodo.org/records/18051116  
+- `zenodo-tei-bildungswirkgefuege/`
+  Zenodo: https://zenodo.org/records/18051116
   DOI: `10.5281/zenodo.18051116`
 
 ## Offene technische Pflegepunkte

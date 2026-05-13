@@ -1,0 +1,9 @@
+flask
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+plotly
+networkx
+kaleido
