@@ -1,0 +1,198 @@
+---
+author: Jochen Hanisch-Johannsen
+title: 04-A Bilder-Eye-Tracking
+versioned: true
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research
+Discussion:
+Publication: https://zenodo.org/records/###
+created: 2026-05-03
+updated: 2026-05-13
+publish: false
+published:
+status:
+priority:
+project:
+due:
+tags: []
+---
+\newpage
+
+## Eye-Tracking-Visualisierungen {#sec:A-7}
+
+Hinweis: Die Auswertung erfolgt in Kapitel 5; hier sind die vollständigen Bildreihen (Heatmap, Viewmap, Fog-View) je Stimulus und Ausbildungsjahr dokumentiert. Pfade: `08 Metaquellen/08-01 Abbildungen/eye-traking/…`.
+
+**Stimulus F2-S2 (Navigation, interaktive Elemente)**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f2-s2]{Tabelle~\ref{tbl:stimulus-f2-s2}} dargestellt.
+
+Table: Stimulus F2-S2: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f2-s2}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F2-S2 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F2-S2 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F2-S2 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F2-S2 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F2-S2 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F2-S2 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F2-S2 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F2-S2 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F2-S2 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F2-S2_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F2-S2. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F3-S3 (Aufgabenbereich/Arbeitsfläche)**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f3-s3]{Tabelle~\ref{tbl:stimulus-f3-s3}} dargestellt.
+
+Table: Stimulus F3-S3: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f3-s3}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F3-S3 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F3-S3 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F3-S3 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F3-S3 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F3-S3 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F3-S3 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F3-S3 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F3-S3 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F3-S3 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F3-S3_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F3-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F10-S3 (Lernplan/Kompetenzen)**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f10-s3]{Tabelle~\ref{tbl:stimulus-f10-s3}} dargestellt.
+
+Table: Stimulus F10-S3: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f10-s3}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F10-S3 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F10-S3 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F10-S3 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F10-S3 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F10-S3 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F10-S3 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F10-S3 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F10-S3 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F10-S3 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F10-S3_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F10-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F11-S3 (Weiterführende Quellen)**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f11-s3]{Tabelle~\ref{tbl:stimulus-f11-s3}} dargestellt.
+
+Table: Stimulus F11-S3: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f11-s3}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F11-S3 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F11-S3 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F11-S3 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F11-S3 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F11-S3 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F11-S3 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F11-S3 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F11-S3 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F11-S3 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F11-S3_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F11-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F14-S2 (Lernmaterial/Sicherheit)**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f14-s2]{Tabelle~\ref{tbl:stimulus-f14-s2}} dargestellt.
+
+Table: Stimulus F14-S2: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f14-s2}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F14-S2 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F14-S2 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F14-S2 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F14-S2 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F14-S2 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F14-S2 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F14-S2 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F14-S2 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F14-S2 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F14-S2_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F14-S2. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F5-S1**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f5-s1]{Tabelle~\ref{tbl:stimulus-f5-s1}} dargestellt.
+
+Table: Stimulus F5-S1: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f5-s1}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F5-S1 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F5-S1 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F5-S1 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F5-S1 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F5-S1 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F5-S1 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F5-S1 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F5-S1 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F5-S1 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F5-S1_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F5-S1. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F6-S1**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f6-s1]{Tabelle~\ref{tbl:stimulus-f6-s1}} dargestellt.
+
+Table: Stimulus F6-S1: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f6-s1}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F6-S1 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F6-S1 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F6-S1 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F6-S1 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F6-S1 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F6-S1 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F6-S1 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F6-S1 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F6-S1 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F6-S1_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F6-S1. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F8-S3**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f8-s3]{Tabelle~\ref{tbl:stimulus-f8-s3}} dargestellt.
+
+Table: Stimulus F8-S3: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f8-s3}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F8-S3 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F8-S3 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F8-S3 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F8-S3 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F8-S3 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F8-S3 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F8-S3 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F8-S3 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F8-S3 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F8-S3_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F8-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F9-S3**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f9-s3]{Tabelle~\ref{tbl:stimulus-f9-s3}} dargestellt.
+
+Table: Stimulus F9-S3: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f9-s3}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F9-S3 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F9-S3 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F9-S3 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F9-S3 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F9-S3 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F9-S3 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F9-S3 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F9-S3 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F9-S3 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F9-S3_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F9-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F12-S3-2**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f12-s3-2]{Tabelle~\ref{tbl:stimulus-f12-s3-2}} dargestellt.
+
+Table: Stimulus F12-S3-2: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f12-s3-2}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F12-S3-2 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F12-S3-2 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F12-S3-2 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F12-S3-2 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F12-S3-2 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F12-S3-2 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F12-S3-2 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F12-S3-2 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F12-S3-2 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F12-S3-2_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F12-S3-2. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```
+
+**Stimulus F13-S3**
+
+Die aggregierten Visualisierungen nach Ausbildungsjahr sind in \hyperref[tbl:stimulus-f13-s3]{Tabelle~\ref{tbl:stimulus-f13-s3}} dargestellt.
+
+Table: Stimulus F13-S3: Eye-Tracking nach Ausbildungsjahr {#tbl:stimulus-f13-s3}
+
+|              | 3. Ausbildungsjahr | 2. Ausbildungsjahr | 1. Ausbildungsjahr |
+|--------------|--------|--------|--------|
+| Heatmap      | ![F13-S3 Heatmap 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_Heatmap_21-NFS-09_Gesamt.png){width=90%} | ![F13-S3 Heatmap 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_Heatmap_22-NFS-09_Gesamt.png){width=90%} | ![F13-S3 Heatmap 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_Heatmap_23-NFS-09_Gesamt.png){width=90%} |
+| Viewmap      | ![F13-S3 View-Map 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_View-Map_21-NFS-09_Gesamt.png){width=90%} | ![F13-S3 View-Map 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_View-Map_22-NFS-09_Gesamt.png){width=90%} | ![F13-S3 View-Map 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_View-Map_23-NFS-09_Gesamt.png){width=90%} |
+| Fog-View     | ![F13-S3 Fog-View 3. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_Fog-View_21-NFS-09_Gesamt.png){width=90%} | ![F13-S3 Fog-View 2. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_Fog-View_22-NFS-09_Gesamt.png){width=90%} | ![F13-S3 Fog-View 1. Ausbildungsjahr Gesamt](08 Metaquellen/08-01 Abbildungen/eye-traking/F13-S3_Fog-View_23-NFS-09_Gesamt.png){width=90%} |
+
+```{=latex}
+\tabsubcaption{Eye-Tracking-Bildreihe nach Ausbildungsjahr für Stimulus F13-S3. Zeilen: Visualisierungstyp (Heatmap, Viewmap, Fog-View); Spalten: Ausbildungsjahre (3., 2. und 1. Ausbildungsjahr); jeweils aggregierte Gesamtdarstellungen als Grundlage der qualitativen Musteranalyse (vgl. Abschnitt 4.3.9).}
+```

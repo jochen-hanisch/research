@@ -1,0 +1,80 @@
+---
+author: Jochen Hanisch-Johannsen
+title: README
+versioned: true
+Repository: https://git.jochen-hanisch.de/jochen-hanisch/research
+Discussion:
+Publication: https://zenodo.org/records/###
+created: 2026-02-22
+updated: 2026-05-13
+publish: false
+published:
+status:
+priority:
+project:
+due:
+tags: []
+---
+# Promotion / Dissertation
+
+Dieses Verzeichnis enthält die Arbeitsmaterialien, Kapiteltexte und Build-Artefakte der Dissertation.
+
+## Struktur (Kurzüberblick)
+
+- `dissertation.md` – zentrales Hauptdokument (Steuer-/Klammerdokument).
+- `04 Kapitelstruktur/` – Kapiteldateien (Einleitung, Theorieteil, Methodologie, …) + Anhänge.
+- `08 Metaquellen/` – Daten, Metadaten, Literaturverzeichnis/Exports.
+- `build-dissertation.sh` – baut die Dissertation als PDF (Pandoc → LaTeX).
+
+## GitHub-Projekt: Aufgaben aus `#todo`
+
+Empfehlung: **ein** GitHub Project für die ganze Dissertation, mit Feldern wie `Status`, `Kapitel`, `Typ`, `Priorität`.
+
+### Schnell-Workflow (manuell, aber schnell)
+
+1. In VS Code den `#todo`-Text markieren (oder Cursor in der Zeile).
+2. `Cmd+Shift+P` → `GitHub Issues: Create Issue`.
+3. Issue-Titel/Body aus dem Todo ableiten, Issue erstellen.
+4. Im Markdown den Bezug festhalten, z. B. `#todo: Erkenntnisinteresse skizzieren (#123)`.
+
+## Zeitplan (Roadmap bis 20.03.2026)
+
+```mermaid
+gantt
+  title Dissertation-Roadmap (Ziel: 20.03.2026)
+  dateFormat  YYYY-MM-DD
+  axisFormat  %d.%m.
+
+  section Puffer
+  Feiertage/Familie (low intensity) :done, s0, 2025-12-20, 2026-01-06
+
+  section Schreiben & Konsolidierung (Sprint-Fenster)
+  Kap. 5 Ergebnisse (Milestone 5)        :crit, s1, 2026-01-07, 2026-01-27
+  Kap. 6 Diskussion (Milestone 6)        :crit, s2, 2026-01-28, 2026-02-10
+  Kap. 7 Conclusio (Milestone 7)         :crit, s3, 2026-02-11, 2026-02-17
+  Kap. 2 Theorieteil (Milestone 2)       :      s4, 2026-02-18, 2026-02-24
+  Kap. 4 Methodologie (Milestone 4)      :      s5, 2026-02-25, 2026-03-03
+  Kap. 3 Forschungsgegenstand (Milestone 3) :   s6, 2026-03-04, 2026-03-10
+  Kap. 1 Einleitung (Milestone 1)        :      s7, 2026-03-11, 2026-03-17
+
+  section Abschluss
+  Gesamt-Korrektur, Layout, Voll-PDF      :crit, s8, 2026-03-18, 2026-03-20
+```
+
+## PDF Build
+
+Voraussetzungen (lokal installiert): `pandoc`, `pandoc-crossref`, `latexmk` und XeLaTeX.
+
+- Fast build (Standard): `./build-dissertation.sh` oder `./build-dissertation.sh fast`
+- Full build (inkl. großer Anhänge): `./build-dissertation.sh full`
+
+## Zotero: Tags nach Kapitel/Abschnitt
+
+Um in Zotero zu sehen, **in welchen Abschnitten (`{#sec:...}`)** eine Quelle zitiert wird, kann das Tool `tools/zotero_tag_sections.py` die **Parent-Items** automatisch mit Tags wie `Promotion:sec:Beduerfnisse` versehen (aus den Pandoc-Citekeys in den Markdown-Kapiteln + den Zotero-Storage-Keys im `.bib`).
+
+- Audit/Dry Run (ohne Zotero-Schreibzugriff): `python3 tools/zotero_tag_sections.py --library-id <USER_ID> --citekeys-only`
+- Dry Run mit API-Resolve (ohne Schreiben, erzeugt Report): `python3 tools/zotero_tag_sections.py --library-id <USER_ID>`
+- Schreiben aktivieren: `python3 tools/zotero_tag_sections.py --library-id <USER_ID> --apply`
+
+API-Key: entweder per Prompt, oder via Env-Var `ZOTERO_API_KEY`.
+Tag-Schema: Standard ist `Promotion:sec:...`; alternativ z. B. `--tag-prefix "Promotion:#"` für `Promotion:#sec:...`.
