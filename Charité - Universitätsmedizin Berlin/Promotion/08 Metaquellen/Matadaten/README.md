@@ -114,7 +114,7 @@ cd "/Users/jochenhanisch-johannsen/Documents/Allgemein beruflich/Research/Charit
 
 - Markdown bleibt die Quellform. Absätze werden durch Leerzeilen getrennt, damit Pandoc sie korrekt erkennt.
 - Einige Raw-LaTeX-Elemente, etwa `\hyperref`, rendern erst im PDF vollständig.
-- Frontmatter bleibt in `dissertation.md`; Einzelkapitel starten ohne eigenes YAML.
+- `dissertation.md` enthält das technische Pandoc-Frontmatter. Einzelne Markdown-Dateien tragen zusätzlich ein Verwaltungs-YAML mit Feldern wie `author`, `title`, `versioned`, `created`, `updated` und `publish`. Dieses Verwaltungs-YAML darf nicht mit der Pandoc-Steuerung verwechselt werden.
 - UTF-8 nutzen; Pfade im Markdown immer relativ zum Projektroot halten.
 
 ## 11. Crossrefs und Hyperlinks

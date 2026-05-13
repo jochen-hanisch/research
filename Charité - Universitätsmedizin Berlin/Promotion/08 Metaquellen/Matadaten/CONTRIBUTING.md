@@ -39,9 +39,9 @@ Dieses Projekt entsteht in Markdown und wird mit Pandoc + XeLaTeX gebaut. Die fo
 - Verweise: bevorzugt `\hyperref[label]{...}` für Abschnitte, Abbildungen und Tabellen; Gleichungen mit `\eqref{eq:mass}`.
 - Zitationen: CSL via `citeproc`. Inline `@quelle_2024` (eingebettet im Satz), parenthetisch `[@quelle_2024, Seite 4–5]`; Kapitelangaben z.B. `[@doring_forschungsmethoden_2023, Kapitel 10.6]`.
 - Hyperrefs: Beispiel Abschnitt `\hyperref[sec:4-3]{Abschnitt 4.3}`, Abbildung `\hyperref[fig:xyz]{Abbildung xyz}`, Tabelle `\hyperref[tab:xyz]{Tabelle xyz}`.
-- Markdown-Absätze durch Leerzeilen trennen, damit Pandoc sie korrekt erkennt; YAML-Frontmatter nur in `dissertation.md`.
+- Markdown-Absätze durch Leerzeilen trennen, damit Pandoc sie korrekt erkennt. `dissertation.md` enthält das technische Pandoc-Frontmatter; einzelne Markdown-Dateien tragen zusätzlich Verwaltungs-YAML.
 - Mermaid bleibt als Codeblock, zählt nicht als Abbildung.
-- YAML-Frontmatter nur in `dissertation.md`; Einzelkapitel starten ohne eigenes YAML.
+- Verwaltungs-YAML in Einzeldateien enthält Metadaten wie `versioned`, `created`, `updated` und `publish`. Pandoc-relevante Steuerfelder bleiben in `dissertation.md`.
 - UTF-8, keine Emojis; Leerzeilen zwischen Absätzen, keine Hardwraps erzwingen.
 - Pandoc/YAML-Defaults: global in `dissertation.md` (XeLaTeX, STIX-Schriften, csquotes, hyperref, draft watermark, 1,5-zeilig).
 - Build-Filter: `pandoc-crossref` + `citeproc`, CSL-Datei `08 Metaquellen/Matadaten/apa-no-initials.csl`, Bibliographie `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`.
@@ -58,5 +58,7 @@ Dieses Projekt entsteht in Markdown und wird mit Pandoc + XeLaTeX gebaut. Die fo
 - Stil: längere, kohärente Satzstrukturen, keine „nicht … sondern“-Formulierungen, konsistenter Verweis- und Zitationsstil.
 
 ## Daten und Skripte
-- Skripte und Analysen (z.B. Python, Notebook) sind extern versioniert; hier nur Verweise/Pfade nutzen.
-- Keine großen Binärdateien oder sensiblen Daten ins Repo einchecken.
+- Skripte und Analysen liegen im Promotionsordner unter `08 Metaquellen/08-05 Quellcodes/`; veröffentlichte Softwarestände sind dort zusätzlich als Zenodo-Paketordner dokumentiert.
+- Kuratierte Datensets liegen unter `08 Metaquellen/08-04 Daten/Datenset/`.
+- Keine großen Binärdateien, sensiblen Rohdaten oder temporären Exporte pauschal ins Repo einchecken.
+- Vor Skriptläufen Konfiguration, Eingabedaten, Exportpfade und externe Module prüfen.
