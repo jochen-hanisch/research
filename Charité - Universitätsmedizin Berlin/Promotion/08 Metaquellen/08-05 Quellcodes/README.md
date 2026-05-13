@@ -33,7 +33,7 @@ Besonders zu beachten:
 
 ## Herkunft aus `charite-promotion`
 
-Die Literaturanalyseskripte wurden gegen das frühere GitHub-Repository `https://github.com/jochen-hanisch/charite-promotion` geprüft. Das alte Repository enthielt insbesondere:
+Die Literaturanalyseskripte wurden gegen das frühere GitHub-Repository `https://github.com/jochen-hanisch/charite-promotion` geprüft. Die Historie dieses früheren Repositories ist im Research-Repo verbunden und auf die heutigen Pfade unter `08 Metaquellen/08-05 Quellcodes/` abgebildet. Der aktuelle iCloud-Stand bleibt dabei inhaltlich maßgeblich. Das alte Repository enthielt insbesondere:
 
 - `Systematische Literaturrecherche/analyse_korrelation.py`
 - `Systematische Literaturrecherche/analyse_netzwerk.py`
@@ -41,7 +41,7 @@ Die Literaturanalyseskripte wurden gegen das frühere GitHub-Repository `https:/
 - `Systematische Literaturrecherche/requirements.txt`
 - BibTeX-Zwischenstände unter `Systematische Literaturrecherche/Bibliothek/`
 
-Der aktuelle Promotionsordner führt die Skripte nun im Research-Repo unter `08 Metaquellen/08-05 Quellcodes/`. Die Anforderungen der alten Literaturanalyselinie sind in `requirements-literaturanalyse.txt` gesichert. BibTeX-Zwischenstände aus dem alten Repo werden nicht pauschal importiert; maßgeblich für den Pandoc-/Zotero-Workflow bleibt `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`, sofern nicht ausdrücklich eine historische Vergleichsbibliothek benötigt wird.
+Der aktuelle Promotionsordner führt die Skripte nun im Research-Repo unter `08 Metaquellen/08-05 Quellcodes/`. Die Anforderungen der alten Literaturanalyselinie sind in `requirements-literaturanalyse.txt` gesichert; der importierte historische Setup-Hinweis liegt ergänzend in `README.charite-promotion.md`. BibTeX-Zwischenstände aus dem alten Repo werden nicht pauschal importiert; maßgeblich für den Pandoc-/Zotero-Workflow bleibt `08 Metaquellen/Matadaten/Literaturverzeichnis.bib`, sofern nicht ausdrücklich eine historische Vergleichsbibliothek benötigt wird.
 
 ## Skriptmatrix
 
