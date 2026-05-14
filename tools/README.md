@@ -23,6 +23,7 @@ Dieser Ordner bündelt Research-weite Hilfswerkzeuge, die nicht an einen einzeln
 
 - `zotero/`: Zotero-API-, Zotero-SQLite-, Tagging-, Notiz- und Bibkey-Werkzeuge.
 - `pandoc/`: Lua-Filter für Pandoc-Builds.
+- `pandoc-templates/`: übernommene Pandoc-/Markdown-/Obsidian-Templates, CSL-Dateien, Beispielbibliografie und begleitende Medien aus dem früheren CloudDocs-Ordner `pandoc-templates`.
 - `pdf/`: PDF-nahe Hilfswerkzeuge.
 - `timewatcher.py`: lokales Kontrollwerkzeug für Arbeitszeit-/Sitzungsbeobachtung.
 
