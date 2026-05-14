@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+zotero_db_backups/
+zotero_promotion_section_*.csv
