@@ -8,7 +8,7 @@ This script is read-only. It aggregates:
 - GitHub issue metadata (via `gh`)
 
 Typical use (from repo root or any subdir):
-  python3 Promotion/tools/timewatcher.py
+  python3 tools/timewatcher.py
 """
 
 from __future__ import annotations
@@ -82,7 +82,7 @@ def detect_repo_slug(repo_override: str) -> str:
 IGNORE_GIT_STATUS_PATHS = {
     # This file is large and often auto-updated (e.g. by Zotero). It can create noisy
     # diffs and distract from writing-focused tracking, so we ignore it by default.
-    "Promotion/08 Metaquellen/Matadaten/Literaturverzeichnis.bib",
+    "Promotion/Dissertation/08 Metaquellen/08-06 Metadaten/Literaturverzeichnis.bib",
 }
 
 

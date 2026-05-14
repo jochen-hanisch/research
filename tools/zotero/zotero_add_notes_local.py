@@ -47,7 +47,7 @@ def main() -> int:
     parser.add_argument(
         "--backup-dir",
         default=os.path.join(os.path.dirname(__file__), "zotero_db_backups"),
-        help="Directory to write sqlite backups into (default: tools/zotero_db_backups)",
+        help="Directory to write sqlite backups into (default: tools/zotero/zotero_db_backups)",
     )
     parser.add_argument("--dry-run", action="store_true", help="Do not write anything, just print actions")
     args = parser.parse_args()
@@ -192,4 +192,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

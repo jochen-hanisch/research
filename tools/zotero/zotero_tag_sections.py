@@ -15,6 +15,7 @@ import urllib.request
 
 ZOTERO_API_BASE = "https://api.zotero.org"
 API_VERSION = "3"
+SCRIPT_DIR = os.path.dirname(__file__)
 
 
 SEC_ID_RE = re.compile(r"\{#(sec:[^}]+)\}")
@@ -201,7 +202,7 @@ def main() -> int:
     )
     ap.add_argument(
         "--bib",
-        default=os.path.join("08 Metaquellen", "Matadaten", "Literaturverzeichnis.bib"),
+        default=os.path.join("08 Metaquellen", "08-06 Metadaten", "Literaturverzeichnis.bib"),
         help="BibTeX file with citekeys and Zotero storage paths",
     )
     ap.add_argument(
@@ -237,8 +238,8 @@ def main() -> int:
     )
     ap.add_argument(
         "--out",
-        default=os.path.join("tools", "zotero_promotion_section_tags.csv"),
-        help="CSV output path (default: tools/zotero_promotion_section_tags.csv)",
+        default=os.path.join(SCRIPT_DIR, "zotero_promotion_section_tags.csv"),
+        help="CSV output path (default: tools/zotero/zotero_promotion_section_tags.csv)",
     )
     ap.add_argument(
         "--sleep",

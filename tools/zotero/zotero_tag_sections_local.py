@@ -125,7 +125,7 @@ def main() -> int:
     )
     ap.add_argument(
         "--bib",
-        default=os.path.join("08 Metaquellen", "Matadaten", "Literaturverzeichnis.bib"),
+        default=os.path.join("08 Metaquellen", "08-06 Metadaten", "Literaturverzeichnis.bib"),
         help="BibTeX file with citekeys and Zotero storage paths",
     )
     ap.add_argument(
@@ -136,7 +136,7 @@ def main() -> int:
     ap.add_argument(
         "--backup-dir",
         default=os.path.join(os.path.dirname(__file__), "zotero_db_backups"),
-        help="Directory to write sqlite backups into (default: tools/zotero_db_backups)",
+        help="Directory to write sqlite backups into (default: tools/zotero/zotero_db_backups)",
     )
     ap.add_argument(
         "--tag-prefix",
@@ -151,8 +151,8 @@ def main() -> int:
     ap.add_argument("--apply", action="store_true", help="Write tags (otherwise dry-run)")
     ap.add_argument(
         "--out",
-        default=os.path.join("tools", "zotero_promotion_section_tags.local.csv"),
-        help="CSV output path (default: tools/zotero_promotion_section_tags.local.csv)",
+        default=os.path.join(os.path.dirname(__file__), "zotero_promotion_section_tags.local.csv"),
+        help="CSV output path (default: tools/zotero/zotero_promotion_section_tags.local.csv)",
     )
     args = ap.parse_args()
     chapter_prefix = f"{args.tag_prefix}chap:"
