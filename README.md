@@ -1,3 +1,13 @@
+# Archiviert auf GitHub
+
+> Dieses GitHub-Repository ist archiviert.
+> Der aktuelle Arbeitsstand liegt auf git.jochen-hanisch.de: https://git.jochen-hanisch.de/research
+> Der fruehere Sammelbestand wurde in kanonische Research-Repositories auf git.jochen-hanisch.de ueberfuehrt.
+
+GitHub bleibt nur als historische Referenz erhalten. Neue Arbeit erfolgt nicht mehr hier.
+
+---
+
 # Überblick
 
 Dieser Ordner bündelt sämtliche Recherchen, Materialien und Arbeitsstände rund um laufende sowie geplante wissenschaftliche Projekte. Im Fokus stehen Quellenarbeit, Concept Notes, empirische Datensammlungen und begleitende Methodenverzeichnisse. Der Bereich dient in erster Linie dazu, Textgenerierungen reproduzierbar zu dokumentieren und kann entsprechend der Hinweise in den Begleitunterlagen nachvollzogen werden.
